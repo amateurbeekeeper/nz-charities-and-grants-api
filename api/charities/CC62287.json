@@ -1,0 +1,27 @@
+{
+  "id": 75832,
+  "registrationNumber": "CC62287",
+  "name": "Chatham Islands Landscape Restoration Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.chathamrestorationtrust.org.nz/",
+  "email": "info@chathamrestorationtrust.org.nz",
+  "address": {
+    "line1": "13 Waitangi Tuku Road",
+    "line2": " ",
+    "suburb": "Chatham Island",
+    "city": "Chatham Islands",
+    "postcode": "8016"
+  },
+  "nzbn": "9429052050312",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ChathamRestorationTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T23:01:37Z"
+}

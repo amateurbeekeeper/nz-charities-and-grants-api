@@ -1,0 +1,27 @@
+{
+  "id": 67904,
+  "registrationNumber": "CC54228",
+  "name": "One Church New Zealand Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.onechurch.nz",
+  "email": "ssunghans85@gmail.com",
+  "address": {
+    "line1": "90 Granville Drive",
+    "line2": " ",
+    "suburb": "Massey",
+    "city": "Auckland",
+    "postcode": "0614"
+  },
+  "nzbn": "9429045948961",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/onechurchnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:21:49Z"
+}

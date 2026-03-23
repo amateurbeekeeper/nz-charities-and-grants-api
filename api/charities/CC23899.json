@@ -1,0 +1,27 @@
+{
+  "id": 40458,
+  "registrationNumber": "CC23899",
+  "name": "Sport Waitakere Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tuiawaitakere.org.nz",
+  "email": "irina.lyanguzova@tuiawaitakere.org.nz",
+  "address": {
+    "line1": "545 Don Buck Road",
+    "line2": " ",
+    "suburb": "Westgate",
+    "city": "Auckland",
+    "postcode": "0614"
+  },
+  "nzbn": "9429043034710",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T22:00:07Z"
+}

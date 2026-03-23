@@ -1,0 +1,27 @@
+{
+  "id": 66757,
+  "registrationNumber": "CC22668",
+  "name": "Braemar Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.braemartrust.co.nz/",
+  "email": "paulab@braemartrust.co.nz",
+  "address": {
+    "line1": "24 Ohaupo Road",
+    "line2": "24 Ohaupo Road",
+    "suburb": "Hamilton Lake",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043007172",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BraemarTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T07:31:26Z"
+}

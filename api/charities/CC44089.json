@@ -1,0 +1,27 @@
+{
+  "id": 64077,
+  "registrationNumber": "CC44089",
+  "name": "Jar Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-04-28T00:00:00Z",
+  "dateDeregistered": "2018-07-31T00:00:00Z",
+  "website": "jartrust.co.nz",
+  "email": "w.curnow@auckland.ac.nz",
+  "address": {
+    "line1": "9A Lake Road",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "627"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-08-19T19:48:00Z"
+}

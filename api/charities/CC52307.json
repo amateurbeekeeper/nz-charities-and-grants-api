@@ -1,0 +1,27 @@
+{
+  "id": 66036,
+  "registrationNumber": "CC52307",
+  "name": "The Events Network Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tent.org.nz",
+  "email": "info@tent.org.nz",
+  "address": {
+    "line1": "42 Hoterini Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ohope",
+    "postcode": "3121"
+  },
+  "nzbn": "9429046011190",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EBOPCommunityNetwork/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T22:25:17Z"
+}

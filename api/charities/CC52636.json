@@ -1,0 +1,27 @@
+{
+  "id": 66369,
+  "registrationNumber": "CC52636",
+  "name": "Supertonic Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-10-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.supertonic.org.nz",
+  "email": "info@supertonic.org.nz",
+  "address": {
+    "line1": "27 Wright Street",
+    "line2": " ",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043263271",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/supertonicnz/",
+    "twitter": "twitter.com/SupertonicChoir"
+  },
+  "lastUpdated": "2025-12-15T04:30:20Z"
+}

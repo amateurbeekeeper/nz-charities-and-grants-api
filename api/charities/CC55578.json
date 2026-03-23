@@ -1,0 +1,27 @@
+{
+  "id": 69226,
+  "registrationNumber": "CC55578",
+  "name": "Harbour Montessori Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://harbour.school.nz/",
+  "email": "f.j.joung@gmail.com",
+  "address": {
+    "line1": "10 William Pitcher Place",
+    "line2": " ",
+    "suburb": "Greenhithe",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429046898791",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:03:29Z"
+}

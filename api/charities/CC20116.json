@@ -1,0 +1,27 @@
+{
+  "id": 52680,
+  "registrationNumber": "CC20116",
+  "name": "South Pacific College Of Natural Medicine Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-11-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.spcnm.ac.nz",
+  "email": "becsgeorge@hotmail.com",
+  "address": {
+    "line1": "12 Arthur Street",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042731016",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-18T03:50:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75226,
+  "registrationNumber": "CC61659",
+  "name": "JMS Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "michelle.saluni@jmsaccounting.co.nz",
+  "address": {
+    "line1": "9 Dallas Court",
+    "line2": " ",
+    "suburb": "Miramar",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:20:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42504,
+  "registrationNumber": "CC35895",
+  "name": "Catholic Enquiry Centre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.catholicenquiry.nz",
+  "email": "secretariat@nzcbc.org.nz",
+  "address": {
+    "line1": "Level 5",
+    "line2": "204 Thorndon Quay",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/catholicdiscovery.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:51Z"
+}

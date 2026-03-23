@@ -1,0 +1,27 @@
+{
+  "id": 54768,
+  "registrationNumber": "CC31649",
+  "name": "Te Whanau O Waipareira Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waipareira.com",
+  "email": "John.Tamihere@waiwhanau.com",
+  "address": {
+    "line1": "6 Pioneer Street",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429042848837",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T02:03:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66875,
+  "registrationNumber": "CC53153",
+  "name": "Catholic Parish of Wairarapa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wairarapacatholicparish.org ",
+  "email": "denise@wairarapacatholics.nz",
+  "address": {
+    "line1": "164 Dixon Street",
+    "line2": " ",
+    "suburb": "Masterton",
+    "city": "Masterton",
+    "postcode": "5840"
+  },
+  "nzbn": "9429049984392",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-19T21:16:11Z"
+}

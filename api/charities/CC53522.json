@@ -1,0 +1,27 @@
+{
+  "id": 67235,
+  "registrationNumber": "CC53522",
+  "name": "Simplicity Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://simplicity.kiwi/about-us/our-foundation",
+  "email": "rebecca.roberts@simplicity.kiwi",
+  "address": {
+    "line1": "Level 4",
+    "line2": "Deloitte House, 20 Customhouse Quay",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043293506",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T02:16:48Z"
+}

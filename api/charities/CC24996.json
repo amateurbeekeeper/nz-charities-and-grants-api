@@ -1,0 +1,27 @@
+{
+  "id": 42214,
+  "registrationNumber": "CC24996",
+  "name": "South Dunedin Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.southdunedinbaptist.org",
+  "email": "fiona.keightley@xtra.co.nz",
+  "address": {
+    "line1": "414 King Edward Street",
+    "line2": " ",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-10T06:20:02Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 62447,
+  "registrationNumber": "CC37077",
+  "name": "Waitemata Community Law Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-01-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waitematalaw.org.nz",
+  "email": "manager@waitematalaw.org.nz",
+  "address": {
+    "line1": "1 Trading Place",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429043075102",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wailawyers",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T01:54:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38160,
+  "registrationNumber": "CC46403",
+  "name": "Paraparaumu Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pb.org.nz",
+  "email": "graemejoyes@gmail.com",
+  "address": {
+    "line1": "77 Ruapehu Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/paraparaumubaptist",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T22:51:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 76251,
+  "registrationNumber": "CC62622",
+  "name": "Artworks Theatre Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.artworkstheatre.org.nz/",
+  "email": "info@artworkstheatre.org.nz",
+  "address": {
+    "line1": "2 Korora Road",
+    "line2": " ",
+    "suburb": "Oneroa",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:15:18Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37824,
+  "registrationNumber": "CC48081",
+  "name": "Western Magpies Softball Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sporty.co.nz/westernmagpies",
+  "email": "admin@westernmagpies.org.nz",
+  "address": {
+    "line1": "BRAINS PARK",
+    "line2": "9A Tamariki Avenue",
+    "suburb": "Kelston",
+    "city": "Auckland",
+    "postcode": "602"
+  },
+  "nzbn": "9429043199433",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Western Magpies Softball Club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-11T07:05:23Z"
+}

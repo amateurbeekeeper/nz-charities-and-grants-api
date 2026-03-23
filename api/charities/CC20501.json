@@ -1,0 +1,27 @@
+{
+  "id": 53415,
+  "registrationNumber": "CC20501",
+  "name": "He Waka Tapu Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hewakatapu.org.nz",
+  "email": "finance@hewakatapu.org.nz",
+  "address": {
+    "line1": "161 Pages Road",
+    "line2": "Aranui",
+    "suburb": "Wainoni",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429036988327",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hewakatapunz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T02:16:13Z"
+}

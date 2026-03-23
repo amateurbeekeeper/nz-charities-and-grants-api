@@ -1,0 +1,27 @@
+{
+  "id": 52420,
+  "registrationNumber": "CC11211",
+  "name": "School Attendance Service Hamilton Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2007-09-25T00:00:00Z",
+  "dateDeregistered": "2015-05-10T00:00:00Z",
+  "website": null,
+  "email": "jim.church@sash.org.nz",
+  "address": {
+    "line1": "SASH",
+    "line2": "72 Ellicott Road",
+    "suburb": "Nawton",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429042913979",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T00:35:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 36219,
+  "registrationNumber": "CC45393",
+  "name": "City Impact Church Mt Wellington",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "graham.burger@cityimpactchurch.com",
+  "address": {
+    "line1": "794 East Coast Road",
+    "line2": " ",
+    "suburb": "Oteha",
+    "city": "Auckland",
+    "postcode": "630"
+  },
+  "nzbn": "9429043194179",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T04:11:34Z"
+}

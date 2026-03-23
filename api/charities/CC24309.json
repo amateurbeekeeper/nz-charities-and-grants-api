@@ -1,0 +1,27 @@
+{
+  "id": 41100,
+  "registrationNumber": "CC24309",
+  "name": "King Street Artworks Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://kingstreetartworks.co.nz/",
+  "email": "kingst@kingstreetartworks.co.nz",
+  "address": {
+    "line1": "16 Queen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429042940692",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/King-Street-Artworks-135901559772748",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T23:17:15Z"
+}

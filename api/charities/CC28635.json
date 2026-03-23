@@ -1,0 +1,27 @@
+{
+  "id": 46661,
+  "registrationNumber": "CC28635",
+  "name": "Birkenhead Volunteer Fire Brigade Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lene.erasmus@fireandemergency.nz",
+  "address": {
+    "line1": "23 Chatswood Grove",
+    "line2": " ",
+    "suburb": "Chatswood",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429043122660",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/birkenheadfire/?ref=bookmarks",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-16T20:19:11Z"
+}

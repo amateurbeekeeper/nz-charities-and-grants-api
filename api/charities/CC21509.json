@@ -1,0 +1,27 @@
+{
+  "id": 55377,
+  "registrationNumber": "CC21509",
+  "name": "Bone Marrow Cancer Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bmct.org.nz",
+  "email": "mandy@bmct.org.nz",
+  "address": {
+    "line1": "RANUI HOUSE",
+    "line2": "1 Cambridge Terrace",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042745624",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ranuihouse",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T01:03:51Z"
+}

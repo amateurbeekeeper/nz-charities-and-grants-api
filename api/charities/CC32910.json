@@ -1,0 +1,27 @@
+{
+  "id": 45015,
+  "registrationNumber": "CC32910",
+  "name": "The Tasman Broadcasting Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.freshfm.co.nz",
+  "email": "matt@freshfm.co.nz",
+  "address": {
+    "line1": "87 Atawhai Drive",
+    "line2": " ",
+    "suburb": "The Wood",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042995807",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/freshfm.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T03:55:46Z"
+}

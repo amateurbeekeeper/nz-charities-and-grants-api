@@ -1,0 +1,27 @@
+{
+  "id": 62322,
+  "registrationNumber": "CC40986",
+  "name": "Chatham Islands Management Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.chathams.co.nz",
+  "email": "accounts@cietrust.co.nz",
+  "address": {
+    "line1": "Owenga Road",
+    "line2": "Sandstone",
+    "suburb": " ",
+    "city": "Chatham Islands",
+    "postcode": "8942"
+  },
+  "nzbn": "9429039006820",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T20:56:49Z"
+}

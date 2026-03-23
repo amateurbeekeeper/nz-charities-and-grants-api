@@ -1,0 +1,27 @@
+{
+  "id": 33558,
+  "registrationNumber": "CC49732",
+  "name": "FROMMS Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fromms@mms.school.nz",
+  "address": {
+    "line1": "399 Makara Road",
+    "line2": "RD 2",
+    "suburb": "Makara",
+    "city": "Karori",
+    "postcode": "6972"
+  },
+  "nzbn": "9429043252244",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-13T19:11:45Z"
+}

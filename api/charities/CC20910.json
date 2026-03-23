@@ -1,0 +1,27 @@
+{
+  "id": 54231,
+  "registrationNumber": "CC20910",
+  "name": "Bach Musica NZ Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bachmusica.com",
+  "email": "frank@siegers.co.nz",
+  "address": {
+    "line1": "68 Daffodil Street",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429042584735",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T23:11:31Z"
+}

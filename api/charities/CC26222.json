@@ -1,0 +1,27 @@
+{
+  "id": 41712,
+  "registrationNumber": "CC26222",
+  "name": "West Baptist Community Church (New Plymouth)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.westbaptist.org.nz",
+  "email": "treasurer@westbaptist.org.nz",
+  "address": {
+    "line1": "144 South Road",
+    "line2": " ",
+    "suburb": "Spotswood",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:55:57Z"
+}

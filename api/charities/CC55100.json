@@ -1,0 +1,27 @@
+{
+  "id": 68762,
+  "registrationNumber": "CC55100",
+  "name": "Wormwise Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-10-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://wormwise.co.nz",
+  "email": "dan.brier@beeflambnz.com",
+  "address": {
+    "line1": "154 Featherston Street",
+    "line2": "Level 4",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043294916",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wormwisenz",
+    "twitter": "https://twitter.com/wormwisenz"
+  },
+  "lastUpdated": "2026-02-26T19:22:04Z"
+}

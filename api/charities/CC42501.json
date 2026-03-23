@@ -1,0 +1,27 @@
+{
+  "id": 46884,
+  "registrationNumber": "CC42501",
+  "name": "Sumner Surf and Life Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "accounts@sumnerslsc.co.nz",
+  "address": {
+    "line1": "305 Main Road",
+    "line2": " ",
+    "suburb": "Clifton",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": "9429042837251",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T22:45:11Z"
+}

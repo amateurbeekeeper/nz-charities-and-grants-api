@@ -1,0 +1,27 @@
+{
+  "id": 58305,
+  "registrationNumber": "CC26196",
+  "name": "Bluff Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "prochild@slingshot.co.nz",
+  "address": {
+    "line1": "56 Foyle Street",
+    "line2": "Bluff 9814",
+    "suburb": " ",
+    "city": "Bluff",
+    "postcode": "9814"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:07:03Z"
+}

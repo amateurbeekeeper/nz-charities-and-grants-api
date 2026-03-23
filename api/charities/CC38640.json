@@ -1,0 +1,27 @@
+{
+  "id": 43245,
+  "registrationNumber": "CC38640",
+  "name": "St Albans Tennis Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stalbanstennis.co.nz",
+  "email": "info@stalbanstennis.co.nz",
+  "address": {
+    "line1": "37 Dover Street",
+    "line2": "St Albans",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429042731801",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/p/St-Albans-Tennis-Club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-08T19:41:12Z"
+}

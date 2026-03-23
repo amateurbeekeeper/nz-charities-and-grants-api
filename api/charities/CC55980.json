@@ -1,0 +1,27 @@
+{
+  "id": 69625,
+  "registrationNumber": "CC55980",
+  "name": "Latimer Church Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.latimerchurch.nz",
+  "email": "rachal.aspinall@gmail.com",
+  "address": {
+    "line1": "12 Berwick Street",
+    "line2": " ",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429046945808",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T04:29:08Z"
+}

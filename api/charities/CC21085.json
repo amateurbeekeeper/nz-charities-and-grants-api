@@ -1,0 +1,27 @@
+{
+  "id": 54732,
+  "registrationNumber": "CC21085",
+  "name": "Westport Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "westporttoylibrary@gmail.com",
+  "address": {
+    "line1": "48 Cobden Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Westport",
+    "postcode": "7825"
+  },
+  "nzbn": "9429043086801",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Westport-Toy-Library-483126015095613/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:20:25Z"
+}

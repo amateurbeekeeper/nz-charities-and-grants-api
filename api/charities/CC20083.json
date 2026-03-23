@@ -1,0 +1,27 @@
+{
+  "id": 55794,
+  "registrationNumber": "CC20083",
+  "name": "Academy Of Diving Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.academyofdiving.ac.nz",
+  "email": "wendy@academyofdiving.ac.nz",
+  "address": {
+    "line1": "70 Clifton Terrace",
+    "line2": " ",
+    "suburb": "Fitzherbert",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042988502",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T00:06:41Z"
+}

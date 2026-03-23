@@ -1,0 +1,27 @@
+{
+  "id": 75388,
+  "registrationNumber": "CC61829",
+  "name": "Math Kauri Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stockdalefarm.co.nz/",
+  "email": "heather.kauri@stockdalefarm.co.nz",
+  "address": {
+    "line1": "2A Mt Cecil Road",
+    "line2": "RD 1",
+    "suburb": "Moonshine Valley",
+    "city": "Porirua",
+    "postcode": "5381"
+  },
+  "nzbn": "9429047564688",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/StockdaleEquineFarm",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-29T21:42:29Z"
+}

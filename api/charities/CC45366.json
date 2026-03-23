@@ -1,0 +1,27 @@
+{
+  "id": 36144,
+  "registrationNumber": "CC45366",
+  "name": "Ngati Kahungunu Iwi Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-09-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kahungunu.iwi.nz",
+  "email": "hine@kahungunu.iwi.nz",
+  "address": {
+    "line1": "304 Fitzroy Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429042844389",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kahungunu/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T23:18:52Z"
+}

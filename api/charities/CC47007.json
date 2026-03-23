@@ -1,0 +1,27 @@
+{
+  "id": 62586,
+  "registrationNumber": "CC47007",
+  "name": "Te Poho O Matapihi Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-07-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chris@ngatiapa.iwi.nz",
+  "address": {
+    "line1": "22 Wikitoria Road",
+    "line2": " ",
+    "suburb": "Putiki",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429043132324",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T19:38:06Z"
+}

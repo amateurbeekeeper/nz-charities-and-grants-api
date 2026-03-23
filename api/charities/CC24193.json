@@ -1,0 +1,27 @@
+{
+  "id": 55541,
+  "registrationNumber": "CC24193",
+  "name": "Havelock North Community Patrol Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cpnz.org.nz",
+  "email": "havelocknorthcp@gmail.com",
+  "address": {
+    "line1": "27 Havelock Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Havelock North",
+    "postcode": "4130"
+  },
+  "nzbn": "9429043142163",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=havelock%20north%20community%20patrol",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T22:50:54Z"
+}

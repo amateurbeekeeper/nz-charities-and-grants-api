@@ -1,0 +1,27 @@
+{
+  "id": 74566,
+  "registrationNumber": "CC60985",
+  "name": "Te Araroa Auckland Tamaki Makaurau Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-02-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teararoa.org.nz",
+  "email": "auckland@teararoa.org.nz",
+  "address": {
+    "line1": "100 Willis Street",
+    "line2": "Level 15",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429051037185",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/people/Te-Araroa-Auckland-T%C4%81maki-Makaurau-Trust/61579011210300/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T01:31:11Z"
+}

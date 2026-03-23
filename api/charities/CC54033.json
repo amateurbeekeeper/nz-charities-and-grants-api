@@ -1,0 +1,27 @@
+{
+  "id": 67724,
+  "registrationNumber": "CC54033",
+  "name": "Te Poāri A Pukekura",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-01-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "monique@bbas.co.nz",
+  "address": {
+    "line1": "265 Princes Street",
+    "line2": " Conservation House",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043303373",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T21:57:07Z"
+}

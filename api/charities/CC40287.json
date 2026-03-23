@@ -1,0 +1,27 @@
+{
+  "id": 62236,
+  "registrationNumber": "CC40287",
+  "name": "Civic Trust Auckland",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.civictrustauckland.org.nz",
+  "email": "cta@civictrustauckland.org.nz",
+  "address": {
+    "line1": "5C St James Apts",
+    "line2": "28 Wellesley St East",
+    "suburb": "CBD",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042613305",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CivicTrustAuckland/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T18:20:55Z"
+}

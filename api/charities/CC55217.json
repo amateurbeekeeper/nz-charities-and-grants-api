@@ -1,0 +1,27 @@
+{
+  "id": 68874,
+  "registrationNumber": "CC55217",
+  "name": "New Zealand Fire Brigades' Institute",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzfirebrigadesinstitute.org",
+  "email": "info.nzfbi@gmail.com",
+  "address": {
+    "line1": "677 Bangor Road",
+    "line2": "RD 1",
+    "suburb": null,
+    "city": "Darfield",
+    "postcode": "7571"
+  },
+  "nzbn": "9429042686446",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/firebrigadesinstitute/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-07T23:14:16Z"
+}

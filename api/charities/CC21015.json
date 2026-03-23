@@ -1,0 +1,27 @@
+{
+  "id": 54696,
+  "registrationNumber": "CC21015",
+  "name": "Waitara Foodbank - Pataka Kai",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kcflett@gmail.com",
+  "address": {
+    "line1": "5 West Quay",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waitara",
+    "postcode": "4320"
+  },
+  "nzbn": "9429043133215",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FoodbankWaitara/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T21:47:33Z"
+}

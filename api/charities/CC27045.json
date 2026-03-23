@@ -1,0 +1,27 @@
+{
+  "id": 57755,
+  "registrationNumber": "CC27045",
+  "name": "Scots College Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "marina.cook@scotscollege.school.nz",
+  "address": {
+    "line1": "1 Monorgan Road",
+    "line2": " ",
+    "suburb": "Strathmore Park",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429042740261",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-10T03:06:07Z"
+}

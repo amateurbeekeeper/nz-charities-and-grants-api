@@ -1,0 +1,27 @@
+{
+  "id": 32688,
+  "registrationNumber": "CC48811",
+  "name": "Ardour Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ardournz.org",
+  "email": "ardournz@outlook.com",
+  "address": {
+    "line1": "14A Shaftesbury Street",
+    "line2": " ",
+    "suburb": "Avonhead",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429043303731",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/Ardour.Charitable",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T21:32:31Z"
+}

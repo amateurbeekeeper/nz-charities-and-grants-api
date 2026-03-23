@@ -1,0 +1,27 @@
+{
+  "id": 33065,
+  "registrationNumber": "CC48992",
+  "name": "Amberley Christian Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "inspirechurchamberley.org.nz",
+  "email": "inspirechurchamberley@gmail.com",
+  "address": {
+    "line1": "27 MacKenzies Road",
+    "line2": "RD 3",
+    "suburb": "Waipara",
+    "city": "Amberley",
+    "postcode": "7483"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/InspireChurchAmberley/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-17T19:14:14Z"
+}

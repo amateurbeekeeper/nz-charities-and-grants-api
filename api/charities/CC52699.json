@@ -1,0 +1,27 @@
+{
+  "id": 66430,
+  "registrationNumber": "CC52699",
+  "name": "Anglican Diocese of Christchurch - Parish of Hororata",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "macksdowns12@gmail.com",
+  "address": {
+    "line1": "224 Hororata Road",
+    "line2": "RD 2",
+    "suburb": "Hororata",
+    "city": "Darfield",
+    "postcode": "7572"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T22:45:48Z"
+}

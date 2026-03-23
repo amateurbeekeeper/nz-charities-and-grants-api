@@ -1,0 +1,27 @@
+{
+  "id": 78348,
+  "registrationNumber": "CC64159",
+  "name": "MITO Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-08-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "mito.org.nz",
+  "email": "verna.niao@mito.org.nz",
+  "address": {
+    "line1": "50 Customhouse Quay",
+    "line2": null,
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429053030658",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T21:07:14Z"
+}

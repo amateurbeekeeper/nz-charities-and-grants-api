@@ -1,0 +1,27 @@
+{
+  "id": 66666,
+  "registrationNumber": "CC52935",
+  "name": "Pohutukawa Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-02-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "liz.swanston@hampton.co.nz",
+  "address": {
+    "line1": "Apartment 5D",
+    "line2": "6 Park Street",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-23T19:38:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38022,
+  "registrationNumber": "CC47785",
+  "name": "Envisage Now Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.envisagenow.org",
+  "email": "bernhard.wewege@gmail.com",
+  "address": {
+    "line1": "8 Starwood Lane",
+    "line2": " ",
+    "suburb": "Clifton",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/envisagenowBC/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T19:20:57Z"
+}

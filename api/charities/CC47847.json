@@ -1,0 +1,27 @@
+{
+  "id": 37945,
+  "registrationNumber": "CC47847",
+  "name": "Tambourine Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-06-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tambourine.org.nz",
+  "email": "grantbayldon@gmail.com",
+  "address": {
+    "line1": "24 Louvain Avenue",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429043152216",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T18:03:55Z"
+}

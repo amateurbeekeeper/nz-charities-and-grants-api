@@ -1,0 +1,27 @@
+{
+  "id": 62456,
+  "registrationNumber": "CC36032",
+  "name": "Watercolour New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.watercolournewzealand.nz",
+  "email": "treasurer@watercolournewzealand.nz",
+  "address": {
+    "line1": "19 Udy Street",
+    "line2": " ",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": "9429042886242",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://facebook.com/WatercolourNewZealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T00:21:40Z"
+}

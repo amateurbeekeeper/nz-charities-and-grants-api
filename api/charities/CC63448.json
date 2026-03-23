@@ -1,0 +1,27 @@
+{
+  "id": 77648,
+  "registrationNumber": "CC63448",
+  "name": "West Open Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sysbc0703@gmail.com",
+  "address": {
+    "line1": "40 Kirrie Avenue",
+    "line2": " ",
+    "suburb": "Te Atatu South",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T10:15:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 59940,
+  "registrationNumber": "CC27688",
+  "name": "Moera Community House Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "james@uep.co.nz",
+  "address": {
+    "line1": "105A Randwick Crescent",
+    "line2": " ",
+    "suburb": "Moera",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429042764120",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MoeraCommunityHouse",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T06:31:47Z"
+}

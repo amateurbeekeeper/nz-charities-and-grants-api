@@ -1,0 +1,27 @@
+{
+  "id": 59369,
+  "registrationNumber": "CC29495",
+  "name": "The Physiological Society of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.physoc.org.nz/",
+  "email": "joanne.davidson@auckland.ac.nz",
+  "address": {
+    "line1": "Department Of Physiology",
+    "line2": "Faculty Of Medical And Health Sciences",
+    "suburb": "Park Road, Grafton",
+    "city": "Auckland",
+    "postcode": "1142"
+  },
+  "nzbn": "9429042783008",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T18:19:23Z"
+}

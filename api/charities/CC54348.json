@@ -1,0 +1,27 @@
+{
+  "id": 68030,
+  "registrationNumber": "CC54348",
+  "name": "Whakaara Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-02-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.inspireineducation.co.nz",
+  "email": "adriana@adaptac.co.nz",
+  "address": {
+    "line1": "Level One",
+    "line2": "8 Porter Drive",
+    "suburb": " ",
+    "city": "Havelock North",
+    "postcode": "4157"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-09-20T00:34:08Z"
+}

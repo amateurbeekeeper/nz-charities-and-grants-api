@@ -1,0 +1,27 @@
+{
+  "id": 56057,
+  "registrationNumber": "CC21683",
+  "name": "Totara Hospice ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hospice.co.nz",
+  "email": "tina.mccafferty@hospice.co.nz",
+  "address": {
+    "line1": "140 Charles Prevost Drive",
+    "line2": " ",
+    "suburb": "The Gardens",
+    "city": "Auckland",
+    "postcode": "2105"
+  },
+  "nzbn": "9429042725381",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T00:53:49Z"
+}

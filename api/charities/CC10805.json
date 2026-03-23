@@ -1,0 +1,27 @@
+{
+  "id": 52488,
+  "registrationNumber": "CC10805",
+  "name": "The Parenting Place Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2007-08-08T00:00:00Z",
+  "dateDeregistered": "2018-03-05T00:00:00Z",
+  "website": "www.theparentingplace.com",
+  "email": "mary.hockey@parentingplace.nz",
+  "address": {
+    "line1": "LEVEL 2",
+    "line2": "300 Great South Road",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042801948",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "Facebook.com/theparentingplace",
+    "twitter": null
+  },
+  "lastUpdated": "2018-12-11T22:35:00Z"
+}

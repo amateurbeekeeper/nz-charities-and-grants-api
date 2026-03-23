@@ -1,0 +1,27 @@
+{
+  "id": 47867,
+  "registrationNumber": "CC30016",
+  "name": "Waitakere City Athletic Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wcac.org.nz",
+  "email": "andrew.scott@uhyhn.co.nz",
+  "address": {
+    "line1": "65-67 Central Park Drive",
+    "line2": "65 Central Park Drive",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429042888468",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waitakereathleticsclub/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:01:41Z"
+}

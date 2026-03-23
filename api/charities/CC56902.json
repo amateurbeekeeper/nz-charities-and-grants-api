@@ -1,0 +1,27 @@
+{
+  "id": 70535,
+  "registrationNumber": "CC56902",
+  "name": "North West Toy Library Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.toylibrary.co.nz/find-toy-library/northland-auckland/auckland/north-west-toy-library/",
+  "email": "isabellesimmons124@gmail.com",
+  "address": {
+    "line1": "West Harbour Tennis Club",
+    "line2": "Picasso Drive, , Waitakere 0618",
+    "suburb": " West Harbour",
+    "city": "Auckland",
+    "postcode": "0618"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/North-West-Toy-Library-378904235998816/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T00:45:52Z"
+}

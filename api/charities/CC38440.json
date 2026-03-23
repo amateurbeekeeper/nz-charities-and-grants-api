@@ -1,0 +1,27 @@
+{
+  "id": 62021,
+  "registrationNumber": "CC38440",
+  "name": "Tamahere Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-10T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/tamahere/",
+  "email": "Tamahere@playcentre.org.nz",
+  "address": {
+    "line1": "57 Devine Road",
+    "line2": "RD 3",
+    "suburb": "Tamahere",
+    "city": "Hamilton",
+    "postcode": "3283"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TamaherePlaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T06:03:20Z"
+}

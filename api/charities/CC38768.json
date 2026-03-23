@@ -1,0 +1,27 @@
+{
+  "id": 60294,
+  "registrationNumber": "CC38768",
+  "name": "Wellington Study Group Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://wmc.nz",
+  "email": "jim@shaw.gen.nz",
+  "address": {
+    "line1": "31 Hobson Crescent",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042916772",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-20T07:20:21Z"
+}

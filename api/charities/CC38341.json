@@ -1,0 +1,27 @@
+{
+  "id": 63346,
+  "registrationNumber": "CC38341",
+  "name": "Q-Topia Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.qtopia.org.nz/",
+  "email": "sidney.wong@qtopia.org.nz",
+  "address": {
+    "line1": "213 Lichfield Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042999300",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/qtopianz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T20:09:50Z"
+}

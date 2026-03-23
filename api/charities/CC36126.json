@@ -1,0 +1,27 @@
+{
+  "id": 46263,
+  "registrationNumber": "CC36126",
+  "name": "Hamilton City Netball Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.netballhamilton.org.nz",
+  "email": "manager@netballhamilton.org.nz",
+  "address": {
+    "line1": "6 Moore Street",
+    "line2": " ",
+    "suburb": "Forest Lake",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429042885856",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/netballhamilton",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T22:15:21Z"
+}

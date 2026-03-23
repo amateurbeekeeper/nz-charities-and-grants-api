@@ -1,0 +1,27 @@
+{
+  "id": 34038,
+  "registrationNumber": "CC50352",
+  "name": "New Zealand Research Foundation of The Australian and New Zealand Head and Neck Cancer Society",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.headandneckcancer.org.nz",
+  "email": "swee.tan@gmri.org.nz",
+  "address": {
+    "line1": "C/o Baker Tilly Staples Rodway",
+    "line2": "Level 6, 95 Customhouse Quay",
+    "suburb": "Wellington",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T01:32:38Z"
+}

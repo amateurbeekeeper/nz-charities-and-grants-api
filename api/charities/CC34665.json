@@ -1,0 +1,27 @@
+{
+  "id": 42937,
+  "registrationNumber": "CC34665",
+  "name": "Chinese Methodist Church In New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cmcnz.org.nz",
+  "email": "rev.chan@acmc.nz",
+  "address": {
+    "line1": "37 Divich Avenue",
+    "line2": " ",
+    "suburb": "Te Atatu South",
+    "city": "Auckland",
+    "postcode": "610"
+  },
+  "nzbn": "9429043035229",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T21:35:38Z"
+}

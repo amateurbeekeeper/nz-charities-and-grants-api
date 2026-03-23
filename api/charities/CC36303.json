@@ -1,0 +1,27 @@
+{
+  "id": 40068,
+  "registrationNumber": "CC36303",
+  "name": "The Parininihi Ki Waitotara Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pkw.co.nz",
+  "email": "punaw@pkw.co.nz",
+  "address": {
+    "line1": "35 Leach Street",
+    "line2": "New Plymouth 4310",
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043322961",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Parininihi-ki-Waitotara-Incorporation-377456922465330/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T22:39:01Z"
+}

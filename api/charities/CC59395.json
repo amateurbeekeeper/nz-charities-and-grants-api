@@ -1,0 +1,27 @@
+{
+  "id": 73000,
+  "registrationNumber": "CC59395",
+  "name": "Maca Sports Leadership Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.mslct.org.nz",
+  "email": "macasportd@gmail.com",
+  "address": {
+    "line1": "48 Napier Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Havelock North",
+    "postcode": "4130"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MacaSportsL",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T01:57:52Z"
+}

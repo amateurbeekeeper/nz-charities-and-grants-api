@@ -1,0 +1,27 @@
+{
+  "id": 48416,
+  "registrationNumber": "CC37186",
+  "name": "Nursing Council of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nursingcouncil.org.nz",
+  "email": "maree@nursingcouncil.org.nz",
+  "address": {
+    "line1": "Level 5",
+    "line2": "22 Willeston Street",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429041912041",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T20:14:20Z"
+}

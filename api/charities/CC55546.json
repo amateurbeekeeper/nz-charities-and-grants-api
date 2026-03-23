@@ -1,0 +1,27 @@
+{
+  "id": 69203,
+  "registrationNumber": "CC55546",
+  "name": "Arthritis New Zealand (Mateponapona Aotearoa)",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://arthritis.org.nz",
+  "email": "lorna.gardiner@arthritis.org.nz",
+  "address": {
+    "line1": "Level 2, Fullbright House,",
+    "line2": "120 Featherston Street",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429046968623",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T21:47:30Z"
+}

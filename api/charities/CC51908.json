@@ -1,0 +1,27 @@
+{
+  "id": 65652,
+  "registrationNumber": "CC51908",
+  "name": "Bethel Bible School of Theology",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "celia.porter@twoa.ac.nz",
+  "address": {
+    "line1": "23 Carrygawley Road",
+    "line2": " ",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:52Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33169,
+  "registrationNumber": "CC48574",
+  "name": "Garden City Orchestra Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.gardencityorchestra.org.nz",
+  "email": "gco.chch@gmail.com",
+  "address": {
+    "line1": "16 Camleigh Close",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaiapoi",
+    "postcode": "7630"
+  },
+  "nzbn": "9429043323746",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T22:36:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67581,
+  "registrationNumber": "CC53885",
+  "name": "PETSTOCK FOUNDATION NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-09-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mbayles@petstock.com.au",
+  "address": {
+    "line1": "PO Box 651",
+    "line2": " ",
+    "suburb": " ",
+    "city": "Ballarat, Victoria, Australia",
+    "postcode": "3353"
+  },
+  "nzbn": "9429043311361",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T06:30:13Z"
+}

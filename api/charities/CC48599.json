@@ -1,0 +1,27 @@
+{
+  "id": 33118,
+  "registrationNumber": "CC48599",
+  "name": "Dry July NZ Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-11-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dryjuly.co.nz",
+  "email": "steve@dryjuly.com",
+  "address": {
+    "line1": "42 Kerkwall Drive",
+    "line2": " ",
+    "suburb": "Naenae",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429043265534",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/dryjulynz",
+    "twitter": "@dryjulynz"
+  },
+  "lastUpdated": "2025-12-09T02:09:12Z"
+}

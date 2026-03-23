@@ -1,0 +1,27 @@
+{
+  "id": 59337,
+  "registrationNumber": "CC42400",
+  "name": "Rutherford Preschool Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rutherfordpreschool.nz",
+  "email": "admin@rutherfordpreschool.nz",
+  "address": {
+    "line1": "16 Kotuku Street",
+    "line2": "Te Atatu Peninsula",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429043073078",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "r.preschool@xtra.co.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T22:04:00Z"
+}

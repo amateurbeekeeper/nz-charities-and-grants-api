@@ -1,0 +1,27 @@
+{
+  "id": 65569,
+  "registrationNumber": "CC51812",
+  "name": "St Paul's Presbyterian Church Napier",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@stpaulsnapier.org.nz",
+  "address": {
+    "line1": "89 Tennyson Street",
+    "line2": " ",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "StPaul's presbyterian church Napier",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T00:52:14Z"
+}

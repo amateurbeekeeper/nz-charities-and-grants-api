@@ -1,0 +1,27 @@
+{
+  "id": 75917,
+  "registrationNumber": "CC62376",
+  "name": "Steampunk NZ Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.steampunk.org.nz",
+  "email": "saunderstack@gmail.com",
+  "address": {
+    "line1": "62 Upper Ure Street",
+    "line2": " ",
+    "suburb": "South Hill",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429051847067",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "SteampunkNZFestival",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T18:11:58Z"
+}

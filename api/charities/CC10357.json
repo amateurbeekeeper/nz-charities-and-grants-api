@@ -1,0 +1,27 @@
+{
+  "id": 51657,
+  "registrationNumber": "CC10357",
+  "name": "The Malaghan Institute of Medical Research",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.malaghan.org.nz",
+  "email": "finance@malaghan.org.nz",
+  "address": {
+    "line1": "PO Box 7060",
+    "line2": "Newtown",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6242"
+  },
+  "nzbn": "9429042780809",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T06:06:21Z"
+}

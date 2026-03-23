@@ -1,0 +1,27 @@
+{
+  "id": 69670,
+  "registrationNumber": "CC56021",
+  "name": "St Stephen's Anglican Church, Christchurch Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ststephens.org.nz",
+  "email": "admin@ststephens.org.nz",
+  "address": {
+    "line1": "148 Quinns Road",
+    "line2": " ",
+    "suburb": "Shirley",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429046996077",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/StStephensCHCH/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-19T22:50:48Z"
+}

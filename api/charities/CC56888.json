@@ -1,0 +1,27 @@
+{
+  "id": 70524,
+  "registrationNumber": "CC56888",
+  "name": "Aotearoa New Zealand International Development Studies Network",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.devnet.org.nz",
+  "email": "r.a.scheyvens@massey.ac.nz",
+  "address": {
+    "line1": "c/- Regina Scheyvens; School of People, Environmen",
+    "line2": "Level 3 Social Sciences Tower, Ring Road",
+    "suburb": "Massey University",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/devnetnz/",
+    "twitter": "https://devnet.org.nz/#"
+  },
+  "lastUpdated": "2026-02-05T09:05:26Z"
+}

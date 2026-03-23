@@ -1,0 +1,27 @@
+{
+  "id": 34776,
+  "registrationNumber": "CC48728",
+  "name": "Auckland Dream Centre Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-09-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dreamcentre.org.nz",
+  "email": "janices@dreamcentre.org.nz",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "1 Kaihu Street",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429043265312",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "facebook.com/akldreamcentre",
+    "twitter": "@akldreamcentre"
+  },
+  "lastUpdated": "2026-03-10T00:55:10Z"
+}

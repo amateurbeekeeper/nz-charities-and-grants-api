@@ -1,0 +1,27 @@
+{
+  "id": 58560,
+  "registrationNumber": "CC26277",
+  "name": "The Writers' Cottage Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.robertlordwriterscottage.nz",
+  "email": "vmanhire@gmail.com",
+  "address": {
+    "line1": "1 Crewe Street",
+    "line2": null,
+    "suburb": "Maryhill",
+    "city": "Dunedin",
+    "postcode": "9011"
+  },
+  "nzbn": "9429042971498",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/p/Robert-Lord-Writers-Cottage-100068363990615/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-08T19:39:54Z"
+}

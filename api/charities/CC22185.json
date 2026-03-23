@@ -1,0 +1,27 @@
+{
+  "id": 39491,
+  "registrationNumber": "CC22185",
+  "name": "New Zealand Law Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lawfoundation.org.nz",
+  "email": "lfadmin@lawfoundation.org.nz",
+  "address": {
+    "line1": "81 The Esplanade",
+    "line2": " 69 Rutherford Street",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": "9429042682813",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/NZLawFoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T19:56:06Z"
+}

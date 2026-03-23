@@ -1,0 +1,27 @@
+{
+  "id": 62512,
+  "registrationNumber": "CC39210",
+  "name": "Te Reo Irirangi o Turanganui a Kiwa Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.Turangafm.co.nz",
+  "email": "matai@turangafm.maori.nz",
+  "address": {
+    "line1": "Level 2 ",
+    "line2": "Nga Wai e Rua Building",
+    "suburb": "Cnr Lowe Street And Reads Quay",
+    "city": "Gisborne",
+    "postcode": "4040"
+  },
+  "nzbn": "9429038968426",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TurangaFmMedia",
+    "twitter": "https://x.com/TURANGAFMMEDIA"
+  },
+  "lastUpdated": "2025-12-11T18:40:43Z"
+}

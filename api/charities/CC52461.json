@@ -1,0 +1,27 @@
+{
+  "id": 66191,
+  "registrationNumber": "CC52461",
+  "name": "Ashburton Menz Shed Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-09-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ashburtonmenzshed.nz",
+  "email": "secretary@ashburtonmenzshed.nz",
+  "address": {
+    "line1": "8 William Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": "9429043285334",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AshburtonMenzShed/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-12T19:10:05Z"
+}

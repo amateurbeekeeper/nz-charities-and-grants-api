@@ -1,0 +1,27 @@
+{
+  "id": 65695,
+  "registrationNumber": "CC51949",
+  "name": "Calvin Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.calvin.org.nz",
+  "email": "treasurer@calvin.org.nz",
+  "address": {
+    "line1": "25 Robertson Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gore",
+    "postcode": "9710"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:41:35Z"
+}

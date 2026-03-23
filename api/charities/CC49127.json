@@ -1,0 +1,27 @@
+{
+  "id": 32937,
+  "registrationNumber": "CC49127",
+  "name": "Te Manawanui Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-09-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "te.manawanui@xtra.co.nz",
+  "address": {
+    "line1": "67 Staveley Avenue",
+    "line2": "Mount Roskill",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429042941552",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-20T21:04:47Z"
+}

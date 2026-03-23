@@ -1,0 +1,27 @@
+{
+  "id": 72330,
+  "registrationNumber": "CC58713",
+  "name": "Aotearoa Food Rescue Alliance Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.afra.org.nz",
+  "email": "iain@afra.org.nz",
+  "address": {
+    "line1": "11 Hopper Street",
+    "line2": " ",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429049014204",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aotearoafoodrescue",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T00:21:08Z"
+}

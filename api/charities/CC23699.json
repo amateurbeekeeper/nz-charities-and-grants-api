@@ -1,0 +1,27 @@
+{
+  "id": 54951,
+  "registrationNumber": "CC23699",
+  "name": "Cancer Society of New Zealand, Otago and Southland Division Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cancer.org.nz",
+  "email": "bianca.baillie@southerncancer.org.nz",
+  "address": {
+    "line1": "283 Great King Street",
+    "line2": " ",
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042792499",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cancersocietyotagosouthland/",
+    "twitter": "https://twitter.com/cansocos"
+  },
+  "lastUpdated": "2025-10-24T01:43:55Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41644,
+  "registrationNumber": "CC33912",
+  "name": "Volunteering Hawkes Bay",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://vhb.org.nz",
+  "email": "volunteeringhawkesbay@gmail.com",
+  "address": {
+    "line1": "200 Market Street North",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429042715658",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "VolunteeringHB",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T00:47:34Z"
+}

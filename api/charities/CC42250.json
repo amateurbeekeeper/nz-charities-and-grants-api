@@ -1,0 +1,27 @@
+{
+  "id": 45408,
+  "registrationNumber": "CC42250",
+  "name": "Real Fresh Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2012-09-10T00:00:00Z",
+  "website": "http://www.rfl.co.nz",
+  "email": "nhayward@npsl.co.nz",
+  "address": {
+    "line1": "51 The Esplanade",
+    "line2": null,
+    "suburb": "Kaiti",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429033237152",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-07-23T22:53:53Z"
+}

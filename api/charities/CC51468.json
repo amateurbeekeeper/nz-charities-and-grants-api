@@ -1,0 +1,27 @@
+{
+  "id": 65243,
+  "registrationNumber": "CC51468",
+  "name": "New Lives Animal Rescue Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.newlivesrescue.co.nz",
+  "email": "newlivesrescue@xtra.co.nz",
+  "address": {
+    "line1": "C/- 76 Duke Street",
+    "line2": "Cambridge",
+    "suburb": " ",
+    "city": "Waikato ",
+    "postcode": "3434"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/newlivesrescue",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:21:08Z"
+}

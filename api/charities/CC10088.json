@@ -1,0 +1,27 @@
+{
+  "id": 51191,
+  "registrationNumber": "CC10088",
+  "name": "George Mason Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "barry@upson-associates.co.nz",
+  "address": {
+    "line1": "85 Vivian Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042963677",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-12T19:08:40Z"
+}

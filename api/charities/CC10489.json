@@ -1,0 +1,27 @@
+{
+  "id": 51602,
+  "registrationNumber": "CC10489",
+  "name": "Aotea Community Radio Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.aoteafm.nz",
+  "email": "lyndaisakiwi@gmail.com",
+  "address": {
+    "line1": "Hector Sanderson Road",
+    "line2": " ",
+    "suburb": "Claris",
+    "city": "Great Barrier Island",
+    "postcode": "0991"
+  },
+  "nzbn": "9429043034239",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Aotea FM Great Barrier Island",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T18:59:38Z"
+}

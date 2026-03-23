@@ -1,0 +1,27 @@
+{
+  "id": 70878,
+  "registrationNumber": "CC57246",
+  "name": "Salt Church Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "saltchurch.nz",
+  "email": "salt.waihi@gmail.com",
+  "address": {
+    "line1": "550C Trig Road North",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Waihi",
+    "postcode": "3681"
+  },
+  "nzbn": "9429047656819",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/salt.waihi/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-08T19:42:15Z"
+}

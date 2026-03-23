@@ -1,0 +1,27 @@
+{
+  "id": 72358,
+  "registrationNumber": "CC58744",
+  "name": "Aotearoa Lakes",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nzlakes.org",
+  "email": "nzlakesorg@gmail.com",
+  "address": {
+    "line1": "48 Gecko Road",
+    "line2": " ",
+    "suburb": "Hobsonville",
+    "city": "Auckland",
+    "postcode": "0616"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AotearoaLakes",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-04T09:42:46Z"
+}

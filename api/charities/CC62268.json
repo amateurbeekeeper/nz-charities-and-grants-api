@@ -1,0 +1,27 @@
+{
+  "id": 75813,
+  "registrationNumber": "CC62268",
+  "name": "RISE UP Foundation Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.riseup.org.nz",
+  "email": "kevin@riseup.org.nz",
+  "address": {
+    "line1": "Unit 11",
+    "line2": "12 Burns Avenue",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "riseupfoundationnz",
+    "twitter": "riseupfoundationnz"
+  },
+  "lastUpdated": "2026-02-27T01:42:25Z"
+}

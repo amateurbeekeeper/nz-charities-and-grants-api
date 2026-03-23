@@ -1,0 +1,27 @@
+{
+  "id": 72404,
+  "registrationNumber": "CC58793",
+  "name": "Arise Academy Ltd",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2021-03-19T00:00:00Z",
+  "dateDeregistered": "2024-12-02T00:00:00Z",
+  "website": "https://www.ariseacademy.ac.nz",
+  "email": "info@ariseacademy.ac.nz",
+  "address": {
+    "line1": "1 Pulham Road",
+    "line2": "Warkworth 0910",
+    "suburb": " ",
+    "city": "Warkworth",
+    "postcode": "0910"
+  },
+  "nzbn": "9429047589735",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T23:43:28Z"
+}

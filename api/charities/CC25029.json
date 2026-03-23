@@ -1,0 +1,27 @@
+{
+  "id": 57226,
+  "registrationNumber": "CC25029",
+  "name": "Wairoa Financial Literacy Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wairoa-financial-literacy.co.nz",
+  "email": "wairoabas@xtra.co.nz",
+  "address": {
+    "line1": "90 Queen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wairoa",
+    "postcode": "4108"
+  },
+  "nzbn": "9429042884477",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:29:26Z"
+}

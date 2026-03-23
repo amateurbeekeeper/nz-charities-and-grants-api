@@ -1,0 +1,27 @@
+{
+  "id": 74106,
+  "registrationNumber": "CC60514",
+  "name": "Riders Against Cancer Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.racnz.co.nz",
+  "email": "info@racnz.co.nz",
+  "address": {
+    "line1": "1124 Kellow Road",
+    "line2": "RD 11",
+    "suburb": "Glen Oroua",
+    "city": "Foxton",
+    "postcode": "4891"
+  },
+  "nzbn": "9429050670956",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@racnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-07T06:07:45Z"
+}

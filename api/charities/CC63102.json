@@ -1,0 +1,27 @@
+{
+  "id": 77163,
+  "registrationNumber": "CC63102",
+  "name": "Happy Rescue NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-08-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cejungy@gmail.com",
+  "address": {
+    "line1": "94B Union Road",
+    "line2": " ",
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61562075349004",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-29T00:43:14Z"
+}

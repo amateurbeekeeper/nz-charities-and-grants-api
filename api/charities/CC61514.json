@@ -1,0 +1,27 @@
+{
+  "id": 75085,
+  "registrationNumber": "CC61514",
+  "name": "Robbie's Mind Matrix",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.facebook.com/truckthistruckthat",
+  "email": "basicengineering@hotmail.com",
+  "address": {
+    "line1": "1230 Lismore Mayfield Road",
+    "line2": "RD 5",
+    "suburb": "Lismore",
+    "city": "Ashburton",
+    "postcode": "7775"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/truckthistruckthat",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T00:25:49Z"
+}

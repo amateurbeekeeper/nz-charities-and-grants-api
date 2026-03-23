@@ -1,0 +1,27 @@
+{
+  "id": 50045,
+  "registrationNumber": "CC36374",
+  "name": "Hornby Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-01-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chair@hornbytl.onmicrosoft.com",
+  "address": {
+    "line1": "34 Springs Road",
+    "line2": "Sockburn",
+    "suburb": "Hornby",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429042641018",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HornbyToyLibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T07:53:25Z"
+}

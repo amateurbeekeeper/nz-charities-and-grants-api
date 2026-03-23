@@ -1,0 +1,27 @@
+{
+  "id": 43096,
+  "registrationNumber": "CC32039",
+  "name": "CHT Healthcare Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cht.co.nz",
+  "email": "stuart.tabuteau@cht.co.nz",
+  "address": {
+    "line1": "Ground Floor, Building 3, Central Park",
+    "line2": " 660 Great South Road",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042611295",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T03:13:44Z"
+}

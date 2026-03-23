@@ -1,0 +1,27 @@
+{
+  "id": 67758,
+  "registrationNumber": "CC54070",
+  "name": "Sheffield Primary School PTA",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-01-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.sheffieldprimary.school.nz",
+  "email": "pta@sheffieldprimary.school.nz",
+  "address": {
+    "line1": "Sheffield Primary School",
+    "line2": "Wrights road",
+    "suburb": "Sheffield",
+    "city": "Canterbury",
+    "postcode": "7500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/p/Sheffield-Contributing-School-100064279894836/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T19:49:26Z"
+}

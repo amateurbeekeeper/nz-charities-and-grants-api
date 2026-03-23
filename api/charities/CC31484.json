@@ -1,0 +1,27 @@
+{
+  "id": 48685,
+  "registrationNumber": "CC31484",
+  "name": "Estate Francis Ross Brown",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pberry@berryco.co.nz",
+  "address": {
+    "line1": "20 Eden Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-27T19:21:10Z"
+}

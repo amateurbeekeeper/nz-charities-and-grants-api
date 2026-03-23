@@ -1,0 +1,27 @@
+{
+  "id": 64744,
+  "registrationNumber": "CC42947",
+  "name": "Heritage Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-11-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "action-sanders@xtra.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "65-69 Abel Smith Street",
+    "suburb": "C B D",
+    "city": "Wellington",
+    "postcode": null
+  },
+  "nzbn": "9429042636441",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Heritage Inc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T02:41:15Z"
+}

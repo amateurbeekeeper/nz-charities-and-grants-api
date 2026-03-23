@@ -1,0 +1,27 @@
+{
+  "id": 50691,
+  "registrationNumber": "CC44423",
+  "name": "New Zealand Society of Endocrinology Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.endocrinology.org.nz",
+  "email": "teodora.georgescu@otago.ac.nz",
+  "address": {
+    "line1": "Teodora Georgescu, Department of Anatomy",
+    "line2": "270 Great King St",
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042688792",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": "@NZSEndo"
+  },
+  "lastUpdated": "2025-11-07T02:03:02Z"
+}

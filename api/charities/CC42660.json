@@ -1,0 +1,27 @@
+{
+  "id": 58241,
+  "registrationNumber": "CC42660",
+  "name": "The New Zealand Anglican Church Pension Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kim@angfincare.nz",
+  "address": {
+    "line1": "32 Mulgrave Street",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042676515",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T20:27:14Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56499,
+  "registrationNumber": "CC26106",
+  "name": "Otorohanga Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.otobaptist.com",
+  "email": "riverdale1212@gmail.com",
+  "address": {
+    "line1": "8 Ranfurly Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Otorohanga",
+    "postcode": "3900"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:39:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 36725,
+  "registrationNumber": "CC49036",
+  "name": "NEW ZEALAND BIO-RECORDING NETWORK TRUST",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-06-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.inaturalist.nz",
+  "email": "steve.pawson@gmail.com",
+  "address": {
+    "line1": "45 Landsdowne Terrace",
+    "line2": " ",
+    "suburb": "Cashmere",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429043222827",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzbrn/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T03:40:12Z"
+}

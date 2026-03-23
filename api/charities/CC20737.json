@@ -1,0 +1,27 @@
+{
+  "id": 56551,
+  "registrationNumber": "CC20737",
+  "name": "Citizens Advice Bureau Pakuranga-Eastern Manukau Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-01-28T00:00:00Z",
+  "dateDeregistered": "2025-10-01T00:00:00Z",
+  "website": "https://www.cab.org.nz",
+  "email": "manager.pakuranga@cab.org.nz",
+  "address": {
+    "line1": "7 Aylesbury Street",
+    "line2": " ",
+    "suburb": "Pakuranga",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429042795414",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Citizens Advice Bureau Pakuranga-Eastern Manukau",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T06:04:13Z"
+}

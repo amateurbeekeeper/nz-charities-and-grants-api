@@ -1,0 +1,27 @@
+{
+  "id": 40024,
+  "registrationNumber": "CC23787",
+  "name": "Tainui Home Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.eldernet.co.nz",
+  "email": "john@tainuihome.co.nz",
+  "address": {
+    "line1": "96 Clawton Street",
+    "line2": " ",
+    "suburb": "Westown",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042849780",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T01:01:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48815,
+  "registrationNumber": "CC34525",
+  "name": "Encounter Christian Centre (Levin)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.encounter.org.nz",
+  "email": "sheredene.dna@gmail.com",
+  "address": {
+    "line1": "50-52 Cambridge Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": "9429043076222",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T19:04:24Z"
+}

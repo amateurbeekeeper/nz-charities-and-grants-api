@@ -1,0 +1,27 @@
+{
+  "id": 51537,
+  "registrationNumber": "CC25270",
+  "name": "Health Action Trust (Nelson)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.healthaction.org.nz",
+  "email": "mariel@healthaction.org.nz",
+  "address": {
+    "line1": "PO Box 691",
+    "line2": null,
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7040"
+  },
+  "nzbn": "9429042720669",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/compass0800",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T22:00:50Z"
+}

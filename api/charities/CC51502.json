@@ -1,0 +1,27 @@
+{
+  "id": 65270,
+  "registrationNumber": "CC51502",
+  "name": "Ruakura Port Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dana.pouwels@tgh.co.nz",
+  "address": {
+    "line1": "6 Bryce Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429030869882",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T03:55:30Z"
+}

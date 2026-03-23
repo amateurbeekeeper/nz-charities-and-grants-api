@@ -1,0 +1,27 @@
+{
+  "id": 65185,
+  "registrationNumber": "CC51410",
+  "name": "Silson Memorial Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "richard.thomas@tcec.co.nz",
+  "address": {
+    "line1": "13 Milton Road",
+    "line2": "Orewa 0931",
+    "suburb": " ",
+    "city": "Orewa",
+    "postcode": "0931"
+  },
+  "nzbn": "9429042747062",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T18:52:05Z"
+}

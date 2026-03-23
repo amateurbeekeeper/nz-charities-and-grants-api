@@ -1,0 +1,27 @@
+{
+  "id": 65449,
+  "registrationNumber": "CC51674",
+  "name": "Aramoho Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-04-30T00:00:00Z",
+  "dateDeregistered": "2025-08-07T00:00:00Z",
+  "website": null,
+  "email": "aramoho@playcentre.org.nz",
+  "address": {
+    "line1": "23 Burmah Street",
+    "line2": " ",
+    "suburb": "Aramoho",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T07:21:23Z"
+}

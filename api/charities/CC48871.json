@@ -1,0 +1,27 @@
+{
+  "id": 32792,
+  "registrationNumber": "CC48871",
+  "name": "The Korean Helpline",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2012-08-22T00:00:00Z",
+  "dateDeregistered": "2024-03-30T00:00:00Z",
+  "website": "www.koreanhelpline.org.nz",
+  "email": "koreanhelpline@gmail.com",
+  "address": {
+    "line1": "104 Riccarton Road",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429043239153",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-12-30T06:09:20Z"
+}

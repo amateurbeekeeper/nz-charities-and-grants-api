@@ -1,0 +1,27 @@
+{
+  "id": 33181,
+  "registrationNumber": "CC49486",
+  "name": "Auckland Islamic Trust (AIT)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-07-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ait.org.nz",
+  "email": "ashfaaq.motara@gmail.com",
+  "address": {
+    "line1": "18 Farrelly Avenue",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429043265565",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T18:24:13Z"
+}

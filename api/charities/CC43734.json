@@ -1,0 +1,27 @@
+{
+  "id": 49133,
+  "registrationNumber": "CC43734",
+  "name": "Te Huruhi Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tehuruhitrust.org.nz",
+  "email": "lata@tehuruhitrust.org.nz",
+  "address": {
+    "line1": "79 Line Road",
+    "line2": " ",
+    "suburb": "Glen Innes",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042935940",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T18:07:54Z"
+}

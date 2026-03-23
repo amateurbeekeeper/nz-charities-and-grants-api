@@ -1,0 +1,27 @@
+{
+  "id": 56300,
+  "registrationNumber": "CC29890",
+  "name": "South East Kirikiriroa Community Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waimarie.house",
+  "email": "manager@waimarie.org",
+  "address": {
+    "line1": "53 Wellington Street",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429042946595",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waimarie:Hamilton East Community House",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:30:25Z"
+}

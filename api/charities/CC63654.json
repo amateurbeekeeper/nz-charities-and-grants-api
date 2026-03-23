@@ -1,0 +1,27 @@
+{
+  "id": 77849,
+  "registrationNumber": "CC63654",
+  "name": "Canterbury Sports Association",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john_020214@yahoo.com",
+  "address": {
+    "line1": "52 Mohua Lane",
+    "line2": null,
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T01:14:00Z"
+}

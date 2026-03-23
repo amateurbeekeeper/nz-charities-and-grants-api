@@ -1,0 +1,27 @@
+{
+  "id": 46817,
+  "registrationNumber": "CC38029",
+  "name": "The Embroiderers' Great Escape Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://embroiderersgreatescape.com",
+  "email": "great.escape.convenor@gmail.com",
+  "address": {
+    "line1": "65 Waitea Road",
+    "line2": "RD 1",
+    "suburb": "Muriwai",
+    "city": "Waimauku",
+    "postcode": "0881"
+  },
+  "nzbn": "9429042956129",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T00:17:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55502,
+  "registrationNumber": "CC21576",
+  "name": "Coastal Restoration Trust of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.coastalrestorationtrust.org.nz",
+  "email": "info@coastalrestorationtrust.org.nz",
+  "address": {
+    "line1": "129 Old Onerahi Road",
+    "line2": " ",
+    "suburb": "Onerahi",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043176809",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/CoastalRestorationTrustNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T21:25:14Z"
+}

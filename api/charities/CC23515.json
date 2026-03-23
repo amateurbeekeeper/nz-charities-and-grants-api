@@ -1,0 +1,27 @@
+{
+  "id": 55014,
+  "registrationNumber": "CC23515",
+  "name": "The Oamaru Whitestone Civic Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@victorianoamaru.co.nz",
+  "address": {
+    "line1": "2 Harbour Street",
+    "line2": " ",
+    "suburb": "South Hill",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429042788966",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:01:50Z"
+}

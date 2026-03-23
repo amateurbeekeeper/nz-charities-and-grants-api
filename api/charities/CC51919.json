@@ -1,0 +1,27 @@
+{
+  "id": 65678,
+  "registrationNumber": "CC51919",
+  "name": "Sustainable Initiatives Aotearoa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.mindfulmoney.nz",
+  "email": "barry@mindfulmoney.nz",
+  "address": {
+    "line1": "29 Great Barrier Road",
+    "line2": " ",
+    "suburb": "Oneroa",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429047358836",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MindfulMoneyMovementNZ",
+    "twitter": "@mindfulmoneyNZ"
+  },
+  "lastUpdated": "2025-12-09T22:49:59Z"
+}

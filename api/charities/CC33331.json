@@ -1,0 +1,27 @@
+{
+  "id": 50020,
+  "registrationNumber": "CC33331",
+  "name": "Southern Cross Gillies Hospital Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2018-07-01T00:00:00Z",
+  "website": null,
+  "email": "rachel.cunningham@southerncross.co.nz",
+  "address": {
+    "line1": "Level 12, AMP Centre",
+    "line2": "29 Customs Street West",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429036742608",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-08-14T20:03:28Z"
+}

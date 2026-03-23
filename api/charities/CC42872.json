@@ -1,0 +1,27 @@
+{
+  "id": 47067,
+  "registrationNumber": "CC42872",
+  "name": "Kaikohe Business Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "heartofthenorth@hotmail.com",
+  "address": {
+    "line1": "25 Hillcrest Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaikohe",
+    "postcode": "0405"
+  },
+  "nzbn": "9429043267378",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KaikoheBusinessAssociation/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-16T23:07:53Z"
+}

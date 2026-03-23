@@ -1,0 +1,27 @@
+{
+  "id": 55210,
+  "registrationNumber": "CC21789",
+  "name": "Mission Residential Care Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-03-12T00:00:00Z",
+  "dateDeregistered": "2024-03-31T00:00:00Z",
+  "website": "https://wellingtoncitymission.org.nz/",
+  "email": "murray@wcm.org.nz",
+  "address": {
+    "line1": "21 Te Pene Avenue",
+    "line2": " ",
+    "suburb": "Titahi Bay",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429038246685",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-28T06:09:17Z"
+}

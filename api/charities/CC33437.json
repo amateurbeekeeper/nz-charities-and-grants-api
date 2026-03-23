@@ -1,0 +1,27 @@
+{
+  "id": 41456,
+  "registrationNumber": "CC33437",
+  "name": "Piha Tennis Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://pihatennis.wordpress.com",
+  "email": "petereghosking@gmail.com",
+  "address": {
+    "line1": "Piha Domain",
+    "line2": "Seaview Road",
+    "suburb": "Piha",
+    "city": "Auckland",
+    "postcode": "0646"
+  },
+  "nzbn": "9429042805540",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/1061542360546646/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T02:31:23Z"
+}

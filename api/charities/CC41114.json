@@ -1,0 +1,27 @@
+{
+  "id": 64533,
+  "registrationNumber": "CC41114",
+  "name": "Titirangi Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.titirangitheatre.co.nz",
+  "email": "graemepheap@gmail.com",
+  "address": {
+    "line1": "418 Titirangi Road",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429042878957",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=titirangi%20theatre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T19:18:45Z"
+}

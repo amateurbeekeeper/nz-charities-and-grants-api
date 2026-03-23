@@ -1,0 +1,27 @@
+{
+  "id": 65308,
+  "registrationNumber": "CC51533",
+  "name": "Camp Columba Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.campcolumba.org.nz",
+  "email": "manager@campcolumba.org.nz",
+  "address": {
+    "line1": "89A Kaiwera Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Gore",
+    "postcode": "9772"
+  },
+  "nzbn": "9429050882595",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CampColumba/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:33:15Z"
+}

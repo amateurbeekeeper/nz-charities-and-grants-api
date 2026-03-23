@@ -1,0 +1,27 @@
+{
+  "id": 74027,
+  "registrationNumber": "CC60439",
+  "name": "Barnardos New Zealand Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.barnardos.org.nz",
+  "email": "james.fulton@barnardos.org.nz",
+  "address": {
+    "line1": "50 Customhouse Quay",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429050764136",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "fb.com/BarnardosNZ",
+    "twitter": "Barnardos NZ@BarnardosNZ"
+  },
+  "lastUpdated": "2026-01-27T01:33:38Z"
+}

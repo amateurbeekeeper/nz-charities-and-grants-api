@@ -1,0 +1,27 @@
+{
+  "id": 70424,
+  "registrationNumber": "CC56786",
+  "name": "ProCare Health (PHO) Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.procare.co.nz",
+  "email": "rachel.boase@procare.co.nz",
+  "address": {
+    "line1": "12-16 Nicholls Lane",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429035995449",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ProCareNZ",
+    "twitter": "https://twitter.com/ProCareHealthNZ"
+  },
+  "lastUpdated": "2025-11-02T20:15:34Z"
+}

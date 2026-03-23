@@ -1,0 +1,27 @@
+{
+  "id": 66883,
+  "registrationNumber": "CC53175",
+  "name": "The Catholic Parish of Te Awakairangi",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "teawakairangi.nz",
+  "email": "finance@teawakairangi.nz",
+  "address": {
+    "line1": "60 Knights Road",
+    "line2": " ",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429049984477",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T22:50:48Z"
+}

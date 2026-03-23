@@ -1,0 +1,27 @@
+{
+  "id": 36281,
+  "registrationNumber": "CC47451",
+  "name": "Tui Nature Reserve Wildlife Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2012-03-18T00:00:00Z",
+  "dateDeregistered": "2025-01-31T00:00:00Z",
+  "website": "http://www.tuinaturereserve.co.nz",
+  "email": "info@tuinaturereserve.co.nz",
+  "address": {
+    "line1": "48 Elliot Street",
+    "line2": " ",
+    "suburb": "Grovetown",
+    "city": "Blenheim",
+    "postcode": "7202"
+  },
+  "nzbn": "9429043251070",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/TuiWildlifeTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-06T06:08:38Z"
+}

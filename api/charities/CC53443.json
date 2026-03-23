@@ -1,0 +1,27 @@
+{
+  "id": 67157,
+  "registrationNumber": "CC53443",
+  "name": "Lake Hawea Community Centre Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lhcc.co.nz",
+  "email": "committee@lhcc.org.nz",
+  "address": {
+    "line1": "28 Myra Street",
+    "line2": "Lake Hawea",
+    "suburb": "R.D.2",
+    "city": "Wanaka",
+    "postcode": "9382"
+  },
+  "nzbn": "9429042720539",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/lakehaweacommunitycentre/",
+    "twitter": "https://twitter.com/lakehawea_cc"
+  },
+  "lastUpdated": "2026-03-09T01:00:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 61569,
+  "registrationNumber": "CC40693",
+  "name": "Coastguard Marlborough Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.coastguard.co.nz",
+  "email": "marlborough.secretary@coastguard.nz",
+  "address": {
+    "line1": "1 Surrey Street",
+    "line2": "Picton 7220",
+    "suburb": " ",
+    "city": "Picton",
+    "postcode": "7220"
+  },
+  "nzbn": "9429042759249",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/coastguardmarlborough/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:32:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73855,
+  "registrationNumber": "CC60264",
+  "name": "Te Whare Aitu Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "whareaitutrust@gmail.com",
+  "address": {
+    "line1": "215 Thomas Road",
+    "line2": " ",
+    "suburb": "Rototuna North",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429042951247",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/524598614782434",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T03:52:44Z"
+}

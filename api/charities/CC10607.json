@@ -1,0 +1,27 @@
+{
+  "id": 51881,
+  "registrationNumber": "CC10607",
+  "name": "The Wellington People's Centre Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2007-07-11T00:00:00Z",
+  "dateDeregistered": "2012-05-23T00:00:00Z",
+  "website": "http://www.wellingtonpeoplescentre.org.nz",
+  "email": "people@wpc.net.nz",
+  "address": {
+    "line1": "2 Lukes Lane",
+    "line2": null,
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042916963",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T00:30:44Z"
+}

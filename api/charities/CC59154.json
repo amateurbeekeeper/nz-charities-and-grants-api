@@ -1,0 +1,27 @@
+{
+  "id": 72760,
+  "registrationNumber": "CC59154",
+  "name": "Pro-Pare Athlete Management Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pro-pare.nz",
+  "email": "iutoi@yahoo.com",
+  "address": {
+    "line1": "PO Box 15607",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0640"
+  },
+  "nzbn": "9429047275232",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/ProPareAMT",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T00:46:16Z"
+}

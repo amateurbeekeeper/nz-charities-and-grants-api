@@ -1,0 +1,27 @@
+{
+  "id": 73049,
+  "registrationNumber": "CC59444",
+  "name": "Asian Community Transformation Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.actt.org.nz",
+  "email": "allen.hou@actt.org.nz",
+  "address": {
+    "line1": "21 Withells Road",
+    "line2": " ",
+    "suburb": "Avonhead",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429049873535",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/ACTT.NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T19:03:29Z"
+}

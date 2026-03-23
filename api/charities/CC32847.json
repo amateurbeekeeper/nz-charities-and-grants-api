@@ -1,0 +1,27 @@
+{
+  "id": 54667,
+  "registrationNumber": "CC32847",
+  "name": "Hastings Gymnastics Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://hastingsgymnastics.nz",
+  "email": "katie.louise21@hotmail.com",
+  "address": {
+    "line1": "104A Church Road",
+    "line2": " ",
+    "suburb": "Taradale",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": "9429042713777",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Hastings Gymnastics Club",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T20:34:57Z"
+}

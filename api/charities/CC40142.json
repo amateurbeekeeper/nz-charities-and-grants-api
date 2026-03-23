@@ -1,0 +1,27 @@
+{
+  "id": 64592,
+  "registrationNumber": "CC40142",
+  "name": "Auckland Canoe Polo Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aucklandcanoepolo.co.nz",
+  "email": "Secretary@aucklandcanoepolo.co.nz",
+  "address": {
+    "line1": "10A Tawavale Crescent",
+    "line2": " ",
+    "suburb": "Totara Vale",
+    "city": "Auckland",
+    "postcode": "0629"
+  },
+  "nzbn": "9429042938071",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aklcanoepolo",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T10:07:16Z"
+}

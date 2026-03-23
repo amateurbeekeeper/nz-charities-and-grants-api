@@ -1,0 +1,27 @@
+{
+  "id": 42154,
+  "registrationNumber": "CC24691",
+  "name": "The West Coast Community Arts Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.westcoastgallery.co.nz",
+  "email": "westcoastgallery@xtra.co.nz",
+  "address": {
+    "line1": "21 Seaview Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Piha",
+    "postcode": "772"
+  },
+  "nzbn": "9429043069118",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T18:12:32Z"
+}

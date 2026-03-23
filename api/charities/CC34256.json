@@ -1,0 +1,27 @@
+{
+  "id": 61482,
+  "registrationNumber": "CC34256",
+  "name": "Central Southland Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cstlwinton@gmail.com",
+  "address": {
+    "line1": "206 Park Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Winton",
+    "postcode": "9720"
+  },
+  "nzbn": "9429042609315",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/centralsouthlandtoylibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T02:54:45Z"
+}

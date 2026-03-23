@@ -1,0 +1,27 @@
+{
+  "id": 51183,
+  "registrationNumber": "CC10182",
+  "name": "Horizons Day Options Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.horizonstrust.org.nz",
+  "email": "donna@horizonstrust.org.nz",
+  "address": {
+    "line1": "10 Birmingham Drive",
+    "line2": "20 Birmingham Drive",
+    "suburb": "Middleton",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429042932215",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T19:44:41Z"
+}

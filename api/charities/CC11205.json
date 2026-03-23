@@ -1,0 +1,27 @@
+{
+  "id": 52991,
+  "registrationNumber": "CC11205",
+  "name": "Breast Cancer Cure",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.breastcancercure.org.nz",
+  "email": "sonja@breastcancercure.org.nz",
+  "address": {
+    "line1": "7 College Hill",
+    "line2": "Victoria Street West",
+    "suburb": "Freemans Bay",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429042933311",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Breast Cancer Cure",
+    "twitter": "@bccurenz"
+  },
+  "lastUpdated": "2025-12-07T18:05:45Z"
+}

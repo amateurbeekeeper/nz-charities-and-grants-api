@@ -1,0 +1,27 @@
+{
+  "id": 44817,
+  "registrationNumber": "CC33459",
+  "name": "Whariki Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2020-08-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mraihania@gmail.com",
+  "address": {
+    "line1": "Unit 1D",
+    "line2": "The Portal",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043085866",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-04T04:49:41Z"
+}

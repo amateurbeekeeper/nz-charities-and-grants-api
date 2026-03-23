@@ -1,0 +1,27 @@
+{
+  "id": 51962,
+  "registrationNumber": "CC11140",
+  "name": "Mental Health Foundation of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mentalhealth.org.nz",
+  "email": "mhfadmin@mentalhealth.org.nz",
+  "address": {
+    "line1": "Eden 3, Ground Floor",
+    "line2": "16 Normanby Road",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042749141",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mentalhealthfoundationNZ",
+    "twitter": "https://twitter.com/mentalhealthnz"
+  },
+  "lastUpdated": "2026-01-15T03:09:29Z"
+}

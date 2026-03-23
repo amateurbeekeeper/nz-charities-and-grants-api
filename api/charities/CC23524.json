@@ -1,0 +1,27 @@
+{
+  "id": 53629,
+  "registrationNumber": "CC23524",
+  "name": "Skills Active Aotearoa Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.skillsactive.org.nz",
+  "email": "todd.maddock@skillsactive.org.nz",
+  "address": {
+    "line1": "14 Sages Lane",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429037000066",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:32:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 49809,
+  "registrationNumber": "CC40191",
+  "name": "West Harbour Alliance Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.whc.org.nz",
+  "email": "daniel@whc.org.nz",
+  "address": {
+    "line1": "145 Moire Road",
+    "line2": " ",
+    "suburb": "West Harbour",
+    "city": "Auckland",
+    "postcode": "0618"
+  },
+  "nzbn": "9429052334245",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100089267582251&sk=about",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66200,
+  "registrationNumber": "CC52471",
+  "name": "Pacific Islander Presbyterian Church Papakura",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-10-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "suemanuo@gmail.com",
+  "address": {
+    "line1": "153 Dominion Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": "9429050038923",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:53:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73127,
+  "registrationNumber": "CC59526",
+  "name": "Te Tai o Awatea",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tetaioawatea.org.nz",
+  "email": "lee-anne@tetaioawatea.org.nz",
+  "address": {
+    "line1": "c/o Smart Business Centre",
+    "line2": "12 Wallace Street",
+    "suburb": " ",
+    "city": "Motueka",
+    "postcode": "7143"
+  },
+  "nzbn": "9429049954753",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T21:17:09Z"
+}

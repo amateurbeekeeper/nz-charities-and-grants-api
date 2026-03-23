@@ -1,0 +1,27 @@
+{
+  "id": 53684,
+  "registrationNumber": "CC20765",
+  "name": "ARRC",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.arrc.org.nz",
+  "email": "liza@holisticvets.co.nz",
+  "address": {
+    "line1": "56 Fraser Street",
+    "line2": " ",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429043109272",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ARRCNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:03:26Z"
+}

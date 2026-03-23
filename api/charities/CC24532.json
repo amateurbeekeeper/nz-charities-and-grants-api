@@ -1,0 +1,27 @@
+{
+  "id": 40060,
+  "registrationNumber": "CC24532",
+  "name": "The Nui Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-05-19T00:00:00Z",
+  "dateDeregistered": "2013-08-22T00:00:00Z",
+  "website": null,
+  "email": "rob@thenui.org.nz",
+  "address": {
+    "line1": "3 Longfellow Avenue",
+    "line2": null,
+    "suburb": "Maraenui",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429043168989",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:20:22Z"
+}

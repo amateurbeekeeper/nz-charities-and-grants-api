@@ -1,0 +1,27 @@
+{
+  "id": 62723,
+  "registrationNumber": "CC43413",
+  "name": "New Zealand Fashion Museum",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-01-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzfashionmuseum.org.nz",
+  "email": "board@nzfashionmuseum.org.nz",
+  "address": {
+    "line1": "14 Telpher Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/nzfashionmuseum/",
+    "twitter": "@NZFashionMuseum"
+  },
+  "lastUpdated": "2025-10-01T04:46:50Z"
+}

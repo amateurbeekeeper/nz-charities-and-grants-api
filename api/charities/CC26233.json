@@ -1,0 +1,27 @@
+{
+  "id": 41047,
+  "registrationNumber": "CC26233",
+  "name": "The Hope Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dave@thehopecentre.co.nz",
+  "address": {
+    "line1": "15 Ambury Road",
+    "line2": " ",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429042615736",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T03:38:32Z"
+}

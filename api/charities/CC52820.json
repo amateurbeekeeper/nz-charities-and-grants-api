@@ -1,0 +1,27 @@
+{
+  "id": 66548,
+  "registrationNumber": "CC52820",
+  "name": "Heriot Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-12-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lindsayalderton@hotmail.com",
+  "address": {
+    "line1": "342 Middle Road",
+    "line2": "Kelso RD 5",
+    "suburb": " ",
+    "city": "Gore",
+    "postcode": "9775"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T19:11:29Z"
+}

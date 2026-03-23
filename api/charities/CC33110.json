@@ -1,0 +1,27 @@
+{
+  "id": 60435,
+  "registrationNumber": "CC33110",
+  "name": "Revival Centres International Christchurch Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.revivalcentres.org",
+  "email": "mikedillonelectrical@icloud.com",
+  "address": {
+    "line1": "4 Snowlea Place",
+    "line2": "West Melton 7618",
+    "suburb": "West Melton",
+    "city": "Christchurch",
+    "postcode": "7618"
+  },
+  "nzbn": "9429043056576",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-27T19:40:12Z"
+}

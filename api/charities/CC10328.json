@@ -1,0 +1,27 @@
+{
+  "id": 51404,
+  "registrationNumber": "CC10328",
+  "name": "Arts On Tour Aotearoa New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aotnz.co.nz",
+  "email": "aotnz@xtra.co.nz",
+  "address": {
+    "line1": "10 Cygnet Street",
+    "line2": " ",
+    "suburb": "North New Brighton",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429043041497",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ArtsOnTourNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T21:35:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53261,
+  "registrationNumber": "CC11395",
+  "name": "Brian Mason Scientific and Technical Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.scitech-trust.org.nz",
+  "email": "michaelw@mackaybailey.co.nz",
+  "address": {
+    "line1": "109 Blenheim Road",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042595977",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T22:26:47Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54570,
+  "registrationNumber": "CC22101",
+  "name": "Johnsonville Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://jct.org.nz",
+  "email": "david@kadco.nz",
+  "address": {
+    "line1": "15 Kaiwharawhara Road",
+    "line2": " ",
+    "suburb": "Kaiwharawhara",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429042667704",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:49:42Z"
+}

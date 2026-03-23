@@ -1,0 +1,27 @@
+{
+  "id": 60006,
+  "registrationNumber": "CC38423",
+  "name": "Amuri Health Care Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.amurihc.co.nz",
+  "email": "manager@amurihc.co.nz",
+  "address": {
+    "line1": "40 Wilkin Street",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Rotherham",
+    "postcode": "7379"
+  },
+  "nzbn": "9429037069438",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-19T19:25:57Z"
+}

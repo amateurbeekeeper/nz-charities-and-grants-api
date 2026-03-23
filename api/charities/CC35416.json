@@ -1,0 +1,27 @@
+{
+  "id": 57598,
+  "registrationNumber": "CC35416",
+  "name": "Russell Centennial Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.russellmuseum.org.nz",
+  "email": "curator@russellmuseum.org.nz",
+  "address": {
+    "line1": "2 York Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Russell",
+    "postcode": "0202"
+  },
+  "nzbn": "9429042798842",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Kororarekawharetaonga",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-21T21:03:23Z"
+}

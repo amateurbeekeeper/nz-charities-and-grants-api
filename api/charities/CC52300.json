@@ -1,0 +1,27 @@
+{
+  "id": 66030,
+  "registrationNumber": "CC52300",
+  "name": "Edendale Presbyterian Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "epctreasurer2024@gmail.com",
+  "address": {
+    "line1": "30 Melvin Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Edendale",
+    "postcode": "9825"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-05T01:43:09Z"
+}

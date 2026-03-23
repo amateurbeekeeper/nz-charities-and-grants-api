@@ -1,0 +1,27 @@
+{
+  "id": 45755,
+  "registrationNumber": "CC40295",
+  "name": "Hawera Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-25T00:00:00Z",
+  "website": "http://www.playcentre.org.nz/",
+  "email": "hawera@playcentre.org.nz",
+  "address": {
+    "line1": "89 Fairfiled Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hawera",
+    "postcode": "4610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T03:38:28Z"
+}

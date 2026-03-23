@@ -1,0 +1,27 @@
+{
+  "id": 73411,
+  "registrationNumber": "CC60018",
+  "name": "Universal Entitlement Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://myubi.co.nz",
+  "email": "peter-brake@hotmail.com",
+  "address": {
+    "line1": "25 Waipapakauri Domain Road",
+    "line2": "RD 1",
+    "suburb": "Waipapakauri",
+    "city": "Awanui",
+    "postcode": "0486"
+  },
+  "nzbn": "9429049042795",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Universal Entitlement",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T01:52:09Z"
+}

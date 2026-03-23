@@ -1,0 +1,27 @@
+{
+  "id": 69216,
+  "registrationNumber": "CC55564",
+  "name": "Wāhine Connect Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wahineconnect.nz",
+  "email": "info@wahineconnect.nz",
+  "address": {
+    "line1": "PO Box 12231",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6144"
+  },
+  "nzbn": "9429046898838",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wahineconnect/",
+    "twitter": "@wahineconnect"
+  },
+  "lastUpdated": "2025-09-11T00:19:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 60419,
+  "registrationNumber": "CC42116",
+  "name": "Adventist Development and Relief Agency",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.adra.org.nz",
+  "email": "kheirboutros@adventist.org.nz",
+  "address": {
+    "line1": "124 Pah Road",
+    "line2": " ",
+    "suburb": "Royal Oak",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042572374",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-30T21:11:08Z"
+}

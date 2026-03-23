@@ -1,0 +1,27 @@
+{
+  "id": 66270,
+  "registrationNumber": "CC52535",
+  "name": "Male Survivors Wellington",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.theroadforward.org.nz",
+  "email": "support@theroadforward.org.nz",
+  "address": {
+    "line1": "Floor 1",
+    "line2": " JAG Building, 119 Queens Drive",
+    "suburb": "Fairfield",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429043311996",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": " www.facebook.com/theroadforward ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T19:45:35Z"
+}

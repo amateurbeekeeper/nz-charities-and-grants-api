@@ -1,0 +1,27 @@
+{
+  "id": 58346,
+  "registrationNumber": "CC26988",
+  "name": "Ember Wellbeing Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ember.org.nz",
+  "email": "spencer.beazley@ember.org.nz",
+  "address": {
+    "line1": "51 Huia Road",
+    "line2": " ",
+    "suburb": "Otahuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429042720874",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-12T01:41:00Z"
+}

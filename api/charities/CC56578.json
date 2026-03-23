@@ -1,0 +1,27 @@
+{
+  "id": 70212,
+  "registrationNumber": "CC56578",
+  "name": "Heriot Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "duskyelectrical@xtra.co.nz",
+  "address": {
+    "line1": "107 Mathesons Corner Road",
+    "line2": "RD 2",
+    "suburb": "Heriot",
+    "city": "Tapanui",
+    "postcode": "9587"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:22:05Z"
+}

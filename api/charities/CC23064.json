@@ -1,0 +1,27 @@
+{
+  "id": 39012,
+  "registrationNumber": "CC23064",
+  "name": "Spinal Support New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.spinalsupport.nz",
+  "email": "rob@spinalsupport.nz",
+  "address": {
+    "line1": "30 Bairds Road",
+    "line2": null,
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429042848479",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T00:56:53Z"
+}

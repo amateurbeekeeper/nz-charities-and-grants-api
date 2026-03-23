@@ -1,0 +1,27 @@
+{
+  "id": 75200,
+  "registrationNumber": "CC61633",
+  "name": "Ken Ratcliffe Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "saw@ctlaw.co.nz",
+  "address": {
+    "line1": "112 Tuam Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-15T19:29:08Z"
+}

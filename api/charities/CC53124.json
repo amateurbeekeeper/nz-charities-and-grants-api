@@ -1,0 +1,27 @@
+{
+  "id": 66852,
+  "registrationNumber": "CC53124",
+  "name": "St Joseph's Hawera Parish",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "msutton@pndiocese.org.nz",
+  "address": {
+    "line1": "38 Victoria Street",
+    "line2": " ",
+    "suburb": "Hawera",
+    "city": "Hawera",
+    "postcode": "4610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T23:18:46Z"
+}

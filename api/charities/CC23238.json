@@ -1,0 +1,27 @@
+{
+  "id": 56086,
+  "registrationNumber": "CC23238",
+  "name": "The Australasian Institute of Mining and Metallurgy, New Zealand Branch, Education Endowment Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ausimm.co.nz (link)",
+  "email": "graeme.fulton@xtra.co.nz",
+  "address": {
+    "line1": "OFFICE 1",
+    "line2": "17 Clarence Street",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "624"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-25T19:17:49Z"
+}

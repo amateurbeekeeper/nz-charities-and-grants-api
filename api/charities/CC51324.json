@@ -1,0 +1,27 @@
+{
+  "id": 34857,
+  "registrationNumber": "CC51324",
+  "name": "Te Whare Oranga - Lifehouse Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-01-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lifehousenz.org/",
+  "email": "office@lifehousenz.com",
+  "address": {
+    "line1": "237 Tremaine Avenue",
+    "line2": " ",
+    "suburb": "Highbury",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/lifehousenz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T19:52:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51930,
+  "registrationNumber": "CC24795",
+  "name": "Age Concern (Flaxmere) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@ageconcernflax.nz",
+  "address": {
+    "line1": "38 Bristol Crescent",
+    "line2": " ",
+    "suburb": "Flaxmere",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429042576167",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T22:05:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74336,
+  "registrationNumber": "CC60750",
+  "name": "Age Concern Auckland Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ageconcernauckland.org.nz/",
+  "email": "rhondao@acns.co.nz",
+  "address": {
+    "line1": "57 Rosebank Road",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429051799403",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/ageconcernauck",
+    "twitter": "https://twitter.com/AgeConcernAuck"
+  },
+  "lastUpdated": "2026-02-10T20:26:27Z"
+}

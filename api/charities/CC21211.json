@@ -1,0 +1,27 @@
+{
+  "id": 54929,
+  "registrationNumber": "CC21211",
+  "name": "Evangelical Formosan Church of North Shore",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "alvintrust@gmail.com",
+  "address": {
+    "line1": "1",
+    "line2": "2 Tiber Road",
+    "suburb": "Forrest Hill",
+    "city": "Auckland",
+    "postcode": "620"
+  },
+  "nzbn": "9429042934349",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EFCNS",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-29T21:19:50Z"
+}

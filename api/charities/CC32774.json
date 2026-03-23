@@ -1,0 +1,27 @@
+{
+  "id": 60463,
+  "registrationNumber": "CC32774",
+  "name": "The North Otago Agricultural And Pastoral Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://northotagoshow.co.nz",
+  "email": "oamarushow@xtra.co.nz",
+  "address": {
+    "line1": "2A Ettrick Street",
+    "line2": " ",
+    "suburb": "Oamaru North",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:25:19Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 46544,
+  "registrationNumber": "CC28824",
+  "name": "Westport Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sharon.roche@xtra.co.nz",
+  "address": {
+    "line1": "99 Palmerston Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Westport",
+    "postcode": "7825"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T18:40:56Z"
+}

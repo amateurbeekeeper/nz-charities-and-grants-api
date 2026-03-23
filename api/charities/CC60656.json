@@ -1,0 +1,27 @@
+{
+  "id": 74247,
+  "registrationNumber": "CC60656",
+  "name": "800 Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "daryl@800Trust.nz",
+  "address": {
+    "line1": "194 Cardiff Road",
+    "line2": "RD 21",
+    "suburb": "Cardiff",
+    "city": "Stratford",
+    "postcode": "4391"
+  },
+  "nzbn": "9429052687662",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:28:58Z"
+}

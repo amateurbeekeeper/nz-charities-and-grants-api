@@ -1,0 +1,27 @@
+{
+  "id": 33314,
+  "registrationNumber": "CC49176",
+  "name": "Auckland Citizens Advice Bureaux Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cab.org.nz",
+  "email": "admin@acabx.org.nz",
+  "address": {
+    "line1": "16 Commercial Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Helensville",
+    "postcode": "0800"
+  },
+  "nzbn": "9429043259403",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T21:53:29Z"
+}

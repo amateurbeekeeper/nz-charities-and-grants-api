@@ -1,0 +1,27 @@
+{
+  "id": 58684,
+  "registrationNumber": "CC28068",
+  "name": "Habitat For Humanity (Christchurch) Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-02-28T00:00:00Z",
+  "website": "http://www.habitat.org.nz",
+  "email": "christchurch@habitat.org.nz",
+  "address": {
+    "line1": "189 Waltham Road",
+    "line2": " ",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429038555169",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/habitatchch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-08T07:19:41Z"
+}

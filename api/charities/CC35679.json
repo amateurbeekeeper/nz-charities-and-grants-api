@@ -1,0 +1,27 @@
+{
+  "id": 45195,
+  "registrationNumber": "CC35679",
+  "name": "Multiples Hutt Valley Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.multipleshv.org",
+  "email": "vicepresident@multipleshv.org",
+  "address": {
+    "line1": "31 Thackeray Street",
+    "line2": " ",
+    "suburb": "Trentham",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429042870197",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MultiplesHV/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:19:20Z"
+}

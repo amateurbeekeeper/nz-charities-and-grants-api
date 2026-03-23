@@ -1,0 +1,27 @@
+{
+  "id": 58065,
+  "registrationNumber": "CC42821",
+  "name": "Te Waka Kai Ora Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2020-09-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tewakakaiora.co.nz",
+  "email": "cathy@biofarm.com",
+  "address": {
+    "line1": "118 Te Matai Road",
+    "line2": null,
+    "suburb": "Whakarongo",
+    "city": "Palmerston North",
+    "postcode": "4470"
+  },
+  "nzbn": "9429042997627",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T22:10:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42971,
+  "registrationNumber": "CC32061",
+  "name": "Well Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wellfoundation.org.nz",
+  "email": "ruth@wellfoundation.org.nz",
+  "address": {
+    "line1": "Building 5 (Outpatients), Level 1",
+    "line2": "North Shore Hospital",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429043263233",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "WellFoundationNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T01:31:40Z"
+}

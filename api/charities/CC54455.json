@@ -1,0 +1,27 @@
+{
+  "id": 68131,
+  "registrationNumber": "CC54455",
+  "name": "Mountains to Sea Wellington Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.MountainsToSeaWellington.org",
+  "email": "zoe.studd@mtsw.org.nz",
+  "address": {
+    "line1": "43 Moa Point Road",
+    "line2": " ",
+    "suburb": "Moa Point",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429046128645",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mountainstoseawellington/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:33:46Z"
+}

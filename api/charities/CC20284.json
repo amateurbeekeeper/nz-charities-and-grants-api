@@ -1,0 +1,27 @@
+{
+  "id": 53492,
+  "registrationNumber": "CC20284",
+  "name": "Shalom Malayalam Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://shalomchurch.co.nz/",
+  "email": "mmathai63@gmail.com",
+  "address": {
+    "line1": "30 Reynolds Street",
+    "line2": " ",
+    "suburb": "Taita",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429043045990",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ShalomchurchWGTN",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T06:27:58Z"
+}

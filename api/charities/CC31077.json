@@ -1,0 +1,27 @@
+{
+  "id": 49320,
+  "registrationNumber": "CC31077",
+  "name": "MMHC Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "msc@xtra.co.nz",
+  "address": {
+    "line1": "207/28 Dogwood Way",
+    "line2": " ",
+    "suburb": "Milson",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429042963837",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T23:13:40Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51939,
+  "registrationNumber": "CC10920",
+  "name": "Riverton Community Medical Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "whiteclan@outlook.co.nz",
+  "address": {
+    "line1": "45 Towack Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Riverton",
+    "postcode": "9822"
+  },
+  "nzbn": "9429042938477",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:12:57Z"
+}

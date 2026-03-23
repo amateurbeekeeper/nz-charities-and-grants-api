@@ -1,0 +1,27 @@
+{
+  "id": 52384,
+  "registrationNumber": "CC11221",
+  "name": "Te Ora Hou Whanganui Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://teorahou.org.nz",
+  "email": "jkumeroa@teorahou.org.nz",
+  "address": {
+    "line1": "32 Totara Street",
+    "line2": " ",
+    "suburb": "Tawhero",
+    "city": "Wanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429043031849",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tohwhanganui",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T01:16:54Z"
+}

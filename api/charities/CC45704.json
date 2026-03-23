@@ -1,0 +1,27 @@
+{
+  "id": 61478,
+  "registrationNumber": "CC45704",
+  "name": "The MacKenzie Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul@fairlieagile.co.nz",
+  "address": {
+    "line1": "State High way 8",
+    "line2": "Tekapo 7945",
+    "suburb": "Lake Tekapo",
+    "city": "Tekapo",
+    "postcode": "7945"
+  },
+  "nzbn": "9429042754176",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T01:51:53Z"
+}

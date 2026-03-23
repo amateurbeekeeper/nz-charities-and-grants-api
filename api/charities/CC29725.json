@@ -1,0 +1,27 @@
+{
+  "id": 55175,
+  "registrationNumber": "CC29725",
+  "name": "Christian Science Society, Napier",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jrshrobson@gmail.com",
+  "address": {
+    "line1": "126 Tennyson Street",
+    "line2": " ",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042619253",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:29:59Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40140,
+  "registrationNumber": "CC22783",
+  "name": "The Canterbury Fiji Social Services Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.canterburyfijisocialservicestrust.co.nz",
+  "email": "fiji.social.services@gmail.com",
+  "address": {
+    "line1": "40 Hillary Crescent",
+    "line2": " ",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042856405",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-24T19:32:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33504,
+  "registrationNumber": "CC49639",
+  "name": "Tourette's Association New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-08-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tourettes.org.nz",
+  "email": "gm@tourettes.org.nz",
+  "address": {
+    "line1": "21A Plynlimon Road",
+    "line2": " ",
+    "suburb": "Fendalton",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429043256020",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/tourettesnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T23:13:29Z"
+}

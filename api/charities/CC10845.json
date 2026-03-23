@@ -1,0 +1,27 @@
+{
+  "id": 52554,
+  "registrationNumber": "CC10845",
+  "name": "Renwick Sports Centre Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.renwicksportscentre.com",
+  "email": "info@renwicksportscentre.co.nz",
+  "address": {
+    "line1": "10 Uxbridge Street",
+    "line2": "Renwick 7204",
+    "suburb": " ",
+    "city": "Renwick",
+    "postcode": "7204"
+  },
+  "nzbn": "9429043172573",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RenwickSportsCentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T20:06:12Z"
+}

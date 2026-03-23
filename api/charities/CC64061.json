@@ -1,0 +1,27 @@
+{
+  "id": 78248,
+  "registrationNumber": "CC64061",
+  "name": "Best Life Project",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kim.blproject@gmail.com",
+  "address": {
+    "line1": "9 William Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Prebbleton",
+    "postcode": "7604"
+  },
+  "nzbn": "9429052423840",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61555153321133",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T07:34:18Z"
+}

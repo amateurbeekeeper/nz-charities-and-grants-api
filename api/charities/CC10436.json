@@ -1,0 +1,27 @@
+{
+  "id": 51757,
+  "registrationNumber": "CC10436",
+  "name": "Breast Cancer Support Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.breastcancersupport.org.nz",
+  "email": "support@breastcancersupport.org.nz",
+  "address": {
+    "line1": "352 Mangatawhiri Road",
+    "line2": "RD 6",
+    "suburb": "Tawharanui Peninsula",
+    "city": "Warkworth",
+    "postcode": "0986"
+  },
+  "nzbn": "9429043140787",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/breastcancersupportnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T18:21:08Z"
+}

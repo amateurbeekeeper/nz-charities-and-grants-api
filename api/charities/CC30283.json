@@ -1,0 +1,27 @@
+{
+  "id": 61406,
+  "registrationNumber": "CC30283",
+  "name": "Karaka Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-30T00:00:00Z",
+  "website": null,
+  "email": "hitchcock.kelly@gmail.com",
+  "address": {
+    "line1": "299 Linwood Road",
+    "line2": "R.d.1",
+    "suburb": "Papakura",
+    "city": "Auckland",
+    "postcode": "2580"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T20:27:30Z"
+}

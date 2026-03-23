@@ -1,0 +1,27 @@
+{
+  "id": 77826,
+  "registrationNumber": "CC63623",
+  "name": "Lena's Magic Movers Inc",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lenasmagicmovers@gmail.com",
+  "address": {
+    "line1": "24 Riro Street",
+    "line2": " ",
+    "suburb": "Point Chevalier",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429052729485",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T08:24:26Z"
+}

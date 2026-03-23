@@ -1,0 +1,27 @@
+{
+  "id": 36120,
+  "registrationNumber": "CC45281",
+  "name": "Muriwai Lifeguard Service Amenities Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thesurfclubatmuriwai.org",
+  "email": "administrator@muriwaisurf.org.nz",
+  "address": {
+    "line1": "100 Jack Butt Lane",
+    "line2": "Muriwai Regional Park",
+    "suburb": "Muriwai Beach",
+    "city": "Auckland",
+    "postcode": "0881"
+  },
+  "nzbn": "9429043225842",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-15T19:27:46Z"
+}

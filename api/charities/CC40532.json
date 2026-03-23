@@ -1,0 +1,27 @@
+{
+  "id": 46858,
+  "registrationNumber": "CC40532",
+  "name": "Camerata Choir",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "beverley.waugh@xtra.co.nz",
+  "address": {
+    "line1": "12 Wellesley Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Feilding",
+    "postcode": "4702"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CamerataChoir",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T22:57:13Z"
+}

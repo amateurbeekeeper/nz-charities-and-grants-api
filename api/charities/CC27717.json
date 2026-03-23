@@ -1,0 +1,27 @@
+{
+  "id": 59999,
+  "registrationNumber": "CC27717",
+  "name": "Taranaki FM Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mostfm.com",
+  "email": "warren@mostfm.com",
+  "address": {
+    "line1": "27 Liardet Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043180165",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/themostfm/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T20:41:24Z"
+}

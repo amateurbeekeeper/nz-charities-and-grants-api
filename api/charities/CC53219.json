@@ -1,0 +1,27 @@
+{
+  "id": 66926,
+  "registrationNumber": "CC53219",
+  "name": "Cultivate Christchurch Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-03-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cultivate.org.nz",
+  "email": "fiona@cultivate.org.nz",
+  "address": {
+    "line1": "3A Studfold Row",
+    "line2": " ",
+    "suburb": "Westmorland",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429042204763",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/CultivateChCh",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T05:19:31Z"
+}

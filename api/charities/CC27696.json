@@ -1,0 +1,27 @@
+{
+  "id": 52534,
+  "registrationNumber": "CC27696",
+  "name": "The Physics Room Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.physicsroom.org.nz/",
+  "email": "james@physicsroom.org.nz",
+  "address": {
+    "line1": "301 Montreal Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042745600",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@ThePhysicsRoom",
+    "twitter": "@physicsroom"
+  },
+  "lastUpdated": "2026-01-19T00:15:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 68265,
+  "registrationNumber": "CC54599",
+  "name": "National Hauora Coalition Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nhc.maori.nz",
+  "email": "jonathanm@nhc.maori.nz",
+  "address": {
+    "line1": "Level 4, 8 Tangihua Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429030298279",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NationalHauoraCoalition/",
+    "twitter": "https://twitter.com/nationalhauora"
+  },
+  "lastUpdated": "2025-12-17T20:14:45Z"
+}

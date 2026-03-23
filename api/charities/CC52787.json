@@ -1,0 +1,27 @@
+{
+  "id": 66524,
+  "registrationNumber": "CC52787",
+  "name": "Proud to Play New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.proudtoplay.co.nz",
+  "email": "craig.watson@outlook.com",
+  "address": {
+    "line1": "97 Sharon Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Kaukapakapa",
+    "postcode": "0871"
+  },
+  "nzbn": "9429043296811",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/proudtoplaynz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T20:49:56Z"
+}

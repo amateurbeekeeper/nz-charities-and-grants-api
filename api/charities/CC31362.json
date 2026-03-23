@@ -1,0 +1,27 @@
+{
+  "id": 58638,
+  "registrationNumber": "CC31362",
+  "name": "Inglewood Community Child Care Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.inglewoodchildcare.co.nz",
+  "email": "admin@inglewoodchildcare.co.nz",
+  "address": {
+    "line1": "3 Rata Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Inglewood",
+    "postcode": "4330"
+  },
+  "nzbn": "9429042636762",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T21:32:45Z"
+}

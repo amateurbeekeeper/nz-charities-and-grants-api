@@ -1,0 +1,27 @@
+{
+  "id": 58720,
+  "registrationNumber": "CC39659",
+  "name": "Arts Canterbury Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.artscanterbury.org.nz",
+  "email": "admin@artscanterbury.org.nz",
+  "address": {
+    "line1": "624 Oxford Road",
+    "line2": "RD 1",
+    "suburb": "Fernside",
+    "city": "Rangiora",
+    "postcode": "7471"
+  },
+  "nzbn": "9429042983736",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ArtsCanterburyNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-24T02:59:23Z"
+}

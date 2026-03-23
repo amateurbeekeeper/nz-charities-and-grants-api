@@ -1,0 +1,27 @@
+{
+  "id": 35374,
+  "registrationNumber": "CC49538",
+  "name": "Flight Centre (NZ) Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "foundation@flightcentre.co.nz",
+  "address": {
+    "line1": "Floor 3",
+    "line2": "124 Vincent Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-06T22:34:30Z"
+}

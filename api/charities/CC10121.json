@@ -1,0 +1,27 @@
+{
+  "id": 51058,
+  "registrationNumber": "CC10121",
+  "name": "Parent To Parent New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.parent2parent.org.nz",
+  "email": "karenm@parent2parent.org.nz",
+  "address": {
+    "line1": "1026 Victoria Street",
+    "line2": "71 London Street",
+    "suburb": "Whitiora",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429042802624",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/parent2parentnz/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T18:18:57Z"
+}

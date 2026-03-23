@@ -1,0 +1,27 @@
+{
+  "id": 44326,
+  "registrationNumber": "CC37842",
+  "name": "Northland Memorial Community Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.northlandcommunitycentre.org.nz",
+  "email": "bill@northlandcommunitycentre.org.nz",
+  "address": {
+    "line1": "5 Woburn Road",
+    "line2": " ",
+    "suburb": "Northland",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429042688181",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nmcc.northland/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T02:54:56Z"
+}

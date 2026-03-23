@@ -1,0 +1,27 @@
+{
+  "id": 52774,
+  "registrationNumber": "CC11380",
+  "name": "Cancer Society Of New Zealand Central Districts Division Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chris.franklyn@cancercd.org.nz",
+  "address": {
+    "line1": "135 Ruahine Street",
+    "line2": " ",
+    "suburb": "Roslyn",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429042608592",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:10:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71309,
+  "registrationNumber": "CC57680",
+  "name": "The Joseph Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "james@egan.co.nz",
+  "address": {
+    "line1": "6 Glenbrook Street",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-19T19:26:37Z"
+}

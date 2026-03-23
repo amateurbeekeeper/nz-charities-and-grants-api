@@ -1,0 +1,27 @@
+{
+  "id": 58268,
+  "registrationNumber": "CC35685",
+  "name": "Network For Women In Dairying",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dwn.co.nz",
+  "email": "dianne.cameron@dwn.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": " 450 Anglesea Street",
+    "suburb": "Hamilton City",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043133994",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dwn.co.nz/",
+    "twitter": "https://x.com/dairy_women"
+  },
+  "lastUpdated": "2025-11-26T22:31:18Z"
+}

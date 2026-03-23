@@ -1,0 +1,27 @@
+{
+  "id": 36892,
+  "registrationNumber": "CC46368",
+  "name": "Share International NZ Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-03-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.share-international-nz.info",
+  "email": "gst@xtra.co.nz",
+  "address": {
+    "line1": "19 Four Trees",
+    "line2": " ",
+    "suburb": "Cockle Bay",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/share.international.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-24T19:34:43Z"
+}

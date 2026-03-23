@@ -1,0 +1,27 @@
+{
+  "id": 33754,
+  "registrationNumber": "CC49989",
+  "name": "J H Ranch Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-11-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.jh.org.nz",
+  "email": "accounts@jh.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "130 St Georges Bay Rd",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429043248926",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "JH Aotearoa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T03:30:41Z"
+}

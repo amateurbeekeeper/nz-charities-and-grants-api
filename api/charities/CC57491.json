@@ -1,0 +1,27 @@
+{
+  "id": 71115,
+  "registrationNumber": "CC57491",
+  "name": "Maori and Pasifika Education Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mapedu.org",
+  "email": "louise@mapedu.org",
+  "address": {
+    "line1": "PO Box 7044",
+    "line2": " ",
+    "suburb": "Mornington",
+    "city": "Dunedin",
+    "postcode": "9040"
+  },
+  "nzbn": "9429047670440",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-31T21:26:24Z"
+}

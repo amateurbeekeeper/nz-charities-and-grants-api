@@ -1,0 +1,27 @@
+{
+  "id": 72936,
+  "registrationNumber": "CC59323",
+  "name": "Aorere Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2021-08-20T00:00:00Z",
+  "dateDeregistered": "2025-08-10T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/aorere/",
+  "email": "aorere@playcentre.org.nz",
+  "address": {
+    "line1": "12 Orion Street",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Collingwood",
+    "postcode": "7073"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aorereplaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T07:16:27Z"
+}

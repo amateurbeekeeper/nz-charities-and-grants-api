@@ -1,0 +1,27 @@
+{
+  "id": 40226,
+  "registrationNumber": "CC29874",
+  "name": "New Zealand Christian Counsellors Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzcca.org.nz",
+  "email": "info@nzcca.org.nz",
+  "address": {
+    "line1": "37 Martyn Street",
+    "line2": "Waiuku 2123",
+    "suburb": "Papatoetoe",
+    "city": "Waiuku",
+    "postcode": "2123"
+  },
+  "nzbn": "9429042708179",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T18:13:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 57966,
+  "registrationNumber": "CC26745",
+  "name": "Mangapapa Union Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mup.org.nz",
+  "email": "office@mup.org.nz",
+  "address": {
+    "line1": "314 Ormond Road",
+    "line2": " ",
+    "suburb": "Mangapapa",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T18:02:50Z"
+}

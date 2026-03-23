@@ -1,0 +1,27 @@
+{
+  "id": 55890,
+  "registrationNumber": "CC25345",
+  "name": "Little Shadow Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.littleshadow.org.nz",
+  "email": "ed@littleshadow.org.nz",
+  "address": {
+    "line1": "PO Box 9362",
+    "line2": "Marion Square",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6141"
+  },
+  "nzbn": "9429052408595",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/littleshadowwellington",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T03:42:55Z"
+}

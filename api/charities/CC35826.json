@@ -1,0 +1,27 @@
+{
+  "id": 44318,
+  "registrationNumber": "CC35826",
+  "name": "Parklands Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-12-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.parklandstoylibrary.nz",
+  "email": "parklandstoylibrary@gmail.com",
+  "address": {
+    "line1": "Parklands Community Centre",
+    "line2": "75 Queenspark Drive",
+    "suburb": "Parklands",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429042802211",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Parklands Toy Library, Parklands",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:55:29Z"
+}

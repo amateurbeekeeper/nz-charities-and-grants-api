@@ -1,0 +1,27 @@
+{
+  "id": 34809,
+  "registrationNumber": "CC51242",
+  "name": "Orientation Aotearoa",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2014-12-05T00:00:00Z",
+  "dateDeregistered": "2016-12-31T00:00:00Z",
+  "website": "www.oa.org.nz",
+  "email": "doris.zuur@gmail.com",
+  "address": {
+    "line1": "59 Wellington Road",
+    "line2": null,
+    "suburb": null,
+    "city": "Paekakariki",
+    "postcode": "5034"
+  },
+  "nzbn": "9429043266500",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T04:17:14Z"
+}

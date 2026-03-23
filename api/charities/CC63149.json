@@ -1,0 +1,27 @@
+{
+  "id": 77256,
+  "registrationNumber": "CC63149",
+  "name": "Kenakena School Parent Teacher Association",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurerkspn@kk.school.nz",
+  "address": {
+    "line1": "12 Donovan Road",
+    "line2": " ",
+    "suburb": "Paraparaumu Beach",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KenakenaSchoolParentNetwork/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T22:04:23Z"
+}

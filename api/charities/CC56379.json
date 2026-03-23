@@ -1,0 +1,27 @@
+{
+  "id": 70021,
+  "registrationNumber": "CC56379",
+  "name": "Next Era Sports",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-11-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nzcyet@gmail.com",
+  "address": {
+    "line1": "Unit 9",
+    "line2": "13 Highbrook Drive",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T19:50:19Z"
+}

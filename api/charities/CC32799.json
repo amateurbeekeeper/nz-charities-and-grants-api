@@ -1,0 +1,27 @@
+{
+  "id": 44721,
+  "registrationNumber": "CC32799",
+  "name": "The New Zealand Education & Scholarship Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nzest.ac.nz",
+  "email": "admin@nzest.ac.nz",
+  "address": {
+    "line1": "8 Clive Road",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042948551",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-17T19:26:02Z"
+}

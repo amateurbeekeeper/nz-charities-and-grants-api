@@ -1,0 +1,27 @@
+{
+  "id": 64122,
+  "registrationNumber": "CC44223",
+  "name": "The Village Community Services Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.villagetrust.co.nz",
+  "email": "maliena@villagetrust.co.nz",
+  "address": {
+    "line1": "448 Rosebank Road",
+    "line2": " Unit 3",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429043104093",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/thevillagecommunityservicetrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T18:14:07Z"
+}

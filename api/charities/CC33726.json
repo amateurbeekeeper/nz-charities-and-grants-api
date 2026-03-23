@@ -1,0 +1,27 @@
+{
+  "id": 59752,
+  "registrationNumber": "CC33726",
+  "name": "Dunedin Kindergartens Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dk.org.nz",
+  "email": "christine@bbas.co.nz",
+  "address": {
+    "line1": "81 Forbury Road",
+    "line2": " ",
+    "suburb": "Saint Clair",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042664000",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Dunedin Kindergartens",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T06:29:52Z"
+}

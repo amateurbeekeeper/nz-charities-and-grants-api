@@ -1,0 +1,27 @@
+{
+  "id": 55698,
+  "registrationNumber": "CC22754",
+  "name": "Pinpoint Counselling Service",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pinpointschool.org",
+  "email": "allan@pinpointschool.org",
+  "address": {
+    "line1": "382 Upper Harbour Drive",
+    "line2": " ",
+    "suburb": "Greenhithe",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429042806875",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-29T19:39:22Z"
+}

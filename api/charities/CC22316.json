@@ -1,0 +1,27 @@
+{
+  "id": 52500,
+  "registrationNumber": "CC22316",
+  "name": "National Council of Maori Nurses Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://maorinursescouncil.nz",
+  "email": "maorinursescouncil@gmail.com",
+  "address": {
+    "line1": "PO Box 5051",
+    "line2": "Rotorua West",
+    "suburb": "Utuhina",
+    "city": "Rotorua",
+    "postcode": "3044"
+  },
+  "nzbn": "9429042769255",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/1672909339497140/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-07T00:13:43Z"
+}

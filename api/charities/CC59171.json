@@ -1,0 +1,27 @@
+{
+  "id": 72776,
+  "registrationNumber": "CC59171",
+  "name": "Aotearoa Impact Ecosystem Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.impactinvestingnetwork.nz/",
+  "email": "info@impactinvestingnetwork.nz",
+  "address": {
+    "line1": "26 Egmont Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429049194463",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "https://twitter.com/iin_nz"
+  },
+  "lastUpdated": "2025-09-14T19:59:07Z"
+}

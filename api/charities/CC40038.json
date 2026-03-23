@@ -1,0 +1,27 @@
+{
+  "id": 63198,
+  "registrationNumber": "CC40038",
+  "name": "Primal Youth Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stuart@c3.org.nz",
+  "address": {
+    "line1": "20 Cawley Street",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429043116058",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T03:51:52Z"
+}

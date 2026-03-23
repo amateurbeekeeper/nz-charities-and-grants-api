@@ -1,0 +1,27 @@
+{
+  "id": 39528,
+  "registrationNumber": "CC22938",
+  "name": "Auckland City Mission",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandcitymission.org.nz",
+  "email": "hayley.s@aucklandcitymission.org.nz",
+  "address": {
+    "line1": "140-142 Hobson Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042587972",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T20:07:22Z"
+}

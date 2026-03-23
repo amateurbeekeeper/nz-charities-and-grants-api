@@ -1,0 +1,27 @@
+{
+  "id": 78371,
+  "registrationNumber": "CC64187",
+  "name": "Whitianga Property Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-11-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "whititrust@gmail.com",
+  "address": {
+    "line1": "68 Cook Drive",
+    "line2": null,
+    "suburb": null,
+    "city": "Whitianga",
+    "postcode": "3510"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T02:19:35Z"
+}

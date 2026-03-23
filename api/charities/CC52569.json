@@ -1,0 +1,27 @@
+{
+  "id": 66297,
+  "registrationNumber": "CC52569",
+  "name": "Anglican Diocese of Christchurch - Parish of Shirley",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.allsaintsburwood.nz",
+  "email": "info@allsaintsburwood.nz",
+  "address": {
+    "line1": "305 New Brighton Road",
+    "line2": " ",
+    "suburb": "Burwood",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/allsaintsburwood",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T19:14:34Z"
+}

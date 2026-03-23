@@ -1,0 +1,27 @@
+{
+  "id": 76020,
+  "registrationNumber": "CC62471",
+  "name": "Connect to Thrive Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.connecttothrive.co.nz/",
+  "email": "fclements@gclegal.co.nz",
+  "address": {
+    "line1": "16 Osborne Road",
+    "line2": "RD 1",
+    "suburb": "Horsham Downs",
+    "city": "Hamilton",
+    "postcode": "3281"
+  },
+  "nzbn": "9429051885144",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:42:29Z"
+}

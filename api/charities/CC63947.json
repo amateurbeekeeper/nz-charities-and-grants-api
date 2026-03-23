@@ -1,0 +1,27 @@
+{
+  "id": 78137,
+  "registrationNumber": "CC63947",
+  "name": "Greater Auckland Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.greaterauckland.org.nz/",
+  "email": "connorsharp44@gmail.com",
+  "address": {
+    "line1": "Unit 1G",
+    "line2": "18 Scotia Place",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429052776441",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GreaterAKL",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T02:40:09Z"
+}

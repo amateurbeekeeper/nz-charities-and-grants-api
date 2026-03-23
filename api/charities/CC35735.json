@@ -1,0 +1,27 @@
+{
+  "id": 62362,
+  "registrationNumber": "CC35735",
+  "name": "Life A Plenty Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-12-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lifeaplenty.nz",
+  "email": "neil@lifeaplenty.nz",
+  "address": {
+    "line1": "235 Papamoa Beach Road",
+    "line2": " ",
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": "9429043184750",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T22:14:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42926,
+  "registrationNumber": "CC31606",
+  "name": "Te Awanui Hauora Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "taht@teawanuihauora.org.nz",
+  "address": {
+    "line1": "Te Awanui Hauora, Opureora Road",
+    "line2": "C/- Matakana Island Postal Centre",
+    "suburb": "Matakana Island",
+    "city": "Tauranga",
+    "postcode": "3136"
+  },
+  "nzbn": "9429043126309",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/TeAwanuiHauoraTrust",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2025-11-17T18:05:28Z"
+}

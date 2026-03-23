@@ -1,0 +1,27 @@
+{
+  "id": 74386,
+  "registrationNumber": "CC60800",
+  "name": "Vik's Rescue",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "viksrescue@gmail.com",
+  "address": {
+    "line1": "155 State Highway 2",
+    "line2": "RD 1",
+    "suburb": "Ōtāne",
+    "city": "Otane",
+    "postcode": "4276"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Viks Rescue",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-06T07:57:30Z"
+}

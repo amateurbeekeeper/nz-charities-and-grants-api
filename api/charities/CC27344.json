@@ -1,0 +1,27 @@
+{
+  "id": 57787,
+  "registrationNumber": "CC27344",
+  "name": "Hillview Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://communityview.nz/",
+  "email": "hillviewtrust@xtra.co.nz",
+  "address": {
+    "line1": "420 Manawaru Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Te Aroha",
+    "postcode": "3391"
+  },
+  "nzbn": "9429042622734",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T18:05:05Z"
+}

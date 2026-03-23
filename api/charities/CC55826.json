@@ -1,0 +1,27 @@
+{
+  "id": 69473,
+  "registrationNumber": "CC55826",
+  "name": "Ehlers-Danlos Society New Zealand Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ehlers-danlos.org.nz",
+  "email": "kelly@ehlers-danlos.org.nz",
+  "address": {
+    "line1": "Unit 2",
+    "line2": "21 Alexander Avenue",
+    "suburb": "Torbay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429046799357",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/EDSNewZealand/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-06T21:02:03Z"
+}

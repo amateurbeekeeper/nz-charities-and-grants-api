@@ -1,0 +1,27 @@
+{
+  "id": 63109,
+  "registrationNumber": "CC38052",
+  "name": "Canterbury Down Syndrome Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cdsa.org.nz",
+  "email": "cdsainc@gmail.com",
+  "address": {
+    "line1": "460 Papanui Road",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429043090143",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T00:02:08Z"
+}

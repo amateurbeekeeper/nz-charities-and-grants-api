@@ -1,0 +1,27 @@
+{
+  "id": 60982,
+  "registrationNumber": "CC29003",
+  "name": "Wadestown Toy Library Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-05-26T00:00:00Z",
+  "website": "https://wadestowntoylibrary.mibase.co.nz/home/index.php",
+  "email": "belinda_postma@yahoo.com",
+  "address": {
+    "line1": "46 Pitt Street",
+    "line2": " ",
+    "suburb": "Wadestown",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429042902478",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WadestownToyLibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-07T07:07:42Z"
+}

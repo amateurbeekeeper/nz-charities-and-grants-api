@@ -1,0 +1,27 @@
+{
+  "id": 36189,
+  "registrationNumber": "CC45394",
+  "name": "Dunstan Community Whare Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul.checketts@pkf.co.nz",
+  "address": {
+    "line1": "17 Enterprise Street",
+    "line2": "Alexandra 9320",
+    "suburb": "77 Centennial Avenue",
+    "city": "Alexandra",
+    "postcode": "9320"
+  },
+  "nzbn": "9429042950523",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T18:03:21Z"
+}

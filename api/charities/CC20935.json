@@ -1,0 +1,27 @@
+{
+  "id": 55914,
+  "registrationNumber": "CC20935",
+  "name": "Citizens Advice Bureau Dunedin Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cab.org.nz",
+  "email": "dunedin@cab.org.nz",
+  "address": {
+    "line1": "155 Princes Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042662211",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CABDunedin",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:10:10Z"
+}

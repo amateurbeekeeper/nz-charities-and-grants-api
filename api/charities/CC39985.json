@@ -1,0 +1,27 @@
+{
+  "id": 42823,
+  "registrationNumber": "CC39985",
+  "name": "Hamilton Citizens' Band Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.hamiltonbrass.co.nz",
+  "email": "secretary@hamiltonbrass.co.nz",
+  "address": {
+    "line1": "245 Clyde Street",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429042717157",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@hamiltoncitybrass",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T03:45:39Z"
+}

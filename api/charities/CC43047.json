@@ -1,0 +1,27 @@
+{
+  "id": 47050,
+  "registrationNumber": "CC43047",
+  "name": "Infant Mental Health Association of Aotearoa New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.imhaanz.org.nz",
+  "email": "mazriond@gmail.com",
+  "address": {
+    "line1": "24 Waima Crescent",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/people/Imhaanz-Exec/100008375134140",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T03:20:20Z"
+}

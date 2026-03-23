@@ -1,0 +1,27 @@
+{
+  "id": 33157,
+  "registrationNumber": "CC48596",
+  "name": "Autism Eden Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-11-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "autismedentrust@gmail.com",
+  "address": {
+    "line1": "28 Lynbrooke Avenue",
+    "line2": " ",
+    "suburb": "Blockhouse Bay",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429043322152",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T18:09:48Z"
+}

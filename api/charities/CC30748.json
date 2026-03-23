@@ -1,0 +1,27 @@
+{
+  "id": 48830,
+  "registrationNumber": "CC30748",
+  "name": "Eating Disorders Association of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ed.org.nz",
+  "email": "andrea@ed.org.nz",
+  "address": {
+    "line1": "1 De Havilland Road",
+    "line2": " ",
+    "suburb": "Hobsonville",
+    "city": "Auckland",
+    "postcode": "0616"
+  },
+  "nzbn": "9429043137930",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EDANZsupport",
+    "twitter": "@edanzinfo"
+  },
+  "lastUpdated": "2026-03-03T02:39:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39140,
+  "registrationNumber": "CC20856",
+  "name": "Citizens Advice Bureau Queenstown Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cab.org.nz/queenstown",
+  "email": "manager.queenstown@cab.org.nz",
+  "address": {
+    "line1": "44 Stanley Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429042807872",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T20:53:04Z"
+}

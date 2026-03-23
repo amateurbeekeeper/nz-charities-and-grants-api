@@ -1,0 +1,27 @@
+{
+  "id": 66454,
+  "registrationNumber": "CC52719",
+  "name": "Nyingje Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nyingjetrust.com",
+  "email": "nyingjetrust@gmail.com",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "122 Pope Street",
+    "suburb": "Camborne",
+    "city": "Porirua",
+    "postcode": "5026"
+  },
+  "nzbn": "9429043313174",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "nyingjetrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:27:51Z"
+}

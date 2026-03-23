@@ -1,0 +1,27 @@
+{
+  "id": 53234,
+  "registrationNumber": "CC20808",
+  "name": "Panacea Arts Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mapurastudios.org.nz",
+  "email": "peterhaynes8@gmail.com",
+  "address": {
+    "line1": "Rocky Nook Bowls, 1st Clubroom,",
+    "line2": "Fowlds Park, Rocky Nook Ave",
+    "suburb": "St Lukes",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429042979418",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mapurastudios",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T18:12:49Z"
+}

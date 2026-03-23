@@ -1,0 +1,27 @@
+{
+  "id": 65371,
+  "registrationNumber": "CC51601",
+  "name": "Learn Active ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.learnactive.co.nz",
+  "email": "karla@learnactive.co.nz",
+  "address": {
+    "line1": "151 Cashmere Road",
+    "line2": " ",
+    "suburb": "Cashmere",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429030362710",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/learnactivenz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:15:02Z"
+}

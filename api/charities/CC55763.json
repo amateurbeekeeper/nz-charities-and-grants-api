@@ -1,0 +1,27 @@
+{
+  "id": 69412,
+  "registrationNumber": "CC55763",
+  "name": "Grace Nepali Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-06-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gracenepalichurch.com",
+  "email": "gracenepalichurch.nz@gmail.com",
+  "address": {
+    "line1": "55 Blue Jacket Drive",
+    "line2": " ",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/gracenepalichurch",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T03:32:33Z"
+}

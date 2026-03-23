@@ -1,0 +1,27 @@
+{
+  "id": 54641,
+  "registrationNumber": "CC22375",
+  "name": "Green Bay Life Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "greenbaylifechurch@gmail.com",
+  "address": {
+    "line1": "14 Vardon Road",
+    "line2": " ",
+    "suburb": "Green Bay",
+    "city": "Auckland",
+    "postcode": "604"
+  },
+  "nzbn": "9429042831549",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/greenbaylifechurch/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-16T19:06:53Z"
+}

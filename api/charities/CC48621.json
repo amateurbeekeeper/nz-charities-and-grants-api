@@ -1,0 +1,27 @@
+{
+  "id": 32875,
+  "registrationNumber": "CC48621",
+  "name": "SADD Aotearoa - Students Against Dangerous Driving Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-12-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sadd.org.nz",
+  "email": "mmcclosky@aa.co.nz",
+  "address": {
+    "line1": "20 Viaduct Harbour Avenue",
+    "line2": "P O Box 5",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043274550",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T22:39:03Z"
+}

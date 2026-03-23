@@ -1,0 +1,27 @@
+{
+  "id": 65105,
+  "registrationNumber": "CC29745",
+  "name": "New Zealand Private Surgical Hospitals Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzpsha.org.nz",
+  "email": "chris.roberts@nzpsha.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": " 88 The Terrace",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043053674",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:54:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38939,
+  "registrationNumber": "CC23283",
+  "name": "Casa Dei Bambini Educational Trust ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.casadeibambini.school.nz/",
+  "email": "admin@casadeibambini.school.nz",
+  "address": {
+    "line1": "50 Flesher Avenue",
+    "line2": " ",
+    "suburb": "Richmond",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042606383",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/casa.dei.bambini.foundation.school/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T20:45:12Z"
+}

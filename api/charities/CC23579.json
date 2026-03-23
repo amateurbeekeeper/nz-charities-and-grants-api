@@ -1,0 +1,27 @@
+{
+  "id": 55381,
+  "registrationNumber": "CC23579",
+  "name": "Woolf Fisher Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.woolffishertrust.co.nz",
+  "email": "woolffisher@gmail.com",
+  "address": {
+    "line1": "Flat 4",
+    "line2": "26 Wallace Street",
+    "suburb": "Herne Bay",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429042904755",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T01:57:52Z"
+}

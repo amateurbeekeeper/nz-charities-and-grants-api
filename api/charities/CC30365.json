@@ -1,0 +1,27 @@
+{
+  "id": 48033,
+  "registrationNumber": "CC30365",
+  "name": "Marsden Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-23T00:00:00Z",
+  "website": null,
+  "email": "marsden@playcentre.org.nz",
+  "address": {
+    "line1": "McEwan Road",
+    "line2": "R D 1",
+    "suburb": " ",
+    "city": "Ruakaka",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T03:34:00Z"
+}

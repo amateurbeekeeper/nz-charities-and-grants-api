@@ -1,0 +1,27 @@
+{
+  "id": 75700,
+  "registrationNumber": "CC62149",
+  "name": "Dunedin Bedding Bank",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dunedinbeddingbank@gmail.com",
+  "address": {
+    "line1": "95 Elgin Road",
+    "line2": " ",
+    "suburb": "Kenmure",
+    "city": "Dunedin",
+    "postcode": "9011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100083552356986",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T21:50:33Z"
+}

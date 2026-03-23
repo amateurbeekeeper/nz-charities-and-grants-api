@@ -1,0 +1,27 @@
+{
+  "id": 65281,
+  "registrationNumber": "CC51509",
+  "name": "Creative Kids Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-02-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://creativeatheart.org.nz/",
+  "email": "aimee@creativeatheart.org.nz",
+  "address": {
+    "line1": "2 Alfred Street",
+    "line2": " ",
+    "suburb": "Mayfield",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429043253944",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/creativearts.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T10:11:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 60737,
+  "registrationNumber": "CC28453",
+  "name": "Southcity Educational Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@southcity.school.nz",
+  "address": {
+    "line1": "137 Collins Road",
+    "line2": " ",
+    "suburb": "Melville",
+    "city": "Hamilton",
+    "postcode": "3206"
+  },
+  "nzbn": "9429042730484",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T19:50:45Z"
+}

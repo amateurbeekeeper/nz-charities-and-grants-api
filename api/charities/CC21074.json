@@ -1,0 +1,27 @@
+{
+  "id": 54780,
+  "registrationNumber": "CC21074",
+  "name": "Education Sponsorship Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.est.org.nz",
+  "email": "secretary@est.org.nz",
+  "address": {
+    "line1": "8A Robert Street",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042622116",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:31:44Z"
+}

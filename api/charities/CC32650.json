@@ -1,0 +1,27 @@
+{
+  "id": 64796,
+  "registrationNumber": "CC32650",
+  "name": "Te Kohanga Reo O Tuhikaramea Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tuhikarameakohanga@gmail.com",
+  "address": {
+    "line1": "60 McKay Drive",
+    "line2": " ",
+    "suburb": "Temple View",
+    "city": "Hamilton",
+    "postcode": "3218"
+  },
+  "nzbn": "9429042901464",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-31T06:38:03Z"
+}

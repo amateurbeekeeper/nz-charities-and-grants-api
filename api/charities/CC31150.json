@@ -1,0 +1,27 @@
+{
+  "id": 49336,
+  "registrationNumber": "CC31150",
+  "name": "Toi Maori Aotearoa - Maori Arts New Zealand Charitable Trust ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.maoriart.org.nz",
+  "email": "mayet@maoriart.org.nz",
+  "address": {
+    "line1": "150 Featherston Street",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042927624",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ToiMaoriAotearoa/",
+    "twitter": "https://twitter.com/ToiMaori"
+  },
+  "lastUpdated": "2026-01-01T06:10:26Z"
+}

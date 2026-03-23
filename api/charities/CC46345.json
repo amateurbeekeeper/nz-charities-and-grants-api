@@ -1,0 +1,27 @@
+{
+  "id": 64497,
+  "registrationNumber": "CC46345",
+  "name": "Capital Inline Hockey Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.penguinshockey.co.nz",
+  "email": "treasurer.penguins@gmail.com",
+  "address": {
+    "line1": "101 Kilbirnie Cresent",
+    "line2": " ",
+    "suburb": "Kilbirnie",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429042603863",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CapitalPenguinsHC",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T06:43:50Z"
+}

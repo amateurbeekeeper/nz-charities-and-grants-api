@@ -1,0 +1,27 @@
+{
+  "id": 45244,
+  "registrationNumber": "CC33206",
+  "name": "Wellington Deaf Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wds.org.nz",
+  "email": "president@wds.org.nz",
+  "address": {
+    "line1": "17 Bannister Avenue",
+    "line2": " ",
+    "suburb": "Johnsonville",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429042840848",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wgtndeaf/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-10T19:35:33Z"
+}

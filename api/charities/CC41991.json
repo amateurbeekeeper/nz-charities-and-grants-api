@@ -1,0 +1,27 @@
+{
+  "id": 48565,
+  "registrationNumber": "CC41991",
+  "name": "Takapuna Play Centre Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-12-15T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/takapuna/",
+  "email": "takapuna@playcentre.org.nz",
+  "address": {
+    "line1": "Suite 4",
+    "line2": "8 Auburn Street",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429042830634",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Takapuna.Playcentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-29T06:03:34Z"
+}

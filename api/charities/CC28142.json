@@ -1,0 +1,27 @@
+{
+  "id": 55731,
+  "registrationNumber": "CC28142",
+  "name": "A3 Kaitiaki Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.a3k.co.nz",
+  "email": "vi@a3k.co.nz",
+  "address": {
+    "line1": "77 Macandrew Road",
+    "line2": "258 Stuart Street",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429033390772",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T18:06:10Z"
+}

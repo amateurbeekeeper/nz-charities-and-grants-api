@@ -1,0 +1,27 @@
+{
+  "id": 70020,
+  "registrationNumber": "CC56378",
+  "name": "Central Taranaki Safe Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.safetrust.org.nz",
+  "email": "safetrust@xtra.co.nz",
+  "address": {
+    "line1": "43 Miranda Street",
+    "line2": "Stratford 4332",
+    "suburb": " ",
+    "city": "Stratford",
+    "postcode": "4332"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ctsafect",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:08:52Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71126,
+  "registrationNumber": "CC57497",
+  "name": "Mosgiel Playcentre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-12-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.playcentre.org.nz/centre/mosgiel/",
+  "email": "mosgiel@playcentre.org.nz",
+  "address": {
+    "line1": "79 Argyle Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mosgiel",
+    "postcode": "9024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/mosgielplaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:07:47Z"
+}

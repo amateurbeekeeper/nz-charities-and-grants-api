@@ -1,0 +1,27 @@
+{
+  "id": 57379,
+  "registrationNumber": "CC31573",
+  "name": "New Zealand Schools Waterwise Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://waterwise.school.nz/",
+  "email": "nzschoolswaterwise@gmail.com",
+  "address": {
+    "line1": "30 Lansell Drive",
+    "line2": " ",
+    "suburb": "East Tamaki Heights",
+    "city": "Auckland",
+    "postcode": "2016"
+  },
+  "nzbn": "9429043022335",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T22:10:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72931,
+  "registrationNumber": "CC59327",
+  "name": "Manaaki Kaimai Mamaku Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://mkm.org.nz/",
+  "email": "Louise.Saunders@mkm.org.nz",
+  "address": {
+    "line1": "556 Cameron Road",
+    "line2": " 314 Maunganui",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429047874664",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MKMamaku",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T03:20:40Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 59351,
+  "registrationNumber": "CC26987",
+  "name": "Pacific Leprosy Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.leprosy.org.nz",
+  "email": "jill.tomlinson@leprosy.org.nz",
+  "address": {
+    "line1": "4 Anderson Street",
+    "line2": " ",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042791645",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/PacificLeprosy/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T18:36:31Z"
+}

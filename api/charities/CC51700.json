@@ -1,0 +1,27 @@
+{
+  "id": 65467,
+  "registrationNumber": "CC51700",
+  "name": "Whitby Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wtl.org.nz",
+  "email": "clairemaw1@gmail.com",
+  "address": {
+    "line1": "Adventure Park",
+    "line2": "Discovery Drive",
+    "suburb": "Whitby ",
+    "city": "Porirua",
+    "postcode": "5245"
+  },
+  "nzbn": "9429042902997",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T07:51:12Z"
+}

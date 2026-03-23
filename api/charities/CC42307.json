@@ -1,0 +1,27 @@
+{
+  "id": 62207,
+  "registrationNumber": "CC42307",
+  "name": "Special Olympics Porirua Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.specialolympics.org.nz",
+  "email": "logan.amer@gmail.com",
+  "address": {
+    "line1": "16 Sailmaker Close",
+    "line2": null,
+    "suburb": "Whitby",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429051883324",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Special Olympics Porirua",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-14T03:06:34Z"
+}

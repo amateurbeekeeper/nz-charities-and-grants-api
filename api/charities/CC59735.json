@@ -1,0 +1,27 @@
+{
+  "id": 73473,
+  "registrationNumber": "CC59735",
+  "name": "AUSA Investment Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bob@lack.gen.nz",
+  "address": {
+    "line1": "19 Huntly Avenue",
+    "line2": " ",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T18:22:03Z"
+}

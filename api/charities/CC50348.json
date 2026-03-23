@@ -1,0 +1,27 @@
+{
+  "id": 33424,
+  "registrationNumber": "CC50348",
+  "name": "Western Districts Hockey Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-01-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.westernhockey.co.nz",
+  "email": "wdhc.secretary@gmail.com",
+  "address": {
+    "line1": "Hockey Pavilion - Avondale College",
+    "line2": "Gate 3, Rosebank Road",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429042918127",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/groups/westernhockey",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T22:21:19Z"
+}

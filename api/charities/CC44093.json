@@ -1,0 +1,27 @@
+{
+  "id": 50390,
+  "registrationNumber": "CC44093",
+  "name": "Te Ahoroa Marae",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2021-12-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Chrisalexkearns@gmail.com",
+  "address": {
+    "line1": "26 Eliot Street",
+    "line2": " ",
+    "suburb": "Enderley",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T22:30:53Z"
+}

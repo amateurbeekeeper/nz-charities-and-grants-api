@@ -1,0 +1,27 @@
+{
+  "id": 44252,
+  "registrationNumber": "CC42417",
+  "name": "Duntroon Home and School",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "katemcd85@gmail.com",
+  "address": {
+    "line1": "Livingstone Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Duntroon",
+    "postcode": "9494"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T21:51:40Z"
+}

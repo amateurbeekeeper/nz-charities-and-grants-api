@@ -1,0 +1,27 @@
+{
+  "id": 58641,
+  "registrationNumber": "CC41043",
+  "name": "Lake Kaniere Lodge Trust Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2022-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kanierelodge@gmail.com",
+  "address": {
+    "line1": "140 Hampden Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hokitika",
+    "postcode": "7810"
+  },
+  "nzbn": "9429042656944",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/lakekanierelodge/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T19:35:00Z"
+}

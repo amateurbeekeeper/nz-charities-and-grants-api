@@ -1,0 +1,27 @@
+{
+  "id": 65394,
+  "registrationNumber": "CC51623",
+  "name": "Bombay Presbyterian Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-04-23T00:00:00Z",
+  "dateDeregistered": "2021-05-18T00:00:00Z",
+  "website": "http://firstchurchpapakura.org.nz ",
+  "email": "moya@xtra.co.nz",
+  "address": {
+    "line1": "2 Coles Crescent",
+    "line2": null,
+    "suburb": null,
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-05-18T00:27:14Z"
+}

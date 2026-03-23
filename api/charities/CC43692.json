@@ -1,0 +1,27 @@
+{
+  "id": 62857,
+  "registrationNumber": "CC43692",
+  "name": "Hinuera Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2010-02-24T00:00:00Z",
+  "dateDeregistered": "2025-08-27T00:00:00Z",
+  "website": null,
+  "email": "hinuera@playcentre.org.nz",
+  "address": {
+    "line1": "614 Hinuera Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Matamata",
+    "postcode": "3472"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T07:11:11Z"
+}

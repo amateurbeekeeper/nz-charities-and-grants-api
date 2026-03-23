@@ -1,0 +1,27 @@
+{
+  "id": 65623,
+  "registrationNumber": "CC51871",
+  "name": "Kohimarama Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kohipres.org.nz",
+  "email": "treasurer@kohipres.org.nz",
+  "address": {
+    "line1": "34 Kohimarama Road",
+    "line2": " ",
+    "suburb": "Kohimarama",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T18:49:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 32769,
+  "registrationNumber": "CC48774",
+  "name": "Ellesmere Heritage Park Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "steven@lays.co.nz",
+  "address": {
+    "line1": "1618 Leeston Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Leeston",
+    "postcode": "7683"
+  },
+  "nzbn": "9429043236428",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ellesmereheritagepark/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T19:41:03Z"
+}

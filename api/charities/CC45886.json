@@ -1,0 +1,27 @@
+{
+  "id": 38225,
+  "registrationNumber": "CC45886",
+  "name": "Cat Care ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-12-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://catcare.org.nz",
+  "email": "office@catcare.org.nz",
+  "address": {
+    "line1": "267 High Street",
+    "line2": "Rangiora 7400",
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": "9429051116880",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/CatCareInc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T03:26:19Z"
+}

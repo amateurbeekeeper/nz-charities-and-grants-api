@@ -1,0 +1,27 @@
+{
+  "id": 59679,
+  "registrationNumber": "CC35682",
+  "name": "The TLC Educational Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-12-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tlc.ac.nz",
+  "email": "j.lambie@tlc.ac.nz",
+  "address": {
+    "line1": "182 Eastern Hutt Road",
+    "line2": " ",
+    "suburb": "Taitā",
+    "city": "Lower Hutt",
+    "postcode": "5019"
+  },
+  "nzbn": "9429043073962",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-30T03:39:37Z"
+}

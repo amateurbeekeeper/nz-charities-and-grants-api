@@ -1,0 +1,27 @@
+{
+  "id": 58759,
+  "registrationNumber": "CC41622",
+  "name": "New Zealand Achievers Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2010-08-11T00:00:00Z",
+  "website": "http://www.nzachievers.org.nz",
+  "email": "elliott@cdanz.com",
+  "address": {
+    "line1": "Level 3",
+    "line2": "104 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043159697",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:14:07Z"
+}

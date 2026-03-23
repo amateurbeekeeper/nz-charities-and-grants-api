@@ -1,0 +1,27 @@
+{
+  "id": 70631,
+  "registrationNumber": "CC57000",
+  "name": "The Breathe Church Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-09-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@breathechurch.nz",
+  "address": {
+    "line1": "18 Riverbend Road",
+    "line2": " ",
+    "suburb": "Onekawa",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T03:38:06Z"
+}

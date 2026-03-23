@@ -1,0 +1,27 @@
+{
+  "id": 68768,
+  "registrationNumber": "CC55110",
+  "name": "The Methodist Church of New Zealand Te Haahi Weteriana O Aotearoa Opawa Community Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-10-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.opawacommunitychurch.com",
+  "email": "craig.opawacc@gmail.com",
+  "address": {
+    "line1": "158 Opawa Road",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Op Shop Opawa Community Church",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T22:36:56Z"
+}

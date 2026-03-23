@@ -1,0 +1,27 @@
+{
+  "id": 34729,
+  "registrationNumber": "CC51344",
+  "name": "Eden Project New Zealand Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2014-10-13T00:00:00Z",
+  "dateDeregistered": "2024-03-31T00:00:00Z",
+  "website": "https://www.edenprojectnz.co.nz",
+  "email": "hadlee.home@xtra.co.nz",
+  "address": {
+    "line1": "24 Watermill Boulevard",
+    "line2": " ",
+    "suburb": "Northwood",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429043284030",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-08-01T07:17:43Z"
+}

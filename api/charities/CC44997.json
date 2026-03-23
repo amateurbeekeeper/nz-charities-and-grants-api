@@ -1,0 +1,27 @@
+{
+  "id": 50634,
+  "registrationNumber": "CC44997",
+  "name": "The Marist Youth Ministry Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2025-03-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.logos.org.nz",
+  "email": "jen@logos.org.nz",
+  "address": {
+    "line1": "20 Ponsonby Road",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429043211937",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The Logos Project",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T22:46:10Z"
+}

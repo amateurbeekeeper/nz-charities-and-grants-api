@@ -1,0 +1,27 @@
+{
+  "id": 60656,
+  "registrationNumber": "CC30944",
+  "name": "Educational Child Care Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "eccc-inc.com",
+  "email": "eccc.inc@xtra.co.nz",
+  "address": {
+    "line1": "96 Gayhurst Road",
+    "line2": " ",
+    "suburb": "Dallington",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429042621997",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T19:22:28Z"
+}

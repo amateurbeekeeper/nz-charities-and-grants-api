@@ -1,0 +1,27 @@
+{
+  "id": 53746,
+  "registrationNumber": "CC20800",
+  "name": "Manaaki Ability Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.manaakiabilitytrust.org.nz",
+  "email": "paul.mainwaring@manaakiabilitytrust.org.nz",
+  "address": {
+    "line1": "60 Woburn Road",
+    "line2": " ",
+    "suburb": "Woburn",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429042870180",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ManaakiAbilityTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T01:26:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70300,
+  "registrationNumber": "CC56659",
+  "name": "Au Uso Kerisiano (Mascot Avenue Bible Chapel)",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-11-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "wa.robertson@hotmail.com",
+  "address": {
+    "line1": "56 Mascot Avenue",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429042957942",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-08T19:17:39Z"
+}

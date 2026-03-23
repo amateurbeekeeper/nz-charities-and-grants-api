@@ -1,0 +1,27 @@
+{
+  "id": 68867,
+  "registrationNumber": "CC55214",
+  "name": "Taranaki Music Education Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "helen@familygriffiths.com",
+  "address": {
+    "line1": "Unit 2",
+    "line2": "7A Montrose Place",
+    "suburb": "Highlands Park",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429046430793",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-14T21:59:54Z"
+}

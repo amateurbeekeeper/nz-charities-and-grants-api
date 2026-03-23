@@ -1,0 +1,27 @@
+{
+  "id": 67808,
+  "registrationNumber": "CC54121",
+  "name": "New Zealand Chinese Students' Association Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-02-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzcsa.com",
+  "email": "colly.zhou@nzcsa.com",
+  "address": {
+    "line1": "Unit 505",
+    "line2": "380 Queen Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043262588",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T02:09:37Z"
+}

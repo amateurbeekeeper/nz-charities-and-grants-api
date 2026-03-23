@@ -1,0 +1,27 @@
+{
+  "id": 68891,
+  "registrationNumber": "CC55241",
+  "name": "Devonport Community Creche Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-12-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.devonportcommunitycreche.co.nz",
+  "email": "devonportcreche@xtra.co.nz",
+  "address": {
+    "line1": "32A Clarence Street",
+    "line2": " ",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": "9429046485601",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T01:49:51Z"
+}

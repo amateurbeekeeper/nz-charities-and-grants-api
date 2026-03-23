@@ -1,0 +1,27 @@
+{
+  "id": 43850,
+  "registrationNumber": "CC37549",
+  "name": "Pioneer Hall",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://pioneerhall.org.nz",
+  "email": "francisca@beinghealthy.co.nz",
+  "address": {
+    "line1": "45 George Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Port Chalmers",
+    "postcode": "9023"
+  },
+  "nzbn": "9429043166756",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Port-Chalmers-Pioneer-Hall-151853558164663/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T20:33:06Z"
+}

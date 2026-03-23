@@ -1,0 +1,27 @@
+{
+  "id": 72800,
+  "registrationNumber": "CC59192",
+  "name": "Terra Nova Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.terranova.foundation",
+  "email": "rose@terranova.foundation",
+  "address": {
+    "line1": "455 Hagley Avenue",
+    "line2": " ",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429049425895",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T01:08:15Z"
+}

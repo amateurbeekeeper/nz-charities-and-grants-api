@@ -1,0 +1,27 @@
+{
+  "id": 65607,
+  "registrationNumber": "CC51858",
+  "name": "Mt Albert Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.mapc.org.nz",
+  "email": "laurastretton@live.com",
+  "address": {
+    "line1": "14 Mount Albert Road",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https:/www.facebook.com/mapcnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:59Z"
+}

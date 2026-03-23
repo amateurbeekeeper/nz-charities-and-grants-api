@@ -1,0 +1,27 @@
+{
+  "id": 53636,
+  "registrationNumber": "CC21006",
+  "name": "Takapuna Community Facilities Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://pupukebirdsong.org.nz/",
+  "email": "office@takapunatrust.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": " 7 The Strand",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429043146307",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pupukebirdsongproject",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T18:07:17Z"
+}

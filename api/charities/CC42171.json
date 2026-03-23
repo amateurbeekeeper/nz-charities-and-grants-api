@@ -1,0 +1,27 @@
+{
+  "id": 60248,
+  "registrationNumber": "CC42171",
+  "name": "Waiariki Maori Community Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sporty.co.nz/waiariki",
+  "email": "melody@cttu.org.nz",
+  "address": {
+    "line1": "4B Island View Road",
+    "line2": " ",
+    "suburb": "Western Heights",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429043135615",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:20:38Z"
+}

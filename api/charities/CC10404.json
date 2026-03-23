@@ -1,0 +1,27 @@
+{
+  "id": 51551,
+  "registrationNumber": "CC10404",
+  "name": "Twin Loss NZ",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2007-06-07T00:00:00Z",
+  "dateDeregistered": "2015-03-25T00:00:00Z",
+  "website": "http://www.twinloss.org.nz",
+  "email": "twinloss@xtra.co.nz",
+  "address": {
+    "line1": "6 Nevada Avenue",
+    "line2": null,
+    "suburb": "Pakuranga Heights",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T00:29:15Z"
+}

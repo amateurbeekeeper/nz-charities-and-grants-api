@@ -1,0 +1,27 @@
+{
+  "id": 58395,
+  "registrationNumber": "CC28172",
+  "name": "Waitoki Public Hall Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "waitokihall@gmail.com",
+  "address": {
+    "line1": "1095 Kahikatea Flat Road",
+    "line2": "Waitoki 0871",
+    "suburb": "Waitoki",
+    "city": "Waitoki",
+    "postcode": "0871"
+  },
+  "nzbn": "9429042914518",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waitokicommunityhall",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T22:06:42Z"
+}

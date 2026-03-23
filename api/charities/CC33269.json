@@ -1,0 +1,27 @@
+{
+  "id": 61130,
+  "registrationNumber": "CC33269",
+  "name": "Sanson Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sanson@playcentre.co.nz",
+  "address": {
+    "line1": "2 Phillips Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Sanson",
+    "postcode": "4817"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:09:49Z"
+}

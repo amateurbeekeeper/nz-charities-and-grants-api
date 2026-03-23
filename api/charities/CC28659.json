@@ -1,0 +1,27 @@
+{
+  "id": 49523,
+  "registrationNumber": "CC28659",
+  "name": "Kaponga Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hayleysherman@xtra.co.nz",
+  "address": {
+    "line1": "Victoria Street",
+    "line2": " ",
+    "suburb": "Kaponga",
+    "city": "Taranaki",
+    "postcode": "4642"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:57:42Z"
+}

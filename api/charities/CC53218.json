@@ -1,0 +1,27 @@
+{
+  "id": 66934,
+  "registrationNumber": "CC53218",
+  "name": "Nga Uri O Te Rua Tekau Ma Waru Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-04-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pakau@me.com",
+  "address": {
+    "line1": "15 Forbury Avenue",
+    "line2": null,
+    "suburb": "Takaro",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429043301195",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ngauriote.ruatekaumawaru/about",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T05:04:30Z"
+}

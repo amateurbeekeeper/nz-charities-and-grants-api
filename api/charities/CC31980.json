@@ -1,0 +1,27 @@
+{
+  "id": 43424,
+  "registrationNumber": "CC31980",
+  "name": "Speld Gisborne",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2015-06-02T00:00:00Z",
+  "website": "http://www.speld.org.nz",
+  "email": "treasurer@speldnz.co.nz",
+  "address": {
+    "line1": "24 Bulwer Road",
+    "line2": null,
+    "suburb": "Te Hapara",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042726128",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:07:27Z"
+}

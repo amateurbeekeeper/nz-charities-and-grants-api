@@ -1,0 +1,27 @@
+{
+  "id": 65256,
+  "registrationNumber": "CC51480",
+  "name": "Te Aroha Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2020-12-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jamie.wati@yahoo.co.nz",
+  "address": {
+    "line1": "2888 Mangakahia Road",
+    "line2": "Parakao 0172",
+    "suburb": "Woodhill",
+    "city": "Parakao",
+    "postcode": "0172"
+  },
+  "nzbn": "9429051364755",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:27:34Z"
+}

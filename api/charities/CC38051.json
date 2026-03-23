@@ -1,0 +1,27 @@
+{
+  "id": 63104,
+  "registrationNumber": "CC38051",
+  "name": "Life Bliss of New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kailasa.org.nz/",
+  "email": "lifeblissnz@gmail.com",
+  "address": {
+    "line1": "21 Iri Irikapua Parade",
+    "line2": "Hinemoa Point",
+    "suburb": "Owhata",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429043097456",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KAILASAinNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T05:34:20Z"
+}

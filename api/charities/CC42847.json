@@ -1,0 +1,27 @@
+{
+  "id": 47062,
+  "registrationNumber": "CC42847",
+  "name": "Huatoki Tennis Club Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-11-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sporty.co.nz/huatokitennis",
+  "email": "huatokitennisclub@gmail.com",
+  "address": {
+    "line1": "Huatoki Domain",
+    "line2": "Huatoki Street",
+    "suburb": "Vogeltown",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043142514",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HuatokiTennisClub",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:43:25Z"
+}

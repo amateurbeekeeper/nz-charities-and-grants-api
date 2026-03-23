@@ -1,0 +1,27 @@
+{
+  "id": 38740,
+  "registrationNumber": "CC48587",
+  "name": "Waipahihi Marae Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "waipahihimarae@outlook.com",
+  "address": {
+    "line1": "3 Gladstone Grove",
+    "line2": " ",
+    "suburb": "Richmond Heights",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waipahihi Marae",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T23:14:08Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38995,
+  "registrationNumber": "CC22208",
+  "name": "The Elma Sims Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.publictrust.co.nz",
+  "email": "funding@publictrust.co.nz",
+  "address": {
+    "line1": "Public Trust Tower",
+    "line2": "Level 2",
+    "suburb": "22 Willeston Street",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:36:24Z"
+}

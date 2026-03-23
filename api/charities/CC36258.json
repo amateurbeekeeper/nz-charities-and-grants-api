@@ -1,0 +1,27 @@
+{
+  "id": 60734,
+  "registrationNumber": "CC36258",
+  "name": "Leadership New Zealand Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.leadershipnz.co.nz",
+  "email": "Petrina.Togi-Sa'ena@leadershipnz.co.nz",
+  "address": {
+    "line1": "96 St Georges Bay Road",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429043226405",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/leadershipnewzealand?ref=hl",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T03:10:14Z"
+}

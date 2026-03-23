@@ -1,0 +1,27 @@
+{
+  "id": 73803,
+  "registrationNumber": "CC60189",
+  "name": "Te Pūtahi o Manga Tangaroa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tangaroa.butler@gmail.com",
+  "address": {
+    "line1": "28 Windsor Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaikohe",
+    "postcode": "0405"
+  },
+  "nzbn": "9429050604401",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:37:08Z"
+}

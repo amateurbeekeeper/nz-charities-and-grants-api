@@ -1,0 +1,27 @@
+{
+  "id": 39314,
+  "registrationNumber": "CC39322",
+  "name": "Hunterville Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "charissalawlor@gmail.com",
+  "address": {
+    "line1": "17 Bruce Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hunterville",
+    "postcode": "4730"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T00:20:27Z"
+}

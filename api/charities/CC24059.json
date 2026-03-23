@@ -1,0 +1,27 @@
+{
+  "id": 54528,
+  "registrationNumber": "CC24059",
+  "name": "Hector's World Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hectorsworld.com",
+  "email": "andreal@netsafe.org.nz",
+  "address": {
+    "line1": "Level 2 The General Building",
+    "line2": "29-33 Shortland Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429034502921",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-12T04:24:49Z"
+}

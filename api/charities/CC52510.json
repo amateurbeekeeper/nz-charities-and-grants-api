@@ -1,0 +1,27 @@
+{
+  "id": 66239,
+  "registrationNumber": "CC52510",
+  "name": "Anglican Diocese Of Christchurch, Parish Of Cashmere",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.staugustines.org.nz",
+  "email": "office@staugustines.org.nz",
+  "address": {
+    "line1": "5 Cracroft Terrace",
+    "line2": " ",
+    "suburb": "Cashmere",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-10T19:36:30Z"
+}

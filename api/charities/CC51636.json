@@ -1,0 +1,27 @@
+{
+  "id": 65400,
+  "registrationNumber": "CC51636",
+  "name": "9 Lives Orphanage",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://9livesorphanage.co.nz",
+  "email": "alisha@9livesorphanage.co.nz",
+  "address": {
+    "line1": "25A Hill Road",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/9livesorphanage/?ref=bookmarks",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T23:37:11Z"
+}

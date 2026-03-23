@@ -1,0 +1,27 @@
+{
+  "id": 52476,
+  "registrationNumber": "CC22868",
+  "name": "Flemington Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jd.sue@inspire.net.nz",
+  "address": {
+    "line1": "2 Rotohiwi Rd",
+    "line2": " ",
+    "suburb": "RD2",
+    "city": "Waipukurau",
+    "postcode": "4282"
+  },
+  "nzbn": "9429042924524",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/flemingtonhall",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T22:26:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43284,
+  "registrationNumber": "CC36936",
+  "name": "Pongakawa Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-14T00:00:00Z",
+  "website": null,
+  "email": "pongakawa@playcentre.org.nz",
+  "address": {
+    "line1": "956 Old Coach Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pongakawa",
+    "postcode": "3186"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PongakawaPlaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T07:15:26Z"
+}

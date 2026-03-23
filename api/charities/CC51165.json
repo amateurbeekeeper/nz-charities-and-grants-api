@@ -1,0 +1,27 @@
+{
+  "id": 34812,
+  "registrationNumber": "CC51165",
+  "name": "Equippers Hastings Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-12-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.equipperschurch.com/hastings",
+  "email": "josh.manoharan@equipperschurch.com",
+  "address": {
+    "line1": "306 Hapuku Street",
+    "line2": " ",
+    "suburb": "Frimley",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429043284610",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T02:16:38Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40558,
+  "registrationNumber": "CC30947",
+  "name": "The Museum of Transport and Technology Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.motatsociety.org.nz",
+  "email": "tramsareus@gmail.com",
+  "address": {
+    "line1": "805 Great North Road",
+    "line2": "Western Springs",
+    "suburb": "Western Springs",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429051801465",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MOTATSociety/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T00:13:20Z"
+}

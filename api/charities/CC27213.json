@@ -1,0 +1,27 @@
+{
+  "id": 57722,
+  "registrationNumber": "CC27213",
+  "name": "The Avery Foundation",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2022-12-02T00:00:00Z",
+  "website": null,
+  "email": "john@johnavery.co.nz",
+  "address": {
+    "line1": "147 West Road",
+    "line2": "RD 2",
+    "suburb": "Pakipaki",
+    "city": "Hastings",
+    "postcode": "4172"
+  },
+  "nzbn": "9429042936190",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-12-21T04:03:56Z"
+}

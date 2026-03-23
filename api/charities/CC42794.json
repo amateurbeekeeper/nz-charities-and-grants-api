@@ -1,0 +1,27 @@
+{
+  "id": 49343,
+  "registrationNumber": "CC42794",
+  "name": "Tikapa Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2019-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "te.naiti@hotmail.com",
+  "address": {
+    "line1": "330 Tikapa Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ruatoria",
+    "postcode": "4032"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Pokai Marae ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-07T19:19:35Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65863,
+  "registrationNumber": "CC52123",
+  "name": "St Pauls Presbyterian Church Katikati",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stpaulskatikati.org.nz",
+  "email": "accts.at.crest@gmail.com",
+  "address": {
+    "line1": "2 Mulgan Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Katikati",
+    "postcode": "3129"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:01:42Z"
+}

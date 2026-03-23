@@ -1,0 +1,27 @@
+{
+  "id": 71079,
+  "registrationNumber": "CC57449",
+  "name": "Tuhono Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-01-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john.y@mail.com",
+  "address": {
+    "line1": "38 Fyvie Avenue",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429047872332",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T07:33:29Z"
+}

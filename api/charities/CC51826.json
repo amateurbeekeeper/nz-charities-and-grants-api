@@ -1,0 +1,27 @@
+{
+  "id": 65587,
+  "registrationNumber": "CC51826",
+  "name": "Manurewa St Andrews Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sapcmanurewa.org/",
+  "email": "mike@catas.co.nz",
+  "address": {
+    "line1": "152 Great South Road",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T22:48:33Z"
+}

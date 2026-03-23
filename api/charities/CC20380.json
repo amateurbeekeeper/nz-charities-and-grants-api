@@ -1,0 +1,27 @@
+{
+  "id": 53357,
+  "registrationNumber": "CC20380",
+  "name": "Health Hawke's Bay Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.healthhb.co.nz",
+  "email": "stephen.hayes@healthhb.co.nz",
+  "address": {
+    "line1": "507 Eastbourne Street West",
+    "line2": "Hastings 4120",
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429035835424",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T18:07:47Z"
+}

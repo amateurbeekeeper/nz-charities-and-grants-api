@@ -1,0 +1,27 @@
+{
+  "id": 40913,
+  "registrationNumber": "CC33009",
+  "name": "Gisborne Bandroom Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gisbornebandroominc@gmail.com",
+  "address": {
+    "line1": "200 Childers Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429043173631",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:54:33Z"
+}

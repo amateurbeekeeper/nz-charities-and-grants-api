@@ -1,0 +1,27 @@
+{
+  "id": 48619,
+  "registrationNumber": "CC42012",
+  "name": "Narrowneck Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.playcentre.org.nz/centre/narrowneck/",
+  "email": "narrowneck@playcentre.org.nz",
+  "address": {
+    "line1": "20 Handley Avenue",
+    "line2": " ",
+    "suburb": "Narrow Neck",
+    "city": "Auckland",
+    "postcode": "624"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Narrowneckplaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:07:56Z"
+}

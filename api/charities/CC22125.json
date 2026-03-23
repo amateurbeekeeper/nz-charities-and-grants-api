@@ -1,0 +1,27 @@
+{
+  "id": 55103,
+  "registrationNumber": "CC22125",
+  "name": "Rhema Media Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rhemamedia.co.nz",
+  "email": "luke.weston@rhemamedia.co.nz",
+  "address": {
+    "line1": "53 Upper Queen Street",
+    "line2": " ",
+    "suburb": "Eden Terrace",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042811879",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T00:33:10Z"
+}

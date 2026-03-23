@@ -1,0 +1,27 @@
+{
+  "id": 51435,
+  "registrationNumber": "CC10231",
+  "name": "Windsor House Board of Governors",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.windsorcare.co.nz",
+  "email": "gm@windsorcare.co.nz",
+  "address": {
+    "line1": "1 Horseshoe Lake Road",
+    "line2": " ",
+    "suburb": "Shirley",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429042919278",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=windsorcare",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:04:26Z"
+}

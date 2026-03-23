@@ -1,0 +1,27 @@
+{
+  "id": 43541,
+  "registrationNumber": "CC31973",
+  "name": "Village Collective Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.villagecollective.org.nz",
+  "email": "ed@villagecollective.nz",
+  "address": {
+    "line1": "59 Druces Road",
+    "line2": "Onehunga",
+    "suburb": "Wiri",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042932857",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "village collective ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T18:07:32Z"
+}

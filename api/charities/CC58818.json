@@ -1,0 +1,27 @@
+{
+  "id": 72421,
+  "registrationNumber": "CC58818",
+  "name": "The Kapit-Bisig Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bawilkins@xtra.co.nz",
+  "address": {
+    "line1": "79 Forfar Street",
+    "line2": " ",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429048960274",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The Kapit-Bisig Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-12T01:32:23Z"
+}

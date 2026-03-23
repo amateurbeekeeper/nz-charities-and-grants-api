@@ -1,0 +1,27 @@
+{
+  "id": 43723,
+  "registrationNumber": "CC35091",
+  "name": "Ashburton Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ashburtontoylibrary.setls.co.nz",
+  "email": "anthea.read@gmail.com",
+  "address": {
+    "line1": "21 Archibald Street",
+    "line2": " ",
+    "suburb": "Tinwald",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": "9429042583943",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ashburtontoylibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T03:17:46Z"
+}

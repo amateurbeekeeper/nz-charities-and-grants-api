@@ -1,0 +1,27 @@
+{
+  "id": 49167,
+  "registrationNumber": "CC32551",
+  "name": "Te Mangungu Marae Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2022-03-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ronda.pahau@outlook.com",
+  "address": {
+    "line1": "3 Fleet Street",
+    "line2": "3 Fleet Street",
+    "suburb": "Naenae",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429042861690",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T22:01:35Z"
+}

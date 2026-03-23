@@ -1,0 +1,27 @@
+{
+  "id": 33113,
+  "registrationNumber": "CC49314",
+  "name": "Ngati Pahauwera Manaaki Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://ngatipahauwera.co.nz/",
+  "email": "kane.koko@npdt.co.nz",
+  "address": {
+    "line1": "74 Queen Street",
+    "line2": "Wairoa 4108",
+    "suburb": " ",
+    "city": "Wairoa",
+    "postcode": "4108"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T01:08:50Z"
+}

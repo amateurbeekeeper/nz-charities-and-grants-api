@@ -1,0 +1,27 @@
+{
+  "id": 61615,
+  "registrationNumber": "CC34404",
+  "name": "Ohomairangi Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2022-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ohomairangi.co.nz",
+  "email": "tawera.fowler@ohomairangi.co.nz",
+  "address": {
+    "line1": "372 Massey Road",
+    "line2": " ",
+    "suburb": "Mangere East",
+    "city": "Auckland",
+    "postcode": "2024"
+  },
+  "nzbn": "9429043068838",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T23:07:39Z"
+}

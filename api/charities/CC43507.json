@@ -1,0 +1,27 @@
+{
+  "id": 64012,
+  "registrationNumber": "CC43507",
+  "name": "Johnsonville Camera Club",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.johnsonvillecameraclub.com",
+  "email": "jvillecameraclub@gmail.com",
+  "address": {
+    "line1": "11 Apuka Street",
+    "line2": " ",
+    "suburb": "Brooklyn",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/JohnsonvilleCameraClub/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-07T00:06:44Z"
+}

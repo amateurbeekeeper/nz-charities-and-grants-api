@@ -1,0 +1,27 @@
+{
+  "id": 50945,
+  "registrationNumber": "CC42750",
+  "name": "New Plymouth Mountain Bikers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://npmtb.co.nz/",
+  "email": "philarm23@yahoo.co.nz",
+  "address": {
+    "line1": "15 Fitzroy Road",
+    "line2": "New Plymouth 4310",
+    "suburb": "Fitzroy",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429043182244",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/New-Plymouth-Mountain-Bikers-195151197840/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T04:58:08Z"
+}

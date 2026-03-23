@@ -1,0 +1,27 @@
+{
+  "id": 71242,
+  "registrationNumber": "CC57615",
+  "name": "Chamber Music at the World's Edge Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.worldsedgefestival.com",
+  "email": "justine@worldsedgefestival.com",
+  "address": {
+    "line1": "346 Pukerangi Drive",
+    "line2": "RD 3",
+    "suburb": "Queensberry",
+    "city": "Cromwell",
+    "postcode": "9383"
+  },
+  "nzbn": "9429048570046",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WorldsEdgeFestival",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T08:41:42Z"
+}

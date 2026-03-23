@@ -1,0 +1,27 @@
+{
+  "id": 37402,
+  "registrationNumber": "CC46752",
+  "name": "Journey Vineyard Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-07-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.journeyvineyard.nz",
+  "email": "peter.gossman@journeyvineyard.nz",
+  "address": {
+    "line1": "1381 Cameron Road",
+    "line2": " ",
+    "suburb": "Greerton",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/journeyvineyard.church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-16T19:50:11Z"
+}

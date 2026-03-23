@@ -1,0 +1,27 @@
+{
+  "id": 36420,
+  "registrationNumber": "CC46196",
+  "name": "League 4 Life Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzrl.co.nz/league-4-life",
+  "email": "dave.hurdle@nzrl.co.nz",
+  "address": {
+    "line1": "7 Beasley Avenue",
+    "line2": " ",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043223190",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T20:53:22Z"
+}

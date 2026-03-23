@@ -1,0 +1,27 @@
+{
+  "id": 64918,
+  "registrationNumber": "CC29040",
+  "name": "Wellington Samaritans Foundation",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2024-11-08T00:00:00Z",
+  "website": "http://www.samaritans.org.nz/",
+  "email": "wellington@samaritans.org.nz",
+  "address": {
+    "line1": "2 Hill Street",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043137343",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wellingtonsamaritans",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-03T08:42:07Z"
+}

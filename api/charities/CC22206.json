@@ -1,0 +1,27 @@
+{
+  "id": 55289,
+  "registrationNumber": "CC22206",
+  "name": "Waipuna Hospice Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waipunahospice.org.nz/",
+  "email": "jeremyb@waipunahospice.org.nz",
+  "address": {
+    "line1": "43 Te Puna Station Road",
+    "line2": "RD 6",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3176"
+  },
+  "nzbn": "9429042879985",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@WaipunaHospiceTauranga",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T18:44:19Z"
+}

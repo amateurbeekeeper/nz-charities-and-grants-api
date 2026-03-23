@@ -1,0 +1,27 @@
+{
+  "id": 71272,
+  "registrationNumber": "CC57647",
+  "name": "Localised Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-12-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.localised.nz",
+  "email": "paul@localised.nz",
+  "address": {
+    "line1": "153 Pilkington Road",
+    "line2": "RD 5",
+    "suburb": "Point England",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429047263895",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-14T02:49:44Z"
+}

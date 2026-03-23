@@ -1,0 +1,27 @@
+{
+  "id": 34863,
+  "registrationNumber": "CC51383",
+  "name": "Digital Natives Academy",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.digitalnatives.academy",
+  "email": "nikolasa@digitalnatives.academy",
+  "address": {
+    "line1": "1251 Fenton Street",
+    "line2": "Rotorua 3010",
+    "suburb": "Lynmore",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429043286188",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DigitalNativesAcademy",
+    "twitter": "https://www.twitter.com/DigitalMaori"
+  },
+  "lastUpdated": "2025-12-11T05:05:55Z"
+}

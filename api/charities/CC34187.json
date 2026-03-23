@@ -1,0 +1,27 @@
+{
+  "id": 60357,
+  "registrationNumber": "CC34187",
+  "name": "Redcliffs Public Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.redcliffspubliclib.wixsite",
+  "email": "jaine@cunninghame.co.nz",
+  "address": {
+    "line1": "91 Main Road",
+    "line2": " ",
+    "suburb": "Redcliffs",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": "9429042746171",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Redcliffs Public Library",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T18:40:24Z"
+}

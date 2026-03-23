@@ -1,0 +1,27 @@
+{
+  "id": 46675,
+  "registrationNumber": "CC29428",
+  "name": "Mamaku Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "carol.garner@fireandemergency.nz",
+  "address": {
+    "line1": "31 Mamaku Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mamaku",
+    "postcode": "3020"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T18:08:10Z"
+}

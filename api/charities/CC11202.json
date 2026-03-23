@@ -1,0 +1,27 @@
+{
+  "id": 52936,
+  "registrationNumber": "CC11202",
+  "name": "Youthline Wellington Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://youthline.co.nz/our-centres/#wellington",
+  "email": "office.wgtn@youthline.co.nz",
+  "address": {
+    "line1": "Level 3/148 Cuba Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042928157",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T00:08:37Z"
+}

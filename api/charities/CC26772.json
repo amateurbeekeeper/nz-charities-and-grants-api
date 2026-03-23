@@ -1,0 +1,27 @@
+{
+  "id": 58903,
+  "registrationNumber": "CC26772",
+  "name": "Motueka District Museum Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.motuekadistrictmuseum.org.nz",
+  "email": "curator@motuekadistrictmuseum.org.nz",
+  "address": {
+    "line1": "140 High Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Motueka",
+    "postcode": "7120"
+  },
+  "nzbn": "9429042771210",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Motueka-District-Museum-193949277298457/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T02:37:05Z"
+}

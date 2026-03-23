@@ -1,0 +1,27 @@
+{
+  "id": 58202,
+  "registrationNumber": "CC36333",
+  "name": "New Zealand Iris Society Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2015-06-30T00:00:00Z",
+  "website": "http://www.nziris.org.nz",
+  "email": "treasurer.nzis@gmail.com",
+  "address": {
+    "line1": "NZ IRIS SOCIETY INC",
+    "line2": "128 Reservoir Road",
+    "suburb": "Oamaru North",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429042686002",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-10-11T22:36:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70154,
+  "registrationNumber": "CC56513",
+  "name": "University of Canterbury Aerospace",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-04-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ucaerospace.com",
+  "email": "info@ucaerospace.com",
+  "address": {
+    "line1": "20 Kirkwood Avenue",
+    "line2": " ",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/ucaerospace",
+    "twitter": "@ucaerospacenz"
+  },
+  "lastUpdated": "2025-11-12T22:55:44Z"
+}

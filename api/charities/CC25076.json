@@ -1,0 +1,27 @@
+{
+  "id": 57375,
+  "registrationNumber": "CC25076",
+  "name": "Whirinaki Whare Taonga",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.whirinakiarts.org.nz",
+  "email": "director@whirinakiarts.org.nz",
+  "address": {
+    "line1": "836 Fergusson Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429042992813",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T21:12:04Z"
+}

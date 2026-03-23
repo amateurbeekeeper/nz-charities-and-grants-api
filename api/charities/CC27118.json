@@ -1,0 +1,27 @@
+{
+  "id": 57957,
+  "registrationNumber": "CC27118",
+  "name": "New Zealand Antarctic Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.antarcticsociety.org.nz",
+  "email": "president@antarcticsociety.org.nz",
+  "address": {
+    "line1": "C/- International Antarctic Centre",
+    "line2": "Private Bag 4745",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": "9429042676546",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZAntarcticSociety/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T23:50:40Z"
+}

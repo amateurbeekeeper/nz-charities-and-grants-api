@@ -1,0 +1,27 @@
+{
+  "id": 45859,
+  "registrationNumber": "CC33390",
+  "name": "Aeona Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "davidmking@xtra.co.nz",
+  "address": {
+    "line1": "151 Penrose Road",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429042572534",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T04:49:21Z"
+}

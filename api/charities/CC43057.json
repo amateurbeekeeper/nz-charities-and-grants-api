@@ -1,0 +1,27 @@
+{
+  "id": 60451,
+  "registrationNumber": "CC43057",
+  "name": "New Zealand Carnatic Music Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzcms.org",
+  "email": "secretarynzcms@yahoo.com",
+  "address": {
+    "line1": "87A Oakdale Road",
+    "line2": "Balmoral",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429042981114",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T01:19:12Z"
+}

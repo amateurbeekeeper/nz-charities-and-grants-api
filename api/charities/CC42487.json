@@ -1,0 +1,27 @@
+{
+  "id": 45479,
+  "registrationNumber": "CC42487",
+  "name": "New Zealand Sunday School Union Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ssu.org.nz",
+  "email": "office@ssu.org.nz",
+  "address": {
+    "line1": "323 Queen Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042692010",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "New Zealand Sunday School Union Inc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T23:09:55Z"
+}

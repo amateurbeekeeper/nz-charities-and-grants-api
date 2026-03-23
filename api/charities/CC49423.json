@@ -1,0 +1,27 @@
+{
+  "id": 35012,
+  "registrationNumber": "CC49423",
+  "name": "The Christchurch Youth Choir Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2023-10-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cyc.nz",
+  "email": "admin@cyc.nz",
+  "address": {
+    "line1": "125 Heaton Street",
+    "line2": "Upper Riccarton ",
+    "suburb": "Merivale",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429043301683",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ChristchurchYouthChoir/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T01:09:30Z"
+}

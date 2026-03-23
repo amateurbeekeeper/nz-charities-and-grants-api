@@ -1,0 +1,27 @@
+{
+  "id": 56687,
+  "registrationNumber": "CC25100",
+  "name": "Lifegrowth Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bjones@ecw.org.nz",
+  "address": {
+    "line1": "219 Burswood Drive",
+    "line2": " ",
+    "suburb": "Burswood",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429043086627",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-10T09:22:45Z"
+}

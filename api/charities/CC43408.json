@@ -1,0 +1,27 @@
+{
+  "id": 62706,
+  "registrationNumber": "CC43408",
+  "name": "Halswell School Parent Teachers Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.halswell.school.nz",
+  "email": "ptaaccounts@halswell.school.nz",
+  "address": {
+    "line1": "1 School Road",
+    "line2": " ",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HalswellSchoolPTA/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-09T19:19:54Z"
+}

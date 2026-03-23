@@ -1,0 +1,27 @@
+{
+  "id": 74095,
+  "registrationNumber": "CC60504",
+  "name": "Dunedin Concerto Competition",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dunedinconcerto.com",
+  "email": "pieterduplessis@msn.com",
+  "address": {
+    "line1": "9 Harbour Heights",
+    "line2": " ",
+    "suburb": "Waverley",
+    "city": "Dunedin",
+    "postcode": "9013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DunedinConcertoCompetition",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T20:11:12Z"
+}

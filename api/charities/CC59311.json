@@ -1,0 +1,27 @@
+{
+  "id": 72916,
+  "registrationNumber": "CC59311",
+  "name": "Laei Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.laei.co.nz",
+  "email": "lorna@laei.co.nz",
+  "address": {
+    "line1": "13 Cradock Street",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429049739091",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/laeicommunity/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T02:02:08Z"
+}

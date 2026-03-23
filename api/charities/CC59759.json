@@ -1,0 +1,27 @@
+{
+  "id": 73374,
+  "registrationNumber": "CC59759",
+  "name": "Project Employ Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.projectemploy.nz/",
+  "email": "andrew.hill@bdo.co.nz",
+  "address": {
+    "line1": "19 Como Street ",
+    "line2": " Level 10, BDO Tower",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429049927436",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/projectemploynz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-18T19:37:33Z"
+}

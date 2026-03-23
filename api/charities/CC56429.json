@@ -1,0 +1,27 @@
+{
+  "id": 70066,
+  "registrationNumber": "CC56429",
+  "name": "Create The Bay Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-12-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kelseyjandrew@gmail.com",
+  "address": {
+    "line1": "Unit 8",
+    "line2": "47 Waihi Road",
+    "suburb": "Judea",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429047983045",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Create.The.Bay/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T01:29:45Z"
+}

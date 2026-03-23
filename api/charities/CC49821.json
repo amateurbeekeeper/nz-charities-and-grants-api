@@ -1,0 +1,27 @@
+{
+  "id": 33608,
+  "registrationNumber": "CC49821",
+  "name": "Revolution Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-09-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.revolutionchurch.co.nz",
+  "email": "info@revolutionchurch.co.nz",
+  "address": {
+    "line1": "442 Tuam Street",
+    "line2": " ",
+    "suburb": "Phillipstown",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Revolution Church NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T00:34:26Z"
+}

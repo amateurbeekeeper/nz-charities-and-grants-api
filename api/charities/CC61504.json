@@ -1,0 +1,27 @@
+{
+  "id": 75075,
+  "registrationNumber": "CC61504",
+  "name": "Utakura 7 Atawhai Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-03-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "utakura7@gmail.com",
+  "address": {
+    "line1": "265 Rangatira Road",
+    "line2": " ",
+    "suburb": "Beach Haven",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429047861145",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:45:40Z"
+}

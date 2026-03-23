@@ -1,0 +1,27 @@
+{
+  "id": 41043,
+  "registrationNumber": "CC41504",
+  "name": "New Zealand Church Missionary Society Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nzcms.org.nz",
+  "email": "finance@nzcms.org.nz",
+  "address": {
+    "line1": "78 Peterborough Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042708209",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "NZCMS",
+    "twitter": "@NZCMS"
+  },
+  "lastUpdated": "2026-03-17T04:11:32Z"
+}

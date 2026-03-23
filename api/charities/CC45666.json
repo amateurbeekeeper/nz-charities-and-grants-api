@@ -1,0 +1,27 @@
+{
+  "id": 38702,
+  "registrationNumber": "CC45666",
+  "name": "Marton Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2020-03-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "andrea.death@fireandemergency.nz",
+  "address": {
+    "line1": "448 Wellington Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Marton",
+    "postcode": "4710"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/martonfirebrigade",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:23:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42745,
+  "registrationNumber": "CC40765",
+  "name": "Horowhenua Family History Group Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "horowhenuafamilyhistory.org.nz",
+  "email": "kmiles.swright@gmail.com",
+  "address": {
+    "line1": "44 Rimu Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": "9429043265985",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/horowhenuafamilyhistory",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T23:29:24Z"
+}

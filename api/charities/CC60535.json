@@ -1,0 +1,27 @@
+{
+  "id": 74130,
+  "registrationNumber": "CC60535",
+  "name": "The Learning Lounge",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thelearninglounge.co.nz",
+  "email": "thelearningloungenz@gmail.com",
+  "address": {
+    "line1": "181 Westminster Street",
+    "line2": " ",
+    "suburb": "Mairehau",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/thelearningloungenz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-14T03:50:06Z"
+}

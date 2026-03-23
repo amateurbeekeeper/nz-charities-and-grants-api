@@ -1,0 +1,27 @@
+{
+  "id": 35454,
+  "registrationNumber": "CC47159",
+  "name": "Wanganui District Employment Training Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-12-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wdett.org.nz",
+  "email": "admin@pkfdoyles.co.nz",
+  "address": {
+    "line1": "12 Drews Avenue",
+    "line2": "Whanganui 4500",
+    "suburb": "Castlecliff",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429043220847",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T22:37:15Z"
+}

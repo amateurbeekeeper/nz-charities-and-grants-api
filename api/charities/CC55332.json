@@ -1,0 +1,27 @@
+{
+  "id": 68997,
+  "registrationNumber": "CC55332",
+  "name": "RNZRSA National Poppy Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-03-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rsa.org.nz",
+  "email": "evanw@rsa.org.nz",
+  "address": {
+    "line1": "ANZAC House",
+    "line2": "181 Willis Street",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429046610843",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T06:21:27Z"
+}

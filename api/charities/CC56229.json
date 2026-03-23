@@ -1,0 +1,27 @@
+{
+  "id": 69866,
+  "registrationNumber": "CC56229",
+  "name": "Te Wairua O Te Moananui - Ocean Spirit",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.oceanspirit.org",
+  "email": "janey@oceanspirit.org",
+  "address": {
+    "line1": "150 Matapouri Road",
+    "line2": "RD 3",
+    "suburb": "Tutukaka",
+    "city": "Whangarei",
+    "postcode": "0173"
+  },
+  "nzbn": "9429046887894",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "ocean-spirit",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T23:42:41Z"
+}

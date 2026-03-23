@@ -1,0 +1,27 @@
+{
+  "id": 68550,
+  "registrationNumber": "CC54885",
+  "name": "Mangonui Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "phil.white@fireandemergency.nz",
+  "address": {
+    "line1": "5 Wrathall Road",
+    "line2": "Mangonui 0420",
+    "suburb": " ",
+    "city": "Mangonui",
+    "postcode": "0420"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:31:40Z"
+}

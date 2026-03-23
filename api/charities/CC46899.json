@@ -1,0 +1,27 @@
+{
+  "id": 37370,
+  "registrationNumber": "CC46899",
+  "name": "Puahue Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-08-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.puahue.school.nz",
+  "email": "sophiepage@hotmail.com",
+  "address": {
+    "line1": "573 Puahue Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Te Awamutu",
+    "postcode": "3879"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/puahueschoolpta/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-11T19:46:15Z"
+}

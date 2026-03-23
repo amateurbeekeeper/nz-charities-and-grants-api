@@ -1,0 +1,27 @@
+{
+  "id": 33138,
+  "registrationNumber": "CC48588",
+  "name": "Selwyn Parenting Network Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://spn.org.nz",
+  "email": "enquiries@spn.org.nz",
+  "address": {
+    "line1": "159 Trents Road",
+    "line2": "RD 6",
+    "suburb": "Prebbleton",
+    "city": "Christchurch",
+    "postcode": "7676"
+  },
+  "nzbn": "9429043300877",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SelwynParentingNetwork/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-05T02:57:30Z"
+}

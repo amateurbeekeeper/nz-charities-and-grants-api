@@ -1,0 +1,27 @@
+{
+  "id": 63461,
+  "registrationNumber": "CC41172",
+  "name": "Te Āti Hau Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.atihau.com/te-atihau-trust",
+  "email": "charmaine@atihau.com",
+  "address": {
+    "line1": "35 Drews Avenue",
+    "line2": "Whanganui 4500",
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429043200597",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T19:26:31Z"
+}

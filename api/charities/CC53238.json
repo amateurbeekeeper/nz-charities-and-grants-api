@@ -1,0 +1,27 @@
+{
+  "id": 66958,
+  "registrationNumber": "CC53238",
+  "name": "Te Whare Whanau Purotu Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tewharewhanaupurotu.org.nz",
+  "email": "secretary@twwp.org.nz",
+  "address": {
+    "line1": "215 Railway Road",
+    "line2": "Hastings 4122",
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429043273607",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T01:50:59Z"
+}

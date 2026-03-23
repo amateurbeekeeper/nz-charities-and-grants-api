@@ -1,0 +1,27 @@
+{
+  "id": 32674,
+  "registrationNumber": "CC48242",
+  "name": "asert-Tatou Development Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-06-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://terito.org",
+  "email": "asert.trust@xtra.co.nz",
+  "address": {
+    "line1": "Raiha Street",
+    "line2": " ",
+    "suburb": "Kenepuru",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429043265923",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "we grow stuff",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T23:01:19Z"
+}

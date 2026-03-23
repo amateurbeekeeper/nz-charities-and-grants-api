@@ -1,0 +1,27 @@
+{
+  "id": 55983,
+  "registrationNumber": "CC20751",
+  "name": "Citizens Advice Bureau Whangarei Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cab.org.nz",
+  "email": "treasurer.cab.whg@gmail.com",
+  "address": {
+    "line1": "154 Bank Street",
+    "line2": " ",
+    "suburb": "Regent",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429042926894",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CitizensAdviceBureauWhg",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T22:29:50Z"
+}

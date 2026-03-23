@@ -1,0 +1,27 @@
+{
+  "id": 34912,
+  "registrationNumber": "CC49174",
+  "name": "Te Kete Manawa Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "marj.heeney@gmail.com",
+  "address": {
+    "line1": "332 Mokai Road",
+    "line2": "Taoroa Junction 4793",
+    "suburb": "Taoroa Junction",
+    "city": "Taihape",
+    "postcode": "4793"
+  },
+  "nzbn": "9429043234103",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T00:16:16Z"
+}

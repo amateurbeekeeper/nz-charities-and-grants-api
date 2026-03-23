@@ -1,0 +1,27 @@
+{
+  "id": 74900,
+  "registrationNumber": "CC61319",
+  "name": "The Desired Haven Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "thehaven.org.nz",
+  "email": "sam@thehaven.org.nz",
+  "address": {
+    "line1": "56 Linton Road West",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Maungaturoto",
+    "postcode": "0583"
+  },
+  "nzbn": "9429051141486",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-10T02:26:06Z"
+}

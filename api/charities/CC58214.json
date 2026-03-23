@@ -1,0 +1,27 @@
+{
+  "id": 71828,
+  "registrationNumber": "CC58214",
+  "name": "I'm Adopted",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://imadopted.org",
+  "email": "alex.gilbert@imadopted.org",
+  "address": {
+    "line1": "PO Box 56016",
+    "line2": "Dominion Road",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1446"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/imadoptedOrg",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-28T23:47:46Z"
+}

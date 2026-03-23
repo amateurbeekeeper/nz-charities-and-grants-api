@@ -1,0 +1,27 @@
+{
+  "id": 34546,
+  "registrationNumber": "CC50940",
+  "name": "The Clothing Project",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-09-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.theclothingproject.co.nz",
+  "email": "amy@theclothingproject.co.nz",
+  "address": {
+    "line1": "73 Main Street",
+    "line2": "Edgecumbe 3120",
+    "suburb": " ",
+    "city": "Edgecumbe",
+    "postcode": "3120"
+  },
+  "nzbn": "9429043292127",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/theclothingproject1/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:38Z"
+}

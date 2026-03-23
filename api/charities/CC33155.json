@@ -1,0 +1,27 @@
+{
+  "id": 59523,
+  "registrationNumber": "CC33155",
+  "name": "Lincoln University",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lincoln.ac.nz",
+  "email": "rob.redgrove@lincoln.ac.nz",
+  "address": {
+    "line1": "Cnr Ellesmere Junction Road And Springs Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lincoln",
+    "postcode": "7647"
+  },
+  "nzbn": "9429041910368",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-04T19:34:34Z"
+}

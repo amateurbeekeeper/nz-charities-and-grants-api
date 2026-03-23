@@ -1,0 +1,27 @@
+{
+  "id": 62526,
+  "registrationNumber": "CC38328",
+  "name": "Nga Tai Whakarongorua Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ntwm.co.nz",
+  "email": "jandefenton@gmail.com",
+  "address": {
+    "line1": "Chadwick Road",
+    "line2": "Tinopai",
+    "suburb": "R D 1",
+    "city": "Matakohe",
+    "postcode": "0593"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ngataiwhakarongorua",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:01:03Z"
+}

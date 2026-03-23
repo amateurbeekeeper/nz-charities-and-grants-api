@@ -1,0 +1,27 @@
+{
+  "id": 47817,
+  "registrationNumber": "CC35628",
+  "name": "Medical Council Of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mcnz.org.nz",
+  "email": "cmangin@mcnz.org.nz",
+  "address": {
+    "line1": "Level 24",
+    "line2": "1 Willis Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429047124158",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T22:24:57Z"
+}

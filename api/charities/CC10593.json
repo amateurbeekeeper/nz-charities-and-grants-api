@@ -1,0 +1,27 @@
+{
+  "id": 51886,
+  "registrationNumber": "CC10593",
+  "name": "Citizens Advice Bureau Hawera Incorporated ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cab.org.nz",
+  "email": "hawera@cab.org.nz",
+  "address": {
+    "line1": "22 Union Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hawera",
+    "postcode": "4610"
+  },
+  "nzbn": "9429042618164",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T22:33:04Z"
+}

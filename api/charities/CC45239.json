@@ -1,0 +1,27 @@
+{
+  "id": 36020,
+  "registrationNumber": "CC45239",
+  "name": "Mangere Budgeting Services Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mbst.org.nz",
+  "email": "lara@mbst.org.nz",
+  "address": {
+    "line1": "8b Mangere Town Centre",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429042763239",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100083116431187",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T01:53:42Z"
+}

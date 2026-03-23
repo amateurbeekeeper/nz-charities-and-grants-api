@@ -1,0 +1,27 @@
+{
+  "id": 67849,
+  "registrationNumber": "CC54159",
+  "name": "The Donation Manager Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-02-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.donationmanager.co.nz",
+  "email": "connect@donationmanager.co.nz",
+  "address": {
+    "line1": "5 Wolfe Street",
+    "line2": " ",
+    "suburb": "Regent",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429045923739",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/donationmgr",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T03:16:17Z"
+}

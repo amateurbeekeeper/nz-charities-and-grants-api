@@ -1,0 +1,27 @@
+{
+  "id": 63079,
+  "registrationNumber": "CC41378",
+  "name": "Andersons Bay School Parents and Teachers Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2020-08-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.andybay.ac.nz",
+  "email": "PTA@andybay.ac.nz",
+  "address": {
+    "line1": "Andersons Bay School",
+    "line2": "92 Jeffery Street",
+    "suburb": "Andersons Bay",
+    "city": "Dunedin",
+    "postcode": "9013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-13T19:11:02Z"
+}

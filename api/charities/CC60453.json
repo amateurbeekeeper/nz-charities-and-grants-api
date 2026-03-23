@@ -1,0 +1,27 @@
+{
+  "id": 74037,
+  "registrationNumber": "CC60453",
+  "name": "Citizens Advice Bureau Mid Canterbury Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cab.org.nz",
+  "email": "coordinator.midcanterbury@cab.org.nz",
+  "address": {
+    "line1": "44 Cass Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CABMidCanterbury/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-06T21:12:54Z"
+}

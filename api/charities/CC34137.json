@@ -1,0 +1,27 @@
+{
+  "id": 42135,
+  "registrationNumber": "CC34137",
+  "name": "Aukaha (1997) Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aukaha.co.nz",
+  "email": "jacqui@aukaha.co.nz",
+  "address": {
+    "line1": "266 Hanover Street",
+    "line2": "258 Stuart Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429037953430",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Aukaha.co.nz",
+    "twitter": "Nil"
+  },
+  "lastUpdated": "2025-12-14T18:36:55Z"
+}

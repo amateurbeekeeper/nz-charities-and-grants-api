@@ -1,0 +1,27 @@
+{
+  "id": 66289,
+  "registrationNumber": "CC52563",
+  "name": "Waihi Swimming Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-11-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sportsground.co.nz/waihiswim",
+  "email": "waihiswimmingclub@gmail.com",
+  "address": {
+    "line1": "Waihi College",
+    "line2": "25 Rata Street",
+    "suburb": " ",
+    "city": "Waihi",
+    "postcode": "3610"
+  },
+  "nzbn": "9429043276110",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/WaihiSwimmingClub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T20:42:59Z"
+}

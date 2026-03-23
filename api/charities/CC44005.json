@@ -1,0 +1,27 @@
+{
+  "id": 50434,
+  "registrationNumber": "CC44005",
+  "name": "Calvary Chapel Whangarei",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.calvarywhangarei.co.nz/",
+  "email": "info@calvarywhangarei.co.nz",
+  "address": {
+    "line1": "43 Vine Street",
+    "line2": "Whangarei 0110",
+    "suburb": "Kamo",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T10:29:25Z"
+}

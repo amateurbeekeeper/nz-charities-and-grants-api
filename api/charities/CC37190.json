@@ -1,0 +1,27 @@
+{
+  "id": 42242,
+  "registrationNumber": "CC37190",
+  "name": "Alcohol Healthwatch Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ahw.org.nz",
+  "email": "director@ahw.org.nz",
+  "address": {
+    "line1": "FLOOR 1",
+    "line2": "27 Gillies Avenue",
+    "suburb": "Newmarket",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042575702",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AlcoholHealthwatch/",
+    "twitter": "https://twitter.com/AlcHealthwatch"
+  },
+  "lastUpdated": "2025-12-07T21:32:18Z"
+}

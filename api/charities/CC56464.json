@@ -1,0 +1,27 @@
+{
+  "id": 70104,
+  "registrationNumber": "CC56464",
+  "name": "Turn Up The Music Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://turnupthemusic.co.nz",
+  "email": "info@turnupthemusic.co.nz",
+  "address": {
+    "line1": "12 Hawthorne Drive",
+    "line2": "Queenstown 9300",
+    "suburb": "Frankton",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429048558778",
+  "financialYearEnd": "1/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/turnupthemusicqueenstown",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T03:18:28Z"
+}

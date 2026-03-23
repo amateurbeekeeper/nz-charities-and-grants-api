@@ -1,0 +1,27 @@
+{
+  "id": 33308,
+  "registrationNumber": "CC50271",
+  "name": "Maramarua Golf Club (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.maramarua.co.nz",
+  "email": "maramarua@xtra.co.nz",
+  "address": {
+    "line1": "40 Golf Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mangatawhiri",
+    "postcode": "2471"
+  },
+  "nzbn": "9429042763475",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T21:50:24Z"
+}

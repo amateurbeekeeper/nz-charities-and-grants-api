@@ -1,0 +1,27 @@
+{
+  "id": 55551,
+  "registrationNumber": "CC21589",
+  "name": "Christ's College Canterbury",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.christscollege.com",
+  "email": "leigh.stratford@christscollege.com",
+  "address": {
+    "line1": "33 Rolleston Avenue",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429048014731",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@christscollege",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T00:26:17Z"
+}

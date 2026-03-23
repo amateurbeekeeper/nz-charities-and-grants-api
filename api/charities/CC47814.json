@@ -1,0 +1,27 @@
+{
+  "id": 38045,
+  "registrationNumber": "CC47814",
+  "name": "New Zealand Business Week Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzbw.com",
+  "email": "dtweednz@gmail.com",
+  "address": {
+    "line1": "263 Featherston Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:32:49Z"
+}

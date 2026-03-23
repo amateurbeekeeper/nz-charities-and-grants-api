@@ -1,0 +1,27 @@
+{
+  "id": 33270,
+  "registrationNumber": "CC48790",
+  "name": "Shoreline Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-12-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.shoreline.org.nz",
+  "email": "doug@shoreline.org.nz",
+  "address": {
+    "line1": "Unit 21 65a Meleme Street",
+    "line2": " ",
+    "suburb": "Greerton",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429043301669",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/shorelinecalvarynz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T22:52:03Z"
+}

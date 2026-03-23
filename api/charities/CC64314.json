@@ -1,0 +1,27 @@
+{
+  "id": 78504,
+  "registrationNumber": "CC64314",
+  "name": "Homes for Good Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.homesforgood.nz",
+  "email": "secretary@homesforgood.nz",
+  "address": {
+    "line1": "21 Takahe Drive",
+    "line2": null,
+    "suburb": "Paraparaumu Beach",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T23:13:23Z"
+}

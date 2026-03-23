@@ -1,0 +1,27 @@
+{
+  "id": 66426,
+  "registrationNumber": "CC52691",
+  "name": "Life Education Trust EBOP",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-11-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lifeeducation.org.nz",
+  "email": "easternbop@lifeedtrust.org.nz",
+  "address": {
+    "line1": "32 Pyne Street",
+    "line2": "Whakatane 3120",
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429043305001",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-15T19:44:28Z"
+}

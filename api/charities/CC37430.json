@@ -1,0 +1,27 @@
+{
+  "id": 50037,
+  "registrationNumber": "CC37430",
+  "name": "Te Patunga Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ani.heta@hotmail.com",
+  "address": {
+    "line1": "585 Pupuke Mangapa Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Kaeo",
+    "postcode": "0479"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Patunga Marae",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T21:06:56Z"
+}

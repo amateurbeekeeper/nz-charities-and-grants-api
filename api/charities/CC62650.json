@@ -1,0 +1,27 @@
+{
+  "id": 76312,
+  "registrationNumber": "CC62650",
+  "name": "Shamrock Boxing Maraenui Napier",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "shamrockboxingnapier@gmail.com",
+  "address": {
+    "line1": "42 Hillary Crescent",
+    "line2": " ",
+    "suburb": "Maraenui",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429051597702",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100092478475161",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:15:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73640,
+  "registrationNumber": "CC59940",
+  "name": "Aotearoa Research Ethics Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://aotearoaresearchethics.org/",
+  "email": "kiaora@weavetogether.org.nz",
+  "address": {
+    "line1": "Floor 1",
+    "line2": "43 Princes Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429050219896",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-20T20:07:17Z"
+}

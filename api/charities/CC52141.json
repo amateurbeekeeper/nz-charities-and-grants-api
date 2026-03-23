@@ -1,0 +1,27 @@
+{
+  "id": 65876,
+  "registrationNumber": "CC52141",
+  "name": "Te Ngati Hinewera Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "laurenceo@xtra.co.nz",
+  "address": {
+    "line1": "86 Waiohiki Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Napier",
+    "postcode": "4183"
+  },
+  "nzbn": "9429042865162",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T20:55:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34913,
+  "registrationNumber": "CC49296",
+  "name": "Covenant Grace Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-06-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.covenantgracebaptist.church/",
+  "email": "graham@covenantgracebaptist.church",
+  "address": {
+    "line1": "20 Archer Street",
+    "line2": " ",
+    "suburb": "Parkside",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CovenantGraceTimaru",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-16T21:26:16Z"
+}

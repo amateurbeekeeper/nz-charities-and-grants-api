@@ -1,0 +1,27 @@
+{
+  "id": 45663,
+  "registrationNumber": "CC42157",
+  "name": "Tainui Historical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://mokaumuseum.nz",
+  "email": "mokaumuseacc@gmail.com",
+  "address": {
+    "line1": "33 North Street",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Mokau",
+    "postcode": "4376"
+  },
+  "nzbn": "9429042849773",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "mokau museum",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T02:05:48Z"
+}

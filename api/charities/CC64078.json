@@ -1,0 +1,27 @@
+{
+  "id": 78267,
+  "registrationNumber": "CC64078",
+  "name": "Andrew Robertson Ministry Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-12-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://andrewrobertsonministries.com",
+  "email": "andrewrobertson.nz@me.com",
+  "address": {
+    "line1": "111 Green Road",
+    "line2": "RD 2",
+    "suburb": "Dairy Flat",
+    "city": "Albany",
+    "postcode": "0792"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T01:15:21Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39900,
+  "registrationNumber": "CC27392",
+  "name": "The Parkinsonism Society Northland Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2018-03-31T00:00:00Z",
+  "website": "http://www.parkinsons.org.nz",
+  "email": "info@parkinsons.org.nz",
+  "address": {
+    "line1": "66 Raewyn Street",
+    "line2": " ",
+    "suburb": "Morningside",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429042787174",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "Parkinson's New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2018-06-21T20:20:26Z"
+}

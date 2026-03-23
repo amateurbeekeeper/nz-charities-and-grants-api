@@ -1,0 +1,27 @@
+{
+  "id": 53367,
+  "registrationNumber": "CC20577",
+  "name": "Te Kuiti Community House Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "communityhouse@tekuiti.net.nz",
+  "address": {
+    "line1": "28 Taupiri Street",
+    "line2": " ",
+    "suburb": "Te Kūiti",
+    "city": "Te Kuiti",
+    "postcode": "3910"
+  },
+  "nzbn": "9429042860105",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Yes",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T02:57:29Z"
+}

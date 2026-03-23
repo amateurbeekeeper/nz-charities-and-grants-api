@@ -1,0 +1,27 @@
+{
+  "id": 63223,
+  "registrationNumber": "CC43139",
+  "name": "Maranui Surf Life Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-12-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://maranui.co.nz",
+  "email": "Operations@maranui.co.nz",
+  "address": {
+    "line1": "107 Lyall Parade",
+    "line2": " ",
+    "suburb": "Lyall Bay",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429042763666",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MaranuiSLSC/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T23:16:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 61098,
+  "registrationNumber": "CC29797",
+  "name": "Auckland University Students Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ausa.org.nz",
+  "email": "president@ausa.org.nz",
+  "address": {
+    "line1": "4 Alfred Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042591023",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-18T22:04:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34368,
+  "registrationNumber": "CC50686",
+  "name": "Apollo Musicum",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "rvt.co.nz",
+  "email": "ahveetee34@gmail.com",
+  "address": {
+    "line1": "34 Mary Mclean Place",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/apollo.rvt.co.nz/",
+    "twitter": "na"
+  },
+  "lastUpdated": "2025-10-22T00:38:36Z"
+}

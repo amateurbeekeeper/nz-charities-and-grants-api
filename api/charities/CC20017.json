@@ -1,0 +1,27 @@
+{
+  "id": 53276,
+  "registrationNumber": "CC20017",
+  "name": "Blenheim Musical Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-11-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bmt.net.nz",
+  "email": "treasurer@bmt.net.nz",
+  "address": {
+    "line1": "81A Lakings Road",
+    "line2": " ",
+    "suburb": "Yelverton",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429042595052",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-25T19:17:28Z"
+}

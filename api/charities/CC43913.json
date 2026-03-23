@@ -1,0 +1,27 @@
+{
+  "id": 50349,
+  "registrationNumber": "CC43913",
+  "name": "Te Kuiti Community Childcare Centre (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "manager@thecottage.org.nz",
+  "address": {
+    "line1": "65 Esplanade",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Kuiti",
+    "postcode": "3910"
+  },
+  "nzbn": "9429042860099",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:42:48Z"
+}

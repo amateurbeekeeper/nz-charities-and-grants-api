@@ -1,0 +1,27 @@
+{
+  "id": 56500,
+  "registrationNumber": "CC23059",
+  "name": "Alzheimers Taranaki Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.alzheimers.org.nz/taranaki",
+  "email": "manager.taranaki@alzheimers.org.nz",
+  "address": {
+    "line1": "14 Manakohi Street",
+    "line2": " ",
+    "suburb": "Spotswood",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042574095",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Alzheimers Taranaki Inc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T18:16:07Z"
+}

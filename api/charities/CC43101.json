@@ -1,0 +1,27 @@
+{
+  "id": 64005,
+  "registrationNumber": "CC43101",
+  "name": "Encounter Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-12-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.encounterkaikoura.co.nz  ",
+  "email": "dennis@dolphin.co.nz",
+  "address": {
+    "line1": "96 Esplanade",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaikoura",
+    "postcode": "7300"
+  },
+  "nzbn": "9429043202256",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-18T19:21:12Z"
+}

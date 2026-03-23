@@ -1,0 +1,27 @@
+{
+  "id": 51536,
+  "registrationNumber": "CC10294",
+  "name": "Waka Pacific Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wakapacific.org.nz",
+  "email": "accounts@wakapacific.org.nz",
+  "address": {
+    "line1": "770 Great South Road",
+    "line2": " ",
+    "suburb": "Wiri",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042991038",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T03:43:17Z"
+}

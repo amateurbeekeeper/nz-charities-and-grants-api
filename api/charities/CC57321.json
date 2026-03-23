@@ -1,0 +1,27 @@
+{
+  "id": 70952,
+  "registrationNumber": "CC57321",
+  "name": "Te Pou o St Columba Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://saintcolumbas.org.nz/",
+  "email": "brentihaia@gmail.com",
+  "address": {
+    "line1": "92 Surrey Crescent",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429050137770",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/stcolumbagreylynn/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-07T19:20:07Z"
+}

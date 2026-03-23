@@ -1,0 +1,27 @@
+{
+  "id": 36335,
+  "registrationNumber": "CC46107",
+  "name": "Gisborne Christian Fellowship",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-01-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "h.searle@gostape.co.nz",
+  "address": {
+    "line1": "438 Nelson Road",
+    "line2": " ",
+    "suburb": "Riverdale",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042629535",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-04T09:17:08Z"
+}

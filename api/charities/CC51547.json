@@ -1,0 +1,27 @@
+{
+  "id": 65318,
+  "registrationNumber": "CC51547",
+  "name": "A.H. Couch Heart Trust New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ahcouchtrust.org",
+  "email": "neilfitzjames@gmail.com",
+  "address": {
+    "line1": "C/- Anderson Creagh Lai",
+    "line2": "Level 1",
+    "suburb": "110 Customs Street West",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043274437",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:34:20Z"
+}

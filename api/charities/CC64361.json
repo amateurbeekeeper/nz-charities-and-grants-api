@@ -1,0 +1,27 @@
+{
+  "id": 78548,
+  "registrationNumber": "CC64361",
+  "name": "Waitomo Waipa Women's Refuge Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wwwrefuge.co.nz/",
+  "email": "wendy@wwwrefuge.co.nz",
+  "address": {
+    "line1": "25 Queen Street",
+    "line2": null,
+    "suburb": "Te Kūiti",
+    "city": "Te Kuiti",
+    "postcode": "3910"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wwwrefuge/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T01:54:10Z"
+}

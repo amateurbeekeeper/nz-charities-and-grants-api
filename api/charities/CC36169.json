@@ -1,0 +1,27 @@
+{
+  "id": 47101,
+  "registrationNumber": "CC36169",
+  "name": "Taupo Volunteer Fire Brigade",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-12-17T00:00:00Z",
+  "dateDeregistered": "2010-06-29T00:00:00Z",
+  "website": null,
+  "email": "k.morse@xtra.co.nz",
+  "address": {
+    "line1": "PO Box 526",
+    "line2": null,
+    "suburb": "Taupo",
+    "city": null,
+    "postcode": "3351"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:33:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65405,
+  "registrationNumber": "CC51642",
+  "name": "Good Shepherd New Zealand Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://goodshepherd.org.nz/",
+  "email": "Ann-Maree.Smith@goodshep.org.au",
+  "address": {
+    "line1": "Level 4",
+    "line2": "48 High Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429041597149",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T21:15:38Z"
+}

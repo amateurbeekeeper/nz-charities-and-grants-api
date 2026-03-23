@@ -1,0 +1,27 @@
+{
+  "id": 59391,
+  "registrationNumber": "CC27421",
+  "name": "Whaioranga Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whaioranga.co.nz",
+  "email": "marama@whaioranga.co.nz",
+  "address": {
+    "line1": "531 Welcome Bay Road",
+    "line2": "RD 5",
+    "suburb": "Welcome Bay",
+    "city": "Tauranga",
+    "postcode": "3175"
+  },
+  "nzbn": "9429042835189",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T18:09:11Z"
+}

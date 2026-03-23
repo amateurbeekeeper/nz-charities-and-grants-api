@@ -1,0 +1,27 @@
+{
+  "id": 67814,
+  "registrationNumber": "CC54126",
+  "name": "Waipawa Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-02-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "scott.marillier@fireandemergency.nz",
+  "address": {
+    "line1": "42 Waverley Street",
+    "line2": "Waipawa 4210",
+    "suburb": " ",
+    "city": "Waipawa",
+    "postcode": "4210"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "FENZ Waipawa Volunteer Fire Brigade",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:43:21Z"
+}

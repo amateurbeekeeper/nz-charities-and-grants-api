@@ -1,0 +1,27 @@
+{
+  "id": 50142,
+  "registrationNumber": "CC44504",
+  "name": "Papamoa Swimming Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.papamoaswimclub.org.nz",
+  "email": "papamoaswimmingclub@hotmail.com",
+  "address": {
+    "line1": "65 Parton Road",
+    "line2": "Papamoa",
+    "suburb": " Papamoa",
+    "city": "Tauranga",
+    "postcode": "3118"
+  },
+  "nzbn": "9429043201631",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Papamoa Amateur Swimming Club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-18T04:34:06Z"
+}

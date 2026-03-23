@@ -1,0 +1,27 @@
+{
+  "id": 60313,
+  "registrationNumber": "CC29300",
+  "name": "Winton Medical Services Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bruce.kooman@findex.co.nz",
+  "address": {
+    "line1": "Findex",
+    "line2": "221 Great North Road",
+    "suburb": " ",
+    "city": "Winton",
+    "postcode": "9720"
+  },
+  "nzbn": "9429036644193",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T23:07:37Z"
+}

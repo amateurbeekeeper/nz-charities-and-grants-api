@@ -1,0 +1,27 @@
+{
+  "id": 70051,
+  "registrationNumber": "CC56413",
+  "name": "Matawhaanui Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://matawhaanuitrust.co.nz/",
+  "email": "accounts@mwt.co.nz",
+  "address": {
+    "line1": "159 Harris Street",
+    "line2": "Huntly 3700",
+    "suburb": " ",
+    "city": "Huntly",
+    "postcode": "3700"
+  },
+  "nzbn": "9429047713864",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:44:28Z"
+}

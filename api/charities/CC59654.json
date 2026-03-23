@@ -1,0 +1,27 @@
+{
+  "id": 73254,
+  "registrationNumber": "CC59654",
+  "name": "LazySneakers",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lazysneakers.com",
+  "email": "kirkmariner@gmail.com",
+  "address": {
+    "line1": "66 Salonika Street",
+    "line2": " ",
+    "suburb": "Whakatāne",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429050651580",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "@lazysnkrs",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T01:07:33Z"
+}

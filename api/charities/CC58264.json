@@ -1,0 +1,27 @@
+{
+  "id": 71876,
+  "registrationNumber": "CC58264",
+  "name": "Cheekee Hero Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cheekeehero.com",
+  "email": "jasmine.soa@cheekeehero.com",
+  "address": {
+    "line1": "146 Kupe Street",
+    "line2": " ",
+    "suburb": "Orakei",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429051559083",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cheekeehero",
+    "twitter": "https://twitter.com/cheekeehero"
+  },
+  "lastUpdated": "2025-10-02T02:51:42Z"
+}

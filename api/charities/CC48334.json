@@ -1,0 +1,27 @@
+{
+  "id": 38818,
+  "registrationNumber": "CC48334",
+  "name": "Changepoint Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.changepointelc.co.nz/",
+  "email": "jade@changepointelc.co.nz",
+  "address": {
+    "line1": "2 Corwen Avenue",
+    "line2": " ",
+    "suburb": "Hairini",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429043234943",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/changepointelc/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T19:39:26Z"
+}

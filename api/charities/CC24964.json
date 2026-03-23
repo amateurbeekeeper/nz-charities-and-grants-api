@@ -1,0 +1,27 @@
+{
+  "id": 53449,
+  "registrationNumber": "CC24964",
+  "name": "Evangelistic Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.c3chch.org",
+  "email": "lisa@southcityc3.org.nz",
+  "address": {
+    "line1": "510 Colombo Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042701323",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-02T01:04:04Z"
+}

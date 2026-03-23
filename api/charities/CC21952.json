@@ -1,0 +1,27 @@
+{
+  "id": 55059,
+  "registrationNumber": "CC21952",
+  "name": "Science Alive Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sciencealive.co.nz",
+  "email": "david.ward@bdo.co.nz",
+  "address": {
+    "line1": "506 Waterloo Road",
+    "line2": null,
+    "suburb": "Islington",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429043132331",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:47Z"
+}

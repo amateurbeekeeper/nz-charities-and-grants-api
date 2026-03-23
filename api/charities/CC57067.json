@@ -1,0 +1,27 @@
+{
+  "id": 70697,
+  "registrationNumber": "CC57067",
+  "name": "Suitcase Theatre Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://suitcasetheatredunedin.wordpress.com/",
+  "email": "suitcasetheatredunedin@gmail.com",
+  "address": {
+    "line1": "31B Nelson Street",
+    "line2": " ",
+    "suburb": "Forbury",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429047055490",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SuitcaseTheatreDunedin/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-30T05:58:23Z"
+}

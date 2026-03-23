@@ -1,0 +1,27 @@
+{
+  "id": 66237,
+  "registrationNumber": "CC52507",
+  "name": "Anglican Diocese of Christchurch Parish of Christchurch St Michael and All Angels",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stmichaelandallangels.nz",
+  "email": "smaa@xtra.co.nz",
+  "address": {
+    "line1": "84 Oxford Terrace",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "SMAAChristchurch",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T15:55:23Z"
+}

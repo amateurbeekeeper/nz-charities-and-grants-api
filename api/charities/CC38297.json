@@ -1,0 +1,27 @@
+{
+  "id": 58765,
+  "registrationNumber": "CC38297",
+  "name": "Haumoana School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2021-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "haumoanapta@gmail.com",
+  "address": {
+    "line1": "7 Raymond Road",
+    "line2": " ",
+    "suburb": "R D 2",
+    "city": "Hastings",
+    "postcode": "4102"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Haumoana-School-Community-Events-167379023275415",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T02:33:00Z"
+}

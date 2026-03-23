@@ -1,0 +1,27 @@
+{
+  "id": 42631,
+  "registrationNumber": "CC39256",
+  "name": "Gisborne Hospital Childcare and Education Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ghcec.co.nz",
+  "email": "ghcec@xtra.co.nz",
+  "address": {
+    "line1": "423 Ormond Road",
+    "line2": " ",
+    "suburb": "Lytton West",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042935056",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T21:28:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70681,
+  "registrationNumber": "CC57049",
+  "name": "The Kaiārahi Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kaiarahi.org",
+  "email": "d.mclay@bcomm.nz",
+  "address": {
+    "line1": "45 Johnston Street",
+    "line2": " Level 8",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-07T20:32:48Z"
+}

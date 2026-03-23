@@ -1,0 +1,27 @@
+{
+  "id": 40054,
+  "registrationNumber": "CC23372",
+  "name": "Dress For Success Christchurch Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dressforsuccess.org",
+  "email": "christchurch@dressforsuccess.org",
+  "address": {
+    "line1": "317 Madras Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429043271924",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DressforSuccessChristchurch/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T02:50:00Z"
+}

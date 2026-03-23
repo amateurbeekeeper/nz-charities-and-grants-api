@@ -1,0 +1,27 @@
+{
+  "id": 62696,
+  "registrationNumber": "CC44418",
+  "name": "Pearl of the Islands Foundation Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pif.org.nz",
+  "email": "yalcin@pif.org.nz",
+  "address": {
+    "line1": "1A Wagener Place",
+    "line2": "Newmarket",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429043141784",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PearloftheIslands",
+    "twitter": "https://twitter.com/PIF_Inc"
+  },
+  "lastUpdated": "2025-11-04T20:25:04Z"
+}

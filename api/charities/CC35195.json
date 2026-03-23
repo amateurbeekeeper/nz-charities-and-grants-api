@@ -1,0 +1,27 @@
+{
+  "id": 61447,
+  "registrationNumber": "CC35195",
+  "name": "St Peter's School Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stpeters.school.nz",
+  "email": "nic.boyd@stpeters.school.nz",
+  "address": {
+    "line1": "1716 Cambridge Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3283"
+  },
+  "nzbn": "9429047654334",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T04:07:07Z"
+}

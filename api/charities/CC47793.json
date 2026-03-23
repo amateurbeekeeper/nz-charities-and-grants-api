@@ -1,0 +1,27 @@
+{
+  "id": 37856,
+  "registrationNumber": "CC47793",
+  "name": "New Zealand Muslim Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-01-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzma.kiwi.nz",
+  "email": "secretary@nzma.kiwi.nz",
+  "address": {
+    "line1": "122 Blockhouse Bay Road",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429042711421",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-24T02:17:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70532,
+  "registrationNumber": "CC56901",
+  "name": "Societa Dante Alighieri di Christchurch Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.dantechch.com",
+  "email": "general@dantechch.com",
+  "address": {
+    "line1": "23D Jozecom Place",
+    "line2": null,
+    "suburb": null,
+    "city": "Rolleston",
+    "postcode": "7614"
+  },
+  "nzbn": "9429046744524",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Dante Alighierei Society - Christchurch NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T08:36:39Z"
+}

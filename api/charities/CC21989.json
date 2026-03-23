@@ -1,0 +1,27 @@
+{
+  "id": 54906,
+  "registrationNumber": "CC21989",
+  "name": "Christchurch North Elim Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.elimchristchurch.org/",
+  "email": "phil@christchurchnorthelim.org.nz",
+  "address": {
+    "line1": "801B Main North Road",
+    "line2": " ",
+    "suburb": "Belfast",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429043029976",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/christchurchnorthelim.org.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T01:58:28Z"
+}

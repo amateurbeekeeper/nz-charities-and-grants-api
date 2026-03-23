@@ -1,0 +1,27 @@
+{
+  "id": 71330,
+  "registrationNumber": "CC57704",
+  "name": "Holy Spirit Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://holyspiritministries.nz",
+  "email": "holyspiritministriesnz@gmail.com",
+  "address": {
+    "line1": "58B McKean Avenue",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T22:28:01Z"
+}

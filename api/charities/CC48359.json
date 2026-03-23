@@ -1,0 +1,27 @@
+{
+  "id": 32813,
+  "registrationNumber": "CC48359",
+  "name": "Graeme Dingle Foundation Auckland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dinglefoundation.org.nz/auckland/",
+  "email": "paul.burns@dinglefoundation.org.nz",
+  "address": {
+    "line1": "6 Paisley Place",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429043319039",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/graemedinglefoundation/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T05:59:36Z"
+}

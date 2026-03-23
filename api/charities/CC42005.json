@@ -1,0 +1,27 @@
+{
+  "id": 48599,
+  "registrationNumber": "CC42005",
+  "name": "Totaravale Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "totaravale@playcentre.org.nz",
+  "address": {
+    "line1": "37A Totaravale Drive",
+    "line2": " ",
+    "suburb": "Totara Vale",
+    "city": "Auckland",
+    "postcode": "629"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:11:12Z"
+}

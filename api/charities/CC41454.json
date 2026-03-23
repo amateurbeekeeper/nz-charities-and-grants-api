@@ -1,0 +1,27 @@
+{
+  "id": 63592,
+  "registrationNumber": "CC41454",
+  "name": "EquiPotential NZ Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.equipotential.nz",
+  "email": "steve@kth.co.nz",
+  "address": {
+    "line1": "1340 Pukete Road",
+    "line2": " ",
+    "suburb": "Pukete",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429043098835",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/equalpotentialNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T23:45:29Z"
+}

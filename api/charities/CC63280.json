@@ -1,0 +1,27 @@
+{
+  "id": 77486,
+  "registrationNumber": "CC63280",
+  "name": "Ngāti Pārau Hapū Trust ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.paarau.co.nz",
+  "email": "joe@paarau.co.nz",
+  "address": {
+    "line1": "7 Pitaka Lane",
+    "line2": "RD 3",
+    "suburb": "Waiohiki",
+    "city": "Napier",
+    "postcode": "4183"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-20T08:58:13Z"
+}

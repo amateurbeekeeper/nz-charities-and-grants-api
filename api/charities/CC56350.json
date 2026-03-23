@@ -1,0 +1,27 @@
+{
+  "id": 69987,
+  "registrationNumber": "CC56350",
+  "name": "Rotorua Wacky Warm Ups",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-01-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jane@tekopiafarm.co.nz",
+  "address": {
+    "line1": "405 Old Taupo rd",
+    "line2": "Springfield",
+    "suburb": "Rotorua",
+    "city": "3015",
+    "postcode": "3015"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Wacky Warm Ups",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T23:29:44Z"
+}

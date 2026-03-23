@@ -1,0 +1,27 @@
+{
+  "id": 65437,
+  "registrationNumber": "CC51684",
+  "name": "Kingsway Educational Services Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kwps.nz",
+  "email": "ceo@kingswaytrust.nz",
+  "address": {
+    "line1": "2 Bonair Crescent",
+    "line2": "Silverdale 0932",
+    "suburb": " ",
+    "city": "Silverdale",
+    "postcode": "0932"
+  },
+  "nzbn": "9429041544785",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "kingswaycommunityfacebookpage",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-25T18:34:16Z"
+}

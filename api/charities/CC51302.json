@@ -1,0 +1,27 @@
+{
+  "id": 34663,
+  "registrationNumber": "CC51302",
+  "name": "Baseball New Zealand Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-09-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.baseballfoundation.nz",
+  "email": "john@fellet.co.nz",
+  "address": {
+    "line1": "19 Woodgers Way",
+    "line2": " ",
+    "suburb": "Somerville",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": "9429043288601",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Baseball-New-Zealand-Foundation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T23:18:08Z"
+}

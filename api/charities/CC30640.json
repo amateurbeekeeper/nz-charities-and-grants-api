@@ -1,0 +1,27 @@
+{
+  "id": 59755,
+  "registrationNumber": "CC30640",
+  "name": "Newell House Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bradley@brl.org.nz",
+  "address": {
+    "line1": "286 Oxford Terrace",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042681380",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T02:56:41Z"
+}

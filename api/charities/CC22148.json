@@ -1,0 +1,27 @@
+{
+  "id": 55021,
+  "registrationNumber": "CC22148",
+  "name": "NZSAS Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzsastrust.org.nz",
+  "email": "finance@nzsastrust.org.nz",
+  "address": {
+    "line1": "Burrows Lair , Papakura Military Camp",
+    "line2": "Walters And Grove Road",
+    "suburb": "Papakura",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429043162512",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T02:29:35Z"
+}

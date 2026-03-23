@@ -1,0 +1,27 @@
+{
+  "id": 44979,
+  "registrationNumber": "CC39229",
+  "name": "Sunnynook Primary School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sunnynook.school.nz",
+  "email": "sunnynookptatreasurer@gmail.com",
+  "address": {
+    "line1": "Sunnynook School",
+    "line2": "35 Lyford Crescent",
+    "suburb": "Sunnynook",
+    "city": "Auckland",
+    "postcode": "0620"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-18T20:15:30Z"
+}

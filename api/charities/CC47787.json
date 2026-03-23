@@ -1,0 +1,27 @@
+{
+  "id": 37248,
+  "registrationNumber": "CC47787",
+  "name": "Thrive Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2025-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://thrivetrust.co.nz",
+  "email": "mike@thrivetrust.co.nz",
+  "address": {
+    "line1": "307 Mary Street",
+    "line2": "Thames 3500",
+    "suburb": " ",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429043237043",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T20:54:33Z"
+}

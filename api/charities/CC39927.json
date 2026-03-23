@@ -1,0 +1,27 @@
+{
+  "id": 43717,
+  "registrationNumber": "CC39927",
+  "name": "Taikata Sailing Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taikata.co.nz",
+  "email": "treasurer@taikata.co.nz",
+  "address": {
+    "line1": "15 Chapman road",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula ",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429042849735",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Taikata Sailing Club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T19:06:12Z"
+}

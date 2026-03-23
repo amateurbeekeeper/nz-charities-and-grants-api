@@ -1,0 +1,27 @@
+{
+  "id": 74657,
+  "registrationNumber": "CC61075",
+  "name": "Merino Muster Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.merinomuster.com",
+  "email": "jmburridge@xtra.co.nz",
+  "address": {
+    "line1": "22 Stonebrook Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429030214642",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "https://www.merinomuster.com/"
+  },
+  "lastUpdated": "2026-03-19T02:55:18Z"
+}

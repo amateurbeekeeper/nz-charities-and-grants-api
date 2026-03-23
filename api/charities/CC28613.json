@@ -1,0 +1,27 @@
+{
+  "id": 58177,
+  "registrationNumber": "CC28613",
+  "name": "The Rose Centre Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rosecentre.co.nz",
+  "email": "chair@rosecentre.co.nz",
+  "address": {
+    "line1": "The Rose Centre",
+    "line2": "4 School Road",
+    "suburb": "Belmont",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429042852896",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook/rosecentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T03:47:20Z"
+}

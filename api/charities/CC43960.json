@@ -1,0 +1,27 @@
+{
+  "id": 50386,
+  "registrationNumber": "CC43960",
+  "name": "Piringa Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.piringa.org.nz",
+  "email": "gavin.michelle@mcconnell.net",
+  "address": {
+    "line1": "61 Rangitahi Road",
+    "line2": " ",
+    "suburb": " ",
+    "city": "Raglan",
+    "postcode": "3225"
+  },
+  "nzbn": "9429043189274",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T02:52:22Z"
+}

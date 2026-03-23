@@ -1,0 +1,27 @@
+{
+  "id": 73126,
+  "registrationNumber": "CC59520",
+  "name": "The Koha Shed Whanganui",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "elaine.hnz@xtra.co.nz",
+  "address": {
+    "line1": "88 Duncan Street",
+    "line2": " ",
+    "suburb": "Whanganui East",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thekohashed/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:31:28Z"
+}

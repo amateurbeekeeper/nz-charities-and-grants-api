@@ -1,0 +1,27 @@
+{
+  "id": 73185,
+  "registrationNumber": "CC59579",
+  "name": "Kila's Style Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2021-09-24T00:00:00Z",
+  "dateDeregistered": "2025-12-25T00:00:00Z",
+  "website": "https://www.dic.org.nz",
+  "email": "nora@noraswann.co.nz",
+  "address": {
+    "line1": "13 Fisher Crescent",
+    "line2": " ",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/dressedinconfidencenz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:03:29Z"
+}

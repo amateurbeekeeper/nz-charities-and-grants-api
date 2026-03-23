@@ -1,0 +1,27 @@
+{
+  "id": 33245,
+  "registrationNumber": "CC48900",
+  "name": "New Hope New Zealand ",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2013-03-18T00:00:00Z",
+  "dateDeregistered": "2025-10-12T00:00:00Z",
+  "website": null,
+  "email": "goodwinzz@hotmail.com",
+  "address": {
+    "line1": "44 Connell Street",
+    "line2": " ",
+    "suburb": "Waverley",
+    "city": "Dunedin",
+    "postcode": "9013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-26T06:03:05Z"
+}

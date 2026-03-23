@@ -1,0 +1,27 @@
+{
+  "id": 43322,
+  "registrationNumber": "CC42269",
+  "name": "Foxton Little Theatre Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://foxtonlittletheatre.webs.com",
+  "email": "littletheatrefoxton@gmail.com",
+  "address": {
+    "line1": "2 Main Street",
+    "line2": "Foxton 4814",
+    "suburb": "Foxton Beach",
+    "city": "Foxton",
+    "postcode": "4814"
+  },
+  "nzbn": "9429043049349",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Foxton Little Theatre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-22T20:11:19Z"
+}

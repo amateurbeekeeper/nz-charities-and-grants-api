@@ -1,0 +1,27 @@
+{
+  "id": 52142,
+  "registrationNumber": "CC10933",
+  "name": "Parafed Canterbury Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.parafedcanterbury.co.nz",
+  "email": "ksowden@parafedcanterbury.co.nz",
+  "address": {
+    "line1": "108 Sawyers Arms Road",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429042602620",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Facebook.com\\parafedcanterbury",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-29T20:02:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54909,
+  "registrationNumber": "CC21633",
+  "name": "The Canterbury Railway Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.canterburyrailwaysociety.org.nz",
+  "email": "accounts@canterburyrailwaysociety.org.nz",
+  "address": {
+    "line1": "50 Ferrymead Park Drive",
+    "line2": " ",
+    "suburb": "Ferrymead",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429042797333",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CanterburyRailwaySociety/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:31:50Z"
+}

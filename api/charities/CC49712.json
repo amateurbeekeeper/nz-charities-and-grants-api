@@ -1,0 +1,27 @@
+{
+  "id": 33104,
+  "registrationNumber": "CC49712",
+  "name": "Te Karanga Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-09-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tekaranga.nz",
+  "email": "info@tekaranga.nz",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "20 Nottingham Street",
+    "suburb": "Westmere",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429043188512",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tekaranga",
+    "twitter": "@tekaranga"
+  },
+  "lastUpdated": "2026-01-28T02:31:55Z"
+}

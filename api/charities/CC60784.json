@@ -1,0 +1,27 @@
+{
+  "id": 74370,
+  "registrationNumber": "CC60784",
+  "name": "KUPU Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "kupu.org.nz",
+  "email": "Robyn.Bargh@puawait.co.nz",
+  "address": {
+    "line1": "5 Flemington Place",
+    "line2": "Te Ngae",
+    "suburb": "Tikitere",
+    "city": "Rotorua",
+    "postcode": "3074"
+  },
+  "nzbn": "9429051496715",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kupufestival",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T21:32:46Z"
+}

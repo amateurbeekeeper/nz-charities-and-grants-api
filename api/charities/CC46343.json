@@ -1,0 +1,27 @@
+{
+  "id": 38239,
+  "registrationNumber": "CC46343",
+  "name": "The Auckland Justices of the Peace Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.jpauckland.org.nz",
+  "email": "Registrar@jpauckland.org.nz",
+  "address": {
+    "line1": "Level 1, Auckland District Court",
+    "line2": "Cnr Albert & Kingston Streets",
+    "suburb": " ",
+    "city": "Auckland Central",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042874140",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T18:08:56Z"
+}

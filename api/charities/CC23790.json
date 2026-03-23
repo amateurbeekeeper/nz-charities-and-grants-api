@@ -1,0 +1,27 @@
+{
+  "id": 41579,
+  "registrationNumber": "CC23790",
+  "name": "Rapanui Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ian@jhn.co.nz",
+  "address": {
+    "line1": "394 Aberdeen Road",
+    "line2": "Gisborne 4010",
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-17T19:17:26Z"
+}

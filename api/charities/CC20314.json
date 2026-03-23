@@ -1,0 +1,27 @@
+{
+  "id": 53193,
+  "registrationNumber": "CC20314",
+  "name": "Maraetotara Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ocf.nz",
+  "email": "ohopecf@xtra.co.nz",
+  "address": {
+    "line1": "8 Domain Road",
+    "line2": "Whakatane 3120",
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429042823988",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-16T02:33:29Z"
+}

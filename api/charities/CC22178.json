@@ -1,0 +1,27 @@
+{
+  "id": 55563,
+  "registrationNumber": "CC22178",
+  "name": "Acharya Ashram NZ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lavji.gopani@gmail.com",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "256 Balmoral Road",
+    "suburb": "Sandringham",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042958284",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T00:10:16Z"
+}

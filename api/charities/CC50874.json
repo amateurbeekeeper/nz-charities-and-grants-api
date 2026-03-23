@@ -1,0 +1,27 @@
+{
+  "id": 34456,
+  "registrationNumber": "CC50874",
+  "name": "Mangakino Central Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-08-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mangakinocentral.org.nz",
+  "email": "generalmanager@mangakinocentral.org.nz",
+  "address": {
+    "line1": "Shop 4",
+    "line2": "71 Rangatira Drive",
+    "suburb": " ",
+    "city": "Mangakino",
+    "postcode": "3421"
+  },
+  "nzbn": "9429043279708",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mangakinocentral/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T00:15:58Z"
+}

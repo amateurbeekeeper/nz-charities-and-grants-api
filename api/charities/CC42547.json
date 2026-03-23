@@ -1,0 +1,27 @@
+{
+  "id": 46892,
+  "registrationNumber": "CC42547",
+  "name": "New Zealand Rugby Foundation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rugbyfoundation.com",
+  "email": "lisa@rugbyfoundation.nz",
+  "address": {
+    "line1": "Level 4, Sport Auckland House",
+    "line2": "Alexandra Park Function Centre",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1334"
+  },
+  "nzbn": "9429043250929",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T22:21:00Z"
+}

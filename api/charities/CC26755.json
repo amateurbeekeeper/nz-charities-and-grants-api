@@ -1,0 +1,27 @@
+{
+  "id": 40548,
+  "registrationNumber": "CC26755",
+  "name": "The New Zealand Opera Training School Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.operaschool.org.nz",
+  "email": "nzoperaschool@outlook.com",
+  "address": {
+    "line1": "1A Taupo Quay",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042943549",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzoperaschool",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T04:50:09Z"
+}

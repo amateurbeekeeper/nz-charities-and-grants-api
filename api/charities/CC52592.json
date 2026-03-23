@@ -1,0 +1,27 @@
+{
+  "id": 66321,
+  "registrationNumber": "CC52592",
+  "name": "Miramar Peninsula Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://seatounvillagehall.co.nz",
+  "email": "malcolm@xtra.co.nz",
+  "address": {
+    "line1": "27 Ventnor Street",
+    "line2": " ",
+    "suburb": "Seatoun",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429043276936",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T03:41:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72208,
+  "registrationNumber": "CC58592",
+  "name": "Calvary Christchurch",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-01-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "aaronjmani@gmail.com",
+  "address": {
+    "line1": "14 Trevor Street",
+    "line2": " ",
+    "suburb": "Hornby",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Calvary Assembly of God Christchurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:09:37Z"
+}

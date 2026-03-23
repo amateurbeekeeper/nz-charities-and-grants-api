@@ -1,0 +1,27 @@
+{
+  "id": 44460,
+  "registrationNumber": "CC38732",
+  "name": "Waikari Gospel Hall",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "k.c.spencer@amuri.net",
+  "address": {
+    "line1": "5 Denham Terrace",
+    "line2": "Waikari 7420",
+    "suburb": " ",
+    "city": "Waikari",
+    "postcode": "7420"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T18:33:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39497,
+  "registrationNumber": "CC23121",
+  "name": "Glenfield Action Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://Www.4kids.nz",
+  "email": "secretary@gat.org.nz",
+  "address": {
+    "line1": "46 James Street",
+    "line2": " ",
+    "suburb": "Bayview",
+    "city": "Auckland",
+    "postcode": "629"
+  },
+  "nzbn": "9429043114696",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T06:11:50Z"
+}

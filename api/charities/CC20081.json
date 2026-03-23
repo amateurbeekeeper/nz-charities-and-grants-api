@@ -1,0 +1,27 @@
+{
+  "id": 51613,
+  "registrationNumber": "CC20081",
+  "name": "Empowerment Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.empowermenttrust.nz",
+  "email": "kathyg@empowermenttrust.nz",
+  "address": {
+    "line1": "105 Pacific Parade",
+    "line2": " ",
+    "suburb": "Army Bay",
+    "city": "Whangaparaoa",
+    "postcode": "0930"
+  },
+  "nzbn": "9429042905776",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/empowermenttrustNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T21:10:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52437,
+  "registrationNumber": "CC11238",
+  "name": "Papakura Brass Band Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "papakuracitybrass@gmail.com",
+  "address": {
+    "line1": "104 Arimu Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": "9429042821298",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PapakuraBrass/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T03:24:22Z"
+}

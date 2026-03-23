@@ -1,0 +1,27 @@
+{
+  "id": 64600,
+  "registrationNumber": "CC38028",
+  "name": "Lyttelton Community House Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lytteltoncommunityhouse.org.nz",
+  "email": "thea@theamickellservices.co.nz",
+  "address": {
+    "line1": "7 Dublin Street",
+    "line2": "PO Box 121",
+    "suburb": "Lyttelton",
+    "city": "Lyttelton",
+    "postcode": "8082"
+  },
+  "nzbn": "9429043091836",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T22:26:33Z"
+}

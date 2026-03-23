@@ -1,0 +1,27 @@
+{
+  "id": 65713,
+  "registrationNumber": "CC51964",
+  "name": "St. Marks Presbyterian Church Avonhead",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stmarks.net.nz",
+  "email": "leoett@xtra.co.nz",
+  "address": {
+    "line1": "150 Withells Road",
+    "line2": " ",
+    "suburb": "Avonhead",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T18:09:49Z"
+}

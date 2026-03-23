@@ -1,0 +1,27 @@
+{
+  "id": 65740,
+  "registrationNumber": "CC51992",
+  "name": "Knox Presbyterian Church Fitzroy New Plymouth",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.knoxfitzroy.org.nz",
+  "email": "treasurer.knoxfitzroy@gmail.com",
+  "address": {
+    "line1": "524 Devon Street East",
+    "line2": " ",
+    "suburb": "Fitzroy",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T18:03:52Z"
+}

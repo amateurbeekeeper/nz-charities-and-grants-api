@@ -1,0 +1,27 @@
+{
+  "id": 34852,
+  "registrationNumber": "CC51355",
+  "name": "Summit Point Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-01-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.summitpoint.school.nz",
+  "email": "r.elias@summitpoint.school.nz",
+  "address": {
+    "line1": "1 Fred Thomas Drive",
+    "line2": " ",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429041547823",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "summitpoint",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T19:38:55Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64914,
+  "registrationNumber": "CC41407",
+  "name": "Wellington Film Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wellingtonfilms.nz",
+  "email": "filmsociety@gmail.com",
+  "address": {
+    "line1": "C/o New Zealand Federation Of Film Societies",
+    "line2": "2nd Floor Embassy Theatre, 10 Kent Terrace",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042837787",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wellingtonfilmsociety/?fref=ts",
+    "twitter": "https://twitter.com/WgtnFilmSoc"
+  },
+  "lastUpdated": "2025-07-09T19:25:53Z"
+}

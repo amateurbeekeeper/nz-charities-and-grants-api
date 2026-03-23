@@ -1,0 +1,27 @@
+{
+  "id": 69339,
+  "registrationNumber": "CC55692",
+  "name": "Tawa Samoan Worship Centre Christian Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tawaworshipcentre.weebly.com/",
+  "email": "office.tawaswc@gmail.com",
+  "address": {
+    "line1": "112 Main Road",
+    "line2": " ",
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": "9429049928327",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://facebook.com/cswccc.tawa",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T22:18:56Z"
+}

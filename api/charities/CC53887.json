@@ -1,0 +1,27 @@
+{
+  "id": 67583,
+  "registrationNumber": "CC53887",
+  "name": "Simpson House Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@dcbc.co.nz",
+  "address": {
+    "line1": "19 Main South Road",
+    "line2": " ",
+    "suburb": "Concord",
+    "city": "Dunedin",
+    "postcode": "9018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T22:50:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56697,
+  "registrationNumber": "CC37413",
+  "name": "PlayHouse Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "playhouse@parliament.govt.nz",
+  "address": {
+    "line1": "33 Ballantrae Place",
+    "line2": "C/- Parliament Buildings",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042814580",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PlayhouseIncorporated",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T21:51:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40493,
+  "registrationNumber": "CC26643",
+  "name": "Health Care Centre Ltd",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-25T00:00:00Z",
+  "dateDeregistered": "2015-04-14T00:00:00Z",
+  "website": null,
+  "email": "gary@tarrantcotter.co.nz",
+  "address": {
+    "line1": "C/- Wairoa Hospital",
+    "line2": "Kitchener Street",
+    "suburb": null,
+    "city": "Wairoa",
+    "postcode": "4108"
+  },
+  "nzbn": "9429037685157",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:33:31Z"
+}

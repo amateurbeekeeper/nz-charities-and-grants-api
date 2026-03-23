@@ -1,0 +1,27 @@
+{
+  "id": 34027,
+  "registrationNumber": "CC50275",
+  "name": "Wakatipu Reforestation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-02-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wrtqt.org.nz",
+  "email": "hodgies38@gmail.com",
+  "address": {
+    "line1": "181 Peninsula Road",
+    "line2": "P.O. Box 105",
+    "suburb": "Kawarau Falls",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429048602778",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wrtqt.org.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T22:13:18Z"
+}

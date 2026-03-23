@@ -1,0 +1,27 @@
+{
+  "id": 41654,
+  "registrationNumber": "CC33483",
+  "name": "The Opawa Public Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.opawapubliclibrary.com",
+  "email": "opawapubliclibrary@gmail.com",
+  "address": {
+    "line1": "192 Richardson Terrace",
+    "line2": " ",
+    "suburb": "Opawa",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429042776000",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Opawa Public Library",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T03:07:23Z"
+}

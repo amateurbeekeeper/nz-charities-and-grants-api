@@ -1,0 +1,27 @@
+{
+  "id": 64991,
+  "registrationNumber": "CC29488",
+  "name": "Victoria Theatre Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thevic.org.nz",
+  "email": "mmcrae@xtra.co.nz",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "5A Takarunga Road",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": "9429043046331",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T23:13:00Z"
+}

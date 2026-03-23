@@ -1,0 +1,27 @@
+{
+  "id": 64736,
+  "registrationNumber": "CC42944",
+  "name": "Reanz Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-11-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://reanz.org",
+  "email": "reanztreasurer@gmail.com",
+  "address": {
+    "line1": "13 Marsden Avenue",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429043203864",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T23:20:46Z"
+}

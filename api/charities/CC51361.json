@@ -1,0 +1,27 @@
+{
+  "id": 34889,
+  "registrationNumber": "CC51361",
+  "name": "Activate Church Tuakau Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.activatechurchhamilton.com",
+  "email": "sara.m@activatefaithgroup.nz",
+  "address": {
+    "line1": "11 George Street",
+    "line2": "Tuakau 2121",
+    "suburb": " ",
+    "city": "Tuakau",
+    "postcode": "2121"
+  },
+  "nzbn": "9429043272730",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/activatechurchhamilton",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-20T22:43:22Z"
+}

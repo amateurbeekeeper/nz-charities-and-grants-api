@@ -1,0 +1,27 @@
+{
+  "id": 77089,
+  "registrationNumber": "CC63068",
+  "name": "Ōhua Midwives",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ohuamidwives@gmail.com",
+  "address": {
+    "line1": "50 Strathfield Avenue",
+    "line2": " ",
+    "suburb": "Dallington",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61570840348920",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-11T22:02:54Z"
+}

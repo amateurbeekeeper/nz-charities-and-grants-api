@@ -1,0 +1,27 @@
+{
+  "id": 38154,
+  "registrationNumber": "CC45893",
+  "name": "Golden Bay Community Health - Te Hauora o Mohua Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-12-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gbchtthomtreasurer@gmail.com",
+  "address": {
+    "line1": "Golden Bay Community Hospital",
+    "line2": "Central Takaka Rd",
+    "suburb": "Rd1",
+    "city": "Takaka",
+    "postcode": "7183"
+  },
+  "nzbn": "9429043219452",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:15:34Z"
+}

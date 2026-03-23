@@ -1,0 +1,27 @@
+{
+  "id": 32987,
+  "registrationNumber": "CC48506",
+  "name": "Central Kids Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-10-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.centralkids.org.nz",
+  "email": "finance@centralkids.org.nz",
+  "address": {
+    "line1": "Pūkenga Rau, Level 1",
+    "line2": "34 Chambers Stret",
+    "suburb": "Tokoroa",
+    "city": "Tokoroa",
+    "postcode": "3420 "
+  },
+  "nzbn": "9429043262113",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/CentralKidsNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:14Z"
+}

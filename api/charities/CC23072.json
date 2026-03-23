@@ -1,0 +1,27 @@
+{
+  "id": 40792,
+  "registrationNumber": "CC23072",
+  "name": "Spiritlife Ministries",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.spiritlife.org.nz",
+  "email": "davidp@spiritlife.org.nz",
+  "address": {
+    "line1": "25 Lilybank Crescent",
+    "line2": " ",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429043087709",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/SpiritlifeNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T18:07:51Z"
+}

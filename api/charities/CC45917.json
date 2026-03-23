@@ -1,0 +1,27 @@
+{
+  "id": 38275,
+  "registrationNumber": "CC45917",
+  "name": "Nga Pepetuna Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-12-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.restoringconnections.nz",
+  "email": "matt@restoringconnections.nz",
+  "address": {
+    "line1": "229C Warner Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3173"
+  },
+  "nzbn": "9429051525781",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/restoringconnections.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T04:38:14Z"
+}

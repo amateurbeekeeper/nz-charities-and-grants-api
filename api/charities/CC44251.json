@@ -1,0 +1,27 @@
+{
+  "id": 50492,
+  "registrationNumber": "CC44251",
+  "name": "The Green Hub Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.artsmanawatu.org.nz/studioonthesquare",
+  "email": "greenhub.manawatu@gmail.com",
+  "address": {
+    "line1": "47 The Square",
+    "line2": null,
+    "suburb": null,
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429043281848",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "studioonthesquare",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T03:26:24Z"
+}

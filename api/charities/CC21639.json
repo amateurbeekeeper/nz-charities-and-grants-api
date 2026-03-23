@@ -1,0 +1,27 @@
+{
+  "id": 55009,
+  "registrationNumber": "CC21639",
+  "name": "Dementia Canterbury Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-03-06T00:00:00Z",
+  "dateDeregistered": "2021-04-01T00:00:00Z",
+  "website": "http://www.dementiacanterbury.org.nz",
+  "email": "julie@dementiacanterbury.org.nz",
+  "address": {
+    "line1": "Unit 3",
+    "line2": "49 Sir William Pickering Drive",
+    "suburb": "Burnside",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042576020",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/DementiaCanterburyNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2022-12-04T20:01:06Z"
+}

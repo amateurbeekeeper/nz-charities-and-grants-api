@@ -1,0 +1,27 @@
+{
+  "id": 69997,
+  "registrationNumber": "CC56349",
+  "name": "Central Air Ambulance Rescue Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.caarl.org.nz",
+  "email": "mark.king@srsl.org.nz",
+  "address": {
+    "line1": "86 Miro Street",
+    "line2": null,
+    "suburb": "Tauhara",
+    "city": "Taupō",
+    "postcode": "3330"
+  },
+  "nzbn": "9429046761743",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T02:25:17Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75544,
+  "registrationNumber": "CC61992",
+  "name": "Firma Foundations",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-10-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "firmafoundations.rowan@gmail.com",
+  "address": {
+    "line1": "57 Emerald Hills Road",
+    "line2": "RD 1",
+    "suburb": "Koputaroa",
+    "city": "Levin",
+    "postcode": "5571"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T00:55:40Z"
+}

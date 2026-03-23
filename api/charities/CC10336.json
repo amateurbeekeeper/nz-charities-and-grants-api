@@ -1,0 +1,27 @@
+{
+  "id": 51506,
+  "registrationNumber": "CC10336",
+  "name": "Kahikatea Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-05-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bbeck@accounting.co.nz",
+  "address": {
+    "line1": "Level 3",
+    "line2": " 6 Show Place",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T18:39:53Z"
+}

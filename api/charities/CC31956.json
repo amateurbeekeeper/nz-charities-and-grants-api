@@ -1,0 +1,27 @@
+{
+  "id": 43554,
+  "registrationNumber": "CC31956",
+  "name": "Auckland Deaf Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.auckland-deaf.org.nz",
+  "email": "finance@auckland-deaf.org.nz",
+  "address": {
+    "line1": "16 Hillsborough Road",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429042586418",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T03:45:32Z"
+}

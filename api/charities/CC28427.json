@@ -1,0 +1,27 @@
+{
+  "id": 49889,
+  "registrationNumber": "CC28427",
+  "name": "Apiti Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cheryl.steve@hirschberg.co.nz",
+  "address": {
+    "line1": "1480 Makoura Road",
+    "line2": "RD 14",
+    "suburb": "Apiti",
+    "city": "Ashhurst",
+    "postcode": "4884"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T06:07:45Z"
+}

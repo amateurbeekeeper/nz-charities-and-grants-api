@@ -1,0 +1,27 @@
+{
+  "id": 44955,
+  "registrationNumber": "CC37843",
+  "name": "New Zealand Sailing Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzsailingtrust.org",
+  "email": "nicola@nzsailingtrust.com",
+  "address": {
+    "line1": "21 Taylors Road",
+    "line2": " ",
+    "suburb": "Morningside",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429043166879",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzsailingtrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T22:32:16Z"
+}

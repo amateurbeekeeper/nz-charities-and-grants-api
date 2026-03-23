@@ -1,0 +1,27 @@
+{
+  "id": 50174,
+  "registrationNumber": "CC43708",
+  "name": "The Kahutia Bowling Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sporty.co.nz/bowlskahutia",
+  "email": "megan@coates.co.nz",
+  "address": {
+    "line1": "165 Cobden Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4040"
+  },
+  "nzbn": "9429042648628",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T00:15:06Z"
+}

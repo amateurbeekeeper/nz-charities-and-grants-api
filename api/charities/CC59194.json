@@ -1,0 +1,27 @@
+{
+  "id": 72802,
+  "registrationNumber": "CC59194",
+  "name": "The Buzz Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.thebuzznelson.nz",
+  "email": "michelle@taxandtrust.co.nz",
+  "address": {
+    "line1": "166 Tahunanui Drive",
+    "line2": " ",
+    "suburb": "Tahunanui",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429049254983",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The Buzz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T22:53:20Z"
+}

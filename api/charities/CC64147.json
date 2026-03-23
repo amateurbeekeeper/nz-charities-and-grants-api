@@ -1,0 +1,27 @@
+{
+  "id": 78336,
+  "registrationNumber": "CC64147",
+  "name": "Tuatahi Hapū",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-06-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nng@spotswoodcollege.school.nz",
+  "address": {
+    "line1": "10 Orite Drive",
+    "line2": null,
+    "suburb": "Welbourn",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T00:18:34Z"
+}

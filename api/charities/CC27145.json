@@ -1,0 +1,27 @@
+{
+  "id": 58729,
+  "registrationNumber": "CC27145",
+  "name": "Penina Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.penina.org.nz",
+  "email": "kisione.tupou@peninatrust.org.nz",
+  "address": {
+    "line1": "186 Russell Road",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": "9429043118731",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/peninatrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T22:28:21Z"
+}

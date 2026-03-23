@@ -1,0 +1,27 @@
+{
+  "id": 42467,
+  "registrationNumber": "CC26036",
+  "name": "The Methodist Church of New Zealand Te Haahi Weteriana O Aotearoa Wellington Methodist Parish (6010)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.methodist.org.nz",
+  "email": "peterv@methodist.org.nz",
+  "address": {
+    "line1": "75 Taranaki Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T03:44:21Z"
+}

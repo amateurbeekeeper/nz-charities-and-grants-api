@@ -1,0 +1,27 @@
+{
+  "id": 73812,
+  "registrationNumber": "CC60199",
+  "name": "Haumoana Tree Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://haumoanatreetrust.nz/",
+  "email": "steve@stonepeace.co.nz",
+  "address": {
+    "line1": "8 Shrimpton Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Haumoana",
+    "postcode": "4102"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HaumoanaTreeTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T02:35:41Z"
+}

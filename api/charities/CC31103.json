@@ -1,0 +1,27 @@
+{
+  "id": 49534,
+  "registrationNumber": "CC31103",
+  "name": "UCKG Help Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.uckg.co.nz",
+  "email": "office@uckg.co.nz",
+  "address": {
+    "line1": "13 Lambie Drive",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429043047673",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T02:11:27Z"
+}

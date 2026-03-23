@@ -1,0 +1,27 @@
+{
+  "id": 67728,
+  "registrationNumber": "CC54037",
+  "name": "New Zealand Saxophone Society Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-12-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@saxsociety.nz",
+  "address": {
+    "line1": "30 Louise Drive",
+    "line2": " ",
+    "suburb": "Ohauiti",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429043381975",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T02:00:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44459,
+  "registrationNumber": "CC33164",
+  "name": "The Carroll Street Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2010-09-15T00:00:00Z",
+  "website": null,
+  "email": "carrollst@xtra.co.nz",
+  "address": {
+    "line1": "91 Carroll Street",
+    "line2": null,
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042989950",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-11-30T00:58:39Z"
+}

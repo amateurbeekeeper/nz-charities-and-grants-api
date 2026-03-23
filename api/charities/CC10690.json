@@ -1,0 +1,27 @@
+{
+  "id": 51875,
+  "registrationNumber": "CC10690",
+  "name": "Student Association of The Nelson-Marlborough Institute of Technology Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.saniti.co.nz",
+  "email": "manager@saniti.co.nz",
+  "address": {
+    "line1": "L Block",
+    "line2": "322 Hardy Street",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043018239",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "SANITINZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:25:22Z"
+}

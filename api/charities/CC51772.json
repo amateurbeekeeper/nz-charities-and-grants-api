@@ -1,0 +1,27 @@
+{
+  "id": 65536,
+  "registrationNumber": "CC51772",
+  "name": "ST ANDREWS FIRST PRESBYTERIAN CHURCH",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.standrewschurch.org.nz",
+  "email": "JOHNNYPARULIAN@GMAIL.COM",
+  "address": {
+    "line1": "2 Symonds Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/1444829139138779/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:27:00Z"
+}

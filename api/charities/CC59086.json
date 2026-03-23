@@ -1,0 +1,27 @@
+{
+  "id": 72694,
+  "registrationNumber": "CC59086",
+  "name": "Oxford Bird Rescue Charitable Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2021-06-13T00:00:00Z",
+  "dateDeregistered": "2025-03-31T00:00:00Z",
+  "website": "www.oxfordbirdrescue.org.nz",
+  "email": "obr@xtra.co.nz",
+  "address": {
+    "line1": "77 Sales Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Oxford",
+    "postcode": "7495"
+  },
+  "nzbn": "9429049387179",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/oxfordbirdrescue",
+    "twitter": "https://twitter.com/OxfrdBirdRescue"
+  },
+  "lastUpdated": "2025-10-23T06:03:36Z"
+}

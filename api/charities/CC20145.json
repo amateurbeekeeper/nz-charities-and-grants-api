@@ -1,0 +1,27 @@
+{
+  "id": 51981,
+  "registrationNumber": "CC20145",
+  "name": "Auckland Radiological Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-11-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "adoyle@adhb.govt.nz",
+  "address": {
+    "line1": "Radiology Level 5",
+    "line2": " Auckland City Hospital, Park Rd",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042594789",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T22:07:27Z"
+}

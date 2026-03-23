@@ -1,0 +1,27 @@
+{
+  "id": 45532,
+  "registrationNumber": "CC35555",
+  "name": "Ponsonby Community Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ponsonbytoylibrary.org",
+  "email": "odettelake@gmail.com",
+  "address": {
+    "line1": "19 Formby Avenue",
+    "line2": " ",
+    "suburb": "Point Chevalier",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429042808077",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T22:39:13Z"
+}

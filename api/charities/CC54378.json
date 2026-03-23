@@ -1,0 +1,27 @@
+{
+  "id": 68050,
+  "registrationNumber": "CC54378",
+  "name": "KIMBERLEY NO 2 TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-03-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sam@taxconsultant.co.nz",
+  "address": {
+    "line1": "27 Marewa Road",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429043307883",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T00:33:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73181,
+  "registrationNumber": "CC59581",
+  "name": "iSpeak Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ispeaktrust.com",
+  "email": "gaye@ispeaktrust.com",
+  "address": {
+    "line1": "15 Trident Place",
+    "line2": " ",
+    "suburb": "Shelly Park",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": "9429049948431",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-05T19:09:29Z"
+}

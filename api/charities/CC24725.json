@@ -1,0 +1,27 @@
+{
+  "id": 42402,
+  "registrationNumber": "CC24725",
+  "name": "National Science Technology Roadshow Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.roadshow.org",
+  "email": "director@roadshow.org",
+  "address": {
+    "line1": "C/- Canterbury Education Services",
+    "line2": "89 Nazareth Avenue",
+    "suburb": "Middleton",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429043175895",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T23:04:54Z"
+}

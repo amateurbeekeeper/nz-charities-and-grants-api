@@ -1,0 +1,27 @@
+{
+  "id": 69275,
+  "registrationNumber": "CC55621",
+  "name": "Petal Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-06-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://petal.foundation",
+  "email": "jo@petal.foundation",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429044874506",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Petal Foundation Charitable Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T04:24:51Z"
+}

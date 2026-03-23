@@ -1,0 +1,27 @@
+{
+  "id": 58187,
+  "registrationNumber": "CC28842",
+  "name": "Taranaki Restorative Justice Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.trjt.org.nz",
+  "email": "trjt@trjt.org.nz",
+  "address": {
+    "line1": "72 Devon Street West",
+    "line2": "New Plymouth 4310",
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043072217",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T19:56:21Z"
+}

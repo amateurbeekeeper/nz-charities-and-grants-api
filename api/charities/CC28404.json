@@ -1,0 +1,27 @@
+{
+  "id": 60643,
+  "registrationNumber": "CC28404",
+  "name": "Nova Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.novatrust.org.nz",
+  "email": "alister.mccall@novatrust.org.nz",
+  "address": {
+    "line1": "43 Newtons Road",
+    "line2": "RD 6",
+    "suburb": "Templeton",
+    "city": "Christchurch",
+    "postcode": "7678"
+  },
+  "nzbn": "9429042796015",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:05:11Z"
+}

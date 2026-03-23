@@ -1,0 +1,27 @@
+{
+  "id": 43310,
+  "registrationNumber": "CC36943",
+  "name": "Tauriko Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-11-14T00:00:00Z",
+  "website": "www.playcentre.org.nz",
+  "email": "tauriko@playcentre.org.nz",
+  "address": {
+    "line1": "State Highway  29",
+    "line2": "Tauriko,  R D 1",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T06:03:04Z"
+}

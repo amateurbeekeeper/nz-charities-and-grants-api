@@ -1,0 +1,27 @@
+{
+  "id": 66746,
+  "registrationNumber": "CC53020",
+  "name": "Karaka School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-11-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.karaka.school.nz",
+  "email": "lisamross2017@outlook.com",
+  "address": {
+    "line1": "12 Blackbridge Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2580"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T03:18:27Z"
+}

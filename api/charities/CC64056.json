@@ -1,0 +1,27 @@
+{
+  "id": 78242,
+  "registrationNumber": "CC64056",
+  "name": "Frankton Village Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-12-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "michaelt.belinda@gmail.com",
+  "address": {
+    "line1": "Wakatipu Presbyterian Church",
+    "line2": "Cnr Ross and McBride Street",
+    "suburb": "Frankton",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T19:18:59Z"
+}

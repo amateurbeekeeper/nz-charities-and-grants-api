@@ -1,0 +1,27 @@
+{
+  "id": 74219,
+  "registrationNumber": "CC60628",
+  "name": "Restore Rodney East Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.restorerodneyeast.org.nz",
+  "email": "ashton.sager@gmail.com",
+  "address": {
+    "line1": "10 Creek Street",
+    "line2": "RD 2",
+    "suburb": "Sandspit",
+    "city": "Warkworth",
+    "postcode": "0982"
+  },
+  "nzbn": "9429050805747",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/restorerodney.east",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T18:50:59Z"
+}

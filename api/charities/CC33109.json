@@ -1,0 +1,27 @@
+{
+  "id": 60624,
+  "registrationNumber": "CC33109",
+  "name": "Hora Hora Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-31T00:00:00Z",
+  "website": null,
+  "email": "horahora.whangarei@playcentre.org.nz",
+  "address": {
+    "line1": "22A Te Mai Road",
+    "line2": " ",
+    "suburb": "Woodhill",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://m.facebook.com/horahora.whangarei.playcentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-12T07:13:32Z"
+}

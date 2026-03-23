@@ -1,0 +1,27 @@
+{
+  "id": 38950,
+  "registrationNumber": "CC23967",
+  "name": "Kelston Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gordonf@butland.co.nz",
+  "address": {
+    "line1": "C/- GORDON FOUNTAIN",
+    "line2": "19B Peary Road",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429043156313",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:30Z"
+}

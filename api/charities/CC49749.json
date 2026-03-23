@@ -1,0 +1,27 @@
+{
+  "id": 33508,
+  "registrationNumber": "CC49749",
+  "name": "Woodville Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-09-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "allyncreel@hotmail.com",
+  "address": {
+    "line1": "Ormond Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Woodville",
+    "postcode": "4920"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Woodville-Volunteer-Fire-Brigade-105735445382232",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-20T19:18:08Z"
+}

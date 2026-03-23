@@ -1,0 +1,27 @@
+{
+  "id": 52166,
+  "registrationNumber": "CC10482",
+  "name": "The Wellington Multiple Sclerosis Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://mswellington.org.nz",
+  "email": "ross@wellingtonms.org.nz",
+  "address": {
+    "line1": "15 Chesterton Street",
+    "line2": " ",
+    "suburb": "Johnsonville",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429042915935",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mswgtn/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T22:01:32Z"
+}

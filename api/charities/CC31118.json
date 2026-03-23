@@ -1,0 +1,27 @@
+{
+  "id": 49537,
+  "registrationNumber": "CC31118",
+  "name": "Orana Wildlife Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.oranawildlifepark.co.nz/",
+  "email": "rachel.haydon@oranawildlifepark.co.nz",
+  "address": {
+    "line1": "793 Mcleans Island Road",
+    "line2": " ",
+    "suburb": "Mcleans Island",
+    "city": "Christchurch",
+    "postcode": "7676"
+  },
+  "nzbn": "9429043061693",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Orana Wildlife Park",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-08T20:33:23Z"
+}

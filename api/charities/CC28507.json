@@ -1,0 +1,27 @@
+{
+  "id": 60321,
+  "registrationNumber": "CC28507",
+  "name": "The Impact Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "24blackmore@gmail.com",
+  "address": {
+    "line1": "12 Buick Street",
+    "line2": " ",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-06T19:29:10Z"
+}

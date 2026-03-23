@@ -1,0 +1,27 @@
+{
+  "id": 34850,
+  "registrationNumber": "CC51374",
+  "name": "Bookspace for Babies",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-01-19T00:00:00Z",
+  "dateDeregistered": "2017-09-13T00:00:00Z",
+  "website": "http://bookspaceforbabies.org.nz",
+  "email": "ann.locke@gmail.com",
+  "address": {
+    "line1": "77 Washington Avenue",
+    "line2": " ",
+    "suburb": "Brooklyn",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043287512",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T04:18:05Z"
+}

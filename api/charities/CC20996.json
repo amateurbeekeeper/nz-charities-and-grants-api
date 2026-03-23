@@ -1,0 +1,27 @@
+{
+  "id": 54147,
+  "registrationNumber": "CC20996",
+  "name": "The Branch Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://thebranchfoundation.org",
+  "email": "ionaproebst@gmail.com",
+  "address": {
+    "line1": "2 Kauri Point Road",
+    "line2": " ",
+    "suburb": "Laingholm",
+    "city": "Auckland",
+    "postcode": "604"
+  },
+  "nzbn": "9429043175536",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/The-Branch-Foundation-48885609241/?fref=ts",
+    "twitter": "https://twitter.com/BranchFound"
+  },
+  "lastUpdated": "2025-09-19T13:49:17Z"
+}

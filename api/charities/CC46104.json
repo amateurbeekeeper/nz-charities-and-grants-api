@@ -1,0 +1,27 @@
+{
+  "id": 38286,
+  "registrationNumber": "CC46104",
+  "name": "Estate Daniel Costello Doyle",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-02-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "vincentr@rsm.co.nz",
+  "address": {
+    "line1": "17 Strathallan Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:07:05Z"
+}

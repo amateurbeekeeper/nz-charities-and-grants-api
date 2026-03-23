@@ -1,0 +1,27 @@
+{
+  "id": 39982,
+  "registrationNumber": "CC23427",
+  "name": "Age Concern Southland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "janette@acinv.org.nz",
+  "address": {
+    "line1": "50 Forth Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042728733",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Age Concern Southland",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T22:33:05Z"
+}

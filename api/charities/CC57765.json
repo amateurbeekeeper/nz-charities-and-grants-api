@@ -1,0 +1,27 @@
+{
+  "id": 71397,
+  "registrationNumber": "CC57765",
+  "name": "Matiere School PTA",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta@matiere.school.nz",
+  "address": {
+    "line1": "2106 Ohura Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Matiere",
+    "postcode": "3995"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T05:00:17Z"
+}

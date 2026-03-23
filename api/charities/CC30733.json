@@ -1,0 +1,27 @@
+{
+  "id": 45379,
+  "registrationNumber": "CC30733",
+  "name": "The Methodist Church of New Zealand Te Haahi Weteriana O Aotearoa Christchurch South Tongan Parish (7900)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.methodist.org.nz",
+  "email": "charities@methodist.org.nz",
+  "address": {
+    "line1": "42 Somerset Crescent",
+    "line2": " ",
+    "suburb": "Spreydon",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:38:59Z"
+}

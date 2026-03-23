@@ -1,0 +1,27 @@
+{
+  "id": 70831,
+  "registrationNumber": "CC57197",
+  "name": "ARCC (ACTION REACTION CHRISTCHURCH CITY)",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-11-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.saltdistrict.nz",
+  "email": "streetart@flare.nz",
+  "address": {
+    "line1": "149 Mt Pleasant Road",
+    "line2": " ",
+    "suburb": "Mount Pleasant",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": "9429047770348",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/saltdistrict",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T20:50:29Z"
+}

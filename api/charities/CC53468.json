@@ -1,0 +1,27 @@
+{
+  "id": 67185,
+  "registrationNumber": "CC53468",
+  "name": "Steiner Education Invercargill",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "southland.steiner@gmail.com",
+  "address": {
+    "line1": "55 Ryal Bush School Road",
+    "line2": "RD 1",
+    "suburb": "Ryal Bush",
+    "city": "Invercargill",
+    "postcode": "9876"
+  },
+  "nzbn": "9429043281985",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/620295558048155",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T11:00:02Z"
+}

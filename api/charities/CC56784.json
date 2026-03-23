@@ -1,0 +1,27 @@
+{
+  "id": 70420,
+  "registrationNumber": "CC56784",
+  "name": "The Mums Clique",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-06-23T00:00:00Z",
+  "dateDeregistered": "2022-08-16T00:00:00Z",
+  "website": "https://www.themumsclique.org.nz",
+  "email": "hello@themumsclique.com",
+  "address": {
+    "line1": "38 Newman Road",
+    "line2": "RD 3",
+    "suburb": "Stillwater",
+    "city": "Silverdale",
+    "postcode": "0993"
+  },
+  "nzbn": "9429047523166",
+  "financialYearEnd": "1/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/themumsclique",
+    "twitter": null
+  },
+  "lastUpdated": "2022-08-31T21:59:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75834,
+  "registrationNumber": "CC62284",
+  "name": "Upper Hutt Autism Group",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.uhautismgroup.org/",
+  "email": "judi@uhautismgroup.org",
+  "address": {
+    "line1": "20 Sylvan Way",
+    "line2": " ",
+    "suburb": "Silverstream",
+    "city": "Upper Hutt",
+    "postcode": "5019"
+  },
+  "nzbn": "9429052099243",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/UHautism",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-12T02:50:46Z"
+}

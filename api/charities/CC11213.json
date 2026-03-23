@@ -1,0 +1,27 @@
+{
+  "id": 53030,
+  "registrationNumber": "CC11213",
+  "name": "Spreydon Youth Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.syc.org.nz",
+  "email": "rhellewell@swbc.org.nz",
+  "address": {
+    "line1": "244 Lyttelton Street",
+    "line2": " ",
+    "suburb": "Spreydon",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429042903864",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T20:06:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 77782,
+  "registrationNumber": "CC63585",
+  "name": "Te Ora Puāwai Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-07-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teorapuawai.nz",
+  "email": "mark@teorapuawai.nz",
+  "address": {
+    "line1": "38 Richard Pearse Drive",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100085072772745",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-11T23:29:47Z"
+}

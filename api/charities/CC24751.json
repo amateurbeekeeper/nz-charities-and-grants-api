@@ -1,0 +1,27 @@
+{
+  "id": 41167,
+  "registrationNumber": "CC24751",
+  "name": "NAMS Group Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nams.org.nz",
+  "email": "murray.pugh@apopo.co.nz",
+  "address": {
+    "line1": "79 Boulcott Street",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429035127024",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T18:02:53Z"
+}

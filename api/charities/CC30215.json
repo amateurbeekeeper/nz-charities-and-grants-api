@@ -1,0 +1,27 @@
+{
+  "id": 48183,
+  "registrationNumber": "CC30215",
+  "name": "The Statham Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "peterv@methodist.org.nz",
+  "address": {
+    "line1": "50 Langdons Road",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-10-13T18:48:46Z"
+}

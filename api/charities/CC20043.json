@@ -1,0 +1,27 @@
+{
+  "id": 52344,
+  "registrationNumber": "CC20043",
+  "name": "Taranaki Disabilities Information Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@taranakidic.org.nz",
+  "address": {
+    "line1": "TDICT",
+    "line2": "28 Young Street",
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043064694",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T01:58:56Z"
+}

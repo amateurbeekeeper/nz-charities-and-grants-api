@@ -1,0 +1,27 @@
+{
+  "id": 51989,
+  "registrationNumber": "CC10729",
+  "name": "Graduate Women New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gwnz.org.nz",
+  "email": "trusttreasurer@gwnz.org.nz",
+  "address": {
+    "line1": "PO Box 2006",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429043034383",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GraduateWomenNewZealand/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T07:11:23Z"
+}

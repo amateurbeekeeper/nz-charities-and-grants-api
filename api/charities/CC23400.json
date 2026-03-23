@@ -1,0 +1,27 @@
+{
+  "id": 54533,
+  "registrationNumber": "CC23400",
+  "name": "Ruakaka Surf Life Saving Patrol Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ruakakaslsp.org.nz",
+  "email": "treasurer@ruakakaslsp.org.nz",
+  "address": {
+    "line1": "Ruakaka Beach Rd",
+    "line2": "Ruakaka",
+    "suburb": "Ruakaka",
+    "city": "Northland",
+    "postcode": "0151"
+  },
+  "nzbn": "9429042736431",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ruakaka Surf Lifesaving Patrol",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T00:01:59Z"
+}

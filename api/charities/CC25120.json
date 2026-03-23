@@ -1,0 +1,27 @@
+{
+  "id": 57216,
+  "registrationNumber": "CC25120",
+  "name": "Tawa Union Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tawaunionchurch.org.nz",
+  "email": "treasurer@tawaunionchurch.org.nz",
+  "address": {
+    "line1": "6 Elena Place",
+    "line2": " ",
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:14:34Z"
+}

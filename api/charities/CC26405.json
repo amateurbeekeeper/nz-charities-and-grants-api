@@ -1,0 +1,27 @@
+{
+  "id": 58591,
+  "registrationNumber": "CC26405",
+  "name": "Warkworth Music Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.warkworthmusic.org.nz",
+  "email": "warkworthmusic@gmail.com",
+  "address": {
+    "line1": "20A Rivendell Place",
+    "line2": "Warkworth 0910",
+    "suburb": "Sandspit",
+    "city": "Warkworth",
+    "postcode": "0910"
+  },
+  "nzbn": "9429042914846",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T21:11:57Z"
+}

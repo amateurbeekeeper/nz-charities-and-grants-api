@@ -1,0 +1,27 @@
+{
+  "id": 58814,
+  "registrationNumber": "CC38050",
+  "name": "Papanui Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.papbap.org.nz",
+  "email": "office@papbap.org.nz",
+  "address": {
+    "line1": "144 Sawyers Arms Road",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/papanuibaptist",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T03:33:02Z"
+}

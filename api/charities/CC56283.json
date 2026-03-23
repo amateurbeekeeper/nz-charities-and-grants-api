@@ -1,0 +1,27 @@
+{
+  "id": 69928,
+  "registrationNumber": "CC56283",
+  "name": "iNDx",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@indx.org.nz",
+  "address": {
+    "line1": "73 Marion Street",
+    "line2": " ",
+    "suburb": "Macandrew Bay",
+    "city": "Dunedin",
+    "postcode": "9014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/iNDxAutisticArtsCultureNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-22T02:03:41Z"
+}

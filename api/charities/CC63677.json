@@ -1,0 +1,27 @@
+{
+  "id": 77871,
+  "registrationNumber": "CC63677",
+  "name": "Bait Al Shifa Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://asturlab.org",
+  "email": "bariz@asturlab.org",
+  "address": {
+    "line1": "28A Mayfair Street",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/asturlab/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T03:25:37Z"
+}

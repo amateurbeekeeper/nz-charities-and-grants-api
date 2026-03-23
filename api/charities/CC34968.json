@@ -1,0 +1,27 @@
+{
+  "id": 57423,
+  "registrationNumber": "CC34968",
+  "name": "City Church Christchurch",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2016-03-30T00:00:00Z",
+  "website": "http://www.citychurchchristchurch.co.nz",
+  "email": "jocelyn@citychurchchristchurch.co.nz",
+  "address": {
+    "line1": "344 Manchester Street",
+    "line2": null,
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-09-22T20:47:41Z"
+}

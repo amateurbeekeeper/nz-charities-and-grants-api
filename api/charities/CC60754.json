@@ -1,0 +1,27 @@
+{
+  "id": 74339,
+  "registrationNumber": "CC60754",
+  "name": "Photosynthesis",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.photosynthesis.nz",
+  "email": "kieran@photosynthesis.nz",
+  "address": {
+    "line1": "6 Battersea Street",
+    "line2": " ",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429050777563",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/photosynthesis.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-06T00:43:04Z"
+}

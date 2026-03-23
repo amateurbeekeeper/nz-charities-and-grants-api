@@ -1,0 +1,27 @@
+{
+  "id": 69445,
+  "registrationNumber": "CC55795",
+  "name": "OneDay Health",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://onedayhealth.org",
+  "email": "sharyn@onedayhealth.org",
+  "address": {
+    "line1": "31 Longmuir Street",
+    "line2": " ",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429052769504",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T10:54:19Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 61510,
+  "registrationNumber": "CC34055",
+  "name": "Te Tauihu Environment Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tet.org.nz",
+  "email": "skydavies@tet.org.nz",
+  "address": {
+    "line1": "237 Queen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": "9429043072798",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "TasmanEnvironmentalTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T00:54:34Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72707,
+  "registrationNumber": "CC59100",
+  "name": "Future Foods Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tg@futurefoods.foundation",
+  "address": {
+    "line1": "1 Albert Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T02:11:43Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 46500,
+  "registrationNumber": "CC33970",
+  "name": "The Te Awamutu Branch of the New Zealand Society of Genealogists",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lhowarth@xtra.co.nz",
+  "address": {
+    "line1": "781B Pakura Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Awamutu",
+    "postcode": "3800"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TeAwamutuGenealogy",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-08T03:29:27Z"
+}

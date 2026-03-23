@@ -1,0 +1,27 @@
+{
+  "id": 60618,
+  "registrationNumber": "CC28399",
+  "name": "Magdalena Aotearoa Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-22T00:00:00Z",
+  "website": "http://www.magdalenaaotearoa.org.nz/",
+  "email": "maule.lisa@gmail.com",
+  "address": {
+    "line1": "4 Natalie Way",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043051670",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/magdalenaaotearoa/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-06T22:18:57Z"
+}

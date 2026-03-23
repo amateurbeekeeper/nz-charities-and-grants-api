@@ -1,0 +1,27 @@
+{
+  "id": 32734,
+  "registrationNumber": "CC49332",
+  "name": "Maori Women's Development Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mwdi.co.nz",
+  "email": "linda@mwdi.co.nz",
+  "address": {
+    "line1": "78 Victoria Street",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042936718",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-07T00:03:57Z"
+}

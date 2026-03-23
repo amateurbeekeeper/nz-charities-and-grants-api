@@ -1,0 +1,27 @@
+{
+  "id": 77512,
+  "registrationNumber": "CC63307",
+  "name": "Parallel Care Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://parallelcareclinic.co.nz/",
+  "email": "parallel.care.clinic@gmail.com",
+  "address": {
+    "line1": "2 Belinda Avenue",
+    "line2": " ",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "22/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "parallel care clinic",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-05T03:30:26Z"
+}

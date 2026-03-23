@@ -1,0 +1,27 @@
+{
+  "id": 45431,
+  "registrationNumber": "CC30269",
+  "name": "Renwick Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-13T00:00:00Z",
+  "website": "www.playcentre.org.nz",
+  "email": "nicolebeattie85@hotmail.com",
+  "address": {
+    "line1": "26 Havelock Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Renwick",
+    "postcode": "7204"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/RenwickPlaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T06:04:44Z"
+}

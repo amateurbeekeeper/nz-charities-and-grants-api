@@ -1,0 +1,27 @@
+{
+  "id": 49025,
+  "registrationNumber": "CC30379",
+  "name": "Pirongia Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-07-29T00:00:00Z",
+  "website": null,
+  "email": "pirongia@playcentre.org.nz",
+  "address": {
+    "line1": "702 Franklin Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pirongia",
+    "postcode": "3802"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-12T07:10:21Z"
+}

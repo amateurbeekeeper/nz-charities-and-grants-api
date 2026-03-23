@@ -1,0 +1,27 @@
+{
+  "id": 73505,
+  "registrationNumber": "CC59719",
+  "name": "Hawke's Bay Early Intervention Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pudneyhub.com",
+  "email": "glenn@pudneyhub.com",
+  "address": {
+    "line1": "46 Kennedy Road",
+    "line2": "RD 2",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429050023226",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T22:33:38Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43951,
+  "registrationNumber": "CC38443",
+  "name": "Morrinsville Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-28T00:00:00Z",
+  "website": null,
+  "email": "morrinsville@playcentre.org.nz",
+  "address": {
+    "line1": "55 Lorne Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Morrinsville",
+    "postcode": "3300"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MorrinsvillePlaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T07:12:23Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44408,
+  "registrationNumber": "CC41865",
+  "name": "Daffodil Enterprises Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sunscreen.org.nz",
+  "email": "bob.king@cancer.org.nz",
+  "address": {
+    "line1": "39 The Terrace",
+    "line2": "Level 13, Ranchhod Tower",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429000096621",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Cancer-Society-Product-Range-1084228625018069/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T20:27:10Z"
+}

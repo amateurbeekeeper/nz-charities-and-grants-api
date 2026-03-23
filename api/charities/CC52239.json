@@ -1,0 +1,27 @@
+{
+  "id": 65974,
+  "registrationNumber": "CC52239",
+  "name": "Flagstaff Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.churchatflagstaff.co.nz",
+  "email": "parishclerk@churchatflagstaff.co.nz",
+  "address": {
+    "line1": "9 Centennial Avenue",
+    "line2": " ",
+    "suburb": "Helensburgh",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/churchatflagstaff",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T08:01:28Z"
+}

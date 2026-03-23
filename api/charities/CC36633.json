@@ -1,0 +1,27 @@
+{
+  "id": 61955,
+  "registrationNumber": "CC36633",
+  "name": "The Bluff Community Medical Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2024-12-02T00:00:00Z",
+  "website": null,
+  "email": "office@bluffmed.co.nz",
+  "address": {
+    "line1": "2 Tone Street",
+    "line2": "Bluff 9814",
+    "suburb": "Bluff",
+    "city": "Bluff",
+    "postcode": "9814"
+  },
+  "nzbn": "9429042872016",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Bluff Community Medical Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-09T04:31:02Z"
+}

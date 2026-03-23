@@ -1,0 +1,27 @@
+{
+  "id": 54204,
+  "registrationNumber": "CC20878",
+  "name": "Presbyterian Support Otago Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.psotago.org.nz",
+  "email": "andrew.borthwick@psotago.org.nz",
+  "address": {
+    "line1": "407 Moray Place",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042808695",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T21:59:40Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66145,
+  "registrationNumber": "CC52410",
+  "name": "Dunedin Chinese Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-10-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dcpc.org.nz",
+  "email": "dcpc.finance@gmail.com",
+  "address": {
+    "line1": "23 Howe Street",
+    "line2": " ",
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T04:24:12Z"
+}

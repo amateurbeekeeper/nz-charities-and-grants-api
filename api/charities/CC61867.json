@@ -1,0 +1,27 @@
+{
+  "id": 75428,
+  "registrationNumber": "CC61867",
+  "name": "Tu Maia",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://timoti.nz/about-us/tu-maia",
+  "email": "tim@timoti.nz",
+  "address": {
+    "line1": "997 Aniseed Valley Road",
+    "line2": "RD 1",
+    "suburb": "Aniseed Valley",
+    "city": "Richmond",
+    "postcode": "7081"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Taongabytimoti/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-07-01T03:34:44Z"
+}

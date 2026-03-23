@@ -1,0 +1,27 @@
+{
+  "id": 55789,
+  "registrationNumber": "CC24519",
+  "name": "Morepork Mountain Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "moreporkmt@xtra.co.nz",
+  "address": {
+    "line1": "80 Cowper Road",
+    "line2": "Dannevirke 4930",
+    "suburb": " ",
+    "city": "Dannevirke",
+    "postcode": "4930"
+  },
+  "nzbn": "9429042770756",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T00:27:25Z"
+}

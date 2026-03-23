@@ -1,0 +1,27 @@
+{
+  "id": 47935,
+  "registrationNumber": "CC31621",
+  "name": "Mercy Hospice Auckland Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@whanaumercy.nz",
+  "address": {
+    "line1": "15 Guildford Terrace",
+    "line2": "9 New Street",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429036819447",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T23:01:12Z"
+}

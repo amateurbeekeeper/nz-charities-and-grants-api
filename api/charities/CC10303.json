@@ -1,0 +1,27 @@
+{
+  "id": 51482,
+  "registrationNumber": "CC10303",
+  "name": "Community Colleges New Zealand Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-05-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.comcol.ac.nz",
+  "email": "doug.reid@comcol.ac.nz",
+  "address": {
+    "line1": "140 East Belt",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": "9429036778188",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/comcolnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-26T20:03:41Z"
+}

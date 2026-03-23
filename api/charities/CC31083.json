@@ -1,0 +1,27 @@
+{
+  "id": 48197,
+  "registrationNumber": "CC31083",
+  "name": "Victoria University of Wellington Students Association and Te Aka Tauira Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.vuwsa.org.nz",
+  "email": "ceo@vuwsa.org.nz",
+  "address": {
+    "line1": "VUWSA, Level 4",
+    "line2": "Student Union Building, Victoria University",
+    "suburb": "Kelburn",
+    "city": "Wellington",
+    "postcode": null
+  },
+  "nzbn": "9429042898900",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/vuwsa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-03T20:48:58Z"
+}

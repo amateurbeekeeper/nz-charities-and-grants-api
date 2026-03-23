@@ -1,0 +1,27 @@
+{
+  "id": 51490,
+  "registrationNumber": "CC10185",
+  "name": "Ferrymead Aeronautical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ferrymeadaero.org.nz",
+  "email": "denys.jones58@gmail.com",
+  "address": {
+    "line1": "Ferrymead Park Drive",
+    "line2": " ",
+    "suburb": "Heathcote",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": "9429042698654",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FerrymeadAero/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-06T19:28:50Z"
+}

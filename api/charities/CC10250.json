@@ -1,0 +1,27 @@
+{
+  "id": 51442,
+  "registrationNumber": "CC10250",
+  "name": "Motuora Restoration Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.motuora.org.nz",
+  "email": "secretary@motuora.org.nz",
+  "address": {
+    "line1": "51 Stillwater Crescent",
+    "line2": "RD 3",
+    "suburb": "Stillwater",
+    "city": "Silverdale",
+    "postcode": "0993"
+  },
+  "nzbn": "9429042751328",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:37:34Z"
+}

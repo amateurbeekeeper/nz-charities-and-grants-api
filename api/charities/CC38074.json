@@ -1,0 +1,27 @@
+{
+  "id": 45655,
+  "registrationNumber": "CC38074",
+  "name": "Kaipātiki Project Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kaipatiki.org.nz",
+  "email": "boardsecretary@kaipatiki.org.nz",
+  "address": {
+    "line1": "17 Lauderdale Road",
+    "line2": " ",
+    "suburb": "Birkdale",
+    "city": "Auckland",
+    "postcode": "626"
+  },
+  "nzbn": "9429043007554",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kaipatikiproject/",
+    "twitter": "https://twitter.com/kaipatikienviro"
+  },
+  "lastUpdated": "2026-01-29T22:07:12Z"
+}

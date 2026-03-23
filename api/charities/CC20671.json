@@ -1,0 +1,27 @@
+{
+  "id": 53500,
+  "registrationNumber": "CC20671",
+  "name": "The Goodwill Foundation",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-01-27T00:00:00Z",
+  "dateDeregistered": "2020-10-08T00:00:00Z",
+  "website": null,
+  "email": "nocharityemail@dia.govt.nz",
+  "address": {
+    "line1": "43 Brighton Road",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429042857037",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-10-07T22:51:45Z"
+}

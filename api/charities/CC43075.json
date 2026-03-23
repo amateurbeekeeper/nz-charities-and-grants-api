@@ -1,0 +1,27 @@
+{
+  "id": 46056,
+  "registrationNumber": "CC43075",
+  "name": "Te Hui Amorangi Ki Te Upoko O Te Ika",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://teupoko.org.nz",
+  "email": "manager@teupoko.org",
+  "address": {
+    "line1": "72 Ellesmere Crescent",
+    "line2": " ",
+    "suburb": "Highbury",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Hui Amorangi ki te Upoko o te Ika",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T21:44:58Z"
+}

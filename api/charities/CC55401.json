@@ -1,0 +1,27 @@
+{
+  "id": 69054,
+  "registrationNumber": "CC55401",
+  "name": "Southside Foursquare Gospel Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.foursquarenz.com",
+  "email": "southsidefoursquare@gmail.com",
+  "address": {
+    "line1": "813/17 Putney Way",
+    "line2": " ",
+    "suburb": "Manukau",
+    "city": "Manukau City",
+    "postcode": "2104"
+  },
+  "nzbn": "9429043126842",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-08T20:47:02Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53217,
+  "registrationNumber": "CC24488",
+  "name": "The Radio Preservation Society Of New Zealand (Ferrymead) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.radioferrymead.co.nz",
+  "email": "terrymoon57@gmail.com",
+  "address": {
+    "line1": "50 Ferrymead Park Drive",
+    "line2": " ",
+    "suburb": "Ferrymead",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429042869092",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Radio Ferrymead 1413AM",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-09T19:18:41Z"
+}

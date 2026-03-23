@@ -1,0 +1,27 @@
+{
+  "id": 54902,
+  "registrationNumber": "CC22477",
+  "name": "Wellington Monthly Meeting Of The Religious Society Of Friends",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://quakers.nz/group/wellington-monthly-meeting-wn",
+  "email": "treasurer@wn.quakers.nz",
+  "address": {
+    "line1": "7 Moncrieff Street",
+    "line2": " ",
+    "suburb": "Mount Victoria",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WellingtonQuakers/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T10:27:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41266,
+  "registrationNumber": "CC32951",
+  "name": "The Heathcote Valley Community Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "harlo@xtra.co.nz",
+  "address": {
+    "line1": "ELIZABETH HUGHES",
+    "line2": "6 Heathvale Place",
+    "suburb": "Heathcote Valley",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429042853343",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-29T04:24:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72703,
+  "registrationNumber": "CC59093",
+  "name": "Southern Golf Foundation Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dunedinjuniorgolf.co.nz",
+  "email": "FuturesDunedin@gmail.com",
+  "address": {
+    "line1": "125 Balmacewen Road",
+    "line2": " ",
+    "suburb": "Maori Hill",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": "9429043098125",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dunedinjuniorgolf",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-07T22:05:17Z"
+}

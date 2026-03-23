@@ -1,0 +1,27 @@
+{
+  "id": 68942,
+  "registrationNumber": "CC55285",
+  "name": "Hawke's Bay Biodiversity Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-12-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.biodiversityhb.org/",
+  "email": "info@biodiversityhb.nz",
+  "address": {
+    "line1": "159 Dalton Street",
+    "line2": "Havelock North 4130",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429046482341",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BiodiversityHB/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:29:54Z"
+}

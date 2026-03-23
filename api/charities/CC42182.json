@@ -1,0 +1,27 @@
+{
+  "id": 50902,
+  "registrationNumber": "CC42182",
+  "name": "The Hub Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hubchurchfeilding.com",
+  "email": "chairperson@hubchurchfeilding.com",
+  "address": {
+    "line1": "St John Ambulance Building",
+    "line2": "33 Bowen Street",
+    "suburb": " ",
+    "city": "Feilding",
+    "postcode": "4702"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/TheHubChurchFeilding/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T19:25:45Z"
+}

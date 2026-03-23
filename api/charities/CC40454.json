@@ -1,0 +1,27 @@
+{
+  "id": 46138,
+  "registrationNumber": "CC40454",
+  "name": "National Association Of Resource Teachers Advisory Maori",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2026-01-30T00:00:00Z",
+  "website": null,
+  "email": "diane.tunoho@gmail.com",
+  "address": {
+    "line1": "48B Britannia Street",
+    "line2": " ",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": "9429043030989",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://nartam.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T19:50:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42275,
+  "registrationNumber": "CC38125",
+  "name": "Te Roopu Pakihi Incorporated Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://trp.maori.nz/",
+  "email": "daphne@taoni.maori.nz",
+  "address": {
+    "line1": "5 Main Street",
+    "line2": "Otaki 5512",
+    "suburb": " ",
+    "city": "Otaki",
+    "postcode": "5512"
+  },
+  "nzbn": "9429043153831",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T00:43:26Z"
+}

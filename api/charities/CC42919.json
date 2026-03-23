@@ -1,0 +1,27 @@
+{
+  "id": 64686,
+  "registrationNumber": "CC42919",
+  "name": "24-7 YouthWork Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-11-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.24-7youthwork.nz",
+  "email": "al@24-7youthwork.nz",
+  "address": {
+    "line1": "51 Princess Street",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429043286478",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/247youthwork/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T21:35:31Z"
+}

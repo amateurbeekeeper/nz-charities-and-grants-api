@@ -1,0 +1,27 @@
+{
+  "id": 41555,
+  "registrationNumber": "CC23597",
+  "name": "The Home and Family Society Christchurch Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-04-29T00:00:00Z",
+  "dateDeregistered": "2022-04-19T00:00:00Z",
+  "website": "http://www.homeandfamily.net.nz",
+  "email": "val@homeandfamily.net.nz",
+  "address": {
+    "line1": "319 St Asaph Street",
+    "line2": "316 Hereford Street",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042619550",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/HomeAndFamilySocietyChristchurch/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T02:53:52Z"
+}

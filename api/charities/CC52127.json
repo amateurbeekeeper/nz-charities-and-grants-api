@@ -1,0 +1,27 @@
+{
+  "id": 65866,
+  "registrationNumber": "CC52127",
+  "name": "Morrinsville Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@knoxmorrinsville.org.nz",
+  "address": {
+    "line1": "49 Canada Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Morrinsville",
+    "postcode": "3300"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:16:03Z"
+}

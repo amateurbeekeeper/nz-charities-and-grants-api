@@ -1,0 +1,27 @@
+{
+  "id": 42705,
+  "registrationNumber": "CC40647",
+  "name": "Glen Eden Samoan Assembly Of God Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "peniata@xtra.co.nz",
+  "address": {
+    "line1": "2 Waikaukau Road",
+    "line2": " ",
+    "suburb": "Glen Eden",
+    "city": "Auckland",
+    "postcode": "602"
+  },
+  "nzbn": "9429043007882",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T07:37:44Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 47177,
+  "registrationNumber": "CC38942",
+  "name": "Waihora Ellesmere Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wet.org.nz",
+  "email": "bruce.johnston@xtra.co.nz",
+  "address": {
+    "line1": "66 Bryndwr Road",
+    "line2": " ",
+    "suburb": "Bryndwr",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429043114511",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WaihoraEllesmereTrust/",
+    "twitter": "https://twitter.com/wet_nz"
+  },
+  "lastUpdated": "2025-10-15T23:50:49Z"
+}

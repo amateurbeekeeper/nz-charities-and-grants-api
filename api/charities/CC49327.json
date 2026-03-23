@@ -1,0 +1,27 @@
+{
+  "id": 35025,
+  "registrationNumber": "CC49327",
+  "name": "Mellons Bay School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mellonsbay.school.nz",
+  "email": "ptatreasurer@mellonsbay.school.nz",
+  "address": {
+    "line1": "140 Mellons Bay Road",
+    "line2": " ",
+    "suburb": "Mellons Bay",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T19:57:01Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41075,
+  "registrationNumber": "CC33987",
+  "name": "New Zealand Vegetarian Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.vegetarian.org.nz",
+  "email": "julia@vegetarian.org.nz",
+  "address": {
+    "line1": "10 Warborough Avenue",
+    "line2": "Epsom",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042687399",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/NZVegetarianSociety",
+    "twitter": "https://x.com/NZVegetarianSoc"
+  },
+  "lastUpdated": "2026-01-08T02:39:56Z"
+}

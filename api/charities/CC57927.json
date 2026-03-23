@@ -1,0 +1,27 @@
+{
+  "id": 71547,
+  "registrationNumber": "CC57927",
+  "name": "Oceania Literacy Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.oceanialiteracytrust.org",
+  "email": "oceanialiteracy@gmail.com",
+  "address": {
+    "line1": "6 Juvena Place",
+    "line2": " ",
+    "suburb": "Clover Park",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Oceania Literacy Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T00:16:24Z"
+}

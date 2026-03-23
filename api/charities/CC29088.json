@@ -1,0 +1,27 @@
+{
+  "id": 56692,
+  "registrationNumber": "CC29088",
+  "name": "Villa Education Trust",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-02-04T00:00:00Z",
+  "website": "http://www.villaeducation.org.nz",
+  "email": "trust@villaeducation.org.nz",
+  "address": {
+    "line1": "198 Mahia Road",
+    "line2": " ",
+    "suburb": "Wattle Downs",
+    "city": "Auckland",
+    "postcode": "2103"
+  },
+  "nzbn": "9429043015924",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-30T07:12:00Z"
+}

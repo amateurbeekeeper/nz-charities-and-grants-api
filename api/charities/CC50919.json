@@ -1,0 +1,27 @@
+{
+  "id": 34564,
+  "registrationNumber": "CC50919",
+  "name": "Waikato Interfaith Council Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-08-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waikato-interfaith.org",
+  "email": "wifconz@gmail.com",
+  "address": {
+    "line1": "10 Cranwell Place",
+    "line2": null,
+    "suburb": "Hillcrest",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429043285143",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WIFCO/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T01:15:34Z"
+}

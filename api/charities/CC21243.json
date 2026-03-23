@@ -1,0 +1,27 @@
+{
+  "id": 53806,
+  "registrationNumber": "CC21243",
+  "name": "The Friendship House Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.friendshiphouse.org.nz",
+  "email": "navin@friendshiphouse.org.nz",
+  "address": {
+    "line1": "20 Putney Way",
+    "line2": " ",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042868767",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FriendshipHouseNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:13:55Z"
+}

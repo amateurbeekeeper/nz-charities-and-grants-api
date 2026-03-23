@@ -1,0 +1,27 @@
+{
+  "id": 51230,
+  "registrationNumber": "CC10610",
+  "name": "Waikato Institute for Leisure and Sport Studies Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wilss.ac.nz",
+  "email": "jack@wilss.ac.nz",
+  "address": {
+    "line1": "178 Ruakura Road",
+    "line2": "TTH 2 Building ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3240"
+  },
+  "nzbn": "9429042884750",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/wilsswaikato",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T21:13:37Z"
+}

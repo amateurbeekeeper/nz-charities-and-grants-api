@@ -1,0 +1,27 @@
+{
+  "id": 67576,
+  "registrationNumber": "CC53881",
+  "name": "St Thomas Syrian Orthodox Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stthomassyrianorthodoxnz@gmail.com",
+  "address": {
+    "line1": "PO Box 40005",
+    "line2": " ",
+    "suburb": "Glenfield",
+    "city": "Auckland",
+    "postcode": "0747"
+  },
+  "nzbn": "9429042964230",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Syriac Orthodox Church New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T20:18:13Z"
+}

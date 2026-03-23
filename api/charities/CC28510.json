@@ -1,0 +1,27 @@
+{
+  "id": 39887,
+  "registrationNumber": "CC28510",
+  "name": "Te Runaka Otakou Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "monique@bbas.co.nz",
+  "address": {
+    "line1": "Tamatea Road",
+    "line2": " Rd",
+    "suburb": "Otakou",
+    "city": "Dunedin",
+    "postcode": "9077"
+  },
+  "nzbn": "9429037226930",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T19:46:58Z"
+}

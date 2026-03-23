@@ -1,0 +1,27 @@
+{
+  "id": 40819,
+  "registrationNumber": "CC42769",
+  "name": "Trust House Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.trusthouse.co.nz",
+  "email": "cherie@trusthouse.co.nz",
+  "address": {
+    "line1": "LEVEL 1",
+    "line2": " THE HORSESHOE BUILDING",
+    "suburb": "4 Queen Street",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429037951955",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:41:22Z"
+}

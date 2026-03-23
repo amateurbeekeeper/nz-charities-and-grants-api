@@ -1,0 +1,27 @@
+{
+  "id": 53979,
+  "registrationNumber": "CC22403",
+  "name": "Auckland Inter-Faith Council",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aucklandinterfaithcouncil.org.nz",
+  "email": "nzaifc@gmail.com",
+  "address": {
+    "line1": "75 Park Hill Road",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429043110216",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Auckland Interfaith Council",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T10:19:02Z"
+}

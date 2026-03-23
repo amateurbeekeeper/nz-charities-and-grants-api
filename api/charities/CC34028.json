@@ -1,0 +1,27 @@
+{
+  "id": 43050,
+  "registrationNumber": "CC34028",
+  "name": "The Waiheke Island Choral Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waihekechoral.org.nz",
+  "email": "info@waihekechoral.org.nz",
+  "address": {
+    "line1": "WHITTAKER'S MUSEUM",
+    "line2": "2 Korora Road",
+    "suburb": "Oneroa",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429042888017",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waihekechoral",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-04T22:19:06Z"
+}

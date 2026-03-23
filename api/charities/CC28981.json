@@ -1,0 +1,27 @@
+{
+  "id": 64800,
+  "registrationNumber": "CC28981",
+  "name": "Wanganui Multiple Sclerosis Society Incorporated ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wgms.orcon.net.nz",
+  "email": "president@mswanganui.org.nz",
+  "address": {
+    "line1": "Room 110",
+    "line2": "First Floor",
+    "suburb": "60 Ridgway Street",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042908135",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T20:12:16Z"
+}

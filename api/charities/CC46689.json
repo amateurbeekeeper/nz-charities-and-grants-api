@@ -1,0 +1,27 @@
+{
+  "id": 38254,
+  "registrationNumber": "CC46689",
+  "name": "Iritekura Marae",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ahenatamepo@gmail.com",
+  "address": {
+    "line1": "16 Marae Road",
+    "line2": "Waipiro 4079",
+    "suburb": " ",
+    "city": "Waipiro",
+    "postcode": "4079"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Iritekura Marae",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T19:45:55Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37279,
+  "registrationNumber": "CC46621",
+  "name": "The CanInspire Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-05-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.canbead.org",
+  "email": "office@caninspire.org.nz",
+  "address": {
+    "line1": "3 Thomson Street",
+    "line2": " ",
+    "suburb": "Tinwald",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": "9429043251278",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thecaninspiretrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T22:24:58Z"
+}

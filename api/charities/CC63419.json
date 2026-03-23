@@ -1,0 +1,27 @@
+{
+  "id": 77611,
+  "registrationNumber": "CC63419",
+  "name": "ETU PASIFIKA AUCKLAND LIMITED",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://etupasifika.co.nz/locations/auckland",
+  "email": "melanie@pasifikafutures.co.nz",
+  "address": {
+    "line1": "7A Pacific Rise",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T23:05:44Z"
+}

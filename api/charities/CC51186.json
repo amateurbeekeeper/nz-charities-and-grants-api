@@ -1,0 +1,27 @@
+{
+  "id": 34739,
+  "registrationNumber": "CC51186",
+  "name": "Go Vegan",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2014-10-20T00:00:00Z",
+  "dateDeregistered": "2018-08-17T00:00:00Z",
+  "website": "https://www.govegan.org.nz",
+  "email": "info@govegan.org.nz",
+  "address": {
+    "line1": "2/109 Ocean View Road",
+    "line2": " ",
+    "suburb": "Hillcrest",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/govegan.org.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2022-04-07T21:02:41Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73434,
+  "registrationNumber": "CC59704",
+  "name": "Tia Marae",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "vincent.teaute@gmail.com",
+  "address": {
+    "line1": "20 Malcolm Avenue",
+    "line2": "RD 8",
+    "suburb": "Rangiuru",
+    "city": "Te Puke",
+    "postcode": "3188"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/1387638924712135",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T00:20:38Z"
+}

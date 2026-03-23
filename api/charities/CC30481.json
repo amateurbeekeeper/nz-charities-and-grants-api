@@ -1,0 +1,27 @@
+{
+  "id": 60141,
+  "registrationNumber": "CC30481",
+  "name": "South of Auckland Church of Christ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2021-01-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://sacoc.net",
+  "email": "richard.leota001@gmail.com",
+  "address": {
+    "line1": "2 Kairanga Street",
+    "line2": " ",
+    "suburb": "Mangere East",
+    "city": "Auckland",
+    "postcode": "2024"
+  },
+  "nzbn": "9429042735526",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:26:56Z"
+}

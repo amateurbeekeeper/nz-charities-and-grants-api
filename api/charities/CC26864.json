@@ -1,0 +1,27 @@
+{
+  "id": 58920,
+  "registrationNumber": "CC26864",
+  "name": "St George's Hospital Cancer Institute",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stgeorgescancerinstitute.co.nz",
+  "email": "scott.bampton@stgeorges.org.nz",
+  "address": {
+    "line1": "249 Papanui Road",
+    "line2": " ",
+    "suburb": "Strowan",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T22:13:41Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67658,
+  "registrationNumber": "CC53961",
+  "name": "Stoney Homestead Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-09-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chair@stoneyhomestead.org.nz",
+  "address": {
+    "line1": "12 Galbraith Greens",
+    "line2": null,
+    "suburb": " ",
+    "city": "Silverdale",
+    "postcode": "0932"
+  },
+  "nzbn": "9429043216611",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Stoney-Homestead-1435259406737750/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T06:44:54Z"
+}

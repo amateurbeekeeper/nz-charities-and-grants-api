@@ -1,0 +1,27 @@
+{
+  "id": 33605,
+  "registrationNumber": "CC49868",
+  "name": "Wandersearch Auckland Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-09-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wandersearch.org.nz",
+  "email": "robyn@conlea.com",
+  "address": {
+    "line1": "PO Box 302063",
+    "line2": "North Harbour",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "751"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WanderSearchAuckland",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T20:38:54Z"
+}

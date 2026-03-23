@@ -1,0 +1,27 @@
+{
+  "id": 72747,
+  "registrationNumber": "CC59142",
+  "name": "The Sir Michael Jones Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hamish.crooks@pacifichomecare.org.nz",
+  "address": {
+    "line1": "PO Box 60224",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0642"
+  },
+  "nzbn": "9429048013178",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T19:30:17Z"
+}

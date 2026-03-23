@@ -1,0 +1,27 @@
+{
+  "id": 39460,
+  "registrationNumber": "CC42409",
+  "name": "Cambridge Racquets Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.crc.org.nz",
+  "email": "manager@crc.org.nz",
+  "address": {
+    "line1": "63 Thornton Road",
+    "line2": "Cambridge 3434",
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": "9429042598749",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CambridgeRacquetsClub",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T02:38:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 49702,
+  "registrationNumber": "CC31308",
+  "name": "Parentlink",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://kilbirnie.school.nz",
+  "email": "office@kilbirnie.school.nz",
+  "address": {
+    "line1": "72 Hamilton Road",
+    "line2": " ",
+    "suburb": "Hataitai",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T01:14:14Z"
+}

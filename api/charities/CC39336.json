@@ -1,0 +1,27 @@
+{
+  "id": 62833,
+  "registrationNumber": "CC39336",
+  "name": "K'AUTE PASIFIKA TRUST",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kautepasifika.co.nz",
+  "email": "Wilmason.Jensen@kautepasifika.co.nz",
+  "address": {
+    "line1": "100 Seddon Road",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042972686",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T22:29:17Z"
+}

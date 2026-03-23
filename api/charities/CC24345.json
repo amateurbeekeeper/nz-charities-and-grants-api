@@ -1,0 +1,27 @@
+{
+  "id": 42011,
+  "registrationNumber": "CC24345",
+  "name": "Community Rotorua Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-05-13T00:00:00Z",
+  "dateDeregistered": "2019-05-30T00:00:00Z",
+  "website": "http://www.communityrotorua.org.nz",
+  "email": "manager@communityrotorua.org.nz",
+  "address": {
+    "line1": "1073 Whakaue Street",
+    "line2": "Rotorua 3010",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042818649",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/ComRoto/",
+    "twitter": null
+  },
+  "lastUpdated": "2019-06-03T20:44:49Z"
+}

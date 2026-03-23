@@ -1,0 +1,27 @@
+{
+  "id": 48362,
+  "registrationNumber": "CC38616",
+  "name": "The Auckland Bridge Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.akbc.co.nz",
+  "email": "info@akbc.co.nz",
+  "address": {
+    "line1": "273 Remuera Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429042849209",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T01:40:05Z"
+}

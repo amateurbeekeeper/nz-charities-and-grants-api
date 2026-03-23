@@ -1,0 +1,27 @@
+{
+  "id": 55614,
+  "registrationNumber": "CC24578",
+  "name": "The Ravenscar Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "steve@wakefieldservices.co.nz",
+  "address": {
+    "line1": "416 Papanui Road",
+    "line2": " ",
+    "suburb": "Strowan",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T22:33:21Z"
+}

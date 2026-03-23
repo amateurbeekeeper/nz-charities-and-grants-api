@@ -1,0 +1,27 @@
+{
+  "id": 49713,
+  "registrationNumber": "CC28431",
+  "name": "Lincoln Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lincolnfire.org.nz",
+  "email": "ahooper@xtra.co.nz",
+  "address": {
+    "line1": "1 James Street",
+    "line2": "Lincoln 7608",
+    "suburb": " ",
+    "city": "Lincoln",
+    "postcode": "7608"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Lincoln-Volunteer-Fire-Brigade-158755780856634",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:01:29Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 45375,
+  "registrationNumber": "CC33581",
+  "name": "Dunedin Community Transport Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "plusbusdunedin.co.nz",
+  "email": "mary.phillips8@icloud.com",
+  "address": {
+    "line1": "2 Playfair Street",
+    "line2": " ",
+    "suburb": "Caversham",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429043103867",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Plus Bus Dunedin",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T21:59:49Z"
+}

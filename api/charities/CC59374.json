@@ -1,0 +1,27 @@
+{
+  "id": 72981,
+  "registrationNumber": "CC59374",
+  "name": "Pariwaar New Zealand",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2021-09-01T00:00:00Z",
+  "dateDeregistered": "2024-12-13T00:00:00Z",
+  "website": "https://www.pariwaarnewzealand.org.nz",
+  "email": "info@pariwaarnewzealand.org.nz",
+  "address": {
+    "line1": "2 Ellivani Rise",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429049752304",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/PariwaarNewZealand/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-12-27T06:08:04Z"
+}

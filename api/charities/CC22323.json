@@ -1,0 +1,27 @@
+{
+  "id": 55515,
+  "registrationNumber": "CC22323",
+  "name": "The Meadows New Life Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.connectchurch.nz",
+  "email": "mason.griffin@connectchurch.nz",
+  "address": {
+    "line1": "1 Realm Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429042801573",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T23:10:53Z"
+}

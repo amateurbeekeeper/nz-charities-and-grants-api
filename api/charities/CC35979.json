@@ -1,0 +1,27 @@
+{
+  "id": 59333,
+  "registrationNumber": "CC35979",
+  "name": "New Zealand National Committee For Unicef Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.unicef.org.nz",
+  "email": "susanc@unicef.org.nz",
+  "address": {
+    "line1": "Level 5",
+    "line2": " 86 Victoria Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043088201",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "UNICEF New Zealand",
+    "twitter": "@unicefnz"
+  },
+  "lastUpdated": "2025-10-30T00:22:11Z"
+}

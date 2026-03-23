@@ -1,0 +1,27 @@
+{
+  "id": 73662,
+  "registrationNumber": "CC59987",
+  "name": "Vadas Angels Animal Rescue Tauranga Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.vadasangels.org",
+  "email": "accounts@vadasangels.org",
+  "address": {
+    "line1": "877 Whakamarama Road",
+    "line2": "RD 7",
+    "suburb": "Whakamārama",
+    "city": "Tauranga",
+    "postcode": "3179"
+  },
+  "nzbn": "9429050448258",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/vadasangelsanimalrescue/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T14:12:59Z"
+}

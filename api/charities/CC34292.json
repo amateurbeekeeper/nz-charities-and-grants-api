@@ -1,0 +1,27 @@
+{
+  "id": 43009,
+  "registrationNumber": "CC34292",
+  "name": "Whakatane Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "craig.rowson@gmail.com",
+  "address": {
+    "line1": "155 Commerce Street",
+    "line2": "Whakatane 3120",
+    "suburb": "Tawa",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:54:53Z"
+}

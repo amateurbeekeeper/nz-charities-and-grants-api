@@ -1,0 +1,27 @@
+{
+  "id": 47034,
+  "registrationNumber": "CC42749",
+  "name": "Outwest Youth Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-11-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.outwestyouth.org.nz",
+  "email": "nem@outwestyouth.org.nz",
+  "address": {
+    "line1": "1 Gerald Stokes Avenue",
+    "line2": "Helensville 0800",
+    "suburb": " ",
+    "city": "Helensville",
+    "postcode": "0800"
+  },
+  "nzbn": "9429043288151",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/outwestyouth",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-23T23:46:59Z"
+}

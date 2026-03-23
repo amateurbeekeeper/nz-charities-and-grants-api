@@ -1,0 +1,27 @@
+{
+  "id": 63342,
+  "registrationNumber": "CC37028",
+  "name": "Kahurangi New Zealand Maori Dance Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-01-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kahurangi.com",
+  "email": "narelle@kahurangi.com",
+  "address": {
+    "line1": "103 Bennett Road",
+    "line2": "RD 2",
+    "suburb": "Waipatu",
+    "city": "Hastings",
+    "postcode": "4172"
+  },
+  "nzbn": "9429042648604",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T22:33:10Z"
+}

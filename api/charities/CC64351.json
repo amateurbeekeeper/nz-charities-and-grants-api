@@ -1,0 +1,27 @@
+{
+  "id": 78533,
+  "registrationNumber": "CC64351",
+  "name": "Merivale Community Centre Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-03-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "manager@merivale.org.nz",
+  "address": {
+    "line1": "10 Kesteven Avenue",
+    "line2": null,
+    "suburb": "Parkvale",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429053494719",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MerivaleCommunityCentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T05:14:11Z"
+}

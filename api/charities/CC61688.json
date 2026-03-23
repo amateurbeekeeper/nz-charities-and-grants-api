@@ -1,0 +1,27 @@
+{
+  "id": 75254,
+  "registrationNumber": "CC61688",
+  "name": "The Headwaters Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.theheadwaters.co.nz",
+  "email": "kylie@theheadwaters.co.nz",
+  "address": {
+    "line1": "64 Oban Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Glenorchy",
+    "postcode": "9372"
+  },
+  "nzbn": "9429041106211",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/mrswoollysgeneralstore",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-18T19:22:38Z"
+}

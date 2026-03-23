@@ -1,0 +1,27 @@
+{
+  "id": 42335,
+  "registrationNumber": "CC30678",
+  "name": "Kent Bay Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.whangaroamarina.co.nz",
+  "email": "trustees@whangaroamarina.co.nz",
+  "address": {
+    "line1": "Whangaroa Harbour",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whangaroa",
+    "postcode": "0478"
+  },
+  "nzbn": "9429043030675",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T01:52:07Z"
+}

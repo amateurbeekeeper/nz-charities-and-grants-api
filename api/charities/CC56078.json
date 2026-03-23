@@ -1,0 +1,27 @@
+{
+  "id": 69720,
+  "registrationNumber": "CC56078",
+  "name": "The New Zealand Sepsis Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sepsis.org.nz",
+  "email": "paul@sepsis.org.nz",
+  "address": {
+    "line1": "PO Box 565",
+    "line2": "Waikato Mail Centre",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3240"
+  },
+  "nzbn": "9429046503015",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/sepsistrust.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T21:13:26Z"
+}

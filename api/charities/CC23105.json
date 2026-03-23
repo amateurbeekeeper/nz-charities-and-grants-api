@@ -1,0 +1,27 @@
+{
+  "id": 39272,
+  "registrationNumber": "CC23105",
+  "name": "New Zealand Christian Network",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzchristiannetwork.org.nz",
+  "email": "marcela@nzchristiannetwork.org.nz",
+  "address": {
+    "line1": "PO Box 84268",
+    "line2": " ",
+    "suburb": "Westgate",
+    "city": "Auckland",
+    "postcode": "0657"
+  },
+  "nzbn": "9429042900764",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZChristianNetwork",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T21:10:12Z"
+}

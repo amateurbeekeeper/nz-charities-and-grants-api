@@ -1,0 +1,27 @@
+{
+  "id": 59349,
+  "registrationNumber": "CC27347",
+  "name": "Iona College",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.iona.school.nz",
+  "email": "finance.manager@iona.school.nz",
+  "address": {
+    "line1": "42 Lucknow Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Havelock North",
+    "postcode": "4130"
+  },
+  "nzbn": "9429048094597",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-06T19:13:51Z"
+}

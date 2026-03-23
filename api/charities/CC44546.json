@@ -1,0 +1,27 @@
+{
+  "id": 64055,
+  "registrationNumber": "CC44546",
+  "name": "Morrinsville Community Patrol",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.communitypatrols.org.nz",
+  "email": "morrinsville@cpnz.org.nz",
+  "address": {
+    "line1": "12 Florence Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Morrinsville",
+    "postcode": "3300"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Morrinsville Community Patrol",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T07:39:49Z"
+}

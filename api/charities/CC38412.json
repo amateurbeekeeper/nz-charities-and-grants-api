@@ -1,0 +1,27 @@
+{
+  "id": 60600,
+  "registrationNumber": "CC38412",
+  "name": "Waimea Christian Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thehub.net.nz",
+  "email": "bm_sheat@outlook.com",
+  "address": {
+    "line1": "68 Newcastle Street",
+    "line2": "RD 6",
+    "suburb": " ",
+    "city": "Riversdale",
+    "postcode": "9776"
+  },
+  "nzbn": "9429042882497",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:50:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63026,
+  "registrationNumber": "CC38356",
+  "name": "Paihia School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.paihia.school.nz",
+  "email": "paihiapta@gmail.com",
+  "address": {
+    "line1": "School Road",
+    "line2": " ",
+    "suburb": "Paihia",
+    "city": "Northland",
+    "postcode": "0200"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T21:44:49Z"
+}

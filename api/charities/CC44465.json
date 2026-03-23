@@ -1,0 +1,27 @@
+{
+  "id": 50523,
+  "registrationNumber": "CC44465",
+  "name": "Te Kahui Mana Ririki Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ririki.org.nz",
+  "email": "b.matiu@xtra.co.nz",
+  "address": {
+    "line1": "906 Matawai Road",
+    "line2": " ",
+    "suburb": "Ormond",
+    "city": "Gisborne",
+    "postcode": "4071"
+  },
+  "nzbn": "9429043180882",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-04T20:01:40Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 62787,
+  "registrationNumber": "CC43819",
+  "name": "Innovative Waste Kaikoura Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.iwk.org.nz",
+  "email": "jacki@iwk.org.nz",
+  "address": {
+    "line1": "82 Scarborough Street",
+    "line2": "Kaikoura 7300",
+    "suburb": " ",
+    "city": "Kaikoura",
+    "postcode": "7300"
+  },
+  "nzbn": "9429037210984",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T18:12:58Z"
+}

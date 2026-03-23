@@ -1,0 +1,27 @@
+{
+  "id": 38371,
+  "registrationNumber": "CC46041",
+  "name": "Good Soundz Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2011-01-17T00:00:00Z",
+  "dateDeregistered": "2020-02-04T00:00:00Z",
+  "website": "www.nfd.org.nz",
+  "email": "natasha@nfd.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "11 York Street",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429031324861",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/TheNationalFoundationfortheDeaf/",
+    "twitter": "https://twitter.com/theNatFdnDeaf"
+  },
+  "lastUpdated": "2020-08-12T21:51:11Z"
+}

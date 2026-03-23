@@ -1,0 +1,27 @@
+{
+  "id": 64731,
+  "registrationNumber": "CC43535",
+  "name": "Howick Brass Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.howickbrass.org.nz",
+  "email": "max@maxcdesign.co.nz",
+  "address": {
+    "line1": "Howick Domain",
+    "line2": "Wellington Street",
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": "9429042641872",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T22:22:30Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50653,
+  "registrationNumber": "CC47385",
+  "name": "Nautilus Creative Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-10-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nautilus.org.nz/",
+  "email": "nautilus.creative.trust@gmail.com",
+  "address": {
+    "line1": "257A Riddiford Street",
+    "line2": " ",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043197781",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Nautilus-Creative-Space-140441379318112/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T18:41:09Z"
+}

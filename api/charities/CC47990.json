@@ -1,0 +1,27 @@
+{
+  "id": 37240,
+  "registrationNumber": "CC47990",
+  "name": "The Riversdale Surf and Life Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-02-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "riversdalesurf.org.nz",
+  "email": "threesistersltd@xtra.co.nz",
+  "address": {
+    "line1": "2 Bodle Drive",
+    "line2": "Riversdale Beach 5872",
+    "suburb": "Riversdale Beach",
+    "city": "Masterton",
+    "postcode": "5872"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-28T01:36:19Z"
+}

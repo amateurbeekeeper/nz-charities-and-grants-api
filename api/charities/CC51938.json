@@ -1,0 +1,27 @@
+{
+  "id": 65686,
+  "registrationNumber": "CC51938",
+  "name": "St Columba's Presbyterian Parish Havelock North",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.schn.org.nz",
+  "email": "info@schn.org.nz",
+  "address": {
+    "line1": "14 Napier Road",
+    "line2": "Havelock North 4130",
+    "suburb": " ",
+    "city": "Havelock North",
+    "postcode": "4130"
+  },
+  "nzbn": "9429048292788",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:14:43Z"
+}

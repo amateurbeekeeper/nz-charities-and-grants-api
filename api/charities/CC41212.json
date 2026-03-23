@@ -1,0 +1,27 @@
+{
+  "id": 60101,
+  "registrationNumber": "CC41212",
+  "name": "CHURCH OF THE RISEN LORD JESUS CHRIST",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rpeco@yahoo.co.nz",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "48 Taharoto Road",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429043144501",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T03:27:41Z"
+}

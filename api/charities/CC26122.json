@@ -1,0 +1,27 @@
+{
+  "id": 58374,
+  "registrationNumber": "CC26122",
+  "name": "Religious Society of Friends Aotearoa New Zealand Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.quakers.nz",
+  "email": "clerk@trust.quakers.nz",
+  "address": {
+    "line1": "28 Grosvenor Street",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429042740810",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T04:23:57Z"
+}

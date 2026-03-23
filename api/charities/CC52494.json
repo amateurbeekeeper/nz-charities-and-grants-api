@@ -1,0 +1,27 @@
+{
+  "id": 66227,
+  "registrationNumber": "CC52494",
+  "name": "Aerial Child Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aerialchildtrust.org.nz",
+  "email": "aerialchildtrust@gmail.com",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429030582224",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aerialchildtrust",
+    "twitter": "https://twitter.com/forabusedkids"
+  },
+  "lastUpdated": "2026-02-28T13:18:46Z"
+}

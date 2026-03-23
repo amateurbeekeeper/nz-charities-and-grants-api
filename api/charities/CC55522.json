@@ -1,0 +1,27 @@
+{
+  "id": 69177,
+  "registrationNumber": "CC55522",
+  "name": "Spine Health Africa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.spinehealthafrica.org",
+  "email": "spinehealthafrica@gmail.com",
+  "address": {
+    "line1": "Unit 4",
+    "line2": "465 Mount Eden Road",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SpineHealthAfrica/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T09:25:42Z"
+}

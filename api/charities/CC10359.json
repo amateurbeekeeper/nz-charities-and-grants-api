@@ -1,0 +1,27 @@
+{
+  "id": 51628,
+  "registrationNumber": "CC10359",
+  "name": "Citizens Advice Bureau Wairarapa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cab.org.nz",
+  "email": "wairarapa@cab.org.nz",
+  "address": {
+    "line1": "43 Perry Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429042881759",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T18:02:54Z"
+}

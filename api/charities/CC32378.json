@@ -1,0 +1,27 @@
+{
+  "id": 43909,
+  "registrationNumber": "CC32378",
+  "name": "Warkworth Primary School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.warkworth.school.nz",
+  "email": "pta@warkworth.school.nz",
+  "address": {
+    "line1": "Warkworth School",
+    "line2": "35 Hill Street",
+    "suburb": " ",
+    "city": "Warkworth",
+    "postcode": "910"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T03:39:34Z"
+}

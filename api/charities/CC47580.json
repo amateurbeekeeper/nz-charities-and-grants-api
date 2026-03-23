@@ -1,0 +1,27 @@
+{
+  "id": 37160,
+  "registrationNumber": "CC47580",
+  "name": "Christian Restoration Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-11-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.centrechurch.org.nz",
+  "email": "info@centrechurch.org.nz",
+  "address": {
+    "line1": "5-9 Hurley Road",
+    "line2": " ",
+    "suburb": " Paraparaumu Beach",
+    "city": "Paraparaumu",
+    "postcode": "5254"
+  },
+  "nzbn": "9429042619109",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T19:45:56Z"
+}

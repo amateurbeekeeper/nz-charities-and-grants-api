@@ -1,0 +1,27 @@
+{
+  "id": 36198,
+  "registrationNumber": "CC45455",
+  "name": "Te Awa River Ride Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.te-awa.org.nz",
+  "email": "info@te-awa.org.nz",
+  "address": {
+    "line1": "8 Peake Road",
+    "line2": "RD 3",
+    "suburb": "Cambridge",
+    "city": "Hamilton",
+    "postcode": "3283"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TeAwaTheGreatNZRiverRide",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T23:50:57Z"
+}

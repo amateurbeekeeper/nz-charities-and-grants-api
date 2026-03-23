@@ -1,0 +1,27 @@
+{
+  "id": 67838,
+  "registrationNumber": "CC54150",
+  "name": "House of Science NZ Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-12-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.houseofscience.nz",
+  "email": "chris.duggan@houseofscience.nz",
+  "address": {
+    "line1": "2 McCord Avenue",
+    "line2": " ",
+    "suburb": "Judea",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429045865756",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/HouseofScience/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T02:14:04Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56030,
+  "registrationNumber": "CC22474",
+  "name": "Strive Rehabilitation @ Hawke's Bay Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jbarnes@eit.ac.nz",
+  "address": {
+    "line1": "501 Gloucester Street",
+    "line2": " ",
+    "suburb": "Taradale",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": "9429043143184",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:36:34Z"
+}

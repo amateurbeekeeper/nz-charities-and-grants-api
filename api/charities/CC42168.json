@@ -1,0 +1,27 @@
+{
+  "id": 58096,
+  "registrationNumber": "CC42168",
+  "name": "Wellington Access Broadcasting Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.accessradio.org.nz",
+  "email": "saundersjohn1@me.com",
+  "address": {
+    "line1": "LEVEL 1",
+    "line2": "35-37 Ghuznee Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042916420",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wellingtonaccessradio",
+    "twitter": "https://twitter.com/wgtnaccessradio"
+  },
+  "lastUpdated": "2026-01-08T02:41:11Z"
+}

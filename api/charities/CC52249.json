@@ -1,0 +1,27 @@
+{
+  "id": 65985,
+  "registrationNumber": "CC52249",
+  "name": "The Testpod Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-08-20T00:00:00Z",
+  "dateDeregistered": "2023-04-16T00:00:00Z",
+  "website": "https://www.thetestpod.com",
+  "email": "tine@thetestpod.com",
+  "address": {
+    "line1": "27 Domain Street",
+    "line2": " ",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": "9429041659403",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "The TestPod",
+    "twitter": null
+  },
+  "lastUpdated": "2023-04-21T07:01:47Z"
+}

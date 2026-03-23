@@ -1,0 +1,27 @@
+{
+  "id": 57206,
+  "registrationNumber": "CC25118",
+  "name": "Bucklands Beach Co-Operating Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stjohnsbb.org.nz",
+  "email": "office@stjohnsbb.org.nz",
+  "address": {
+    "line1": "245 Bucklands Beach Road",
+    "line2": " ",
+    "suburb": "Bucklands Beach",
+    "city": "Auckland",
+    "postcode": "2012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T18:17:46Z"
+}

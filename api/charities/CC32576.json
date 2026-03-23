@@ -1,0 +1,27 @@
+{
+  "id": 59407,
+  "registrationNumber": "CC32576",
+  "name": "City Mission Palmerston North",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.citymission.co.nz",
+  "email": "info@citymission.co.nz",
+  "address": {
+    "line1": "338 Church Street",
+    "line2": "Palmerston North 4410",
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042575191",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CityMissionPN",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T22:26:40Z"
+}

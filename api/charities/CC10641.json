@@ -1,0 +1,27 @@
+{
+  "id": 52218,
+  "registrationNumber": "CC10641",
+  "name": "Coast Youth Community Trust Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cyctrust.org.nz",
+  "email": "admin@cyctrust.org.nz",
+  "address": {
+    "line1": "733-735 Whangaparaoa Road",
+    "line2": " ",
+    "suburb": "Stanmore Bay",
+    "city": "Whangaparāoa",
+    "postcode": "0930"
+  },
+  "nzbn": "9429043144549",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CYCTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-18T01:20:31Z"
+}

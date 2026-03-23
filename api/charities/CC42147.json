@@ -1,0 +1,27 @@
+{
+  "id": 47438,
+  "registrationNumber": "CC42147",
+  "name": "The Atrium Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.theatrium.co.nz",
+  "email": "john@pcca.co.nz",
+  "address": {
+    "line1": "190 Federal Street",
+    "line2": "Wellesley Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042581581",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:23:43Z"
+}

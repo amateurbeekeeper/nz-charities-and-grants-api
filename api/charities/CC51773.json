@@ -1,0 +1,27 @@
+{
+  "id": 65537,
+  "registrationNumber": "CC51773",
+  "name": "Te Whare O Manaaki Tangata Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-05-13T00:00:00Z",
+  "dateDeregistered": "2018-06-29T00:00:00Z",
+  "website": null,
+  "email": "ari@whalewatch.co.nz",
+  "address": {
+    "line1": "2145 State Highway 1",
+    "line2": "RD 2",
+    "suburb": "Oaro",
+    "city": "Kaikoura",
+    "postcode": "7374"
+  },
+  "nzbn": "9429043275465",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-10-18T19:49:51Z"
+}

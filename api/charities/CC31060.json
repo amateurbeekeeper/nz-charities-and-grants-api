@@ -1,0 +1,27 @@
+{
+  "id": 48776,
+  "registrationNumber": "CC31060",
+  "name": "Saint Peters Community Church Springfield",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "susan@blackfantail.co.nz",
+  "address": {
+    "line1": "696 Rubicon Road",
+    "line2": "RD 1",
+    "suburb": "Springfield",
+    "city": "Sheffield",
+    "postcode": "7580"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T07:12:43Z"
+}

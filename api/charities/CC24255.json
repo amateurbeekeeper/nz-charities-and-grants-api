@@ -1,0 +1,27 @@
+{
+  "id": 40839,
+  "registrationNumber": "CC24255",
+  "name": "Youth Mentoring Network",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.youthmentoring.org.nz",
+  "email": "james@youthmentoring.org.nz",
+  "address": {
+    "line1": "8 Windsor Street",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429043118571",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T23:05:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54023,
+  "registrationNumber": "CC20645",
+  "name": "Citizens Advice Bureau Nelson Tasman Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cab.org.nz/location/cab-nelson-tasman",
+  "email": "coordinator.nelsontasman@cab.org.nz",
+  "address": {
+    "line1": "9a Cambridge Street",
+    "line2": "Richmond",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7020"
+  },
+  "nzbn": "9429042773009",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100087529217348",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T23:12:14Z"
+}

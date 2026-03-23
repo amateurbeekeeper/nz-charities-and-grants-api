@@ -1,0 +1,27 @@
+{
+  "id": 70479,
+  "registrationNumber": "CC56844",
+  "name": "The Potters House Christian Centre - Massey",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://pottershouse.nz",
+  "email": "jasonmhughes@outlook.com",
+  "address": {
+    "line1": "16 Frosses Place",
+    "line2": " ",
+    "suburb": "Massey",
+    "city": "Auckland",
+    "postcode": "0614"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T09:10:16Z"
+}

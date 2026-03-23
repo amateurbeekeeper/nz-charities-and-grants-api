@@ -1,0 +1,27 @@
+{
+  "id": 51571,
+  "registrationNumber": "CC20055",
+  "name": "Waiheke Community Cinema Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waihekrcinema.co.nz",
+  "email": "a.livingstone@xtra.co.nz",
+  "address": {
+    "line1": "2 Korora Road",
+    "line2": " ",
+    "suburb": "Oneroa",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429042987581",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-18T19:19:34Z"
+}

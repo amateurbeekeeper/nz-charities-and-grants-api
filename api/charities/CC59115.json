@@ -1,0 +1,27 @@
+{
+  "id": 72722,
+  "registrationNumber": "CC59115",
+  "name": "Pasifika O Wairarapa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.pw.org.nz",
+  "email": "luther.toloa@pw.org.nz",
+  "address": {
+    "line1": "23 Intermediate Street",
+    "line2": " ",
+    "suburb": "Solway",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429052336799",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Pasifika o Wairarapa Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T18:17:15Z"
+}

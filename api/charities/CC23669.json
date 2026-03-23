@@ -1,0 +1,27 @@
+{
+  "id": 40155,
+  "registrationNumber": "CC23669",
+  "name": "Estate of Michael Mullin",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.publictrust.co.nz",
+  "email": "funding@publictrust.co.nz",
+  "address": {
+    "line1": "Public Trust Tower",
+    "line2": "Level 2",
+    "suburb": "22 Willeston Street",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "10/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-29T02:53:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53770,
+  "registrationNumber": "CC24044",
+  "name": "Papatoetoe Historical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://catalog.hathitrust.org/Record/005773182",
+  "email": "tim.renouf@gmail.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "30 Omagh Avenue",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429042786191",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/papatoetoemuseum/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T07:59:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75269,
+  "registrationNumber": "CC61698",
+  "name": "Cats' Protection League Canterbury",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cats.org.nz",
+  "email": "leys@xtra.co.nz",
+  "address": {
+    "line1": "14 Charlesworth Street",
+    "line2": " ",
+    "suburb": "Woolston",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429051619633",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Cats.Protection.League.Canterbury",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T03:45:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 47382,
+  "registrationNumber": "CC42472",
+  "name": "Maungaturoto Recreational Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://thecountryclub.co.nz",
+  "email": "maungaturotocountryclub@gmail.com",
+  "address": {
+    "line1": "84 Bickerstaffe Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Maungaturoto",
+    "postcode": "0583"
+  },
+  "nzbn": "9429042771937",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MaungaturotoCountryClub/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:17:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 45800,
+  "registrationNumber": "CC33295",
+  "name": "Mainly Music New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mainlymusic.org",
+  "email": "johood@mainlymusic.org",
+  "address": {
+    "line1": "55 Hugo Johnston Drive",
+    "line2": " ",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043166862",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mainlymusicmainlyplay",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:39:43Z"
+}

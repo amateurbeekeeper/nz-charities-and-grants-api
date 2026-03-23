@@ -1,0 +1,27 @@
+{
+  "id": 43223,
+  "registrationNumber": "CC39482",
+  "name": "Waihi Beach Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "waihibeach@playcentre.org.nz",
+  "address": {
+    "line1": "100 Beach Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waihi Beach",
+    "postcode": "3611"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/WaihiBeachPlaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:11:26Z"
+}

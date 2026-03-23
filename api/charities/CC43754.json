@@ -1,0 +1,27 @@
+{
+  "id": 50200,
+  "registrationNumber": "CC43754",
+  "name": "The Yes Disability Resource Centre Services Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-03-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.yesdisability.org.nz",
+  "email": "accounts@yesdisability.org.nz",
+  "address": {
+    "line1": "3 William Laurie Place",
+    "line2": " ",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429043211807",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T18:22:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74020,
+  "registrationNumber": "CC60432",
+  "name": "Still Mums",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.stillmums.org.nz",
+  "email": "jadeduley@hotmail.com",
+  "address": {
+    "line1": "122 Earn Street",
+    "line2": " ",
+    "suburb": "Appleby",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": "9429051507213",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "stillMums",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T05:23:35Z"
+}

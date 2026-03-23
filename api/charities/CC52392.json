@@ -1,0 +1,27 @@
+{
+  "id": 66128,
+  "registrationNumber": "CC52392",
+  "name": "The Auckland Shakespeare Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-07-15T00:00:00Z",
+  "dateDeregistered": "2019-03-31T00:00:00Z",
+  "website": "www.aucklandshakespeare.com",
+  "email": "ritafstone@gmail.com",
+  "address": {
+    "line1": "26/167 Whitney Street",
+    "line2": " ",
+    "suburb": "Blockhouse Bay",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/YoungAuckShakespeareCompany/",
+    "twitter": "https://twitter.com/YngAklShakesCo"
+  },
+  "lastUpdated": "2019-06-25T20:14:08Z"
+}

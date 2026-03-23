@@ -1,0 +1,27 @@
+{
+  "id": 40883,
+  "registrationNumber": "CC39758",
+  "name": "Petone Spiritualist Church Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://petonespiritualist.org/",
+  "email": "petonesc@gmail.com",
+  "address": {
+    "line1": "88 Richmond Street",
+    "line2": " ",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": "9429042804512",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Petone Spiritualist Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:03:00Z"
+}

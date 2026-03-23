@@ -1,0 +1,27 @@
+{
+  "id": 75787,
+  "registrationNumber": "CC62241",
+  "name": "New Zealand Community Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-10-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "alice@glca.co.nz",
+  "address": {
+    "line1": "37 Anzac Street",
+    "line2": " ",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T18:02:34Z"
+}

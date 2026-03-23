@@ -1,0 +1,27 @@
+{
+  "id": 71647,
+  "registrationNumber": "CC58018",
+  "name": "Somerfield Playcentre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-08-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.playcentre.org.nz",
+  "email": "somerfield@playcentre.org.nz",
+  "address": {
+    "line1": "47 Studholme Street",
+    "line2": " ",
+    "suburb": "Somerfield",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PlaycentreSomerfield",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:09:56Z"
+}

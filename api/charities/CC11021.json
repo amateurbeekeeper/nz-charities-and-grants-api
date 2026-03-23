@@ -1,0 +1,27 @@
+{
+  "id": 52683,
+  "registrationNumber": "CC11021",
+  "name": "Oasis Family Church Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://oasisfamilychurch.org.nz",
+  "email": "finance@oasis.org.nz",
+  "address": {
+    "line1": "21 Alfred Street",
+    "line2": "Blenheim 7201",
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429042980896",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Oasis-Family-Church-674395266010367/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T07:01:37Z"
+}

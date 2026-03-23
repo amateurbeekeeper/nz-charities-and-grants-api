@@ -1,0 +1,27 @@
+{
+  "id": 73044,
+  "registrationNumber": "CC59434",
+  "name": "HORNBY COMMUNITY MENZSHED INCORPORATED",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "brian@dixon.gen.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "8 Goulding Avenue",
+    "suburb": "Hornby",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429049388015",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://m.facebook.com/hornbymenzshed/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T06:05:34Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41939,
+  "registrationNumber": "CC25221",
+  "name": "Hawera Food Bank Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cherohn@hotmail.com",
+  "address": {
+    "line1": "30B Arthur Street",
+    "line2": "RD 14",
+    "suburb": "Hāwera",
+    "city": "Hawera",
+    "postcode": "4674"
+  },
+  "nzbn": "9429042632672",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T05:23:30Z"
+}

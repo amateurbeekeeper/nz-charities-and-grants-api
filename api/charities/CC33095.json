@@ -1,0 +1,27 @@
+{
+  "id": 39345,
+  "registrationNumber": "CC33095",
+  "name": "Tasman Swim Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurer@tasmanswimclub.co.nz",
+  "address": {
+    "line1": "6 Hollis Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Brightwater",
+    "postcode": "7022"
+  },
+  "nzbn": "9429042768210",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Tasman-Swim-Club",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T07:55:01Z"
+}

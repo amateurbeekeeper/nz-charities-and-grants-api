@@ -1,0 +1,27 @@
+{
+  "id": 61556,
+  "registrationNumber": "CC38315",
+  "name": "Waimarama Surf Life Saving Club Incorporated ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waimaramasurf.org.nz",
+  "email": "contact@waimaramasurf.org.nz",
+  "address": {
+    "line1": "9 Moori Road",
+    "line2": "Waimarama 4294",
+    "suburb": " ",
+    "city": "Waimarama",
+    "postcode": "4294"
+  },
+  "nzbn": "9429042878339",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WaimaramaSurf/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T23:50:29Z"
+}

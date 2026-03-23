@@ -1,0 +1,27 @@
+{
+  "id": 71801,
+  "registrationNumber": "CC58190",
+  "name": "Latimer Church Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-08-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rachal.aspinall@gmail.com",
+  "address": {
+    "line1": "12 Berwick Street",
+    "line2": " ",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429048577526",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T18:17:53Z"
+}

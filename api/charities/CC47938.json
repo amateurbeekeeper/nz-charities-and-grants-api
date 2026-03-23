@@ -1,0 +1,27 @@
+{
+  "id": 38059,
+  "registrationNumber": "CC47938",
+  "name": "The Manawatu Rugby Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2020-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john@johnw.co.nz",
+  "address": {
+    "line1": "C/o Arena Stadium ",
+    "line2": " ",
+    "suburb": "Waldgrave Street",
+    "city": "Palmerston North ",
+    "postcode": "4410"
+  },
+  "nzbn": "9429043232543",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T22:23:09Z"
+}

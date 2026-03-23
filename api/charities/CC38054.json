@@ -1,0 +1,27 @@
+{
+  "id": 52702,
+  "registrationNumber": "CC38054",
+  "name": "Dargaville Church Of The Nazarene",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nzdsec@gmail.com",
+  "address": {
+    "line1": "4 Grey Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Dargaville",
+    "postcode": "310"
+  },
+  "nzbn": "9429046845429",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T20:21:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33003,
+  "registrationNumber": "CC49971",
+  "name": "Coptic Orthodox Church New Zealand Parish of St Mary and St Anthanasious Christchurch",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "accounts@stmary-stathanasius.net",
+  "address": {
+    "line1": "290 Wooldridge Road",
+    "line2": "Avonhead",
+    "suburb": "Harewood",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429042923152",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T04:12:34Z"
+}

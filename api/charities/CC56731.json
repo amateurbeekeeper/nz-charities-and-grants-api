@@ -1,0 +1,27 @@
+{
+  "id": 70370,
+  "registrationNumber": "CC56731",
+  "name": "Tautoko Tane Bay of Plenty",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tautokotane-bop.nz/",
+  "email": "jessica@msbop.nz",
+  "address": {
+    "line1": "1065 Cameron Road",
+    "line2": " ",
+    "suburb": "Gate Pa",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429047419117",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/malesurvivorsbop/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:44:25Z"
+}

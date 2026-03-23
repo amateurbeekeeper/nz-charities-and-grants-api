@@ -1,0 +1,27 @@
+{
+  "id": 75253,
+  "registrationNumber": "CC61686",
+  "name": "Hope of Heaven Baptist Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-10-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "hohbc.com",
+  "email": "dannysohn@gmail.com",
+  "address": {
+    "line1": "293 Wainui Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wainui",
+    "postcode": "0932"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T17:24:28Z"
+}

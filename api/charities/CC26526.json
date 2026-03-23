@@ -1,0 +1,27 @@
+{
+  "id": 40880,
+  "registrationNumber": "CC26526",
+  "name": "Kelston Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kcc.co.nz",
+  "email": "lcs_56@xtra.co.nz",
+  "address": {
+    "line1": "72 Archibald Road",
+    "line2": " ",
+    "suburb": "Kelston",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T22:42:07Z"
+}

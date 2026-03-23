@@ -1,0 +1,27 @@
+{
+  "id": 54611,
+  "registrationNumber": "CC28811",
+  "name": "Habitat For Humanity (Invercargill) Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-02-28T00:00:00Z",
+  "website": "https://www.habitat.org.nz/invercargill",
+  "email": "invercargill@habitat.org.nz",
+  "address": {
+    "line1": "33 Glengarry Crescent",
+    "line2": " ",
+    "suburb": "Glengarry",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429038457852",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/HFHInvercargill",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-08T07:19:38Z"
+}

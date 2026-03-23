@@ -1,0 +1,27 @@
+{
+  "id": 54816,
+  "registrationNumber": "CC21427",
+  "name": "Okains Bay Maori & Colonial Museum Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.okainsbaymuseum.co.nz",
+  "email": "info@okainsbaymuseum.co.nz",
+  "address": {
+    "line1": "1146 Okains Bay Road",
+    "line2": " ",
+    "suburb": " Okains Bay",
+    "city": "Banks Peninsula",
+    "postcode": "7583"
+  },
+  "nzbn": "9429042824268",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Okains-Bay-Maori-and-Colonial-Museum-199553010101485/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T23:37:38Z"
+}

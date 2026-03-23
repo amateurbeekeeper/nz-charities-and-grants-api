@@ -1,0 +1,27 @@
+{
+  "id": 63999,
+  "registrationNumber": "CC43123",
+  "name": "New Zealand Warbirds Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzwarbirds.org.nz",
+  "email": "manager@nzwarbirds.org.nz",
+  "address": {
+    "line1": "75 De Havilland Lane",
+    "line2": "Ardmore 2582",
+    "suburb": " ",
+    "city": "Ardmore",
+    "postcode": "2582"
+  },
+  "nzbn": "9429042690870",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZ-Warbirds-Association-Inc-150073775005366",
+    "twitter": "https://twitter.com/nzwarbirds"
+  },
+  "lastUpdated": "2025-10-24T01:05:59Z"
+}

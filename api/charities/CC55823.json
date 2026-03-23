@@ -1,0 +1,27 @@
+{
+  "id": 69472,
+  "registrationNumber": "CC55823",
+  "name": "Orewa Elevate Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.elevateorewa.org.nz/",
+  "email": "ronel@elevateorewa.org.nz",
+  "address": {
+    "line1": "2-4 Loop Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Orewa",
+    "postcode": "0931"
+  },
+  "nzbn": "9429046726056",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-24T00:22:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 58999,
+  "registrationNumber": "CC39222",
+  "name": "Lloyds Register Asia",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2015-08-04T00:00:00Z",
+  "website": "http://www.lr.org",
+  "email": "horatio.sobczuk@lr.org",
+  "address": {
+    "line1": "Chorus House",
+    "line2": "66 Wyndham Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429035835073",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-11-16T19:20:36Z"
+}

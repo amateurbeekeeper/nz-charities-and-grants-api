@@ -1,0 +1,27 @@
+{
+  "id": 75820,
+  "registrationNumber": "CC62275",
+  "name": "Voice of Christ Full Gospel Grace Church Auckland",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sam@glca.co.nz",
+  "address": {
+    "line1": "23 Clyde Road",
+    "line2": null,
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-05-17T03:19:18Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 77026,
+  "registrationNumber": "CC63028",
+  "name": "Teddy Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teddyfoundation.org.nz",
+  "email": "info@teddyfoundation.org.nz",
+  "address": {
+    "line1": "67 Athol Five Rivers Highway",
+    "line2": "Athol 9793",
+    "suburb": " ",
+    "city": "Athol",
+    "postcode": "9793"
+  },
+  "nzbn": "9429052594052",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/share/18UZPqMLGC/?mibextid=wwXIfr",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-26T21:57:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69680,
+  "registrationNumber": "CC56030",
+  "name": "West Church New Lynn",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://westchurch.co/",
+  "email": "hanli_13@hotmail.com",
+  "address": {
+    "line1": "3063 Great North Road",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/westchurchnewlynn/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-19T05:11:01Z"
+}

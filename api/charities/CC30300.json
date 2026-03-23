@@ -1,0 +1,27 @@
+{
+  "id": 42898,
+  "registrationNumber": "CC30300",
+  "name": "Carterton Playcentre ",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-07-22T00:00:00Z",
+  "website": "http://www.playcentre.org.nz/CompanyProfile?Action=View&CompanyProfile_id=68",
+  "email": "carterton@playcentre.org.nz",
+  "address": {
+    "line1": "188A Belvedere Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Carterton",
+    "postcode": "5713"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cartertonplaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-05T07:10:38Z"
+}

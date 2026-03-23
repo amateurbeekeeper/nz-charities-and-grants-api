@@ -1,0 +1,27 @@
+{
+  "id": 49892,
+  "registrationNumber": "CC31356",
+  "name": "Te Akonga Early Learning Centre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.teakonga.co.nz",
+  "email": "vanessa@teakonga.org.nz",
+  "address": {
+    "line1": "71 Franklin Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429042936503",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/teakonga",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T00:52:22Z"
+}

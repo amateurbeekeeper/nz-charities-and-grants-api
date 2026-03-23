@@ -1,0 +1,27 @@
+{
+  "id": 53554,
+  "registrationNumber": "CC20652",
+  "name": "Victory Community Centre Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.victorycommunity.org.nz/",
+  "email": "tanyanock@gmail.com",
+  "address": {
+    "line1": "2 Totara Street",
+    "line2": " ",
+    "suburb": "Victory",
+    "city": "Nelson",
+    "postcode": "7046"
+  },
+  "nzbn": "9429053070951",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/VictoryCommunityCentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T02:03:43Z"
+}

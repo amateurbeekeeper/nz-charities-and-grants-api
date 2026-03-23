@@ -1,0 +1,27 @@
+{
+  "id": 71881,
+  "registrationNumber": "CC58269",
+  "name": "Launch Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-09-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "andrew@rodgers.net.nz",
+  "address": {
+    "line1": "6 Pope Street",
+    "line2": " ",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-17T20:37:40Z"
+}

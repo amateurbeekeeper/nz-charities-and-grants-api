@@ -1,0 +1,27 @@
+{
+  "id": 55373,
+  "registrationNumber": "CC22932",
+  "name": "Te Runanga O Ngai Te Rangi Iwi Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngaiterangi.org.nz",
+  "email": "venelia@ngaiterangi.org.nz",
+  "address": {
+    "line1": "Te Awa O Tukorako Lane",
+    "line2": "Off Taiaho Place",
+    "suburb": "Mount Maunganui",
+    "city": "Tauranga",
+    "postcode": "3116"
+  },
+  "nzbn": "9429043177943",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T06:05:59Z"
+}

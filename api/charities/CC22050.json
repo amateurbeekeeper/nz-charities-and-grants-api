@@ -1,0 +1,27 @@
+{
+  "id": 55114,
+  "registrationNumber": "CC22050",
+  "name": "Wesley Rugby Football Club Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-03-24T00:00:00Z",
+  "dateDeregistered": "2011-06-13T00:00:00Z",
+  "website": "http://wesleyrugby.org.nz",
+  "email": "chrisb@wesley.school.nz",
+  "address": {
+    "line1": "801 Paerata Road",
+    "line2": "State Highway 22",
+    "suburb": "Paerata",
+    "city": "Auckland",
+    "postcode": "2120"
+  },
+  "nzbn": "9429043169504",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:03:17Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69955,
+  "registrationNumber": "CC56309",
+  "name": "XLR8 Sports Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.xlr8sportstrust.org.nz",
+  "email": "admin@xlr8sportstrust.org.nz",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "6 Sean Fitzpatrick Place",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429046893628",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/XLR8SportsTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:29:52Z"
+}

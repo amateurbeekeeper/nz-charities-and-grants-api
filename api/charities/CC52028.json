@@ -1,0 +1,27 @@
+{
+  "id": 65780,
+  "registrationNumber": "CC52028",
+  "name": "Mornington Presbyterian Church, Dunedin",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.morningtonpres.org.nz",
+  "email": "fergus.sime@xtra.co.nz",
+  "address": {
+    "line1": "445 East Taieri-Allanton Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Mosgiel",
+    "postcode": "9092"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T03:09:51Z"
+}

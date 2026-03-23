@@ -1,0 +1,27 @@
+{
+  "id": 69590,
+  "registrationNumber": "CC55938",
+  "name": "Maurea Marae Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-11-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://maureamarae.com",
+  "email": "maureamaraetreasurer@gmail.com",
+  "address": {
+    "line1": "1206 Te Ohaki Road RD1 Huntly 3771",
+    "line2": "P.O. Box 85 Huntly 3770",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3771"
+  },
+  "nzbn": "9429042945864",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:15:10Z"
+}

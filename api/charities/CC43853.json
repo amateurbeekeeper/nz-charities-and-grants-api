@@ -1,0 +1,27 @@
+{
+  "id": 63256,
+  "registrationNumber": "CC43853",
+  "name": "Whiti Te Ra Marae Maori Reservation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2023-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ngatel.tiuka@yahoo.co.nz",
+  "address": {
+    "line1": "60 Maharahara Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Dannevirke",
+    "postcode": "4972"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T03:07:33Z"
+}

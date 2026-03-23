@@ -1,0 +1,27 @@
+{
+  "id": 54211,
+  "registrationNumber": "CC30116",
+  "name": "Stratford Community Childcare Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stratfordcom.childcare@xtra.co.nz",
+  "address": {
+    "line1": "40 Orlando Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Stratford",
+    "postcode": "4332"
+  },
+  "nzbn": "9429042831914",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T00:07:53Z"
+}

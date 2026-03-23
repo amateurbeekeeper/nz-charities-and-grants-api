@@ -1,0 +1,27 @@
+{
+  "id": 50153,
+  "registrationNumber": "CC43712",
+  "name": "Buller Netball Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.bullernetball.co.nz",
+  "email": "bullernetball@hotmail.co.nz",
+  "address": {
+    "line1": "34 Pakington Street",
+    "line2": "Westport 7825",
+    "suburb": " ",
+    "city": "Westport",
+    "postcode": "7825"
+  },
+  "nzbn": "9429042603450",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BullerNetball/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T01:24:55Z"
+}

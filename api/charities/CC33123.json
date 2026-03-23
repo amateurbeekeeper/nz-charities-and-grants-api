@@ -1,0 +1,27 @@
+{
+  "id": 60077,
+  "registrationNumber": "CC33123",
+  "name": "Te Uri Volunteer Rural Fire Force",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Kelly.ward@fireandemergency.nz",
+  "address": {
+    "line1": "11 Mangapuaka Road",
+    "line2": "RD 3",
+    "suburb": "Te Uri",
+    "city": "Dannevirke",
+    "postcode": "4973"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T22:36:41Z"
+}

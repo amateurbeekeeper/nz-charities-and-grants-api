@@ -1,0 +1,27 @@
+{
+  "id": 32850,
+  "registrationNumber": "CC48692",
+  "name": "Matahuru Papakainga Marae Reservation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "accounts@matahurumarae.org",
+  "address": {
+    "line1": "23 Johnson Road",
+    "line2": " ",
+    "suburb": "Ohinewai",
+    "city": "Huntly",
+    "postcode": "3784"
+  },
+  "nzbn": "9429052673986",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/MatahuruPapakaaingaMarae",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T21:12:45Z"
+}

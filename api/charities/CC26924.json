@@ -1,0 +1,27 @@
+{
+  "id": 58978,
+  "registrationNumber": "CC26924",
+  "name": "Pacific Island Homecare Services Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pacifichomecare.org.nz",
+  "email": "info@pacifichomecare.org.nz",
+  "address": {
+    "line1": "230 Great South Road",
+    "line2": "Hunters Corner",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429042658993",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/PacificHomecare/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:04:47Z"
+}

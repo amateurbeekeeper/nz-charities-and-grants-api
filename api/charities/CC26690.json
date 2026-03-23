@@ -1,0 +1,27 @@
+{
+  "id": 42423,
+  "registrationNumber": "CC26690",
+  "name": "Far North Community Foodbank Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tania@kfbs.co.nz",
+  "address": {
+    "line1": "6 South Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaitaia",
+    "postcode": "0410"
+  },
+  "nzbn": "9429042994787",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-25T01:28:17Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 59806,
+  "registrationNumber": "CC27554",
+  "name": "Fairleigh Kindergarten Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kindergarten.co.nz",
+  "email": "admin.fairleigh@kindergarten.co.nz",
+  "address": {
+    "line1": "27A Garden Road",
+    "line2": " ",
+    "suburb": "Merivale",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429042623670",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T01:29:20Z"
+}

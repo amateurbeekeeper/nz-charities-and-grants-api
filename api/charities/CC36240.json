@@ -1,0 +1,27 @@
+{
+  "id": 63120,
+  "registrationNumber": "CC36240",
+  "name": "Tahunanui Community Hub Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-12-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tahunanui.org",
+  "email": "john@ifigure.co.nz",
+  "address": {
+    "line1": "61 Muritai Street",
+    "line2": " ",
+    "suburb": "Tahunanui",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429042828150",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T19:41:50Z"
+}

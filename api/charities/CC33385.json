@@ -1,0 +1,27 @@
+{
+  "id": 45631,
+  "registrationNumber": "CC33385",
+  "name": "Mornington Toy And Games Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://morningtontoylib.mibase.co.nz/home/index.php",
+  "email": "mtltreasurer38@gmail.com",
+  "address": {
+    "line1": "1 Galloway Street",
+    "line2": "Cnr Galloway & Whitby Sts",
+    "suburb": "Mornington",
+    "city": "Dunedin",
+    "postcode": "9011"
+  },
+  "nzbn": "9429042770879",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MorningtonToyandGamesLibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T09:35:01Z"
+}

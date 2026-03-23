@@ -1,0 +1,27 @@
+{
+  "id": 36500,
+  "registrationNumber": "CC47089",
+  "name": "Refrigerant License Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-06-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rlnz.org.nz",
+  "email": "admin@rlnz.org.nz",
+  "address": {
+    "line1": "217 King Street",
+    "line2": "Pukekohe 2120",
+    "suburb": "Otara",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429043226375",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T23:10:00Z"
+}

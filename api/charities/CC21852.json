@@ -1,0 +1,27 @@
+{
+  "id": 54547,
+  "registrationNumber": "CC21852",
+  "name": "Waipuna Hospice Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waipunafortomorrow.org.nz",
+  "email": "tpreston-lett@kpmg.co.nz",
+  "address": {
+    "line1": "43 Te Puna Station Road",
+    "line2": "RD 6",
+    "suburb": "Te Puna",
+    "city": "Tauranga",
+    "postcode": "3176"
+  },
+  "nzbn": "9429043015542",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:01:55Z"
+}

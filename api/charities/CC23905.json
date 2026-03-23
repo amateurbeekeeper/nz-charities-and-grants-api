@@ -1,0 +1,27 @@
+{
+  "id": 40657,
+  "registrationNumber": "CC23905",
+  "name": "Cancer Society of New Zealand Wairarapa Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cancersoc.org.nz",
+  "email": "Ambera@cancersoc.org.nz",
+  "address": {
+    "line1": "37 Te Ore Ore Road",
+    "line2": " ",
+    "suburb": "Lansdowne",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429042599418",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wairarapacancersociety",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T19:46:34Z"
+}

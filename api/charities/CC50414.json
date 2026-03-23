@@ -1,0 +1,27 @@
+{
+  "id": 33485,
+  "registrationNumber": "CC50414",
+  "name": "Auckland Deaf Christian Fellowship",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2014-03-16T00:00:00Z",
+  "dateDeregistered": "2025-07-17T00:00:00Z",
+  "website": "https://adcfonline.com",
+  "email": "desmondmarett@gmail.com",
+  "address": {
+    "line1": "C/O  Arran Court",
+    "line2": " 85 McLeod Road",
+    "suburb": "Te Atatu South",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-31T07:13:23Z"
+}

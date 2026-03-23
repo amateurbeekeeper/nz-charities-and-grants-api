@@ -1,0 +1,27 @@
+{
+  "id": 43140,
+  "registrationNumber": "CC31680",
+  "name": "Adelaide Early Childhood Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.adelaide.org.nz",
+  "email": "headteacher@adelaide.org.nz",
+  "address": {
+    "line1": "28 Colombo Street",
+    "line2": " ",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043012763",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/adelaideecc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T20:56:44Z"
+}

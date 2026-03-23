@@ -1,0 +1,27 @@
+{
+  "id": 70043,
+  "registrationNumber": "CC56401",
+  "name": "Prisoners Aid & Rehabilitation Service Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-11-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://prisonersaid.co.nz/",
+  "email": "admin@prisonersaid.co.nz",
+  "address": {
+    "line1": "60 Ridgway Street",
+    "line2": "Whanganui 4500",
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T23:47:03Z"
+}

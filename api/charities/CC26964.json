@@ -1,0 +1,27 @@
+{
+  "id": 57145,
+  "registrationNumber": "CC26964",
+  "name": "Norman Kirk Memorial Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.communitymatters.govt.nz",
+  "email": "trust.accounting@dia.govt.nz",
+  "address": {
+    "line1": "45 Pipitea Street",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042687955",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T02:58:12Z"
+}

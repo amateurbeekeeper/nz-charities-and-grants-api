@@ -1,0 +1,27 @@
+{
+  "id": 40705,
+  "registrationNumber": "CC22917",
+  "name": "Human Rights Foundation Of Aotearoa New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.humanrights.co.nz",
+  "email": "bournmaria@gmail.com",
+  "address": {
+    "line1": "Landmark Chambers",
+    "line2": "Level 3 / 23 Victoria St East",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043084920",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/humanrightsnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T06:14:32Z"
+}

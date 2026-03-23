@@ -1,0 +1,27 @@
+{
+  "id": 47837,
+  "registrationNumber": "CC37336",
+  "name": "Sherwood Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "north.playcentre@actrix.gen.nz",
+  "address": {
+    "line1": "11a Edge Street",
+    "line2": " ",
+    "suburb": "Onerahi",
+    "city": "Whangarei",
+    "postcode": "110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:09:53Z"
+}

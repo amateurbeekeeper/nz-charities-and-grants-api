@@ -1,0 +1,27 @@
+{
+  "id": 66976,
+  "registrationNumber": "CC53259",
+  "name": "Community Cat Coalition Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-04-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.catcoalition.org.nz",
+  "email": "secretary@catcoalition.org.nz",
+  "address": {
+    "line1": "PO Box 15903",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0640"
+  },
+  "nzbn": "9429043273874",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Facebook.com/cccauckland",
+    "twitter": "n/a"
+  },
+  "lastUpdated": "2026-03-22T01:57:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65035,
+  "registrationNumber": "CC27435",
+  "name": "Auckland Rarotongan Congregation Of Jehovah's Witnesses",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "simary@xtra.co.nz",
+  "address": {
+    "line1": "9 Ira Street",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T03:32:07Z"
+}

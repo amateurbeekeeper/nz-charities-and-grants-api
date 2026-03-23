@@ -1,0 +1,27 @@
+{
+  "id": 39108,
+  "registrationNumber": "CC28452",
+  "name": "Tane's Tree Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tanestrees.org.nz",
+  "email": "mel@tanestrees.org.nz",
+  "address": {
+    "line1": "178 St James Drive",
+    "line2": " ",
+    "suburb": "Huntington",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429043001576",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Tanes-Tree-Trust-519939341550702/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T21:43:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 59698,
+  "registrationNumber": "CC27380",
+  "name": "Phoenix Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.phoenixtheatre.co.nz",
+  "email": "dalee@orcon.net.nz",
+  "address": {
+    "line1": "13 Woodcote Drive",
+    "line2": " ",
+    "suburb": "Glenfield",
+    "city": "Auckland",
+    "postcode": "0629"
+  },
+  "nzbn": "9429042972075",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-12T01:34:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37219,
+  "registrationNumber": "CC47722",
+  "name": "CareVets Charitable Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-02-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.carevets.co.nz",
+  "email": "keith@carevets.co.nz",
+  "address": {
+    "line1": "1043 River Road",
+    "line2": " ",
+    "suburb": "Queenwood",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429043235919",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T05:00:55Z"
+}

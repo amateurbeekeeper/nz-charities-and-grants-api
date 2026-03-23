@@ -1,0 +1,27 @@
+{
+  "id": 75518,
+  "registrationNumber": "CC61964",
+  "name": "South Island Baptist Church Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "warren.bale@maincom.net",
+  "address": {
+    "line1": "17 Kaikainui Lane",
+    "line2": " ",
+    "suburb": "Northwood",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429051447649",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T18:15:01Z"
+}

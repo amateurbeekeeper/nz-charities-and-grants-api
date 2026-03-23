@@ -1,0 +1,27 @@
+{
+  "id": 45026,
+  "registrationNumber": "CC32794",
+  "name": "Dress For Success Wellington Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.yesforsuccess.org.nz",
+  "email": "accounts@wellingtondressforsuccess.org",
+  "address": {
+    "line1": "90 The Terrace",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042995159",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/yesforsuccessnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T21:13:42Z"
+}

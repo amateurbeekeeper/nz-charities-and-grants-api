@@ -1,0 +1,27 @@
+{
+  "id": 53196,
+  "registrationNumber": "CC11320",
+  "name": "Supergrans Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.supergranaotearoa.org.nz",
+  "email": "chris.martin@supergran.org.nz",
+  "address": {
+    "line1": "92 Queens Drive",
+    "line2": " ",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429042946908",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SuperGrans ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:28:34Z"
+}

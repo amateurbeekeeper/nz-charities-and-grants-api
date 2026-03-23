@@ -1,0 +1,27 @@
+{
+  "id": 68732,
+  "registrationNumber": "CC55076",
+  "name": "The Better NZ Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://betternz.org, http://leadingthecharge.org.nz",
+  "email": "sean@betternz.org",
+  "address": {
+    "line1": "69A Glenmore Road",
+    "line2": "RD 3",
+    "suburb": "Coatesville",
+    "city": "Albany",
+    "postcode": "0793"
+  },
+  "nzbn": "9429043290857",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LeadingTheCharge/",
+    "twitter": "https://twitter.com/LTCBetterNZ"
+  },
+  "lastUpdated": "2025-09-16T02:45:27Z"
+}

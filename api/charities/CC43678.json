@@ -1,0 +1,27 @@
+{
+  "id": 50144,
+  "registrationNumber": "CC43678",
+  "name": "St John NZ Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stjohn.org.nz",
+  "email": "julie.seddon@stjohn.org.nz",
+  "address": {
+    "line1": "St John Ambulance Headquarters",
+    "line2": "2 Harrison Road",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429031730631",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T23:24:56Z"
+}

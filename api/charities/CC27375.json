@@ -1,0 +1,27 @@
+{
+  "id": 59687,
+  "registrationNumber": "CC27375",
+  "name": "Kirikiriroa Family Services Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kfst.org.nz",
+  "email": "DemiM@kfst.org.nz",
+  "address": {
+    "line1": "115 Rostrevor Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042962007",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Kirikiriroa Family Services Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T22:57:47Z"
+}

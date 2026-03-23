@@ -1,0 +1,27 @@
+{
+  "id": 42217,
+  "registrationNumber": "CC31389",
+  "name": "New Zealand Olympic Committee Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.olympic.org.nz",
+  "email": "azhar@olympic.org.nz",
+  "address": {
+    "line1": "12 Churton Street",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429042710820",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T05:46:41Z"
+}

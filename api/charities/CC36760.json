@@ -1,0 +1,27 @@
+{
+  "id": 63169,
+  "registrationNumber": "CC36760",
+  "name": "NZRS LTD",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-08-19T00:00:00Z",
+  "dateDeregistered": "2022-11-30T00:00:00Z",
+  "website": "https://registry.internetnz.nz/",
+  "email": "mary@internetnz.net.nz",
+  "address": {
+    "line1": "Level 13",
+    "line2": "18 Willis Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429036603114",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T04:35:05Z"
+}

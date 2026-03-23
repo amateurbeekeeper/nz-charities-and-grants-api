@@ -1,0 +1,27 @@
+{
+  "id": 44051,
+  "registrationNumber": "CC38439",
+  "name": "Huimai Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "huimai@playcentre.org.nz",
+  "address": {
+    "line1": "32 Seifert Road",
+    "line2": "RD 5",
+    "suburb": "Tauhei",
+    "city": "Morrinsville",
+    "postcode": "3375"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:06:28Z"
+}

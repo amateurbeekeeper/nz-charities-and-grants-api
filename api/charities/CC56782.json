@@ -1,0 +1,27 @@
+{
+  "id": 70419,
+  "registrationNumber": "CC56782",
+  "name": "The North Harbour B.M.X Association Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nhbmx.org.nz",
+  "email": "enquiries@nhbmx.org.nz",
+  "address": {
+    "line1": "1 Hooten Place",
+    "line2": " ",
+    "suburb": "Oteha",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NHBMX",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-02T19:42:55Z"
+}

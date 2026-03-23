@@ -1,0 +1,27 @@
+{
+  "id": 34271,
+  "registrationNumber": "CC50724",
+  "name": "Waiheke Community Pool Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waihekepool.co.nz",
+  "email": "nathanm@pfpltd.co.nz",
+  "address": {
+    "line1": "39 View Road",
+    "line2": null,
+    "suburb": "Ostend",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429043256846",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WaihekeCommunitySwimmingPool/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:35:14Z"
+}

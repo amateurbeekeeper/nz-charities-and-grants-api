@@ -1,0 +1,27 @@
+{
+  "id": 38462,
+  "registrationNumber": "CC47241",
+  "name": "The Royal New Zealand Ballet Foundation Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-01-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://balletfoundation.org.nz/",
+  "email": "trustees@balletfoundation.org.nz",
+  "address": {
+    "line1": "77 - 83 Courtenay Place",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042876236",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-03T19:20:54Z"
+}

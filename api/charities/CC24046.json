@@ -1,0 +1,27 @@
+{
+  "id": 40427,
+  "registrationNumber": "CC24046",
+  "name": "AttainAble Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.attainabletrust.org.nz",
+  "email": "murray@attainabletrust.org.nz",
+  "address": {
+    "line1": "5 Smales Road",
+    "line2": " ",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429042587729",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AttainableTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T18:15:38Z"
+}

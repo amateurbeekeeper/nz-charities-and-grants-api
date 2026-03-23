@@ -1,0 +1,27 @@
+{
+  "id": 51659,
+  "registrationNumber": "CC20178",
+  "name": "Haven Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.havenavondale.org.nz",
+  "email": "office@havenavondale.org.nz",
+  "address": {
+    "line1": "1855 Great North Road",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429042658405",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HavenAvondale/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-17T19:13:27Z"
+}

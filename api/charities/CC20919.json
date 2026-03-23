@@ -1,0 +1,27 @@
+{
+  "id": 53574,
+  "registrationNumber": "CC20919",
+  "name": "Central Cinema Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "centralcinema.co.nz",
+  "email": "tracey@spiceilings.co.nz",
+  "address": {
+    "line1": "21 Centennial Avenue",
+    "line2": "Alexandra 9320",
+    "suburb": " ",
+    "city": "Alexandra",
+    "postcode": "9320"
+  },
+  "nzbn": "9429043053094",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-03T19:19:37Z"
+}

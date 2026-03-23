@@ -1,0 +1,27 @@
+{
+  "id": 42240,
+  "registrationNumber": "CC34405",
+  "name": "The Victoria League In Auckland Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2016-06-08T00:00:00Z",
+  "website": null,
+  "email": null,
+  "address": {
+    "line1": "43 Whytehead Crescent",
+    "line2": null,
+    "suburb": "St Heliers",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429042886938",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-05-14T18:42:11Z"
+}

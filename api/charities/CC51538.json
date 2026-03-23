@@ -1,0 +1,27 @@
+{
+  "id": 65313,
+  "registrationNumber": "CC51538",
+  "name": "The Learning Collaborative Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-03-11T00:00:00Z",
+  "dateDeregistered": "2020-02-29T00:00:00Z",
+  "website": "www.thelearningcollaborative.org.nz",
+  "email": "admin@thelearningcollaborative.org",
+  "address": {
+    "line1": "33 Harley Road",
+    "line2": null,
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429041594292",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-03-07T06:00:40Z"
+}

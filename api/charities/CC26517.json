@@ -1,0 +1,27 @@
+{
+  "id": 41479,
+  "registrationNumber": "CC26517",
+  "name": "The Operating Theatre Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-24T00:00:00Z",
+  "dateDeregistered": "2025-10-08T00:00:00Z",
+  "website": "http://www.timbray.org.nz",
+  "email": "rosemarytisdall@me.com",
+  "address": {
+    "line1": "STUDIO 14   LAKE HOUSE ARTS CENTRE",
+    "line2": "37 Fred Thomas Drive",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429042867647",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TimBrayTheatreCo/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T06:04:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44526,
+  "registrationNumber": "CC34519",
+  "name": "St Hildas Collegiate School Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.shcs.school.nz",
+  "email": "businessmanager@shcs.school.nz",
+  "address": {
+    "line1": "2 Cobden Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042826224",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:16:33Z"
+}

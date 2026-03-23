@@ -1,0 +1,27 @@
+{
+  "id": 43474,
+  "registrationNumber": "CC30815",
+  "name": "Totara Park Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "totarapark@playcentre.org.nz",
+  "address": {
+    "line1": "128 California Drive",
+    "line2": " ",
+    "suburb": "Totara Park",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T07:23:03Z"
+}

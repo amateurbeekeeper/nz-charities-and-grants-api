@@ -1,0 +1,27 @@
+{
+  "id": 70378,
+  "registrationNumber": "CC56741",
+  "name": "Pacific Pathology Training Centre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pptc.org.nz",
+  "email": "accounts@pptc.org.nz",
+  "address": {
+    "line1": "Hospital Road, Top End Car Park",
+    "line2": "Wellington Hospital",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6242"
+  },
+  "nzbn": "9429047450790",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:42:39Z"
+}

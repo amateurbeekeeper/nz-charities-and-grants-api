@@ -1,0 +1,27 @@
+{
+  "id": 74126,
+  "registrationNumber": "CC60541",
+  "name": "Saint Kentigern Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "richard.moore@saintkentigern.com",
+  "address": {
+    "line1": "130 Pakuranga Road",
+    "line2": " ",
+    "suburb": "Pakuranga",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:15:05Z"
+}

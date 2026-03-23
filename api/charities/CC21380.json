@@ -1,0 +1,27 @@
+{
+  "id": 54834,
+  "registrationNumber": "CC21380",
+  "name": "Springboard Community Works",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://springboard.org.nz",
+  "email": "accounts@springboard.org.nz",
+  "address": {
+    "line1": "324 State Highway 1",
+    "line2": "Dome Valley 0981",
+    "suburb": " ",
+    "city": "Dome Valley",
+    "postcode": "0981"
+  },
+  "nzbn": "9429043141074",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:43:43Z"
+}

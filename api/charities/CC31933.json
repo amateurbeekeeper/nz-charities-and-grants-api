@@ -1,0 +1,27 @@
+{
+  "id": 43396,
+  "registrationNumber": "CC31933",
+  "name": "Recovery Solutions Services Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.emergeaotearoa.org.nz/",
+  "email": "john.cook@emergeaotearoa.org.nz",
+  "address": {
+    "line1": "Unit 5",
+    "line2": "17 Lambie Drive",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429032744828",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-06T22:39:50Z"
+}

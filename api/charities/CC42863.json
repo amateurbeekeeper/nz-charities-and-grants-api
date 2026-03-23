@@ -1,0 +1,27 @@
+{
+  "id": 47059,
+  "registrationNumber": "CC42863",
+  "name": "Canterbury Homebirth Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.canterburyhomebirth.org.nz",
+  "email": "info@canterburyhomebirth.org.nz",
+  "address": {
+    "line1": "156 Pages Road",
+    "line2": " ",
+    "suburb": "Wainoni",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429043196951",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/CanterburyHomebirthAssociation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-28T01:49:30Z"
+}

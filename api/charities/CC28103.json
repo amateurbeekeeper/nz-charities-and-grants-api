@@ -1,0 +1,27 @@
+{
+  "id": 56303,
+  "registrationNumber": "CC28103",
+  "name": "Christian Fellowship Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gateways.org.nz",
+  "email": "office@gcf.org.nz",
+  "address": {
+    "line1": "174 - 178 Church Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429042611226",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Gateways Christian Fellowship",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:14:30Z"
+}

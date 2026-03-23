@@ -1,0 +1,27 @@
+{
+  "id": 68097,
+  "registrationNumber": "CC54421",
+  "name": "Ignite Harvest Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mwashitakennedy@gmail.com",
+  "address": {
+    "line1": "6 Goodland Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rolleston",
+    "postcode": "7614"
+  },
+  "nzbn": "1234567891011",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ignite Harvest Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-23T23:37:52Z"
+}

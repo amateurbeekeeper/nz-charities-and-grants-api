@@ -1,0 +1,27 @@
+{
+  "id": 64608,
+  "registrationNumber": "CC42322",
+  "name": "Ngati Te Roro o Te Rangi Hapu Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "accountant@gha.co.nz",
+  "address": {
+    "line1": "1108 Fenton Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T22:55:43Z"
+}

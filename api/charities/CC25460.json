@@ -1,0 +1,27 @@
+{
+  "id": 52504,
+  "registrationNumber": "CC25460",
+  "name": "Changepoint Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.changepoint.co.nz",
+  "email": "accounts@changepoint.co.nz",
+  "address": {
+    "line1": "2 Corwen Avenue",
+    "line2": " ",
+    "suburb": "Hairini",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042959915",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-19T19:25:41Z"
+}

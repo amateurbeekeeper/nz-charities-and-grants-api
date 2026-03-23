@@ -1,0 +1,27 @@
+{
+  "id": 42063,
+  "registrationNumber": "CC25940",
+  "name": "Arahura Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.arahura.org.nz",
+  "email": "gm@arahura.org.nz",
+  "address": {
+    "line1": "1 Pearce Street",
+    "line2": "Ponsonby",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042937623",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T22:20:00Z"
+}

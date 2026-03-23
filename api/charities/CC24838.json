@@ -1,0 +1,27 @@
+{
+  "id": 42282,
+  "registrationNumber": "CC24838",
+  "name": "Gospel Training Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.gtt.nz",
+  "email": "info@gtt.nz",
+  "address": {
+    "line1": "196 Colombo Street",
+    "line2": " ",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429043143412",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-13T22:20:38Z"
+}

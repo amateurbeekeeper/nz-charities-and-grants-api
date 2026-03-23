@@ -1,0 +1,27 @@
+{
+  "id": 49402,
+  "registrationNumber": "CC31075",
+  "name": "Nelson International Church Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nelsoninternationalchurch.nz/",
+  "email": "rev.david@kinect.co.nz",
+  "address": {
+    "line1": "8 Lincoln Street",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429043217809",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Nelson-International-Church-2231764053758689",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T20:00:39Z"
+}

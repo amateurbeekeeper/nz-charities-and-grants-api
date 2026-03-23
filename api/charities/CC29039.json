@@ -1,0 +1,27 @@
+{
+  "id": 56344,
+  "registrationNumber": "CC29039",
+  "name": "Destiny Church Auckland Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2022-02-15T00:00:00Z",
+  "website": "http://www.destinychurch.org.nz",
+  "email": "jenny@destinychurch.org.nz",
+  "address": {
+    "line1": "25 Druces Road",
+    "line2": " ",
+    "suburb": "Wiri",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042958208",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/DestinyChurchNZ/?ref=br_rs",
+    "twitter": "https://twitter.com/DestinyChurchNZ"
+  },
+  "lastUpdated": "2022-03-31T20:04:23Z"
+}

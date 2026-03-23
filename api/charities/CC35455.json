@@ -1,0 +1,27 @@
+{
+  "id": 43492,
+  "registrationNumber": "CC35455",
+  "name": "Saint Thomas's School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david.hartley.nz@gmail.com",
+  "address": {
+    "line1": "Cnr Allum And Kohimarama Road",
+    "line2": " ",
+    "suburb": "Kohimarama",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/StThomasSchoolPTA",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-15T21:33:18Z"
+}

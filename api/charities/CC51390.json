@@ -1,0 +1,27 @@
+{
+  "id": 34820,
+  "registrationNumber": "CC51390",
+  "name": "Ocean Grove Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lenorehafermann@gmail.com",
+  "address": {
+    "line1": "26 Oregon Street",
+    "line2": " ",
+    "suburb": "Ocean Grove",
+    "city": "Dunedin",
+    "postcode": "9013"
+  },
+  "nzbn": "9429043275380",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TomahawkCommunityGarden/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T21:00:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39706,
+  "registrationNumber": "CC22813",
+  "name": "Rossgrove Chapel",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "katie@diversesolutions.co.nz",
+  "address": {
+    "line1": "12 Rossgrove Terrace",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T00:46:11Z"
+}

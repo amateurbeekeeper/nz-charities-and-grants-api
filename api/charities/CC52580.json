@@ -1,0 +1,27 @@
+{
+  "id": 66315,
+  "registrationNumber": "CC52580",
+  "name": "Cornerstone Christian Fellowship Assembly of God",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "makaafi@live.com",
+  "address": {
+    "line1": "53 Ranfurly Road",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043282326",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/cornerstoneagnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T03:48:06Z"
+}

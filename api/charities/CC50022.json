@@ -1,0 +1,27 @@
+{
+  "id": 34981,
+  "registrationNumber": "CC50022",
+  "name": "Paekakariki Informed Community Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-11-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.paekakariki.nz",
+  "email": "harasroberts@gmail.com",
+  "address": {
+    "line1": "14 Tilley Road",
+    "line2": "Paekakariki 5034",
+    "suburb": "Wellington",
+    "city": "Paekakariki",
+    "postcode": "5034"
+  },
+  "nzbn": "9429043000609",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T18:52:14Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53992,
+  "registrationNumber": "CC24752",
+  "name": "Friends of Baycourt Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": "2025-04-30T00:00:00Z",
+  "website": "https://www.baycourt.co.nz/friends",
+  "email": "friendsofbaycourt@gmail.com",
+  "address": {
+    "line1": "38 Durham Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043026555",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T06:03:08Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71643,
+  "registrationNumber": "CC58021",
+  "name": "Huarahi Tupu Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "evolvingpathways.co.nz",
+  "email": "stephen@evolvingpathways.co.nz",
+  "address": {
+    "line1": "Suite 1",
+    "line2": "415 Dominion Road",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429047833920",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "@huarahi_tupu"
+  },
+  "lastUpdated": "2026-02-19T21:03:57Z"
+}

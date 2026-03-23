@@ -1,0 +1,27 @@
+{
+  "id": 66023,
+  "registrationNumber": "CC52293",
+  "name": "Wellington Improvisation Troupe Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://wit.org.nz",
+  "email": "coordinator@wit.org.nz",
+  "address": {
+    "line1": "50 Kano Street",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043106134",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/WITonline",
+    "twitter": "https://twitter.com/WITonline"
+  },
+  "lastUpdated": "2026-02-20T02:27:32Z"
+}

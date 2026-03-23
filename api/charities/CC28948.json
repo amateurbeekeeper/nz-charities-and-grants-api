@@ -1,0 +1,27 @@
+{
+  "id": 54753,
+  "registrationNumber": "CC28948",
+  "name": "Southern Cross Hospitals Radiotherapy Partnership Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://healthcare.southerncross.co.nz/",
+  "email": "healthcaresecretariat@schl.co.nz",
+  "address": {
+    "line1": "Level 14, ANZ Centre",
+    "line2": "23-29 Albert Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429033166377",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-12T03:00:11Z"
+}

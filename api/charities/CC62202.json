@@ -1,0 +1,27 @@
+{
+  "id": 75752,
+  "registrationNumber": "CC62202",
+  "name": "Kahu Conservation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://Kahuconservation.com",
+  "email": "Kahuconservation@gmail.com",
+  "address": {
+    "line1": "25 Berridge Road",
+    "line2": "RD 1",
+    "suburb": "Muriwai",
+    "city": "Waimauku",
+    "postcode": "0881"
+  },
+  "nzbn": "9429051065713",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Kahu Conservation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T21:28:33Z"
+}

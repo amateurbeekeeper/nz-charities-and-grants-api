@@ -1,0 +1,27 @@
+{
+  "id": 67316,
+  "registrationNumber": "CC53603",
+  "name": "Trade School Industries Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tradeschoolindustries.org",
+  "email": "nic@tradeschoolindustries.org",
+  "address": {
+    "line1": "18 Eccleston Hill",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043307111",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tradeschoolindustries",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:34:29Z"
+}

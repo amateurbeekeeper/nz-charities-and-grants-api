@@ -1,0 +1,27 @@
+{
+  "id": 52545,
+  "registrationNumber": "CC10834",
+  "name": "Taupo Bird Rescue",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "judismithemail@gmail.com",
+  "address": {
+    "line1": "58 Ngauruhoe Street",
+    "line2": " ",
+    "suburb": "Hilltop",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429042999522",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-20T03:15:57Z"
+}

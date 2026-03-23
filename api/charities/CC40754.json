@@ -1,0 +1,27 @@
+{
+  "id": 61551,
+  "registrationNumber": "CC40754",
+  "name": "New Zealand Epoch Times Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://epochtimesnz@xtra.co.nz",
+  "email": "kerry.gore@kglaw.co.nz",
+  "address": {
+    "line1": "690 Great South Road",
+    "line2": " ",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429033774169",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T18:31:59Z"
+}

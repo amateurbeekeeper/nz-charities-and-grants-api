@@ -1,0 +1,27 @@
+{
+  "id": 60237,
+  "registrationNumber": "CC35017",
+  "name": "Amma New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.amma.org.nz",
+  "email": "ammanewzealand@amma.org.nz",
+  "address": {
+    "line1": "PO Box 49072",
+    "line2": "Mount Roskill South",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1445"
+  },
+  "nzbn": "9429043162116",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/amma.org.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-06T20:57:33Z"
+}

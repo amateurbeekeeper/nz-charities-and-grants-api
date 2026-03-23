@@ -1,0 +1,27 @@
+{
+  "id": 40415,
+  "registrationNumber": "CC30928",
+  "name": "Auckland Student Movement At Auckland University Of Technology Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.autsa.org.nz",
+  "email": "jo-hill.ismail@autsa.org.nz",
+  "address": {
+    "line1": "PO Box 6116",
+    "line2": "Victoria Street West",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1142"
+  },
+  "nzbn": "9429042590644",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AUTStudentAssociation/",
+    "twitter": "https://twitter.com/AUTSANZ"
+  },
+  "lastUpdated": "2026-03-03T23:34:14Z"
+}

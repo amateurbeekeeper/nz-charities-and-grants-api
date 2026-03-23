@@ -1,0 +1,27 @@
+{
+  "id": 71180,
+  "registrationNumber": "CC57552",
+  "name": "New Zealand Alpine Lavender Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzalpinelavender.com",
+  "email": "info@georgeormond.com",
+  "address": {
+    "line1": "657 Mount Cook Highway",
+    "line2": null,
+    "suburb": " ",
+    "city": "Twizel",
+    "postcode": "7944"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZ-Alpine-Lavender-1025261877487098/",
+    "twitter": "https://twitter.com/Alpine_Lavender"
+  },
+  "lastUpdated": "2025-10-05T04:04:22Z"
+}

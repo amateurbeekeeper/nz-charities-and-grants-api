@@ -1,0 +1,27 @@
+{
+  "id": 55952,
+  "registrationNumber": "CC24770",
+  "name": "City Blessings Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": "2015-05-21T00:00:00Z",
+  "website": "http://www.cityblessings.org",
+  "email": "timothy.teng@cwc-nz.org",
+  "address": {
+    "line1": "20 Norman Spencer Drive",
+    "line2": null,
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:21:58Z"
+}

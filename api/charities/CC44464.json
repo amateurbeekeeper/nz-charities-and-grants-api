@@ -1,0 +1,27 @@
+{
+  "id": 50635,
+  "registrationNumber": "CC44464",
+  "name": "The Trinity Group Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-06-20T00:00:00Z",
+  "dateDeregistered": "2018-03-25T00:00:00Z",
+  "website": "http://trinity.org.nz",
+  "email": "don@tamihere.com",
+  "address": {
+    "line1": "42 Alice Street",
+    "line2": null,
+    "suburb": "Outer Kaiti",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-04-09T18:52:03Z"
+}

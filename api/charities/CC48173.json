@@ -1,0 +1,27 @@
+{
+  "id": 37736,
+  "registrationNumber": "CC48173",
+  "name": "Mike Brown Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "funding@publictrust.co.nz",
+  "address": {
+    "line1": "Public Trust Tower",
+    "line2": "Level 2",
+    "suburb": "22 Willeston Street",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T22:39:43Z"
+}

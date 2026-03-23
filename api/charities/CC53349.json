@@ -1,0 +1,27 @@
+{
+  "id": 67065,
+  "registrationNumber": "CC53349",
+  "name": "Benevolo Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "delwyn.shaw@gmail.com",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "41 Aurora Terrace",
+    "suburb": "Kelburn",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043291748",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-07T19:20:10Z"
+}

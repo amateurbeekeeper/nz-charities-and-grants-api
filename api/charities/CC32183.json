@@ -1,0 +1,27 @@
+{
+  "id": 60011,
+  "registrationNumber": "CC32183",
+  "name": "West Coast Hockey Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sporty.co.nz/westcoasthockey",
+  "email": "flojo@xtra.co.nz",
+  "address": {
+    "line1": "c/o Westurf Stadium",
+    "line2": " Shakespeare Street ",
+    "suburb": "Greymouth",
+    "city": "Greymouth ",
+    "postcode": "7801"
+  },
+  "nzbn": "9429043113972",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "west coast hockey association greymouth",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T01:58:31Z"
+}

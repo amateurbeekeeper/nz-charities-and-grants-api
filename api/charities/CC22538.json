@@ -1,0 +1,27 @@
+{
+  "id": 55806,
+  "registrationNumber": "CC22538",
+  "name": "Christchurch Chinese Abundant Life Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2022-07-14T00:00:00Z",
+  "dateDeregistered": "2021-10-06T00:00:00Z",
+  "website": "http://www.nzalc.org",
+  "email": "james.wong@waimairimedical.co.nz",
+  "address": {
+    "line1": "182 The Runway",
+    "line2": " ",
+    "suburb": "Wigram",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429043134489",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-07T22:45:43Z"
+}

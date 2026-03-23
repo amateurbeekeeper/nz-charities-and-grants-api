@@ -1,0 +1,27 @@
+{
+  "id": 53974,
+  "registrationNumber": "CC20649",
+  "name": "Northcote Point Community Creche Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.northcotecreche.org.nz",
+  "email": "hello@northcotecreche.org.nz",
+  "address": {
+    "line1": "152 Queen Street",
+    "line2": " ",
+    "suburb": "Northcote Point",
+    "city": "Auckland",
+    "postcode": "627"
+  },
+  "nzbn": "9429042672869",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NorthcotePointCommunityCreche/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T23:29:28Z"
+}

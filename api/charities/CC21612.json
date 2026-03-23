@@ -1,0 +1,27 @@
+{
+  "id": 55750,
+  "registrationNumber": "CC21612",
+  "name": "New Zealand Disaster Assistance Response Team",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-03-05T00:00:00Z",
+  "dateDeregistered": "2010-11-10T00:00:00Z",
+  "website": "http://www.nzdart.org.nz",
+  "email": "chris@c4group.co.nz",
+  "address": {
+    "line1": "179 Cook Street",
+    "line2": null,
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:00:12Z"
+}

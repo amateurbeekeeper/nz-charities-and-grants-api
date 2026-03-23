@@ -1,0 +1,27 @@
+{
+  "id": 65975,
+  "registrationNumber": "CC52236",
+  "name": "The Well Property Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://thewellnz.org",
+  "email": "accounts@thewellnz.org",
+  "address": {
+    "line1": "7 Waverley Street",
+    "line2": " ",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429043295593",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T21:18:56Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63983,
+  "registrationNumber": "CC43549",
+  "name": "Cheviot Community Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kirsten@dgsaccounting.co.nz",
+  "address": {
+    "line1": "6 Robinson Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cheviot",
+    "postcode": "7310"
+  },
+  "nzbn": "9429042607571",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T18:12:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34072,
+  "registrationNumber": "CC50350",
+  "name": "Ako Hiko Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.akohiko.org",
+  "email": "priya.patel@akohiko.org",
+  "address": {
+    "line1": "504 Richardson Road",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429043279449",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/akohiko",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:39:20Z"
+}

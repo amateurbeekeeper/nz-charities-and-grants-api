@@ -1,0 +1,27 @@
+{
+  "id": 55308,
+  "registrationNumber": "CC22875",
+  "name": "Lopdell Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lopdellprecinct.org.nz",
+  "email": "emmyseccombe@gmail.com",
+  "address": {
+    "line1": "418 Titirangi Road",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429043221011",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-16T03:42:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34430,
+  "registrationNumber": "CC50866",
+  "name": "Te Ao Marama The New Zealand Maori Dental Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teaomarama.org.nz",
+  "email": "nzteaomarama@gmail.com",
+  "address": {
+    "line1": "13 Tawhara Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Edgecumbe",
+    "postcode": "3120"
+  },
+  "nzbn": "9429043049974",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/teaomaramanz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T00:35:14Z"
+}

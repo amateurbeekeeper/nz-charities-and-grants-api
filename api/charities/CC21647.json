@@ -1,0 +1,27 @@
+{
+  "id": 54600,
+  "registrationNumber": "CC21647",
+  "name": "Tauranga Central Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tcbc.org.nz",
+  "email": "accounts@tcbc.org.nz",
+  "address": {
+    "line1": "640 Cameron Road",
+    "line2": " ",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T06:06:58Z"
+}

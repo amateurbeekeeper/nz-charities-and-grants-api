@@ -1,0 +1,27 @@
+{
+  "id": 65604,
+  "registrationNumber": "CC51847",
+  "name": "The Lalaga Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.lalaga.org.nz",
+  "email": "glen.tuala@lalaga.org.nz",
+  "address": {
+    "line1": "PO Box 18424",
+    "line2": " ",
+    "suburb": "Glenn Innes",
+    "city": "Auckland",
+    "postcode": "1743"
+  },
+  "nzbn": "9429043284269",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/LalagaPasifika/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-11-14T21:05:51Z"
+}

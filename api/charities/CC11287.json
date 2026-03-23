@@ -1,0 +1,27 @@
+{
+  "id": 52608,
+  "registrationNumber": "CC11287",
+  "name": "Liberty Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.libertytrust.org.nz",
+  "email": "admin@libertytrust.org.nz",
+  "address": {
+    "line1": "65 Wairaka Road",
+    "line2": "Whakatane 3120",
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429042656272",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/libertytrust",
+    "twitter": "www.twitter.com/libertytrustnz"
+  },
+  "lastUpdated": "2026-01-20T06:06:57Z"
+}

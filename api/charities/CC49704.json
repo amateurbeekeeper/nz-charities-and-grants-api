@@ -1,0 +1,27 @@
+{
+  "id": 33155,
+  "registrationNumber": "CC49704",
+  "name": "Assist NZ Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-08-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ollie@brycetraffic.co.nz",
+  "address": {
+    "line1": "38A Alford Street",
+    "line2": " ",
+    "suburb": "Waterview",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429043317431",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T00:01:05Z"
+}

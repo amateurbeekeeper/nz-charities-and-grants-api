@@ -1,0 +1,27 @@
+{
+  "id": 47830,
+  "registrationNumber": "CC36789",
+  "name": "Medbury School Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.medbury.school.nz",
+  "email": "john.mander@medbury.school.nz",
+  "address": {
+    "line1": "109 Clyde Road",
+    "line2": " ",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042747369",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T02:37:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55151,
+  "registrationNumber": "CC27974",
+  "name": "Hamilton Christmas Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hamiltonchristmas.co.nz",
+  "email": "treasurer@hamiltonchristmas.co.nz",
+  "address": {
+    "line1": "281 Benson Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Awamutu",
+    "postcode": "3800"
+  },
+  "nzbn": "9429043102631",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T06:57:27Z"
+}

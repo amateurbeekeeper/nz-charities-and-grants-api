@@ -1,0 +1,27 @@
+{
+  "id": 72072,
+  "registrationNumber": "CC58457",
+  "name": "Epic Sports Project NZ Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.epicsportsproject.com",
+  "email": "bernadine@epicsportsproject.com",
+  "address": {
+    "line1": "44 Mandeville Street",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429048929745",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheEpicSportsProject",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T23:49:01Z"
+}

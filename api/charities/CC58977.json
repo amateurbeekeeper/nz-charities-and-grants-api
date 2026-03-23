@@ -1,0 +1,27 @@
+{
+  "id": 72590,
+  "registrationNumber": "CC58977",
+  "name": "The Food Basket Central Hawkes' Bay",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "manager@thefoodbasketchb.com",
+  "address": {
+    "line1": "4 Kitchener Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waipukurau",
+    "postcode": "4200"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheFoodBasketCHB",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T01:46:47Z"
+}

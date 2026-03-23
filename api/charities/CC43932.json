@@ -1,0 +1,27 @@
+{
+  "id": 62690,
+  "registrationNumber": "CC43932",
+  "name": "Pohutukawa Coast Bike Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pcbc.co.nz",
+  "email": "callumw@adhb.govt.nz",
+  "address": {
+    "line1": "45 Maraetai Heights Road",
+    "line2": " ",
+    "suburb": "Maraetai",
+    "city": "Auckland",
+    "postcode": "2018"
+  },
+  "nzbn": "9429043203130",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:06:15Z"
+}

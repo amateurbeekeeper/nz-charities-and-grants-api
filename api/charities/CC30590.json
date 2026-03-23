@@ -1,0 +1,27 @@
+{
+  "id": 55324,
+  "registrationNumber": "CC30590",
+  "name": "Waiheke Budgeting Services Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.waihekebudgeting.org.nz",
+  "email": "janet@vincentaccounting.co.nz",
+  "address": {
+    "line1": "6 Putiki Road",
+    "line2": " ",
+    "suburb": "Ostend",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429042948575",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waihekebudgeting",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T23:20:43Z"
+}

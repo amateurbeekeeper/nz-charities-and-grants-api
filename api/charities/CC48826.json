@@ -1,0 +1,27 @@
+{
+  "id": 32806,
+  "registrationNumber": "CC48826",
+  "name": "The Whau River Catchment Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-02-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whauriver.org.nz",
+  "email": "gilbert@whauriver.org.nz",
+  "address": {
+    "line1": "36 Rathlin Street",
+    "line2": " ",
+    "suburb": "Blockhouse Bay",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429043318308",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whaurivercatchment",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:15Z"
+}

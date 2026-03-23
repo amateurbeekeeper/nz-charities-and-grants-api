@@ -1,0 +1,27 @@
+{
+  "id": 52005,
+  "registrationNumber": "CC20349",
+  "name": "The Northart Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.northartgallery.net",
+  "email": "david@northart.co.nz",
+  "address": {
+    "line1": "Northart Gallery",
+    "line2": "Ernie May's Street",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429042939641",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/northartgallery",
+    "twitter": "@Northartnz"
+  },
+  "lastUpdated": "2026-01-28T20:42:52Z"
+}

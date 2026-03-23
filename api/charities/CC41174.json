@@ -1,0 +1,27 @@
+{
+  "id": 63518,
+  "registrationNumber": "CC41174",
+  "name": "St Gerard's School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stgerards.school.nz",
+  "email": "office@stgerards.school.nz",
+  "address": {
+    "line1": "2 Station Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Alexandra",
+    "postcode": "9320"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T18:09:07Z"
+}

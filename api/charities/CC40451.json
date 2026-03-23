@@ -1,0 +1,27 @@
+{
+  "id": 42421,
+  "registrationNumber": "CC40451",
+  "name": "Atamai Village Council",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2010-04-08T00:00:00Z",
+  "website": "http://www.atamai.co.nz",
+  "email": "tracey@traceyambrose.com",
+  "address": {
+    "line1": "Mytton Heights R D 1",
+    "line2": null,
+    "suburb": "Motueka",
+    "city": "Motueka",
+    "postcode": "7196"
+  },
+  "nzbn": "9429043172283",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:06:47Z"
+}

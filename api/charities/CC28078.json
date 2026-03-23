@@ -1,0 +1,27 @@
+{
+  "id": 42927,
+  "registrationNumber": "CC28078",
+  "name": "Methven Volunteer Fire Brigade ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ba.lynda.anderson@xtra.co.nz",
+  "address": {
+    "line1": "Mckerrow Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Methven",
+    "postcode": "7730"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Methven Volunteer Fire Brigade",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T02:10:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56739,
+  "registrationNumber": "CC25110",
+  "name": "Inglewood United Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dw.jv.powell@xtra.co.nz",
+  "address": {
+    "line1": "30 Brown Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Inglewood",
+    "postcode": "4330"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T21:22:44Z"
+}

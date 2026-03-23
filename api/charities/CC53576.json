@@ -1,0 +1,27 @@
+{
+  "id": 67289,
+  "registrationNumber": "CC53576",
+  "name": "Te Anau Community Toy Library",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teanautoylibrary.setls.com.au",
+  "email": "teanautoylibrary@gmail.com",
+  "address": {
+    "line1": "Plunket Rooms",
+    "line2": "2 Luxmore Drive ",
+    "suburb": " ",
+    "city": "Te Anau",
+    "postcode": "9600"
+  },
+  "nzbn": "9429042838166",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pg/Te-Anau-Community-Toy-Library-182650461784415/about/?ref=page_internal",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T08:04:55Z"
+}

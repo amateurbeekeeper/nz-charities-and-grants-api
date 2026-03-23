@@ -1,0 +1,27 @@
+{
+  "id": 51047,
+  "registrationNumber": "CC29963",
+  "name": "The TYLA Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tyla.org.nz",
+  "email": "admin@tyla.org.nz",
+  "address": {
+    "line1": "121 Bairds Road",
+    "line2": " ",
+    "suburb": "Ōtara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": "9429042941330",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The TYLA Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T23:59:16Z"
+}

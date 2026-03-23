@@ -1,0 +1,27 @@
+{
+  "id": 76761,
+  "registrationNumber": "CC62890",
+  "name": "The Dunedin After Hours Doctors Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-10-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dunedinurgentdoctors.co.nz",
+  "email": "manager@urgentdocs.co.nz",
+  "address": {
+    "line1": "18 Filleul Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T19:28:55Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39795,
+  "registrationNumber": "CC23403",
+  "name": "'Ronald McDonald House Charities'",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-04-23T00:00:00Z",
+  "dateDeregistered": "2016-12-31T00:00:00Z",
+  "website": "http://www.rmhc.org.nz",
+  "email": "bryan.webber@rmhc.org.nz",
+  "address": {
+    "line1": "97 Grafton Rd",
+    "line2": "1sr Floor",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042722373",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:12:51Z"
+}

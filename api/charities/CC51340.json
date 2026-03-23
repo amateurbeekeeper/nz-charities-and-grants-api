@@ -1,0 +1,27 @@
+{
+  "id": 34876,
+  "registrationNumber": "CC51340",
+  "name": "Equippers Whanganui Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.equipperschurch.com/wanganui/",
+  "email": "james.roy@equipperschurch.com",
+  "address": {
+    "line1": "13 Ridgway Street",
+    "line2": "Whanganui 4500",
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429043270965",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/EquippersWhanganui",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:08:01Z"
+}

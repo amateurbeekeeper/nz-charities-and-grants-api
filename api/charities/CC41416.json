@@ -1,0 +1,27 @@
+{
+  "id": 61194,
+  "registrationNumber": "CC41416",
+  "name": "New Zealand Dental Association Education Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzda.org.nz",
+  "email": "accounts@nzda.org.nz",
+  "address": {
+    "line1": "195 Main Highway",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429043036585",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:41:05Z"
+}

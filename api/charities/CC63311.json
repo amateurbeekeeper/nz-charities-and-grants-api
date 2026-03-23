@@ -1,0 +1,27 @@
+{
+  "id": 77516,
+  "registrationNumber": "CC63311",
+  "name": "Tāhono Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-11-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tahono.nz",
+  "email": "anjum@tahono.nz",
+  "address": {
+    "line1": "Level 5, 30 Gaunt Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429052453090",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tahonotrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T03:04:46Z"
+}

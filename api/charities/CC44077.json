@@ -1,0 +1,27 @@
+{
+  "id": 50407,
+  "registrationNumber": "CC44077",
+  "name": "Southland disAbility Enterprises Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-04-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://recyclesouth.org.nz",
+  "email": "emma@recyclesouth.org.nz",
+  "address": {
+    "line1": "28 Ettrick Street",
+    "line2": " ",
+    "suburb": "West Invercargill",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429043191024",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/recyclesouthnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T20:43:02Z"
+}

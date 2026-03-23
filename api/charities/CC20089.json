@@ -1,0 +1,27 @@
+{
+  "id": 51035,
+  "registrationNumber": "CC20089",
+  "name": "Thistle Hall Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thistlehall.org.nz",
+  "email": "office@thistlehall.org.nz",
+  "address": {
+    "line1": "293 Cuba Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043025213",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:35:56Z"
+}

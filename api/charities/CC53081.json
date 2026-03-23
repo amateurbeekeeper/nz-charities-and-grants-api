@@ -1,0 +1,27 @@
+{
+  "id": 66812,
+  "registrationNumber": "CC53081",
+  "name": "The Clarkville Parent Teacher Association (PTA)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-03-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.clarkville.school.nz",
+  "email": "clarkvillepta@gmail.com",
+  "address": {
+    "line1": "10 Heywards Road",
+    "line2": " ",
+    "suburb": "RD 2",
+    "city": "Clarkville",
+    "postcode": "7692"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/clarkvillepta",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:43:34Z"
+}

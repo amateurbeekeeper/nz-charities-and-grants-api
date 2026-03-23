@@ -1,0 +1,27 @@
+{
+  "id": 36000,
+  "registrationNumber": "CC45013",
+  "name": "Eastern Bay Primary Health Alliance",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ebpha.org.nz",
+  "email": "russell.ingram-seal@ebpha.org.nz",
+  "address": {
+    "line1": "5 Louvain Street",
+    "line2": "Whakatane 3120",
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429043191932",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T20:00:02Z"
+}

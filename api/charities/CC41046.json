@@ -1,0 +1,27 @@
+{
+  "id": 60569,
+  "registrationNumber": "CC41046",
+  "name": "Whakatipu Ski Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wsc.co.nz",
+  "email": "admin@wsc.co.nz",
+  "address": {
+    "line1": "859",
+    "line2": "Coronet Peak Road",
+    "suburb": " Skippers",
+    "city": "Queenstown",
+    "postcode": "9371"
+  },
+  "nzbn": "9429042916178",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WhakatipuSkiClub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-04T04:31:31Z"
+}

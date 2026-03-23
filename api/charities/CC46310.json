@@ -1,0 +1,27 @@
+{
+  "id": 36800,
+  "registrationNumber": "CC46310",
+  "name": "The Hokowhitu Village Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-03-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hokowhituvillagecentre.net.nz/",
+  "email": "helengilmourjones@gmail.com",
+  "address": {
+    "line1": "356 Albert Street",
+    "line2": " ",
+    "suburb": "Hokowhitu",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429043222971",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "hokowhituvillagecentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:01:48Z"
+}

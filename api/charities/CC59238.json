@@ -1,0 +1,27 @@
+{
+  "id": 72842,
+  "registrationNumber": "CC59238",
+  "name": "The Wanda Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thewandafoundation.org.nz",
+  "email": "anna@annavanriel.com",
+  "address": {
+    "line1": "60 Nook Road",
+    "line2": "RD 2",
+    "suburb": "Lake Hāwea",
+    "city": "Wanaka",
+    "postcode": "9382"
+  },
+  "nzbn": "9429049468953",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/thewandafoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-26T10:18:55Z"
+}

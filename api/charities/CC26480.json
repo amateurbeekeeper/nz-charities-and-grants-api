@@ -1,0 +1,27 @@
+{
+  "id": 58072,
+  "registrationNumber": "CC26480",
+  "name": "Massey University",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.massey.ac.nz",
+  "email": "Y.Hawwa@massey.ac.nz",
+  "address": {
+    "line1": "73-91 Tennent Drive",
+    "line2": "Massey University ",
+    "suburb": "Fitzherbert",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429041911723",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T00:59:44Z"
+}

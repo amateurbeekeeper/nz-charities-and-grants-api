@@ -1,0 +1,27 @@
+{
+  "id": 42444,
+  "registrationNumber": "CC47008",
+  "name": "Tai Tokerau Maori Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-10-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taitokerautrust.org.nz",
+  "email": "ohroka@hotmail.com",
+  "address": {
+    "line1": "5 Hunt Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T21:25:34Z"
+}

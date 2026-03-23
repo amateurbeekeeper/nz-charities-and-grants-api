@@ -1,0 +1,27 @@
+{
+  "id": 50625,
+  "registrationNumber": "CC44750",
+  "name": "Broad Bay Community Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.broadbay.co.nz",
+  "email": "jane.ashman@otago.ac.nz",
+  "address": {
+    "line1": "JANE ASHMAN  GLENCONE FARM",
+    "line2": "50 Bacon Street",
+    "suburb": "Broad Bay",
+    "city": "Dunedin",
+    "postcode": "9014"
+  },
+  "nzbn": "9429042854104",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@BroadBayCommCentre ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T18:13:22Z"
+}

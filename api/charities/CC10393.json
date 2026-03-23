@@ -1,0 +1,27 @@
+{
+  "id": 52017,
+  "registrationNumber": "CC10393",
+  "name": "Children's Cancer Research Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "ccrt.org.nz",
+  "email": "stephenoconnell99@gmail.com",
+  "address": {
+    "line1": "Unit B4",
+    "line2": "1 Show Place",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429043176267",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-26T20:03:37Z"
+}

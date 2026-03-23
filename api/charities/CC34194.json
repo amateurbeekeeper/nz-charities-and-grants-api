@@ -1,0 +1,27 @@
+{
+  "id": 59784,
+  "registrationNumber": "CC34194",
+  "name": "Coastguard Maraetai Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.coastguardmaraetai.org.nz",
+  "email": "secretary@coastguardmaraetai.org.nz",
+  "address": {
+    "line1": "213 Maraetai Drive",
+    "line2": " ",
+    "suburb": "Maraetai",
+    "city": "Auckland",
+    "postcode": "2018"
+  },
+  "nzbn": "9429043109371",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T06:34:17Z"
+}

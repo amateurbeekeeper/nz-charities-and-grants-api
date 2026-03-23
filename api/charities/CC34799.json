@@ -1,0 +1,27 @@
+{
+  "id": 57249,
+  "registrationNumber": "CC34799",
+  "name": "Arowhenua Whanau Services",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aws.health.nz",
+  "email": "dee@keepitsimplesolutions.co.nz",
+  "address": {
+    "line1": "186 King Street",
+    "line2": "Temuka 7920",
+    "suburb": "Redruth",
+    "city": "Temuka",
+    "postcode": "7920"
+  },
+  "nzbn": "9429043084906",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Arowhenua Whanau Services",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-23T01:25:02Z"
+}

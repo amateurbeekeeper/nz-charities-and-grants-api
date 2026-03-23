@@ -1,0 +1,27 @@
+{
+  "id": 37204,
+  "registrationNumber": "CC47830",
+  "name": "Raupunga Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-02-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fromaraku@gmail.com",
+  "address": {
+    "line1": "40 Putere Road",
+    "line2": "Raupunga 4189",
+    "suburb": " ",
+    "city": "Raupunga",
+    "postcode": "4189"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T04:40:29Z"
+}

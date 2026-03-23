@@ -1,0 +1,27 @@
+{
+  "id": 63439,
+  "registrationNumber": "CC34374",
+  "name": "New Zealand Society of Genealogists Dunedin Branch",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-11-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kandh.bray@xtra.co.nz",
+  "address": {
+    "line1": "Dunedin Public Library",
+    "line2": "230 Moray Place",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/2067701693424381",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T21:11:49Z"
+}

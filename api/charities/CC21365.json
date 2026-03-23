@@ -1,0 +1,27 @@
+{
+  "id": 52748,
+  "registrationNumber": "CC21365",
+  "name": "BaySport Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.baysport.nz",
+  "email": "rebecca@freedomca.co.nz",
+  "address": {
+    "line1": "Harmony Lane",
+    "line2": " ",
+    "suburb": "Waipapa",
+    "city": "Kerikeri",
+    "postcode": null
+  },
+  "nzbn": "9429042962694",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-10T02:03:17Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67293,
+  "registrationNumber": "CC53584",
+  "name": "Central Region Robotics Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.centralrobotics.org.nz",
+  "email": "stephan@centralrobotics.org.nz",
+  "address": {
+    "line1": "25 Washington Parade",
+    "line2": " ",
+    "suburb": "Milson",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429043272129",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/CentralRoboticsNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T20:03:42Z"
+}

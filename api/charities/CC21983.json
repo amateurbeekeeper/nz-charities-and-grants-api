@@ -1,0 +1,27 @@
+{
+  "id": 51259,
+  "registrationNumber": "CC21983",
+  "name": "Neighbourhood Support Rotorua Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rotonscommittee@gmail.com",
+  "address": {
+    "line1": "1161 Hinemoa Street",
+    "line2": "Rotorua 3010",
+    "suburb": "Sunnybrook",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042768111",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/neighbourhoodsupportrotorua",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-28T05:31:19Z"
+}

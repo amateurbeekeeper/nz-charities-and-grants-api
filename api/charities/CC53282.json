@@ -1,0 +1,27 @@
+{
+  "id": 67000,
+  "registrationNumber": "CC53282",
+  "name": "All Saints Community Church Bryant Park Hamilton",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.allsaintshamilton.co.nz",
+  "email": "allsaints.hamilton@xtra.co.nz",
+  "address": {
+    "line1": "191 Sandwich Road",
+    "line2": " ",
+    "suburb": "St Andrews",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "All Saints Hamilton",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:51:37Z"
+}

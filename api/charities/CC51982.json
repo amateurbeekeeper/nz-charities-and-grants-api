@@ -1,0 +1,27 @@
+{
+  "id": 65725,
+  "registrationNumber": "CC51982",
+  "name": "Knox Presbyterian Church Invercargill",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "knoxinvercargill@gmail.com",
+  "address": {
+    "line1": "54 Wellington Street",
+    "line2": " ",
+    "suburb": "Georgetown",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T20:32:04Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34428,
+  "registrationNumber": "CC50801",
+  "name": "Wellington Treasure Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.treasuretrust.org.nz",
+  "email": "emma@marr.nz",
+  "address": {
+    "line1": "120A Buckley Road",
+    "line2": " ",
+    "suburb": "Southgate",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429043289431",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-05T00:13:38Z"
+}

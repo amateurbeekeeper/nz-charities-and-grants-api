@@ -1,0 +1,27 @@
+{
+  "id": 35247,
+  "registrationNumber": "CC49679",
+  "name": "FoodShare Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2013-06-20T00:00:00Z",
+  "dateDeregistered": "2018-08-17T00:00:00Z",
+  "website": "https://www.foodshare.org.nz",
+  "email": "nocharityemail@dia.govt.nz",
+  "address": {
+    "line1": "Corner Halsey & Ward Street",
+    "line2": "Behind 69 Ward Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429030202184",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/FoodShareNZ",
+    "twitter": "https://twitter.com/foodsharenz"
+  },
+  "lastUpdated": "2022-03-03T03:07:18Z"
+}

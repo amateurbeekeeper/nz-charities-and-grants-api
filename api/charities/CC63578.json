@@ -1,0 +1,27 @@
+{
+  "id": 77780,
+  "registrationNumber": "CC63578",
+  "name": "Friends of the Great Outdoors",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.friendsgo.org",
+  "email": "james@friendsgo.org",
+  "address": {
+    "line1": "163 Jacks Pass Road",
+    "line2": null,
+    "suburb": null,
+    "city": "Hanmer Springs",
+    "postcode": "7334"
+  },
+  "nzbn": "9429052199059",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-23T06:22:18Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 36908,
+  "registrationNumber": "CC46839",
+  "name": "Te Akatea Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2022-08-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teakatea.co.nz",
+  "email": "manukura@teakatea.co.nz",
+  "address": {
+    "line1": "20/1 Toorea St",
+    "line2": null,
+    "suburb": "Papamoa ",
+    "city": "Tauranga",
+    "postcode": "3118"
+  },
+  "nzbn": "9429042924708",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T01:21:53Z"
+}

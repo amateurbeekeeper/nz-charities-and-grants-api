@@ -1,0 +1,27 @@
+{
+  "id": 33932,
+  "registrationNumber": "CC50195",
+  "name": "iEngagEd Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "amy.detoni@waikato.ac.nz",
+  "address": {
+    "line1": "University of Waikato",
+    "line2": "Financial Services Division",
+    "suburb": "Gate 5, Hillcrest Road",
+    "city": "Hamilton",
+    "postcode": "3240"
+  },
+  "nzbn": "9429030085213",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:15:15Z"
+}

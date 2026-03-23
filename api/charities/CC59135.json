@@ -1,0 +1,27 @@
+{
+  "id": 72738,
+  "registrationNumber": "CC59135",
+  "name": "Moana Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.moanacommunitytrust.com",
+  "email": "dante@moanacommunitytrust.com",
+  "address": {
+    "line1": "455 Hagley Avenue",
+    "line2": null,
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429049200393",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/moanacommunitytrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:15:47Z"
+}

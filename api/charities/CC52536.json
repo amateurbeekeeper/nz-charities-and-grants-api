@@ -1,0 +1,27 @@
+{
+  "id": 66267,
+  "registrationNumber": "CC52536",
+  "name": "Anglican Diocese of Christchurch, Parish of Kaiapoi",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kaiapoianglican.nz/",
+  "email": "treasurer@kaiapoianglican.nz",
+  "address": {
+    "line1": "23 Cass Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaiapoi",
+    "postcode": "7630"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T00:23:15Z"
+}

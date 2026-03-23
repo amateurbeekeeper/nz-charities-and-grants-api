@@ -1,0 +1,27 @@
+{
+  "id": 72536,
+  "registrationNumber": "CC21147",
+  "name": "The Auckland Museum Foundation",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-02-14T00:00:00Z",
+  "dateDeregistered": "2021-03-10T00:00:00Z",
+  "website": "http://www.aucklandmuseum.com",
+  "email": "jpatel@aucklandmuseum.com",
+  "address": {
+    "line1": "Private Bag 92018",
+    "line2": "Victoria Street West",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1142"
+  },
+  "nzbn": "9429043063055",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-05-09T21:17:40Z"
+}

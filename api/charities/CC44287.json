@@ -1,0 +1,27 @@
+{
+  "id": 50509,
+  "registrationNumber": "CC44287",
+  "name": "Kaipupu Point Mainland Island Society Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2010-05-26T00:00:00Z",
+  "dateDeregistered": "2024-07-01T00:00:00Z",
+  "website": "http://www.kaipupusanctuary.nz",
+  "email": "admin@kaipupusanctuary.nz",
+  "address": {
+    "line1": "14 Auckland Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Picton",
+    "postcode": "7220"
+  },
+  "nzbn": "9429043169276",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/KaipupuPoint",
+    "twitter": null
+  },
+  "lastUpdated": "2024-07-04T07:20:12Z"
+}

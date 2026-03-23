@@ -1,0 +1,27 @@
+{
+  "id": 34116,
+  "registrationNumber": "CC50343",
+  "name": "Community Baptist Church of Randwick Park Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.communitybaptist.org.nz",
+  "email": "pastor@communitybaptist.org.nz",
+  "address": {
+    "line1": "62 Mt Lebanon Crescent",
+    "line2": " ",
+    "suburb": "The Gardens",
+    "city": "Auckland",
+    "postcode": "2105"
+  },
+  "nzbn": "9429043257218",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/communitybaptistrandwickpark/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T00:31:56Z"
+}

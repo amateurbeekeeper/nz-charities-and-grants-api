@@ -1,0 +1,27 @@
+{
+  "id": 69485,
+  "registrationNumber": "CC55837",
+  "name": "Marlborough Community Vehicle Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-06-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://marlboroughvehicletrust.org.nz/",
+  "email": "soundsvehicle@gmail.com",
+  "address": {
+    "line1": "2332 Queen Charlotte Drive",
+    "line2": "RD 1",
+    "suburb": "Ngākuta Bay",
+    "city": "Picton",
+    "postcode": "7281"
+  },
+  "nzbn": "9429043310678",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T21:45:59Z"
+}

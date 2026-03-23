@@ -1,0 +1,27 @@
+{
+  "id": 59118,
+  "registrationNumber": "CC28029",
+  "name": "Young Women's Christian Association of Whangarei Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ywca.org.nz",
+  "email": "ywcawhg@xtra.co.nz",
+  "address": {
+    "line1": "21 Rust Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "110"
+  },
+  "nzbn": "9429042921752",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-15T20:21:29Z"
+}

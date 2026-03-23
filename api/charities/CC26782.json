@@ -1,0 +1,27 @@
+{
+  "id": 59002,
+  "registrationNumber": "CC26782",
+  "name": "Whangaparaoa Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wbc.org.nz",
+  "email": "finance@wbc.org.nz",
+  "address": {
+    "line1": "733 Whangaparaoa Road",
+    "line2": " ",
+    "suburb": "Manly",
+    "city": "Whangaparaoa",
+    "postcode": "930"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WhangaparaoaBaptistChurch",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T01:03:07Z"
+}

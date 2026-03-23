@@ -1,0 +1,27 @@
+{
+  "id": 52157,
+  "registrationNumber": "CC21092",
+  "name": "Rural Women New Zealand Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ruralwomennz.nz",
+  "email": "ce@ruralwomennz.nz",
+  "address": {
+    "line1": "Level 10",
+    "line2": "175 Victoria Street ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042923961",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@RuralWomenNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-06T06:04:57Z"
+}

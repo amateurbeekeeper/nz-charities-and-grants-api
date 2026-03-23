@@ -1,0 +1,27 @@
+{
+  "id": 44934,
+  "registrationNumber": "CC32920",
+  "name": "Assistance Dogs New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.assistancedogstrust.org.nz",
+  "email": "mcneill.cat@gmail.com",
+  "address": {
+    "line1": "Chambers @ 151",
+    "line2": " Level 4, Deloitte House",
+    "suburb": "151 Cambridge Terrace",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043165674",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/assistancedogsnewzealandtrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T21:37:04Z"
+}

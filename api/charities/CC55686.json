@@ -1,0 +1,27 @@
+{
+  "id": 69336,
+  "registrationNumber": "CC55686",
+  "name": "Joyful House Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "joyfulhouse15@gmail.com",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "11 Sturdee Road",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": "9429045908651",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T19:46:44Z"
+}

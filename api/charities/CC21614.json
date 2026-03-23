@@ -1,0 +1,27 @@
+{
+  "id": 54896,
+  "registrationNumber": "CC21614",
+  "name": "Beachlands Baptist Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.beachbap.org.nz",
+  "email": "admin@beachbap.org.nz",
+  "address": {
+    "line1": "59 Third View Avenue",
+    "line2": " ",
+    "suburb": "Beachlands",
+    "city": "Auckland",
+    "postcode": "2018"
+  },
+  "nzbn": "9429052701412",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100010297808572",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T01:11:30Z"
+}

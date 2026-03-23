@@ -1,0 +1,27 @@
+{
+  "id": 60311,
+  "registrationNumber": "CC27947",
+  "name": "Swannanoa Preschool Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.swannanoapreschool.org.nz",
+  "email": "swannanoapreschool@xtra.co.nz",
+  "address": {
+    "line1": "1303 Tram Road",
+    "line2": "RD 6",
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7476"
+  },
+  "nzbn": "9429042859062",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-15T21:33:20Z"
+}

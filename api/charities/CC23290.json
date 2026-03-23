@@ -1,0 +1,27 @@
+{
+  "id": 55246,
+  "registrationNumber": "CC23290",
+  "name": "Albany Community Pre-School Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.albanypreschool.co.nz",
+  "email": "office@albanypreschool.co.nz",
+  "address": {
+    "line1": "575 Albany Highway",
+    "line2": " ",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429042575528",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "ACP Parents",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T00:57:27Z"
+}

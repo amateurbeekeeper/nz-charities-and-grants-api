@@ -1,0 +1,27 @@
+{
+  "id": 58245,
+  "registrationNumber": "CC30128",
+  "name": "Eastside Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-13T00:00:00Z",
+  "website": "www.playcentre.org.nz",
+  "email": "kerry.terrey@playcentre.org.nz",
+  "address": {
+    "line1": "10 Matarawa Street",
+    "line2": " ",
+    "suburb": "Whanganui East",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T07:21:23Z"
+}

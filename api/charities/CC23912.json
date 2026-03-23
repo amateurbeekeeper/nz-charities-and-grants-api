@@ -1,0 +1,27 @@
+{
+  "id": 40456,
+  "registrationNumber": "CC23912",
+  "name": "The Street Church Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thestreet.org.nz",
+  "email": "sam.lienert@thestreet.org.nz",
+  "address": {
+    "line1": "21 Hania Street",
+    "line2": " ",
+    "suburb": "Mount Victoria",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043079735",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T23:33:06Z"
+}

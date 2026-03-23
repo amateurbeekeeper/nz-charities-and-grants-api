@@ -1,0 +1,27 @@
+{
+  "id": 42351,
+  "registrationNumber": "CC22767",
+  "name": "Altrusa International of Christchurch Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.altrusa.org.nz",
+  "email": "val-lee@xtra.co.nz",
+  "address": {
+    "line1": "Villa 77",
+    "line2": "Elmswood Retirement Village",
+    "suburb": "Bryndwr",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042579205",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Altrusa International of Christchurch Inc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T23:19:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 78173,
+  "registrationNumber": "CC63977",
+  "name": "Southbrook School PTA",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-11-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta.treasurer@southbrook.school.nz",
+  "address": {
+    "line1": "26 Marshall Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/parentslinksouthbrookschool",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T01:52:51Z"
+}

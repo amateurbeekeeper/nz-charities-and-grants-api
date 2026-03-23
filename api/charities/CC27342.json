@@ -1,0 +1,27 @@
+{
+  "id": 39689,
+  "registrationNumber": "CC27342",
+  "name": "Kerikeri Community Childcare Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kerikericommunitychildcare.co.nz",
+  "email": "kkcct@xtra.co.nz",
+  "address": {
+    "line1": "Norfolk Place",
+    "line2": "Kerikeri",
+    "suburb": " ",
+    "city": "Northland",
+    "postcode": "0230"
+  },
+  "nzbn": "9429042661368",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "KerikeriCommunityChildcareTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-05T04:00:33Z"
+}

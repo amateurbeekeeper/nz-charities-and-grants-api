@@ -1,0 +1,27 @@
+{
+  "id": 62217,
+  "registrationNumber": "CC42333",
+  "name": "Special Olympics Rotorua Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.specialolympicsrotorua.co.nz",
+  "email": "allelyjill@gmail.com",
+  "address": {
+    "line1": "110B Rimuvale Street",
+    "line2": null,
+    "suburb": "Pukehangi",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429050141586",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/people/Special-Olympics-Rotorua",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-15T00:51:37Z"
+}

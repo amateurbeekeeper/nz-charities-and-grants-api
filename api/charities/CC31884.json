@@ -1,0 +1,27 @@
+{
+  "id": 49965,
+  "registrationNumber": "CC31884",
+  "name": "Taranaki Environmental Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sustainabletaranaki.org.nz",
+  "email": "linda.howe@sustainabletaranaki.org.nz",
+  "address": {
+    "line1": "28 Brooklands Park Drive",
+    "line2": "Taranaki Mail Centre",
+    "suburb": "Brooklands",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042843139",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SustainableTaranaki/?fref=ts&ref=br_tf",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T01:19:02Z"
+}

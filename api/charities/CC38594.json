@@ -1,0 +1,27 @@
+{
+  "id": 63048,
+  "registrationNumber": "CC38594",
+  "name": "Mimi Home And School Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mimi.school.nz",
+  "email": "admin@mimi.school.nz",
+  "address": {
+    "line1": "23 Pukearuhe Road",
+    "line2": "RD 44",
+    "suburb": " ",
+    "city": "Urenui",
+    "postcode": "4377"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T18:08:58Z"
+}

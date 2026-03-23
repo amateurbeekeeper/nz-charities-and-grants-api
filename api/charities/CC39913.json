@@ -1,0 +1,27 @@
+{
+  "id": 62283,
+  "registrationNumber": "CC39913",
+  "name": "Original Scripts Theatre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.oscripts.co.nz",
+  "email": "wendy@oscripts.co.nz",
+  "address": {
+    "line1": "1 Beachville Road",
+    "line2": " ",
+    "suburb": "Redcliffs",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": "9429042906391",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T09:25:52Z"
+}

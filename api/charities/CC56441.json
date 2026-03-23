@@ -1,0 +1,27 @@
+{
+  "id": 70082,
+  "registrationNumber": "CC56441",
+  "name": "Reemi Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-12-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.reemi.org",
+  "email": "emily@reemi.org",
+  "address": {
+    "line1": "37D Crummer Road",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429047188631",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/reemi.org",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T20:07:35Z"
+}

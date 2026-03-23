@@ -1,0 +1,27 @@
+{
+  "id": 69307,
+  "registrationNumber": "CC55660",
+  "name": "Bike and Hike Northland Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://bikenorthland.co.nz",
+  "email": "clare@bikeandhikenorthland.org.nz",
+  "address": {
+    "line1": "Northland Sports House, Kensington Park",
+    "line2": "97 Western Hills Drive",
+    "suburb": "Kensington",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429053038494",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BikeNorthland/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T22:21:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69760,
+  "registrationNumber": "CC56113",
+  "name": "The Waitaki Whitestone Geopark Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whitestonegeopark.nz",
+  "email": "Generalmanager@whitestonegeopark.nz",
+  "address": {
+    "line1": "9A Tyne Street",
+    "line2": "Oamaru 9400",
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429047223752",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waitakiwhitestonegeopark",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-29T23:21:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34392,
+  "registrationNumber": "CC50906",
+  "name": "Kaipara Budgeting Service",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kaiparabudgetingservice@gmail.com",
+  "address": {
+    "line1": "80 Normanby Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Dargaville",
+    "postcode": "0310"
+  },
+  "nzbn": "9429046943484",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-07T22:23:12Z"
+}

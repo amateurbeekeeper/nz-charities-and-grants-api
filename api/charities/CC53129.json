@@ -1,0 +1,27 @@
+{
+  "id": 66848,
+  "registrationNumber": "CC53129",
+  "name": "St Brigid's Feilding Parish",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "msutton@pndiocese.org.nz",
+  "address": {
+    "line1": "PO Box 5279",
+    "line2": "Terrace End",
+    "suburb": "Roslyn",
+    "city": "Palmerston North",
+    "postcode": "4441"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T19:53:55Z"
+}

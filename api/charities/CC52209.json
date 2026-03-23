@@ -1,0 +1,27 @@
+{
+  "id": 65944,
+  "registrationNumber": "CC52209",
+  "name": "Synod of Otago and Southland",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.southernpresbyterians.nz",
+  "email": "synod.otago.southland@xtra.co.nz",
+  "address": {
+    "line1": "417 Moray Place",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T00:11:50Z"
+}

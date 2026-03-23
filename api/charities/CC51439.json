@@ -1,0 +1,27 @@
+{
+  "id": 65209,
+  "registrationNumber": "CC51439",
+  "name": "The Fencible Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.fenciblefoundation.co.nz",
+  "email": "graeme@albanyjohnson.co.nz",
+  "address": {
+    "line1": "78 Bells Road",
+    "line2": " ",
+    "suburb": "Pakuranga",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429043278565",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T20:01:18Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 36751,
+  "registrationNumber": "CC46323",
+  "name": "LIVING WORD CHRISTIAN CENTRE",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://lwcc.nz/",
+  "email": "elia@elsautoservice.co.nz",
+  "address": {
+    "line1": "20 Grayson Avenue",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429043134724",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Living Word Christian Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T03:05:21Z"
+}

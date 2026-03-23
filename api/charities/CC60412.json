@@ -1,0 +1,27 @@
+{
+  "id": 74007,
+  "registrationNumber": "CC60412",
+  "name": "The Yarns Men",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.yarnsmen.co.nz",
+  "email": "matthew@yarnsmen.co.nz",
+  "address": {
+    "line1": "39 Hudson Street",
+    "line2": " ",
+    "suburb": "Bryndwr",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429050771301",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T21:08:16Z"
+}

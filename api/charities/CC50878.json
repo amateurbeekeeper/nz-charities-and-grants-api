@@ -1,0 +1,27 @@
+{
+  "id": 34524,
+  "registrationNumber": "CC50878",
+  "name": "ARAN Animal Rescue NZ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.arananimalrescue.org.nz",
+  "email": "aran.rescue.nz@gmail.com",
+  "address": {
+    "line1": "96 Gervin Road",
+    "line2": "RD 2",
+    "suburb": "Wainui",
+    "city": "Silverdale",
+    "postcode": "0992"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AranRescueNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:07:58Z"
+}

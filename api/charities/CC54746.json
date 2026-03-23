@@ -1,0 +1,27 @@
+{
+  "id": 68413,
+  "registrationNumber": "CC54746",
+  "name": "Hearts4heart Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-07-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://hearts4heart.org.au/",
+  "email": "tanya.hall@hearts4heart.org.au",
+  "address": {
+    "line1": "PO Box 8",
+    "line2": "Shortland Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1140"
+  },
+  "nzbn": "9429046282347",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hearts4heart",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:08:36Z"
+}

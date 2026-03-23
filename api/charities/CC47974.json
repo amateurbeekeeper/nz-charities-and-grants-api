@@ -1,0 +1,27 @@
+{
+  "id": 36679,
+  "registrationNumber": "CC47974",
+  "name": "Kiwi Community Assistance Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kca.org.nz",
+  "email": "tracy@kca.org.nz",
+  "address": {
+    "line1": "5 Peterhouse Street",
+    "line2": " ",
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kiwicommunityassistance",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T21:17:13Z"
+}

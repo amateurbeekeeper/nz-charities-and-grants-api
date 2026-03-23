@@ -1,0 +1,27 @@
+{
+  "id": 38568,
+  "registrationNumber": "CC45512",
+  "name": "New Zealand Dairy Industry Awards Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-10-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dairyindustryawards.co.nz",
+  "email": "finance@nzdia.org.nz",
+  "address": {
+    "line1": "10A Batt Street",
+    "line2": " ",
+    "suburb": "West End",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "New Zealand Dairy Industry Awards",
+    "twitter": "https://twitter.com/nzdairyawards"
+  },
+  "lastUpdated": "2025-11-02T20:14:01Z"
+}

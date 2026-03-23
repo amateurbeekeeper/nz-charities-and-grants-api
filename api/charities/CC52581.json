@@ -1,0 +1,27 @@
+{
+  "id": 66311,
+  "registrationNumber": "CC52581",
+  "name": "Restore Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-07-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@restorechurch.co.nz",
+  "address": {
+    "line1": "15A Alexander Avenue",
+    "line2": " ",
+    "suburb": "Torbay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429043277933",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Restore-Church-111442907060244",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T01:31:12Z"
+}

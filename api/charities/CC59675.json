@@ -1,0 +1,27 @@
+{
+  "id": 73277,
+  "registrationNumber": "CC59675",
+  "name": "Tai Tapu Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2021-11-30T00:00:00Z",
+  "dateDeregistered": "2025-10-20T00:00:00Z",
+  "website": null,
+  "email": "bid.mcconway@gmail.com",
+  "address": {
+    "line1": "815 Old Tai Tapu Road",
+    "line2": "Tai Tapu 7672",
+    "suburb": " ",
+    "city": "Tai Tapu",
+    "postcode": "7672"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/taitapuplaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T06:03:51Z"
+}

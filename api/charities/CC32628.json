@@ -1,0 +1,27 @@
+{
+  "id": 41102,
+  "registrationNumber": "CC32628",
+  "name": "Hutt Valley Benefit Education Service Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://hvbest.co.nz",
+  "email": "hvbest@xtra.co.nz",
+  "address": {
+    "line1": "48 Main Street",
+    "line2": " ",
+    "suburb": "Upper Hutt Central",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429043059904",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T02:16:02Z"
+}

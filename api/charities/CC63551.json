@@ -1,0 +1,27 @@
+{
+  "id": 77747,
+  "registrationNumber": "CC63551",
+  "name": "Kiwi Health and Wellness",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kiwihealthandwellness@gmail.com",
+  "address": {
+    "line1": "42 Matarangi Road",
+    "line2": " ",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-27T04:23:40Z"
+}

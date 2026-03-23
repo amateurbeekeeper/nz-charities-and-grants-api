@@ -1,0 +1,27 @@
+{
+  "id": 43337,
+  "registrationNumber": "CC30804",
+  "name": "Stokes Valley Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stokesvalley@playcentre.org.nz",
+  "address": {
+    "line1": "155 Stokes Valley Road",
+    "line2": " ",
+    "suburb": "Stokes Valley",
+    "city": "Lower Hutt",
+    "postcode": "5019"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:10:06Z"
+}

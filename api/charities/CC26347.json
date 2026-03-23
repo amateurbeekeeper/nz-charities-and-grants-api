@@ -1,0 +1,27 @@
+{
+  "id": 40073,
+  "registrationNumber": "CC26347",
+  "name": "The Prisoners' Aid and Reintegration Society of Canterbury Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.parscanterbury.org.nz",
+  "email": "rogerkemp2016@gmail.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "2 Horner Street",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042787648",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Prisoners Aid and Reintegration Society of Canterbury",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T23:24:27Z"
+}

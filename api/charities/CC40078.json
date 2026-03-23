@@ -1,0 +1,27 @@
+{
+  "id": 45750,
+  "registrationNumber": "CC40078",
+  "name": "Kaponga Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-20T00:00:00Z",
+  "website": "https://www.playcentre.org.nz",
+  "email": "kaponga@playcentre.org.nz",
+  "address": {
+    "line1": "Swadling Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaponga",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T06:03:55Z"
+}

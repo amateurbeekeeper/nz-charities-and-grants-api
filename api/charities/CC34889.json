@@ -1,0 +1,27 @@
+{
+  "id": 45316,
+  "registrationNumber": "CC34889",
+  "name": "Mental Health & Wellbeing Support",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mhws.co.nz/",
+  "email": "fiona@mhws.co.nz",
+  "address": {
+    "line1": "210 Wicksteed Street",
+    "line2": "Wanganui 4500",
+    "suburb": " ",
+    "city": "Wanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042738916",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/@MHWellbeingSupport",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T19:04:26Z"
+}

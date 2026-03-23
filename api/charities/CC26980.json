@@ -1,0 +1,27 @@
+{
+  "id": 56337,
+  "registrationNumber": "CC26980",
+  "name": "Estate of John Sylvanus Cotterell",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.publictrust.co.nz",
+  "email": "funding@publictrust.co.nz",
+  "address": {
+    "line1": "Public Trust Tower",
+    "line2": "Level 2",
+    "suburb": "22 Willeston Street",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T19:17:18Z"
+}

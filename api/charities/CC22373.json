@@ -1,0 +1,27 @@
+{
+  "id": 55436,
+  "registrationNumber": "CC22373",
+  "name": "Franklin Hospice Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.franklinhospice.org.nz",
+  "email": "lynette@franklinhospice.org.nz",
+  "address": {
+    "line1": "29 Hall Street",
+    "line2": "Pukekohe 2120",
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429042714699",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/franklinhospice/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T02:24:35Z"
+}

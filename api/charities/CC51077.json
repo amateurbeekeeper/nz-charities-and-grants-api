@@ -1,0 +1,27 @@
+{
+  "id": 34634,
+  "registrationNumber": "CC51077",
+  "name": "Wanganui Housing Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "j.paine@xtra.co.nz",
+  "address": {
+    "line1": "95 Liverpool Street",
+    "line2": " ",
+    "suburb": "College Estate",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T18:41:26Z"
+}

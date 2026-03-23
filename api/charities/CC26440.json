@@ -1,0 +1,27 @@
+{
+  "id": 51283,
+  "registrationNumber": "CC26440",
+  "name": "OSCAR in St Albans Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-23T00:00:00Z",
+  "dateDeregistered": "2022-03-03T00:00:00Z",
+  "website": "http://www.oscarstalbans.org.nz",
+  "email": "oscarinstalbans@gmail.com",
+  "address": {
+    "line1": "19 Thames Street",
+    "line2": " ",
+    "suburb": "Mairehau",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042792383",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "oscarstalbans",
+    "twitter": null
+  },
+  "lastUpdated": "2022-04-06T01:37:59Z"
+}

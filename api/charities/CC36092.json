@@ -1,0 +1,27 @@
+{
+  "id": 44584,
+  "registrationNumber": "CC36092",
+  "name": "Community Law Waikato Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.clwaikato.org.nz/",
+  "email": "juanita@clwaikato.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "109 Anglesea Street",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042717416",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CommunityLawWaikato",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T01:43:04Z"
+}

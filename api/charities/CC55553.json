@@ -1,0 +1,27 @@
+{
+  "id": 69198,
+  "registrationNumber": "CC55553",
+  "name": "Theophilus Baptist Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://theophilusbaptist.org/",
+  "email": "theophilusbaptist@gmail.com",
+  "address": {
+    "line1": "8 Karoro Road",
+    "line2": " ",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aklnzflatbush",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:03:33Z"
+}

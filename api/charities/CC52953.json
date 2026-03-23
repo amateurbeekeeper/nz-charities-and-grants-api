@@ -1,0 +1,27 @@
+{
+  "id": 66684,
+  "registrationNumber": "CC52953",
+  "name": "Matata Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-03-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Gavin.Dennis@fireandemergency.nz",
+  "address": {
+    "line1": "37 Heale Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Matata",
+    "postcode": "3194"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Matata Volunteer Fire Brigade",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:03:07Z"
+}

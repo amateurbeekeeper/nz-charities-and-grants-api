@@ -1,0 +1,27 @@
+{
+  "id": 33161,
+  "registrationNumber": "CC48609",
+  "name": "Student Christian Movement Aotearoa Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-11-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.scm.org.nz",
+  "email": "jordanhkredding@gmail.com",
+  "address": {
+    "line1": "98 St Heliers Bay Road",
+    "line2": " ",
+    "suburb": "St Heliers",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429042839248",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SCMAotearoa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T22:04:43Z"
+}

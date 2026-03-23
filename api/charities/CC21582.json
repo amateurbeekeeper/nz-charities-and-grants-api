@@ -1,0 +1,27 @@
+{
+  "id": 54671,
+  "registrationNumber": "CC21582",
+  "name": "Hawksbury Community Living Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hawksbury.co.nz/",
+  "email": "susan@hawksbury.co.nz",
+  "address": {
+    "line1": "Unit 3",
+    "line2": "49 Sir William Pickering Drive",
+    "suburb": "Burnside",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042715757",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HawksburyNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T18:03:27Z"
+}

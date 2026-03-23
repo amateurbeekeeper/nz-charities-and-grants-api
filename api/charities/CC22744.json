@@ -1,0 +1,27 @@
+{
+  "id": 53955,
+  "registrationNumber": "CC22744",
+  "name": "TheatreWorks Birkenhead Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mairangiplayers.co.nz",
+  "email": "accounts@mairangiplayers.co.nz",
+  "address": {
+    "line1": "TheatreWorks",
+    "line2": "Recreation Drive",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429042761808",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T02:32:56Z"
+}

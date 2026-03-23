@@ -1,0 +1,27 @@
+{
+  "id": 72657,
+  "registrationNumber": "CC59048",
+  "name": "Potahi Marae",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rosieteaupouri@gmail.com",
+  "address": {
+    "line1": "2 Potahi Road",
+    "line2": "RD 4",
+    "suburb": "Te Kao",
+    "city": "Kaitaia",
+    "postcode": "0484"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-25T19:36:35Z"
+}

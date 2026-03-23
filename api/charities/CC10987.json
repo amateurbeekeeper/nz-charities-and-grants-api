@@ -1,0 +1,27 @@
+{
+  "id": 52168,
+  "registrationNumber": "CC10987",
+  "name": "Orokonui Ecosanctuary Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.orokonui.nz",
+  "email": "amanda@orokonui.nz",
+  "address": {
+    "line1": "600 Blueskin Road",
+    "line2": "RD 1",
+    "suburb": "Mount Cargill",
+    "city": "Port Chalmers",
+    "postcode": "9081"
+  },
+  "nzbn": "9429033414157",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/Orokonui Ecosanctuary",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:35:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56565,
+  "registrationNumber": "CC22859",
+  "name": "Bay of Plenty Multiple Sclerosis Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bopms.co.nz",
+  "email": "healthcare131@gmail.com",
+  "address": {
+    "line1": "The Kollective Historic Village",
+    "line2": "17th Avenue",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": null
+  },
+  "nzbn": "9429042591931",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "BOP Multiple Sclerosis Society",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T20:00:12Z"
+}

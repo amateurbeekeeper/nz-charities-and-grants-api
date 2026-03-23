@@ -1,0 +1,27 @@
+{
+  "id": 61958,
+  "registrationNumber": "CC36843",
+  "name": "The Gaiety Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-01-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "holliehollander@gmail.com",
+  "address": {
+    "line1": "166 Grehan Valley Road",
+    "line2": "Akaroa 7520",
+    "suburb": " ",
+    "city": "Akaroa",
+    "postcode": "7520"
+  },
+  "nzbn": "9429043062461",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheGaietyAkaroaNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:32:33Z"
+}

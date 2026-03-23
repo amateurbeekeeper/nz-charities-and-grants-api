@@ -1,0 +1,27 @@
+{
+  "id": 74251,
+  "registrationNumber": "CC60665",
+  "name": "Manaaki Rangatahi",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "manaakirangatahi.org.nz",
+  "email": "bianca@manaakirangatahi.org.nz",
+  "address": {
+    "line1": "75 Waitakere Road",
+    "line2": " ",
+    "suburb": "Waitakere",
+    "city": "Auckland",
+    "postcode": "0816"
+  },
+  "nzbn": "9429050860517",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/manaakirangatahikitamaki",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T10:13:53Z"
+}

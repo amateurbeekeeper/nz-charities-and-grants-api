@@ -1,0 +1,27 @@
+{
+  "id": 42306,
+  "registrationNumber": "CC28531",
+  "name": "Te Whare Awhina o Tamworth Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tewhareawhinaotamworth.org.nz",
+  "email": "jaylene.ball@twa.org.nz",
+  "address": {
+    "line1": "4 Tamworth Close",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": "9429042827481",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-09-24T19:35:10Z"
+}

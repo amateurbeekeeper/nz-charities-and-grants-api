@@ -1,0 +1,27 @@
+{
+  "id": 62769,
+  "registrationNumber": "CC43577",
+  "name": "New Zealand Aged Care Association Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2010-02-08T00:00:00Z",
+  "dateDeregistered": "2018-07-01T00:00:00Z",
+  "website": "https://www.nzaca.org.nz",
+  "email": "simon@nzaca.org.nz",
+  "address": {
+    "line1": "Level 11, Petherick Towers",
+    "line2": "38 - 42 Waring Taylor Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043049707",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-23T05:05:42Z"
+}

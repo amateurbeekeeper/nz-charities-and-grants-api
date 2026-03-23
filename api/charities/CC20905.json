@@ -1,0 +1,27 @@
+{
+  "id": 52765,
+  "registrationNumber": "CC20905",
+  "name": "Saorsa Retirement Village Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "saorsavillage@xtra.co.nz",
+  "address": {
+    "line1": "St Marys Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waipu",
+    "postcode": "0510"
+  },
+  "nzbn": "9429042724254",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T00:55:12Z"
+}

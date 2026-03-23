@@ -1,0 +1,27 @@
+{
+  "id": 63497,
+  "registrationNumber": "CC41447",
+  "name": "Ardgowan Home and School Group",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@ardgowan.school.nz",
+  "address": {
+    "line1": "286 Ardgowan Road",
+    "line2": "RD 1D",
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9492"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "ardgowan.school.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T18:03:25Z"
+}

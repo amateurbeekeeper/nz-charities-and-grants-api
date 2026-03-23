@@ -1,0 +1,27 @@
+{
+  "id": 70353,
+  "registrationNumber": "CC56712",
+  "name": "Bethel International Church Miracle Service",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://bicmsnz.com",
+  "email": "admin@bicmsnz.com",
+  "address": {
+    "line1": "6 Lyall Place",
+    "line2": " ",
+    "suburb": "Bryndwr",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "twitter.com/bicmsnz"
+  },
+  "lastUpdated": "2025-09-19T21:36:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 78475,
+  "registrationNumber": "CC64292",
+  "name": "Artists For Others",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-08-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://artists4others.org",
+  "email": "info@artists4others.org",
+  "address": {
+    "line1": "Flat 3",
+    "line2": "27 Don Croot Street",
+    "suburb": "Morningside",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429052983399",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T23:55:04Z"
+}

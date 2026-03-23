@@ -1,0 +1,27 @@
+{
+  "id": 69730,
+  "registrationNumber": "CC56081",
+  "name": "Trinity South Christchurch Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.trinitysc.nz",
+  "email": "treasurer@trinitysc.nz",
+  "address": {
+    "line1": "200 Colombo Street",
+    "line2": " ",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429046990525",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TrinitySouthChch/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T04:05:18Z"
+}

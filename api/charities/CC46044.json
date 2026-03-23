@@ -1,0 +1,27 @@
+{
+  "id": 38343,
+  "registrationNumber": "CC46044",
+  "name": "Touch New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-01-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.touchnz.co.nz",
+  "email": "joe@touchnz.co.nz",
+  "address": {
+    "line1": "Unit 3",
+    "line2": "517 Mount Wellington Highway",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429042673361",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/touchnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:46:14Z"
+}

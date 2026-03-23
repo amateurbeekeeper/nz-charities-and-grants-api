@@ -1,0 +1,27 @@
+{
+  "id": 33338,
+  "registrationNumber": "CC50559",
+  "name": "Heaven on Earth Church of the Nazarene",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "orikene@gmail.com",
+  "address": {
+    "line1": "10 Glasgow Avenue",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T02:41:39Z"
+}

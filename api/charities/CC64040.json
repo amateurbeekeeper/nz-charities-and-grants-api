@@ -1,0 +1,27 @@
+{
+  "id": 78224,
+  "registrationNumber": "CC64040",
+  "name": "Blue Paw Heroes Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sue.burridge@hotmail.com",
+  "address": {
+    "line1": "5B Marybank Road",
+    "line2": "RD 2",
+    "suburb": "Marybank",
+    "city": "Whanganui",
+    "postcode": "4572"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T02:07:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38578,
+  "registrationNumber": "CC46386",
+  "name": "Hauraki Kayak Group Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2011-03-27T00:00:00Z",
+  "dateDeregistered": "2024-11-05T00:00:00Z",
+  "website": "http://hkg.org.nz",
+  "email": "marcel@dewitte.co.nz",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "6 Saratoga Avenue",
+    "suburb": "Herne Bay",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429042714095",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-12-02T05:02:24Z"
+}

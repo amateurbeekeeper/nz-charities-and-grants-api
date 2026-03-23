@@ -1,0 +1,27 @@
+{
+  "id": 39918,
+  "registrationNumber": "CC31342",
+  "name": "The Toddlers Turf Child Care Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.toddlersturf.co.nz",
+  "email": "manager@toddlersturf.co.nz",
+  "address": {
+    "line1": "66 Trevor Hosken Drive",
+    "line2": " ",
+    "suburb": "Wiri",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042891918",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/toddlersturfchildcarecentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T02:28:31Z"
+}

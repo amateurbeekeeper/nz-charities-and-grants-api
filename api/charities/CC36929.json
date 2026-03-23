@@ -1,0 +1,27 @@
+{
+  "id": 43262,
+  "registrationNumber": "CC36929",
+  "name": "Mount Maunganui Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-10T00:00:00Z",
+  "website": null,
+  "email": "mtmaunganui@playcentre.org.nz",
+  "address": {
+    "line1": "64 Golf Road",
+    "line2": "Mount Maunganui 3116",
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T06:03:18Z"
+}

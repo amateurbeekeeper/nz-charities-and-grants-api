@@ -1,0 +1,27 @@
+{
+  "id": 39373,
+  "registrationNumber": "CC23172",
+  "name": "Whangarei City Elim Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.elimchristiancentre.org.nz",
+  "email": "john@roberts.co.nz",
+  "address": {
+    "line1": "33 Porowini Avenue",
+    "line2": " ",
+    "suburb": "Morningside",
+    "city": "Whangarei",
+    "postcode": "110"
+  },
+  "nzbn": "9429042938231",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T00:03:19Z"
+}

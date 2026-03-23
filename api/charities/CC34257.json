@@ -1,0 +1,27 @@
+{
+  "id": 44142,
+  "registrationNumber": "CC34257",
+  "name": "Kaharoa Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "kaharoa.school.nz",
+  "email": "sarahn@kaharoa.school.nz",
+  "address": {
+    "line1": "296 Kaharoa Road",
+    "line2": "RD 6",
+    "suburb": "Hamurana",
+    "city": "Rotorua",
+    "postcode": "3096"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T00:34:35Z"
+}

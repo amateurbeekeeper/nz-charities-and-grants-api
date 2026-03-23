@@ -1,0 +1,27 @@
+{
+  "id": 41403,
+  "registrationNumber": "CC33129",
+  "name": "Leithfield Public Library",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "g.j.hassall33@gmail.com",
+  "address": {
+    "line1": "2 Leithfield Road",
+    "line2": "RD 1",
+    "suburb": "Leithfield",
+    "city": "Amberley",
+    "postcode": "7481"
+  },
+  "nzbn": "9429042655947",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Leithfield Public Library",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-06T22:28:54Z"
+}

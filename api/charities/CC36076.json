@@ -1,0 +1,27 @@
+{
+  "id": 42045,
+  "registrationNumber": "CC36076",
+  "name": "Mission Aviation Fellowship in New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.maf.org.nz",
+  "email": "mfox@maf.org.nz",
+  "address": {
+    "line1": "7 De Havilland Way",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429052913280",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T20:20:20Z"
+}

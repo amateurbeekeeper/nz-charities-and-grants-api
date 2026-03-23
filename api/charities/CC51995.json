@@ -1,0 +1,27 @@
+{
+  "id": 65735,
+  "registrationNumber": "CC51995",
+  "name": "Westmere Presbyterian Memorial Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://westmerepresbyterian.org.nz/",
+  "email": "wpmctreasurer@outlook.com",
+  "address": {
+    "line1": "53 State Highway 3",
+    "line2": null,
+    "suburb": "Brunswick",
+    "city": "Whanganui",
+    "postcode": "4571"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/westmerechurch/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T21:43:30Z"
+}

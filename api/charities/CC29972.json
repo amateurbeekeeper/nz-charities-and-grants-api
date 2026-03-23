@@ -1,0 +1,27 @@
+{
+  "id": 47807,
+  "registrationNumber": "CC29972",
+  "name": "The Photographic Society Of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.photography.org.nz",
+  "email": "psnz.treasurer@gmail.com",
+  "address": {
+    "line1": "640 No 2 Line",
+    "line2": "RD 2",
+    "suburb": "Fordell",
+    "city": "Whanganui",
+    "postcode": "4572"
+  },
+  "nzbn": "9429042804956",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:01Z"
+}

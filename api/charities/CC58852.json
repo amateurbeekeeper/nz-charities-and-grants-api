@@ -1,0 +1,27 @@
+{
+  "id": 72460,
+  "registrationNumber": "CC58852",
+  "name": "The Potters House Christian Centre Manurewa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.manurewachurch.co.nz/",
+  "email": "chris_ofanoa@hotmail.co.nz",
+  "address": {
+    "line1": "47 Secretariat Place",
+    "line2": " ",
+    "suburb": "Randwick Park",
+    "city": "Auckland",
+    "postcode": "2105"
+  },
+  "nzbn": "9429053243737",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T02:33:24Z"
+}

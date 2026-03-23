@@ -1,0 +1,27 @@
+{
+  "id": 71107,
+  "registrationNumber": "CC57484",
+  "name": "The Hub of Hope NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.hubofhope.nz",
+  "email": "fairhallkelvyn@gmail.com",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "4 Pleasant Street",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:15:35Z"
+}

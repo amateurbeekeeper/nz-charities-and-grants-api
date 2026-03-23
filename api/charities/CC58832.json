@@ -1,0 +1,27 @@
+{
+  "id": 72442,
+  "registrationNumber": "CC58832",
+  "name": "The Broken Movement Trust (Te Pou Awatea)",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thebrokenmovement.org",
+  "email": "office@thebrokenmovement.org",
+  "address": {
+    "line1": "10 Poipoi Place",
+    "line2": " ",
+    "suburb": "Wainoni",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429048543224",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/TheBrokenMovement",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T04:20:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34443,
+  "registrationNumber": "CC51044",
+  "name": "Te Horo Marae ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-07-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lilian_baldwin@xtra.co.nz",
+  "address": {
+    "line1": "43 Awanui Road",
+    "line2": "Tikitiki 4082",
+    "suburb": "Tikitiki",
+    "city": "Tikitiki",
+    "postcode": "4082"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Horo Marae https://www.facebook.com/groups/299312580252784",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T07:40:33Z"
+}

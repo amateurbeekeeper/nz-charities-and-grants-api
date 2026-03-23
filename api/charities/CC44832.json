@@ -1,0 +1,27 @@
+{
+  "id": 35846,
+  "registrationNumber": "CC44832",
+  "name": "New Plymouth Community Foodbank Trust 2005",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-08-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "manager@newplymouthfoodbank.org.nz",
+  "address": {
+    "line1": "40 Vivian Street",
+    "line2": "New Plymouth 4310",
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043169191",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/newplymouthcommunityfoodbank/?modal=admin_todo_tour",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T00:22:03Z"
+}

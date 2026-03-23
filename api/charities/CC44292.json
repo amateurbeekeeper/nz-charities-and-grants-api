@@ -1,0 +1,27 @@
+{
+  "id": 50084,
+  "registrationNumber": "CC44292",
+  "name": "Tauranga Society of Artists Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.taurangaart.com",
+  "email": "treasurertgaartsoc@gmail.com",
+  "address": {
+    "line1": "171A Elizabeth Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042830924",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Tauranga Society of Artists",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-18T01:32:48Z"
+}

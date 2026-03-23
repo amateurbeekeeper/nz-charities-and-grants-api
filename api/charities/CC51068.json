@@ -1,0 +1,27 @@
+{
+  "id": 34172,
+  "registrationNumber": "CC51068",
+  "name": "Community Housing Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-10-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bruce@brucewhite.nz",
+  "address": {
+    "line1": "8 Quinlivan Street",
+    "line2": "Hawarden 7385",
+    "suburb": " ",
+    "city": "Hawarden",
+    "postcode": "7385"
+  },
+  "nzbn": "9429043283514",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-16T08:44:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 59913,
+  "registrationNumber": "CC30498",
+  "name": "Albany Community Action Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://albanyaction.nz/",
+  "email": "nathan@albanyaction.nz",
+  "address": {
+    "line1": "368 Albany Highway",
+    "line2": " ",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429042985891",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "albany community action trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T20:48:44Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 36455,
+  "registrationNumber": "CC47282",
+  "name": "Shri Ram Mandir Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-09-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.shrirammandir.org.nz",
+  "email": "pravin@lotusfx.com",
+  "address": {
+    "line1": "11 Brick Street",
+    "line2": "300 Queen Street",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429043237074",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "shrirammandir nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:29:49Z"
+}

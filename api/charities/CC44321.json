@@ -1,0 +1,27 @@
+{
+  "id": 64206,
+  "registrationNumber": "CC44321",
+  "name": "Invercargill Tongan Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2022-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fae_moeakiola@hotmail.com",
+  "address": {
+    "line1": "261 East Road",
+    "line2": " ",
+    "suburb": "Mill Road",
+    "city": "Invercargill",
+    "postcode": "9872"
+  },
+  "nzbn": "9429043167029",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Invercargill Tongan Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T17:03:27Z"
+}

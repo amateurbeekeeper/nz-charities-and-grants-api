@@ -1,0 +1,27 @@
+{
+  "id": 71514,
+  "registrationNumber": "CC57882",
+  "name": "Tautoko Tāne Taranaki Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://malesurvivorstaranaki.nz/",
+  "email": "tonycham@me.com",
+  "address": {
+    "line1": "89 Awanui Street",
+    "line2": " ",
+    "suburb": "Merrilands",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429048437585",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:04:02Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 36850,
+  "registrationNumber": "CC46554",
+  "name": "Tinline Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "steve.baigent@cephas.nz",
+  "address": {
+    "line1": "15 Gilbert Street",
+    "line2": "Richmond 7020",
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": "9429043219490",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T01:57:34Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65418,
+  "registrationNumber": "CC51656",
+  "name": "St Columba Presbyterian Church Botany",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stcolumba.org.nz",
+  "email": "accounts@stcolumba.org.nz",
+  "address": {
+    "line1": "480 Ti Rakau Drive",
+    "line2": " ",
+    "suburb": "Golflands",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429049862485",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T23:44:46Z"
+}

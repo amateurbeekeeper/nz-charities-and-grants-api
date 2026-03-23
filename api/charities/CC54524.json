@@ -1,0 +1,27 @@
+{
+  "id": 68201,
+  "registrationNumber": "CC54524",
+  "name": "MentorEd Charitable Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-05-01T00:00:00Z",
+  "dateDeregistered": "2026-02-05T00:00:00Z",
+  "website": "https://www.mentored.org.nz",
+  "email": "office@mentored.org.nz",
+  "address": {
+    "line1": "162 Polson Hill Drive",
+    "line2": "RD 1",
+    "suburb": "Aokautere",
+    "city": "Palmerston North",
+    "postcode": "4471"
+  },
+  "nzbn": "9429046089847",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MentorEdNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T06:05:09Z"
+}

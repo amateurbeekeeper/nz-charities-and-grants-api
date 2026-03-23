@@ -1,0 +1,27 @@
+{
+  "id": 40039,
+  "registrationNumber": "CC23467",
+  "name": "Canterbury Asthma Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david_hackston@yahoo.co.uk",
+  "address": {
+    "line1": "1 Rhyl Place",
+    "line2": " ",
+    "suburb": "Bryndwr",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042974338",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T06:06:43Z"
+}

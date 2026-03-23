@@ -1,0 +1,27 @@
+{
+  "id": 40905,
+  "registrationNumber": "CC24256",
+  "name": "Arts Foundation of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thearts.co.nz",
+  "email": "jo@thearts.co.nz",
+  "address": {
+    "line1": "c/- Brown Bread",
+    "line2": "2 Worcester Bvld",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": "9429042930785",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzartsfoundation",
+    "twitter": "https://twitter.com/_artsfoundation"
+  },
+  "lastUpdated": "2025-12-18T23:39:18Z"
+}

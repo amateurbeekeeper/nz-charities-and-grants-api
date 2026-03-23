@@ -1,0 +1,27 @@
+{
+  "id": 78238,
+  "registrationNumber": "CC64055",
+  "name": "Kiwi Chinese Association Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzoca.org.nz",
+  "email": "christine@nzoca.org.nz",
+  "address": {
+    "line1": "3 Pearce Street",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043277209",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61576466513967",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T01:13:07Z"
+}

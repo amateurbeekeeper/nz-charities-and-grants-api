@@ -1,0 +1,27 @@
+{
+  "id": 70769,
+  "registrationNumber": "CC57144",
+  "name": "Work Manawatu",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://palmerstonnorth.dressforsuccess.org/",
+  "email": "adie@workmanawatu.org.nz",
+  "address": {
+    "line1": "Rossmont Shops",
+    "line2": "57 Vogel Street ",
+    "suburb": "Roslyn ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429047467514",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/workmanawatu",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T20:57:02Z"
+}

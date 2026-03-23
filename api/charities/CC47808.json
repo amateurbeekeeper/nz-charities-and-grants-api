@@ -1,0 +1,27 @@
+{
+  "id": 37812,
+  "registrationNumber": "CC47808",
+  "name": "Angel Flight NZ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.angelflightnz.co.nz",
+  "email": "john@pringle.co.nz",
+  "address": {
+    "line1": "Unit 75",
+    "line2": "Hibiscus Coast Village",
+    "suburb": "Forrest Hill",
+    "city": "Red Beach",
+    "postcode": "0932"
+  },
+  "nzbn": "9429043233007",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T00:39:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54134,
+  "registrationNumber": "CC27042",
+  "name": "Ngati Pahauwera Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pahauwera.inc@gmail.com",
+  "address": {
+    "line1": "56 Mohaka Township Road",
+    "line2": "RD 4",
+    "suburb": "Mohaka",
+    "city": "Raupunga",
+    "postcode": "4189"
+  },
+  "nzbn": "9429042695127",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:42:31Z"
+}

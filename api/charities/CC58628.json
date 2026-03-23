@@ -1,0 +1,27 @@
+{
+  "id": 72245,
+  "registrationNumber": "CC58628",
+  "name": "The SplashSave Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-01-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.splashsave.org",
+  "email": "info@splashsave.org",
+  "address": {
+    "line1": "238 Takarau Gorge Road",
+    "line2": " ",
+    "suburb": "Ohariu",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429048914727",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/splashsave",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T20:52:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 68169,
+  "registrationNumber": "CC54496",
+  "name": "South Alive Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@southalive.org.nz",
+  "address": {
+    "line1": "133 Grace Street",
+    "line2": " ",
+    "suburb": "Appleby",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": "9429045868467",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T21:11:21Z"
+}

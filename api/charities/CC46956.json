@@ -1,0 +1,27 @@
+{
+  "id": 36493,
+  "registrationNumber": "CC46956",
+  "name": "Te Taha Maori Property Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-10-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.methodist.org.nz",
+  "email": "charities@methodist.org.nz",
+  "address": {
+    "line1": "50 Langdons Road",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429043218691",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-15T19:55:49Z"
+}

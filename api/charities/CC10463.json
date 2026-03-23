@@ -1,0 +1,27 @@
+{
+  "id": 51783,
+  "registrationNumber": "CC10463",
+  "name": "Rotorua Community Youth Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://taiohiturama.org.nz/",
+  "email": "jenm@taiohiturama.org.nz",
+  "address": {
+    "line1": "6 Te Ngae Road",
+    "line2": " ",
+    "suburb": "Victoria",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042816768",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/rotoruayouth",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:14:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52885,
+  "registrationNumber": "CC11085",
+  "name": "Diabetes Foundation Aotearoa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://diabetesfoundationaotearoa.nz",
+  "email": "admin@diabetesfoundationaotearoa.nz",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "100 Alexander Crescent",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": "9429042725275",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DiabetesFoundationAotearoa/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T00:03:23Z"
+}

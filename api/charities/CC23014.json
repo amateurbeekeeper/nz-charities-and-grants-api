@@ -1,0 +1,27 @@
+{
+  "id": 42049,
+  "registrationNumber": "CC23014",
+  "name": "The Kawerau Branch Of The Royal New Zealand Society For The Prevention Of Cruelty To Animals Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-04-15T00:00:00Z",
+  "dateDeregistered": "2019-02-28T00:00:00Z",
+  "website": "www.spca.nz",
+  "email": "tony.lemmens@spca.nz",
+  "address": {
+    "line1": "23 Spencer AVe",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kawerau",
+    "postcode": "3127"
+  },
+  "nzbn": "9429042777670",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-04-08T20:39:57Z"
+}

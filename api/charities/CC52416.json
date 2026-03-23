@@ -1,0 +1,27 @@
+{
+  "id": 66156,
+  "registrationNumber": "CC52416",
+  "name": "North Taranaki Sport and Recreation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-09-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whai.nz/",
+  "email": "chair@ntsrinc.org",
+  "address": {
+    "line1": "17 Princess Street",
+    "line2": " ",
+    "suburb": "Waitara",
+    "city": "Taranaki",
+    "postcode": "4320"
+  },
+  "nzbn": "9429043259045",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ntsrinc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T03:22:10Z"
+}

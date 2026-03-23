@@ -1,0 +1,27 @@
+{
+  "id": 54712,
+  "registrationNumber": "CC21552",
+  "name": "Family Success Matters",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.fsm.org.nz",
+  "email": "colleenf@fsm.org.nz",
+  "address": {
+    "line1": "86H Plunket Avenue",
+    "line2": " ",
+    "suburb": "Wiri",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429041902196",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T23:59:35Z"
+}

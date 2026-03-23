@@ -1,0 +1,27 @@
+{
+  "id": 50193,
+  "registrationNumber": "CC44532",
+  "name": "Western Suburbs Rugby Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.westsrugby.org.nz",
+  "email": "grimesmcg2020@gmail.com",
+  "address": {
+    "line1": "Ian Galloway Park",
+    "line2": "Curtis St ",
+    "suburb": "Wilton",
+    "city": "Wellington",
+    "postcode": "6147"
+  },
+  "nzbn": "9429042913856",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T21:04:06Z"
+}

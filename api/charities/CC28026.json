@@ -1,0 +1,27 @@
+{
+  "id": 56503,
+  "registrationNumber": "CC28026",
+  "name": "Habitat for Humanity New Zealand Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.habitat.org.nz",
+  "email": "michelle.francis@habitat.org.nz",
+  "address": {
+    "line1": "644 Great South Road",
+    "line2": "Stanway Houose",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429038891953",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HabitatNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:02:18Z"
+}

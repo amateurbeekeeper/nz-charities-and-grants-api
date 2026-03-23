@@ -1,0 +1,27 @@
+{
+  "id": 68882,
+  "registrationNumber": "CC55227",
+  "name": "Waiheke Health Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ceo@waihekehealthtrust.nz",
+  "address": {
+    "line1": "9 Belgium Street",
+    "line2": " ",
+    "suburb": "Ostend",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429036945153",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T23:43:44Z"
+}

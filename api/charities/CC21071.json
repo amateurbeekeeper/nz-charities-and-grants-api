@@ -1,0 +1,27 @@
+{
+  "id": 54552,
+  "registrationNumber": "CC21071",
+  "name": "New Zealand Fruitgrowers Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzfct.org.nz",
+  "email": "alan.bird@nzfct.org.nz",
+  "address": {
+    "line1": "20 Ballance Street",
+    "line2": "20-26 Ballance Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042709176",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T02:21:50Z"
+}

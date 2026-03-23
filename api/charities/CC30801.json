@@ -1,0 +1,27 @@
+{
+  "id": 43547,
+  "registrationNumber": "CC30801",
+  "name": "Point Howard Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pointhoward@playcentre.org.nz",
+  "address": {
+    "line1": "1A Ngaumatau Road",
+    "line2": null,
+    "suburb": "Point Howard",
+    "city": "Lower Hutt",
+    "postcode": "5013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:09:11Z"
+}

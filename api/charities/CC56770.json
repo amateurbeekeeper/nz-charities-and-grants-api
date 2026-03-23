@@ -1,0 +1,27 @@
+{
+  "id": 70406,
+  "registrationNumber": "CC56770",
+  "name": "Smack Fitness Boxing Club",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-04-01T00:00:00Z",
+  "dateDeregistered": "2022-03-16T00:00:00Z",
+  "website": null,
+  "email": "smackfitness@outlook.com",
+  "address": {
+    "line1": "37 Main Street",
+    "line2": "Blenheim 7201",
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-03-15T20:19:22Z"
+}

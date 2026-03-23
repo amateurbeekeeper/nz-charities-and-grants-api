@@ -1,0 +1,27 @@
+{
+  "id": 52208,
+  "registrationNumber": "CC11111",
+  "name": "Taranaki Cultural Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2007-09-13T00:00:00Z",
+  "dateDeregistered": "2016-07-01T00:00:00Z",
+  "website": null,
+  "email": "peter@devonhotel.co.nz",
+  "address": {
+    "line1": "GOVETT QUILLIAM",
+    "line2": "1 Dawson Street",
+    "suburb": null,
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042929598",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-06-06T02:04:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40962,
+  "registrationNumber": "CC37526",
+  "name": "Bayview Community Centre Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bayviewcentre.org.nz",
+  "email": "manager@bayviewcentre.org.nz",
+  "address": {
+    "line1": "72 Bayview Road",
+    "line2": " ",
+    "suburb": "Bayview",
+    "city": "Auckland",
+    "postcode": "629"
+  },
+  "nzbn": "9429042592358",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "bayviewcommunitycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T19:16:31Z"
+}

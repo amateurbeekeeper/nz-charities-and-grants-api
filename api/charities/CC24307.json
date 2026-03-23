@@ -1,0 +1,27 @@
+{
+  "id": 41810,
+  "registrationNumber": "CC24307",
+  "name": "The School of Philosophy Auckland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.philosophy.nz",
+  "email": "secretary@philosophy.nz",
+  "address": {
+    "line1": "268 West Tamaki Road",
+    "line2": " ",
+    "suburb": "Wai O Taiki Bay",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042738947",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/schoolofphilosophynz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T22:40:17Z"
+}

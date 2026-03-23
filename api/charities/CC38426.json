@@ -1,0 +1,27 @@
+{
+  "id": 43923,
+  "registrationNumber": "CC38426",
+  "name": "Ashurst Park Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-07-17T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/ashurst-park/",
+  "email": "ashurstpark@playcentre.org.nz",
+  "address": {
+    "line1": "61A Ashurst Avenue",
+    "line2": " ",
+    "suburb": "Pukete",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ashurstparkplaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-31T07:13:27Z"
+}

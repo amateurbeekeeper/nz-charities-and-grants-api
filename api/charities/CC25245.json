@@ -1,0 +1,27 @@
+{
+  "id": 53732,
+  "registrationNumber": "CC25245",
+  "name": "Auckland District Kidney Society Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kidneysociety.org.nz",
+  "email": "kath@kidneysociety.org.nz",
+  "address": {
+    "line1": "5 Swaffield Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429042586500",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kidneysocietyadks",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T18:17:46Z"
+}

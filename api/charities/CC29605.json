@@ -1,0 +1,27 @@
+{
+  "id": 46785,
+  "registrationNumber": "CC29605",
+  "name": "Heretaunga Volunteer Rural Fire Force",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2026-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ross.berry@fireandemergency.nz",
+  "address": {
+    "line1": "501 Burma Road",
+    "line2": "RD 4",
+    "suburb": "Raukawa",
+    "city": "Hastings",
+    "postcode": "4174"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T01:58:05Z"
+}

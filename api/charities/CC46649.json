@@ -1,0 +1,27 @@
+{
+  "id": 37303,
+  "registrationNumber": "CC46649",
+  "name": "Second Chance Ministries",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.2cm.org.nz",
+  "email": "gary@gsaaudit.nz",
+  "address": {
+    "line1": "69 Buccaneer Court",
+    "line2": " ",
+    "suburb": "Gulf Harbour",
+    "city": "Whangaparaoa",
+    "postcode": "0930"
+  },
+  "nzbn": "9429043218127",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/2ndChanceMinistries.org.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T03:00:14Z"
+}

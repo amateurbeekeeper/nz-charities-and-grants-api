@@ -1,0 +1,27 @@
+{
+  "id": 56113,
+  "registrationNumber": "CC21917",
+  "name": "WorldSkills New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://worldskills.org.nz",
+  "email": "carl.rankin@worldskills.org.nz",
+  "address": {
+    "line1": "14 Trig Hill Terrace",
+    "line2": " ",
+    "suburb": "Waikanae Beach",
+    "city": "Waikanae",
+    "postcode": "5036"
+  },
+  "nzbn": "9429042928201",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-04T19:34:14Z"
+}

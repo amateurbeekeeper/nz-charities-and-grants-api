@@ -1,0 +1,27 @@
+{
+  "id": 78102,
+  "registrationNumber": "CC63907",
+  "name": "Community Driver Licencing Workshop",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "communitydlw@gmail.com",
+  "address": {
+    "line1": "45 Tyrone Street",
+    "line2": null,
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T01:30:44Z"
+}

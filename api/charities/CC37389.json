@@ -1,0 +1,27 @@
+{
+  "id": 46176,
+  "registrationNumber": "CC37389",
+  "name": "Diamond Harbour Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.toylibrary.co.nz/diamond-harbour-toy-library.html",
+  "email": "dhtoylibrary@gmail.com",
+  "address": {
+    "line1": "2A Waipapa Avenue",
+    "line2": "Diamond Harbour 8972",
+    "suburb": "Diamond Harbour",
+    "city": "Diamond Harbour",
+    "postcode": "8972"
+  },
+  "nzbn": "9429042670384",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DiamondHarbourToyLibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T06:40:59Z"
+}

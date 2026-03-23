@@ -1,0 +1,27 @@
+{
+  "id": 52485,
+  "registrationNumber": "CC38779",
+  "name": "New Zealand Equine Research Foundation",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "nzerf.org.nz",
+  "email": "allan.fenwick@xtra.co.nz",
+  "address": {
+    "line1": "11 Anzac Street",
+    "line2": "Cambridge 3434",
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": "9429042684688",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:06:06Z"
+}

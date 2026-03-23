@@ -1,0 +1,27 @@
+{
+  "id": 72412,
+  "registrationNumber": "CC58803",
+  "name": "Te Manu Tioriori Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-12-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tmtt.org.nz",
+  "email": "emma.peoplefirst@gmail.com",
+  "address": {
+    "line1": "68 Scott Road",
+    "line2": "RD 4",
+    "suburb": "Tamaterau",
+    "city": "Whangarei",
+    "postcode": "0174"
+  },
+  "nzbn": "9429048908986",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@temanutiorioritrust",
+    "twitter": null
+  },
+  "lastUpdated": "2024-08-21T01:39:17Z"
+}

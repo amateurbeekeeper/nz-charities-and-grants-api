@@ -1,0 +1,27 @@
+{
+  "id": 38998,
+  "registrationNumber": "CC23606",
+  "name": "Westport Kindergarten Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.westportkindergarten.nz",
+  "email": "office@westportkindergarten.nz",
+  "address": {
+    "line1": "48A Russell Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Westport",
+    "postcode": "7825"
+  },
+  "nzbn": "9429042914068",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@westportkindergartenassociationinc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-26T22:59:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 78227,
+  "registrationNumber": "CC64039",
+  "name": "ARGOS Gymnastic Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.argosgym.co.nz",
+  "email": "manager@argosgymsport.co.nz",
+  "address": {
+    "line1": "34 Koromiko Street",
+    "line2": " ",
+    "suburb": "Judea",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/argosgymsport",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T01:48:02Z"
+}

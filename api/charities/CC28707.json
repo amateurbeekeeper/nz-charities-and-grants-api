@@ -1,0 +1,27 @@
+{
+  "id": 39444,
+  "registrationNumber": "CC28707",
+  "name": "Te Whare Roimata Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tewhareroimata274@gmail.com",
+  "address": {
+    "line1": "274 Gloucester Street",
+    "line2": "Linwood",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042919568",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T23:38:23Z"
+}

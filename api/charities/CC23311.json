@@ -1,0 +1,27 @@
+{
+  "id": 52395,
+  "registrationNumber": "CC23311",
+  "name": "The Dunedin Lodge Of The Theosophical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.theosophy-dunedin.org",
+  "email": "theodunedin@gmail.com",
+  "address": {
+    "line1": "469 Hillside Road",
+    "line2": " ",
+    "suburb": "Caversham",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042664031",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-24T18:22:34Z"
+}

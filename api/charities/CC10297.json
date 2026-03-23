@@ -1,0 +1,27 @@
+{
+  "id": 51245,
+  "registrationNumber": "CC10297",
+  "name": "Environmental Defence Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-05-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.eds.org.nz",
+  "email": "gary@eds.org.nz",
+  "address": {
+    "line1": "169A Ponsonby Road",
+    "line2": "RD 1",
+    "suburb": "Ponsonby",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429042719687",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EDSaotearoa/",
+    "twitter": "https://twitter.com/EDS_Aotearoa"
+  },
+  "lastUpdated": "2025-10-24T01:27:24Z"
+}

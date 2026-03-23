@@ -1,0 +1,27 @@
+{
+  "id": 73052,
+  "registrationNumber": "CC59446",
+  "name": "The Classroom Collective",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.classroomcollective.co.nz",
+  "email": "info@classroomcollective.co.nz",
+  "address": {
+    "line1": "22 Tyne Street",
+    "line2": " ",
+    "suburb": "Roslyn",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": "9429049402681",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:31:36Z"
+}

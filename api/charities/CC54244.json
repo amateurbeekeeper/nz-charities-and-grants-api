@@ -1,0 +1,27 @@
+{
+  "id": 67924,
+  "registrationNumber": "CC54244",
+  "name": "Bethany Bible Chapel",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-03-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bethanybiblechapel.co.nz",
+  "email": "aschaisons@gmail.com",
+  "address": {
+    "line1": "16 Keegan Drive",
+    "line2": " ",
+    "suburb": "Massey",
+    "city": "Auckland",
+    "postcode": "0614"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "NA",
+    "twitter": "NA"
+  },
+  "lastUpdated": "2025-04-29T20:35:06Z"
+}

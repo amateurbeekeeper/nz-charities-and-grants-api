@@ -1,0 +1,27 @@
+{
+  "id": 50995,
+  "registrationNumber": "CC10042",
+  "name": "Doing Good Foundation Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-02-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dgf.org.nz",
+  "email": "office@dgf.org.nz",
+  "address": {
+    "line1": "C/o Abernethy Broach Law Limited",
+    "line2": "257 Maunganui Road",
+    "suburb": "Mount Maunganui",
+    "city": "Tauranga",
+    "postcode": "3116"
+  },
+  "nzbn": "9429038415098",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/doinggoodfoundationbop",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T20:53:06Z"
+}

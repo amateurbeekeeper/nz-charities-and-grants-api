@@ -1,0 +1,27 @@
+{
+  "id": 74773,
+  "registrationNumber": "CC61191",
+  "name": "NexGen Kai",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nexgenkai.nz",
+  "email": "nick@aquaponics.org.nz",
+  "address": {
+    "line1": "120 Hanmer Springs Road",
+    "line2": null,
+    "suburb": null,
+    "city": "Hanmer Springs",
+    "postcode": "7334"
+  },
+  "nzbn": "9429050989379",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T07:17:38Z"
+}

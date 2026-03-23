@@ -1,0 +1,27 @@
+{
+  "id": 46986,
+  "registrationNumber": "CC42681",
+  "name": "Powerlifting Canterbury Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sporty.co.nz/cpa",
+  "email": "canterburypowerlifting@gmail.com",
+  "address": {
+    "line1": "27A Normandy Street",
+    "line2": " ",
+    "suburb": "Bishopdale",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429043200641",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Canterbury-Powerlifting-Association-108339732541680/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T00:30:52Z"
+}

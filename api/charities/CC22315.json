@@ -1,0 +1,27 @@
+{
+  "id": 55579,
+  "registrationNumber": "CC22315",
+  "name": "Lister Home Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://listerhome.co.nz",
+  "email": "manager@listerhome.co.nz",
+  "address": {
+    "line1": "24 Innes Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waimate",
+    "postcode": "7924"
+  },
+  "nzbn": "9429042757580",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T03:55:10Z"
+}

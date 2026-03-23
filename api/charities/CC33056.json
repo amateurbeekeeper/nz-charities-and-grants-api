@@ -1,0 +1,27 @@
+{
+  "id": 42897,
+  "registrationNumber": "CC33056",
+  "name": "Carterton Gospel Chapel",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "donaldsnz@gmail.com",
+  "address": {
+    "line1": "265 High Street South",
+    "line2": "Carterton 5713",
+    "suburb": " ",
+    "city": "Carterton",
+    "postcode": "5713"
+  },
+  "nzbn": "9429042581291",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T07:00:15Z"
+}

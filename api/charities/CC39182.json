@@ -1,0 +1,27 @@
+{
+  "id": 58559,
+  "registrationNumber": "CC39182",
+  "name": "New Zealand Founders Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzfounders.org.nz",
+  "email": "treasurer@nzfounders.org.nz",
+  "address": {
+    "line1": "17 Tinakori Road",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042709107",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T23:06:30Z"
+}

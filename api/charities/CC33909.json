@@ -1,0 +1,27 @@
+{
+  "id": 49512,
+  "registrationNumber": "CC33909",
+  "name": "The Music Association Of Auckland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.maa.net.nz",
+  "email": "diss@xtra.co.nz",
+  "address": {
+    "line1": "31 Dudley Road",
+    "line2": " ",
+    "suburb": "Mission Bay",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429043000371",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MAA2003?ref=stale_email  ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-22T19:42:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 59335,
+  "registrationNumber": "CC30380",
+  "name": "Church Of Christ Auckland (Undenominational)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.morningsidechurchofchrist.org/",
+  "email": "alan.neill1957@gmail.com",
+  "address": {
+    "line1": "42 Leslie Avenue",
+    "line2": " ",
+    "suburb": "Morningside",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042616405",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Morningside2",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:21:49Z"
+}

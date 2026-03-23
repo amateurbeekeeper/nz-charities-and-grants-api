@@ -1,0 +1,27 @@
+{
+  "id": 38589,
+  "registrationNumber": "CC45494",
+  "name": "Waikaraka Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-10-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "trusttreasurer@waikarakamarae.org",
+  "address": {
+    "line1": "90 Waipara Road",
+    "line2": "RD 9",
+    "suburb": "Kaihu",
+    "city": "Dargaville",
+    "postcode": "0379"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-07T19:15:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52468,
+  "registrationNumber": "CC20060",
+  "name": "Riverside Community Church (Kaiapoi) Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.riversidechurch.org.nz/",
+  "email": "accounts@riversidechurch.nz",
+  "address": {
+    "line1": "45 Charles Street",
+    "line2": "Kaiapoi 7630",
+    "suburb": " ",
+    "city": "Kaiapoi",
+    "postcode": "7630"
+  },
+  "nzbn": "9429042955634",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pages/category/Community/Riverside-Community-Church-287590192417/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:39:41Z"
+}

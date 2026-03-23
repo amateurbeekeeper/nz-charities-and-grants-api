@@ -1,0 +1,27 @@
+{
+  "id": 37823,
+  "registrationNumber": "CC47614",
+  "name": "The Anglican Action Mission Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-12-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.anglicanaction.org.nz",
+  "email": "ken@anglicanaction.org.nz",
+  "address": {
+    "line1": "100 Morrinsville Road",
+    "line2": " ",
+    "suburb": "Hillcrest",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429043230686",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T22:10:11Z"
+}

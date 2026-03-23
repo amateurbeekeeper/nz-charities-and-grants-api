@@ -1,0 +1,27 @@
+{
+  "id": 71196,
+  "registrationNumber": "CC57567",
+  "name": "Crosspoint Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://crosspoint.org.nz/",
+  "email": "ds49011@gmail.com",
+  "address": {
+    "line1": "128 King Street",
+    "line2": "Palmerston North 4410",
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-24T19:35:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50418,
+  "registrationNumber": "CC43997",
+  "name": "Onslow Historical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.onslowhistorical.nz/",
+  "email": "liz.newport@outlook.com",
+  "address": {
+    "line1": "86 Khandallah Road",
+    "line2": " ",
+    "suburb": "Khandallah",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429042775829",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/OnslowHistorical",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T10:36:29Z"
+}

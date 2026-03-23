@@ -1,0 +1,27 @@
+{
+  "id": 50215,
+  "registrationNumber": "CC45018",
+  "name": "Mountfort Park Water Polo Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-08-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://mountfortwaterpolo.nz/",
+  "email": "treasurer@mountfortwaterpolo.nz",
+  "address": {
+    "line1": "3 Northvale Place",
+    "line2": null,
+    "suburb": null,
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429043161386",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mountfortparkwaterpolo/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-29T19:26:05Z"
+}

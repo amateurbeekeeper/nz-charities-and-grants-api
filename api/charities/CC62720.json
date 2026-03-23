@@ -1,0 +1,27 @@
+{
+  "id": 76429,
+  "registrationNumber": "CC62720",
+  "name": "OUT&about Wānaka",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ollie@servedhospitality.co.nz",
+  "address": {
+    "line1": "124 Beacon Point Road",
+    "line2": " ",
+    "suburb": "Wānaka",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/OUTandAboutWanaka",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T01:59:11Z"
+}

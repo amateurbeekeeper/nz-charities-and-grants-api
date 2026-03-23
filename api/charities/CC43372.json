@@ -1,0 +1,27 @@
+{
+  "id": 42872,
+  "registrationNumber": "CC43372",
+  "name": "Minerals West Coast Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mineralswestcoast.org.nz",
+  "email": "patrick@mineralswestcoast.org.nz",
+  "address": {
+    "line1": "Level 1, Como House",
+    "line2": "51 Tancred Street",
+    "suburb": " ",
+    "city": "Hokitika",
+    "postcode": "7810"
+  },
+  "nzbn": "9429043075072",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T23:51:06Z"
+}

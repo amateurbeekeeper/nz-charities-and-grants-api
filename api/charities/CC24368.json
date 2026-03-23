@@ -1,0 +1,27 @@
+{
+  "id": 42172,
+  "registrationNumber": "CC24368",
+  "name": "New Zealand Equine Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nzeetoffice@gmail.com",
+  "address": {
+    "line1": "114 Wrights Road",
+    "line2": "Cambridge 3493",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429042932697",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T23:42:48Z"
+}

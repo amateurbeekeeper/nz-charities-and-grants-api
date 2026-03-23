@@ -1,0 +1,27 @@
+{
+  "id": 38027,
+  "registrationNumber": "CC47818",
+  "name": "Theatre Archives New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-06-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.theatrrearchives.nz",
+  "email": "edcoleman@xtra.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "35-38 Cambridge Tce",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043011858",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T02:40:08Z"
+}

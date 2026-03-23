@@ -1,0 +1,27 @@
+{
+  "id": 43476,
+  "registrationNumber": "CC30450",
+  "name": "Ngaio Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-26T00:00:00Z",
+  "website": "http://www.ngaioplaycentre.org.nz/",
+  "email": "ngaio@playcentre.org.nz",
+  "address": {
+    "line1": "50 Silverstream Road",
+    "line2": " ",
+    "suburb": "Crofton Downs",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T07:12:21Z"
+}

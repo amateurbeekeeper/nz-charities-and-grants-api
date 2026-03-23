@@ -1,0 +1,27 @@
+{
+  "id": 73636,
+  "registrationNumber": "CC60108",
+  "name": "Full Bellies Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fullbellies.co.nz",
+  "email": "fullbelliesnz@gmail.com",
+  "address": {
+    "line1": "Unit 2/4 Lake Brynwdr Lane",
+    "line2": " ",
+    "suburb": "Burnside",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429050948901",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:43:36Z"
+}

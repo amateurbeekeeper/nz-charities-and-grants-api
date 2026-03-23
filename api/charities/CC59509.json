@@ -1,0 +1,27 @@
+{
+  "id": 73112,
+  "registrationNumber": "CC59509",
+  "name": "Upstream Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://upstream.co.nz",
+  "email": "james@upstream.co.nz",
+  "address": {
+    "line1": "44 Elizabeth Street",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429046120861",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T19:05:06Z"
+}

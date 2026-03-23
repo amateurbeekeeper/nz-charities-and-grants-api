@@ -1,0 +1,27 @@
+{
+  "id": 34460,
+  "registrationNumber": "CC51098",
+  "name": "The Ernst & Young Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-10-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://eyhome.ey.net",
+  "email": "keli.ben@nz.ey.com",
+  "address": {
+    "line1": "2 Takutai Square",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043236336",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "N/A",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2026-01-28T22:43:09Z"
+}

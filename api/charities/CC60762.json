@@ -1,0 +1,27 @@
+{
+  "id": 74351,
+  "registrationNumber": "CC60762",
+  "name": "Coast to Coast Cat Rescue",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.coasttocoastcatrescue.org.nz",
+  "email": "seedy_pop@hotmail.com",
+  "address": {
+    "line1": "303 Pakaru Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Kawakawa",
+    "postcode": "0282"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100088046198045",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T06:53:43Z"
+}

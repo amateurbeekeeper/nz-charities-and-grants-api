@@ -1,0 +1,27 @@
+{
+  "id": 40403,
+  "registrationNumber": "CC23680",
+  "name": "Tramways Whanganui Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "donann101@gmail.com",
+  "address": {
+    "line1": "29 Taupo Quay",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429043037063",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T18:18:56Z"
+}

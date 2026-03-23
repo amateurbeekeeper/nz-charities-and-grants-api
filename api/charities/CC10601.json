@@ -1,0 +1,27 @@
+{
+  "id": 51896,
+  "registrationNumber": "CC10601",
+  "name": "Oxford Arts Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://oxfordgallery.org.nz",
+  "email": "aretawilkinson@gmail.com",
+  "address": {
+    "line1": "72 Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Oxford",
+    "postcode": "7430"
+  },
+  "nzbn": "9429043176366",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/oxfordgallerynz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T02:04:04Z"
+}

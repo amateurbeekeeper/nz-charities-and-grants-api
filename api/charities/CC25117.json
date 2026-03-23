@@ -1,0 +1,27 @@
+{
+  "id": 57247,
+  "registrationNumber": "CC25117",
+  "name": "Lynfield Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stmags.org.nz",
+  "email": "theavenue@stmags.org.nz",
+  "address": {
+    "line1": "35 The Avenue",
+    "line2": " ",
+    "suburb": "Lynfield",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T03:01:38Z"
+}

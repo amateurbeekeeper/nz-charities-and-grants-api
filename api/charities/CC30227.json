@@ -1,0 +1,27 @@
+{
+  "id": 50001,
+  "registrationNumber": "CC30227",
+  "name": "Mangere Bridge Playcentre ",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-31T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/mangere-bridge/",
+  "email": "mangerebridge@playcentre.org.nz",
+  "address": {
+    "line1": "17 Domain Road",
+    "line2": " ",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Mangere Bridge Playcentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T07:12:29Z"
+}

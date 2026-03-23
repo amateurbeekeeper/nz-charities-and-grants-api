@@ -1,0 +1,27 @@
+{
+  "id": 41112,
+  "registrationNumber": "CC37284",
+  "name": "The Royal New Zealand Artillery Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rnzaa.org.nz",
+  "email": "secretary@rnzaa.org.nz",
+  "address": {
+    "line1": "1 Halkett Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Darfield",
+    "postcode": "7510"
+  },
+  "nzbn": "9429042870630",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T19:18:40Z"
+}

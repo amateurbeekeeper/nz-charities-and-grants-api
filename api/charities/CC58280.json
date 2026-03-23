@@ -1,0 +1,27 @@
+{
+  "id": 71901,
+  "registrationNumber": "CC58280",
+  "name": "Canterbury Tails Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-08-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.canterburytails.co.nz",
+  "email": "contact@canterburytails.co.nz",
+  "address": {
+    "line1": "2820 South Eyre Road",
+    "line2": "RD 6",
+    "suburb": "Eyrewell Forest",
+    "city": "Rangiora",
+    "postcode": "7476"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/canterburytailsnz/",
+    "twitter": "https://www.instagram.com/canterburytailsnz/"
+  },
+  "lastUpdated": "2025-10-17T02:30:34Z"
+}

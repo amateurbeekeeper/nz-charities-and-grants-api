@@ -1,0 +1,27 @@
+{
+  "id": 45677,
+  "registrationNumber": "CC38773",
+  "name": "The New Zealand Aviation Museum Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.omaka.org.nz",
+  "email": "jane@omaka.org.nz",
+  "address": {
+    "line1": "14 Rosina Corlett Lane",
+    "line2": "RD 2",
+    "suburb": "Burleigh",
+    "city": "Blenheim",
+    "postcode": "7272"
+  },
+  "nzbn": "9429042931485",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/OmakaAHC/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T23:28:38Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42900,
+  "registrationNumber": "CC31582",
+  "name": "OCC Grace Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "peterj.vandervoorn@gmail.com",
+  "address": {
+    "line1": "4 Ngatoto Street",
+    "line2": " ",
+    "suburb": "Ngaio",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429043179800",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T20:13:49Z"
+}

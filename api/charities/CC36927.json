@@ -1,0 +1,27 @@
+{
+  "id": 43253,
+  "registrationNumber": "CC36927",
+  "name": "Greenpark Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-01T00:00:00Z",
+  "website": null,
+  "email": "greenpark@playcentre.org.nz",
+  "address": {
+    "line1": "19 Sinclair Street",
+    "line2": " ",
+    "suburb": "Greerton",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/share/14bPwg6pN9/?mibextid=wwXIfr",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T06:03:24Z"
+}

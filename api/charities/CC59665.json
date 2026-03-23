@@ -1,0 +1,27 @@
+{
+  "id": 73266,
+  "registrationNumber": "CC59665",
+  "name": "New Zealand Community Orchestras Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://communityorchestras.nz",
+  "email": "ross@gurney.nz",
+  "address": {
+    "line1": "53 Totara Street",
+    "line2": " ",
+    "suburb": "Fendalton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429050008155",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-07T03:02:52Z"
+}

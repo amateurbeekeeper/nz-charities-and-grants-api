@@ -1,0 +1,27 @@
+{
+  "id": 34784,
+  "registrationNumber": "CC51230",
+  "name": "The New Zealand Dermatology Research Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-11-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzdrt.org",
+  "email": "chairperson@nzdrt.org.nz",
+  "address": {
+    "line1": "619 Featherston Street",
+    "line2": " ",
+    "suburb": "Roslyn",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429043288762",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T00:03:04Z"
+}

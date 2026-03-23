@@ -1,0 +1,27 @@
+{
+  "id": 54828,
+  "registrationNumber": "CC21059",
+  "name": "Trade Aid Trust of New Plymouth",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-02-11T00:00:00Z",
+  "dateDeregistered": "2025-04-30T00:00:00Z",
+  "website": "http://www.tradeaid.org.nz",
+  "email": "joanne.palmer@tradeaid.org.nz",
+  "address": {
+    "line1": "82 Devon Street East",
+    "line2": "New Plymouth 4310",
+    "suburb": "Dallington",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042976622",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-19T07:14:18Z"
+}

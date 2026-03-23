@@ -1,0 +1,27 @@
+{
+  "id": 65909,
+  "registrationNumber": "CC52167",
+  "name": "Pasifika by Nature Trust ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-07-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "accounting589@pm.me",
+  "address": {
+    "line1": "54 Yvonne Street",
+    "line2": " ",
+    "suburb": "Melville",
+    "city": "Hamilton",
+    "postcode": "3206"
+  },
+  "nzbn": "9429043170821",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/Pasifika-By-Nature-305662099596126/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T01:06:21Z"
+}

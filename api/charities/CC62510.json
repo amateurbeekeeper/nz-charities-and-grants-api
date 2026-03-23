@@ -1,0 +1,27 @@
+{
+  "id": 76066,
+  "registrationNumber": "CC62510",
+  "name": "Otepoti Boxing Club Hauora Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.otepotiboxingclub.com",
+  "email": "otepotiboxingclub@gmail.com",
+  "address": {
+    "line1": "115 Crawford Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429051793432",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/OBCDunedin",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:11:06Z"
+}

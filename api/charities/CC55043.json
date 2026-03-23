@@ -1,0 +1,27 @@
+{
+  "id": 68698,
+  "registrationNumber": "CC55043",
+  "name": "Community Taranaki Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-09-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taranaki.gen.nz",
+  "email": "vivian@taranaki.gen.nz",
+  "address": {
+    "line1": "14 Waiwera Place",
+    "line2": " ",
+    "suburb": "Merrilands",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429043211319",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T23:59:05Z"
+}

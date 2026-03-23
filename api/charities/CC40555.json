@@ -1,0 +1,27 @@
+{
+  "id": 64392,
+  "registrationNumber": "CC40555",
+  "name": "The New Zealand Literacy Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzla.org.nz",
+  "email": "treasurer@nzla.org.nz",
+  "address": {
+    "line1": "15 Court of Ascot",
+    "line2": " ",
+    "suburb": "Seaward Bush",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": "9429042708827",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100055054104895",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T23:24:52Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70923,
+  "registrationNumber": "CC57294",
+  "name": "Bare Necessities",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-08-31T00:00:00Z",
+  "dateDeregistered": "2025-07-04T00:00:00Z",
+  "website": "Www.barenecessities.co.nz",
+  "email": "Info@barenecessities.co.nz",
+  "address": {
+    "line1": "35E Constellation Drive",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-12T07:08:00Z"
+}

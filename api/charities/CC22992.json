@@ -1,0 +1,27 @@
+{
+  "id": 39017,
+  "registrationNumber": "CC22992",
+  "name": "The North Shore Budget Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://nsbudget.co.nz",
+  "email": "drew@nsbudget.co.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "5-7 The Strand,",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429042781868",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T23:21:12Z"
+}

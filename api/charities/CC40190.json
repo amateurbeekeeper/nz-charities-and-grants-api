@@ -1,0 +1,27 @@
+{
+  "id": 49801,
+  "registrationNumber": "CC40190",
+  "name": "The Christian and Missionary Alliance of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.alliancechurches.org.nz",
+  "email": "andrew@alliancechurches.org.nz",
+  "address": {
+    "line1": "64C Dundale Avenue",
+    "line2": " ",
+    "suburb": "Blockhouse Bay",
+    "city": "Auckland",
+    "postcode": "600"
+  },
+  "nzbn": "9429042871316",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Alliance-Churches-of-New-Zealand-602887573071314/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T02:52:41Z"
+}

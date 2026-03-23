@@ -1,0 +1,27 @@
+{
+  "id": 49726,
+  "registrationNumber": "CC31871",
+  "name": "Kaitaia Christian Fellowship Trust Board",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://kcf.church/",
+  "email": "admin@kcf.church",
+  "address": {
+    "line1": "149 Pukepoto Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaitaia",
+    "postcode": "410"
+  },
+  "nzbn": "9429042611219",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T23:19:00Z"
+}

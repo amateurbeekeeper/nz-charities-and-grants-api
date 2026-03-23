@@ -1,0 +1,27 @@
+{
+  "id": 65381,
+  "registrationNumber": "CC51614",
+  "name": "Forrest Hill Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.forresthillchurch.org.nz",
+  "email": "kdunwell34@gmail.com",
+  "address": {
+    "line1": "151 Forrest Hill Road",
+    "line2": " ",
+    "suburb": "Forrest Hill",
+    "city": "Auckland",
+    "postcode": "0620"
+  },
+  "nzbn": "9429050021079",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:39:17Z"
+}

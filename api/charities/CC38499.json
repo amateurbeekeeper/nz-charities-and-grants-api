@@ -1,0 +1,27 @@
+{
+  "id": 61457,
+  "registrationNumber": "CC38499",
+  "name": "East Gore Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta@eastgore.school.nz",
+  "address": {
+    "line1": "East Gore School",
+    "line2": "3 Wentworth Street",
+    "suburb": "East Gore",
+    "city": "Gore",
+    "postcode": "9710"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T00:52:44Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69346,
+  "registrationNumber": "CC55695",
+  "name": "Paeroa Children's Art House Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.arthouse.org.nz",
+  "email": "mel@jams.org.nz",
+  "address": {
+    "line1": "13 Wood Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paeroa",
+    "postcode": "3600"
+  },
+  "nzbn": "9429046747822",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "arthouse",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T20:48:19Z"
+}

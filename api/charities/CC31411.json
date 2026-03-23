@@ -1,0 +1,27 @@
+{
+  "id": 48140,
+  "registrationNumber": "CC31411",
+  "name": "Northland Dairy Development Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nddt.nz",
+  "email": "admin@nddt.nz",
+  "address": {
+    "line1": "121 Springs Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Poroti",
+    "postcode": "0179"
+  },
+  "nzbn": "9429043049295",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T10:07:01Z"
+}

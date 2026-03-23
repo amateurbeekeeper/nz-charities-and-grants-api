@@ -1,0 +1,27 @@
+{
+  "id": 51965,
+  "registrationNumber": "CC10715",
+  "name": "Citizens Advice Bureau Palmerston North Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.cab.org.nz",
+  "email": "palmerstonnorth@cab.org.nz",
+  "address": {
+    "line1": " HANCOCK COMMUNITY HOUSE",
+    "line2": "77 King Street",
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042816270",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:42:09Z"
+}

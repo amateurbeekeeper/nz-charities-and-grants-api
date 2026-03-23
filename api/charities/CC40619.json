@@ -1,0 +1,27 @@
+{
+  "id": 61225,
+  "registrationNumber": "CC40619",
+  "name": "Redhills Community Kindergarten Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.redhillskindy.co.nz",
+  "email": "redhillskindy@gmail.com",
+  "address": {
+    "line1": "372 Don Buck Road",
+    "line2": " ",
+    "suburb": "Massey",
+    "city": "Auckland",
+    "postcode": "614"
+  },
+  "nzbn": "9429042746256",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "redhillskindy",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-02T19:33:27Z"
+}

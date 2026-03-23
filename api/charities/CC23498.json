@@ -1,0 +1,27 @@
+{
+  "id": 52690,
+  "registrationNumber": "CC23498",
+  "name": "Biogro New Zealand Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.biogro.co.nz",
+  "email": "donald.nordeng@biogro.co.nz",
+  "address": {
+    "line1": "60 Cuba Street",
+    "line2": "156-158 Victoria Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429038610189",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/BioGroNZ/",
+    "twitter": "https://twitter.com/BioGroNZ"
+  },
+  "lastUpdated": "2025-04-01T07:16:06Z"
+}

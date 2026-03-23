@@ -1,0 +1,27 @@
+{
+  "id": 42546,
+  "registrationNumber": "CC36502",
+  "name": "The Kepler Challenge Mountain Run Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.keplerchallenge.co.nz",
+  "email": "sarahemcintosh@hotmail.com",
+  "address": {
+    "line1": "14 Dorizac Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Anau",
+    "postcode": "9600"
+  },
+  "nzbn": "9429042952398",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T19:25:07Z"
+}

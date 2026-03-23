@@ -1,0 +1,27 @@
+{
+  "id": 66882,
+  "registrationNumber": "CC53163",
+  "name": "New Zealand Deaf Film Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2016-03-01T00:00:00Z",
+  "dateDeregistered": "2021-12-14T00:00:00Z",
+  "website": "https://www.nzdsff.co.nz",
+  "email": "treasurer@nzdsff.co.nz",
+  "address": {
+    "line1": "PO Box 83003",
+    "line2": " ",
+    "suburb": "Johnsonville",
+    "city": "Wellington",
+    "postcode": "6440"
+  },
+  "nzbn": "9429043268979",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/nzdeafshortfilmfestival/",
+    "twitter": null
+  },
+  "lastUpdated": "2022-02-13T20:48:39Z"
+}

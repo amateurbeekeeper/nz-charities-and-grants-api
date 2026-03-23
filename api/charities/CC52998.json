@@ -1,0 +1,27 @@
+{
+  "id": 66722,
+  "registrationNumber": "CC52998",
+  "name": "The Dunedin Wildlife Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-12-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "director@wilddunedin.nz",
+  "address": {
+    "line1": "PO Box 5110",
+    "line2": null,
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9054"
+  },
+  "nzbn": "9429043296613",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T03:23:10Z"
+}

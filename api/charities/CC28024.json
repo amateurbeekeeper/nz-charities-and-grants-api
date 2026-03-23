@@ -1,0 +1,27 @@
+{
+  "id": 53337,
+  "registrationNumber": "CC28024",
+  "name": "Wanderers Community Sports Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wandererssports.co.nz",
+  "email": "jimmy@wandererssports.co.nz",
+  "address": {
+    "line1": "14 Lord Rutherford Road North",
+    "line2": null,
+    "suburb": null,
+    "city": "Brightwater",
+    "postcode": "7022"
+  },
+  "nzbn": "9429042915454",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wandererscommunitysports",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:26:20Z"
+}

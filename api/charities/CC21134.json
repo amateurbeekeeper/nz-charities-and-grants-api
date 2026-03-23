@@ -1,0 +1,27 @@
+{
+  "id": 54335,
+  "registrationNumber": "CC21134",
+  "name": "The Green Effect Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.treesforcanterbury.org.nz",
+  "email": "info@treesforcanterbury.org.nz",
+  "address": {
+    "line1": "42 Charlesworth Street",
+    "line2": " ",
+    "suburb": "Woolston",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429042857259",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Trees4Canterbury/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T20:15:30Z"
+}

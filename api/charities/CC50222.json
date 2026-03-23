@@ -1,0 +1,27 @@
+{
+  "id": 34001,
+  "registrationNumber": "CC50222",
+  "name": "HIPPY Wesley Puketapapa Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "d.wakefield@wesleyprimary.school.nz",
+  "address": {
+    "line1": "Wesley School",
+    "line2": "24 Potter Avenue",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429043240494",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-18T19:19:42Z"
+}

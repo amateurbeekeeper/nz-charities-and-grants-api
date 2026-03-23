@@ -1,0 +1,27 @@
+{
+  "id": 34254,
+  "registrationNumber": "CC50552",
+  "name": "African Film Festival New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.africanfilmfestivalnz.org.nz",
+  "email": "davetomu@gmail.com",
+  "address": {
+    "line1": "26 Highland Avenue",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429043282807",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/africanfilmfestivalnz/",
+    "twitter": "https://twitter.com/affestnz"
+  },
+  "lastUpdated": "2025-09-30T23:25:05Z"
+}

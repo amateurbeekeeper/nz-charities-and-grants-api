@@ -1,0 +1,27 @@
+{
+  "id": 70240,
+  "registrationNumber": "CC56603",
+  "name": "Auckland University Commerce Students' Association Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurer@aucsa.org",
+  "address": {
+    "line1": "12 Grafton Road",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-10T07:24:55Z"
+}

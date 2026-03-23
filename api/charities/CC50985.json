@@ -1,0 +1,27 @@
+{
+  "id": 34643,
+  "registrationNumber": "CC50985",
+  "name": "Lung Foundation New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-09-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lungfoundation.org.nz",
+  "email": "philip.hope@lungfoundation.org.nz",
+  "address": {
+    "line1": "326 Ormond Road",
+    "line2": " ",
+    "suburb": "Riverdale",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429043256563",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/LungFoundationNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-14T04:29:13Z"
+}

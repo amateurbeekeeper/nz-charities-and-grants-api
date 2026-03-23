@@ -1,0 +1,27 @@
+{
+  "id": 47052,
+  "registrationNumber": "CC42805",
+  "name": "Volunteer Kapiti 2020",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.volunteerkapiti.org.nz",
+  "email": "Manager@volunteerkapiti.org.nz",
+  "address": {
+    "line1": "6 Tongariro Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429048133579",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Volunteer-Kapiti-710795435652498/",
+    "twitter": "https://twitter.com/Volunteerkapiti"
+  },
+  "lastUpdated": "2026-01-11T21:32:43Z"
+}

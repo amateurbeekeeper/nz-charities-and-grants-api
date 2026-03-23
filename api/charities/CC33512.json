@@ -1,0 +1,27 @@
+{
+  "id": 42558,
+  "registrationNumber": "CC33512",
+  "name": "The Kaikohe And District Historical And Mechanical Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pioneervillage.org.nz",
+  "email": "info@pioneervillage.org.nz",
+  "address": {
+    "line1": "1A Recreation Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaikohe",
+    "postcode": "0405"
+  },
+  "nzbn": "9429043179381",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Pioneer Village Kaikohe",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:19:41Z"
+}

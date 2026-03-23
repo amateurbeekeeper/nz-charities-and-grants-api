@@ -1,0 +1,27 @@
+{
+  "id": 73031,
+  "registrationNumber": "CC59426",
+  "name": "Rata Street Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tony@aaltd.co.nz",
+  "address": {
+    "line1": "89 Walker Road East",
+    "line2": "Aongatete 3178",
+    "suburb": "Aongatete",
+    "city": "Aongatete",
+    "postcode": "3178"
+  },
+  "nzbn": "9429049738032",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-03T19:21:54Z"
+}

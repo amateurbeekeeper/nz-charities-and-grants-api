@@ -1,0 +1,27 @@
+{
+  "id": 70410,
+  "registrationNumber": "CC56773",
+  "name": "Rangatahi Tumeke Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-04-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "steph@rangatahitumeke.com",
+  "address": {
+    "line1": "17 Rata Road",
+    "line2": "RD 9",
+    "suburb": "Otatara",
+    "city": "Invercargill",
+    "postcode": "9879"
+  },
+  "nzbn": "9429049923391",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RangatahiTumeke/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T19:46:17Z"
+}

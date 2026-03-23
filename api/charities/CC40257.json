@@ -1,0 +1,27 @@
+{
+  "id": 64357,
+  "registrationNumber": "CC40257",
+  "name": "Kawakawa Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2024-01-30T00:00:00Z",
+  "dateDeregistered": "2025-12-19T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/kawakawa/",
+  "email": "rachael.easterbrook@playcentre.org.nz",
+  "address": {
+    "line1": "26 Albert Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kawakawa",
+    "postcode": "210"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/Kawakawaplaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-02T06:06:23Z"
+}

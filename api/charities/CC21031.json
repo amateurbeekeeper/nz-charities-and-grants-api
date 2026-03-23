@@ -1,0 +1,27 @@
+{
+  "id": 52404,
+  "registrationNumber": "CC21031",
+  "name": "New Zealand Charitable Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "south.nzca@gmail.com",
+  "address": {
+    "line1": "119A Clyde Road",
+    "line2": " ",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429043055166",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T22:48:12Z"
+}

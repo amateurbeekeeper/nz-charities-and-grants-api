@@ -1,0 +1,27 @@
+{
+  "id": 66256,
+  "registrationNumber": "CC52524",
+  "name": "Huggable Hearts NZ ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.huggablehearts.co.nz",
+  "email": "andrea@huggablehearts.co.nz",
+  "address": {
+    "line1": "16 Sheila Place",
+    "line2": " ",
+    "suburb": "Dinsdale",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043269273",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/HuggableHeartsNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:45:24Z"
+}

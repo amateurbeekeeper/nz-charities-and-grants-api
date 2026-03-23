@@ -1,0 +1,27 @@
+{
+  "id": 68258,
+  "registrationNumber": "CC54590",
+  "name": "Atea a Rangi Educational Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.atea.nz",
+  "email": "msmith@atea.nz",
+  "address": {
+    "line1": "255 State Highway 51",
+    "line2": null,
+    "suburb": " ",
+    "city": "Clive",
+    "postcode": "4102"
+  },
+  "nzbn": "9429046100870",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "atea a rangi",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T03:09:28Z"
+}

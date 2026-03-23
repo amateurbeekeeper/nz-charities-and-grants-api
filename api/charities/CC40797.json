@@ -1,0 +1,27 @@
+{
+  "id": 62836,
+  "registrationNumber": "CC40797",
+  "name": "Wainui Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fleur.brassett@gmail.com",
+  "address": {
+    "line1": "17 Wainui Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Kaitaia",
+    "postcode": "481"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Wainui Marae Ahipara",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T23:14:15Z"
+}

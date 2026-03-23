@@ -1,0 +1,27 @@
+{
+  "id": 42233,
+  "registrationNumber": "CC25469",
+  "name": "HT and PG Garlick Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "alannah@wwauckland.co.nz",
+  "address": {
+    "line1": "Apartment 2405",
+    "line2": "Summerset St Johns",
+    "suburb": "Saint Johns",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042643425",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T19:16:19Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 68944,
+  "registrationNumber": "CC55286",
+  "name": "Legacy Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-01-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://legacy.net.nz/",
+  "email": "stevec@legacy.net.nz",
+  "address": {
+    "line1": "200 Church Street",
+    "line2": " ",
+    "suburb": "West End",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429046475527",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/legacypmn/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-29T22:59:16Z"
+}

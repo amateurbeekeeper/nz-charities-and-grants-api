@@ -1,0 +1,27 @@
+{
+  "id": 47008,
+  "registrationNumber": "CC43158",
+  "name": "Every Nation Southside Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "megan@aucklandca.nz",
+  "address": {
+    "line1": "16 Puhinui Road",
+    "line2": "Manukau ",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429043035878",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/everynationsouthside/ ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T19:08:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51849,
+  "registrationNumber": "CC10491",
+  "name": "Papatoetoe Community Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "antonyeley@hotmail.com",
+  "address": {
+    "line1": "311 Great South Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429042967354",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T18:10:53Z"
+}

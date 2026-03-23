@@ -1,0 +1,27 @@
+{
+  "id": 46706,
+  "registrationNumber": "CC31684",
+  "name": "Ruakaka Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.fireandemergency.nz",
+  "email": "ruakakafire@gmail.com",
+  "address": {
+    "line1": "Princes Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ruakaka",
+    "postcode": "0116"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:39:11Z"
+}

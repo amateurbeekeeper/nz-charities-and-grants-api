@@ -1,0 +1,27 @@
+{
+  "id": 42757,
+  "registrationNumber": "CC40968",
+  "name": "Auckland Begonia Circle",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.aucklandbegoniacircle.org.nz",
+  "email": "aucklandbegoniacircle@gmail.com",
+  "address": {
+    "line1": "14 Keenagh Rise",
+    "line2": " ",
+    "suburb": "Dannemora",
+    "city": "Auckland",
+    "postcode": "2016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T01:22:47Z"
+}

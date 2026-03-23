@@ -1,0 +1,27 @@
+{
+  "id": 68162,
+  "registrationNumber": "CC54492",
+  "name": "Equippers Thames Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.equipperschurch.com/thames",
+  "email": "leon.rakete@equipperscollege.com",
+  "address": {
+    "line1": "507 Mackay Street",
+    "line2": "Thames 3500",
+    "suburb": "Auckland Central",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429045899928",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/equipperschurchthames",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T20:02:26Z"
+}

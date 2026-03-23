@@ -1,0 +1,27 @@
+{
+  "id": 71980,
+  "registrationNumber": "CC58359",
+  "name": "Harbour House Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-10-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://harbourhousechurch.org/tag/diamond-harbour",
+  "email": "tomkuenning@hotmail.com",
+  "address": {
+    "line1": "30 James Drive",
+    "line2": "RD 1",
+    "suburb": "Diamond Harbour",
+    "city": "Lyttelton",
+    "postcode": "8971"
+  },
+  "nzbn": "9429048740067",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/463429407838766",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-11T21:37:11Z"
+}

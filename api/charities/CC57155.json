@@ -1,0 +1,27 @@
+{
+  "id": 70787,
+  "registrationNumber": "CC57155",
+  "name": "Australasian Society for Intellectual Disability Ltd",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-11-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.asid.asn.au",
+  "email": "secretariat@asid.asn.au",
+  "address": {
+    "line1": "25 Granville Terrace",
+    "line2": " ",
+    "suburb": "Belleknowes",
+    "city": "Dunedin",
+    "postcode": "9011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/asid.asn.au",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T00:35:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54581,
+  "registrationNumber": "CC21369",
+  "name": "Adventure Camp Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.onebigadventure.org.nz",
+  "email": "director@onebigadventure.org.nz",
+  "address": {
+    "line1": "397 Henderson Valley Road",
+    "line2": " ",
+    "suburb": "Henderson Valley",
+    "city": "Auckland",
+    "postcode": "612"
+  },
+  "nzbn": "9429042572398",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/onebigadventure.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T01:45:52Z"
+}

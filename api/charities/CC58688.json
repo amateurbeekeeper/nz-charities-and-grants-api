@@ -1,0 +1,27 @@
+{
+  "id": 72302,
+  "registrationNumber": "CC58688",
+  "name": "The Arabic School of New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.arabicschool.org.nz/",
+  "email": "nzmhnz@gmail.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "77 Kemp Street",
+    "suburb": "Kilbirnie",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/TheArabicSchoolOfNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-11-12T18:38:51Z"
+}

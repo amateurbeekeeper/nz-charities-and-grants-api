@@ -1,0 +1,27 @@
+{
+  "id": 57536,
+  "registrationNumber": "CC29002",
+  "name": "New Zealand Association of Clinical Research Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzacres.org.nz",
+  "email": "info@nzacres.org.nz",
+  "address": {
+    "line1": "Level 12",
+    "line2": "2 Commerce St",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043115686",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T07:46:00Z"
+}

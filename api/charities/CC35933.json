@@ -1,0 +1,27 @@
+{
+  "id": 62433,
+  "registrationNumber": "CC35933",
+  "name": "Pauanui Pre-School",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-12-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pauanuipreschool.co.nz",
+  "email": "pauanuipreschool@xtra.co.nz",
+  "address": {
+    "line1": "36 Sheppard Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pauanui Beach",
+    "postcode": null
+  },
+  "nzbn": "9429042787310",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:38:24Z"
+}

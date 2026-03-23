@@ -1,0 +1,27 @@
+{
+  "id": 51949,
+  "registrationNumber": "CC20210",
+  "name": "Waiaua Marae Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "waiauamaraetrust@gmail.com",
+  "address": {
+    "line1": "46 Waiaua Road",
+    "line2": "RD 1",
+    "suburb": "Hihi",
+    "city": "Mangonui",
+    "postcode": "0494"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T18:01:46Z"
+}

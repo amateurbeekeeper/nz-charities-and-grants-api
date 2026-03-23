@@ -1,0 +1,27 @@
+{
+  "id": 35683,
+  "registrationNumber": "CC44702",
+  "name": "Southland Land Search & Rescue Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.southlandsar.org.nz",
+  "email": "nick.mcevoy@southlandsar.org.nz",
+  "address": {
+    "line1": "249 Ettrick Street",
+    "line2": " ",
+    "suburb": "Appleby",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": "9429047183827",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/southlandsar",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T11:05:00Z"
+}

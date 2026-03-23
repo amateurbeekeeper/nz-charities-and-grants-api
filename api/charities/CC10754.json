@@ -1,0 +1,27 @@
+{
+  "id": 52007,
+  "registrationNumber": "CC10754",
+  "name": "The Wellington Regional Stadium Trust Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.skystadium.co.nz",
+  "email": "kandersen@stadiumtrust.org.nz",
+  "address": {
+    "line1": "105 Waterloo Quay",
+    "line2": "Waterloo Quay",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042941477",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SkyStadium",
+    "twitter": "https://x.com/skystadium"
+  },
+  "lastUpdated": "2025-11-25T21:11:00Z"
+}

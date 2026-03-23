@@ -1,0 +1,27 @@
+{
+  "id": 75150,
+  "registrationNumber": "CC61576",
+  "name": "Legacy Centre Whanganui",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://legacy.net.nz/",
+  "email": "stevec@legacy.net.nz",
+  "address": {
+    "line1": "86 Highbury Avenue",
+    "line2": " ",
+    "suburb": "Highbury",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429051430474",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/legacypmn/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T23:26:36Z"
+}

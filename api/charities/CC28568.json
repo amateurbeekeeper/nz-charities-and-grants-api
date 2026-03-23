@@ -1,0 +1,27 @@
+{
+  "id": 60783,
+  "registrationNumber": "CC28568",
+  "name": "Queen Street Gospel Chapel Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.qsgc.org.nz",
+  "email": "qscfinance@slingshot.co.nz",
+  "address": {
+    "line1": "541 Queen Street East",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": "9429042811589",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/148334368624224/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T01:25:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71702,
+  "registrationNumber": "CC58085",
+  "name": "Medic to Medic",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-06-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.medictomedic.org.nz",
+  "email": "tamsinlillie@yahoo.co.uk",
+  "address": {
+    "line1": "112 Otonga Road",
+    "line2": " ",
+    "suburb": "Springfield",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Medic to Medic",
+    "twitter": "@MedictoMedic"
+  },
+  "lastUpdated": "2025-12-07T20:14:03Z"
+}

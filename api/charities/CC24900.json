@@ -1,0 +1,27 @@
+{
+  "id": 54074,
+  "registrationNumber": "CC24900",
+  "name": "Kaikoura Historical Society (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kaikoura-museum.co.nz",
+  "email": "kk.museum@xtra.co.nz",
+  "address": {
+    "line1": "96 West End",
+    "line2": "Kaikoura 7300",
+    "suburb": " ",
+    "city": "Kaikoura",
+    "postcode": "7300"
+  },
+  "nzbn": "9429042647751",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@kaikouramuseum ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T01:04:25Z"
+}

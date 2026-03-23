@@ -1,0 +1,27 @@
+{
+  "id": 61166,
+  "registrationNumber": "CC29025",
+  "name": "Wisemoney Foundation Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wisemoney.co.nz",
+  "email": "phil@wisemoney.co.nz",
+  "address": {
+    "line1": "10 Te Aranui Drive",
+    "line2": null,
+    "suburb": null,
+    "city": "Te Awamutu",
+    "postcode": "3800"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T06:06:42Z"
+}

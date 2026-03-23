@@ -1,0 +1,27 @@
+{
+  "id": 38732,
+  "registrationNumber": "CC45626",
+  "name": "Lincoln Primary School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-10-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta@lincolnprimary.ac.nz",
+  "address": {
+    "line1": "12 Jacobsens Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lincoln",
+    "postcode": "7608"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T21:37:48Z"
+}

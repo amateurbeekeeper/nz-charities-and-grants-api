@@ -1,0 +1,27 @@
+{
+  "id": 64663,
+  "registrationNumber": "CC37633",
+  "name": "ASK Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-02-10T00:00:00Z",
+  "dateDeregistered": "2022-03-01T00:00:00Z",
+  "website": "http://www.asknz.net",
+  "email": "zealan@zees.co.nz",
+  "address": {
+    "line1": "8 Cass Bay Place",
+    "line2": " ",
+    "suburb": "Cass Bay",
+    "city": "Lyttelton",
+    "postcode": "8082"
+  },
+  "nzbn": "9429043015566",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/ASK-Trust-309603833117194/",
+    "twitter": null
+  },
+  "lastUpdated": "2022-03-17T01:38:37Z"
+}

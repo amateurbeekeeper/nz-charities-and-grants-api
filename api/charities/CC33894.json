@@ -1,0 +1,27 @@
+{
+  "id": 42424,
+  "registrationNumber": "CC33894",
+  "name": "Midland Community Pharmacy Group Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.midcpg.co.nz",
+  "email": "gail@midcpg.co.nz",
+  "address": {
+    "line1": "4 Howden Road",
+    "line2": "Chartwell Square",
+    "suburb": "Fairfield",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": "9429043113736",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T23:02:04Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 47336,
+  "registrationNumber": "CC41035",
+  "name": "First Church of Christ Scientist (Wanganui)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.christiansciencenz.org/wanganui.html",
+  "email": "robynszabo@outlook.com",
+  "address": {
+    "line1": "60 Ingestre Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042702443",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T03:56:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73088,
+  "registrationNumber": "CC59483",
+  "name": "Taku Mamia Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.mamia.co.nz",
+  "email": "james@mamia.co.nz",
+  "address": {
+    "line1": "169 Waikareao Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Hauke",
+    "postcode": "4178"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T23:17:51Z"
+}

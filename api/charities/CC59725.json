@@ -1,0 +1,27 @@
+{
+  "id": 73385,
+  "registrationNumber": "CC59725",
+  "name": "New Life Papamoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "brendan@sandfordwall.co.nz",
+  "address": {
+    "line1": "47 Biak Street",
+    "line2": " ",
+    "suburb": "Mangakakahi",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429049973419",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@Livingwell Papamoa",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T22:01:00Z"
+}

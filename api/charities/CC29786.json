@@ -1,0 +1,27 @@
+{
+  "id": 65103,
+  "registrationNumber": "CC29786",
+  "name": "LinkNZ Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.linknz.org.nz",
+  "email": "gabrielle@farmside.co.nz",
+  "address": {
+    "line1": "33A Carey Street",
+    "line2": " ",
+    "suburb": "Maeroa",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429043066964",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-19T19:25:41Z"
+}

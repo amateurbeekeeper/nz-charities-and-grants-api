@@ -1,0 +1,27 @@
+{
+  "id": 65242,
+  "registrationNumber": "CC51470",
+  "name": "Connect the Dots",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.connectthedots.org.nz",
+  "email": "andrea@connectthedots.org.nz",
+  "address": {
+    "line1": "354 Onehunga Mall",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043296330",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/Connectthedotscharitabletrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:07:58Z"
+}

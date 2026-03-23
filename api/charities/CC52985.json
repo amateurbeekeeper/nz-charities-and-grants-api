@@ -1,0 +1,27 @@
+{
+  "id": 66711,
+  "registrationNumber": "CC52985",
+  "name": "Hurunui-o-Rangi Marae",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-11-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.hurunuiorangimarae.co.nz ",
+  "email": "maraehurunuiorangi@gmail.com",
+  "address": {
+    "line1": "457 Gladstone Road",
+    "line2": "Gladstone 5792",
+    "suburb": " ",
+    "city": "Gladstone",
+    "postcode": "5792"
+  },
+  "nzbn": "9429043024568",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61556606686392",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T03:14:38Z"
+}

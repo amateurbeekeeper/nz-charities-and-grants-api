@@ -1,0 +1,27 @@
+{
+  "id": 63601,
+  "registrationNumber": "CC41456",
+  "name": "Trans Tasman Radiation Oncology Group Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-07-20T00:00:00Z",
+  "dateDeregistered": "2015-02-15T00:00:00Z",
+  "website": "http://www.trog.com.au",
+  "email": "administrator@trog.com.au",
+  "address": {
+    "line1": "Trog Cancer Research",
+    "line2": "Calvary Mater Newcastle Edith Stlevel 5 Building 7",
+    "suburb": "Waratah",
+    "city": "Australia",
+    "postcode": "2298"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:13:13Z"
+}

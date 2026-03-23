@@ -1,0 +1,27 @@
+{
+  "id": 40287,
+  "registrationNumber": "CC29809",
+  "name": "Pharmacy Council of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pharmacycouncil.org.nz",
+  "email": "v.lowe@pharmacycouncil.org.nz",
+  "address": {
+    "line1": "Level 7",
+    "line2": "22 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429047124226",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:57:44Z"
+}

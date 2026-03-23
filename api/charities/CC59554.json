@@ -1,0 +1,27 @@
+{
+  "id": 73167,
+  "registrationNumber": "CC59554",
+  "name": "The Lightfoot Initiative Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lightfoot.org.nz",
+  "email": "amanda@lightfoot.org.nz",
+  "address": {
+    "line1": "20B Remarkables Crescent",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/lightfootinitiative",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T03:45:25Z"
+}

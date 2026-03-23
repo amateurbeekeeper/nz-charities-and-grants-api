@@ -1,0 +1,27 @@
+{
+  "id": 66446,
+  "registrationNumber": "CC52711",
+  "name": "St Andrews Central Hawkes Bay",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.standrewschb.com",
+  "email": "treasurer.sachb@gmail.com",
+  "address": {
+    "line1": "1 Church Lane",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waipukurau",
+    "postcode": "4200"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T02:55:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 60180,
+  "registrationNumber": "CC28983",
+  "name": "Rotary Club of Taradale Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taradalerotary.org.nz",
+  "email": "jandrhay@gmail.com",
+  "address": {
+    "line1": "7 Cheval Place",
+    "line2": " ",
+    "suburb": "Taradale",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": "9429043108268",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/RotaryTaradale/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:13:04Z"
+}

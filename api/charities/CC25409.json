@@ -1,0 +1,27 @@
+{
+  "id": 56514,
+  "registrationNumber": "CC25409",
+  "name": "Beach Street Hall Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "beachstreethall@gmail.com",
+  "address": {
+    "line1": "38 Beach Street",
+    "line2": " ",
+    "suburb": "Strandon",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429042593799",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-18T22:34:41Z"
+}

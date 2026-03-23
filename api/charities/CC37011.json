@@ -1,0 +1,27 @@
+{
+  "id": 45063,
+  "registrationNumber": "CC37011",
+  "name": "Ngati Hei Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngatihei.iwi.nz",
+  "email": "kelly.macpherson@ngatihei.iwi.nz",
+  "address": {
+    "line1": "14C Wharekaho Road",
+    "line2": " ",
+    "suburb": "Wharekaho",
+    "city": "Whitianga",
+    "postcode": "3510"
+  },
+  "nzbn": "9429042690092",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ngati Hei ki Wharekaho",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T02:42:28Z"
+}

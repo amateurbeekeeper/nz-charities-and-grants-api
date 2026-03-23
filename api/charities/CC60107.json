@@ -1,0 +1,27 @@
+{
+  "id": 73324,
+  "registrationNumber": "CC60107",
+  "name": "Edmund Hillary Fellowship Ltd",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ehf.org/",
+  "email": "Elizabeth@ehf.org",
+  "address": {
+    "line1": "101 Pakenham Street West",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043336470",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/edmundhillaryfellowship/",
+    "twitter": "https://twitter.com/ehfnewzealand?lang=en"
+  },
+  "lastUpdated": "2026-03-17T23:15:32Z"
+}

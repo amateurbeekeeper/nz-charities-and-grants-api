@@ -1,0 +1,27 @@
+{
+  "id": 62486,
+  "registrationNumber": "CC45585",
+  "name": "The Devonport RSA Memorial Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-10-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.devonportrsa.co.nz",
+  "email": "manager@devonportrsa.co.nz",
+  "address": {
+    "line1": "61 Victoria Road",
+    "line2": " ",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "624"
+  },
+  "nzbn": "9429042856924",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T22:51:51Z"
+}

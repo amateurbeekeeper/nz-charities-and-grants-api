@@ -1,0 +1,27 @@
+{
+  "id": 55179,
+  "registrationNumber": "CC21995",
+  "name": "Hamilton Astronomical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.has.org.nz",
+  "email": "hassec@has.org.nz",
+  "address": {
+    "line1": "183 Brymer Road",
+    "line2": " ",
+    "suburb": "Rotokauri",
+    "city": "Hamilton",
+    "postcode": "3289"
+  },
+  "nzbn": "9429042712213",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:36:20Z"
+}

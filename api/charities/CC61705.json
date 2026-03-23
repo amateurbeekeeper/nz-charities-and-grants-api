@@ -1,0 +1,27 @@
+{
+  "id": 75261,
+  "registrationNumber": "CC61705",
+  "name": "The New Zealand Society of Authors Te Puni Kaituhi o Aotearoa PEN New Zealand Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-10-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.authors.org.nz",
+  "email": "director@nzauthors.org.nz",
+  "address": {
+    "line1": "level 6 Kotahitanga",
+    "line2": "19-23 Como St",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0740"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzs.authors",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T21:26:59Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54523,
+  "registrationNumber": "CC20960",
+  "name": "Calvary Church Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-02-06T00:00:00Z",
+  "dateDeregistered": "2011-03-21T00:00:00Z",
+  "website": "http://www.calvarytamilchurch.org",
+  "email": "admin@calvarytamilchurch.org",
+  "address": {
+    "line1": "60A Mary Dreaver Street",
+    "line2": null,
+    "suburb": "New Windsor",
+    "city": "Auckland",
+    "postcode": "600"
+  },
+  "nzbn": "9429043157884",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T00:55:34Z"
+}

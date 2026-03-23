@@ -1,0 +1,27 @@
+{
+  "id": 62497,
+  "registrationNumber": "CC39523",
+  "name": "NZ View Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-04-26T00:00:00Z",
+  "dateDeregistered": "2025-08-05T00:00:00Z",
+  "website": "https://nzview@gmail.com",
+  "email": "nzviewinc@gmail.com",
+  "address": {
+    "line1": "62 Stewart Drive",
+    "line2": " ",
+    "suburb": "Newlands",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429042969525",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-19T07:17:46Z"
+}

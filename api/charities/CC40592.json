@@ -1,0 +1,27 @@
+{
+  "id": 42701,
+  "registrationNumber": "CC40592",
+  "name": "Emmaus Walk Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.emmaus.net.nz",
+  "email": "admin@emmaus.net.nz",
+  "address": {
+    "line1": "91 Mihaere Drive ",
+    "line2": "Palmerston North Central",
+    "suburb": " Kelvin Grove",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/emmausmanawatu",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T20:52:16Z"
+}

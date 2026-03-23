@@ -1,0 +1,27 @@
+{
+  "id": 42023,
+  "registrationNumber": "CC24673",
+  "name": "Wanganui Ostomy Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "winky1@xtra.co.nz",
+  "address": {
+    "line1": "55 Talbot Street",
+    "line2": " ",
+    "suburb": "Whanganui East",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429043173440",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-04T04:42:49Z"
+}

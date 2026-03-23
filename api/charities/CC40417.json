@@ -1,0 +1,27 @@
+{
+  "id": 44327,
+  "registrationNumber": "CC40417",
+  "name": "Eltham Events Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.touchpointrestaurant.co.nz",
+  "email": "olwynduthie@gmail.com",
+  "address": {
+    "line1": "30 Octavius Place",
+    "line2": "New Plymouth 4312",
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T07:25:30Z"
+}

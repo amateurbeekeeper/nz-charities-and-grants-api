@@ -1,0 +1,27 @@
+{
+  "id": 67568,
+  "registrationNumber": "CC53874",
+  "name": "All Nations Church of the Nazarene",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "allnationsnz2@gmail.com",
+  "address": {
+    "line1": "675 Dominion Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429043299423",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T21:03:46Z"
+}

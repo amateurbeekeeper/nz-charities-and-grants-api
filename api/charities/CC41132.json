@@ -1,0 +1,27 @@
+{
+  "id": 42735,
+  "registrationNumber": "CC41132",
+  "name": "Wellington Early Intervention Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.weit.org.nz",
+  "email": "weit@xtra.co.nz",
+  "address": {
+    "line1": "79A Copeland Street",
+    "line2": " ",
+    "suburb": "Epuni",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429042837701",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-14T02:01:24Z"
+}

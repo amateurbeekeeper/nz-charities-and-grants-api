@@ -1,0 +1,27 @@
+{
+  "id": 41878,
+  "registrationNumber": "CC36667",
+  "name": "Global Hope",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.brighthopeworld.com",
+  "email": "jarrod@brighthopeworld.com",
+  "address": {
+    "line1": "39 Carlyle Street",
+    "line2": "32 Byron Street",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429043046874",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T23:05:53Z"
+}

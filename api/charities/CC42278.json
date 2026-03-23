@@ -1,0 +1,27 @@
+{
+  "id": 63629,
+  "registrationNumber": "CC42278",
+  "name": "The Landscape Connections Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.haloproject.org.nz",
+  "email": "alice@haloproject.org.nz",
+  "address": {
+    "line1": "Level 1, 77 Vogel Street, Dunedin Central, Dunedin",
+    "line2": "Level 1, 77 Vogel Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043224685",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "halobeyondorokonui",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T01:58:43Z"
+}

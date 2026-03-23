@@ -1,0 +1,27 @@
+{
+  "id": 62919,
+  "registrationNumber": "CC38025",
+  "name": "Butterfly Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.butterflytrust.org",
+  "email": "david.lynn@butterflytrust.org",
+  "address": {
+    "line1": "74B Aberfeldy Avenue",
+    "line2": " ",
+    "suburb": "Highland Park",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "6/10",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://web.facebook.com/thebutterflytrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:46:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72371,
+  "registrationNumber": "CC58772",
+  "name": "Pasifika Roots Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-01-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@pasifikaroots.com",
+  "address": {
+    "line1": "Suite 6",
+    "line2": "506 South Titirangi Road",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429048817394",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T18:20:12Z"
+}

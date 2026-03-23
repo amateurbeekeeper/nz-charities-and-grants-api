@@ -1,0 +1,27 @@
+{
+  "id": 75137,
+  "registrationNumber": "CC61569",
+  "name": "Aotearoa Public Art Heritage Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://publicart.nz",
+  "email": "sue@publicart.nz",
+  "address": {
+    "line1": "61 Abel Smith Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-02T19:34:32Z"
+}

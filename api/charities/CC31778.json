@@ -1,0 +1,27 @@
+{
+  "id": 55272,
+  "registrationNumber": "CC31778",
+  "name": "Grief Support Services Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.griefsupport.org.nz",
+  "email": "admin@griefsupport.org.nz",
+  "address": {
+    "line1": "147 Chadwick Road",
+    "line2": " ",
+    "suburb": "Greerton",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042846321",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T21:18:16Z"
+}

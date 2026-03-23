@@ -1,0 +1,27 @@
+{
+  "id": 51644,
+  "registrationNumber": "CC10844",
+  "name": "Read NZ Te Pou Muramura Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.read-nz.org",
+  "email": "director@read-nz.org",
+  "address": {
+    "line1": "Ground floor ",
+    "line2": "79 Boulcott Street ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042791287",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/readnztepoumuramura/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-11T19:39:23Z"
+}

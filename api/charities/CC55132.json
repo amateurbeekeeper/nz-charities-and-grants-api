@@ -1,0 +1,27 @@
+{
+  "id": 68789,
+  "registrationNumber": "CC55132",
+  "name": "New Zealand USAR Search Dog Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-10-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.usardogs.org.nz",
+  "email": "nzusardogs@outlook.com",
+  "address": {
+    "line1": "7 Lambies Street",
+    "line2": null,
+    "suburb": "Marshland",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429046410511",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T22:09:31Z"
+}

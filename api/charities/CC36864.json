@@ -1,0 +1,27 @@
+{
+  "id": 45943,
+  "registrationNumber": "CC36864",
+  "name": "Manna Christian Stores Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.manna.co.nz",
+  "email": "hpatel@biblesociety.org.nz",
+  "address": {
+    "line1": "6A Kellow Place",
+    "line2": " ",
+    "suburb": "Wiri",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429037699628",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MannaChristianStores/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T03:31:19Z"
+}

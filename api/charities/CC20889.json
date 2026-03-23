@@ -1,0 +1,27 @@
+{
+  "id": 53739,
+  "registrationNumber": "CC20889",
+  "name": "Beyond Imagination Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://curatechurch.com/",
+  "email": "Nick@curatechurch.com",
+  "address": {
+    "line1": "42C Tawa Street",
+    "line2": "Mount Maunganui 3116",
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429043065707",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T21:16:13Z"
+}

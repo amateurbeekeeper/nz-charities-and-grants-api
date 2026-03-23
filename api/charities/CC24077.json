@@ -1,0 +1,27 @@
+{
+  "id": 41025,
+  "registrationNumber": "CC24077",
+  "name": "Motueka Arts Council Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://motuekaartscouncil.com",
+  "email": "danielbulman@xtra.co.nz",
+  "address": {
+    "line1": "Motueka Community House",
+    "line2": "9 Greenwood St, Decks Reserve",
+    "suburb": " ",
+    "city": "Motueka",
+    "postcode": "7120"
+  },
+  "nzbn": "9429043024223",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Motueka Arts Council",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-18T23:31:35Z"
+}

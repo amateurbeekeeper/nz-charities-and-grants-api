@@ -1,0 +1,27 @@
+{
+  "id": 36582,
+  "registrationNumber": "CC47144",
+  "name": "Kelston LMS Pasefika Samoa Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-08-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kenneth@mcmillanwoods.co.nz",
+  "address": {
+    "line1": "27 Titch Place",
+    "line2": " ",
+    "suburb": "Glen Eden",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": "9429043124602",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:41:59Z"
+}

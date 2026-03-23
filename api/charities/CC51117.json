@@ -1,0 +1,27 @@
+{
+  "id": 34719,
+  "registrationNumber": "CC51117",
+  "name": "The Serve",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-10-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.theserve.org.nz",
+  "email": "info@theserve.org.nz",
+  "address": {
+    "line1": "4 Harwood Street",
+    "line2": "Hamilton East",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043287017",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/theservecommunity/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T19:13:01Z"
+}

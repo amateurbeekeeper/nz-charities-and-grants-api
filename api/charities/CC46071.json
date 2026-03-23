@@ -1,0 +1,27 @@
+{
+  "id": 38790,
+  "registrationNumber": "CC46071",
+  "name": "Huia Ministries",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-01-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.huiacomehome.co.nz",
+  "email": "huiaministries@gmail.com",
+  "address": {
+    "line1": "10B Woodleigh Street",
+    "line2": " ",
+    "suburb": "Frankleigh Park",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:07:05Z"
+}

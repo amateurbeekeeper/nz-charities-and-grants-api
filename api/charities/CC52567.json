@@ -1,0 +1,27 @@
+{
+  "id": 66296,
+  "registrationNumber": "CC52567",
+  "name": "Anglican Diocese of Christchurch -  Parish of Hornby",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://hornbyanglican.org.nz",
+  "email": "office@hornbyanglican.org.nz",
+  "address": {
+    "line1": "452 Main South Road",
+    "line2": " ",
+    "suburb": "Hornby",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "anglican parish of Hornby Templeton West Melton",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T19:14:05Z"
+}

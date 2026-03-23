@@ -1,0 +1,27 @@
+{
+  "id": 52250,
+  "registrationNumber": "CC20321",
+  "name": "ARTSPACE (Aotearoa) Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.artspace-aotearoa.nz",
+  "email": "bridget@artspace.org.nz",
+  "address": {
+    "line1": "292 Karangahape Road",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043125647",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/artspace.aotearoa/",
+    "twitter": "NA"
+  },
+  "lastUpdated": "2026-01-20T22:50:54Z"
+}

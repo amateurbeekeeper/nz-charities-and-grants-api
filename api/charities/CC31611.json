@@ -1,0 +1,27 @@
+{
+  "id": 42905,
+  "registrationNumber": "CC31611",
+  "name": "Ohakune Volunteer Fire Brigade Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "John.hotter@fireandemergency.nz",
+  "address": {
+    "line1": "26 Goldfinch Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ohakune",
+    "postcode": "4625"
+  },
+  "nzbn": "9429042816003",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T02:46:57Z"
+}

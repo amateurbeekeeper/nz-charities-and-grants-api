@@ -1,0 +1,27 @@
+{
+  "id": 34974,
+  "registrationNumber": "CC49736",
+  "name": "Kaikoura Community Gym Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2013-04-11T00:00:00Z",
+  "dateDeregistered": "2022-04-01T00:00:00Z",
+  "website": "https://www.kaikouragym.co.nz",
+  "email": "john@kaifi.co.nz",
+  "address": {
+    "line1": "Harakeke Shopping Centre",
+    "line2": "130 Beach Road",
+    "suburb": " ",
+    "city": "Kaikoura",
+    "postcode": "7300"
+  },
+  "nzbn": "9429043046744",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/KaikouraGym/",
+    "twitter": null
+  },
+  "lastUpdated": "2023-09-08T07:02:38Z"
+}

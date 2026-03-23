@@ -1,0 +1,27 @@
+{
+  "id": 76731,
+  "registrationNumber": "CC62877",
+  "name": "The Charitable Recycling Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thecharitablerecyclingtrust.org",
+  "email": "grant@thecharitablerecyclingtrust.org",
+  "address": {
+    "line1": "12 Clifford Road",
+    "line2": " ",
+    "suburb": "Johnsonville",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429052139437",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top/?q=The%20charitable%20recycling%20trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T22:39:39Z"
+}

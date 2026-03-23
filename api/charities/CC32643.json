@@ -1,0 +1,27 @@
+{
+  "id": 43764,
+  "registrationNumber": "CC32643",
+  "name": "The Heatley Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hayley@craigheatley.co.nz",
+  "address": {
+    "line1": "10C Brett Avenue",
+    "line2": "112 Kitchener Road",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429043125906",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T22:23:38Z"
+}

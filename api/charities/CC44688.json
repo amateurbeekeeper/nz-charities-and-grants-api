@@ -1,0 +1,27 @@
+{
+  "id": 50607,
+  "registrationNumber": "CC44688",
+  "name": "Auckland Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-07-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandfoundation.org.nz",
+  "email": "melody@aucklandfoundation.org.nz",
+  "address": {
+    "line1": "Level 17/19 Customs Street West",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043212293",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T23:31:14Z"
+}

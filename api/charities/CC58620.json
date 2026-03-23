@@ -1,0 +1,27 @@
+{
+  "id": 72234,
+  "registrationNumber": "CC58620",
+  "name": "The Place Charitable Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "theplacehello@gmail.com",
+  "address": {
+    "line1": "15F Hood Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429048831888",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ThePlaceCommunityArtsSpace",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-26T20:06:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 47049,
+  "registrationNumber": "CC44086",
+  "name": "Ruapehu Ski Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rsc.org.nz",
+  "email": "treasurer@rsc.org.nz",
+  "address": {
+    "line1": "17 Totara Street",
+    "line2": "Ohakune 4625",
+    "suburb": "Auckland City",
+    "city": "Ohakune",
+    "postcode": "4625"
+  },
+  "nzbn": "9429042736608",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ruapehu Ski Club",
+    "twitter": "RuapehuSkiClub"
+  },
+  "lastUpdated": "2025-07-11T01:00:08Z"
+}

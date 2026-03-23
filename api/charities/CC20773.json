@@ -1,0 +1,27 @@
+{
+  "id": 53697,
+  "registrationNumber": "CC20773",
+  "name": "The Young Men's Christian Association of Invercargill Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ysouthland.org.nz/",
+  "email": "steve.broad@ymcasouth.org.nz",
+  "address": {
+    "line1": "77 Tay Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042971559",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ymcasouth",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T02:07:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64769,
+  "registrationNumber": "CC29072",
+  "name": "The SOMA New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://soma-nz.weebly.com/",
+  "email": "ian@hardcastle.gen.nz",
+  "address": {
+    "line1": "20 Rakino Avenue",
+    "line2": " ",
+    "suburb": "Manly",
+    "city": "Whangaparaoa",
+    "postcode": "0930"
+  },
+  "nzbn": "9429043071623",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "SOMA New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-22T19:51:40Z"
+}

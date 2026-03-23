@@ -1,0 +1,27 @@
+{
+  "id": 49258,
+  "registrationNumber": "CC36869",
+  "name": "New Zealand Sexual Health Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzshs.org",
+  "email": "SWerder@adhb.govt.nz",
+  "address": {
+    "line1": "Auckland Sexual Health Service",
+    "line2": "Private Bag 92024",
+    "suburb": "Greenlane West",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:05:32Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 58083,
+  "registrationNumber": "CC37089",
+  "name": "DOVE Hawkes Bay Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.dovehb.org.nz",
+  "email": "manager@dovehb.org.nz",
+  "address": {
+    "line1": "903 Florence Street",
+    "line2": "Hastings 4122",
+    "suburb": "Raureka",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429042668824",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DOVE-Hawkes-Bay-291196117686615/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T21:42:40Z"
+}

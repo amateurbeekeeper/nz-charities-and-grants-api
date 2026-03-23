@@ -1,0 +1,27 @@
+{
+  "id": 33574,
+  "registrationNumber": "CC50051",
+  "name": "The Living Fountain Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-12-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "aronataotua@gmail.com",
+  "address": {
+    "line1": "124 Warspite Avenue",
+    "line2": " ",
+    "suburb": "Waitangirua",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/livingfountain.church.96",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T21:32:43Z"
+}

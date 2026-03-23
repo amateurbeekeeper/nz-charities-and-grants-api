@@ -1,0 +1,27 @@
+{
+  "id": 69391,
+  "registrationNumber": "CC55744",
+  "name": "Waka Crew",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-05-16T00:00:00Z",
+  "dateDeregistered": "2024-08-01T00:00:00Z",
+  "website": null,
+  "email": "pta@wakaaranga.school.nz",
+  "address": {
+    "line1": "18 Butley Drive",
+    "line2": " ",
+    "suburb": "Farm Cove",
+    "city": "Auckland",
+    "postcode": "2012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wakacrew123/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-08-01T07:17:44Z"
+}

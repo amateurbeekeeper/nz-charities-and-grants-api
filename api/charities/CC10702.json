@@ -1,0 +1,27 @@
+{
+  "id": 51673,
+  "registrationNumber": "CC10702",
+  "name": "Paekakariki Surf Life Guards Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.paekakarikisurflifeguards.org.nz",
+  "email": "admin@pslg.co.nz",
+  "address": {
+    "line1": "The Parade",
+    "line2": " ",
+    "suburb": "Paekakariki",
+    "city": "Kapiti",
+    "postcode": "5258"
+  },
+  "nzbn": "9429042791911",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PaekakarikiSurfLifeguards/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T21:34:56Z"
+}

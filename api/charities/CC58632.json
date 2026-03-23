@@ -1,0 +1,27 @@
+{
+  "id": 72244,
+  "registrationNumber": "CC58632",
+  "name": "Tamai Sports Incorporated ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tamaisports.co.nz",
+  "email": "admin@tamaisports.co.nz",
+  "address": {
+    "line1": "127 Cranford Street",
+    "line2": " ",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429048687539",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/TamaiSports",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T23:42:11Z"
+}

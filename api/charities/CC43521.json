@@ -1,0 +1,27 @@
+{
+  "id": 62774,
+  "registrationNumber": "CC43521",
+  "name": "Te Mana NZ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2023-10-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "samk@ourcitychurch.co",
+  "address": {
+    "line1": "Flat 6",
+    "line2": "133 Central Park Drive",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429043203437",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-09-29T20:43:54Z"
+}

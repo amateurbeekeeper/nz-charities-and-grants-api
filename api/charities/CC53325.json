@@ -1,0 +1,27 @@
+{
+  "id": 67037,
+  "registrationNumber": "CC53325",
+  "name": "Roderique Hope Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-04-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.roderiquehopetrust.co.nz",
+  "email": "michelle@roderiquehope.co.nz",
+  "address": {
+    "line1": "490 St Aubyn Street",
+    "line2": " ",
+    "suburb": "Moturoa",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043310708",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RoderiqueHopeTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T01:13:37Z"
+}

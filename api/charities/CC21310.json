@@ -1,0 +1,27 @@
+{
+  "id": 54991,
+  "registrationNumber": "CC21310",
+  "name": "Wanaka New Life Church Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.newlife.co.nz",
+  "email": "church@newlife.co.nz",
+  "address": {
+    "line1": "50 Reece Crescent",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429043177936",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T22:50:55Z"
+}

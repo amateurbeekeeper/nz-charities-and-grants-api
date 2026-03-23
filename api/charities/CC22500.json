@@ -1,0 +1,27 @@
+{
+  "id": 55973,
+  "registrationNumber": "CC22500",
+  "name": "Whaiora Whanui Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.whaiora.nz",
+  "email": "jake.carlson@whaiora.org.nz",
+  "address": {
+    "line1": "394 Queen Street",
+    "line2": "Masterton 5810",
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429043069637",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WhaioraMasterton/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T03:06:50Z"
+}

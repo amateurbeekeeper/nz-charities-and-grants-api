@@ -1,0 +1,27 @@
+{
+  "id": 46811,
+  "registrationNumber": "CC43313",
+  "name": "Wellington Judo and Jujitsu Academy Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wellingtonjudo.org.nz/",
+  "email": "mjollnier@yahoo.com",
+  "address": {
+    "line1": "132 Hutt Road",
+    "line2": " ",
+    "suburb": "Kaiwharawhara",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429043076130",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wellingtonjudoacademy/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-21T07:40:35Z"
+}

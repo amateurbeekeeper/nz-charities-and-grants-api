@@ -1,0 +1,27 @@
+{
+  "id": 47707,
+  "registrationNumber": "CC29934",
+  "name": "Te Kotuku Ki Te Rangi Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tekotuku.co.nz",
+  "email": "accounts@tekotuku.co.nz",
+  "address": {
+    "line1": "2",
+    "line2": "40 Copsey Place",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429042961369",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T20:49:58Z"
+}

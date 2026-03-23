@@ -1,0 +1,27 @@
+{
+  "id": 72062,
+  "registrationNumber": "CC58445",
+  "name": "Stonehenge Aotearoa Space Sciences Centre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2020-10-31T00:00:00Z",
+  "dateDeregistered": "2020-09-29T00:00:00Z",
+  "website": "https://www.stonehenge-aotearoa.co.nz",
+  "email": "hellfa@xtra.co.nz",
+  "address": {
+    "line1": "51 Ahiaruhe Road",
+    "line2": "RD 2",
+    "suburb": "Ahiaruhe",
+    "city": "Carterton",
+    "postcode": "5792"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "stonehenge.aotearoa",
+    "twitter": "@stonehengeNZ"
+  },
+  "lastUpdated": "2022-10-05T06:11:37Z"
+}

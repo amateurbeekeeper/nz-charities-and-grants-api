@@ -1,0 +1,27 @@
+{
+  "id": 38504,
+  "registrationNumber": "CC47284",
+  "name": "Marlborough Search & Rescue Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.searchandrescue.nz/",
+  "email": "secretary@searchandrescue.nz",
+  "address": {
+    "line1": "8 Main Street",
+    "line2": "Blenheim 7201",
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429046330765",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MarlboroughSAR/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-14T23:06:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67619,
+  "registrationNumber": "CC53927",
+  "name": "West Hamilton Community Church Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whcc.org.nz",
+  "email": "finance@whcc.org.nz",
+  "address": {
+    "line1": "27A Rifle Range Road",
+    "line2": " ",
+    "suburb": "Dinsdale",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043299522",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T23:29:56Z"
+}

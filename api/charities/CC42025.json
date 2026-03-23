@@ -1,0 +1,27 @@
+{
+  "id": 50853,
+  "registrationNumber": "CC42025",
+  "name": "St Brigids Home and School Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2022-11-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jane.e.faragalla@gmail.com",
+  "address": {
+    "line1": "St Brigids School",
+    "line2": "57 Bayfield Road",
+    "suburb": "Andersons Bay",
+    "city": "Dunedin",
+    "postcode": "9013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-11-05T18:11:10Z"
+}

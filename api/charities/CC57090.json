@@ -1,0 +1,27 @@
+{
+  "id": 70723,
+  "registrationNumber": "CC57090",
+  "name": "New Zealand Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://NZCT.org.nz",
+  "email": "mark.donaldson@nzct.org.nz",
+  "address": {
+    "line1": "22 Sar Street",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429043027194",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T22:57:21Z"
+}

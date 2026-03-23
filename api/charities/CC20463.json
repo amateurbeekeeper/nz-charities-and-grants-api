@@ -1,0 +1,27 @@
+{
+  "id": 53381,
+  "registrationNumber": "CC20463",
+  "name": "Theatre Whakatane Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.theatrewhakatane.org.nz",
+  "email": "treasurer@theatrewhakatane.org.nz",
+  "address": {
+    "line1": "30 Gateway Drive",
+    "line2": "RD 4",
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3194"
+  },
+  "nzbn": "9429043041749",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Threatre Whakatane Inc @ Theatre Whakatane",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T03:02:08Z"
+}

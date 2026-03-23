@@ -1,0 +1,27 @@
+{
+  "id": 35588,
+  "registrationNumber": "CC44606",
+  "name": "The Property Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2020-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tpf.org.nz",
+  "email": "gm@tpf.org.nz",
+  "address": {
+    "line1": "56 Sunny Brae Crescent",
+    "line2": " ",
+    "suburb": "Westmere",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429042783350",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:37:29Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 59516,
+  "registrationNumber": "CC33966",
+  "name": "Wana Tamariki Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wanatamariki.nz",
+  "email": "vicki@wanatamariki.nz",
+  "address": {
+    "line1": "43 Fairfield Road",
+    "line2": " ",
+    "suburb": "Fairfield",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": "9429042666394",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Wana Tamariki Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T01:39:43Z"
+}

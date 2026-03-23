@@ -1,0 +1,27 @@
+{
+  "id": 73349,
+  "registrationNumber": "CC59869",
+  "name": "St James Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.northpres.org.nz",
+  "email": "secretary@northpres.org.nz",
+  "address": {
+    "line1": "111 Great South Road",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T18:05:04Z"
+}

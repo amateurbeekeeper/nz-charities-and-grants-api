@@ -1,0 +1,27 @@
+{
+  "id": 75244,
+  "registrationNumber": "CC61677",
+  "name": "He Herenga Kura Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nkkp.org.nz",
+  "email": "nikki@heherengakura.nz",
+  "address": {
+    "line1": "40 Taranaki Street",
+    "line2": "Level 3",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429051323776",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T22:09:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 77865,
+  "registrationNumber": "CC63664",
+  "name": "South Auckland Anglican Mission - Assisted Living",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.saamal.org.nz",
+  "email": "hforrest@saamal.org.nz",
+  "address": {
+    "line1": "PO Box 88142",
+    "line2": "Clendon",
+    "suburb": "Clendon Park",
+    "city": "Auckland",
+    "postcode": "2242"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T22:58:29Z"
+}

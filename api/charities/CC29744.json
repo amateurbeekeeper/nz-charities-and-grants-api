@@ -1,0 +1,27 @@
+{
+  "id": 39585,
+  "registrationNumber": "CC29744",
+  "name": "Zero Waste Aotearoa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.zerowaste.co.nz",
+  "email": "dorte@zerowaste.co.nz",
+  "address": {
+    "line1": "153 Pilkington Road",
+    "line2": " ",
+    "suburb": "Point England",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429043038299",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T01:34:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54745,
+  "registrationNumber": "CC26062",
+  "name": "Picton Historical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pictonmuseum-newzealand.com",
+  "email": "info@pictonmuseum.co.nz",
+  "address": {
+    "line1": "9 London Quay",
+    "line2": null,
+    "suburb": " ",
+    "city": "Picton",
+    "postcode": "7220"
+  },
+  "nzbn": "9429042805243",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T01:35:19Z"
+}

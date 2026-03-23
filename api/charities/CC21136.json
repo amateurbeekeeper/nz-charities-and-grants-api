@@ -1,0 +1,27 @@
+{
+  "id": 54326,
+  "registrationNumber": "CC21136",
+  "name": "Institute For Child Protection Studies Trust Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.childmatters.org.nz",
+  "email": "jane@childmatters.org.nz",
+  "address": {
+    "line1": "422 Te Rapa Road",
+    "line2": " ",
+    "suburb": "Te Rapa",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429042620525",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/childmatters/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T19:05:52Z"
+}

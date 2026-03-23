@@ -1,0 +1,27 @@
+{
+  "id": 43500,
+  "registrationNumber": "CC34131",
+  "name": "The Dream Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dreamcentretrust.co.nz",
+  "email": "seira.sola@thedreamcentre.co.nz",
+  "address": {
+    "line1": "154-158 Kolmar Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429043063949",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-06T20:49:03Z"
+}

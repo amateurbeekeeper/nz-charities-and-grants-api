@@ -1,0 +1,27 @@
+{
+  "id": 66279,
+  "registrationNumber": "CC52546",
+  "name": "St David's Presbyterian Church Gisborne",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2025-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david.langford60@gmail.com",
+  "address": {
+    "line1": "Cnr De Lautour and Rutene Road",
+    "line2": " ",
+    "suburb": "Kaiti",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T01:28:42Z"
+}

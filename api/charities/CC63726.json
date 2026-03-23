@@ -1,0 +1,27 @@
+{
+  "id": 77924,
+  "registrationNumber": "CC63726",
+  "name": "Obesity New Zealand Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-08-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.obesity.org.nz",
+  "email": "info@obesity.org.nz",
+  "address": {
+    "line1": "27B Barrack Road",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T22:37:20Z"
+}

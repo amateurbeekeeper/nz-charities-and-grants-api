@@ -1,0 +1,27 @@
+{
+  "id": 37948,
+  "registrationNumber": "CC47542",
+  "name": "Skin Cancer New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-04-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.melnet.org.nz",
+  "email": "melnet@melnet.org.nz",
+  "address": {
+    "line1": "27 Brigham Drive",
+    "line2": " ",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429043214587",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Melanoma Network of New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T08:56:29Z"
+}

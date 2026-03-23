@@ -1,0 +1,27 @@
+{
+  "id": 64403,
+  "registrationNumber": "CC42879",
+  "name": "Changing Minds Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-11-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.changingminds.org.nz",
+  "email": "finance@changingminds.org.nz",
+  "address": {
+    "line1": "762 Mount Eden Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042995746",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/changingminds.nz/",
+    "twitter": "https://twitter.com/changingmindsnz"
+  },
+  "lastUpdated": "2026-03-08T21:57:16Z"
+}

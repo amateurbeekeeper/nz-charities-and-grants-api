@@ -1,0 +1,27 @@
+{
+  "id": 64486,
+  "registrationNumber": "CC40002",
+  "name": "La Famia No 3 Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-05-12T00:00:00Z",
+  "dateDeregistered": "2011-03-30T00:00:00Z",
+  "website": null,
+  "email": "harmon@lafamia.com",
+  "address": {
+    "line1": "233 Cambridge Terrace",
+    "line2": null,
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429032590746",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:04:17Z"
+}

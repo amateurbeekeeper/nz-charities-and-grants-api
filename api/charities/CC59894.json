@@ -1,0 +1,27 @@
+{
+  "id": 73536,
+  "registrationNumber": "CC59894",
+  "name": "Triumph Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hirahirapo@hotmail.com",
+  "address": {
+    "line1": "Flat 1005",
+    "line2": "Scene Three Apartments",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429050181759",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:04:28Z"
+}

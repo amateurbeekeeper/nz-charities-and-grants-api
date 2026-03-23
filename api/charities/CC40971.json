@@ -1,0 +1,27 @@
+{
+  "id": 48632,
+  "registrationNumber": "CC40971",
+  "name": "Wellington Brass Band Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wellingtonbrass.net.nz/",
+  "email": "treasurer@wellingtonbrass.net.nz",
+  "address": {
+    "line1": "27 Collingwood Street",
+    "line2": " ",
+    "suburb": "Ngaio",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429042775782",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T03:24:32Z"
+}

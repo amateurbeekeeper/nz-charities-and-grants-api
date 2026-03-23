@@ -1,0 +1,27 @@
+{
+  "id": 42737,
+  "registrationNumber": "CC41492",
+  "name": "Springston Rugby Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurer@springstonrugby.co.nz",
+  "address": {
+    "line1": "Springston RFC",
+    "line2": "Ellesmere Junction Road",
+    "suburb": "Springston",
+    "city": "Springston",
+    "postcode": "7674"
+  },
+  "nzbn": "9429042728948",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T19:12:07Z"
+}

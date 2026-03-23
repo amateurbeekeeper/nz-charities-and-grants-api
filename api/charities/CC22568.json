@@ -1,0 +1,27 @@
+{
+  "id": 51238,
+  "registrationNumber": "CC22568",
+  "name": "Upper Hutt Women's Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.uhwc.co.nz",
+  "email": "uhwomen@xtra.co.nz",
+  "address": {
+    "line1": "6 Sinclair Street",
+    "line2": "Ebdentown",
+    "suburb": " ",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429042893936",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T01:05:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51287,
+  "registrationNumber": "CC30883",
+  "name": "UMA Broadcasting Ltd",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waateanews.com",
+  "email": "frances@muma.co.nz",
+  "address": {
+    "line1": "31 Calthorp Close",
+    "line2": " ",
+    "suburb": "Favona",
+    "city": "Auckland",
+    "postcode": "2024"
+  },
+  "nzbn": "9429037426279",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T00:16:11Z"
+}

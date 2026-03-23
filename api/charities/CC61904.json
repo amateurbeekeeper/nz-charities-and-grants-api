@@ -1,0 +1,27 @@
+{
+  "id": 75460,
+  "registrationNumber": "CC61904",
+  "name": "BetterMan Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.betterman.org.nz/",
+  "email": "dave@djca.co.nz",
+  "address": {
+    "line1": "27 Townshend Crescent",
+    "line2": " ",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429051948344",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BetterManNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T18:17:14Z"
+}

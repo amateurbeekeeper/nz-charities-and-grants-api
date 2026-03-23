@@ -1,0 +1,27 @@
+{
+  "id": 46320,
+  "registrationNumber": "CC42416",
+  "name": "Manunui Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2023-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ezelectrical@outlook.co.nz",
+  "address": {
+    "line1": "246 Miro Street",
+    "line2": " ",
+    "suburb": "Manunui",
+    "city": "Taumarunui",
+    "postcode": "3924"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-17T19:18:40Z"
+}

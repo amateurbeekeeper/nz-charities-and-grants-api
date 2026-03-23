@@ -1,0 +1,27 @@
+{
+  "id": 70313,
+  "registrationNumber": "CC56669",
+  "name": "Manurewa RSA Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@manurewarsa.co.nz",
+  "address": {
+    "line1": "22 Scenic Drive",
+    "line2": " ",
+    "suburb": "Hillpark",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": "9429048567879",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Manurewa RSA Veterans' Support Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T10:57:46Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41519,
+  "registrationNumber": "CC24584",
+  "name": "Okiwi Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.okiwi.org.nz",
+  "email": "tomlynskey@gmail.com",
+  "address": {
+    "line1": "PO Box 41057",
+    "line2": "Eastbourne",
+    "suburb": " ",
+    "city": "Lower Hutt",
+    "postcode": "5047"
+  },
+  "nzbn": "9429042789260",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-21T01:46:24Z"
+}

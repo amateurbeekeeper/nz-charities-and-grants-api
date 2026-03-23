@@ -1,0 +1,27 @@
+{
+  "id": 68637,
+  "registrationNumber": "CC53199",
+  "name": "Menzshed Hastings Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.menzshed.org.nz/hastings",
+  "email": "chairman@menzshedhastings.co.nz",
+  "address": {
+    "line1": "Gate 2 Tomoana Showgrounds",
+    "line2": " Kenilworth Road",
+    "suburb": "Mayfair",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429043296545",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Menzshed Hastings",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T01:22:50Z"
+}

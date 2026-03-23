@@ -1,0 +1,27 @@
+{
+  "id": 38062,
+  "registrationNumber": "CC49079",
+  "name": "Crockfords Bridge Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "crockfordsbridgeclub.nz",
+  "email": "secretary@crockfordsbridgeclub.nz",
+  "address": {
+    "line1": "218A Riccarton Road",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042668398",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T23:27:10Z"
+}

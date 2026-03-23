@@ -1,0 +1,27 @@
+{
+  "id": 38671,
+  "registrationNumber": "CC45604",
+  "name": "Contact Point Worship Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-10-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kaufuti@yahoo.com",
+  "address": {
+    "line1": "7 Seymour Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rolleston",
+    "postcode": "7614"
+  },
+  "nzbn": "9429042923350",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Contact Point Worship Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T03:58:33Z"
+}

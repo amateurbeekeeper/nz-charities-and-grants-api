@@ -1,0 +1,27 @@
+{
+  "id": 57621,
+  "registrationNumber": "CC26898",
+  "name": "Institute of Registered Music Teachers of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.learnmusicnz.org.nz",
+  "email": "registrar@irmt.org.nz",
+  "address": {
+    "line1": "16 Shepherd Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "West Melton",
+    "postcode": "7618"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LearnMusicNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:04:41Z"
+}

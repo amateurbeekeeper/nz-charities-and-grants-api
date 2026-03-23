@@ -1,0 +1,27 @@
+{
+  "id": 53926,
+  "registrationNumber": "CC20525",
+  "name": "Bay of Islands Coastguard Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.coastguard.org.nz",
+  "email": "boicoastguard@gmail.com",
+  "address": {
+    "line1": "3 Beechey Street",
+    "line2": "Opua 0200",
+    "suburb": " ",
+    "city": "Opua",
+    "postcode": "0200"
+  },
+  "nzbn": "9429042930143",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:07:08Z"
+}

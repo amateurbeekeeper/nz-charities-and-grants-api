@@ -1,0 +1,27 @@
+{
+  "id": 73118,
+  "registrationNumber": "CC59516",
+  "name": "Empower Energy Charitable Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2021-10-14T00:00:00Z",
+  "dateDeregistered": "2025-03-31T00:00:00Z",
+  "website": "https://empowerenergy.org.nz/",
+  "email": "Brian.Stephens@empowerenergy.org.nz",
+  "address": {
+    "line1": "Flat 4",
+    "line2": "5 Pitt Place",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429049963496",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EmpowerEnergyNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-02T06:19:59Z"
+}

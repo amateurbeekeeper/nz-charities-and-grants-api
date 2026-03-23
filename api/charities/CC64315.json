@@ -1,0 +1,27 @@
+{
+  "id": 78501,
+  "registrationNumber": "CC64315",
+  "name": "New Zealand Institute of Chemistry Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nzic.office@gmail.com",
+  "address": {
+    "line1": "45 Bengal Drive",
+    "line2": null,
+    "suburb": "Cashmere",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T23:29:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70099,
+  "registrationNumber": "CC56459",
+  "name": "Small Animal Rescue Centre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-03-16T00:00:00Z",
+  "dateDeregistered": "2024-03-06T00:00:00Z",
+  "website": "https://www.smallanimalrescuecentre.org",
+  "email": "drtonijay@gmail.com",
+  "address": {
+    "line1": "142A Markham Road",
+    "line2": "RD 3",
+    "suburb": "Ararimu",
+    "city": "Drury",
+    "postcode": "2579"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-03-05T23:53:14Z"
+}

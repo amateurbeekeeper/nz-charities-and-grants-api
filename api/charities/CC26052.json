@@ -1,0 +1,27 @@
+{
+  "id": 52564,
+  "registrationNumber": "CC26052",
+  "name": "The Mangawai Public Library",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-17T00:00:00Z",
+  "dateDeregistered": "2021-06-07T00:00:00Z",
+  "website": "https://sites.google.com/site/mangawhailibraryhall/",
+  "email": "alvinb@xtra.co.nz",
+  "address": {
+    "line1": "59 King Road",
+    "line2": "RD 2",
+    "suburb": null,
+    "city": "KAIWAKA",
+    "postcode": "0573"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "mangawhailibraryhall@mangawhailibraryhall",
+    "twitter": null
+  },
+  "lastUpdated": "2021-06-23T20:26:22Z"
+}

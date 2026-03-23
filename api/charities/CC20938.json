@@ -1,0 +1,27 @@
+{
+  "id": 53789,
+  "registrationNumber": "CC20938",
+  "name": "Grey Lynn Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://glccchurch.org.nz",
+  "email": "office@glccchurch.org.nz",
+  "address": {
+    "line1": "550 Richmond Road",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:36:10Z"
+}

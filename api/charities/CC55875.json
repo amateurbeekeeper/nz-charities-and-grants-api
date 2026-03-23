@@ -1,0 +1,27 @@
+{
+  "id": 69519,
+  "registrationNumber": "CC55875",
+  "name": "South Island Dairy Event (SIDE)",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.side.org.nz",
+  "email": "info@side.org.nz",
+  "address": {
+    "line1": "504 Wairakei Road",
+    "line2": " ",
+    "suburb": "Burnside",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429046774019",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SouthIslandDairyEvent/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-23T04:57:21Z"
+}

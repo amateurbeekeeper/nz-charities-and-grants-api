@@ -1,0 +1,27 @@
+{
+  "id": 41281,
+  "registrationNumber": "CC36826",
+  "name": "The Snowvision Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.snowvision.org.nz",
+  "email": "info@snowvision.org.nz",
+  "address": {
+    "line1": "4 Garden Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429043112913",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T19:35:06Z"
+}

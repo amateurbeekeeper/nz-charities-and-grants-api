@@ -1,0 +1,27 @@
+{
+  "id": 46011,
+  "registrationNumber": "CC36146",
+  "name": "Holy Cross School Parent Support Group",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "psg@hcm.school.nz",
+  "address": {
+    "line1": "C/-",
+    "line2": "2 Athens Street",
+    "suburb": "Miramar",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T08:31:17Z"
+}

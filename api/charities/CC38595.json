@@ -1,0 +1,27 @@
+{
+  "id": 63143,
+  "registrationNumber": "CC38595",
+  "name": "The Massive Company Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.massivecompany.co.nz",
+  "email": "carrierae@massivecompany.co.nz",
+  "address": {
+    "line1": "562 Richmond Road",
+    "line2": "10 New North Road",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429042983125",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MassiveCompany/?pnref=story",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-03T21:56:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37319,
+  "registrationNumber": "CC46717",
+  "name": "Katikati Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.katikatitheatre.org.nz/",
+  "email": "plansnz@xtra.co.nz",
+  "address": {
+    "line1": "29 Waione Avenue",
+    "line2": "RD 1",
+    "suburb": "Athenree",
+    "city": "Katikati",
+    "postcode": "3177"
+  },
+  "nzbn": "9429043208876",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:03:47Z"
+}

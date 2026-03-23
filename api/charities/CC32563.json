@@ -1,0 +1,27 @@
+{
+  "id": 60227,
+  "registrationNumber": "CC32563",
+  "name": "The Mid Canterbury Animal Shelter",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2022-01-13T00:00:00Z",
+  "website": null,
+  "email": "paws.and.claws@hotmail.com",
+  "address": {
+    "line1": "54 Nugent Street",
+    "line2": "RD 3",
+    "suburb": "Hinds",
+    "city": "Ashburton",
+    "postcode": "7773"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-02-02T18:48:15Z"
+}

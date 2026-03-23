@@ -1,0 +1,27 @@
+{
+  "id": 35614,
+  "registrationNumber": "CC45339",
+  "name": "Kawakawa Bay Boat Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-09-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kbbc.co.nz",
+  "email": "andrealb@xtra.co.nz",
+  "address": {
+    "line1": "Kawakawa Bay Coast Road",
+    "line2": " ",
+    "suburb": "Kawakawa Bay",
+    "city": "Papakura",
+    "postcode": "2585"
+  },
+  "nzbn": "9429042651505",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kawakawabayboatclub",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T01:36:45Z"
+}

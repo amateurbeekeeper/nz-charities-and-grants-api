@@ -1,0 +1,27 @@
+{
+  "id": 47879,
+  "registrationNumber": "CC42341",
+  "name": "Kai Iwi Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2022-07-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nannypoppa@xtra.co.nz",
+  "address": {
+    "line1": "12 Rangitatau East Road",
+    "line2": "Kai Iwi 4578",
+    "suburb": "Whanganui East",
+    "city": "Kai Iwi",
+    "postcode": "4578"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Kai Iwi Marae ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:32:21Z"
+}

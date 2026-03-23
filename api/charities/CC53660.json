@@ -1,0 +1,27 @@
+{
+  "id": 67372,
+  "registrationNumber": "CC53660",
+  "name": "The Reading Revolution",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thereadingrevolution.org",
+  "email": "km.readingrevolution@gmail.com",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@ReadingRevolutionNZ",
+    "twitter": "@readingshared"
+  },
+  "lastUpdated": "2026-01-19T22:17:17Z"
+}

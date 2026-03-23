@@ -1,0 +1,27 @@
+{
+  "id": 45251,
+  "registrationNumber": "CC37176",
+  "name": "South Centre Anglican Care Trust (Southland)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "southcentre@xtra.co.nz",
+  "address": {
+    "line1": "9 Jenkin Street",
+    "line2": " ",
+    "suburb": "Strathern",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": "9429043182985",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "South Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T22:14:01Z"
+}

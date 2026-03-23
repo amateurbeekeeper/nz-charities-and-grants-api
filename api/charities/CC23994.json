@@ -1,0 +1,27 @@
+{
+  "id": 41551,
+  "registrationNumber": "CC23994",
+  "name": "Physical Education New Zealand - Te Ao Kori Aotearoa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.penz.org.nz",
+  "email": "president@penz.org.nz",
+  "address": {
+    "line1": "PO Box 11470",
+    "line2": "Manners Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6142"
+  },
+  "nzbn": "9429042804970",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PhysicalEducationNZ/",
+    "twitter": "https://twitter.com/PENZ_TeAoKori"
+  },
+  "lastUpdated": "2025-11-20T18:14:15Z"
+}

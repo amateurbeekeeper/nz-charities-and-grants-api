@@ -1,0 +1,27 @@
+{
+  "id": 49731,
+  "registrationNumber": "CC32325",
+  "name": "Waitaki District Health Services Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "anicholls@waitaki.govt.nz",
+  "address": {
+    "line1": "20 Thames Street",
+    "line2": "Oamaru 9400",
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429037834067",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T22:38:33Z"
+}

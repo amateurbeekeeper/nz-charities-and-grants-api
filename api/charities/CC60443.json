@@ -1,0 +1,27 @@
+{
+  "id": 74032,
+  "registrationNumber": "CC60443",
+  "name": "Creative Taranaki",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.creativetaranaki.org",
+  "email": "chair@creativetaranaki.org",
+  "address": {
+    "line1": "8 Durham Avenue",
+    "line2": " ",
+    "suburb": "Welbourn",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ourcreativetaranaki",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T20:33:00Z"
+}

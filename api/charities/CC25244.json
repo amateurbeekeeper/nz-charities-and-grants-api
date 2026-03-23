@@ -1,0 +1,27 @@
+{
+  "id": 56139,
+  "registrationNumber": "CC25244",
+  "name": "Fellowship Church Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-03T00:00:00Z",
+  "dateDeregistered": "2024-03-31T00:00:00Z",
+  "website": null,
+  "email": "bill.alden@gmail.com",
+  "address": {
+    "line1": "299 Kirkbride Road",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429043066513",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-20T23:12:05Z"
+}

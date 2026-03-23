@@ -1,0 +1,27 @@
+{
+  "id": 78129,
+  "registrationNumber": "CC63931",
+  "name": "United Christian Community Outreach",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-09-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzcommunityoutreach.org",
+  "email": "mission@nzcommunityoutreach.org",
+  "address": {
+    "line1": "70A Harrow Street",
+    "line2": " ",
+    "suburb": "Phillipstown",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429052982262",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "UC Community Outreach Ministry",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T22:08:22Z"
+}

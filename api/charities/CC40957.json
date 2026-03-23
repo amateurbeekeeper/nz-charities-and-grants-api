@@ -1,0 +1,27 @@
+{
+  "id": 60230,
+  "registrationNumber": "CC40957",
+  "name": "Otetao Reti Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "garyreti@gmail.com",
+  "address": {
+    "line1": "7 Riverbank Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "0230"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T07:50:27Z"
+}

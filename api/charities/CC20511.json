@@ -1,0 +1,27 @@
+{
+  "id": 53884,
+  "registrationNumber": "CC20511",
+  "name": "Dunedin Budget Advisory Service Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.budgetingdunedin.co.nz",
+  "email": "andrew.henderson@budgetingdunedin.co.nz",
+  "address": {
+    "line1": "42 Macandrew Road",
+    "line2": " ",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042647249",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T00:18:29Z"
+}

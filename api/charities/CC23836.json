@@ -1,0 +1,27 @@
+{
+  "id": 39760,
+  "registrationNumber": "CC23836",
+  "name": "Pohutukawa Trust New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.pohutukawatrust.kiwi",
+  "email": "carl@pohutukawatrust.kiwi",
+  "address": {
+    "line1": "26 Hattaway Avenue",
+    "line2": " ",
+    "suburb": "Bucklands Beach",
+    "city": "Auckland",
+    "postcode": "2012"
+  },
+  "nzbn": "9429042807537",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Pohutukawa Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T19:07:56Z"
+}

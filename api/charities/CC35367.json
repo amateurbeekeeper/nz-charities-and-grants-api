@@ -1,0 +1,27 @@
+{
+  "id": 49570,
+  "registrationNumber": "CC35367",
+  "name": "New Zealand Flooring Training Organisation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.floornz.org.nz",
+  "email": "wendy@floornz.org.nz",
+  "address": {
+    "line1": "Unit 12",
+    "line2": "99 Sawyers Arms Rd",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429042944089",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T01:54:39Z"
+}

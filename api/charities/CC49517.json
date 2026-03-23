@@ -1,0 +1,27 @@
+{
+  "id": 35346,
+  "registrationNumber": "CC49517",
+  "name": "Urban Neighbours of Hope New Zealand Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-07-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.unoh.co.nz",
+  "email": "d.tims@unoh.org",
+  "address": {
+    "line1": "45 Secretariat Place",
+    "line2": " ",
+    "suburb": "Randwick Park",
+    "city": "Auckland",
+    "postcode": "2105"
+  },
+  "nzbn": "9429043245550",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T08:02:30Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 60067,
+  "registrationNumber": "CC27800",
+  "name": "The Barbershop Foundation Of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john@denton.nz",
+  "address": {
+    "line1": "541B South Titirangi Road",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T23:19:37Z"
+}

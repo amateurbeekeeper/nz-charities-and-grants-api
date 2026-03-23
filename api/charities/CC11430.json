@@ -1,0 +1,27 @@
+{
+  "id": 53235,
+  "registrationNumber": "CC11430",
+  "name": "The Palmerston North Hospital Regional Cancer Treatment Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "billie.stanley@bdo.co.nz",
+  "address": {
+    "line1": "Ruahine Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042870951",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:07:15Z"
+}

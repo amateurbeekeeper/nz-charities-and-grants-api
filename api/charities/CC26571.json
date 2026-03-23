@@ -1,0 +1,27 @@
+{
+  "id": 56179,
+  "registrationNumber": "CC26571",
+  "name": "The Sand Dunes Classic Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sally@cuffs.co.nz",
+  "address": {
+    "line1": "51 Tancred Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Hokitika",
+    "postcode": "7810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T19:27:53Z"
+}

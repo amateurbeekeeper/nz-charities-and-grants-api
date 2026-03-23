@@ -1,0 +1,27 @@
+{
+  "id": 65855,
+  "registrationNumber": "CC52118",
+  "name": "Mangere Pacific Islanders Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "henryro@xtra.co.nz",
+  "address": {
+    "line1": "6 Convair Crescent",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T01:08:22Z"
+}

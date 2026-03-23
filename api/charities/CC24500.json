@@ -1,0 +1,27 @@
+{
+  "id": 42013,
+  "registrationNumber": "CC24500",
+  "name": "The Joshua Vision Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-05-18T00:00:00Z",
+  "dateDeregistered": "2014-12-11T00:00:00Z",
+  "website": null,
+  "email": "trish@thehornes.co.nz",
+  "address": {
+    "line1": "7 Frater Avenue",
+    "line2": null,
+    "suburb": "Milford",
+    "city": "Auckland",
+    "postcode": "620"
+  },
+  "nzbn": "9429042941217",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:20:05Z"
+}

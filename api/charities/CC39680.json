@@ -1,0 +1,27 @@
+{
+  "id": 63313,
+  "registrationNumber": "CC39680",
+  "name": "QE II Swim Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "qeiiswimclub@gmail.com",
+  "address": {
+    "line1": "25 Anglesea Avenue",
+    "line2": " ",
+    "suburb": "Parklands",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429042677864",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "qeiiswimclubinc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T18:14:07Z"
+}

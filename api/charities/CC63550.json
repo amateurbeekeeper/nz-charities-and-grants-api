@@ -1,0 +1,27 @@
+{
+  "id": 77750,
+  "registrationNumber": "CC63550",
+  "name": "Cambridge Public Art Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cpat.org.nz",
+  "email": "carey@moneyworks.co.nz",
+  "address": {
+    "line1": "22 Dick Street",
+    "line2": "Cambridge 3434",
+    "suburb": null,
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-23T02:31:44Z"
+}

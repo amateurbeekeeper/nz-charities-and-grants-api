@@ -1,0 +1,27 @@
+{
+  "id": 42332,
+  "registrationNumber": "CC24436",
+  "name": "Rata St Pre-School Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ratast.office@gmail.com",
+  "address": {
+    "line1": "10 Rata Street",
+    "line2": " ",
+    "suburb": "Manunui",
+    "city": "Taumarunui",
+    "postcode": "3924"
+  },
+  "nzbn": "9429042924777",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Rata St Preschool",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T22:08:00Z"
+}

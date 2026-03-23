@@ -1,0 +1,27 @@
+{
+  "id": 66183,
+  "registrationNumber": "CC52449",
+  "name": "Te Hau Ora O Ngapuhi Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-10-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tehauoraongapuhi.org.nz",
+  "email": "tia.ashby@thoon.org.nz",
+  "address": {
+    "line1": "113 Broadway",
+    "line2": "Kaikohe 0405",
+    "suburb": " ",
+    "city": "Kaikohe",
+    "postcode": "0405"
+  },
+  "nzbn": "9429042827405",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Hau Ora O Ngapuhi",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:01:34Z"
+}

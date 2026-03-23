@@ -1,0 +1,27 @@
+{
+  "id": 65986,
+  "registrationNumber": "CC52251",
+  "name": "Saint Mark Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2021-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "taniarose@akeaccounting.co.nz",
+  "address": {
+    "line1": "6 Oregon Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Murupara",
+    "postcode": "3025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:43:12Z"
+}

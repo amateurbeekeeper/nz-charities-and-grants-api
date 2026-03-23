@@ -1,0 +1,27 @@
+{
+  "id": 49299,
+  "registrationNumber": "CC31440",
+  "name": "Hastings Community Patrol Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cpnz.org.nz",
+  "email": "hastings@cpnz.org.nz",
+  "address": {
+    "line1": "Villa 200",
+    "line2": "Summerset In The Orchard",
+    "suburb": "Parkvale",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429043087327",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hastingscp/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T10:50:27Z"
+}

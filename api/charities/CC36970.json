@@ -1,0 +1,27 @@
+{
+  "id": 39535,
+  "registrationNumber": "CC36970",
+  "name": "Auckland West Elim Church Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-05-05T00:00:00Z",
+  "website": "http://www.westelim.org.nz",
+  "email": "john@roberts.co.nz",
+  "address": {
+    "line1": "6B Paramount Drive",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "facebook.com/westelim",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T00:03:36Z"
+}

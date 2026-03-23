@@ -1,0 +1,27 @@
+{
+  "id": 47888,
+  "registrationNumber": "CC30999",
+  "name": "Te Keke Tura Moriori Identity Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@kopinga.co.nz",
+  "address": {
+    "line1": "Kopinga Marae",
+    "line2": "Owenga Wharf Road",
+    "suburb": " ",
+    "city": "Chatham Islands",
+    "postcode": "8942"
+  },
+  "nzbn": "9429043187751",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-05T00:51:58Z"
+}

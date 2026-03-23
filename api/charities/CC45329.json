@@ -1,0 +1,27 @@
+{
+  "id": 36098,
+  "registrationNumber": "CC45329",
+  "name": "Linkt Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.oss.org.nz",
+  "email": "john@linkt.org.nz",
+  "address": {
+    "line1": "8 Claremont Terrace",
+    "line2": "Tauranga 3110",
+    "suburb": "Otumoetai",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043223039",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/otumoetai_social_supermarket",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T19:23:13Z"
+}

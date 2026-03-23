@@ -1,0 +1,27 @@
+{
+  "id": 56313,
+  "registrationNumber": "CC23446",
+  "name": "Cromwell Resource Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cromwellcommunityhouse.org",
+  "email": "manager@cromwellcommunityhouse.org",
+  "address": {
+    "line1": "5 Murray Terrace",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cromwell",
+    "postcode": "9310"
+  },
+  "nzbn": "9429042945031",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Cromwell-Community-House-685215301939454",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:00:40Z"
+}

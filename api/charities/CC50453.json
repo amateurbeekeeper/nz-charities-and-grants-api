@@ -1,0 +1,27 @@
+{
+  "id": 33493,
+  "registrationNumber": "CC50453",
+  "name": "FIANZ Holdings Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fianz.co.nz",
+  "email": "admin@fianz.com",
+  "address": {
+    "line1": "P.O.Box 14-155  ",
+    "line2": " ",
+    "suburb": "Kilbirnie",
+    "city": "Wellington",
+    "postcode": "6241"
+  },
+  "nzbn": "9429030987432",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-17T22:57:21Z"
+}

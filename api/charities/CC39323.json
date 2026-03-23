@@ -1,0 +1,27 @@
+{
+  "id": 63773,
+  "registrationNumber": "CC39323",
+  "name": "New Zealand Gynaecological Cancer Foundation",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-04-19T00:00:00Z",
+  "dateDeregistered": "2023-03-31T00:00:00Z",
+  "website": "http://www.nzgcf.org.nz",
+  "email": "kiaora@nzgcf.org.nz",
+  "address": {
+    "line1": "PO Box 5495",
+    "line2": "Wellesley Street",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1141"
+  },
+  "nzbn": "9429043095605",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://facebook.com/NZGCF",
+    "twitter": "https://twitter.com/nzgcf"
+  },
+  "lastUpdated": "2023-06-05T07:01:15Z"
+}

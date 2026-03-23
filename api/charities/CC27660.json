@@ -1,0 +1,27 @@
+{
+  "id": 40506,
+  "registrationNumber": "CC27660",
+  "name": "Westland Toy Library",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://westland.setls.com.au/",
+  "email": "cindygreighokitika@gmail.com",
+  "address": {
+    "line1": "20 Sewell Street",
+    "line2": "behind the library",
+    "suburb": " ",
+    "city": "Hokitika",
+    "postcode": "7810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/westlandtoylibrary",
+    "twitter": "none"
+  },
+  "lastUpdated": "2025-08-11T21:02:32Z"
+}

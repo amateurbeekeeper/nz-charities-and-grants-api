@@ -1,0 +1,27 @@
+{
+  "id": 71048,
+  "registrationNumber": "CC57415",
+  "name": "Emergency Medicine Ultrasound Group (EMUG) New Zealand Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-09-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.emugs.org",
+  "email": "stacey@emugs.org",
+  "address": {
+    "line1": "32 Marlin Place",
+    "line2": "RD 3",
+    "suburb": "Tutukaka",
+    "city": "Whangarei",
+    "postcode": "0173"
+  },
+  "nzbn": "9429046209542",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EmergencyMedicineUltrasoundGroups/",
+    "twitter": "https://twitter.com/EMUGs_"
+  },
+  "lastUpdated": "2025-09-09T19:36:32Z"
+}

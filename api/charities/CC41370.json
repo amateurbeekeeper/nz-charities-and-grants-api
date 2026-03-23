@@ -1,0 +1,27 @@
+{
+  "id": 42670,
+  "registrationNumber": "CC41370",
+  "name": "Waitaki Multicultural Council Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://waitakimulticultural.org.nz",
+  "email": "info@waitakimulticultural.org.nz",
+  "address": {
+    "line1": "100 Thames Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429043093892",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waitakimulticultural",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T07:00:14Z"
+}

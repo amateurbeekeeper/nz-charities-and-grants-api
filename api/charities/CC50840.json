@@ -1,0 +1,27 @@
+{
+  "id": 34362,
+  "registrationNumber": "CC50840",
+  "name": "Pohutukawa Coast Helping Hand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.pchelpinghandtrust.org",
+  "email": "pchht@outlook.com",
+  "address": {
+    "line1": "29 Pony Park Place",
+    "line2": " ",
+    "suburb": "Beachlands",
+    "city": "Auckland",
+    "postcode": "2018"
+  },
+  "nzbn": "9429043319732",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pchelpinghandtrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-09-07T23:13:21Z"
+}

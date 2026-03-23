@@ -1,0 +1,27 @@
+{
+  "id": 74697,
+  "registrationNumber": "CC61114",
+  "name": "Manaaki Matakaoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-01-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.manaakimatakaoa.com",
+  "email": "pakuk@manaakimatakaoa.com",
+  "address": {
+    "line1": "27 Pakiakanui Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Araroa",
+    "postcode": "4086"
+  },
+  "nzbn": "9429051025427",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T04:18:09Z"
+}

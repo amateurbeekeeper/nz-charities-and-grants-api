@@ -1,0 +1,27 @@
+{
+  "id": 68159,
+  "registrationNumber": "CC54483",
+  "name": "PAIS New Zealand",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-04-19T00:00:00Z",
+  "dateDeregistered": "2022-09-14T00:00:00Z",
+  "website": "https://www.paismovement.com",
+  "email": "andrew@illuminate.org.nz",
+  "address": {
+    "line1": "243C Mill Flat Road",
+    "line2": "RD 3",
+    "suburb": "Riverhead",
+    "city": "Albany",
+    "postcode": "0793"
+  },
+  "nzbn": "9429046072924",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/PaisNewZealand/",
+    "twitter": null
+  },
+  "lastUpdated": "2023-09-22T03:18:13Z"
+}

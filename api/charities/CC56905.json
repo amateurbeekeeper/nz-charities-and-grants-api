@@ -1,0 +1,27 @@
+{
+  "id": 70541,
+  "registrationNumber": "CC56905",
+  "name": "Te Puna O Hokianga",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "farmassistnz@gmail.com",
+  "address": {
+    "line1": "3449 State Highway 12",
+    "line2": null,
+    "suburb": " ",
+    "city": "Taheke",
+    "postcode": "0473"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T11:51:43Z"
+}

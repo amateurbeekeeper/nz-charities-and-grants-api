@@ -1,0 +1,27 @@
+{
+  "id": 67784,
+  "registrationNumber": "CC54093",
+  "name": "Solarnetwork Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-10-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://solarnetwork.net/about.html",
+  "email": "john@solarnetwork.net",
+  "address": {
+    "line1": "4 Norfolk Street",
+    "line2": " ",
+    "suburb": "Ponsonby",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429042551836",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:34:29Z"
+}

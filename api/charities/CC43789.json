@@ -1,0 +1,27 @@
+{
+  "id": 50238,
+  "registrationNumber": "CC43789",
+  "name": "North Shore Canoe and Youth Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.northshorecanoeclub.org.nz",
+  "email": "info@northshorecanoeclub.org.nz",
+  "address": {
+    "line1": "W2",
+    "line2": "2e Northcote Road",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "622"
+  },
+  "nzbn": "9429042693123",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:33:58Z"
+}

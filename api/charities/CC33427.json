@@ -1,0 +1,27 @@
+{
+  "id": 41599,
+  "registrationNumber": "CC33427",
+  "name": "UBS Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2024-03-31T00:00:00Z",
+  "website": null,
+  "email": "bob@lack.gen.nz",
+  "address": {
+    "line1": "19 Huntly Avenue",
+    "line2": " ",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043048892",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-04-10T07:07:37Z"
+}

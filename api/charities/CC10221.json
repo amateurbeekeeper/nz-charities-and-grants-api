@@ -1,0 +1,27 @@
+{
+  "id": 51523,
+  "registrationNumber": "CC10221",
+  "name": "Eckankar New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://eckankar.nz/",
+  "email": "joianarmstrong@gmail.com",
+  "address": {
+    "line1": "15 Homewood Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": "9429042703488",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T00:07:50Z"
+}

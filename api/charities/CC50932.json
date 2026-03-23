@@ -1,0 +1,27 @@
+{
+  "id": 34570,
+  "registrationNumber": "CC50932",
+  "name": "The Miramar and Maupuia Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-08-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mmcc.org.nz",
+  "email": "chair@mmcc.org.nz",
+  "address": {
+    "line1": "27 Chelsea Street",
+    "line2": " ",
+    "suburb": "Miramar",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429043285389",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/miramarmaupuia",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T20:59:14Z"
+}

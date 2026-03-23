@@ -1,0 +1,27 @@
+{
+  "id": 68880,
+  "registrationNumber": "CC55228",
+  "name": "Legacy Centre Levin",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-09-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stevec@legacy.net.nz",
+  "address": {
+    "line1": "PO Box 4588",
+    "line2": "Manawatu Mail Centre",
+    "suburb": "Takaro",
+    "city": "Palmerston North",
+    "postcode": "4442"
+  },
+  "nzbn": "9429046150844",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/legacypmn/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-29T22:58:56Z"
+}

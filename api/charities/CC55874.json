@@ -1,0 +1,27 @@
+{
+  "id": 69518,
+  "registrationNumber": "CC55874",
+  "name": "Auckland Cavy Care Rescue",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandcavycare.org.nz/",
+  "email": "rayleneholder@gmail.com",
+  "address": {
+    "line1": "19 Connolly Avenue",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CavyCareRescue/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T20:02:00Z"
+}

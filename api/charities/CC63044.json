@@ -1,0 +1,27 @@
+{
+  "id": 77051,
+  "registrationNumber": "CC63044",
+  "name": "Waipatu Māori Club Inc",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Waipatu@outlook.co.nz",
+  "address": {
+    "line1": "Flat 214",
+    "line2": "57 Mahuhu Crescent",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-22T02:20:19Z"
+}

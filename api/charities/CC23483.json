@@ -1,0 +1,27 @@
+{
+  "id": 56743,
+  "registrationNumber": "CC23483",
+  "name": "Rongotea Uniting Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rongoteauniting.methodist.org.nz/",
+  "email": "rongoteauniting@gmail.com",
+  "address": {
+    "line1": "72 Thames Street",
+    "line2": "Rongotea 4476",
+    "suburb": " ",
+    "city": "Rongotea",
+    "postcode": "4476"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Rongotea-Uniting-Parish-104812651887639/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:46:46Z"
+}

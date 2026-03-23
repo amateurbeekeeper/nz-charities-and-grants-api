@@ -1,0 +1,27 @@
+{
+  "id": 66700,
+  "registrationNumber": "CC52973",
+  "name": "RespectEd Aotearoa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-02-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.respected.org.nz",
+  "email": "kyla@wgtnrc.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "276 Wakefield Street",
+    "suburb": " Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043294053",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/respectednz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T02:29:58Z"
+}

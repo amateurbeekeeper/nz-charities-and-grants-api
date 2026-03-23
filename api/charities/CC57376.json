@@ -1,0 +1,27 @@
+{
+  "id": 71006,
+  "registrationNumber": "CC57376",
+  "name": "NZ Alopecia ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.alopecianz.co.nz/",
+  "email": "nzalopecia@outlook.com",
+  "address": {
+    "line1": "22A Briarmont Street",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429048973991",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZAlopecia",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:44:42Z"
+}

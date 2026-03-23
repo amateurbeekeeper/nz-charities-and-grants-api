@@ -1,0 +1,27 @@
+{
+  "id": 53058,
+  "registrationNumber": "CC11304",
+  "name": "Howick and Pakuranga Community Houses Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.hpapcommunityhouses.org.nz",
+  "email": "treas@hpapcommunityhouses.org.nz",
+  "address": {
+    "line1": "47 Aviemore Drive",
+    "line2": " ",
+    "suburb": "Highland Park",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429042868248",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hpapcommunityhouses.org",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T08:30:58Z"
+}

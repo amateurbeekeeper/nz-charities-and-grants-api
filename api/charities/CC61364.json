@@ -1,0 +1,27 @@
+{
+  "id": 74936,
+  "registrationNumber": "CC61364",
+  "name": "Project Waihi Beach Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-03-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "projectwaihibeach@gmail.com",
+  "address": {
+    "line1": "110 Fergus Road",
+    "line2": "RD 1",
+    "suburb": "Waihi Beach",
+    "city": "Waihi",
+    "postcode": "3681"
+  },
+  "nzbn": "9429051134891",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T19:00:20Z"
+}

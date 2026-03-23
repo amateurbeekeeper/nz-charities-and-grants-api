@@ -1,0 +1,27 @@
+{
+  "id": 73915,
+  "registrationNumber": "CC60324",
+  "name": "Southland Paws Rescue Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "southlandpawsrescue@gmail.com",
+  "address": {
+    "line1": "52 Weka Street",
+    "line2": " ",
+    "suburb": "Waikiwi",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429050497478",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/southlandpawsrescue",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T03:18:19Z"
+}

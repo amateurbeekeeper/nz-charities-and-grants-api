@@ -1,0 +1,27 @@
+{
+  "id": 74076,
+  "registrationNumber": "CC60486",
+  "name": "West Plains Cat Rescue",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "claireldavies.nz@gmail.com",
+  "address": {
+    "line1": "58 West Plains Road",
+    "line2": " ",
+    "suburb": "Waikiwi",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WestPlainsRescue",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T09:00:54Z"
+}

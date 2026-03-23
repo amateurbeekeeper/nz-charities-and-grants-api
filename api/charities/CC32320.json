@@ -1,0 +1,27 @@
+{
+  "id": 48989,
+  "registrationNumber": "CC32320",
+  "name": "Rotary Club of Petone Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.petonerotary.org.nz/",
+  "email": "treasurer@petonerotary.org.nz",
+  "address": {
+    "line1": "52 Beach Street",
+    "line2": " ",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T23:03:25Z"
+}

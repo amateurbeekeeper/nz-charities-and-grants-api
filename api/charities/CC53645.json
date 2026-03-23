@@ -1,0 +1,27 @@
+{
+  "id": 67355,
+  "registrationNumber": "CC53645",
+  "name": "Nelson Theatrix Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2016-08-18T00:00:00Z",
+  "dateDeregistered": "2018-12-12T00:00:00Z",
+  "website": "www.nelsontheatrix.co.nz",
+  "email": "nelsontheatrix@gmail.com",
+  "address": {
+    "line1": "296 Annesbrook Drive",
+    "line2": " ",
+    "suburb": "Annesbrook",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429042177951",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/nelsontheatrix",
+    "twitter": null
+  },
+  "lastUpdated": "2019-01-09T23:30:50Z"
+}

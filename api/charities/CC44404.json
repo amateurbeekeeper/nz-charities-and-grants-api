@@ -1,0 +1,27 @@
+{
+  "id": 50612,
+  "registrationNumber": "CC44404",
+  "name": "Milford Cruising Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.milfordcruising.co.nz",
+  "email": "manager@milfordcruising.co.nz",
+  "address": {
+    "line1": "24 Craig Road",
+    "line2": " ",
+    "suburb": "Milford",
+    "city": "Auckland",
+    "postcode": "620"
+  },
+  "nzbn": "9429042772026",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MilfordCruisingClub/?ref=bookmarks",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T18:45:06Z"
+}

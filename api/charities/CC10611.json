@@ -1,0 +1,27 @@
+{
+  "id": 51092,
+  "registrationNumber": "CC10611",
+  "name": "Epilepsy Association of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.epilepsy.org.nz",
+  "email": "ceo@epilepsy.org.nz",
+  "address": {
+    "line1": "EPILEPSY HOUSE",
+    "line2": "6 Vialou Street",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042699729",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/epilepsynz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T20:16:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37521,
+  "registrationNumber": "CC47042",
+  "name": "Inspire Whanganui Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2011-06-07T00:00:00Z",
+  "dateDeregistered": "2025-06-30T00:00:00Z",
+  "website": "https://www.insprewhanganui.co.nz",
+  "email": "naaman@pkfdoyles.co.nz",
+  "address": {
+    "line1": "32 Wilson Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-02T06:06:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55236,
+  "registrationNumber": "CC22028",
+  "name": "New Zealand Spinal Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-03-19T00:00:00Z",
+  "dateDeregistered": "2012-08-07T00:00:00Z",
+  "website": "http://www.nzspinaltrust.org.nz",
+  "email": "benl@nzspinaltrust.org.nz",
+  "address": {
+    "line1": "Allan Bean Centre",
+    "line2": "Cnr Burwood and Mairehau Roads",
+    "suburb": "Burwood",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429042601210",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:03:07Z"
+}

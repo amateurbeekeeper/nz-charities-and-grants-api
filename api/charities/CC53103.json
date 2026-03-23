@@ -1,0 +1,27 @@
+{
+  "id": 66825,
+  "registrationNumber": "CC53103",
+  "name": "Hamilton Pentecostal Church Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.pebblemountchurch.com",
+  "email": "hamiltonpentecostalchurch@gmail.com",
+  "address": {
+    "line1": "41 Cabourne Drive",
+    "line2": " ",
+    "suburb": "Glenview",
+    "city": "Hamilton",
+    "postcode": "3206"
+  },
+  "nzbn": "9429043315567",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/people/Pebblemount-Christian-Assembly-Church",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T10:51:18Z"
+}

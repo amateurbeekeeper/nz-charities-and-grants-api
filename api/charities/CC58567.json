@@ -1,0 +1,27 @@
+{
+  "id": 72183,
+  "registrationNumber": "CC58567",
+  "name": "CAPITAL THEATRE TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-10-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://capitaltheatretrust.co.nz",
+  "email": "sandy@capitaltheatretrust.co.nz",
+  "address": {
+    "line1": "3 Fiordland Place",
+    "line2": " ",
+    "suburb": "Aotea",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/capitaltheatretrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:16:31Z"
+}

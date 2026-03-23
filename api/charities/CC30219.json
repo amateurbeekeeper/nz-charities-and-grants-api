@@ -1,0 +1,27 @@
+{
+  "id": 49599,
+  "registrationNumber": "CC30219",
+  "name": "Freemans Bay Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-07-26T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/freemans-bay",
+  "email": "freemansbay@playcentre.org.nz",
+  "address": {
+    "line1": "124 Wellington Street",
+    "line2": " ",
+    "suburb": "Freemans Bay",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-09T07:08:12Z"
+}

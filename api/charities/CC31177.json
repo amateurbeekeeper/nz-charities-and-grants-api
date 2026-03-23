@@ -1,0 +1,27 @@
+{
+  "id": 49604,
+  "registrationNumber": "CC31177",
+  "name": "Dunedin Jewish Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "geoff.mirkin@wrlawyers.co.nz",
+  "address": {
+    "line1": "10 George Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042931164",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T02:51:43Z"
+}

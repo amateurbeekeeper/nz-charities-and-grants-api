@@ -1,0 +1,27 @@
+{
+  "id": 66616,
+  "registrationNumber": "CC52885",
+  "name": "New Zealand Mounted Rifles Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-09-16T00:00:00Z",
+  "dateDeregistered": "2023-01-09T00:00:00Z",
+  "website": "www.nzmrct.com",
+  "email": "mark@frobisher.co.nz",
+  "address": {
+    "line1": "322 Manchester Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429043314089",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/NZMRCT/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T22:37:01Z"
+}

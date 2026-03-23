@@ -1,0 +1,27 @@
+{
+  "id": 60054,
+  "registrationNumber": "CC29069",
+  "name": "Riverton New Life Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chipshop14@gmail.com",
+  "address": {
+    "line1": "7 Leader Street",
+    "line2": "Riverton 9822",
+    "suburb": "Riverton/aparima",
+    "city": "Riverton",
+    "postcode": "9822"
+  },
+  "nzbn": "9429042932512",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Hope Centre Riverton",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T18:17:54Z"
+}

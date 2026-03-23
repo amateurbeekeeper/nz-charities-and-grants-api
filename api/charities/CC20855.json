@@ -1,0 +1,27 @@
+{
+  "id": 39317,
+  "registrationNumber": "CC20855",
+  "name": "Citizens Advice Bureau Mangere Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cab.org.nz",
+  "email": "chair.mangere@cab.org.nz",
+  "address": {
+    "line1": "Suite 17",
+    "line2": "93 Bader Drive",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429042755821",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T18:03:00Z"
+}

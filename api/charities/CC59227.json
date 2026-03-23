@@ -1,0 +1,27 @@
+{
+  "id": 72828,
+  "registrationNumber": "CC59227",
+  "name": "Family Dispute Support Services",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fdss.org.nz",
+  "email": "david@fdss.org.nz",
+  "address": {
+    "line1": "9 Wren Place",
+    "line2": " ",
+    "suburb": "Unsworth Heights",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429049364255",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZFDSS",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:09:54Z"
+}

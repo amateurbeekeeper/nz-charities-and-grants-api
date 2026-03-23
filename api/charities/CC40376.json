@@ -1,0 +1,27 @@
+{
+  "id": 55891,
+  "registrationNumber": "CC40376",
+  "name": "The Royal Australian and New Zealand College of Radiologists Limited (New Zealand Branch)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ranzcr.com",
+  "email": "jason.shen@ranzcr.edu.au",
+  "address": {
+    "line1": "139 The Terrace",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429041550090",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:07:40Z"
+}

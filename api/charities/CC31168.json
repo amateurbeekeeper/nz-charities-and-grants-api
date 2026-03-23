@@ -1,0 +1,27 @@
+{
+  "id": 55826,
+  "registrationNumber": "CC31168",
+  "name": "The Stewart Island Community Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stewart.island@xtra.co.nz",
+  "address": {
+    "line1": "10 Ayr Street",
+    "line2": " ",
+    "suburb": "Halfmoon Bay",
+    "city": "Stewart Island",
+    "postcode": "9818"
+  },
+  "nzbn": "9429000033190",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T19:47:44Z"
+}

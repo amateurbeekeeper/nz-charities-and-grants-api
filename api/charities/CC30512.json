@@ -1,0 +1,27 @@
+{
+  "id": 48598,
+  "registrationNumber": "CC30512",
+  "name": "TrackSAFE Foundation New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tracksafe.co.nz",
+  "email": "megan.drayton@tracksafe.co.nz",
+  "address": {
+    "line1": "Level 4, Wellington Railway Starion",
+    "line2": "Bunny Street",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6110"
+  },
+  "nzbn": "9429043140817",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TrackSAFENZ/",
+    "twitter": "https://twitter.com/TrackSAFENZ"
+  },
+  "lastUpdated": "2026-03-12T00:39:03Z"
+}

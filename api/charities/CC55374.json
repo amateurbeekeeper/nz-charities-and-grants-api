@@ -1,0 +1,27 @@
+{
+  "id": 69028,
+  "registrationNumber": "CC55374",
+  "name": "Billy Graham Youth Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.championsinitiative.org.nz",
+  "email": "kerri.graham@bgyf.org.nz",
+  "address": {
+    "line1": "6A Rudyard Crescent",
+    "line2": " ",
+    "suburb": "Johnsonville",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429046888006",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/championsinitiativenz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T03:45:43Z"
+}

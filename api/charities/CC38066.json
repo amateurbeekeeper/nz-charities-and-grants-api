@@ -1,0 +1,27 @@
+{
+  "id": 48962,
+  "registrationNumber": "CC38066",
+  "name": "New Zealand Society of Anaesthetists Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://anaesthesia.nz/",
+  "email": "ceo@anaesthesia.nz",
+  "address": {
+    "line1": "Level 6",
+    "line2": "Equinox House, 222 Lambton Quay",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042688716",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T00:31:07Z"
+}

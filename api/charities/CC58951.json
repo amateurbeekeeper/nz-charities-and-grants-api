@@ -1,0 +1,27 @@
+{
+  "id": 72563,
+  "registrationNumber": "CC58951",
+  "name": "Aotearoa Climbing Access Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-06-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.acat.org.nz",
+  "email": "manager@acat.org.nz",
+  "address": {
+    "line1": "Unit 6",
+    "line2": "6 Raycroft Street",
+    "suburb": "Waltham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429049270457",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@aotearoaclimbingaccess",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:45:05Z"
+}

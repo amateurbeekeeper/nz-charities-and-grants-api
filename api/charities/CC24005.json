@@ -1,0 +1,27 @@
+{
+  "id": 40732,
+  "registrationNumber": "CC24005",
+  "name": "New Zealand Christian Farmers' Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bonnar@farmside.co.nz",
+  "address": {
+    "line1": "2 Bell Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Morrinsville",
+    "postcode": "3371"
+  },
+  "nzbn": "9429042708186",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:53:03Z"
+}

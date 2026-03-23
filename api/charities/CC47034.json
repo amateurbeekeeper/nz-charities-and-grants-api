@@ -1,0 +1,27 @@
+{
+  "id": 35476,
+  "registrationNumber": "CC47034",
+  "name": "Web Access Waikato Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2019-09-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wawt.org.nz",
+  "email": "wawt@shanehobson.com",
+  "address": {
+    "line1": "58 Bader Street",
+    "line2": " ",
+    "suburb": "Bader",
+    "city": "Hamilton",
+    "postcode": "3206"
+  },
+  "nzbn": "9429043229390",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T03:28:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 77183,
+  "registrationNumber": "CC63113",
+  "name": "Nelson AI Sandbox Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://aisandbox.org.nz/",
+  "email": "storefront@aisandbox.org.nz",
+  "address": {
+    "line1": "322 Hardy Street",
+    "line2": "Nelson 7010",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nelsonaisandbox/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:16:03Z"
+}

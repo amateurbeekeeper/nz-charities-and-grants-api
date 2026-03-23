@@ -1,0 +1,27 @@
+{
+  "id": 45658,
+  "registrationNumber": "CC37968",
+  "name": "Celebration Fellowship Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.celebration.org.nz",
+  "email": "office@celebration.org.nz",
+  "address": {
+    "line1": "246 Thorndon Quay",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042596516",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/CelebrationChurchNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:06:05Z"
+}

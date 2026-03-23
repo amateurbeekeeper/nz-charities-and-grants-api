@@ -1,0 +1,27 @@
+{
+  "id": 37567,
+  "registrationNumber": "CC44564",
+  "name": "Kenana - Te Ranginui Marae Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kenanateranginuimaraetrust@gmail.com",
+  "address": {
+    "line1": "87 Kenana Road",
+    "line2": "Mangonui 0494",
+    "suburb": "Mangonui",
+    "city": "Mangonui",
+    "postcode": "0494"
+  },
+  "nzbn": "9429042657293",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T00:53:40Z"
+}

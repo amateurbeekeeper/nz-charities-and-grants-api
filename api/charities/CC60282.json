@@ -1,0 +1,27 @@
+{
+  "id": 73871,
+  "registrationNumber": "CC60282",
+  "name": "Fire Ministries (NZ)",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "johnreason@gmail.com",
+  "address": {
+    "line1": "41 Horner Street",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429050437856",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/revivalfirenz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T04:35:46Z"
+}

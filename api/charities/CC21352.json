@@ -1,0 +1,27 @@
+{
+  "id": 54239,
+  "registrationNumber": "CC21352",
+  "name": "New Zealand Jazz Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzjazzfoundation.com",
+  "email": "davelisik@gmail.com",
+  "address": {
+    "line1": "11A Balfour Street",
+    "line2": " ",
+    "suburb": "Mornington",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/nzjazzfoundation",
+    "twitter": "https://twitter.com/NZ_Jazz"
+  },
+  "lastUpdated": "2025-08-21T02:25:52Z"
+}

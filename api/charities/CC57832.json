@@ -1,0 +1,27 @@
+{
+  "id": 71456,
+  "registrationNumber": "CC57832",
+  "name": "Kairos Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kairosfoodrescue.org.nz/",
+  "email": "kevin@kairosfoodrescue.org.nz",
+  "address": {
+    "line1": "100 Mowbray Street",
+    "line2": " ",
+    "suburb": "Waltham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429049478419",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kairosfoodrescue",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T00:26:06Z"
+}

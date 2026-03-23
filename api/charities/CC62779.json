@@ -1,0 +1,27 @@
+{
+  "id": 76543,
+  "registrationNumber": "CC62779",
+  "name": "HAIL Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-10-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ericatebbutt@gmail.com",
+  "address": {
+    "line1": "PO Box 1345",
+    "line2": "Nelson 7040",
+    "suburb": "The Wood",
+    "city": "Nelson",
+    "postcode": "7040"
+  },
+  "nzbn": "9429052133855",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T00:40:42Z"
+}

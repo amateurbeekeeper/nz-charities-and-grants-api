@@ -1,0 +1,27 @@
+{
+  "id": 75204,
+  "registrationNumber": "CC61637",
+  "name": "The Wild Horse Project",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thewildhorseproject.com/",
+  "email": "info@thewildhorseproject.com",
+  "address": {
+    "line1": "2418D State Highway 10",
+    "line2": "Waipapa 0295",
+    "suburb": "Waipapa",
+    "city": "Waipapa",
+    "postcode": "0295"
+  },
+  "nzbn": "9429051857998",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Wild Horse Project",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T19:28:59Z"
+}

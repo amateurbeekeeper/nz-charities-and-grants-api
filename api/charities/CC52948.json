@@ -1,0 +1,27 @@
+{
+  "id": 66725,
+  "registrationNumber": "CC52948",
+  "name": "Marcel Lefebvre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-09-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "coordinator@marcellefebvretrust.com",
+  "address": {
+    "line1": "933 Oporae Road",
+    "line2": "RD 1",
+    "suburb": "Waione",
+    "city": "Dannevirke",
+    "postcode": "4971"
+  },
+  "nzbn": "9429043297344",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T23:26:42Z"
+}

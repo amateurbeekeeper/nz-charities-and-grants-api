@@ -1,0 +1,27 @@
+{
+  "id": 63429,
+  "registrationNumber": "CC37642",
+  "name": "Pukekohe East Community Centre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "enquiries@tommyandco.co.nz",
+  "address": {
+    "line1": "Pukekohe East Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2677"
+  },
+  "nzbn": "9429043166152",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T22:31:35Z"
+}

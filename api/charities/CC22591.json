@@ -1,0 +1,27 @@
+{
+  "id": 40102,
+  "registrationNumber": "CC22591",
+  "name": "Connect Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.connectbaptist.org.nz",
+  "email": "shorederek@gmail.com",
+  "address": {
+    "line1": "75 Everglade Drive",
+    "line2": " ",
+    "suburb": "Goodwood Heights",
+    "city": "Auckland",
+    "postcode": "2105"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Connect Baptist Church Manukau",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:37:40Z"
+}

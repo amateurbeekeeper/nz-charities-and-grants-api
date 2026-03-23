@@ -1,0 +1,27 @@
+{
+  "id": 69202,
+  "registrationNumber": "CC55552",
+  "name": "THE POTTERS HOUSE CHRISTIAN CENTRE PANMURE",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-03-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.eastsidechurch.co.nz",
+  "email": "potters.house.east@gmail.com",
+  "address": {
+    "line1": "226 Marua Road",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429053439628",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T23:51:50Z"
+}

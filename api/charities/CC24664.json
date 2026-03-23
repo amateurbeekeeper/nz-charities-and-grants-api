@@ -1,0 +1,27 @@
+{
+  "id": 54325,
+  "registrationNumber": "CC24664",
+  "name": "Lake Taupo Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ltct.co.nz",
+  "email": "maureen@ltft.co.nz",
+  "address": {
+    "line1": "81 The Town Centre",
+    "line2": "Turangi 3334",
+    "suburb": " ",
+    "city": "Turangi",
+    "postcode": "3334"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T01:39:16Z"
+}

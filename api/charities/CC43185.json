@@ -1,0 +1,27 @@
+{
+  "id": 64050,
+  "registrationNumber": "CC43185",
+  "name": "RIVERLEA THEATRE TRUST",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-12-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.riverleatheatre.nz",
+  "email": "thewiz@xtra.co.nz",
+  "address": {
+    "line1": "83 Riverlea Road",
+    "line2": " ",
+    "suburb": "Riverlea",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429053148520",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:29:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75771,
+  "registrationNumber": "CC62218",
+  "name": "Auckland Happy Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mark.kimberley@gmail.com",
+  "address": {
+    "line1": "9A Fancourt Street",
+    "line2": " ",
+    "suburb": "Meadowbank",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429052002649",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T21:06:18Z"
+}

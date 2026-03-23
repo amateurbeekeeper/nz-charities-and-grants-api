@@ -1,0 +1,27 @@
+{
+  "id": 51290,
+  "registrationNumber": "CC10086",
+  "name": "Papakura and District Historical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.papakuramuseum.org.nz",
+  "email": "manager@papakuramuseum.org.nz",
+  "address": {
+    "line1": "209 Great South Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": "9429042821199",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/papakuramuseum",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T22:20:29Z"
+}

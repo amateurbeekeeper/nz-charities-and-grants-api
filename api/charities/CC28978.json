@@ -1,0 +1,27 @@
+{
+  "id": 43716,
+  "registrationNumber": "CC28978",
+  "name": "Raglan Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "helen.thomas@fireandemergency.nz",
+  "address": {
+    "line1": "11 Wainui Road",
+    "line2": "Raglan 3225",
+    "suburb": "Raglan",
+    "city": "Raglan",
+    "postcode": "3225"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "http://www.facebook.com/RaglanVolunteerFireFighters/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T19:19:41Z"
+}

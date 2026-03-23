@@ -1,0 +1,27 @@
+{
+  "id": 40775,
+  "registrationNumber": "CC26927",
+  "name": "Maroanui Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "maroanui_marae@xtra.co.nz",
+  "address": {
+    "line1": "30 Rotokawa Street",
+    "line2": " ",
+    "suburb": "Taupō",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T19:42:01Z"
+}

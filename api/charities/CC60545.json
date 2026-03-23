@@ -1,0 +1,27 @@
+{
+  "id": 74135,
+  "registrationNumber": "CC60545",
+  "name": "Sony Foundation New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "sonyfoundation.org",
+  "email": "nicholas.bland@simpsongrierson.com",
+  "address": {
+    "line1": "Level 1, 100 Ponsonby Road",
+    "line2": " ",
+    "suburb": "Ponsonby",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429049148978",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T22:58:08Z"
+}

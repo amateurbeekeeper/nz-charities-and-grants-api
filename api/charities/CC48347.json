@@ -1,0 +1,27 @@
+{
+  "id": 32786,
+  "registrationNumber": "CC48347",
+  "name": "U3A Port Hills Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://u3aporthills.org.nz",
+  "email": "marilynjcowe@gmail.com",
+  "address": {
+    "line1": "29 Wades Avenue",
+    "line2": null,
+    "suburb": "Saint Martins",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429043236084",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T22:52:40Z"
+}

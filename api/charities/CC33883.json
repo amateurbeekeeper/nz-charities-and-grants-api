@@ -1,0 +1,27 @@
+{
+  "id": 52242,
+  "registrationNumber": "CC33883",
+  "name": "Sport Whanganui",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sportwhanganui.co.nz",
+  "email": "tania@sportwhanganui.co.nz",
+  "address": {
+    "line1": "226 London Street",
+    "line2": " ",
+    "suburb": "Springvale",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429042933045",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T20:46:13Z"
+}

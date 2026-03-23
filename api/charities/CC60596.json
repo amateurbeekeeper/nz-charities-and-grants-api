@@ -1,0 +1,27 @@
+{
+  "id": 74189,
+  "registrationNumber": "CC60596",
+  "name": "Ovation Theatre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-10-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ovation.nz",
+  "email": "gm@ovation.nz",
+  "address": {
+    "line1": "60 Yellowstone Crescent",
+    "line2": " ",
+    "suburb": "Burwood",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429051505431",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T22:56:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67403,
+  "registrationNumber": "CC53690",
+  "name": "The Dilworth Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dilworth.school.nz",
+  "email": "c.holden@dilworth.org.nz",
+  "address": {
+    "line1": "2 Erin Street",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429043309832",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-07T21:11:34Z"
+}

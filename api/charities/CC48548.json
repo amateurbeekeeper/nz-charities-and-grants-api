@@ -1,0 +1,27 @@
+{
+  "id": 33089,
+  "registrationNumber": "CC48548",
+  "name": "ACK Tauranga Congregation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "acktauranga.nz",
+  "email": "finansies@acktauranga.nz",
+  "address": {
+    "line1": "134 Sixteenth Avenue",
+    "line2": " ",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429043277124",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:07:28Z"
+}

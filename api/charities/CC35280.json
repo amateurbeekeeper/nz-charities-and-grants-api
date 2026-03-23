@@ -1,0 +1,27 @@
+{
+  "id": 42232,
+  "registrationNumber": "CC35280",
+  "name": "Newlands-Paparangi Tennis Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://clubspark.kiwi/NewlandspaparangiTC",
+  "email": "npt.club@gmail.com",
+  "address": {
+    "line1": "17 Miles Crescent",
+    "line2": " ",
+    "suburb": "Newlands",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429042682448",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/nptennisclub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-03T19:20:07Z"
+}

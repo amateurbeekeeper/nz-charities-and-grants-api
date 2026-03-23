@@ -1,0 +1,27 @@
+{
+  "id": 65154,
+  "registrationNumber": "CC41954",
+  "name": "Tauranga Volunteer Coastguard Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.taurangacoastguard.co.nz",
+  "email": "tauranga.operations@coastguard.nz",
+  "address": {
+    "line1": "72 Keith Allen Drive",
+    "line2": " ",
+    "suburb": "Sulphur Point",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042831099",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TaurangaCoastguard/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T00:00:26Z"
+}

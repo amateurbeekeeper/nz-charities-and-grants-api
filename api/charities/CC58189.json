@@ -1,0 +1,27 @@
+{
+  "id": 71806,
+  "registrationNumber": "CC58189",
+  "name": "Te Hāhi Aotearoa Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "tehahi.org.nz",
+  "email": "coordinator@tehahi.org.nz",
+  "address": {
+    "line1": "3 Raupo Crescent",
+    "line2": " ",
+    "suburb": "Wharewaka",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429048472210",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T20:27:16Z"
+}

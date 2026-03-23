@@ -1,0 +1,27 @@
+{
+  "id": 71585,
+  "registrationNumber": "CC57969",
+  "name": "The Give Better Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.givebetter.nz",
+  "email": "selwyncoles@gmail.com",
+  "address": {
+    "line1": "Flat 14",
+    "line2": "30 Upper Queen Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429047853195",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GiveBetterNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-27T21:38:50Z"
+}

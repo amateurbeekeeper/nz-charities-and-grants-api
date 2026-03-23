@@ -1,0 +1,27 @@
+{
+  "id": 42574,
+  "registrationNumber": "CC26905",
+  "name": "Royal New Zealand Coastguard Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.coastguard.nz",
+  "email": "compliance@nz.andersen.com",
+  "address": {
+    "line1": "3 Solent Street",
+    "line2": " ",
+    "suburb": "Mechanics Bay",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T01:00:34Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66374,
+  "registrationNumber": "CC52637",
+  "name": "Te Ihupuku Marae Reservation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul@balanceca.nz",
+  "address": {
+    "line1": "PO Box 7",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waitotara",
+    "postcode": "4549"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:45:29Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55113,
+  "registrationNumber": "CC21306",
+  "name": "Desert Spring Ministries Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.dsmt.org.nz",
+  "email": "david@dsmt.org.nz",
+  "address": {
+    "line1": "408 Peachgrove Road",
+    "line2": " ",
+    "suburb": "Fairfield",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": "9429042668503",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T01:47:06Z"
+}

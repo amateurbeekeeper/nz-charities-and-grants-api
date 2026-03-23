@@ -1,0 +1,27 @@
+{
+  "id": 64559,
+  "registrationNumber": "CC38170",
+  "name": "Te Oranga Kaumatua Kuia Disability Support Services Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.teorangakk.org.nz",
+  "email": "daphne.marshall@teorangakk.org.nz",
+  "address": {
+    "line1": "64 Mascot Avenue",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429042984450",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T22:00:54Z"
+}

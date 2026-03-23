@@ -1,0 +1,27 @@
+{
+  "id": 33188,
+  "registrationNumber": "CC48547",
+  "name": "Bible League International New Zealand ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bl.org.nz",
+  "email": "ceo@bl.org.au",
+  "address": {
+    "line1": "Unit 12",
+    "line2": "65 Paul Matthews Road",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043317653",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "BibleLeagueANZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T21:00:10Z"
+}

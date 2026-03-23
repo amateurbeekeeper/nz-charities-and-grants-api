@@ -1,0 +1,27 @@
+{
+  "id": 32953,
+  "registrationNumber": "CC49859",
+  "name": "Jean Wightman Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-01-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "adminfarms@publictrust.co.nz",
+  "address": {
+    "line1": "22 Willeston Street",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429044086220",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T19:08:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 60839,
+  "registrationNumber": "CC30343",
+  "name": "Kidsafe Taranaki Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurer@kidsafetaranaki.nz",
+  "address": {
+    "line1": "214 Devon Street West",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042657927",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Kidsafe Taranaki Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T04:24:35Z"
+}

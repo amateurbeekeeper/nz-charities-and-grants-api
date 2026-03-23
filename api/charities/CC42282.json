@@ -1,0 +1,27 @@
+{
+  "id": 60058,
+  "registrationNumber": "CC42282",
+  "name": "Remuera Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.remueragolfclub.com",
+  "email": "gm@remueragolfclub.com",
+  "address": {
+    "line1": "120 Abbotts Way",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042743224",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T01:06:19Z"
+}

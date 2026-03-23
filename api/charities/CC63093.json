@@ -1,0 +1,27 @@
+{
+  "id": 77147,
+  "registrationNumber": "CC63093",
+  "name": "The Faulty Cat Fund",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thefaultycatfund.co.nz",
+  "email": "mary.edwards@hotmail.co.nz",
+  "address": {
+    "line1": "289B Carrington Street",
+    "line2": " ",
+    "suburb": "Vogeltown",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-27T01:18:51Z"
+}

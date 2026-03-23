@@ -1,0 +1,27 @@
+{
+  "id": 42506,
+  "registrationNumber": "CC24594",
+  "name": "Amberley Community Preschool Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.amberleypreschool.co.nz",
+  "email": "admin@amberleypreschool.co.nz",
+  "address": {
+    "line1": "3 Douglas Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Amberley",
+    "postcode": "7410"
+  },
+  "nzbn": "9429042664314",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Amberley Preschool + Prep School",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T02:28:15Z"
+}

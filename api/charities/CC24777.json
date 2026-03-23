@@ -1,0 +1,27 @@
+{
+  "id": 42307,
+  "registrationNumber": "CC24777",
+  "name": "The Whanganui Learning Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wlct.org.nz",
+  "email": "debs.wlc@gmail.com",
+  "address": {
+    "line1": "232 Wicksteed Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429043160372",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheWhanganuiLearningCentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-01T06:05:39Z"
+}

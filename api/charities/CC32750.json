@@ -1,0 +1,27 @@
+{
+  "id": 63446,
+  "registrationNumber": "CC32750",
+  "name": "Southland Warm Homes Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.swht.co.nz",
+  "email": "abeck@powernet.co.nz",
+  "address": {
+    "line1": "251 Racecourse Road",
+    "line2": " ",
+    "suburb": "Waverley",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429043091775",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T02:42:56Z"
+}

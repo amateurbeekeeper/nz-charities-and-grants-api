@@ -1,0 +1,27 @@
+{
+  "id": 41465,
+  "registrationNumber": "CC33213",
+  "name": "Diocesan School For Girls",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.diocesan.school.nz",
+  "email": "schristie@diocesan.school.nz",
+  "address": {
+    "line1": "Clyde Street",
+    "line2": "Epsom",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042645382",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DiocesanSchoolforGirls",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-24T19:33:52Z"
+}

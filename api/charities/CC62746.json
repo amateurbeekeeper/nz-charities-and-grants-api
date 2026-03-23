@@ -1,0 +1,27 @@
+{
+  "id": 76468,
+  "registrationNumber": "CC62746",
+  "name": "Pollok Community Centre Inc",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "PollokHallSecretary@gmail.com",
+  "address": {
+    "line1": "4 Cemetery Road",
+    "line2": "Pollok 2684",
+    "suburb": "Pollok",
+    "city": "Pollok",
+    "postcode": "2684"
+  },
+  "nzbn": "9429042811282",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PollokHall",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T18:08:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 32640,
+  "registrationNumber": "CC48930",
+  "name": "Wildman Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2013-03-12T00:00:00Z",
+  "dateDeregistered": "2020-02-28T00:00:00Z",
+  "website": "www.wildman.co.nz",
+  "email": "mike@grapevine.org.nz",
+  "address": {
+    "line1": "21 Parakiwai Quarry Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Whangamata",
+    "postcode": "3691"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-03-23T06:00:59Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65673,
+  "registrationNumber": "CC51926",
+  "name": "Shore Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.shorepres.org.nz",
+  "email": "c.grove@eba-accounting.com",
+  "address": {
+    "line1": "40 Mahoney Drive",
+    "line2": " ",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T04:55:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35547,
+  "registrationNumber": "CC44757",
+  "name": "Smiley Campaign",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2021-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.smileycampaign.com",
+  "email": "leahandmacks@gmail.com",
+  "address": {
+    "line1": "30 Wimbledon Crescent",
+    "line2": " ",
+    "suburb": "Glen Innes",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042674573",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/smileycampaign/",
+    "twitter": "nil"
+  },
+  "lastUpdated": "2025-10-27T22:30:37Z"
+}

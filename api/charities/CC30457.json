@@ -1,0 +1,27 @@
+{
+  "id": 48393,
+  "registrationNumber": "CC30457",
+  "name": "West Otago Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wohealth.co.nz",
+  "email": "kylie@hammonddavidson.co.nz",
+  "address": {
+    "line1": "50 Tapanui Raes Junction Highway",
+    "line2": "Tapanui 9587",
+    "suburb": " ",
+    "city": "Tapanui",
+    "postcode": "9587"
+  },
+  "nzbn": "9429042913078",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T18:40:25Z"
+}

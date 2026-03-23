@@ -1,0 +1,27 @@
+{
+  "id": 67828,
+  "registrationNumber": "CC54143",
+  "name": "Barnabas School of Leadership Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bsl.org.nz",
+  "email": "bradcarr.nz@gmail.com",
+  "address": {
+    "line1": "15 Northpark Avenue",
+    "line2": " ",
+    "suburb": "Northpark",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429043394180",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-05T19:26:31Z"
+}

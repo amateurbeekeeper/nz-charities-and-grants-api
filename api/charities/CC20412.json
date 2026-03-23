@@ -1,0 +1,27 @@
+{
+  "id": 51054,
+  "registrationNumber": "CC20412",
+  "name": "Andersons Bay Community Kindergarten Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.andersonsbaykindy.com",
+  "email": "info@andybaykindy.co.nz",
+  "address": {
+    "line1": "56 Jeffrey Street",
+    "line2": " ",
+    "suburb": "Andersons Bay",
+    "city": "Dunedin",
+    "postcode": "9013"
+  },
+  "nzbn": "9429042575009",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/AndersonsBayCommunityKindergarten/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:41:53Z"
+}

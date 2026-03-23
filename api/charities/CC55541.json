@@ -1,0 +1,27 @@
+{
+  "id": 69190,
+  "registrationNumber": "CC55541",
+  "name": "New Zealand Heritage Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-02-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david@nicoll.co.nz",
+  "address": {
+    "line1": "367-369 Parnell Road",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429046530516",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T22:36:40Z"
+}

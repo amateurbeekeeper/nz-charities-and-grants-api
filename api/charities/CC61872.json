@@ -1,0 +1,27 @@
+{
+  "id": 75430,
+  "registrationNumber": "CC61872",
+  "name": "Ellesmere Promotions Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://eptrust.nz/ept",
+  "email": "secretary@eptrust.nz",
+  "address": {
+    "line1": "1 Fibonacci Way",
+    "line2": null,
+    "suburb": " ",
+    "city": "Leeston",
+    "postcode": "7632"
+  },
+  "nzbn": "9429051555108",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EllesmerePromotionsTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T02:10:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 77395,
+  "registrationNumber": "CC63226",
+  "name": "NZ Rescue Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "shaan@nzrescue.org.nz",
+  "address": {
+    "line1": "116 Symonds Street",
+    "line2": " ",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429052225666",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzrescuepromo/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T04:17:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54121,
+  "registrationNumber": "CC20703",
+  "name": "The IHC Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ihcfoundation.org.nz",
+  "email": "Larna.Harding@ihc.org.nz",
+  "address": {
+    "line1": "Level 15",
+    "line2": "57 Willis Street",
+    "suburb": "Wellington ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042870234",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T23:14:55Z"
+}

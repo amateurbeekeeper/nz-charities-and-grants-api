@@ -1,0 +1,27 @@
+{
+  "id": 63985,
+  "registrationNumber": "CC43044",
+  "name": "The Henderson R.S.A. Inc Trust Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-12-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "accounts@hendersonrsa.co.nz",
+  "address": {
+    "line1": "The Henderson RSA Inc Trust",
+    "line2": "66-70 Railside Ave",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429042639312",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-24T18:59:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65441,
+  "registrationNumber": "CC51681",
+  "name": "The Village Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.villagechurch.nz",
+  "email": "souness.family@xtra.co.nz",
+  "address": {
+    "line1": "365a Ilam Road",
+    "line2": " ",
+    "suburb": " Burnside",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429051121259",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thevillagechch/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:01:40Z"
+}

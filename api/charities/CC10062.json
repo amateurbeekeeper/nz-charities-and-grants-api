@@ -1,0 +1,27 @@
+{
+  "id": 51204,
+  "registrationNumber": "CC10062",
+  "name": "The Totara Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mike.mobeng@gmail.com",
+  "address": {
+    "line1": "290 Maungakawa Road",
+    "line2": "RD 4",
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3496"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T21:44:03Z"
+}

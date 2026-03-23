@@ -1,0 +1,27 @@
+{
+  "id": 53019,
+  "registrationNumber": "CC21597",
+  "name": "New Zealand Sports Hall of Fame Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nzhalloffame.co.nz",
+  "email": "stuart@gsm.co.nz",
+  "address": {
+    "line1": "1st Floor, Dunedin Railway Station",
+    "line2": "Anzac Avenue",
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042690573",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzsportshalloffame",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T23:05:33Z"
+}

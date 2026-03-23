@@ -1,0 +1,27 @@
+{
+  "id": 35241,
+  "registrationNumber": "CC50325",
+  "name": "Waikato Unicol Association Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2021-01-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.unicol.org.nz/",
+  "email": "secretary@unicol.org.nz",
+  "address": {
+    "line1": "WAIKATO UNIVERSITY",
+    "line2": "3 Silverdale Road",
+    "suburb": "Silverdale",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429042894537",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-03T18:34:34Z"
+}

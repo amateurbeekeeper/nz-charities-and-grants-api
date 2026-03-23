@@ -1,0 +1,27 @@
+{
+  "id": 55265,
+  "registrationNumber": "CC22186",
+  "name": "Chapel Hill Property Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "traceyeclark@hotmail.com",
+  "address": {
+    "line1": "2 Cate Road",
+    "line2": " ",
+    "suburb": "Rototuna",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429043020263",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T06:27:27Z"
+}

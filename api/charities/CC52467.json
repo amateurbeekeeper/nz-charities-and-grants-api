@@ -1,0 +1,27 @@
+{
+  "id": 66202,
+  "registrationNumber": "CC52467",
+  "name": "Halberg Endowment Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-07-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.halberg.co.nz",
+  "email": "adrienne@adroite.co.nz",
+  "address": {
+    "line1": "Unit 2.5, 1 Cleveland Road",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429043314065",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T21:14:38Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37482,
+  "registrationNumber": "CC47403",
+  "name": "New Zealand Ploughing Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-02-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzplough.co.nz",
+  "email": "nzploughing.treasurer@gmail.com",
+  "address": {
+    "line1": "C/O Treasurer Gary Fitzgerald, 54 Wildman Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Motueka",
+    "postcode": "7120"
+  },
+  "nzbn": "9429042706595",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "nz ploughing association",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-21T02:49:33Z"
+}

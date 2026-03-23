@@ -1,0 +1,27 @@
+{
+  "id": 39343,
+  "registrationNumber": "CC24321",
+  "name": "Altrusa International of Queenstown Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "altrusaqueenstown@gmail.com",
+  "address": {
+    "line1": "5 St Lukes Lane",
+    "line2": null,
+    "suburb": " ",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429053296054",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AltrusaQueenstown",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T01:43:36Z"
+}

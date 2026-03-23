@@ -1,0 +1,27 @@
+{
+  "id": 37331,
+  "registrationNumber": "CC46681",
+  "name": "Badminton Canterbury Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-06-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.badmintoncanterbury.com",
+  "email": "debbie@badmintoncanterbury.com",
+  "address": {
+    "line1": "220 Pages Road",
+    "line2": " ",
+    "suburb": "Wainoni",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429042602736",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T20:41:38Z"
+}

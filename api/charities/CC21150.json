@@ -1,0 +1,27 @@
+{
+  "id": 54384,
+  "registrationNumber": "CC21150",
+  "name": "Heart of the Bays Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.HOTB.co.nz",
+  "email": "beks.smith.80@gmail.com",
+  "address": {
+    "line1": "49 Harrowglen Drive",
+    "line2": " ",
+    "suburb": "Northcross",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429042717959",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Heart of the Bays",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T01:06:46Z"
+}

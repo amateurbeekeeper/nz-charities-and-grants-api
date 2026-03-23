@@ -1,0 +1,27 @@
+{
+  "id": 63455,
+  "registrationNumber": "CC40837",
+  "name": "Te Waotu School Support Group",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tewaotu.school.nz",
+  "email": "ssg@tewaotu.school.nz",
+  "address": {
+    "line1": "1274 Waotu Road",
+    "line2": "RD 1",
+    "suburb": "Waotu",
+    "city": "Putaruru",
+    "postcode": "3481"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T07:48:53Z"
+}

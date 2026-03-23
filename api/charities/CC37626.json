@@ -1,0 +1,27 @@
+{
+  "id": 43852,
+  "registrationNumber": "CC37626",
+  "name": "Geneva Free Reformed Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2023-08-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://gfrc.org.nz/",
+  "email": "richard@groundtest.co.nz",
+  "address": {
+    "line1": "37 Hobsonville Road",
+    "line2": " ",
+    "suburb": "West Harbour",
+    "city": "Auckland",
+    "postcode": "0618"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T19:28:42Z"
+}

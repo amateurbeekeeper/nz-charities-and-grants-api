@@ -1,0 +1,27 @@
+{
+  "id": 65454,
+  "registrationNumber": "CC51692",
+  "name": "NZ Fire Service Gisborne Fire Brigade - Volunteer Unit",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stephen.hermon@fireandemergency.nz",
+  "address": {
+    "line1": "185 Palmerston Road",
+    "line2": "Gisborne 4010",
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:03:07Z"
+}

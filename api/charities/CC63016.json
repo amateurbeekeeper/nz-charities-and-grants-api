@@ -1,0 +1,27 @@
+{
+  "id": 77002,
+  "registrationNumber": "CC63016",
+  "name": "Living Jesus",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.livingjesus.nz",
+  "email": "livingjesus247@outlook.com",
+  "address": {
+    "line1": "32A Gibraltar Street",
+    "line2": " ",
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": "9429051057534",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LivingJesus247/",
+    "twitter": "https://twitter.com/LivingJesu5901"
+  },
+  "lastUpdated": "2025-12-04T19:55:45Z"
+}

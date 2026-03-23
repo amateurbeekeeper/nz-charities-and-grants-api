@@ -1,0 +1,27 @@
+{
+  "id": 51436,
+  "registrationNumber": "CC10246",
+  "name": "Sisters of Compassion Group Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.compassion.org.nz",
+  "email": "ce@compassion.org.nz",
+  "address": {
+    "line1": "2 Rhine Street",
+    "line2": " ",
+    "suburb": "Island Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429038295058",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:39:30Z"
+}

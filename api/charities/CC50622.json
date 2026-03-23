@@ -1,0 +1,27 @@
+{
+  "id": 34338,
+  "registrationNumber": "CC50622",
+  "name": "Tabernacle Trust Investments",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rhumphrey@tabtrust.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "441 Queen Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-27T00:31:36Z"
+}

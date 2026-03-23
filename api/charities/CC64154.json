@@ -1,0 +1,27 @@
+{
+  "id": 78343,
+  "registrationNumber": "CC64154",
+  "name": "Kia Orana Murihiku Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kiaoranamurihiku@gmail.com",
+  "address": {
+    "line1": "216A Nelson Street",
+    "line2": null,
+    "suburb": "Strathern",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": "9429053349781",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Kia Orana Murihiku",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T23:59:34Z"
+}

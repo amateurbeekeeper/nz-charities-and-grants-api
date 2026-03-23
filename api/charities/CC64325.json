@@ -1,0 +1,27 @@
+{
+  "id": 78509,
+  "registrationNumber": "CC64325",
+  "name": "New Zealand Society of Endodontics Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-08-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzse.org.nz",
+  "email": "treasurer@nzse.org.nz",
+  "address": {
+    "line1": "398 Jackson Street",
+    "line2": null,
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T01:05:13Z"
+}

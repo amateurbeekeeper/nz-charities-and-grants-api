@@ -1,0 +1,27 @@
+{
+  "id": 68402,
+  "registrationNumber": "CC54733",
+  "name": "The YMCA, New Zealand Soldiers Great War Memorial Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-08-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ymca.org.nz",
+  "email": "national@ymca.org.nz",
+  "address": {
+    "line1": "Pelorus Trust Sports House",
+    "line2": "93 Hutt Park Road",
+    "suburb": "Moera",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/YMCANewZealand/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:14Z"
+}

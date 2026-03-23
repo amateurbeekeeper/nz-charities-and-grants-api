@@ -1,0 +1,27 @@
+{
+  "id": 66405,
+  "registrationNumber": "CC52665",
+  "name": "Sikh Sangat NZ Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sikhsangatnz.com",
+  "email": "info@sikhsangatnz.com",
+  "address": {
+    "line1": "84 Lady Ruby Drive",
+    "line2": " ",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429043291816",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T02:22:43Z"
+}

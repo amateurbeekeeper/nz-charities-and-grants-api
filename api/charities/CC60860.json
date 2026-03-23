@@ -1,0 +1,27 @@
+{
+  "id": 74445,
+  "registrationNumber": "CC60860",
+  "name": "Golden Sands Baptist Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.goldensandsbaptist.com/",
+  "email": "Colin@goldensands.nz",
+  "address": {
+    "line1": "42 Piata Street",
+    "line2": " ",
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": "9429051030483",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Facebook.com/goldensandsbaptist",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T03:30:11Z"
+}

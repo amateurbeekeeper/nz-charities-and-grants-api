@@ -1,0 +1,27 @@
+{
+  "id": 52898,
+  "registrationNumber": "CC11157",
+  "name": "Rakiura Heritage Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rakiuramuseum.co.nz",
+  "email": "margandcolin@xtra.co.nz",
+  "address": {
+    "line1": "RAKIURA MUSEUM",
+    "line2": "11 Main Road",
+    "suburb": "Oban",
+    "city": "Stewart Island",
+    "postcode": "9846"
+  },
+  "nzbn": "9429042992271",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Rakiura Museum",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T01:59:01Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 60309,
+  "registrationNumber": "CC30588",
+  "name": "Dunedin Horticultural Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dunedinhort@gmail.com",
+  "address": {
+    "line1": "12 Binnie Street",
+    "line2": " ",
+    "suburb": "Abbotsford",
+    "city": "Dunedin",
+    "postcode": "9018"
+  },
+  "nzbn": "9429042663898",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/DunedinHort",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T05:28:26Z"
+}

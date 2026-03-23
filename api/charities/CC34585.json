@@ -1,0 +1,27 @@
+{
+  "id": 45037,
+  "registrationNumber": "CC34585",
+  "name": "Glen Innes Family Centre Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gifc.co.nz",
+  "email": "admin@gifc.org.nz",
+  "address": {
+    "line1": "8/260 Apirana Ave",
+    "line2": " ",
+    "suburb": "Glen Innes",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042628323",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/Glen Innes Family Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T01:34:36Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74170,
+  "registrationNumber": "CC60573",
+  "name": "A Wave in the Ocean Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://waveintheocean.nz",
+  "email": "philippa@waveintheocean.nz",
+  "address": {
+    "line1": "26 Second Avenue",
+    "line2": " ",
+    "suburb": "Kingsland",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429050576951",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T23:51:43Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73612,
+  "registrationNumber": "CC60097",
+  "name": "The Positive Medicine Institute",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-02-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david@dbconsulting.nz",
+  "address": {
+    "line1": "34 Pisa Moorings Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mount Pisa",
+    "postcode": "9383"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T22:45:01Z"
+}

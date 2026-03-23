@@ -1,0 +1,27 @@
+{
+  "id": 50582,
+  "registrationNumber": "CC44337",
+  "name": "Allegro Ice Dance Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www. allegro.org.nz",
+  "email": "secretary@allegro.org.nz",
+  "address": {
+    "line1": "490 Ti Rakau Drive",
+    "line2": " ",
+    "suburb": "Golflands",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429043103683",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AllegroIceDanceClub/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-31T04:44:19Z"
+}

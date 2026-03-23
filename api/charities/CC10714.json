@@ -1,0 +1,27 @@
+{
+  "id": 52409,
+  "registrationNumber": "CC10714",
+  "name": "Lighthouse Christian Fellowship",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://lcf.org.nz",
+  "email": "mlsingg@hotmail.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "67 View Road",
+    "suburb": "Wairau Valley",
+    "city": "Auckland",
+    "postcode": "627"
+  },
+  "nzbn": "9429042660309",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Lighthouse Christian Fellowship Auckland",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T19:05:02Z"
+}

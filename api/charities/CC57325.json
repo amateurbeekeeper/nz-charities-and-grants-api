@@ -1,0 +1,27 @@
+{
+  "id": 70946,
+  "registrationNumber": "CC57325",
+  "name": "Wakatipu Yacht Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wakatipuyachtclub.co.nz/",
+  "email": "wyc.financialofficer@gmail.com",
+  "address": {
+    "line1": "Wakatipu Yacht Club",
+    "line2": "Kelvin Heights",
+    "suburb": "Frankton",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429042916222",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wycqt",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T21:51:07Z"
+}

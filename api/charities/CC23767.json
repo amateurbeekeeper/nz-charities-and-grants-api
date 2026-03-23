@@ -1,0 +1,27 @@
+{
+  "id": 40282,
+  "registrationNumber": "CC23767",
+  "name": "Daybreak Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pat.mckinney@wrlawyers.co.nz",
+  "address": {
+    "line1": "WILKINSON RODGERS",
+    "line2": "Level 1, 10 George Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T01:36:08Z"
+}

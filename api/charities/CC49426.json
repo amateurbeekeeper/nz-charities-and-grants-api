@@ -1,0 +1,27 @@
+{
+  "id": 35016,
+  "registrationNumber": "CC49426",
+  "name": "Coastguard Houhora Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-08-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.coastguard.nz/",
+  "email": "robin.gillian@xtra.co.nz",
+  "address": {
+    "line1": "Pukenui Wharf Road",
+    "line2": "RD4 ",
+    "suburb": "Pukenui",
+    "city": "Kaitaia",
+    "postcode": "0484"
+  },
+  "nzbn": "9429043218066",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Coastguard Houhora",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T05:47:30Z"
+}

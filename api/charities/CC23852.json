@@ -1,0 +1,27 @@
+{
+  "id": 40757,
+  "registrationNumber": "CC23852",
+  "name": "The New Zealand Chiropractic Education Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.chiropractic.ac.nz",
+  "email": "rowena@bowman.co.nz",
+  "address": {
+    "line1": "6 Harrison Road",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429042904120",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzchiro",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T05:01:05Z"
+}

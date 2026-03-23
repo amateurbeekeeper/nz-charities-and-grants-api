@@ -1,0 +1,27 @@
+{
+  "id": 65425,
+  "registrationNumber": "CC51662",
+  "name": "Kelmarna Community Farm Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://kelmarna.co.nz",
+  "email": "treasurer@kelmarna.co.nz",
+  "address": {
+    "line1": "12 Hukanui Crescent",
+    "line2": " ",
+    "suburb": "Ponsonby",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429042657149",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kelmarna",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:41:24Z"
+}

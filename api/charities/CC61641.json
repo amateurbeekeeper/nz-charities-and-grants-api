@@ -1,0 +1,27 @@
+{
+  "id": 75210,
+  "registrationNumber": "CC61641",
+  "name": "The Hyphen Project",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://thehyphenproject.org",
+  "email": "holly.gooch@thehyphenproject.org",
+  "address": {
+    "line1": "Suite 8",
+    "line2": "130 St Georges Bay Road",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429051419165",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/people/The-Hyphen-Project/61558533343018/?_rdr",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T00:09:39Z"
+}

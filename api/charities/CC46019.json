@@ -1,0 +1,27 @@
+{
+  "id": 38358,
+  "registrationNumber": "CC46019",
+  "name": "Hamilton New Life Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-01-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@hnlc.org.nz",
+  "address": {
+    "line1": "703 Wairere Drive",
+    "line2": " ",
+    "suburb": "Chartwell",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429043149391",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": " https://www.facebook.com/shine.event.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T03:23:27Z"
+}

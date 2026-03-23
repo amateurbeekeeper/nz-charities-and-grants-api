@@ -1,0 +1,27 @@
+{
+  "id": 66218,
+  "registrationNumber": "CC52492",
+  "name": "The Church in Gisborne",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-10-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://churchingisborne.org.nz",
+  "email": "jt.mclean@yahoo.co.nz",
+  "address": {
+    "line1": "76A Chalmers Road",
+    "line2": " ",
+    "suburb": "Elgin",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T08:53:56Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74620,
+  "registrationNumber": "CC61039",
+  "name": "Community Koha",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cokoha.co.nz",
+  "email": "info@communitykoha.org.nz",
+  "address": {
+    "line1": "52 Ruataniwha Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waipukurau",
+    "postcode": "4200"
+  },
+  "nzbn": "9429050901616",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/communitykohanz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-03T03:26:34Z"
+}

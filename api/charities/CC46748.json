@@ -1,0 +1,27 @@
+{
+  "id": 36989,
+  "registrationNumber": "CC46748",
+  "name": "Western Hills Toy Library",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://westernhills.mibase.co.nz/home/index.php",
+  "email": "calebmeade@hotmail.com",
+  "address": {
+    "line1": "31 Witako Street",
+    "line2": " ",
+    "suburb": "Epuni",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429042918257",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WesternHillsToyLibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T02:30:39Z"
+}

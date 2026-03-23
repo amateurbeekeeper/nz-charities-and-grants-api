@@ -1,0 +1,27 @@
+{
+  "id": 37958,
+  "registrationNumber": "CC48150",
+  "name": "St Clair Bowling Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sportsground.co.nz/stclairbowls",
+  "email": "ruthwilliams@xtra.co.nz",
+  "address": {
+    "line1": "13 Ings Avenue",
+    "line2": " ",
+    "suburb": "Saint Clair",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042736936",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:02:28Z"
+}

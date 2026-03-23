@@ -1,0 +1,27 @@
+{
+  "id": 78133,
+  "registrationNumber": "CC63940",
+  "name": "Jack Dog Center Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://jdcrescue.com",
+  "email": "dora.motateanu@gmail.com",
+  "address": {
+    "line1": "25 Point Bush Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waimate",
+    "postcode": "7924"
+  },
+  "nzbn": "9429052924576",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61576839732197",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T20:40:32Z"
+}

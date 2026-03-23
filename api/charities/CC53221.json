@@ -1,0 +1,27 @@
+{
+  "id": 66930,
+  "registrationNumber": "CC53221",
+  "name": "Wandersearch Canterbury Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wandersearch.nz",
+  "email": "emma@wandersearch.nz",
+  "address": {
+    "line1": "17 Roker Street",
+    "line2": "RD1",
+    "suburb": "Somerfield",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429043298006",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/groups/Wandatrak/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T20:17:58Z"
+}

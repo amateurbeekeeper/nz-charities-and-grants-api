@@ -1,0 +1,27 @@
+{
+  "id": 64722,
+  "registrationNumber": "CC43838",
+  "name": "National Energy Research Institute",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-03-17T00:00:00Z",
+  "dateDeregistered": "2025-05-16T00:00:00Z",
+  "website": "http://www.neri.org.nz",
+  "email": "simon@NERI.org.nz",
+  "address": {
+    "line1": "The National Energy Research Institute",
+    "line2": "c/- Arnold and Woodhall Ltd",
+    "suburb": "83 Puruaha Road",
+    "city": "Te Horo",
+    "postcode": "5581"
+  },
+  "nzbn": "9429043198320",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-19T07:18:30Z"
+}

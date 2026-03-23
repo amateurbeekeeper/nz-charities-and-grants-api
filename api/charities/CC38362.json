@@ -1,0 +1,27 @@
+{
+  "id": 62435,
+  "registrationNumber": "CC38362",
+  "name": "Tauranga Women's Collective Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.taurangawomensrefuge.co.nz",
+  "email": "manager@taurangawomensrefuge.co.nz",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429042831167",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TaurangaWomensRefuge/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T18:02:01Z"
+}

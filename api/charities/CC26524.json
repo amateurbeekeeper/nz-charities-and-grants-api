@@ -1,0 +1,27 @@
+{
+  "id": 57909,
+  "registrationNumber": "CC26524",
+  "name": "The Station Community Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tscchnz@gmail.com",
+  "address": {
+    "line1": "901 Florence Street",
+    "line2": " ",
+    "suburb": "Raureka",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429042977100",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-22T00:30:36Z"
+}

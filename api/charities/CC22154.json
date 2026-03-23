@@ -1,0 +1,27 @@
+{
+  "id": 55525,
+  "registrationNumber": "CC22154",
+  "name": "Community Development Network Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cdntrust.org.nz",
+  "email": "james@cdntrust.org.nz",
+  "address": {
+    "line1": "44 Elizabeth Street",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429043012282",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T09:09:07Z"
+}

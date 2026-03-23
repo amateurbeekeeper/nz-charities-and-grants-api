@@ -1,0 +1,27 @@
+{
+  "id": 59953,
+  "registrationNumber": "CC40696",
+  "name": "Anglican Insurance Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aib.org.nz",
+  "email": "dave.peters@aib.org.nz",
+  "address": {
+    "line1": "32 Mulgrave Street",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043162710",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:19:06Z"
+}

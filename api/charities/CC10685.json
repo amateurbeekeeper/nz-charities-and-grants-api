@@ -1,0 +1,27 @@
+{
+  "id": 51747,
+  "registrationNumber": "CC10685",
+  "name": "Southern Heritage Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.southernheritage.org.nz",
+  "email": "treasurer.sht@gmail.com",
+  "address": {
+    "line1": "12 Royal Terrace",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043125227",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SouthernHeritageTrust/",
+    "twitter": "https://twitter.com/HeritageDunedin"
+  },
+  "lastUpdated": "2025-06-30T19:31:31Z"
+}

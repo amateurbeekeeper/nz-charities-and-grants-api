@@ -1,0 +1,27 @@
+{
+  "id": 33679,
+  "registrationNumber": "CC50048",
+  "name": "Heritage South",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-12-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://heritagesouth.nz",
+  "email": "chair@heritagesouth.nz",
+  "address": {
+    "line1": "50 Dee Street",
+    "line2": "Invercargill 9810",
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429043251353",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/HeritageSouthNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:50:26Z"
+}

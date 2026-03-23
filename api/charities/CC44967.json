@@ -1,0 +1,27 @@
+{
+  "id": 35954,
+  "registrationNumber": "CC44967",
+  "name": "West Coast Riders Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-08-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.westcoastridersclub.org.nz/",
+  "email": "vbbuilders@gmail.com",
+  "address": {
+    "line1": "439 Ararimu Valley Road",
+    "line2": "RD 2",
+    "suburb": "Helensville",
+    "city": "Waimauku",
+    "postcode": "0882"
+  },
+  "nzbn": "9429043037803",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WestCoastRidersClub/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:06:55Z"
+}

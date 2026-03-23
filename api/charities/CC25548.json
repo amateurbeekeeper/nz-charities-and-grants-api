@@ -1,0 +1,27 @@
+{
+  "id": 57930,
+  "registrationNumber": "CC25548",
+  "name": "The Joe Aspell Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-09T00:00:00Z",
+  "dateDeregistered": "2024-07-22T00:00:00Z",
+  "website": "https://wellington.govt.nz/services/community-and-culture/funding/council-funds/joe-aspell-trust",
+  "email": "mark.farrar@wcc.govt.nz",
+  "address": {
+    "line1": "113 The Terrace",
+    "line2": "6 Hartham Place South",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042948759",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-08-05T07:11:31Z"
+}

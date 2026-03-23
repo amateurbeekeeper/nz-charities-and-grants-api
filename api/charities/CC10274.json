@@ -1,0 +1,27 @@
+{
+  "id": 51043,
+  "registrationNumber": "CC10274",
+  "name": "Cystic Fibrosis Association of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cfnz.org.nz",
+  "email": "Simone@cfnz.org.nz",
+  "address": {
+    "line1": "Suite 3, Level 2",
+    "line2": " 89 Grafton Road",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042671640",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CysticFibrosisNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T23:29:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54321,
+  "registrationNumber": "CC23926",
+  "name": "Silver Stream Railway Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.silverstreamrailway.org.nz",
+  "email": "simon.edmonds@beca.com",
+  "address": {
+    "line1": "1 Reynolds Bach Drive",
+    "line2": " ",
+    "suburb": "Stokes Valley",
+    "city": "Lower Hutt",
+    "postcode": "5019"
+  },
+  "nzbn": "9429042888611",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/silverstreamrailway",
+    "twitter": "http://www.twitter.com/ssrailway"
+  },
+  "lastUpdated": "2025-08-06T19:29:04Z"
+}

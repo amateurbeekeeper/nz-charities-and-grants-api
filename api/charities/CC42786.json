@@ -1,0 +1,27 @@
+{
+  "id": 47019,
+  "registrationNumber": "CC42786",
+  "name": "Shirley Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.shirleytoylibrary.co.nz",
+  "email": "shirleytoylibrary1@gmail.com",
+  "address": {
+    "line1": "Hammersley Park School",
+    "line2": "Quinns Road",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429043205202",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ShirleyToyLibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T05:57:02Z"
+}

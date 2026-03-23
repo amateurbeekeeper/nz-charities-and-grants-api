@@ -1,0 +1,27 @@
+{
+  "id": 35248,
+  "registrationNumber": "CC49573",
+  "name": "Friends of Hingaia Peninsula School",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2021-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hingaiapeninsula.school.nz",
+  "email": "fohps@hp.school.nz",
+  "address": {
+    "line1": "3 Papaka Road",
+    "line2": "RD 1",
+    "suburb": "Karaka",
+    "city": "Papakura",
+    "postcode": "2580"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-14T00:59:35Z"
+}

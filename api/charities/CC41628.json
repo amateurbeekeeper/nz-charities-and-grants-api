@@ -1,0 +1,27 @@
+{
+  "id": 42568,
+  "registrationNumber": "CC41628",
+  "name": "Engineers for Social Responsibility Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.esr.org.nz",
+  "email": "president@esr.org.nz",
+  "address": {
+    "line1": "17A Dingle Road",
+    "line2": " ",
+    "suburb": "St Heliers",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429042719496",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://facebook.com/EngineersforSocialResponsibility",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-12T05:20:10Z"
+}

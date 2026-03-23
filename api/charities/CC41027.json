@@ -1,0 +1,27 @@
+{
+  "id": 47779,
+  "registrationNumber": "CC41027",
+  "name": "Rotorua Music Federation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.rotoruamusic.org.nz",
+  "email": "secretary@rotoruamusic.org.nz",
+  "address": {
+    "line1": "23 Great West Road",
+    "line2": " ",
+    "suburb": "Matipo Heights",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429042825166",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/musicrotorua",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T22:26:37Z"
+}

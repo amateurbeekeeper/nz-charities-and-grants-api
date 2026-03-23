@@ -1,0 +1,27 @@
+{
+  "id": 73455,
+  "registrationNumber": "CC60025",
+  "name": "United Māori Artists Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.unitedmaoriartists.com",
+  "email": "shaundooley1@hotmail.com",
+  "address": {
+    "line1": "111B May Road",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429052382239",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/unitedmaoriartists/?locale=zh_CN",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T21:17:01Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55385,
+  "registrationNumber": "CC22935",
+  "name": "Ngai Te Rangi Fisheries AHC Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngaiterangi.com",
+  "email": "puhirakeihaka@gmail.com",
+  "address": {
+    "line1": "Te Awa O Tukorako Lane",
+    "line2": "Off Taiaho Place",
+    "suburb": "Mt Maunganui",
+    "city": "Tauranga",
+    "postcode": "3116"
+  },
+  "nzbn": "9429033210100",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-23T06:05:41Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71109,
+  "registrationNumber": "CC57480",
+  "name": "Meat the Need",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://meattheneed.org/",
+  "email": "zellara@meettheneed.org.nz",
+  "address": {
+    "line1": "PO Box 258",
+    "line2": "Waikato Mail Centre",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3240"
+  },
+  "nzbn": "9429048119641",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MeetTheNeedNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T19:25:47Z"
+}

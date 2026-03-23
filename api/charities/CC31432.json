@@ -1,0 +1,27 @@
+{
+  "id": 49907,
+  "registrationNumber": "CC31432",
+  "name": "Heartbeat City Ministries",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "heartbeat@xtra.co.nz",
+  "address": {
+    "line1": "24 Huia Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429042696889",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T19:16:21Z"
+}

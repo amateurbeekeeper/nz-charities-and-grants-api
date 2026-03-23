@@ -1,0 +1,27 @@
+{
+  "id": 55346,
+  "registrationNumber": "CC24633",
+  "name": "The Polwyn Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "p.h.over@ieee.org",
+  "address": {
+    "line1": "18 Connaught Street",
+    "line2": " ",
+    "suburb": "Blockhouse Bay",
+    "city": "Auckland",
+    "postcode": "600"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T20:33:23Z"
+}

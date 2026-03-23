@@ -1,0 +1,27 @@
+{
+  "id": 63067,
+  "registrationNumber": "CC41206",
+  "name": "Kapiti Basketball Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://kapiti.basketball/",
+  "email": "weironearth@gmail.com",
+  "address": {
+    "line1": "94 Alexander Road",
+    "line2": " ",
+    "suburb": "Raumati Beach",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429042951582",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kapitibasketballassociation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-03T04:42:08Z"
+}

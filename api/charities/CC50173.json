@@ -1,0 +1,27 @@
+{
+  "id": 33859,
+  "registrationNumber": "CC50173",
+  "name": "The Cannons Creek Youth Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-01-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bgyf.org.nz/cannons-creek-boxing-academy",
+  "email": "finance@ccyct.org.nz",
+  "address": {
+    "line1": "Freedom House",
+    "line2": "174 Bedford Street",
+    "suburb": "Cannons Creek",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429043287031",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cannonscreekboxingacademy",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-10T19:41:52Z"
+}

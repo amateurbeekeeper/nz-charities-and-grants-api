@@ -1,0 +1,27 @@
+{
+  "id": 35624,
+  "registrationNumber": "CC44725",
+  "name": "Garston Playgroup",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "garstonplaygroup@hotmail.co.nz",
+  "address": {
+    "line1": "1705 Kingston Garston Highway",
+    "line2": "Garston 9793",
+    "suburb": "Garston",
+    "city": "Athol",
+    "postcode": "9793"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Garston Playgroup NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T00:03:44Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 46492,
+  "registrationNumber": "CC29819",
+  "name": "Duntroon Volunteer Fire Brigade ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2019-09-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lou.tait@fireandemergency.nz",
+  "address": {
+    "line1": "4 Rees Street",
+    "line2": "RD 5K",
+    "suburb": "Duntroon",
+    "city": "Oamaru",
+    "postcode": "9494"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T06:42:52Z"
+}

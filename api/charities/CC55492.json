@@ -1,0 +1,27 @@
+{
+  "id": 69147,
+  "registrationNumber": "CC55492",
+  "name": "Bloom Pukekohe",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dan.tauroa@xtra.co.nz",
+  "address": {
+    "line1": "52 Franklin Road",
+    "line2": "Pukekohe 2120",
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429046585578",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://m.facebook.com/bloompukekohe/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T01:38:46Z"
+}

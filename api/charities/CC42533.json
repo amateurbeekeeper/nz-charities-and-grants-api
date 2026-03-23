@@ -1,0 +1,27 @@
+{
+  "id": 49621,
+  "registrationNumber": "CC42533",
+  "name": "Mount Victoria Historical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "mtvictoria.history.org.nz",
+  "email": "jonewman@xtra.co.nz",
+  "address": {
+    "line1": "20 Porritt Avenue",
+    "line2": " ",
+    "suburb": "Mount Victoria",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042765974",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MVHS.Inc/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T06:22:42Z"
+}

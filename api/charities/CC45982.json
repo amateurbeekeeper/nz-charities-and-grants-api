@@ -1,0 +1,27 @@
+{
+  "id": 38563,
+  "registrationNumber": "CC45982",
+  "name": "Arawa Bowling Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-01-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.arawabcrc.com",
+  "email": "arawabowlingclub@gmail.com",
+  "address": {
+    "line1": "64 Lytton Street",
+    "line2": " ",
+    "suburb": " Glenholme",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042577102",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/arawabowlingclub",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T08:20:13Z"
+}

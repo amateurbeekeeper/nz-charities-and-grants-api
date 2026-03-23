@@ -1,0 +1,27 @@
+{
+  "id": 38426,
+  "registrationNumber": "CC48082",
+  "name": "The Lower Hutt RSA Trust Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lowerhuttrsa.org.nz",
+  "email": "cherieden@xtra.co.nz",
+  "address": {
+    "line1": "47 Udy Street",
+    "line2": " ",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": "9429043222322",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T18:45:20Z"
+}

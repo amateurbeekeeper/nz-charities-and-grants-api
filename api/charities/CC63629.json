@@ -1,0 +1,27 @@
+{
+  "id": 77827,
+  "registrationNumber": "CC63629",
+  "name": "Steve Farrelly Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kate@donley.co.nz",
+  "address": {
+    "line1": "Flat 6",
+    "line2": "47 Jervois Road",
+    "suburb": "Ponsonby",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/stevefarrellyfoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T21:40:05Z"
+}

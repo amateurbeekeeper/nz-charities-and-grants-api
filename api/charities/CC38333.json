@@ -1,0 +1,27 @@
+{
+  "id": 48073,
+  "registrationNumber": "CC38333",
+  "name": "Camp Bentzon (Kawau Island) Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.campbentzon.co.nz",
+  "email": "campben@xtra.co.nz",
+  "address": {
+    "line1": "North Cove",
+    "line2": "Kawau Island",
+    "suburb": " ",
+    "city": "Warkworth",
+    "postcode": null
+  },
+  "nzbn": "9429042599128",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-14T01:23:59Z"
+}

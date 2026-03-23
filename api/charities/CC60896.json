@@ -1,0 +1,27 @@
+{
+  "id": 74479,
+  "registrationNumber": "CC60896",
+  "name": "Aotearoa New Zealand Online Giving Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-10-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.anzogf.org.nz/",
+  "email": "info@anzogf.org.nz",
+  "address": {
+    "line1": "Level 4, 287/293 Durham Street North",
+    "line2": " ",
+    "suburb": "Central City",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429050882632",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T20:52:39Z"
+}

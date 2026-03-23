@@ -1,0 +1,27 @@
+{
+  "id": 38380,
+  "registrationNumber": "CC46036",
+  "name": "The Auckland Opera Studio Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-01-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandoperastudio.co.nz",
+  "email": "sfitzgerald10@hotmail.com",
+  "address": {
+    "line1": "3 Glenside Crescent",
+    "line2": " ",
+    "suburb": "Eden Terrace",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043125074",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/Auckland-Opera-Studio-1453971148219987/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-03T19:45:12Z"
+}

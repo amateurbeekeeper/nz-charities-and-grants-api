@@ -1,0 +1,27 @@
+{
+  "id": 77419,
+  "registrationNumber": "CC63235",
+  "name": "Te Hapori Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tehapori.nz",
+  "email": "alex@amcdonald.co.nz",
+  "address": {
+    "line1": "C/o Ākarana Chambers, Level 11",
+    "line2": "59 High Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-08T21:44:04Z"
+}

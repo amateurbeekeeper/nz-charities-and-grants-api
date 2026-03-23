@@ -1,0 +1,27 @@
+{
+  "id": 53717,
+  "registrationNumber": "CC20499",
+  "name": "Mental Health Advocacy and Peer Support Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-01-14T00:00:00Z",
+  "dateDeregistered": "2025-01-17T00:00:00Z",
+  "website": "http://www.mhaps.org.nz",
+  "email": "clare@mhaps.org.nz",
+  "address": {
+    "line1": "Unit 4",
+    "line2": "357 Madras Street",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042810520",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mhapschch/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-01-31T06:13:57Z"
+}

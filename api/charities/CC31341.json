@@ -1,0 +1,27 @@
+{
+  "id": 40948,
+  "registrationNumber": "CC31341",
+  "name": "Workbridge Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2023-12-01T00:00:00Z",
+  "website": "http://www.workbridge.co.nz",
+  "email": "dinan@workbridge.co.nz",
+  "address": {
+    "line1": "Level 3",
+    "line2": "50 Manners Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042922728",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/workbridge/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T07:46:34Z"
+}

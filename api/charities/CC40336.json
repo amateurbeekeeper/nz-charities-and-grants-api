@@ -1,0 +1,27 @@
+{
+  "id": 64402,
+  "registrationNumber": "CC40336",
+  "name": "Belmont Music Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.belmontmusic.org.nz/",
+  "email": "belmontmusicmgr@gmail.com",
+  "address": {
+    "line1": "188 Lake Road",
+    "line2": " ",
+    "suburb": "Belmont",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429043030484",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/belmontmusiccentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T19:25:15Z"
+}

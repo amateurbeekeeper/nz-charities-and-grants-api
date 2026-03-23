@@ -1,0 +1,27 @@
+{
+  "id": 45681,
+  "registrationNumber": "CC39071",
+  "name": "National Urban Maori Authority",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://numa.co.nz",
+  "email": "John.Tamihere@waiwhanau.com",
+  "address": {
+    "line1": "6-8 pioneer street",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429042983293",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T01:36:59Z"
+}

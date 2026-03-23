@@ -1,0 +1,27 @@
+{
+  "id": 54303,
+  "registrationNumber": "CC21002",
+  "name": "Viard College Educational Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "viardtrust@gmail.com",
+  "address": {
+    "line1": "29 The Esplanade",
+    "line2": " ",
+    "suburb": "Raumati South",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429042897293",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T22:55:40Z"
+}

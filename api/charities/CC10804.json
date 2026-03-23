@@ -1,0 +1,27 @@
+{
+  "id": 52421,
+  "registrationNumber": "CC10804",
+  "name": "New Zealand Leaders' Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aspiringleaders.org.nz",
+  "email": "josiah@aspiringleaders.org.nz",
+  "address": {
+    "line1": "300 Great South Road",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429043035496",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T23:37:35Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 45161,
+  "registrationNumber": "CC33455",
+  "name": "The Wellington College Rugby Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://sites.google.com/a/wellington-college.school.nz/rugby-club",
+  "email": "christopher.lendrum@nzrugby.co.nz",
+  "address": {
+    "line1": "10 Flers Street",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-08T15:04:29Z"
+}

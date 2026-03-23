@@ -1,0 +1,27 @@
+{
+  "id": 75471,
+  "registrationNumber": "CC61916",
+  "name": "Can Do Kiwis",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.candokiwis.org.nz",
+  "email": "info@candokiwis.org.nz",
+  "address": {
+    "line1": "9A Huntaway Close",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/candokiwisnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T21:56:54Z"
+}

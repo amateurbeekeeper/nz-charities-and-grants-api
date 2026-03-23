@@ -1,0 +1,27 @@
+{
+  "id": 50729,
+  "registrationNumber": "CC44556",
+  "name": "Papanui RSA Trust Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.papanuirsa.co.nz",
+  "email": "gm@papanuirsa.co.nz",
+  "address": {
+    "line1": "55 Bellvue Avenue",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042824503",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@papanuirsa.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2024-12-10T19:18:07Z"
+}

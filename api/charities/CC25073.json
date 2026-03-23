@@ -1,0 +1,27 @@
+{
+  "id": 54144,
+  "registrationNumber": "CC25073",
+  "name": "Kainga Aroha Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ka.org.nz",
+  "email": "office@ka.org.nz",
+  "address": {
+    "line1": "301 Bank Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Awamutu",
+    "postcode": "3800"
+  },
+  "nzbn": "9429042855392",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Kainga Aroha",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T22:26:36Z"
+}

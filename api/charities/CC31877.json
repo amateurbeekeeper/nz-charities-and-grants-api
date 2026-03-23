@@ -1,0 +1,27 @@
+{
+  "id": 49111,
+  "registrationNumber": "CC31877",
+  "name": "Ngaio Childcare Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ngaiochildcare.co.nz",
+  "email": "finance.ngaiochildcare@gmail.com",
+  "address": {
+    "line1": "1 Ottawa Road",
+    "line2": " ",
+    "suburb": "Ngaio",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429042673712",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T03:35:56Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43125,
+  "registrationNumber": "CC37937",
+  "name": "Thames Youth Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "thamesyouthcentre@gmail.com",
+  "address": {
+    "line1": "126 Kirkwood Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429042825319",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Thames Youth Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-20T19:14:57Z"
+}

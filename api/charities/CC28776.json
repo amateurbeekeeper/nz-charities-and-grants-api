@@ -1,0 +1,27 @@
+{
+  "id": 60906,
+  "registrationNumber": "CC28776",
+  "name": "YMCA of South Waikato",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ymcasouthwaikato.org.nz/",
+  "email": "julius@ymcasouthwaikato.org.nz",
+  "address": {
+    "line1": "46 Bridge Street",
+    "line2": "Tokoroa 3420",
+    "suburb": " ",
+    "city": "Tokoroa",
+    "postcode": "3420"
+  },
+  "nzbn": "9429042920151",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=south%20waikato%20ymca",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T21:50:34Z"
+}

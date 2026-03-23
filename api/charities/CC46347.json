@@ -1,0 +1,27 @@
+{
+  "id": 36811,
+  "registrationNumber": "CC46347",
+  "name": "Poverty Bay Rugby Football Union Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.povertybayrugby.co.nz",
+  "email": "jacques@povertybayrugby.co.nz",
+  "address": {
+    "line1": "49 Cochrane Street",
+    "line2": "74 Grey Street",
+    "suburb": "Elgin",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042812159",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T00:20:49Z"
+}

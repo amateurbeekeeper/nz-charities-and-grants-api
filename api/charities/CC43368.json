@@ -1,0 +1,27 @@
+{
+  "id": 62652,
+  "registrationNumber": "CC43368",
+  "name": "Sri Lanka Friendship Society Waikato Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://slfs.org.nz/",
+  "email": "president@slfs.org.nz",
+  "address": {
+    "line1": "PO Box 4286",
+    "line2": "Hamilton East",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3247"
+  },
+  "nzbn": "9429042729006",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SLFSW",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-18T03:04:32Z"
+}

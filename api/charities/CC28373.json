@@ -1,0 +1,27 @@
+{
+  "id": 59682,
+  "registrationNumber": "CC28373",
+  "name": "Methven Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://methventl.mibase.co.nz/",
+  "email": "toylibrarymethven@gmail.com",
+  "address": {
+    "line1": "59 Main Street",
+    "line2": "Methven 7730",
+    "suburb": " ",
+    "city": "Methven",
+    "postcode": "7730"
+  },
+  "nzbn": "9429043088102",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/methventoylibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T19:08:58Z"
+}

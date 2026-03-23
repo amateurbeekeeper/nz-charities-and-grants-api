@@ -1,0 +1,27 @@
+{
+  "id": 37667,
+  "registrationNumber": "CC48234",
+  "name": "Otaihape Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "marian.robert@xtra.co.nz",
+  "address": {
+    "line1": "23 Kiwi Road",
+    "line2": "Taihape 4720",
+    "suburb": " ",
+    "city": "Taihape",
+    "postcode": "4720"
+  },
+  "nzbn": "9429043174133",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T02:03:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51651,
+  "registrationNumber": "CC11049",
+  "name": "Disarmament and Security Centre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.disarmsecure.org",
+  "email": "lucy@disarmsecure.org",
+  "address": {
+    "line1": "39 Stanbury Avenue",
+    "line2": " ",
+    "suburb": "Somerfield",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429043114412",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/DisarmSecureNZ",
+    "twitter": "www.twitter.com/DisarmSecureNZ"
+  },
+  "lastUpdated": "2025-09-21T19:55:37Z"
+}

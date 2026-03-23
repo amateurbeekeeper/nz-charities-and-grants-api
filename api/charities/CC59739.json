@@ -1,0 +1,27 @@
+{
+  "id": 73359,
+  "registrationNumber": "CC59739",
+  "name": "The Tawaki Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tawaki-project.org/",
+  "email": "t.mattern@eudyptes.net",
+  "address": {
+    "line1": "31 Waireka Street",
+    "line2": " ",
+    "suburb": "Ravensbourne",
+    "city": "Dunedin",
+    "postcode": "9022"
+  },
+  "nzbn": "9429049965445",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TawakiProject",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T23:31:28Z"
+}

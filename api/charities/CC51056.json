@@ -1,0 +1,27 @@
+{
+  "id": 34619,
+  "registrationNumber": "CC51056",
+  "name": "SimEx",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-09-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.SimEx.org",
+  "email": "eric.park6@gmail.com",
+  "address": {
+    "line1": "21 Mitchell Road",
+    "line2": " ",
+    "suburb": "Surfdale",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T06:43:16Z"
+}

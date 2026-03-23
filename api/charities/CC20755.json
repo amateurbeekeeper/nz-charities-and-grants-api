@@ -1,0 +1,27 @@
+{
+  "id": 55512,
+  "registrationNumber": "CC20755",
+  "name": "Citizens Advice Bureau Marlborough Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cab.org.nz",
+  "email": "coordinator.marlborough@cab.org.nz",
+  "address": {
+    "line1": "25 Alfred Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429042618171",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T20:02:33Z"
+}

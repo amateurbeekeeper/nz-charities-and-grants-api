@@ -1,0 +1,27 @@
+{
+  "id": 42796,
+  "registrationNumber": "CC28205",
+  "name": "Arrowtown Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "avfbtreasurer@gmail.com",
+  "address": {
+    "line1": "2 Hertford Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Arrowtown",
+    "postcode": "9302"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T19:43:15Z"
+}

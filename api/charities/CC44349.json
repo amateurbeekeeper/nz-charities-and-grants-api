@@ -1,0 +1,27 @@
+{
+  "id": 50588,
+  "registrationNumber": "CC44349",
+  "name": "FC Western Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "andrew@moreca.co.nz",
+  "address": {
+    "line1": "30 Gaine Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043129256",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T22:46:36Z"
+}

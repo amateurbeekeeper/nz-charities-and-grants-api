@@ -1,0 +1,27 @@
+{
+  "id": 39492,
+  "registrationNumber": "CC22213",
+  "name": "Birkenhead Community Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": "2024-06-30T00:00:00Z",
+  "website": "http://www.bcc.org.nz",
+  "email": "info@bcc.org.nz",
+  "address": {
+    "line1": "33 Rawene Road",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "626"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/birkenheadcommunitychurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-08T05:27:04Z"
+}

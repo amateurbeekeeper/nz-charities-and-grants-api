@@ -1,0 +1,27 @@
+{
+  "id": 69734,
+  "registrationNumber": "CC56089",
+  "name": "Predator Free Dunedin Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-12-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.predatorfreedunedin.org",
+  "email": "rhys.millar@whirika.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://facebook.com/predatorfreedunedinnz",
+    "twitter": "https://twitter.com/predatorfreedun"
+  },
+  "lastUpdated": "2026-01-25T23:58:34Z"
+}

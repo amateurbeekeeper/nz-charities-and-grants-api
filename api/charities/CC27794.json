@@ -1,0 +1,27 @@
+{
+  "id": 58681,
+  "registrationNumber": "CC27794",
+  "name": "Spring of Life Fellowship",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pfmilo@yahoo.com",
+  "address": {
+    "line1": "14 Erlestoke Crescent",
+    "line2": " ",
+    "suburb": "Churton Park",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T23:04:17Z"
+}

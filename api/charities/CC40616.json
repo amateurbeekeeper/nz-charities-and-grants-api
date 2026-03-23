@@ -1,0 +1,27 @@
+{
+  "id": 63946,
+  "registrationNumber": "CC40616",
+  "name": "Springboard Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.springboardtrust.org.nz",
+  "email": "eleanor@springboardtrust.org.nz",
+  "address": {
+    "line1": "Level 1, Raphoe House",
+    "line2": "8 Gloucester Park Road",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "0000000000000",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SpringboardTrustNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T00:01:15Z"
+}

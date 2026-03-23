@@ -1,0 +1,27 @@
+{
+  "id": 45095,
+  "registrationNumber": "CC32917",
+  "name": "Northland Kindergarten Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nka.org.nz/",
+  "email": "lloyd@nka.org.nz",
+  "address": {
+    "line1": "2 Colenso Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kamo",
+    "postcode": "112"
+  },
+  "nzbn": "9429042672128",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T00:41:48Z"
+}

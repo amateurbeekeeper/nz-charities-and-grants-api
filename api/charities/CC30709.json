@@ -1,0 +1,27 @@
+{
+  "id": 63285,
+  "registrationNumber": "CC30709",
+  "name": "Wilton Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-09-07T00:00:00Z",
+  "dateDeregistered": "2025-10-03T00:00:00Z",
+  "website": null,
+  "email": "playcentrewilton@gmail.com",
+  "address": {
+    "line1": "3A Gloucester Street",
+    "line2": " ",
+    "suburb": "Wilton",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T06:04:26Z"
+}

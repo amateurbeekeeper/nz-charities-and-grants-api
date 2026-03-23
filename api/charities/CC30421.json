@@ -1,0 +1,27 @@
+{
+  "id": 59527,
+  "registrationNumber": "CC30421",
+  "name": "The New Zealand Wheat Mission",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "nzmilal.com",
+  "email": "newzealand.milal@gmail.com",
+  "address": {
+    "line1": "59 View Road",
+    "line2": " ",
+    "suburb": "Wairau Valley",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429042957010",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-04T21:46:52Z"
+}

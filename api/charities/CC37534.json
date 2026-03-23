@@ -1,0 +1,27 @@
+{
+  "id": 64648,
+  "registrationNumber": "CC37534",
+  "name": "First Steps Himalaya",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.firststepshimalaya.org",
+  "email": "director@firststepshimalaya.org",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429043092703",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FIRSTSTEPSHIMALAYA/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T03:26:17Z"
+}

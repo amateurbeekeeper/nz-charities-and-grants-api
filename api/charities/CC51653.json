@@ -1,0 +1,27 @@
+{
+  "id": 65422,
+  "registrationNumber": "CC51653",
+  "name": "Southland Bee Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.southlandbeesociety.co.nz",
+  "email": "watson.tcreek@xtra.co.nz",
+  "address": {
+    "line1": "121 Cox Road",
+    "line2": "RD 6",
+    "suburb": "Tussock Creek",
+    "city": "Invercargill",
+    "postcode": "9876"
+  },
+  "nzbn": "9429043272914",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T23:19:32Z"
+}

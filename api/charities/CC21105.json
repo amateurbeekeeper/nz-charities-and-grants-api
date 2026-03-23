@@ -1,0 +1,27 @@
+{
+  "id": 53885,
+  "registrationNumber": "CC21105",
+  "name": "Te Anau Baptist Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-02-12T00:00:00Z",
+  "dateDeregistered": "2016-12-03T00:00:00Z",
+  "website": null,
+  "email": null,
+  "address": {
+    "line1": "PO Box 203",
+    "line2": null,
+    "suburb": null,
+    "city": "Te Anau",
+    "postcode": "9640"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T00:56:38Z"
+}

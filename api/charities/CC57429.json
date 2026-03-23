@@ -1,0 +1,27 @@
+{
+  "id": 71056,
+  "registrationNumber": "CC57429",
+  "name": "Triwanaka Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-12-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.triwanaka.co.nz",
+  "email": "craignieper@hotmail.com",
+  "address": {
+    "line1": "The Cell, Spencer House Mall",
+    "line2": "31 Dunmore Street, Level 1, Shop 20",
+    "suburb": " ",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TriWanaka/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T21:56:53Z"
+}

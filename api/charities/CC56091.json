@@ -1,0 +1,27 @@
+{
+  "id": 69727,
+  "registrationNumber": "CC56091",
+  "name": "Saving Hope Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-12-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.savinghope.co.nz",
+  "email": "info@savinghope.co.nz",
+  "address": {
+    "line1": "6 Poynter Lane",
+    "line2": "RD 2",
+    "suburb": "Dairy Flat",
+    "city": "Silverdale",
+    "postcode": "0992"
+  },
+  "nzbn": "9429046297099",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/savinghopenz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T07:28:53Z"
+}

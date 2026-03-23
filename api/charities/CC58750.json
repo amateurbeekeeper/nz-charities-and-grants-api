@@ -1,0 +1,27 @@
+{
+  "id": 72360,
+  "registrationNumber": "CC58750",
+  "name": "The KNZB Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.knzb.org.nz",
+  "email": "info@knzb.org.nz",
+  "address": {
+    "line1": "17 Hinau Street",
+    "line2": " ",
+    "suburb": "Woburn",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429048693905",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KeepNZBeautiful/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T04:05:10Z"
+}

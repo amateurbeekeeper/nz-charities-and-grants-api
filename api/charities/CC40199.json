@@ -1,0 +1,27 @@
+{
+  "id": 57777,
+  "registrationNumber": "CC40199",
+  "name": "Perry Outdoor Education Trust Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.poet.org.nz",
+  "email": "karen.singers@perry.co.nz",
+  "address": {
+    "line1": "8 Peake Road",
+    "line2": "RD 3",
+    "suburb": "Cambridge",
+    "city": "Hamilton",
+    "postcode": "3283"
+  },
+  "nzbn": "9429038734038",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PerryOutdoorEducationTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T00:27:01Z"
+}

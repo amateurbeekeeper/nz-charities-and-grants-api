@@ -1,0 +1,27 @@
+{
+  "id": 44480,
+  "registrationNumber": "CC42475",
+  "name": "Queenstown Lakes District Cultural Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.artstrust.co.nz",
+  "email": "jan.maxwell@qldc.govt.nz",
+  "address": {
+    "line1": "10 Gorge Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T06:49:15Z"
+}

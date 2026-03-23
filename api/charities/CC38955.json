@@ -1,0 +1,27 @@
+{
+  "id": 54055,
+  "registrationNumber": "CC38955",
+  "name": "Tamariki School Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tamariki.school.nz",
+  "email": "admin@tamariki.school.nz",
+  "address": {
+    "line1": "86 St Johns Street",
+    "line2": " ",
+    "suburb": "Woolston",
+    "city": "Christchurch",
+    "postcode": "8062"
+  },
+  "nzbn": "9429042840527",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TamarikiSchool/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T18:03:28Z"
+}

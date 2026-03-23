@@ -1,0 +1,27 @@
+{
+  "id": 38825,
+  "registrationNumber": "CC48072",
+  "name": "Otago Water Polo Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.otagowaterpolo.com",
+  "email": "otago.waterpolo@gmail.com",
+  "address": {
+    "line1": "28 Irvine Road",
+    "line2": "RD 2",
+    "suburb": "The Cove",
+    "city": "Dunedin",
+    "postcode": "9077"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/otagowaterpolo/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-09T05:59:29Z"
+}

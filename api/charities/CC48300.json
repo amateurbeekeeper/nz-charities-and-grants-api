@@ -1,0 +1,27 @@
+{
+  "id": 32677,
+  "registrationNumber": "CC48300",
+  "name": "Port Hills Park Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2024-10-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mtvernonpark.org.nz/",
+  "email": "volcanicked@gmail.com",
+  "address": {
+    "line1": "74 Albert Terrace",
+    "line2": " ",
+    "suburb": "Saint Martins",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429042805915",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PortHillsParkTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T18:04:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66209,
+  "registrationNumber": "CC52475",
+  "name": "Game Developers of Wellington Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-07-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gdow.org.nz",
+  "email": "andrew@camshaftsoftware.com",
+  "address": {
+    "line1": "10 Tyrone Grove",
+    "line2": " ",
+    "suburb": "Wainuiomata",
+    "city": "Lower Hutt",
+    "postcode": "5014"
+  },
+  "nzbn": "9429043277889",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "@gamedevsofwelly"
+  },
+  "lastUpdated": "2026-01-15T00:13:26Z"
+}

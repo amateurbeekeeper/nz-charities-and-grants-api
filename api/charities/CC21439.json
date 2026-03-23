@@ -1,0 +1,27 @@
+{
+  "id": 54843,
+  "registrationNumber": "CC21439",
+  "name": "The Nelson Tasman Housing Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ntht.org.nz/",
+  "email": "accounts@ntht.org.nz",
+  "address": {
+    "line1": "329 Trafalgar Square East",
+    "line2": null,
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043124961",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-03T01:09:23Z"
+}

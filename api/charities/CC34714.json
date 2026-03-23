@@ -1,0 +1,27 @@
+{
+  "id": 57926,
+  "registrationNumber": "CC34714",
+  "name": "Chiropractic Board",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.chiropracticboard.org.nz",
+  "email": "admin@chiropracticboard.org.nz",
+  "address": {
+    "line1": "Level 5",
+    "line2": "22 Willeston Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:05:43Z"
+}

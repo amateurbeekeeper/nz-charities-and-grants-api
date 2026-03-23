@@ -1,0 +1,27 @@
+{
+  "id": 50248,
+  "registrationNumber": "CC43849",
+  "name": "International Word of Life Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wol.org.nz",
+  "email": "davegow@wol.org.nz",
+  "address": {
+    "line1": "28 Dinsdale Road",
+    "line2": " ",
+    "suburb": "Dinsdale",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042646167",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T23:21:05Z"
+}

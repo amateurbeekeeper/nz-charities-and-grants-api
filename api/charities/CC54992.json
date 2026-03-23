@@ -1,0 +1,27 @@
+{
+  "id": 68658,
+  "registrationNumber": "CC54992",
+  "name": "St Joseph's at Riversdale Beach",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "matthewprichard@kpmg.co.nz",
+  "address": {
+    "line1": "13A Summit Drive",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-01-20T03:17:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 60679,
+  "registrationNumber": "CC41738",
+  "name": "Te Tahawai Marae Komiti Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tetahawai.org.nz",
+  "email": "michael@mc2ca.co.nz",
+  "address": {
+    "line1": "32 Edgewater Drive",
+    "line2": " ",
+    "suburb": "Pakuranga",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429042826156",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:04:19Z"
+}

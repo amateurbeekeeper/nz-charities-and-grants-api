@@ -1,0 +1,27 @@
+{
+  "id": 41539,
+  "registrationNumber": "CC37368",
+  "name": "Te Araroa Waikato Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.teararoa.org.nz",
+  "email": "waikato@teararoa.org.nz",
+  "address": {
+    "line1": "16 Arran Road",
+    "line2": " ",
+    "suburb": "Chartwell",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T21:00:23Z"
+}

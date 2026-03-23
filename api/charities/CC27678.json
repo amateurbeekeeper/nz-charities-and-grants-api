@@ -1,0 +1,27 @@
+{
+  "id": 53605,
+  "registrationNumber": "CC27678",
+  "name": "Te Whaitipu Counselling",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tewhaitipu.co.nz",
+  "email": "linda@tewhaitipu.co.nz",
+  "address": {
+    "line1": "123 Hone Heke Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "230"
+  },
+  "nzbn": "9429042925941",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T22:28:45Z"
+}

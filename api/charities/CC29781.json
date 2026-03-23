@@ -1,0 +1,27 @@
+{
+  "id": 57273,
+  "registrationNumber": "CC29781",
+  "name": "Tauranga Jazz Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.jazz.org.nz",
+  "email": "mandy@jazz.org.nz",
+  "address": {
+    "line1": "5 Wharf Street",
+    "line2": "Tauranga 3110",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042846444",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "taurangajazzsociety",
+    "twitter": "JazzFestTga"
+  },
+  "lastUpdated": "2025-12-11T03:03:38Z"
+}

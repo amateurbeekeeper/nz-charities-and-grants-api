@@ -1,0 +1,27 @@
+{
+  "id": 37107,
+  "registrationNumber": "CC46615",
+  "name": "The Sustainable Coastlines Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-05-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sustainablecoastlines.org",
+  "email": "edwina@sustainablecoastlines.org",
+  "address": {
+    "line1": "55 Madden Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043208821",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/sustainablecoastlines/",
+    "twitter": "https://twitter.com/sustaincoasts"
+  },
+  "lastUpdated": "2025-12-23T22:30:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43858,
+  "registrationNumber": "CC37281",
+  "name": "Beth-Shean Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bethsheantrust.org.nz",
+  "email": "Elsa.L@bethsheantrust.org.nz",
+  "address": {
+    "line1": "BETH-SHEAN TRUST",
+    "line2": "46 Seaview Terrace",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042592709",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/bethshean.trust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T18:01:58Z"
+}

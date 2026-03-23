@@ -1,0 +1,27 @@
+{
+  "id": 53086,
+  "registrationNumber": "CC20532",
+  "name": "Wellington Trade Aid Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-01-16T00:00:00Z",
+  "dateDeregistered": "2025-12-31T00:00:00Z",
+  "website": "http://www.tradeaid.org.nz",
+  "email": "joanne.palmer@tradeaid.org.nz",
+  "address": {
+    "line1": "82B Victoria Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042972884",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T06:04:36Z"
+}

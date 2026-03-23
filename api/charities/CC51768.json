@@ -1,0 +1,27 @@
+{
+  "id": 65535,
+  "registrationNumber": "CC51768",
+  "name": "St Johns the Evangelist Daycare Centre Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-05-21T00:00:00Z",
+  "dateDeregistered": "2018-06-01T00:00:00Z",
+  "website": "https://www.thecharities.govt.nz",
+  "email": "sje_preschool@xtra.co.nz",
+  "address": {
+    "line1": "14A Otara Road",
+    "line2": null,
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-06-22T04:17:29Z"
+}

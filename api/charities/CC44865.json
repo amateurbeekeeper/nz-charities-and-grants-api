@@ -1,0 +1,27 @@
+{
+  "id": 35768,
+  "registrationNumber": "CC44865",
+  "name": "The Hedon Loop Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-08-11T00:00:00Z",
+  "dateDeregistered": "2021-02-04T00:00:00Z",
+  "website": "http://www.connected.org.nz",
+  "email": "admin@connected.org.nz",
+  "address": {
+    "line1": "Hamilton East School",
+    "line2": "Dawson St",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-02-04T03:41:05Z"
+}

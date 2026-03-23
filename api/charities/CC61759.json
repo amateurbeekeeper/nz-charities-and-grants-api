@@ -1,0 +1,27 @@
+{
+  "id": 75328,
+  "registrationNumber": "CC61759",
+  "name": "Age Concern Wellington Region Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-11-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.acwellington.org.nz",
+  "email": "ceo@acwellington.org.nz",
+  "address": {
+    "line1": "Floor 4",
+    "line2": "78 Victoria Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429051802868",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T18:14:04Z"
+}

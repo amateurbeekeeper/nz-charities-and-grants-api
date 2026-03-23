@@ -1,0 +1,27 @@
+{
+  "id": 60307,
+  "registrationNumber": "CC28710",
+  "name": "New Zealand Affordable Art Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2014-03-26T00:00:00Z",
+  "website": "http://www.artshow.co.nz",
+  "email": "carla@artshow.co.nz",
+  "address": {
+    "line1": "LEVEL 1",
+    "line2": "28 Grey Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043120802",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-05-17T08:11:32Z"
+}

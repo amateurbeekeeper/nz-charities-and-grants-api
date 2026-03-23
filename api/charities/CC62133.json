@@ -1,0 +1,27 @@
+{
+  "id": 75687,
+  "registrationNumber": "CC62133",
+  "name": "Karori Baptist Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-12-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@kbltd.co.nz",
+  "address": {
+    "line1": "161 Karori Road",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429051753078",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-07T23:29:28Z"
+}

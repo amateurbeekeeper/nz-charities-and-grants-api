@@ -1,0 +1,27 @@
+{
+  "id": 36310,
+  "registrationNumber": "CC47347",
+  "name": "Coastguard Wanaka Lakes Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-10-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.coastguard.co.nz",
+  "email": "rob.creasy@coastguard.nz",
+  "address": {
+    "line1": "16 Scaife Place",
+    "line2": " ",
+    "suburb": "Wānaka",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429043223336",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T18:49:22Z"
+}

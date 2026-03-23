@@ -1,0 +1,27 @@
+{
+  "id": 53622,
+  "registrationNumber": "CC20666",
+  "name": "West Coast Theatre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2020-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.regentgreymouth.co.nz",
+  "email": "andyross1969@hotmail.com",
+  "address": {
+    "line1": "2-6 Mackay Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": "9429042912163",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RegentGreymouth",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T00:05:28Z"
+}

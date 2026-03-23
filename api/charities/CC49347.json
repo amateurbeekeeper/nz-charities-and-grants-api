@@ -1,0 +1,27 @@
+{
+  "id": 34998,
+  "registrationNumber": "CC49347",
+  "name": "Paemanu Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-07-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://paemanu.co.nz/",
+  "email": "paemanucharitabletrust@gmail.com",
+  "address": {
+    "line1": "11 Seaforth Street",
+    "line2": "Lyttelton 8082",
+    "suburb": "Karitane",
+    "city": "Waikouaiti",
+    "postcode": "9471"
+  },
+  "nzbn": "9429043245963",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Paemanu - Ngai Tahu contemporary visual arts",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-08T20:38:11Z"
+}

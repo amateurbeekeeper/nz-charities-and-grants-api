@@ -1,0 +1,27 @@
+{
+  "id": 48462,
+  "registrationNumber": "CC34580",
+  "name": "The Canterbury Astronomical Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cas.org.nz",
+  "email": "treasurer@cas.org.nz",
+  "address": {
+    "line1": "218 Bells Road",
+    "line2": "RD 1",
+    "suburb": "West Melton",
+    "city": "Christchurch",
+    "postcode": "7671"
+  },
+  "nzbn": "9429042602705",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CanterburyAstronomicalSociety/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T06:50:48Z"
+}

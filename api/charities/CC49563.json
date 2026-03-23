@@ -1,0 +1,27 @@
+{
+  "id": 35250,
+  "registrationNumber": "CC49563",
+  "name": "Kiwi Outreach Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-07-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kiwioutreach.org.nz",
+  "email": "admin@kiwioutreach.org.nz",
+  "address": {
+    "line1": "47 Parallel Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3495"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-25T19:59:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73889,
+  "registrationNumber": "CC60295",
+  "name": "Te Ropu Marutau o Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.trma.co.nz",
+  "email": "admin@trma.co.nz",
+  "address": {
+    "line1": "112 Sutherland Road",
+    "line2": " ",
+    "suburb": "Brookfield",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429047724686",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T20:16:52Z"
+}

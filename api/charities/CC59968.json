@@ -1,0 +1,27 @@
+{
+  "id": 73578,
+  "registrationNumber": "CC59968",
+  "name": "Fur Paws Sake",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Furpawssakenz@gmail.com",
+  "address": {
+    "line1": "172 Airfield Road",
+    "line2": "RD 2",
+    "suburb": "Takanini",
+    "city": "Papakura",
+    "postcode": "2582"
+  },
+  "nzbn": "9429050732524",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/furpawssakenz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T09:38:20Z"
+}

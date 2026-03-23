@@ -1,0 +1,27 @@
+{
+  "id": 34050,
+  "registrationNumber": "CC50905",
+  "name": "MUSAC Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2014-08-01T00:00:00Z",
+  "dateDeregistered": "2017-12-31T00:00:00Z",
+  "website": "www.musac.io",
+  "email": "admin@musac.io",
+  "address": {
+    "line1": "Centennial Drive, Massey University",
+    "line2": " ",
+    "suburb": "Hokowhitu ",
+    "city": "Palmerston North ",
+    "postcode": "4410"
+  },
+  "nzbn": "9429041067826",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-06-23T23:16:36Z"
+}

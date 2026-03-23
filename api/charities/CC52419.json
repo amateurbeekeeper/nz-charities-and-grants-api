@@ -1,0 +1,27 @@
+{
+  "id": 66153,
+  "registrationNumber": "CC52419",
+  "name": "The National Library of New Zealand Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.natlib.govt.nz",
+  "email": "trust.accounting@dia.govt.nz",
+  "address": {
+    "line1": "Reception/Ground Floor",
+    "line2": "Cnr Molesworth and Aitken Streets",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043295616",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T19:47:24Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38527,
+  "registrationNumber": "CC47498",
+  "name": "Motumaoho School Parent Teacher Association (PTA)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.motumaoho.school.nz",
+  "email": "office@motumaoho.school.nz",
+  "address": {
+    "line1": "2101 State Highway 26",
+    "line2": "RD 2",
+    "suburb": "Motumaoho",
+    "city": "Morrinsville",
+    "postcode": "3372"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T03:07:42Z"
+}

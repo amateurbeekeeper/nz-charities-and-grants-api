@@ -1,0 +1,27 @@
+{
+  "id": 71622,
+  "registrationNumber": "CC58003",
+  "name": "Land Search and Rescue Training Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.landsar.org.nz/",
+  "email": "johnny.franklin@landsar.org.nz",
+  "address": {
+    "line1": "19 Sheffield Crescent",
+    "line2": "35 Sir William Pickering Drive",
+    "suburb": "Burnside",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LandSARNewZealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T03:27:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72033,
+  "registrationNumber": "CC58410",
+  "name": "Pouhono Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pouhono.org/",
+  "email": "stevegavin@gmail.com",
+  "address": {
+    "line1": "35 Cape Road",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T01:47:59Z"
+}

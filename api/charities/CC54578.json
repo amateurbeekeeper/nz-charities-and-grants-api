@@ -1,0 +1,27 @@
+{
+  "id": 68252,
+  "registrationNumber": "CC54578",
+  "name": "YWAM Ships Aotearoa Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ywamshipsaotearoa.org.nz",
+  "email": "marty.emmett@ysa.nz",
+  "address": {
+    "line1": "115 Moffat Road",
+    "line2": " ",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429045841842",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T07:30:25Z"
+}

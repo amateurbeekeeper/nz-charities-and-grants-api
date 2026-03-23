@@ -1,0 +1,27 @@
+{
+  "id": 53731,
+  "registrationNumber": "CC20406",
+  "name": "Ignite Sport Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ignitesport.org.nz",
+  "email": "kevin@ignitesport.org.nz",
+  "address": {
+    "line1": "48A Bell Road",
+    "line2": null,
+    "suburb": "Waiwhetu",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429043174188",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Ignite-Sport-125969378868/?ref=bookmarks",
+    "twitter": "https://twitter.com/IgniteSportNZ"
+  },
+  "lastUpdated": "2026-03-17T23:25:37Z"
+}

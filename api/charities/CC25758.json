@@ -1,0 +1,27 @@
+{
+  "id": 57714,
+  "registrationNumber": "CC25758",
+  "name": "Age Concern (Tauranga) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ageconcerntauranga.org.nz",
+  "email": "mgr.ageconcerntga@xtra.co.nz",
+  "address": {
+    "line1": "177A Fraser Street",
+    "line2": " ",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042576327",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Age-Concern-Tauranga-Inc-256429201106418/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:13:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 68522,
+  "registrationNumber": "CC54853",
+  "name": "Royal New Zealand Plunket Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.plunket.org.nz",
+  "email": "nicole.summerfield@plunket.org.nz",
+  "address": {
+    "line1": "40 Mercer Street",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429046242969",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/plunketNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T19:34:20Z"
+}

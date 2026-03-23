@@ -1,0 +1,27 @@
+{
+  "id": 50401,
+  "registrationNumber": "CC43976",
+  "name": "Tane Atawhai Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-04-12T00:00:00Z",
+  "dateDeregistered": "2012-05-22T00:00:00Z",
+  "website": null,
+  "email": "tane.atawhai.trust@gmail.com",
+  "address": {
+    "line1": "1B South Pacific Place",
+    "line2": null,
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "612"
+  },
+  "nzbn": "9429043224579",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:28:38Z"
+}

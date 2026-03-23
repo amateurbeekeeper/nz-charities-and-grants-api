@@ -1,0 +1,27 @@
+{
+  "id": 58130,
+  "registrationNumber": "CC38925",
+  "name": "Riding For Disabled - Cambridge Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://rda-cambridge.com",
+  "email": "robyn.marsh@dairynz.co.nz",
+  "address": {
+    "line1": "Cnr Alpha & Hall Streets",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3450"
+  },
+  "nzbn": "9429042600565",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RdaCambridge/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T23:14:05Z"
+}

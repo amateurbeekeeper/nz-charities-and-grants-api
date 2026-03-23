@@ -1,0 +1,27 @@
+{
+  "id": 77020,
+  "registrationNumber": "CC63026",
+  "name": "Takapaukura Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-08-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.takapaukura.co.nz/charitable-trust",
+  "email": "nellie@takapaukura.org",
+  "address": {
+    "line1": "39 Aldona Place",
+    "line2": " ",
+    "suburb": "Fairview Downs",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": "9429052216664",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-31T20:53:48Z"
+}

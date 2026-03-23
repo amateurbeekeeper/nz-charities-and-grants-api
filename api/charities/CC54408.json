@@ -1,0 +1,27 @@
+{
+  "id": 68083,
+  "registrationNumber": "CC54408",
+  "name": "Mauga Paia Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "roselologa@icloud.com",
+  "address": {
+    "line1": "59 Pharazyn Street",
+    "line2": " ",
+    "suburb": "Melling",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-29T21:22:21Z"
+}

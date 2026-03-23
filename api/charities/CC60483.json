@@ -1,0 +1,27 @@
+{
+  "id": 74074,
+  "registrationNumber": "CC60483",
+  "name": "We Will Rise Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wewillrise.nz",
+  "email": "bruce@wewillrise.nz",
+  "address": {
+    "line1": "272 Ti Rakau Drive",
+    "line2": " ",
+    "suburb": "Burswood",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429050655830",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:20:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 36340,
+  "registrationNumber": "CC49084",
+  "name": "Te Whakapono Health Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2013-01-23T00:00:00Z",
+  "dateDeregistered": "2018-04-30T00:00:00Z",
+  "website": "http://tewhakaponohealthtrust.org.nz",
+  "email": "pihera@xtra.co.nz",
+  "address": {
+    "line1": "Dialysis Unit",
+    "line2": "Rotorua Hospital",
+    "suburb": "Pukeroa Hill",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429043042449",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-06-13T02:15:07Z"
+}

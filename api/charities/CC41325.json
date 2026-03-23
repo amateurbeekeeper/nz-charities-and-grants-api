@@ -1,0 +1,27 @@
+{
+  "id": 64506,
+  "registrationNumber": "CC41325",
+  "name": "Council of Medical Colleges in New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-09-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cmc.org.nz",
+  "email": "alex.marett@cmc.org.nz",
+  "address": {
+    "line1": "C/- Cross Financial Services Ltd",
+    "line2": " Unit 1, 20 Parumoana Street ",
+    "suburb": " ",
+    "city": " Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429042992875",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T22:33:19Z"
+}

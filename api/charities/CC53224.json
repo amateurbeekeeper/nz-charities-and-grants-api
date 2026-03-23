@@ -1,0 +1,27 @@
+{
+  "id": 66940,
+  "registrationNumber": "CC53224",
+  "name": "Seed 2 Harvest Trust Limited",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.seed2harvest.co.nz/",
+  "email": "seedtoharvest15@gmail.com",
+  "address": {
+    "line1": "96 Swanson Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429048540797",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "@S2Harvest",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T22:59:04Z"
+}

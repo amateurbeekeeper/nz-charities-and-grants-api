@@ -1,0 +1,27 @@
+{
+  "id": 62552,
+  "registrationNumber": "CC44021",
+  "name": "New Zealand Rehabilitation Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rehabilitation.org.nz",
+  "email": "jba.boyce@gmail.com",
+  "address": {
+    "line1": "123 Totara Street",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042709015",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T09:24:03Z"
+}

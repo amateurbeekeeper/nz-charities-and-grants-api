@@ -1,0 +1,27 @@
+{
+  "id": 69530,
+  "registrationNumber": "CC55881",
+  "name": "King's Leadership College Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-11-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nancy@kingshouse.org.nz",
+  "address": {
+    "line1": "177 Riverbend Road",
+    "line2": " ",
+    "suburb": "Onekawa",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429043217908",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "King's Leadership College",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-07T17:40:09Z"
+}

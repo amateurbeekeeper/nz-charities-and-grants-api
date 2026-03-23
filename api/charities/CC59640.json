@@ -1,0 +1,27 @@
+{
+  "id": 73239,
+  "registrationNumber": "CC59640",
+  "name": "Climate Commons",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.climatecommons.co.nz",
+  "email": "sija@climatecommons.co.nz",
+  "address": {
+    "line1": "Flat 21",
+    "line2": "457 Swanson Road",
+    "suburb": "Ranui",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@climatecommons",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T10:42:11Z"
+}

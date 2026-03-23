@@ -1,0 +1,27 @@
+{
+  "id": 34450,
+  "registrationNumber": "CC51225",
+  "name": "Taupo Waters Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tuwharetoa.co.nz",
+  "email": "accounts@tuwharetoa.co.nz",
+  "address": {
+    "line1": "27 Turangi Town Centre",
+    "line2": "Turangi 3334",
+    "suburb": " ",
+    "city": "Turangi",
+    "postcode": "3334"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:33:24Z"
+}

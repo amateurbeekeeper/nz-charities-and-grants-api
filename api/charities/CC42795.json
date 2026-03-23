@@ -1,0 +1,27 @@
+{
+  "id": 57225,
+  "registrationNumber": "CC42795",
+  "name": "Population Association of New Zealand Te Roopu Waihanga Iwi o Aotearoa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.population.org.nz",
+  "email": "treasurer@population.org.nz",
+  "address": {
+    "line1": "c/- Te Ngira, University of Waikato",
+    "line2": "Gate 1 Knighton Road",
+    "suburb": "Hillcrest",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429042809098",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/populationnz/",
+    "twitter": "@NZPOPASSN"
+  },
+  "lastUpdated": "2026-03-06T00:20:09Z"
+}

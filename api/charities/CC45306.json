@@ -1,0 +1,27 @@
+{
+  "id": 36146,
+  "registrationNumber": "CC45306",
+  "name": "The Braille Authority of New Zealand Aotearoa Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.banzat.org.nz/",
+  "email": "mary@aicomms.co.nz",
+  "address": {
+    "line1": "539 Parnell Road",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429043194131",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/banzatnz/",
+    "twitter": "http://twitter.com/BANZATBRAILLE"
+  },
+  "lastUpdated": "2025-12-29T01:54:25Z"
+}

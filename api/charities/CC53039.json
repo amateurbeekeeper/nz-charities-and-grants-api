@@ -1,0 +1,27 @@
+{
+  "id": 66763,
+  "registrationNumber": "CC53039",
+  "name": "Orchestras Central Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-02-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.orchestras.org.nz",
+  "email": "ceo@orchestras.org.nz",
+  "address": {
+    "line1": "Gallagher Academy of Performing Arts",
+    "line2": "University of Waikato",
+    "suburb": " Knighton Road",
+    "city": "Hamilton",
+    "postcode": "3240"
+  },
+  "nzbn": "9429043298327",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/orchestrascentral/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T22:37:15Z"
+}

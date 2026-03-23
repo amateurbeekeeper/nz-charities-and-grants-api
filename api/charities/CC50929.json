@@ -1,0 +1,27 @@
+{
+  "id": 34532,
+  "registrationNumber": "CC50929",
+  "name": "Te Riingi Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "shane.matene@gmail.com",
+  "address": {
+    "line1": "PO Box 593",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaikohe",
+    "postcode": "0440"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Te-Riingi-MaraeMahuhukiterangi-375327176003212/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T06:15:01Z"
+}

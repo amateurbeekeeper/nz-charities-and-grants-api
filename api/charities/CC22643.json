@@ -1,0 +1,27 @@
+{
+  "id": 39876,
+  "registrationNumber": "CC22643",
+  "name": "Central Hawke's Bay Museum Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://chbmuseum.co.nz/",
+  "email": "brent.chamberlain@chbdc.govt.nz",
+  "address": {
+    "line1": "23 High Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waipawa",
+    "postcode": "4210"
+  },
+  "nzbn": "9429042605683",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/chbmuseum",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T03:09:37Z"
+}

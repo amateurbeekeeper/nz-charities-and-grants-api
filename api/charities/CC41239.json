@@ -1,0 +1,27 @@
+{
+  "id": 48915,
+  "registrationNumber": "CC41239",
+  "name": "Great Oaks Trading Company Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stpauls.school.nz",
+  "email": "p.welham@stpauls.school.nz",
+  "address": {
+    "line1": "Private Bag 3069",
+    "line2": "Waikato Mail Centre",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3240"
+  },
+  "nzbn": "9429038763311",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:11Z"
+}

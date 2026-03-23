@@ -1,0 +1,27 @@
+{
+  "id": 55350,
+  "registrationNumber": "CC34736",
+  "name": "Lincoln Rugby Football Club (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lincolnrugby.org.nz/home/",
+  "email": "treasurer@lincolnrugby.org.nz",
+  "address": {
+    "line1": "15 Meijer Drive",
+    "line2": "Lincoln 7608",
+    "suburb": "Lincoln",
+    "city": "Lincoln",
+    "postcode": "7608"
+  },
+  "nzbn": "9429042654193",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Lincolnrugby",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T07:46:29Z"
+}

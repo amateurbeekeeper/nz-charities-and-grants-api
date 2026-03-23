@@ -1,0 +1,27 @@
+{
+  "id": 53173,
+  "registrationNumber": "CC11375",
+  "name": "Sutherland Self-Help Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sutherlandselfhelptrust.org.nz",
+  "email": "office@sutherlandselfhelptrust.org.nz",
+  "address": {
+    "line1": "7 Kenwyn Terrace",
+    "line2": " ",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429042856283",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/The-Sutherland-Self-Help-Trust-202186003151735/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-02T22:50:01Z"
+}

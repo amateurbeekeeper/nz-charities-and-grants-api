@@ -1,0 +1,27 @@
+{
+  "id": 75021,
+  "registrationNumber": "CC61449",
+  "name": "The Kids Place Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thekidsplace.co.nz/",
+  "email": "mark@insightaccounting.co.nz",
+  "address": {
+    "line1": "3A Akoranga Drive",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429048507462",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T19:27:30Z"
+}

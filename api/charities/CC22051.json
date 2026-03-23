@@ -1,0 +1,27 @@
+{
+  "id": 53430,
+  "registrationNumber": "CC22051",
+  "name": "North Canterbury Sport And Recreation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sportstrust.co.nz",
+  "email": "roliver@sportstrust.org.nz",
+  "address": {
+    "line1": "289 Coldstream Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7473"
+  },
+  "nzbn": "9429042692959",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T21:55:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51395,
+  "registrationNumber": "CC11459",
+  "name": "Marlborough Community Potters Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://marlboroughpotters.org",
+  "email": "marlboroughpotters@gmail.com",
+  "address": {
+    "line1": "4 Dillons Point Road",
+    "line2": " ",
+    "suburb": "Islington",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429042759317",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/marlboroughcommunitypotters/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T06:07:02Z"
+}

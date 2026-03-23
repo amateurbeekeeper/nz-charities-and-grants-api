@@ -1,0 +1,27 @@
+{
+  "id": 64892,
+  "registrationNumber": "CC30109",
+  "name": "Kowhai Singers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.kowhaisingers.org.nz",
+  "email": "roger.sandspit@gmail.com",
+  "address": {
+    "line1": "14 Tamahunga Drive",
+    "line2": "RD 5",
+    "suburb": "Matakana",
+    "city": "Warkworth",
+    "postcode": "0985"
+  },
+  "nzbn": "9429042655312",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/kowhai-singers",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-19T21:23:04Z"
+}

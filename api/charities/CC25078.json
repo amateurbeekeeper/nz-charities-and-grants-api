@@ -1,0 +1,27 @@
+{
+  "id": 41818,
+  "registrationNumber": "CC25078",
+  "name": "Te Reo Irirangi O Pare Hauraki",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngaiwifm.co.nz",
+  "email": "hara@ngaiwifm.co.nz",
+  "address": {
+    "line1": "5 Princes Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paeroa",
+    "postcode": "3640"
+  },
+  "nzbn": "9429042825647",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thevoiceofhauraki",
+    "twitter": "https://twitter.com/ngaiwifm"
+  },
+  "lastUpdated": "2026-01-29T22:53:29Z"
+}

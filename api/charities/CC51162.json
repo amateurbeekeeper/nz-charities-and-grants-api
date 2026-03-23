@@ -1,0 +1,27 @@
+{
+  "id": 34811,
+  "registrationNumber": "CC51162",
+  "name": "Equippers Napier Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-12-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.equipperschurch.com/napier",
+  "email": "leanne.christensen@equipperschurch.com",
+  "address": {
+    "line1": "24 York Avenue",
+    "line2": " ",
+    "suburb": "Tamatea",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": "9429043284429",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/EquippersChurchNapier",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T03:44:06Z"
+}

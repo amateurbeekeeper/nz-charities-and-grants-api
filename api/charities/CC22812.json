@@ -1,0 +1,27 @@
+{
+  "id": 38987,
+  "registrationNumber": "CC22812",
+  "name": "Camp Elsdon Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.campelsdon.co.nz",
+  "email": "anna@asaccounting.co.nz",
+  "address": {
+    "line1": "18 Raiha Street",
+    "line2": " ",
+    "suburb": "Elsdon",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429042599142",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T06:18:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42667,
+  "registrationNumber": "CC41108",
+  "name": "Waipu Primary School Parent Teacher Association (PTA) ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wps.school.nz/",
+  "email": "waiputreasurer@gmail.com",
+  "address": {
+    "line1": "C/-  Waipu School",
+    "line2": "6 Argyle Street",
+    "suburb": " ",
+    "city": "Waipu",
+    "postcode": "510"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waipupta/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T05:09:53Z"
+}

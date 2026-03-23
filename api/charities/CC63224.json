@@ -1,0 +1,27 @@
+{
+  "id": 77399,
+  "registrationNumber": "CC63224",
+  "name": "LOVEU",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://loveu.org.nz/",
+  "email": "jamesnz330@gmail.com",
+  "address": {
+    "line1": "Suite 9",
+    "line2": "42 Paramount Drive",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T03:29:44Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39397,
+  "registrationNumber": "CC25364",
+  "name": "Christian Youth Camps Waihola Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cycwaihola.org.nz",
+  "email": "manager@cycwaihola.org.nz",
+  "address": {
+    "line1": "70 Finlayson Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waihola",
+    "postcode": "9243"
+  },
+  "nzbn": "9429042616177",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://facebook.com/cycwaihola",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T03:54:35Z"
+}

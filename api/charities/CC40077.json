@@ -1,0 +1,27 @@
+{
+  "id": 45815,
+  "registrationNumber": "CC40077",
+  "name": "Inglewood Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-01T00:00:00Z",
+  "website": "www.playcentre.org.nz",
+  "email": "inglewood@playcentre.org.nz",
+  "address": {
+    "line1": "21 Brown Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Inglewood",
+    "postcode": "4330"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Inglewood-Playcentre-112638365442727/",
+    "twitter": "n/a"
+  },
+  "lastUpdated": "2025-11-07T06:04:03Z"
+}

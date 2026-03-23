@@ -1,0 +1,27 @@
+{
+  "id": 49825,
+  "registrationNumber": "CC40187",
+  "name": "Chinese Alliance Christian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cacc.org.nz",
+  "email": "athy.leung@cacc.org.nz",
+  "address": {
+    "line1": "60 Ben Lomond Crescent",
+    "line2": " ",
+    "suburb": "Pakuranga Heights",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T02:38:44Z"
+}

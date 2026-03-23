@@ -1,0 +1,27 @@
+{
+  "id": 51078,
+  "registrationNumber": "CC11006",
+  "name": "Netball North Harbour Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.netballnorthharbour.co.nz",
+  "email": "roleen@netballnorthharbour.co.nz",
+  "address": {
+    "line1": "44 Northcote Road",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "627"
+  },
+  "nzbn": "9429042676195",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/netballnorthharbour.centre/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T00:54:45Z"
+}

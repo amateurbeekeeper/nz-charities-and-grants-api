@@ -1,0 +1,27 @@
+{
+  "id": 41004,
+  "registrationNumber": "CC25243",
+  "name": "Calvary Korean Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@jlpartners.co.nz",
+  "address": {
+    "line1": "PO Box 302263",
+    "line2": "North Harbour",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0751"
+  },
+  "nzbn": "9429043050376",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T18:07:41Z"
+}

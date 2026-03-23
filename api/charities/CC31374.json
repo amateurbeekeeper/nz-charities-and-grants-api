@@ -1,0 +1,27 @@
+{
+  "id": 40533,
+  "registrationNumber": "CC31374",
+  "name": "Wellington Free Ambulance Service (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wfa.org.nz",
+  "email": "accounts@wfa.org.nz",
+  "address": {
+    "line1": "Wellington Free Ambulance (Wfa) Headquarters",
+    "line2": "19 Davis Street",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042838708",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T22:32:25Z"
+}

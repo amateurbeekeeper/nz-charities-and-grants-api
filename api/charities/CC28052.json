@@ -1,0 +1,27 @@
+{
+  "id": 39446,
+  "registrationNumber": "CC28052",
+  "name": "Taupo Community Patrol",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tcp.org.nz",
+  "email": "taylor.tm10@gmail.com",
+  "address": {
+    "line1": "C/o New Zealand Police",
+    "line2": "Story Place",
+    "suburb": " ",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429050792443",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "N/a",
+    "twitter": "N/a"
+  },
+  "lastUpdated": "2025-10-21T23:25:04Z"
+}

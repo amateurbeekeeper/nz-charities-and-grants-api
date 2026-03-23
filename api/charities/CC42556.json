@@ -1,0 +1,27 @@
+{
+  "id": 50878,
+  "registrationNumber": "CC42556",
+  "name": "Ngaitamakahu Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2019-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pollywairau@gmail.com",
+  "address": {
+    "line1": "78 Gillespies Road",
+    "line2": " ",
+    "suburb": "Birchville",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T20:31:17Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73593,
+  "registrationNumber": "CC60050",
+  "name": "Emmanuel Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "facsconsultants@gmail.com",
+  "address": {
+    "line1": "257 Henderson Valley Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429050173662",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T18:41:55Z"
+}

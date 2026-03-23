@@ -1,0 +1,27 @@
+{
+  "id": 61413,
+  "registrationNumber": "CC30406",
+  "name": "Pukekohe Playcentre ",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-05-30T00:00:00Z",
+  "website": null,
+  "email": "pukekohe@playcentre.org.nz",
+  "address": {
+    "line1": "177 Victoria Street West",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Pukeplaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-13T07:10:20Z"
+}

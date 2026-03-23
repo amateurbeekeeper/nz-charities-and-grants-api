@@ -1,0 +1,27 @@
+{
+  "id": 53862,
+  "registrationNumber": "CC23599",
+  "name": "Northpoint Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.northpoint.org.nz",
+  "email": "finance@northpoint.org.nz",
+  "address": {
+    "line1": "116 Mangati Road",
+    "line2": " ",
+    "suburb": "Bell Block",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429043004799",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-18T19:18:38Z"
+}

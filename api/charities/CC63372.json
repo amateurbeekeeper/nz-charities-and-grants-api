@@ -1,0 +1,27 @@
+{
+  "id": 77577,
+  "registrationNumber": "CC63372",
+  "name": "The Skills Group Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.skills-group.org",
+  "email": "scott.bitchener@skills-group.org",
+  "address": {
+    "line1": "600 Great South Road",
+    "line2": "Level 2, Building C Millenium Centre",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T01:59:42Z"
+}

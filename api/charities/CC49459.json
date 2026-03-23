@@ -1,0 +1,27 @@
+{
+  "id": 35395,
+  "registrationNumber": "CC49459",
+  "name": "The Special Olympics Marlborough Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-08-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "marlborough@specialolympics.org.nz",
+  "address": {
+    "line1": "65 Moana View Road",
+    "line2": null,
+    "suburb": "Waikawa",
+    "city": "Picton",
+    "postcode": "7220"
+  },
+  "nzbn": "9429050325948",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-10T19:36:11Z"
+}

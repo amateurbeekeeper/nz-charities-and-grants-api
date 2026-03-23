@@ -1,0 +1,27 @@
+{
+  "id": 35131,
+  "registrationNumber": "CC49644",
+  "name": "Equine Experience",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2013-07-05T00:00:00Z",
+  "dateDeregistered": "2020-08-25T00:00:00Z",
+  "website": null,
+  "email": "opengate@xtra.co.nz",
+  "address": {
+    "line1": "39 Paterson Street",
+    "line2": " ",
+    "suburb": "Aramoho",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429043218059",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "opengate",
+    "twitter": null
+  },
+  "lastUpdated": "2021-01-18T00:07:30Z"
+}

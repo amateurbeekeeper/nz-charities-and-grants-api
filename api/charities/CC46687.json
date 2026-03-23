@@ -1,0 +1,27 @@
+{
+  "id": 37272,
+  "registrationNumber": "CC46687",
+  "name": "ATOMIC Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https//atomic.org.nz",
+  "email": "matai@atomic.org.nz",
+  "address": {
+    "line1": "98 Onslow Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kawerau",
+    "postcode": "3127"
+  },
+  "nzbn": "9429043183661",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Atomic Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T02:56:59Z"
+}

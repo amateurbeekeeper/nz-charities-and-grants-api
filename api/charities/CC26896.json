@@ -1,0 +1,27 @@
+{
+  "id": 57189,
+  "registrationNumber": "CC26896",
+  "name": "Hamlin Charitable Fistula Hospitals Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hamlinfistula.org.nz",
+  "email": "sam@hamlinfistula.org.nz",
+  "address": {
+    "line1": "286 Oxford Terrace",
+    "line2": "Riccarton",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043057429",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/hamlinnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T18:21:23Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 45217,
+  "registrationNumber": "CC35139",
+  "name": "Marist College PTFA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.maristcollege.school.nz",
+  "email": "gerardt@barker.co.nz",
+  "address": {
+    "line1": "Marist College",
+    "line2": "31 Alberton Avenue",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-16T19:49:05Z"
+}

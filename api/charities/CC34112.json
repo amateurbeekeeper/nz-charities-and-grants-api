@@ -1,0 +1,27 @@
+{
+  "id": 48100,
+  "registrationNumber": "CC34112",
+  "name": "Friends Of Nelson Haven And Tasman Bay Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nelsonhaven.org.nz",
+  "email": "pmsyms@xtra.co.nz",
+  "address": {
+    "line1": "29 Bronte Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042700494",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T01:21:22Z"
+}

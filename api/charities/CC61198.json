@@ -1,0 +1,27 @@
+{
+  "id": 74782,
+  "registrationNumber": "CC61198",
+  "name": "Resolution Institute",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-04-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://resolution.institute",
+  "email": "gerry.westhuis@resolution.institute",
+  "address": {
+    "line1": "L7, The Wakefield House",
+    "line2": " 90 the Terrace",
+    "suburb": " ",
+    "city": "Wellington Central",
+    "postcode": null
+  },
+  "nzbn": "9429040992846",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/resolutioninstitute",
+    "twitter": "https://twitter.com/resolutioninst"
+  },
+  "lastUpdated": "2026-01-21T21:11:32Z"
+}

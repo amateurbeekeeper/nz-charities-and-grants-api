@@ -1,0 +1,27 @@
+{
+  "id": 74024,
+  "registrationNumber": "CC60435",
+  "name": "Mahi Arohanui o Tamariki Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.maota.org.nz",
+  "email": "deborah@maota.org.nz",
+  "address": {
+    "line1": "3/30 Richill Street ",
+    "line2": "3/30 Richill street",
+    "suburb": "Belfast",
+    "city": "CHRISTCHURCH",
+    "postcode": "8051"
+  },
+  "nzbn": null,
+  "financialYearEnd": "1/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aotearoamaota",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T00:37:41Z"
+}

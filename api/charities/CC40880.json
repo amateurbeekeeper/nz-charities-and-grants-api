@@ -1,0 +1,27 @@
+{
+  "id": 43127,
+  "registrationNumber": "CC40880",
+  "name": "Australian and New Zealand Cultural Arts Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.anzca.com.au",
+  "email": "admin@anzca.com.au",
+  "address": {
+    "line1": "3 Natasha Lane",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429039584083",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@anzcamusicexaminations",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-18T23:19:24Z"
+}

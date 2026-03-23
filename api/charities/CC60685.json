@@ -1,0 +1,27 @@
+{
+  "id": 74277,
+  "registrationNumber": "CC60685",
+  "name": "Blues Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://thebluestrust.org/",
+  "email": "rob.woodley@blues.rugby",
+  "address": {
+    "line1": "32 Campbell Crescent",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429050640195",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T03:15:03Z"
+}

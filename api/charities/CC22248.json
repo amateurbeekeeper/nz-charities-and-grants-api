@@ -1,0 +1,27 @@
+{
+  "id": 55430,
+  "registrationNumber": "CC22248",
+  "name": "Te Omanga Hospice Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.teomanga.org.nz",
+  "email": "dianna.taylor@teomanga.org.nz",
+  "address": {
+    "line1": "136 Woburn Road",
+    "line2": " ",
+    "suburb": "Woburn",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429042866145",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T19:24:15Z"
+}

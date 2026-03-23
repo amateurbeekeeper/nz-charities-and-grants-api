@@ -1,0 +1,27 @@
+{
+  "id": 46422,
+  "registrationNumber": "CC33750",
+  "name": "Kaurilands Kindergarten Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kaurilandskindy.nz",
+  "email": "hello@kaurilandskindy.nz",
+  "address": {
+    "line1": "65 Atkinson Road",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "604"
+  },
+  "nzbn": "9429042651420",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T03:52:55Z"
+}

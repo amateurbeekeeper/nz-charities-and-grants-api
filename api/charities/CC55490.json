@@ -1,0 +1,27 @@
+{
+  "id": 69145,
+  "registrationNumber": "CC55490",
+  "name": "Ohine Waiapu Marae",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-01-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "greenwhanau@xtra.co.nz",
+  "address": {
+    "line1": "750 Rangitukia Road",
+    "line2": "Tikitiki 4087",
+    "suburb": " ",
+    "city": "Tikitiki",
+    "postcode": "4087"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ohine Waiapu Marae",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T21:26:02Z"
+}

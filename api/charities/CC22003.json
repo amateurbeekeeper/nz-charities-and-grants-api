@@ -1,0 +1,27 @@
+{
+  "id": 57492,
+  "registrationNumber": "CC22003",
+  "name": "The Vincentian Foundation for the Elderly",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.vinnies-wellington.org.nz/vincentian-foundation",
+  "email": "vincentian@bourke.net.nz",
+  "address": {
+    "line1": "27 Logan Street",
+    "line2": " ",
+    "suburb": "Ebdentown",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429042899211",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-21T02:31:45Z"
+}

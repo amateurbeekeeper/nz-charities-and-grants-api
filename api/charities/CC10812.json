@@ -1,0 +1,27 @@
+{
+  "id": 51998,
+  "registrationNumber": "CC10812",
+  "name": "ECO Artists New Zealand",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2007-08-08T00:00:00Z",
+  "dateDeregistered": "2018-03-31T00:00:00Z",
+  "website": "http://www.ecoartists.co.nz",
+  "email": "ecoartistsnz@gmail.com",
+  "address": {
+    "line1": "42 Latimer Square",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043171286",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-10-02T19:09:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53787,
+  "registrationNumber": "CC26085",
+  "name": "Westland Christian Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office.greymouthnlc@gmail.com",
+  "address": {
+    "line1": "8 Leonard Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": "9429042914983",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T02:55:08Z"
+}

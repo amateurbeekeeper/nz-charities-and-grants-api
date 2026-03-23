@@ -1,0 +1,27 @@
+{
+  "id": 67328,
+  "registrationNumber": "CC53616",
+  "name": "SPRINGFIELD SCHOOL PARENT TEACHER ASSOCIATION",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.springfield.school.nz",
+  "email": "hello@amyalbon.com",
+  "address": {
+    "line1": "2 Tawera Lane",
+    "line2": null,
+    "suburb": " ",
+    "city": "Springfield",
+    "postcode": "7681"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Springfield school and PTA events",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-07T23:11:06Z"
+}

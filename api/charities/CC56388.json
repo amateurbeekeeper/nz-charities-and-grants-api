@@ -1,0 +1,27 @@
+{
+  "id": 70034,
+  "registrationNumber": "CC56388",
+  "name": "MyFundAction New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-11-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "esdira@myfundaction.org",
+  "address": {
+    "line1": "Shop 1",
+    "line2": "13 Red Oaks Drive",
+    "suburb": "Frankton",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429046720238",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/myfundaction.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:54:21Z"
+}

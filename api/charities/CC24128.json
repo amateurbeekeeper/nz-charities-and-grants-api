@@ -1,0 +1,27 @@
+{
+  "id": 41194,
+  "registrationNumber": "CC24128",
+  "name": "Jubilee Christian Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.jubileebudget.co.nz",
+  "email": "manager@jubileebudget.co.nz",
+  "address": {
+    "line1": "23A Forth Street",
+    "line2": "Invercargill 9810",
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042648055",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Jubilee Budget",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T01:21:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54859,
+  "registrationNumber": "CC21592",
+  "name": "The Waikato Equestrian Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.horses.net.nz",
+  "email": "admin@horses.net.nz",
+  "address": {
+    "line1": "1340 Pukete Road",
+    "line2": " ",
+    "suburb": "Pukete",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429051570767",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Waikato-Equestrian-Centre-138547366170411/?ref=bookmarks",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T22:00:33Z"
+}

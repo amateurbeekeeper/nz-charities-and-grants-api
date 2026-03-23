@@ -1,0 +1,27 @@
+{
+  "id": 65190,
+  "registrationNumber": "CC51413",
+  "name": "Te Riu O Waikato Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-10-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.teriuowaikato.nz",
+  "email": "hayley@teriuowaikato.nz",
+  "address": {
+    "line1": "69A Johnson Road",
+    "line2": "RD 4",
+    "suburb": " ",
+    "city": "Ohinewai",
+    "postcode": "3784"
+  },
+  "nzbn": "9429030596450",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Riu o Waikato -TROW",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T18:33:38Z"
+}

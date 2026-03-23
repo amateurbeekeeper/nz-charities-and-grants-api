@@ -1,0 +1,27 @@
+{
+  "id": 54300,
+  "registrationNumber": "CC21200",
+  "name": "Environment Network Manawatu Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.enm.org.nz",
+  "email": "manager@enm.org.nz",
+  "address": {
+    "line1": "145 Cuba Street",
+    "line2": "Palmerston North 4410",
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429043080588",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EnvironmentManawatu/?fref=ts",
+    "twitter": "twitter.com/enviromanawatu"
+  },
+  "lastUpdated": "2026-02-12T23:16:40Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74625,
+  "registrationNumber": "CC61038",
+  "name": "Ngā Āhuatanga o Te Kai Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-12-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.kaiinstitute.co.nz",
+  "email": "melanie.bell@tpoom.co.nz",
+  "address": {
+    "line1": "92 King Street",
+    "line2": "Whakatane 3120",
+    "suburb": "Whakatāne",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429050986255",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T03:11:50Z"
+}

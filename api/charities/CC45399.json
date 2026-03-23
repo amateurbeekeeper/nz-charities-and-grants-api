@@ -1,0 +1,27 @@
+{
+  "id": 45872,
+  "registrationNumber": "CC45399",
+  "name": "Murchison Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "a-cmonahan@outlook.co.nz",
+  "address": {
+    "line1": "27 Fairfax Street",
+    "line2": "Murchison 7007",
+    "suburb": " ",
+    "city": "Murchison",
+    "postcode": "7007"
+  },
+  "nzbn": "9429042766223",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Murchison Theatre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T23:41:05Z"
+}

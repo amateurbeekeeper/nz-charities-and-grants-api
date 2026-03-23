@@ -1,0 +1,27 @@
+{
+  "id": 78022,
+  "registrationNumber": "CC63905",
+  "name": "A&P Warrens Boxing",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "apboxing20@gmail.com",
+  "address": {
+    "line1": "139 Waikawa Road",
+    "line2": "Picton 7220",
+    "suburb": " ",
+    "city": "Picton",
+    "postcode": "7220"
+  },
+  "nzbn": null,
+  "financialYearEnd": "20/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "A&P Warrens Boxing Gym",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T02:35:38Z"
+}

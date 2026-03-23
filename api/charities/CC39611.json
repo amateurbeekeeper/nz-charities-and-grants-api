@@ -1,0 +1,27 @@
+{
+  "id": 45550,
+  "registrationNumber": "CC39611",
+  "name": "Harbour Voices Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.harbourvoices.org.nz",
+  "email": "lordon@orcon.net.nz",
+  "address": {
+    "line1": "10 Beach Road",
+    "line2": " ",
+    "suburb": "Hobsonville",
+    "city": "Auckland",
+    "postcode": "0616"
+  },
+  "nzbn": "9429042967941",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/harbourvoicesauckland/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-24T23:13:26Z"
+}

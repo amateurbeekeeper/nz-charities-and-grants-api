@@ -1,0 +1,27 @@
+{
+  "id": 46034,
+  "registrationNumber": "CC39334",
+  "name": "PwC Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pwc.co.nz/about-us/our-corporate-responsibility.html",
+  "email": "chelsey.a.roos@pwc.com",
+  "address": {
+    "line1": "15 Customs Street West",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429050409716",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:01:03Z"
+}

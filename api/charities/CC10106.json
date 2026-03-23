@@ -1,0 +1,27 @@
+{
+  "id": 51451,
+  "registrationNumber": "CC10106",
+  "name": "Our Lady's Home of Compassion Island Bay Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.compassion.org.nz",
+  "email": "ce@compassion.org.nz",
+  "address": {
+    "line1": "2 Rhine Street",
+    "line2": " ",
+    "suburb": "Island Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429038295294",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T22:30:41Z"
+}

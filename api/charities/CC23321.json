@@ -1,0 +1,27 @@
+{
+  "id": 40750,
+  "registrationNumber": "CC23321",
+  "name": "Tauranga Astronomical Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tas.org.nz",
+  "email": "tas.secretary@gmail.com",
+  "address": {
+    "line1": "Otumoetai Sports and Recreation Club",
+    "line2": "Tilby Drive",
+    "suburb": " Matua",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042985495",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/tauranga.astronomy",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-14T22:53:47Z"
+}

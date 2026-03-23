@@ -1,0 +1,27 @@
+{
+  "id": 58988,
+  "registrationNumber": "CC26959",
+  "name": "Evangelical Formosan Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jimchenster@gmail.com",
+  "address": {
+    "line1": "12 Seine Road",
+    "line2": " ",
+    "suburb": "Forrest Hill",
+    "city": "Auckland",
+    "postcode": "620"
+  },
+  "nzbn": "9429043047048",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:21:19Z"
+}

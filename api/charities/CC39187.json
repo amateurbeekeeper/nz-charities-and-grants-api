@@ -1,0 +1,27 @@
+{
+  "id": 61859,
+  "registrationNumber": "CC39187",
+  "name": "New Zealand Ice Hockey League Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzihl.com",
+  "email": "gm@nzihl.com",
+  "address": {
+    "line1": "70 Asquith Avenue",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429043046690",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzihl/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-18T09:31:05Z"
+}

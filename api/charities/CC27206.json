@@ -1,0 +1,27 @@
+{
+  "id": 59534,
+  "registrationNumber": "CC27206",
+  "name": "Skylight Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.skylight.org.nz",
+  "email": "kathryn.ross@skylight.org.nz",
+  "address": {
+    "line1": "Level 3",
+    "line2": "39 Webb Street ",
+    "suburb": "Mount Cook ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043009152",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Skylight-Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T00:53:43Z"
+}

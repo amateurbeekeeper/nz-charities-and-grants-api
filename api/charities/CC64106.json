@@ -1,0 +1,27 @@
+{
+  "id": 78287,
+  "registrationNumber": "CC64106",
+  "name": "Totara Community Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Totara.Trust@hotmail.com",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "37 Trent Street",
+    "suburb": "Linwood",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T02:23:38Z"
+}

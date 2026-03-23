@@ -1,0 +1,27 @@
+{
+  "id": 74934,
+  "registrationNumber": "CC61361",
+  "name": "Support Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.support.gen.nz",
+  "email": "alastair@support.gen.nz",
+  "address": {
+    "line1": "10A Fowler Avenue",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429050993321",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Facebook.com/NZMHSupport",
+    "twitter": null
+  },
+  "lastUpdated": "2024-08-12T10:40:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52473,
+  "registrationNumber": "CC10781",
+  "name": "Estate C H Izard",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul.dentice@macmaz.co.nz",
+  "address": {
+    "line1": "36 Brandon Street",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-10T19:40:48Z"
+}

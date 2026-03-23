@@ -1,0 +1,27 @@
+{
+  "id": 55782,
+  "registrationNumber": "CC29197",
+  "name": "Steam Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.steaminc.org.nz",
+  "email": "treasurer@steaminc.org.nz",
+  "address": {
+    "line1": "219 State Highway 59",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paekakariki",
+    "postcode": "5034"
+  },
+  "nzbn": "9429042732273",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/steaminc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-03T19:54:17Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 77801,
+  "registrationNumber": "CC63610",
+  "name": "Affiliation of Care",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "debbernal@live.com",
+  "address": {
+    "line1": "87 Hoeka Road",
+    "line2": "RD 4",
+    "suburb": "Matangi",
+    "city": "Hamilton",
+    "postcode": "3284"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T05:25:48Z"
+}

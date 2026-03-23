@@ -1,0 +1,27 @@
+{
+  "id": 47005,
+  "registrationNumber": "CC42723",
+  "name": "Canterbury Primary Schools Sports Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.primarysportscanterbury.org.nz",
+  "email": "info@primarysportscanterbury.org.nz",
+  "address": {
+    "line1": "UNIT B",
+    "line2": "1 Brynley Street",
+    "suburb": "Hornby",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429042927693",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/PrimarySportsCanterbury",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T23:34:54Z"
+}

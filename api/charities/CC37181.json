@@ -1,0 +1,27 @@
+{
+  "id": 55457,
+  "registrationNumber": "CC37181",
+  "name": "Northland TV Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cnorth.co.nz",
+  "email": "admin@cntv.co.nz",
+  "address": {
+    "line1": "3 Cockburn Street",
+    "line2": " ",
+    "suburb": "Onerahi",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043143061",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CNorth.Productions ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T19:56:24Z"
+}

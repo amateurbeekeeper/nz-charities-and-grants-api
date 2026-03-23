@@ -1,0 +1,27 @@
+{
+  "id": 45945,
+  "registrationNumber": "CC38790",
+  "name": "Basketball Pacific Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "accounts@pacific.basketball",
+  "address": {
+    "line1": "926 Heaphy Terrace",
+    "line2": " ",
+    "suburb": "Fairfield",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": "9429042998280",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T03:24:11Z"
+}

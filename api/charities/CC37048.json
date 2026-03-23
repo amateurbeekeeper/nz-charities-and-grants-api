@@ -1,0 +1,27 @@
+{
+  "id": 45058,
+  "registrationNumber": "CC37048",
+  "name": "Total Healthcare Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-01-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.totalhealthcare.org.nz",
+  "email": "mark@totalhealthcare.org.nz",
+  "address": {
+    "line1": "Unit 2",
+    "line2": "12 Laidlaw Way",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2016"
+  },
+  "nzbn": "9429042983248",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T22:44:32Z"
+}

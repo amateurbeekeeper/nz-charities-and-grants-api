@@ -1,0 +1,27 @@
+{
+  "id": 38604,
+  "registrationNumber": "CC45586",
+  "name": "Tokomaru Early Childhood Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-10-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tokomaruecc.co.nz/",
+  "email": "centremanager@tokomaruecc.co.nz",
+  "address": {
+    "line1": "9 Tokomaru East Road",
+    "line2": "RD 4",
+    "suburb": "Tokomaru",
+    "city": "Palmerston North",
+    "postcode": "4474"
+  },
+  "nzbn": "9429042892373",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/tokomaruearlychildcarecentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T21:38:12Z"
+}

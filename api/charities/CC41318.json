@@ -1,0 +1,27 @@
+{
+  "id": 63519,
+  "registrationNumber": "CC41318",
+  "name": "The Challenge Wanaka Sports Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-07-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.challenge-wanaka.com",
+  "email": "jane@challenge-wanaka.com",
+  "address": {
+    "line1": "13 Kotare Drive",
+    "line2": "Wanaka 9305",
+    "suburb": "Wānaka",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429043193219",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ChallengeWanaka",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T09:29:28Z"
+}

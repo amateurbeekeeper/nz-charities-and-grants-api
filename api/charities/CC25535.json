@@ -1,0 +1,27 @@
+{
+  "id": 41913,
+  "registrationNumber": "CC25535",
+  "name": "Alzheimers Society Marlborough Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.alzheimers.org.nz",
+  "email": "manager.marlb@alzheimers.org.nz",
+  "address": {
+    "line1": "8 Wither Road",
+    "line2": " ",
+    "suburb": "Witherlea",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429042576105",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T00:48:19Z"
+}

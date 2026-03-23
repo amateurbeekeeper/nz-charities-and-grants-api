@@ -1,0 +1,27 @@
+{
+  "id": 58237,
+  "registrationNumber": "CC37539",
+  "name": "The New Zealand Anglican Church Pension Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kim@angfincare.nz",
+  "address": {
+    "line1": "ANGLICAN HOUSE",
+    "line2": "32 Mulgrave Street",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T00:58:31Z"
+}

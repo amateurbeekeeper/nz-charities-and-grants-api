@@ -1,0 +1,27 @@
+{
+  "id": 39300,
+  "registrationNumber": "CC23368",
+  "name": "Weave Hawke's Bay Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.weavehb.org.nz",
+  "email": "kerry.h@weavehb.org.nz",
+  "address": {
+    "line1": "112 Morris Spence Avenue",
+    "line2": " ",
+    "suburb": "Onekawa",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042750758",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Weavehb/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T03:35:31Z"
+}

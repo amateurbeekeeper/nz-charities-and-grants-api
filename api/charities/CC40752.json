@@ -1,0 +1,27 @@
+{
+  "id": 44771,
+  "registrationNumber": "CC40752",
+  "name": "The Morrinsville Little Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ssilcock@xtra.co.nz",
+  "address": {
+    "line1": "19 Anderson Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Morrinsville",
+    "postcode": "3300"
+  },
+  "nzbn": "9429042784661",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/morrinsvilletheatre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T18:50:19Z"
+}

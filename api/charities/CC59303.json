@@ -1,0 +1,27 @@
+{
+  "id": 72908,
+  "registrationNumber": "CC59303",
+  "name": "The Omaka Observatory Charity Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.omakaobservatory.co.nz",
+  "email": "info@omakaobservatory.co.nz",
+  "address": {
+    "line1": "231 Dog Point Road",
+    "line2": null,
+    "suburb": "Hawkesbury",
+    "city": "Renwick",
+    "postcode": "7272"
+  },
+  "nzbn": "9429049563276",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Omaka-Observatory-101987585809403",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T18:55:53Z"
+}

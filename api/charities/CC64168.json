@@ -1,0 +1,27 @@
+{
+  "id": 78358,
+  "registrationNumber": "CC64168",
+  "name": "Midwifery and Maternity Providers Organisation Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mmpo.co.nz",
+  "email": "wayne.robertson@mmpo.org.nz",
+  "address": {
+    "line1": "376 Manchester Street",
+    "line2": null,
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429037981471",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MMPOupdate/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T22:18:58Z"
+}

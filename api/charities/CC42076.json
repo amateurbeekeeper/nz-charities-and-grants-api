@@ -1,0 +1,27 @@
+{
+  "id": 57897,
+  "registrationNumber": "CC42076",
+  "name": "Gracedale Care Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "shalini@humphriespeople.co.nz",
+  "address": {
+    "line1": "68 Mount Roskill Road",
+    "line2": "Onehunga",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429035686811",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:06:26Z"
+}

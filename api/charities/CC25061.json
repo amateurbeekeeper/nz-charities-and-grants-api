@@ -1,0 +1,27 @@
+{
+  "id": 42302,
+  "registrationNumber": "CC25061",
+  "name": "Student Services Trust Massey @ Wellington",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-05-28T00:00:00Z",
+  "dateDeregistered": "2016-02-11T00:00:00Z",
+  "website": null,
+  "email": "h.purre@massey.ac.nz",
+  "address": {
+    "line1": "Entrance E Tasman Street",
+    "line2": "Massey Univercity",
+    "suburb": null,
+    "city": "Wellington",
+    "postcode": null
+  },
+  "nzbn": "9429042917090",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:23:49Z"
+}

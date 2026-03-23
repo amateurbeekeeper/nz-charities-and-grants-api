@@ -1,0 +1,27 @@
+{
+  "id": 34896,
+  "registrationNumber": "CC51393",
+  "name": "Zion Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.zionpeople.nz",
+  "email": "accounts@zionpeople.nz",
+  "address": {
+    "line1": "38 Churchill Street",
+    "line2": "Te Awamutu 3800",
+    "suburb": " ",
+    "city": "Te Awamutu",
+    "postcode": "3800"
+  },
+  "nzbn": "9429043275007",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/zionpeople.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T21:17:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74239,
+  "registrationNumber": "CC60658",
+  "name": "Te Kawa o Rongo",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-10-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "brendonrei@gmail.com",
+  "address": {
+    "line1": "237 St Aubyn Street",
+    "line2": " ",
+    "suburb": null,
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429050790494",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T22:34:38Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43185,
+  "registrationNumber": "CC35522",
+  "name": "Richmond Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "richmond.invercargill@playcentre.org.nz",
+  "address": {
+    "line1": "128 MacMaster Street",
+    "line2": " ",
+    "suburb": "Richmond",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Richmond Playcentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T21:38:16Z"
+}

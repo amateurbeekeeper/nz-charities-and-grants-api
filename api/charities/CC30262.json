@@ -1,0 +1,27 @@
+{
+  "id": 47890,
+  "registrationNumber": "CC30262",
+  "name": "Manawatu Home Educators",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.mhe.org.nz",
+  "email": "davidandhayley@gmail.com",
+  "address": {
+    "line1": "54 Pascal Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429050794010",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-25T19:34:49Z"
+}

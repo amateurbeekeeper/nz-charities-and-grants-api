@@ -1,0 +1,27 @@
+{
+  "id": 40581,
+  "registrationNumber": "CC30391",
+  "name": "Associated New Zealand Myalgic Encephalomyelitis Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.anzmes.org.nz",
+  "email": "president@anzmes.org.nz",
+  "address": {
+    "line1": "43 Princes Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042582908",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/CfsAnzmesOfficial",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T02:43:18Z"
+}

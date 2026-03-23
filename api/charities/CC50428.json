@@ -1,0 +1,27 @@
+{
+  "id": 34179,
+  "registrationNumber": "CC50428",
+  "name": "OKE Charity",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://oke.org.nz",
+  "email": "paul@oke.org.nz",
+  "address": {
+    "line1": "1/507a Great South Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429050236251",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/OKECharityNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T08:44:03Z"
+}

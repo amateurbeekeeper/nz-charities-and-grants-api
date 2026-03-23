@@ -1,0 +1,27 @@
+{
+  "id": 62070,
+  "registrationNumber": "CC41722",
+  "name": "Cambridge Badminton Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cambridgebadminton.co.nz/",
+  "email": "richard@cambridgebadminton.co.nz",
+  "address": {
+    "line1": "5 MacLean Street",
+    "line2": "Cambridge 3434",
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": "9429042601746",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Cambridge Badminton Club, NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T00:27:56Z"
+}

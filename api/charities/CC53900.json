@@ -1,0 +1,27 @@
+{
+  "id": 67592,
+  "registrationNumber": "CC53900",
+  "name": "Khalsa Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-10-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.khalsanetwork.org",
+  "email": "singh_js@hotmail.com",
+  "address": {
+    "line1": "143A Alfriston Road",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2105"
+  },
+  "nzbn": "9429043311446",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T05:06:44Z"
+}

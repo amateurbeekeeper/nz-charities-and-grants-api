@@ -1,0 +1,27 @@
+{
+  "id": 54925,
+  "registrationNumber": "CC22564",
+  "name": "Kāhui Tū Kaha Ltd",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kahuitukaha.co.nz",
+  "email": "terangiaruaru.hema@kahuitukaha.co.nz",
+  "address": {
+    "line1": "650 Great South Road",
+    "line2": "300 Great South Road",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429034400333",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:31:35Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40595,
+  "registrationNumber": "CC23870",
+  "name": "The Otanewainuku Kiwi Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kiwitrust.org",
+  "email": "info@kiwitrust.org",
+  "address": {
+    "line1": "PO Box 9311",
+    "line2": "Greerton",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3142"
+  },
+  "nzbn": "9429043116812",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T20:54:38Z"
+}

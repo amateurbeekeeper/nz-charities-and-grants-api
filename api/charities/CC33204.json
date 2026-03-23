@@ -1,0 +1,27 @@
+{
+  "id": 61137,
+  "registrationNumber": "CC33204",
+  "name": "Awaken City Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.awakencity.nz",
+  "email": "finance@awakencity.nz",
+  "address": {
+    "line1": "1048 Fergusson Drive",
+    "line2": " ",
+    "suburb": "Clouston Park",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429053235787",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T02:00:18Z"
+}

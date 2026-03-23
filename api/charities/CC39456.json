@@ -1,0 +1,27 @@
+{
+  "id": 61886,
+  "registrationNumber": "CC39456",
+  "name": "New Zealand Railways Staff Welfare Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzrwelfare.co.nz",
+  "email": "info@nzrwelfare.co.nz",
+  "address": {
+    "line1": "Level 4",
+    "line2": "Wellington Railway Station, Bunny Street",
+    "suburb": " Pipitea",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429042708780",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/nzrwelfare",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T19:36:14Z"
+}

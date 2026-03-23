@@ -1,0 +1,27 @@
+{
+  "id": 34320,
+  "registrationNumber": "CC50561",
+  "name": "House of Science Auckland",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2014-05-30T00:00:00Z",
+  "dateDeregistered": "2020-10-13T00:00:00Z",
+  "website": "http://houseofscience.nz/regions/auckland.html",
+  "email": "st.scown@gmail.com",
+  "address": {
+    "line1": "Level 16, 45 Queen Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043263370",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-11-19T22:26:17Z"
+}

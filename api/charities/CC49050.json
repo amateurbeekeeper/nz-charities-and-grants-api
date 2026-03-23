@@ -1,0 +1,27 @@
+{
+  "id": 32930,
+  "registrationNumber": "CC49050",
+  "name": "National Council of Women of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-08-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ncwnz.org.nz",
+  "email": "office@ncwnz.org.nz",
+  "address": {
+    "line1": "Level 4",
+    "line2": "Central House 26 Brandon Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042769286",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ncwnz.org.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T18:43:38Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54421,
+  "registrationNumber": "CC21174",
+  "name": "Community Action Nelson Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "can.nelson.nz@gmail.com",
+  "address": {
+    "line1": "44 Trafalgar Street",
+    "line2": " ",
+    "suburb": "The Wood",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042664765",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/communityactionnelson",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T03:06:57Z"
+}

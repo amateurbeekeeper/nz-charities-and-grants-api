@@ -1,0 +1,27 @@
+{
+  "id": 51898,
+  "registrationNumber": "CC10639",
+  "name": "Levin Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.levinbaptist.org.nz",
+  "email": "bev.page@xtra.co.nz",
+  "address": {
+    "line1": "17-19 Rugby Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LevinBaptistChurchNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T04:33:33Z"
+}

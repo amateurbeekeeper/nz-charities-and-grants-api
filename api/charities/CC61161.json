@@ -1,0 +1,27 @@
+{
+  "id": 74740,
+  "registrationNumber": "CC61161",
+  "name": "Te Weu Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teweu.nz",
+  "email": "info@coates.co.nz",
+  "address": {
+    "line1": "1st Floor The Works Building",
+    "line2": "41 The Esplanade",
+    "suburb": "Inner Harbour",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429051022099",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=te%20weu%20tairawhiti",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T02:59:12Z"
+}

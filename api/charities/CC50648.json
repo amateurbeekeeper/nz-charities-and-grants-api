@@ -1,0 +1,27 @@
+{
+  "id": 34389,
+  "registrationNumber": "CC50648",
+  "name": "Techvana Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.techvana.org.nz",
+  "email": "mark.barlow@techvana.org.nz",
+  "address": {
+    "line1": "673 Te Atatu Road",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429043267767",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZComputerMuseum",
+    "twitter": "https://twitter.com/techvananz"
+  },
+  "lastUpdated": "2025-09-29T00:25:45Z"
+}

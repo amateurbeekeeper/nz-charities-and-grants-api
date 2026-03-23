@@ -1,0 +1,27 @@
+{
+  "id": 54804,
+  "registrationNumber": "CC21387",
+  "name": "The Hills Radio Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.oar.org.nz",
+  "email": "manager@oar.org.nz",
+  "address": {
+    "line1": "43 Princes Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043078127",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/OtagoAccessRadio",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T22:56:05Z"
+}

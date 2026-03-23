@@ -1,0 +1,27 @@
+{
+  "id": 77489,
+  "registrationNumber": "CC63283",
+  "name": "The Avenue Village NZ Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://avenuevillagenz.org/",
+  "email": "elson.panisigan@avenuevillagenz.org",
+  "address": {
+    "line1": "5 Coprosma Road",
+    "line2": " ",
+    "suburb": "Wigram",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/theavenuevillagenz/",
+    "twitter": "https://x.com/avenuevillagenz?s=21&t=P-2rTJtstYtr2RInesKSnw"
+  },
+  "lastUpdated": "2025-05-19T18:33:51Z"
+}

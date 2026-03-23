@@ -1,0 +1,27 @@
+{
+  "id": 52801,
+  "registrationNumber": "CC20072",
+  "name": "Chinmaya Mission - New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.chinmaya.org.nz",
+  "email": "accounts@chinmaya.org.nz",
+  "address": {
+    "line1": "63 McKenzie Road",
+    "line2": " ",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429043070343",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T20:37:04Z"
+}

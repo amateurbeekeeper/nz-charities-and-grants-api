@@ -1,0 +1,27 @@
+{
+  "id": 76167,
+  "registrationNumber": "CC62577",
+  "name": "Therapy Ponies NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://therapyponiesnz.com",
+  "email": "sarahlewis10@hotmail.com",
+  "address": {
+    "line1": "516 Old Kaipara Road",
+    "line2": "RD 1",
+    "suburb": "Kaipara Flats",
+    "city": "Warkworth",
+    "postcode": "0981"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "therapyponiesnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T08:36:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 61411,
+  "registrationNumber": "CC35496",
+  "name": "The Ponatahi Christian School",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2020-03-17T00:00:00Z",
+  "website": "http://www.ponatahi.school.nz",
+  "email": "principal@ponatahi.school.nz",
+  "address": {
+    "line1": "6 Howard Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Carterton",
+    "postcode": "5713"
+  },
+  "nzbn": "9429043009886",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-03-16T20:25:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42062,
+  "registrationNumber": "CC24437",
+  "name": "The Rotoroa Island Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rotoroa.org.nz",
+  "email": "leigh.cooke@rotoroa.org.nz",
+  "address": {
+    "line1": "C/-  Nexia",
+    "line2": "Level 1, 5 William Laurie Place",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429032937367",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RotoroaIslandNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-07T23:12:56Z"
+}

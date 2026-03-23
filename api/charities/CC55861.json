@@ -1,0 +1,27 @@
+{
+  "id": 69509,
+  "registrationNumber": "CC55861",
+  "name": "The Chemo Crazies Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.thechemocrazies.co.nz",
+  "email": "thechemocrazies@gmail.com",
+  "address": {
+    "line1": "139 Chelmsford Street",
+    "line2": " ",
+    "suburb": "Windsor",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429043378692",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "thechemocrazies",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T06:18:01Z"
+}

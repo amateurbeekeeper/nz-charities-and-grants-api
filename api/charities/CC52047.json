@@ -1,0 +1,27 @@
+{
+  "id": 65801,
+  "registrationNumber": "CC52047",
+  "name": "Gisborne Y Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ymcagisborne.org.nz",
+  "email": "ceo@ymcagisborne.nz",
+  "address": {
+    "line1": "447 Childers Road",
+    "line2": " ",
+    "suburb": "Te Hapara",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429045796982",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T06:05:14Z"
+}

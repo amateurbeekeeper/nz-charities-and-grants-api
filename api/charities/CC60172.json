@@ -1,0 +1,27 @@
+{
+  "id": 73721,
+  "registrationNumber": "CC60172",
+  "name": "Taieri Network",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taierinetwork.co.nz",
+  "email": "sam@alleviateadmin.co.nz",
+  "address": {
+    "line1": "176 Gordon Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mosgiel",
+    "postcode": "9024"
+  },
+  "nzbn": "9429050090013",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Taieri Network",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-28T07:17:00Z"
+}

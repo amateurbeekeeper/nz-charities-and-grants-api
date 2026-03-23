@@ -1,0 +1,27 @@
+{
+  "id": 49551,
+  "registrationNumber": "CC31390",
+  "name": "Manawatu Lutheran Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lutheran.org.nz",
+  "email": "manawatulutheran@inspire.net.nz",
+  "address": {
+    "line1": "250 Church Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/Manawatu Lutheran Parish / Palmerston North",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-29T19:15:43Z"
+}

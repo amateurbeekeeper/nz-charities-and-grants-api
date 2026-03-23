@@ -1,0 +1,27 @@
+{
+  "id": 48566,
+  "registrationNumber": "CC27786",
+  "name": "Auckland Indian Assembly of God Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.indianclc.org",
+  "email": "moses@indianclc.org",
+  "address": {
+    "line1": "Unit 8",
+    "line2": "23 Springs Road",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429042926184",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T19:09:57Z"
+}

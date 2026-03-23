@@ -1,0 +1,27 @@
+{
+  "id": 71900,
+  "registrationNumber": "CC58279",
+  "name": "LaddersUp Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-08-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://laddersup.org.nz/",
+  "email": "carla.bentley@laddersup.org.nz",
+  "address": {
+    "line1": "914 Whitemans Valley Road",
+    "line2": "RD 1",
+    "suburb": "Whitemans Valley",
+    "city": "Upper Hutt",
+    "postcode": "5371"
+  },
+  "nzbn": "9429048295130",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LaddersUpNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T18:06:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63670,
+  "registrationNumber": "CC41589",
+  "name": "Rangiora Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rangioratoylibrary.co.nz",
+  "email": "hello@rangioratoylibrary.co.nz",
+  "address": {
+    "line1": "1 Blackett Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": "9429042814870",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/rangioratoylibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T22:40:05Z"
+}

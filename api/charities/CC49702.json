@@ -1,0 +1,27 @@
+{
+  "id": 33535,
+  "registrationNumber": "CC49702",
+  "name": "Wakatipu High School Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-09-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.whsf.nz",
+  "email": "daniel.gibbons@findex.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "13 Camp Street",
+    "suburb": " ",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Wakatipuhsfoundation/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T21:41:23Z"
+}

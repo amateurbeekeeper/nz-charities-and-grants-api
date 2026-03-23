@@ -1,0 +1,27 @@
+{
+  "id": 33242,
+  "registrationNumber": "CC48768",
+  "name": "Stroma New Music Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-12-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.stroma.co.nz",
+  "email": "michael.norris@vuw.ac.nz",
+  "address": {
+    "line1": "13 Waitoa Road",
+    "line2": " ",
+    "suburb": "Hataitai",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043302437",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/stromanewmusicensemble/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T19:11:16Z"
+}

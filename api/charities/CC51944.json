@@ -1,0 +1,27 @@
+{
+  "id": 65693,
+  "registrationNumber": "CC51944",
+  "name": "Birkenhead Senior Citizens Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bsca.org.nz",
+  "email": "info@bsca.org.nz",
+  "address": {
+    "line1": "251 Hinemoa Street",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429042600367",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "0",
+    "twitter": "0"
+  },
+  "lastUpdated": "2025-10-24T01:46:39Z"
+}

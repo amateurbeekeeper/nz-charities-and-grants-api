@@ -1,0 +1,27 @@
+{
+  "id": 58153,
+  "registrationNumber": "CC38935",
+  "name": "Whakatu Group Riding for the Disabled Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rda.org.nz/RDAgroups/Whakatu.htm",
+  "email": "whakaturdaoffice@gmail.com",
+  "address": {
+    "line1": "Andrews Farm",
+    "line2": "Tantragee Road",
+    "suburb": "The Brook",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042921950",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WhakatuRDA/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:13:05Z"
+}

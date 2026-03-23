@@ -1,0 +1,27 @@
+{
+  "id": 44115,
+  "registrationNumber": "CC37450",
+  "name": "Kaiwaka Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kaiwakamarae.co.nz/",
+  "email": "ma2wiremu@gmail.com",
+  "address": {
+    "line1": "15 Poroporo Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tikitiki",
+    "postcode": "4086"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/701260196601977",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:28:46Z"
+}

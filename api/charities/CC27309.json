@@ -1,0 +1,27 @@
+{
+  "id": 58028,
+  "registrationNumber": "CC27309",
+  "name": "Flaxmere Christian Fellowship",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nigel.woodley@xtra.co.nz",
+  "address": {
+    "line1": "220 Flaxmere Avenue",
+    "line2": "Flaxmere",
+    "suburb": "Flaxmere",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429042703891",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T01:01:58Z"
+}

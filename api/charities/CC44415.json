@@ -1,0 +1,27 @@
+{
+  "id": 50527,
+  "registrationNumber": "CC44415",
+  "name": "Hope Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "hopepreschool.co.nz",
+  "email": "admin@hopepreschool.co.nz",
+  "address": {
+    "line1": "1 Carlyle Street",
+    "line2": "Mataura 9712",
+    "suburb": "Gore",
+    "city": "Mataura",
+    "postcode": "9712"
+  },
+  "nzbn": "9429043191758",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T02:17:14Z"
+}

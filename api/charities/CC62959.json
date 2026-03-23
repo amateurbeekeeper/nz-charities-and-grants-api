@@ -1,0 +1,27 @@
+{
+  "id": 76885,
+  "registrationNumber": "CC62959",
+  "name": "Love Inspiration",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.loveinspiration.org.nz/",
+  "email": "love@loveinspiration.org.nz",
+  "address": {
+    "line1": "40 Jack Lovelock Track",
+    "line2": "RD 17",
+    "suburb": " ",
+    "city": "Fairlie",
+    "postcode": "7987"
+  },
+  "nzbn": "9429052129841",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/loveinspiration.org.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-14T04:21:35Z"
+}

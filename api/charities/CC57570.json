@@ -1,0 +1,27 @@
+{
+  "id": 71192,
+  "registrationNumber": "CC57570",
+  "name": "Te Paatu ki Kauhanga Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kauhanga.nz ",
+  "email": "tina@kauhanga.nz",
+  "address": {
+    "line1": "80 Honeymoon Valley Road",
+    "line2": "RD 2",
+    "suburb": "Peria",
+    "city": "Kaitaia",
+    "postcode": "0482"
+  },
+  "nzbn": "9429047409620",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Kauhanga",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T04:31:17Z"
+}

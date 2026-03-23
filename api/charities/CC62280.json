@@ -1,0 +1,27 @@
+{
+  "id": 75823,
+  "registrationNumber": "CC62280",
+  "name": "Mixx Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-12-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://mixx.nz",
+  "email": "brendan@xit.co.nz",
+  "address": {
+    "line1": "28 Long Street",
+    "line2": null,
+    "suburb": "Woolston",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T18:28:35Z"
+}

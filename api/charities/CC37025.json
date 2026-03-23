@@ -1,0 +1,27 @@
+{
+  "id": 44695,
+  "registrationNumber": "CC37025",
+  "name": "The Rotary Club of Auckland Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://aucklandrotary.org.nz/",
+  "email": "thomas@bcca.co.nz",
+  "address": {
+    "line1": "4th Floor, Smith & Caughey Building",
+    "line2": "253 Queen Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T22:53:52Z"
+}

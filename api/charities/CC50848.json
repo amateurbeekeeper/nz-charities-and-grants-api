@@ -1,0 +1,27 @@
+{
+  "id": 34493,
+  "registrationNumber": "CC50848",
+  "name": "Te Piki Oranga Limited",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-08-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tpo.org.nz/",
+  "email": "anne.hobby@tpo.org.nz",
+  "address": {
+    "line1": "199 Nayland Road",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429041039625",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tepikioranga/",
+    "twitter": "https://twitter.com/Te_Piki_Oranga "
+  },
+  "lastUpdated": "2026-01-26T01:22:35Z"
+}

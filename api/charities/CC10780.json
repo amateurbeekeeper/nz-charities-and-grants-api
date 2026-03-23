@@ -1,0 +1,27 @@
+{
+  "id": 51994,
+  "registrationNumber": "CC10780",
+  "name": "Powley Village Christian Fellowship",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.metlifecare.co.nz",
+  "email": "nicky.foster@xtra.co.nz",
+  "address": {
+    "line1": "Powley Village",
+    "line2": "135 Connell Street",
+    "suburb": "Blockhouse Bay",
+    "city": "Auckland",
+    "postcode": "600"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-23T22:48:23Z"
+}

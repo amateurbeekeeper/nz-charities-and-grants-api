@@ -1,0 +1,27 @@
+{
+  "id": 52791,
+  "registrationNumber": "CC20397",
+  "name": "Ngaitai Iwi Authority",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2023-04-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ngaitai.iwi.nz",
+  "email": "carlenenz@gmail.com",
+  "address": {
+    "line1": "State Highway 35",
+    "line2": " ",
+    "suburb": "Torere",
+    "city": "Opotiki",
+    "postcode": "3197"
+  },
+  "nzbn": "9429042937463",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100087908842851",
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-11T06:01:47Z"
+}

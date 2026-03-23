@@ -1,0 +1,27 @@
+{
+  "id": 56994,
+  "registrationNumber": "CC36394",
+  "name": "Society Of St Vincent De Paul South and Mid Canterbury Area Council",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-07-01T00:00:00Z",
+  "website": "http://www.svdp.org.nz",
+  "email": "admin@svdp.org.nz",
+  "address": {
+    "line1": "Floor 1",
+    "line2": "35 Victoria Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T06:03:56Z"
+}

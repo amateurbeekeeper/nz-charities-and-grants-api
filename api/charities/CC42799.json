@@ -1,0 +1,27 @@
+{
+  "id": 62479,
+  "registrationNumber": "CC42799",
+  "name": "Kirwee Rugby Football Club (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kirweerugby.co.nz/",
+  "email": "kirweerugby.secretary@gmail.com",
+  "address": {
+    "line1": "40 High Street",
+    "line2": "Kirwee 7571",
+    "suburb": " ",
+    "city": "Kirwee",
+    "postcode": "7571"
+  },
+  "nzbn": "9429042660644",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Kirwee RFC",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T00:22:34Z"
+}

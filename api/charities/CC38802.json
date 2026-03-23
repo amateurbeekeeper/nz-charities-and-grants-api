@@ -1,0 +1,27 @@
+{
+  "id": 63823,
+  "registrationNumber": "CC38802",
+  "name": "Lifewalk Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lifewalk.org.nz",
+  "email": "heidi@lifewalk.org.nz",
+  "address": {
+    "line1": "55 Hugo Johnston Drive",
+    "line2": " ",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043096954",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T05:08:12Z"
+}

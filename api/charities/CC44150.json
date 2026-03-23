@@ -1,0 +1,27 @@
+{
+  "id": 50118,
+  "registrationNumber": "CC44150",
+  "name": "The Council of Christians and Muslims (NZ) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.theccm.org.nz",
+  "email": "admin@theccm.org.nz",
+  "address": {
+    "line1": "74 Parau Street",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429042999706",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/COUNCILCM/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-06T04:38:31Z"
+}

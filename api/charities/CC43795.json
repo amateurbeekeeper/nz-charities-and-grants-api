@@ -1,0 +1,27 @@
+{
+  "id": 50226,
+  "registrationNumber": "CC43795",
+  "name": "House of Nations",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "robinhorn@xtra.co.nz",
+  "address": {
+    "line1": "29 Lenore Road",
+    "line2": " ",
+    "suburb": "Favona",
+    "city": "Auckland",
+    "postcode": "2024"
+  },
+  "nzbn": "9429043211616",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T06:40:08Z"
+}

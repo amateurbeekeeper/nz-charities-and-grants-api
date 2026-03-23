@@ -1,0 +1,27 @@
+{
+  "id": 63929,
+  "registrationNumber": "CC39054",
+  "name": "Hurunui Trails Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hurunuitrails.org.nz",
+  "email": "trailstrust.hurunui@gmail.com",
+  "address": {
+    "line1": "1102 Glenmark Drive",
+    "line2": " ",
+    "suburb": "Omihi",
+    "city": "Waipara",
+    "postcode": "7483"
+  },
+  "nzbn": "9429043094745",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hurunuitrails/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T08:15:27Z"
+}

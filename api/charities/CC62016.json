@@ -1,0 +1,27 @@
+{
+  "id": 75570,
+  "registrationNumber": "CC62016",
+  "name": "The Out of School Care Network Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-11-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.oscn.nz",
+  "email": "oscn.manager@xtra.co.nz",
+  "address": {
+    "line1": "15 London Street",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429051703585",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:22:57Z"
+}

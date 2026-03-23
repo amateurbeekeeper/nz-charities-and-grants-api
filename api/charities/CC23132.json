@@ -1,0 +1,27 @@
+{
+  "id": 55248,
+  "registrationNumber": "CC23132",
+  "name": "Remutaka Volunteer Fire Brigade Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "steve.phillips@fireandemergency.nz",
+  "address": {
+    "line1": "C/- Remutaka Fire Station",
+    "line2": "35 - 37 Park Street",
+    "suburb": " Kingsley Heights",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429043171804",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/uhrff/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:49:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73316,
+  "registrationNumber": "CC59767",
+  "name": "Plastic Solution Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.psbeaches.com",
+  "email": "hello@psbeaches.com",
+  "address": {
+    "line1": "11 Whincops Road",
+    "line2": " ",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429050557967",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/psbeaches",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-27T12:44:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67532,
+  "registrationNumber": "CC53831",
+  "name": "Stonewood Foundation",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2016-01-12T00:00:00Z",
+  "dateDeregistered": "2022-04-01T00:00:00Z",
+  "website": null,
+  "email": "john.chow@stonewoodgroup.co.nz",
+  "address": {
+    "line1": "Shed 19",
+    "line2": "137 Quay Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-04-18T00:13:19Z"
+}

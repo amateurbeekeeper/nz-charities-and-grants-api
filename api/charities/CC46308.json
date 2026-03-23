@@ -1,0 +1,27 @@
+{
+  "id": 36780,
+  "registrationNumber": "CC46308",
+  "name": "Bethesda Church",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2011-03-09T00:00:00Z",
+  "dateDeregistered": "2018-06-22T00:00:00Z",
+  "website": null,
+  "email": "mjkim30@hotmail.com",
+  "address": {
+    "line1": "5 Nile Road",
+    "line2": null,
+    "suburb": "Milford",
+    "city": "Auckland",
+    "postcode": "620"
+  },
+  "nzbn": "9429043221745",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-05-04T02:37:34Z"
+}

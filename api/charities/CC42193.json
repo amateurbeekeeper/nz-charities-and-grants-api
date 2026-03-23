@@ -1,0 +1,27 @@
+{
+  "id": 50910,
+  "registrationNumber": "CC42193",
+  "name": "Takitimu District Pool Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "takitimupoolacc@gmail.com",
+  "address": {
+    "line1": "3B Hastings Street",
+    "line2": "Ohai 9635",
+    "suburb": "Ohai",
+    "city": "Ohai",
+    "postcode": "9635"
+  },
+  "nzbn": "9429043204779",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/takitimudistrictpool/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T21:05:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65668,
+  "registrationNumber": "CC51925",
+  "name": "St Aidans Presbyterian Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-06-10T00:00:00Z",
+  "dateDeregistered": "2021-03-31T00:00:00Z",
+  "website": "staidans.online",
+  "email": "greg@clevedonpresy.co.nz",
+  "address": {
+    "line1": "23 Walter Strevens Drive",
+    "line2": " ",
+    "suburb": "Conifer Grove",
+    "city": "Takanini",
+    "postcode": "2112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-12-04T00:24:50Z"
+}

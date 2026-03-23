@@ -1,0 +1,27 @@
+{
+  "id": 60668,
+  "registrationNumber": "CC33757",
+  "name": "Maungatapere Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "maungatapere@playcentre.org.nz",
+  "address": {
+    "line1": "Mangakahia Road",
+    "line2": "Maungatapere",
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T21:54:32Z"
+}

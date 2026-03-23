@@ -1,0 +1,27 @@
+{
+  "id": 55166,
+  "registrationNumber": "CC22368",
+  "name": "Covenant Presbyterian Church (Manurewa) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.covenantchurch.org.nz",
+  "email": "covenantpresbyterianchurch@gmail.com",
+  "address": {
+    "line1": "77 Rogers Road",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": "9429043021666",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/covenantchurchmanurewa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T21:32:04Z"
+}

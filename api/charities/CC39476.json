@@ -1,0 +1,27 @@
+{
+  "id": 43327,
+  "registrationNumber": "CC39476",
+  "name": "Paeroa Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-21T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/paeroa/",
+  "email": "paeroa@playcentre.org.nz",
+  "address": {
+    "line1": "58 Aorangi Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paeroa",
+    "postcode": "3600"
+  },
+  "nzbn": "9429032768732",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T07:13:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 59340,
+  "registrationNumber": "CC35875",
+  "name": "Cobblestones Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cobblestonesmuseum.org.nz",
+  "email": "cobblestonesmuseumgreytown@gmail.com",
+  "address": {
+    "line1": "169 Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greytown",
+    "postcode": "5712"
+  },
+  "nzbn": "9429042666639",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:58:49Z"
+}

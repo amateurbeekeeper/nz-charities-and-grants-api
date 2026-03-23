@@ -1,0 +1,27 @@
+{
+  "id": 51512,
+  "registrationNumber": "CC10535",
+  "name": "Palmerston North Street Van Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://pnsv.org.nz",
+  "email": "peter@pnsv.org.nz",
+  "address": {
+    "line1": "29 King Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042939061",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PalmerstonNorthStreetVan/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T22:11:17Z"
+}

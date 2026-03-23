@@ -1,0 +1,27 @@
+{
+  "id": 68750,
+  "registrationNumber": "CC55090",
+  "name": "Mana Hapori Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-01-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://manahapori.co.nz",
+  "email": "accounts@manahapori.co.nz",
+  "address": {
+    "line1": "18 Raleigh Street",
+    "line2": " ",
+    "suburb": "Leamington",
+    "city": "Cambridge",
+    "postcode": "3432"
+  },
+  "nzbn": "9429046333193",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/manahapori/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T21:15:05Z"
+}

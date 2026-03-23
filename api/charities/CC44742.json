@@ -1,0 +1,27 @@
+{
+  "id": 35733,
+  "registrationNumber": "CC44742",
+  "name": "Te Awamutu Community Health Transport Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-07-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tahs.org.nz/",
+  "email": "admin@tahs.org.nz",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "653 Cambridge Road",
+    "suburb": " ",
+    "city": "Te Awamutu",
+    "postcode": "3800"
+  },
+  "nzbn": "9429043209279",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T23:58:41Z"
+}

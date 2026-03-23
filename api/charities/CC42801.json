@@ -1,0 +1,27 @@
+{
+  "id": 46897,
+  "registrationNumber": "CC42801",
+  "name": "Mainland Sports Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "simon.hollander@xtra.co.nz",
+  "address": {
+    "line1": "292 Clyde Road",
+    "line2": " ",
+    "suburb": "Bryndwr",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429034650974",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T23:46:13Z"
+}

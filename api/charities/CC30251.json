@@ -1,0 +1,27 @@
+{
+  "id": 48144,
+  "registrationNumber": "CC30251",
+  "name": "Bay Of Plenty Music School ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.bopmusicschool.org.nz",
+  "email": "jimscrivener56@gmail.com",
+  "address": {
+    "line1": "30 Hine Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043247639",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/bayofplentymusicschool",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:33:21Z"
+}

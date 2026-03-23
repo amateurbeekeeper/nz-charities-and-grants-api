@@ -1,0 +1,27 @@
+{
+  "id": 38385,
+  "registrationNumber": "CC46311",
+  "name": "Mana Whenua i Tamaki Makaurau",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2019-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "brownmoana@gmail.com",
+  "address": {
+    "line1": "12 Ashwell Drive",
+    "line2": "RD 5",
+    "suburb": "Port Waikato",
+    "city": "Tuakau",
+    "postcode": "2695"
+  },
+  "nzbn": "9429043094707",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T23:02:45Z"
+}

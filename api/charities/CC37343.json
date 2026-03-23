@@ -1,0 +1,27 @@
+{
+  "id": 64521,
+  "registrationNumber": "CC37343",
+  "name": "Tauranga South Community Patrol",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tscp.org.nz",
+  "email": "secretary@tscp.org.nz",
+  "address": {
+    "line1": "42 Faulkner Street",
+    "line2": " ",
+    "suburb": "Gate Pa",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pg/TSCP.org.nz/posts/?ref=page_internal",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-02T20:28:06Z"
+}

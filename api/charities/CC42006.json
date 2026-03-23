@@ -1,0 +1,27 @@
+{
+  "id": 48601,
+  "registrationNumber": "CC42006",
+  "name": "Torbay Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "torbay@playcentre.org.nz",
+  "address": {
+    "line1": "35 Watea Road",
+    "line2": " ",
+    "suburb": "Torbay",
+    "city": "Auckland",
+    "postcode": "630"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:11:07Z"
+}

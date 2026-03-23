@@ -1,0 +1,27 @@
+{
+  "id": 71867,
+  "registrationNumber": "CC58255",
+  "name": "Upper Hutt Repair Cafe Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-09-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.uhrepaircafe.org.nz",
+  "email": "chair@uhrepaircafe.org.nz",
+  "address": {
+    "line1": "10 Hinau Street",
+    "line2": " ",
+    "suburb": "Woburn",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429048536950",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/uhrepaircafe/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T20:58:31Z"
+}

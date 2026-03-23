@@ -1,0 +1,27 @@
+{
+  "id": 72912,
+  "registrationNumber": "CC59304",
+  "name": "Hope Hostels Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hopehostels.org.nz",
+  "email": "info@hopehostels.org.nz",
+  "address": {
+    "line1": "159 Parakiore Road",
+    "line2": "RD 6",
+    "suburb": "Ngararatunua",
+    "city": "Whangarei",
+    "postcode": "0176"
+  },
+  "nzbn": "9429049439885",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T23:06:59Z"
+}

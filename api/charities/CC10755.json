@@ -1,0 +1,27 @@
+{
+  "id": 52008,
+  "registrationNumber": "CC10755",
+  "name": "The Suter Art Gallery Te Aratoi o Whakatu Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thesuter.org.nz",
+  "email": "toni.mackinnon@thesuter.org.nz",
+  "address": {
+    "line1": "BISHOP SUTER TRUST BOARD",
+    "line2": "208 Bridge Street",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043171521",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T21:08:42Z"
+}

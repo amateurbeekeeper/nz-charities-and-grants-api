@@ -1,0 +1,27 @@
+{
+  "id": 71017,
+  "registrationNumber": "CC57391",
+  "name": "Nature School Dunedin",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dunedinnature.school/",
+  "email": "lizzie@dunedinnature.school",
+  "address": {
+    "line1": "200 Doctors Point Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Waitati",
+    "postcode": "9085"
+  },
+  "nzbn": "9429047737235",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/natureschooldunedin/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:44:46Z"
+}

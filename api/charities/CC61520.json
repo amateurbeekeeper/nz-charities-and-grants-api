@@ -1,0 +1,27 @@
+{
+  "id": 75090,
+  "registrationNumber": "CC61520",
+  "name": "Tuatara Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "tuatarafoundation.org",
+  "email": "noel@daviesgroup.nz",
+  "address": {
+    "line1": "71 Albany Road",
+    "line2": " ",
+    "suburb": "Ponsonby",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Tuatarafoundation/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T20:12:29Z"
+}

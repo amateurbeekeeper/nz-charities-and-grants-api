@@ -1,0 +1,27 @@
+{
+  "id": 38013,
+  "registrationNumber": "CC47907",
+  "name": "Aphasia New Zealand (AphasiaNZ) Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aphasia.org.nz",
+  "email": "info@aphasia.org.nz",
+  "address": {
+    "line1": "36 Cameron Road",
+    "line2": " ",
+    "suburb": "Tauranga Central",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043237920",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/AphasiaNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T04:50:13Z"
+}

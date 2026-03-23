@@ -1,0 +1,27 @@
+{
+  "id": 77774,
+  "registrationNumber": "CC63574",
+  "name": "Age Concern Southland Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-07-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://acinv.org.nz",
+  "email": "janette@acinv.org.nz",
+  "address": {
+    "line1": "50 Forth Street",
+    "line2": "Invercargill 9810",
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ageconcernsouth",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T23:30:34Z"
+}

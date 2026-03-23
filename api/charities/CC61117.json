@@ -1,0 +1,27 @@
+{
+  "id": 74699,
+  "registrationNumber": "CC61117",
+  "name": "Heart Sanctuary Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-03-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "heartsanctuary.nz@gmail.com",
+  "address": {
+    "line1": "Flat 8",
+    "line2": "41 Paul Matthews Road",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429048780131",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-17T02:40:35Z"
+}

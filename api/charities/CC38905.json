@@ -1,0 +1,27 @@
+{
+  "id": 58124,
+  "registrationNumber": "CC38905",
+  "name": "Dunedin Riding For The Disabled Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2022-10-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rdadunedin.org/",
+  "email": "treasurer@rdadunedin.org",
+  "address": {
+    "line1": "98 Flower Street",
+    "line2": " ",
+    "suburb": "Fairfield",
+    "city": "Dunedin",
+    "postcode": "9018"
+  },
+  "nzbn": "9429042663867",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RDADunedin/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T05:30:44Z"
+}

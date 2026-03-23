@@ -1,0 +1,27 @@
+{
+  "id": 72299,
+  "registrationNumber": "CC58682",
+  "name": "Pro Love",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://prolove.co.nz/",
+  "email": "loreneneilson@gmail.com",
+  "address": {
+    "line1": "21 McDivitt Street",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": "9429048967518",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PROLOVEinaction",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T19:11:52Z"
+}

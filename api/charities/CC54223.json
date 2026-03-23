@@ -1,0 +1,27 @@
+{
+  "id": 67908,
+  "registrationNumber": "CC54223",
+  "name": "Tangoio Marae Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-02-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "maraetreasurer@tangoio.maori.nz",
+  "address": {
+    "line1": "1826 State Highway 2",
+    "line2": "Tangoio 4181",
+    "suburb": " ",
+    "city": "Tangoio",
+    "postcode": "4181"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Tangoio Marae",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T01:01:05Z"
+}

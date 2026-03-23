@@ -1,0 +1,27 @@
+{
+  "id": 34694,
+  "registrationNumber": "CC51253",
+  "name": "Hastings Revive Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-11-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.revivechurch.co.nz",
+  "email": "rachelw@counted.co.nz",
+  "address": {
+    "line1": "703 Ballantyne Street",
+    "line2": " ",
+    "suburb": "Frimley",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429043256914",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook/Revive-Church-Hastings",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T18:32:39Z"
+}

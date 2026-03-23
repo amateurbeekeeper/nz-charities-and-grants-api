@@ -1,0 +1,27 @@
+{
+  "id": 66630,
+  "registrationNumber": "CC52901",
+  "name": "Kind Hearts Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.kindheartsmovement.org",
+  "email": "ceo@kindheartsmovement.org",
+  "address": {
+    "line1": "89 Rangitikei Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429043294145",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/kindheartsmovement",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T00:37:45Z"
+}

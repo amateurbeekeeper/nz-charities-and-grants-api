@@ -1,0 +1,27 @@
+{
+  "id": 72639,
+  "registrationNumber": "CC59034",
+  "name": "A Stormy Afternoon",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jordandavies95@gmail.com",
+  "address": {
+    "line1": "4 Royal Oaks Lane",
+    "line2": "RD 6",
+    "suburb": "Newstead",
+    "city": "Hamilton",
+    "postcode": "3286"
+  },
+  "nzbn": "9429049401431",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-27T02:57:29Z"
+}

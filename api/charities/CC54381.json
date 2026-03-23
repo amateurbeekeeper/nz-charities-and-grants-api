@@ -1,0 +1,27 @@
+{
+  "id": 68055,
+  "registrationNumber": "CC54381",
+  "name": "New Zealand Kachin Baptist Church, Auckland",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "changmarip@gmail.com",
+  "address": {
+    "line1": "67 Mili Way South",
+    "line2": " ",
+    "suburb": "Ranui",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Nzkbc Auckland",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:30:32Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51936,
+  "registrationNumber": "CC10716",
+  "name": "Christian Agape Centre Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.agape.org.nz",
+  "email": "prjws@hotmail.com",
+  "address": {
+    "line1": "169 Symonds Street",
+    "line2": " ",
+    "suburb": "Eden Terrace",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043138586",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "social@christianagapecentre.com",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T08:12:49Z"
+}

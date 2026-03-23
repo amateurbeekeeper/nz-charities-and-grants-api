@@ -1,0 +1,27 @@
+{
+  "id": 33935,
+  "registrationNumber": "CC50207",
+  "name": "Hope Rescue Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hope.rescue.south.auckland@gmail.com",
+  "address": {
+    "line1": "620 Karaka Road",
+    "line2": "RD 1",
+    "suburb": "Karaka",
+    "city": "Papakura",
+    "postcode": "2580"
+  },
+  "nzbn": "9429043258185",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/Hope.rescue.sth.auck",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T22:55:04Z"
+}

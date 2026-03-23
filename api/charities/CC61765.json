@@ -1,0 +1,27 @@
+{
+  "id": 75326,
+  "registrationNumber": "CC61765",
+  "name": "GuruKool",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gurukool.co.nz",
+  "email": "archna@gurukool.co.nz",
+  "address": {
+    "line1": "25 Smarts Road",
+    "line2": "8 Goulding Avenue",
+    "suburb": "Hornby",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429051561789",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/GurukoolNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T22:39:22Z"
+}

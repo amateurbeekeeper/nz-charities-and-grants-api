@@ -1,0 +1,27 @@
+{
+  "id": 60449,
+  "registrationNumber": "CC36665",
+  "name": "New Zealand Computer Society Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2010-04-19T00:00:00Z",
+  "website": "http://www.nzcs.org.nz",
+  "email": "ceo@nzcs.org.nz",
+  "address": {
+    "line1": "158 The Terrace",
+    "line2": null,
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043262304",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-03-09T23:24:07Z"
+}

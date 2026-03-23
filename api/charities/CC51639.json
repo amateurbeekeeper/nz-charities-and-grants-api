@@ -1,0 +1,27 @@
+{
+  "id": 65406,
+  "registrationNumber": "CC51639",
+  "name": "Hearth Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hearthtrust.co.nz/",
+  "email": "hearthtrust@outlook.co.nz",
+  "address": {
+    "line1": "20 Drummond Crescent",
+    "line2": " ",
+    "suburb": "Kelson",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429043270798",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-05T07:22:45Z"
+}

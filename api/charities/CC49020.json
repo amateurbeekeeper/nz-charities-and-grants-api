@@ -1,0 +1,27 @@
+{
+  "id": 33456,
+  "registrationNumber": "CC49020",
+  "name": "Chatham Islands Asset Holdings Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-03-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.chathams.co.nz",
+  "email": "accounts@cietrust.co.nz",
+  "address": {
+    "line1": "Owenga Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Chatham Islands",
+    "postcode": null
+  },
+  "nzbn": "9429030626379",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T21:16:13Z"
+}

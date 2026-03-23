@@ -1,0 +1,27 @@
+{
+  "id": 54579,
+  "registrationNumber": "CC21937",
+  "name": "Murchison Community Resource Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "murchisoncrc@gmail.com",
+  "address": {
+    "line1": "47 Waller Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Murchison",
+    "postcode": "7007"
+  },
+  "nzbn": "9429042764915",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T05:12:44Z"
+}

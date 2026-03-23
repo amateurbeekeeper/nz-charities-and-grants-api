@@ -1,0 +1,27 @@
+{
+  "id": 70856,
+  "registrationNumber": "CC57223",
+  "name": "DreamUp",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-09-10T00:00:00Z",
+  "dateDeregistered": "2025-10-27T00:00:00Z",
+  "website": "https://dreamup.org.nz",
+  "email": "ayabartneck@gmail.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "56 Merrin Street",
+    "suburb": "Avonhead",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T06:03:38Z"
+}

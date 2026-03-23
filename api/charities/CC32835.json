@@ -1,0 +1,27 @@
+{
+  "id": 39530,
+  "registrationNumber": "CC32835",
+  "name": "Hot Water Beach Lifeguard Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sporty.co.nz/hotwaterbeachlifeguards",
+  "email": "treasurer@hwblgs.com",
+  "address": {
+    "line1": "35 Pye Place",
+    "line2": " ",
+    "suburb": "Hot Water Beach RD 1",
+    "city": "Whitianga",
+    "postcode": "3591"
+  },
+  "nzbn": "9429042924593",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Trust Waikato Hot Water Beach Lifeguard Service Inc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-05T19:55:26Z"
+}

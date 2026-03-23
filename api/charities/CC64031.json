@@ -1,0 +1,27 @@
+{
+  "id": 78222,
+  "registrationNumber": "CC64031",
+  "name": "Tidy Taranaki",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-10-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://givealittle.co.nz/cause/tidy-taranaki",
+  "email": "tidytaranaki@gmail.com",
+  "address": {
+    "line1": "1 Broadway",
+    "line2": null,
+    "suburb": null,
+    "city": "Waitara",
+    "postcode": "4320"
+  },
+  "nzbn": null,
+  "financialYearEnd": "25/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61579014010107",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-12T20:10:59Z"
+}

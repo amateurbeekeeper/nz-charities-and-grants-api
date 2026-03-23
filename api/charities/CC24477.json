@@ -1,0 +1,27 @@
+{
+  "id": 55722,
+  "registrationNumber": "CC24477",
+  "name": "Animal Health Board Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-05-16T00:00:00Z",
+  "dateDeregistered": "2014-02-16T00:00:00Z",
+  "website": "http://www.ahb.org.nz",
+  "email": "joy.tracey@ahb.org.nz",
+  "address": {
+    "line1": "L9 GUARDIAN TRUST HOUSE",
+    "line2": "15 Willeston Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042575276",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-12-07T20:37:27Z"
+}

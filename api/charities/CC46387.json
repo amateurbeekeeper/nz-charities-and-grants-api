@@ -1,0 +1,27 @@
+{
+  "id": 36347,
+  "registrationNumber": "CC46387",
+  "name": "University of Auckland Ski Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://uasc.co.nz/",
+  "email": "President@uasc.co.nz",
+  "address": {
+    "line1": "31 Harbour View Road",
+    "line2": " ",
+    "suburb": "Point Chevalier",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429043209095",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/UoAsnowsports",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-06T19:15:30Z"
+}

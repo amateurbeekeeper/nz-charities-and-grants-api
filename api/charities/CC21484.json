@@ -1,0 +1,27 @@
+{
+  "id": 53642,
+  "registrationNumber": "CC21484",
+  "name": "New Zealand Sikh Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2019-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ranjmann2312@gmail.com",
+  "address": {
+    "line1": "1418 Te Rapa Road",
+    "line2": "Horotiu 3288",
+    "suburb": "Te Rapa",
+    "city": "Horotiu",
+    "postcode": "3288"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-06T22:07:02Z"
+}

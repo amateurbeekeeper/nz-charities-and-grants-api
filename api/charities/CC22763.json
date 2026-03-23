@@ -1,0 +1,27 @@
+{
+  "id": 56074,
+  "registrationNumber": "CC22763",
+  "name": "SuperGrans Tairāwhiti Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://supergranstairawhiti.nz/",
+  "email": "gm@supergranstairawhiti.nz",
+  "address": {
+    "line1": "2 Pitt Street",
+    "line2": "Gisborne 4010",
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429043000890",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SuperGrans-Tairawhiti-Trust-200423086681088/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T01:24:58Z"
+}

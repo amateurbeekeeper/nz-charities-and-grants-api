@@ -1,0 +1,27 @@
+{
+  "id": 73016,
+  "registrationNumber": "CC59411",
+  "name": "Cultural Conversations",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.culturalconversations.co.nz",
+  "email": "sally@culturalconversations.co.nz",
+  "address": {
+    "line1": "123 Bridge Street",
+    "line2": "Nelson 7010",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429049796827",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/culturalconversationsnelson",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T00:19:33Z"
+}

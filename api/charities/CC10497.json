@@ -1,0 +1,27 @@
+{
+  "id": 52161,
+  "registrationNumber": "CC10497",
+  "name": "Whau Mental Health Research Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://whaufoundation.org.nz",
+  "email": "Murray.Bell@malnz.co.nz",
+  "address": {
+    "line1": "Building 1, Unit A, ",
+    "line2": "100 Bush Road",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429042776420",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T19:18:12Z"
+}

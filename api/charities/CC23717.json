@@ -1,0 +1,27 @@
+{
+  "id": 40582,
+  "registrationNumber": "CC23717",
+  "name": "Diabetes Wellington Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.diabeteswellington.org.nz",
+  "email": "office@diabeteswellington.org.nz",
+  "address": {
+    "line1": "138 Wakefield Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042840855",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/diabeteswellington",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T21:11:40Z"
+}

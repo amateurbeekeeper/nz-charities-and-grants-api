@@ -1,0 +1,27 @@
+{
+  "id": 50589,
+  "registrationNumber": "CC44795",
+  "name": "Kaiapoi Community Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kaiapoitoylibrary.org",
+  "email": "committee@kaiapoitoylibrary.org",
+  "address": {
+    "line1": "9 Cass Street",
+    "line2": "Kaiapoi 7630",
+    "suburb": " ",
+    "city": "Kaiapoi",
+    "postcode": "7630"
+  },
+  "nzbn": "9429042855316",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KaiapoiToyLibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T00:37:33Z"
+}

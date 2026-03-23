@@ -1,0 +1,27 @@
+{
+  "id": 41080,
+  "registrationNumber": "CC32651",
+  "name": "Straight Up Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rocksoliddunedin.co.nz",
+  "email": "manager@rocksoliddunedin.co.nz",
+  "address": {
+    "line1": "6 Kettle Park Road",
+    "line2": " ",
+    "suburb": "Saint Clair",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042952244",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T06:07:31Z"
+}

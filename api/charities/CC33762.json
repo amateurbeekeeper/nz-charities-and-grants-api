@@ -1,0 +1,27 @@
+{
+  "id": 49716,
+  "registrationNumber": "CC33762",
+  "name": "Taumarunui Community Kokiri Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kokiritrust.org.nz",
+  "email": "anna@peakca.co.nz",
+  "address": {
+    "line1": "121 Hakiaha Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Taumarunui",
+    "postcode": "3920"
+  },
+  "nzbn": "9429042919506",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T21:53:08Z"
+}

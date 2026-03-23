@@ -1,0 +1,27 @@
+{
+  "id": 55916,
+  "registrationNumber": "CC26028",
+  "name": "The Lifebuoy Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gtcc@pgtrust.co.nz",
+  "address": {
+    "line1": "C/O Perpetual Guardian ",
+    "line2": "Level 23, 191 Queen Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T22:59:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50510,
+  "registrationNumber": "CC44262",
+  "name": "Te Atatu Athletics Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://teatatuathleticsclub.co.nz",
+  "email": "teatatuathletics@gmail.com",
+  "address": {
+    "line1": "16G St Jerome Avenue",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429043097777",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/teatatuathletics/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T18:40:40Z"
+}

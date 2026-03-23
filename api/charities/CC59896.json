@@ -1,0 +1,27 @@
+{
+  "id": 73521,
+  "registrationNumber": "CC59896",
+  "name": "Kaikōura Wildlife Centre Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kaikourawildlifecentre.org",
+  "email": "kaikourawildlifecentretrust@gmail.com",
+  "address": {
+    "line1": "127 Mill Road",
+    "line2": " ",
+    "suburb": "Kaikoura Flat",
+    "city": "Kaikoura",
+    "postcode": "7300"
+  },
+  "nzbn": "9429050147403",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kaikourawildlifehospital",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:54:32Z"
+}

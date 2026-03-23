@@ -1,0 +1,27 @@
+{
+  "id": 50530,
+  "registrationNumber": "CC44828",
+  "name": "Red Hill Kindergarten",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cmka.org.nz",
+  "email": "carol@cmka.org.nz",
+  "address": {
+    "line1": "54 Redcrest Avenue",
+    "line2": null,
+    "suburb": "Red Hill",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T07:52:38Z"
+}

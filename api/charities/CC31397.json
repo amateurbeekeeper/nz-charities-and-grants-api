@@ -1,0 +1,27 @@
+{
+  "id": 56155,
+  "registrationNumber": "CC31397",
+  "name": "Roxburgh Thrift Shop",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "shellrox@xtra.co.nz",
+  "address": {
+    "line1": "7 Paisley Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Roxburgh",
+    "postcode": "9500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T02:11:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38605,
+  "registrationNumber": "CC45848",
+  "name": "The Longbush Ecological Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-12-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.waikereru.org",
+  "email": "a.salmond@auckland.ac.nz",
+  "address": {
+    "line1": "910 Riverside Road",
+    "line2": "Waimatā 4071",
+    "suburb": "Stanley Point",
+    "city": "Waimatā",
+    "postcode": "4071"
+  },
+  "nzbn": "9429043190973",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/1078101225563873",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T19:57:07Z"
+}

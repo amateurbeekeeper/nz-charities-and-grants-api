@@ -1,0 +1,27 @@
+{
+  "id": 66758,
+  "registrationNumber": "CC22667",
+  "name": "Braemar Hospital Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.braemarhospital.co.nz",
+  "email": "fiona.michel@braemarhospital.co.nz",
+  "address": {
+    "line1": "24 Ohaupo Road",
+    "line2": " ",
+    "suburb": "Hamilton Lake",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429037135263",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-08T03:37:58Z"
+}

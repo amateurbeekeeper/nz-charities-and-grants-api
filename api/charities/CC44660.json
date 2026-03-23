@@ -1,0 +1,27 @@
+{
+  "id": 50740,
+  "registrationNumber": "CC44660",
+  "name": "Kaiteriteri Mountain Bike Park Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bikekaiteriteri.co.nz",
+  "email": "david.ryder@talleys.co.nz",
+  "address": {
+    "line1": "84 Martin Farm Road",
+    "line2": "RD 2",
+    "suburb": "Kaiteriteri",
+    "city": "Motueka",
+    "postcode": "7197"
+  },
+  "nzbn": "9429043099160",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KaiteriteriMTBPark/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T21:10:16Z"
+}

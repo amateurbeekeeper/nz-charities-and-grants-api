@@ -1,0 +1,27 @@
+{
+  "id": 53385,
+  "registrationNumber": "CC21244",
+  "name": "The Southland Medical Foundation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@southlandmedicalfoundation.org.nz",
+  "address": {
+    "line1": "TH 45/ 40 O'Byrne Street North ",
+    "line2": " ",
+    "suburb": "Waikiwi",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042728580",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.southlandmedicalfoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T19:03:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 60693,
+  "registrationNumber": "CC30323",
+  "name": "New Zealand Chinese Christian Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzccc.nz",
+  "email": "nzccc91@gmail.com",
+  "address": {
+    "line1": "81 Ellice Road",
+    "line2": " ",
+    "suburb": "Wairau Valley",
+    "city": "Auckland",
+    "postcode": "629"
+  },
+  "nzbn": "9429042708070",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZCCC91/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T21:48:14Z"
+}

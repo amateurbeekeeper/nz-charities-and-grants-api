@@ -1,0 +1,27 @@
+{
+  "id": 75272,
+  "registrationNumber": "CC61695",
+  "name": "Opera Whanganui Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "richard@treadgord.co.nz",
+  "address": {
+    "line1": "1A Taupo Quay",
+    "line2": "Whanganui 4500",
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T20:41:46Z"
+}

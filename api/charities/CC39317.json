@@ -1,0 +1,27 @@
+{
+  "id": 42603,
+  "registrationNumber": "CC39317",
+  "name": "Canterbury Basketball Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.canterbury.basketball",
+  "email": "office@canterbury.basketball",
+  "address": {
+    "line1": "220 Pages Road",
+    "line2": "1 Brynley Street",
+    "suburb": "Wainoni",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429042602750",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T23:16:06Z"
+}

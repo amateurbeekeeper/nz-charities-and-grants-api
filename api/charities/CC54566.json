@@ -1,0 +1,27 @@
+{
+  "id": 68242,
+  "registrationNumber": "CC54566",
+  "name": "Te Matarau Education Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.temataraueducation.nz",
+  "email": "manager.tematarau@gmail.com",
+  "address": {
+    "line1": "6a Alexander Street",
+    "line2": " ",
+    "suburb": null,
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429046379108",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://web.facebook.com/tematarau/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:33:46Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74650,
+  "registrationNumber": "CC61066",
+  "name": "E Tū Tāngata Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://etutangata.nz",
+  "email": "jay@etutangata.nz",
+  "address": {
+    "line1": "1 Kairua Road",
+    "line2": " ",
+    "suburb": "Hornby",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429051138622",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@etutangata",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T21:27:20Z"
+}

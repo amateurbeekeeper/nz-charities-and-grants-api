@@ -1,0 +1,27 @@
+{
+  "id": 55024,
+  "registrationNumber": "CC21152",
+  "name": "The Printing Museum (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.theprintingmuseum.org.nz",
+  "email": "info@theprintingmuseum.org.nz",
+  "address": {
+    "line1": "54 Flux Road",
+    "line2": "RD 1",
+    "suburb": "Mangaroa",
+    "city": "Upper Hutt",
+    "postcode": "5371"
+  },
+  "nzbn": "9429042594000",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/theprintingmuseum/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-14T03:47:11Z"
+}

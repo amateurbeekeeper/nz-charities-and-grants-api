@@ -1,0 +1,27 @@
+{
+  "id": 47061,
+  "registrationNumber": "CC43222",
+  "name": "Assembly of God North Shore City Samoan",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-12-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "northshoresaog@xtra.co.nz",
+  "address": {
+    "line1": "41B View Road",
+    "line2": " ",
+    "suburb": "Wairau Valley",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429042581000",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "No",
+    "twitter": "No"
+  },
+  "lastUpdated": "2025-10-18T08:43:28Z"
+}

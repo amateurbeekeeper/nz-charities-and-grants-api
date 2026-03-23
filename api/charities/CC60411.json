@@ -1,0 +1,27 @@
+{
+  "id": 74008,
+  "registrationNumber": "CC60411",
+  "name": "Steadfast NZ Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "neilc@steadfastnz.nz",
+  "address": {
+    "line1": "55-65 Shortland Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:30:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 68320,
+  "registrationNumber": "CC54655",
+  "name": "Te Ahi Mauri Ki Murupara",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-06-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tiwcs.org.nz",
+  "email": "gteneti@tiwcs.org.nz",
+  "address": {
+    "line1": "5 Oregon Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Murupara",
+    "postcode": "3025"
+  },
+  "nzbn": "9429042859949",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Ika Whenua Counselling Services",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:33:46Z"
+}

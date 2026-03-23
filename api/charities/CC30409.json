@@ -1,0 +1,27 @@
+{
+  "id": 58881,
+  "registrationNumber": "CC30409",
+  "name": "Eun-Chong Presbyterian Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jiheonc@hotmail.com",
+  "address": {
+    "line1": "422 Mount Albert Road",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429042698517",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T19:59:42Z"
+}

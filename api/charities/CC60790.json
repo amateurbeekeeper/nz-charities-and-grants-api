@@ -1,0 +1,27 @@
+{
+  "id": 74383,
+  "registrationNumber": "CC60790",
+  "name": "Epic Music Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "alistair@epicma.nz",
+  "address": {
+    "line1": "5 Anaru Place",
+    "line2": " ",
+    "suburb": "Awapuni",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:29:01Z"
+}

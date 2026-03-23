@@ -1,0 +1,27 @@
+{
+  "id": 70800,
+  "registrationNumber": "CC57168",
+  "name": "Progressive Otane",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kateandlogie@outlook.com",
+  "address": {
+    "line1": "11 Carruthers Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Otane",
+    "postcode": "4202"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-12-27T23:06:49Z"
+}

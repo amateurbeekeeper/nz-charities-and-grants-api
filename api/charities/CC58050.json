@@ -1,0 +1,27 @@
+{
+  "id": 71673,
+  "registrationNumber": "CC58050",
+  "name": "Franklin Farm Sanctuary",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.franklinfarmsanctuary.co.nz",
+  "email": "2sallyhart@gmail.com",
+  "address": {
+    "line1": "509 Otuiti Road",
+    "line2": "RD 1",
+    "suburb": "Pukekawa",
+    "city": "Tuakau",
+    "postcode": "2696"
+  },
+  "nzbn": "9429048001441",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/franklinfarmsanctuary",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:59:32Z"
+}

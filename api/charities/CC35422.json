@@ -1,0 +1,27 @@
+{
+  "id": 40239,
+  "registrationNumber": "CC35422",
+  "name": "Montessori Aotearoa New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.montessori.org.nz",
+  "email": "ce@montessori.org.nz",
+  "address": {
+    "line1": "20 Molyneux Close",
+    "line2": " ",
+    "suburb": "Whitby",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429042765875",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Montessori Aotearoa New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-17T19:14:01Z"
+}

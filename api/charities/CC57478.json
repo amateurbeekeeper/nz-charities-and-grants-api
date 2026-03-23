@@ -1,0 +1,27 @@
+{
+  "id": 71104,
+  "registrationNumber": "CC57478",
+  "name": "Mamaku Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2020-02-19T00:00:00Z",
+  "dateDeregistered": "2025-05-27T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/mamaku/",
+  "email": "hayley.thorpe.ca@playcentre.org.nz",
+  "address": {
+    "line1": "1 Karamu Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mamaku",
+    "postcode": "3020"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/mamakuplaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-10T07:10:20Z"
+}

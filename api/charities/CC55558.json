@@ -1,0 +1,27 @@
+{
+  "id": 69210,
+  "registrationNumber": "CC55558",
+  "name": "New Zealand Product Stewardship Council",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-03-08T00:00:00Z",
+  "dateDeregistered": "2023-09-04T00:00:00Z",
+  "website": "https://www.nzpsc.nz/",
+  "email": "j.b.hannon@massey.ac.nz",
+  "address": {
+    "line1": "68 Seddon Street",
+    "line2": " ",
+    "suburb": "Takaro",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/nzpsc",
+    "twitter": null
+  },
+  "lastUpdated": "2023-09-19T07:03:29Z"
+}

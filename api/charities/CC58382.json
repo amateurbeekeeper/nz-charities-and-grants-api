@@ -1,0 +1,27 @@
+{
+  "id": 71998,
+  "registrationNumber": "CC58382",
+  "name": "NZ Bear Hunt Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2020-11-09T00:00:00Z",
+  "dateDeregistered": "2021-08-09T00:00:00Z",
+  "website": "bearhunt.co.nz",
+  "email": "nzbearhunt@gmail.com",
+  "address": {
+    "line1": "31 Billington Drive",
+    "line2": null,
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "NZ Bear Hunt",
+    "twitter": null
+  },
+  "lastUpdated": "2021-08-24T23:31:20Z"
+}

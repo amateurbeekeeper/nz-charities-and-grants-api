@@ -1,0 +1,27 @@
+{
+  "id": 51189,
+  "registrationNumber": "CC10188",
+  "name": "The Moray Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.morayfoundationtrust.org.nz",
+  "email": "loans@morayfoundationtrust.org.nz",
+  "address": {
+    "line1": "Floor 1",
+    "line2": "43 Princes Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042765967",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Moray Foundation Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T18:33:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38904,
+  "registrationNumber": "CC47077",
+  "name": "Comprehensive Care PHO Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-07-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.comprehensivecare.co.nz",
+  "email": "msun@comprehensivecare.co.nz",
+  "address": {
+    "line1": "BUILDING A",
+    "line2": "42 Tawa Drive",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429031297981",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T23:46:24Z"
+}

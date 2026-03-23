@@ -1,0 +1,27 @@
+{
+  "id": 46669,
+  "registrationNumber": "CC31519",
+  "name": "Port Waikato Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chanelle.brock@fireandemergency.nz",
+  "address": {
+    "line1": "83 Maunsell Road",
+    "line2": "RD 5",
+    "suburb": "Port Waikato",
+    "city": "Tuakau",
+    "postcode": "2695"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T19:36:01Z"
+}

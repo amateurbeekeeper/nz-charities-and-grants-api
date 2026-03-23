@@ -1,0 +1,27 @@
+{
+  "id": 53376,
+  "registrationNumber": "CC22409",
+  "name": "Otago Polytechnic Students' Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.opsa.org.nz",
+  "email": "lesley.scoullar@op.ac.nz",
+  "address": {
+    "line1": "Private Bag 1910",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9054"
+  },
+  "nzbn": "9429042776048",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/OtagoPolytechnicStudentsAssociation/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-01T18:16:02Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56476,
+  "registrationNumber": "CC22715",
+  "name": "Friedlander Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "shirley@samson.co.nz",
+  "address": {
+    "line1": "Flat 102",
+    "line2": "100 Parnell Road",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429042804826",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T19:27:53Z"
+}

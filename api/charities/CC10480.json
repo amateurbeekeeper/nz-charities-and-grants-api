@@ -1,0 +1,27 @@
+{
+  "id": 51813,
+  "registrationNumber": "CC10480",
+  "name": "Tauranga Musica Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tgamusica.co.nz",
+  "email": "sue.burger@skitec.co.nz",
+  "address": {
+    "line1": "450/141 Bethlehem Road",
+    "line2": "Bethlehem Shores",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043028863",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Tauranga-Musica-1895474124053896/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:33:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 59344,
+  "registrationNumber": "CC27161",
+  "name": "Wadestown Playgroup Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wadestownplaygroup.wellington.net.nz/",
+  "email": "wadestownplaygroup@gmail.com",
+  "address": {
+    "line1": "117 Wadestown Road",
+    "line2": " ",
+    "suburb": "Wadestown",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043306077",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T08:50:09Z"
+}

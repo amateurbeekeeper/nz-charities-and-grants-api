@@ -1,0 +1,27 @@
+{
+  "id": 64137,
+  "registrationNumber": "CC44173",
+  "name": "North Porirua Care Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "northporiruacarecentre.co.nz",
+  "email": "quang-te.ly@xtra.co.nz",
+  "address": {
+    "line1": "69F Discovery Drive",
+    "line2": " ",
+    "suburb": "Whitby",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429043301072",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T01:34:16Z"
+}

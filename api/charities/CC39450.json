@@ -1,0 +1,27 @@
+{
+  "id": 47233,
+  "registrationNumber": "CC39450",
+  "name": "The NZ Rat Rescue",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzrr.org",
+  "email": "steph@nzrr.org",
+  "address": {
+    "line1": "12 Ardilea Avenue",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429043098057",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzratrescue/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:43:30Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33782,
+  "registrationNumber": "CC50655",
+  "name": "Historic Clyde Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.historicclyde.co.nz",
+  "email": "john@scholefield.co.nz",
+  "address": {
+    "line1": "16 Naylor Street",
+    "line2": "Clyde 9330",
+    "suburb": " ",
+    "city": "Clyde",
+    "postcode": "9330"
+  },
+  "nzbn": "9429043300983",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-21T04:48:41Z"
+}

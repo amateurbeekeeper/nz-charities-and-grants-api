@@ -1,0 +1,27 @@
+{
+  "id": 64926,
+  "registrationNumber": "CC36144",
+  "name": "KI A ORA NGATIWAI TRUST",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.kaont.co.nz",
+  "email": "andrew@kaont.co.nz",
+  "address": {
+    "line1": "420 Kamo Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kamo",
+    "postcode": "112"
+  },
+  "nzbn": "9429042979340",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ki A Ora Ngatiwai",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-20T23:03:30Z"
+}

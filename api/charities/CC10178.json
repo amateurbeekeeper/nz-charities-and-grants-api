@@ -1,0 +1,27 @@
+{
+  "id": 51432,
+  "registrationNumber": "CC10178",
+  "name": "Detour Theatre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://detour.co.nz",
+  "email": "info@detour.co.nz",
+  "address": {
+    "line1": "Building 13, Historic Village on 17th Avenue West",
+    "line2": " ",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043044801",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T21:47:38Z"
+}

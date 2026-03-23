@@ -1,0 +1,27 @@
+{
+  "id": 62277,
+  "registrationNumber": "CC40233",
+  "name": "Te Tao Tangaroa Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngatirarua.iwi.nz",
+  "email": "michelle.lavender@ngatirarua.iwi.nz",
+  "address": {
+    "line1": "65 Scott Street",
+    "line2": "Blenheim 7201",
+    "suburb": "Mayfield",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429037970680",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T18:37:25Z"
+}

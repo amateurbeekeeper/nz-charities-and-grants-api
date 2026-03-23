@@ -1,0 +1,27 @@
+{
+  "id": 66221,
+  "registrationNumber": "CC52488",
+  "name": "Drury Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-10-20T00:00:00Z",
+  "dateDeregistered": "2025-10-07T00:00:00Z",
+  "website": null,
+  "email": "drury@playcentre.org.nz",
+  "address": {
+    "line1": "23-33 Young Crescent",
+    "line2": null,
+    "suburb": " ",
+    "city": "Drury",
+    "postcode": "2113"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T06:03:32Z"
+}

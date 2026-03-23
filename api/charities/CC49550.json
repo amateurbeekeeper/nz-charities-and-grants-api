@@ -1,0 +1,27 @@
+{
+  "id": 33363,
+  "registrationNumber": "CC49550",
+  "name": "The New Zealand Retreat (Auckland) Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "janet@myrecovery.org.nz",
+  "address": {
+    "line1": "79 Thompson Road",
+    "line2": "RD 1",
+    "suburb": null,
+    "city": "Warkworth",
+    "postcode": "0981"
+  },
+  "nzbn": "9429033345284",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-27T23:51:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73439,
+  "registrationNumber": "CC59824",
+  "name": "Fossil Creek Farm Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.fossilcreekfarm.co.nz",
+  "email": "fossilcreekfarmtrust@gmail.com",
+  "address": {
+    "line1": "100 Garden Valley Road",
+    "line2": "RD 1",
+    "suburb": "Wairoa Valley",
+    "city": "Brightwater",
+    "postcode": "7091"
+  },
+  "nzbn": "9429049497700",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T18:33:50Z"
+}

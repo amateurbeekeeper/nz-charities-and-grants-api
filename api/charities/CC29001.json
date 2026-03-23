@@ -1,0 +1,27 @@
+{
+  "id": 58910,
+  "registrationNumber": "CC29001",
+  "name": "Vincents Art Workshop Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.vincents.co.nz",
+  "email": "andrew@vincentsart.org",
+  "address": {
+    "line1": "Willis Street Village",
+    "line2": "Unit 5, 148 Willis Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042899228",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Vincents-Art-Workshop-146291018723447/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T00:51:21Z"
+}

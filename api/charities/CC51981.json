@@ -1,0 +1,27 @@
+{
+  "id": 65724,
+  "registrationNumber": "CC51981",
+  "name": "Island Bay Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ibpc.org.nz",
+  "email": "office@ibpc.org.nz",
+  "address": {
+    "line1": "88 The Parade",
+    "line2": " ",
+    "suburb": "Island Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T18:04:26Z"
+}

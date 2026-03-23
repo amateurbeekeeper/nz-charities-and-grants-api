@@ -1,0 +1,27 @@
+{
+  "id": 68047,
+  "registrationNumber": "CC54374",
+  "name": "Te Puna Waka Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "noelinetu@gmail.com",
+  "address": {
+    "line1": "3 Lochhead Road",
+    "line2": "RD 6",
+    "suburb": "Te Puna",
+    "city": "Tauranga",
+    "postcode": "3176"
+  },
+  "nzbn": "9429045923708",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Puna Waka Ama Club",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T05:25:52Z"
+}

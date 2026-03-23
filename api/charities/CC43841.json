@@ -1,0 +1,27 @@
+{
+  "id": 50275,
+  "registrationNumber": "CC43841",
+  "name": "Wellington Bird Rehabilitation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wbrt.org.nz",
+  "email": "craig@wbrt.org.nz",
+  "address": {
+    "line1": "583 Ohariu Valley Road",
+    "line2": " ",
+    "suburb": "Ohariu",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "wellington bird rehabilitation trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T19:36:58Z"
+}

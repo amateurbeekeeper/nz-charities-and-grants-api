@@ -1,0 +1,27 @@
+{
+  "id": 57126,
+  "registrationNumber": "CC35135",
+  "name": "Otakaro Land Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.peterborough.nz",
+  "email": "stephiepole@gmail.com",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "175 Peterborough Street",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042792284",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T01:17:42Z"
+}

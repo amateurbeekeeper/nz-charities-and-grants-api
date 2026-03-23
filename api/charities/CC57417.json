@@ -1,0 +1,27 @@
+{
+  "id": 71041,
+  "registrationNumber": "CC57417",
+  "name": "Mount Wellington Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-12-02T00:00:00Z",
+  "dateDeregistered": "2025-08-31T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/mount-wellington/",
+  "email": "mountwellington@playcentre.org.nz",
+  "address": {
+    "line1": "174 Penrose Road",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mtwellingtonplaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T07:14:26Z"
+}

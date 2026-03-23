@@ -1,0 +1,27 @@
+{
+  "id": 68948,
+  "registrationNumber": "CC55290",
+  "name": "Taupo Community Gardens Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-12-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "taupocommunitygardens.com",
+  "email": "taupocg@gmail.com",
+  "address": {
+    "line1": "Richmond Ave",
+    "line2": " ",
+    "suburb": " Richmond Heights",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429043199082",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Taupo Community Gardens",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-24T02:41:15Z"
+}

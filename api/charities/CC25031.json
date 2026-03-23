@@ -1,0 +1,27 @@
+{
+  "id": 57176,
+  "registrationNumber": "CC25031",
+  "name": "Redoubt North Wesleyan Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rnw.org.nz",
+  "email": "revpeter.rnw@gmail.com",
+  "address": {
+    "line1": "51 Diorella Drive",
+    "line2": " ",
+    "suburb": "Clover Park",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/RedoubtNorthWes/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:52:58Z"
+}

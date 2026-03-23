@@ -1,0 +1,27 @@
+{
+  "id": 41036,
+  "registrationNumber": "CC27451",
+  "name": "The Auckland Disability Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "robert@missioncontrol.net.nz",
+  "address": {
+    "line1": "15 Laguna Place",
+    "line2": " ",
+    "suburb": "Matakatia",
+    "city": "Whangaparaoa",
+    "postcode": "0930"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T22:40:06Z"
+}

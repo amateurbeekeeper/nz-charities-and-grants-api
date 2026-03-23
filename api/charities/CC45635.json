@@ -1,0 +1,27 @@
+{
+  "id": 38726,
+  "registrationNumber": "CC45635",
+  "name": "North Canterbury Cycling Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-10-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nccc.co.nz",
+  "email": "justin.blackler@newworld-si.co.nz",
+  "address": {
+    "line1": "18 Courtney Road",
+    "line2": "RD 7",
+    "suburb": "Ashley",
+    "city": "Rangiora",
+    "postcode": "7477"
+  },
+  "nzbn": "9429043054114",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/North-Canterbury-Cycling-Club-144037812461266/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:53:45Z"
+}

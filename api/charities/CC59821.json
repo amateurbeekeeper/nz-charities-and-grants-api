@@ -1,0 +1,27 @@
+{
+  "id": 73503,
+  "registrationNumber": "CC59821",
+  "name": "Dolly the Warhorse Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dollythewarhorse.co.nz",
+  "email": "selwyn.hawthorne@xtra.co.nz",
+  "address": {
+    "line1": "23 Islington Place",
+    "line2": " ",
+    "suburb": "Tamatea",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": "9429050213689",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-31T02:38:35Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73847,
+  "registrationNumber": "CC60262",
+  "name": "Manukau Indian FM",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://manukauindianfm.nz/",
+  "email": "info@manukauindianfm.nz",
+  "address": {
+    "line1": "Unit 2",
+    "line2": "25 Hollyford Drive",
+    "suburb": "Clover Park",
+    "city": "Auckland",
+    "postcode": "2105"
+  },
+  "nzbn": "9429051942502",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/manukau.indian.fm",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-28T19:37:12Z"
+}

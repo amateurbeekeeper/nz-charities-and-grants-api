@@ -1,0 +1,27 @@
+{
+  "id": 36559,
+  "registrationNumber": "CC48178",
+  "name": "Renaissance Singers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "broadleyguy@gmail.com",
+  "address": {
+    "line1": "10 Phoenix Avenue",
+    "line2": "RD 2",
+    "suburb": "Hokowhitu",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042734949",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RenaissanceSingersPalmerstonNorth",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-17T21:51:29Z"
+}

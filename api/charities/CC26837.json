@@ -1,0 +1,27 @@
+{
+  "id": 58606,
+  "registrationNumber": "CC26837",
+  "name": "The Harrison Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "alanharrison90@gmail.com",
+  "address": {
+    "line1": "2 Golden Elm Lane",
+    "line2": " ",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T04:43:50Z"
+}

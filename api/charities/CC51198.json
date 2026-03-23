@@ -1,0 +1,27 @@
+{
+  "id": 34756,
+  "registrationNumber": "CC51198",
+  "name": "Dunedin Community Mediation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-10-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dunedincommunitymediation.org.nz",
+  "email": "max@dunedincommunitymediation.org.nz",
+  "address": {
+    "line1": "43 Princes Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043275984",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:19:21Z"
+}

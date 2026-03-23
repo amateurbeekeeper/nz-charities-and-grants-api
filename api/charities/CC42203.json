@@ -1,0 +1,27 @@
+{
+  "id": 50899,
+  "registrationNumber": "CC42203",
+  "name": "Macular Degeneration New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mdnz.org.nz",
+  "email": "sarah@mdnz.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "177 Parnell Road",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429043227280",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MacularDegenerationNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:59:36Z"
+}

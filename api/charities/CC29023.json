@@ -1,0 +1,27 @@
+{
+  "id": 61182,
+  "registrationNumber": "CC29023",
+  "name": "Greytown Early Years Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.greytown-earlyyears.co.nz",
+  "email": "manager@greytown-earlyyears.co.nz",
+  "address": {
+    "line1": "61 Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greytown",
+    "postcode": "5712"
+  },
+  "nzbn": "9429042713661",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/greytownearlyyears/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T21:29:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75275,
+  "registrationNumber": "CC61715",
+  "name": "Family Therapy Training Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bryce@hnca.co.nz",
+  "address": {
+    "line1": "Level 3",
+    "line2": "258 Stuart Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429051189709",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T01:29:24Z"
+}

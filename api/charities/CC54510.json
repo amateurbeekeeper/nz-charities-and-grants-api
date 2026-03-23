@@ -1,0 +1,27 @@
+{
+  "id": 68186,
+  "registrationNumber": "CC54510",
+  "name": "Norfolk Home & School",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "amyleebutler@gmail.com",
+  "address": {
+    "line1": "6 Norfolk Road Lower",
+    "line2": "RD 8",
+    "suburb": "Norfolk",
+    "city": "Inglewood",
+    "postcode": "4388"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:19:50Z"
+}

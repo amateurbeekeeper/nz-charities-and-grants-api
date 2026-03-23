@@ -1,0 +1,27 @@
+{
+  "id": 45078,
+  "registrationNumber": "CC34575",
+  "name": "The Donnellan Veterinary Scholarship",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2015-02-15T00:00:00Z",
+  "website": "http://www.vets.org.nz",
+  "email": "berry.walker@vets.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "44 Victoria Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042968344",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:24:45Z"
+}

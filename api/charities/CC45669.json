@@ -1,0 +1,27 @@
+{
+  "id": 50866,
+  "registrationNumber": "CC45669",
+  "name": "Catlins Coast Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-11-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.catlins.org.nz",
+  "email": "keast@outlook.co.nz",
+  "address": {
+    "line1": "513 Niagara Tokanui Highway",
+    "line2": "RD 1",
+    "suburb": "Quarry Hills",
+    "city": "Tokanui",
+    "postcode": "9884"
+  },
+  "nzbn": "9429043189090",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/catlinscoastnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T22:03:33Z"
+}

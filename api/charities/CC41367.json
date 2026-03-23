@@ -1,0 +1,27 @@
+{
+  "id": 63581,
+  "registrationNumber": "CC41367",
+  "name": "350 Aotearoa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.350.org.nz",
+  "email": "co-chairs@350.org.nz",
+  "address": {
+    "line1": "98 St Heliers Bay Road",
+    "line2": " ",
+    "suburb": "St Heliers",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429043189113",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/350aotearoa/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T23:56:42Z"
+}

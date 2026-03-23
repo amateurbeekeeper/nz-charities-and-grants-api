@@ -1,0 +1,27 @@
+{
+  "id": 42241,
+  "registrationNumber": "CC25664",
+  "name": "The Canterbury Arthritis Support Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kevincurrie7@yahoo.co.nz",
+  "address": {
+    "line1": "352 Manchester Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429043146420",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T03:49:47Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73495,
+  "registrationNumber": "CC59707",
+  "name": "Methodist Church of New Zealand Te Haahi Weteriana O Aotearoa Wanganui Fijian Parish (8590)",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.methodist.org.nz",
+  "email": "peterv@methodist.org.nz",
+  "address": {
+    "line1": "53 Smithfield Road",
+    "line2": " ",
+    "suburb": "Tawhero",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:34:26Z"
+}

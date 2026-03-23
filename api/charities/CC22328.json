@@ -1,0 +1,27 @@
+{
+  "id": 55790,
+  "registrationNumber": "CC22328",
+  "name": "Bibles For New Zealand Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bfnz.org.nz",
+  "email": "paulesalmon@gmail.com",
+  "address": {
+    "line1": "29 Omega Street",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043079124",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BiblesForNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:25:35Z"
+}

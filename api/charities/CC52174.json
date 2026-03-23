@@ -1,0 +1,27 @@
+{
+  "id": 65912,
+  "registrationNumber": "CC52174",
+  "name": "Tournament of Minds NZ Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tom.edu.au",
+  "email": "nz-director@tom.edu.au",
+  "address": {
+    "line1": "14 Lorna Irene Drive",
+    "line2": " ",
+    "suburb": "Raumati South",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429043254002",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "tournamentofmindsnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T23:37:48Z"
+}

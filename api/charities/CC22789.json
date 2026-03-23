@@ -1,0 +1,27 @@
+{
+  "id": 40325,
+  "registrationNumber": "CC22789",
+  "name": "Claremont Recovery Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "brodie@fordsimpson.co.nz",
+  "address": {
+    "line1": "18 Woollcombe Street",
+    "line2": "Timaru 7910",
+    "suburb": "West End",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429042613565",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:13:29Z"
+}

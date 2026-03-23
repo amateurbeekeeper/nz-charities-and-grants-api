@@ -1,0 +1,27 @@
+{
+  "id": 56202,
+  "registrationNumber": "CC32803",
+  "name": "The Icehouse Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2021-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.theicehouse.co.nz",
+  "email": "s.turner@theicehouse.co.nz",
+  "address": {
+    "line1": "Level 4 The Textile Centre",
+    "line2": "117-125 St Georges Bay Road",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429036847730",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T00:26:58Z"
+}

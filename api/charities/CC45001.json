@@ -1,0 +1,27 @@
+{
+  "id": 36018,
+  "registrationNumber": "CC45001",
+  "name": "Coffee Culture Charitable Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.coffeeculture.co.nz",
+  "email": "admin@coffeeculture.co.nz",
+  "address": {
+    "line1": "2 Elgin Street",
+    "line2": " ",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T02:03:32Z"
+}

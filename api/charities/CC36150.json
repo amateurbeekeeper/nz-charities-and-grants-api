@@ -1,0 +1,27 @@
+{
+  "id": 42200,
+  "registrationNumber": "CC36150",
+  "name": "Wanaka Bridge Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://otagosouthlandbridge.org.nz/wanaka/?home",
+  "email": "wanakabridgeclub@fastmail.com",
+  "address": {
+    "line1": "94 Tenby Street",
+    "line2": "Wanaka 9305",
+    "suburb": " ",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429042914341",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T01:58:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40422,
+  "registrationNumber": "CC23118",
+  "name": "Rutland St Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rutlandstreet.church.net.nz",
+  "email": "accounts@rsc.net.nz",
+  "address": {
+    "line1": "5 Gosset Street",
+    "line2": " ",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-08T08:14:43Z"
+}

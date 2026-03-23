@@ -1,0 +1,27 @@
+{
+  "id": 35183,
+  "registrationNumber": "CC50170",
+  "name": "Woolston Boxing Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-12-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "woolstonboxingclub@gmail.com",
+  "address": {
+    "line1": "43 Hargood Street",
+    "line2": " ",
+    "suburb": "Woolston",
+    "city": "Christchurch",
+    "postcode": "8062"
+  },
+  "nzbn": "9429043243969",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/woolstonboxing",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T22:51:14Z"
+}

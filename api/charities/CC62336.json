@@ -1,0 +1,27 @@
+{
+  "id": 75885,
+  "registrationNumber": "CC62336",
+  "name": "Seed Hunter Tribe Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://seedhunters.co.nz/",
+  "email": "paul@tane.co.nz",
+  "address": {
+    "line1": "142 Strachan Road",
+    "line2": "RD 1",
+    "suburb": "Ngātīmoti",
+    "city": "Motueka",
+    "postcode": "7196"
+  },
+  "nzbn": "9429051670290",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thetreefactory/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T00:48:27Z"
+}

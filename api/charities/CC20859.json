@@ -1,0 +1,27 @@
+{
+  "id": 40134,
+  "registrationNumber": "CC20859",
+  "name": "Citizens Advice Bureau Thames Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cab.org.nz",
+  "email": "thames@cab.org.nz",
+  "address": {
+    "line1": "301D Queen St,",
+    "line2": null,
+    "suburb": " ",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429042847656",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/CitizensAdviceBureauThames",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T23:24:47Z"
+}

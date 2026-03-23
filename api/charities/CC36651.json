@@ -1,0 +1,27 @@
+{
+  "id": 58057,
+  "registrationNumber": "CC36651",
+  "name": "Dunedin Youth Orchestra Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dyo.org.nz",
+  "email": "dunedinyouthorchestra@gmail.com",
+  "address": {
+    "line1": "65 Hanover Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042714415",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dunedinyouthorchestra",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-14T22:01:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74446,
+  "registrationNumber": "CC60869",
+  "name": "Tuatara Collective",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tuataracollective.com/",
+  "email": "tuataracollective@gmail.com",
+  "address": {
+    "line1": "16 Lipscombe Avenue",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429052259548",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Tuatara Collective",
+    "twitter": "tuataracollective"
+  },
+  "lastUpdated": "2025-10-12T02:08:03Z"
+}

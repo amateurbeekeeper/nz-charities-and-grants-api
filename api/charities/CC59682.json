@@ -1,0 +1,27 @@
+{
+  "id": 73288,
+  "registrationNumber": "CC59682",
+  "name": "Wai Kokopu Inc.",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wai-kokopu.org.nz/",
+  "email": "june@wai-kokopu.org.nz",
+  "address": {
+    "line1": "3884 Pahiatua Pongaroa Road",
+    "line2": "RD 9",
+    "suburb": "Pongaroa",
+    "city": "Pahiatua",
+    "postcode": "4989"
+  },
+  "nzbn": "9429048790284",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waikokopu",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T21:36:00Z"
+}

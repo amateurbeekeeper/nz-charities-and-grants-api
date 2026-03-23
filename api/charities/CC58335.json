@@ -1,0 +1,27 @@
+{
+  "id": 71951,
+  "registrationNumber": "CC58335",
+  "name": "Victory Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2020-10-20T00:00:00Z",
+  "dateDeregistered": "2025-08-26T00:00:00Z",
+  "website": null,
+  "email": "victory@playcentre.org.nz",
+  "address": {
+    "line1": "255 Vanguard Street",
+    "line2": " ",
+    "suburb": "Nelson South",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "victory playcentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T07:12:12Z"
+}

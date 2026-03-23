@@ -1,0 +1,27 @@
+{
+  "id": 40333,
+  "registrationNumber": "CC40676",
+  "name": "Devonport Methodist Childcare Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dmcc.live",
+  "email": "charities@methodist.org.nz",
+  "address": {
+    "line1": "18 Owens Road",
+    "line2": " ",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "624"
+  },
+  "nzbn": "9429042856955",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T01:21:41Z"
+}

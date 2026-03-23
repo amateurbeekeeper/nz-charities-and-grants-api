@@ -1,0 +1,27 @@
+{
+  "id": 49189,
+  "registrationNumber": "CC28965",
+  "name": "Clyde Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://fireandemergency.nz/",
+  "email": "country_chic18@hotmail.com",
+  "address": {
+    "line1": "44 Sunderland Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Clyde",
+    "postcode": "9330"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ClydeVolunteerFireBrigade/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-17T19:13:32Z"
+}

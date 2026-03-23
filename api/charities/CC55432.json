@@ -1,0 +1,27 @@
+{
+  "id": 69094,
+  "registrationNumber": "CC55432",
+  "name": "House of Science Central Waikato",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-03-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://houseofscience.nz/branch/central-waikato/",
+  "email": "catherine.cooper@houseofscience.nz",
+  "address": {
+    "line1": "9 Ruakura Road",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HoSCentralWaikato/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-02T19:36:40Z"
+}

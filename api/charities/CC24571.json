@@ -1,0 +1,27 @@
+{
+  "id": 42457,
+  "registrationNumber": "CC24571",
+  "name": "Charisma Church Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-05-19T00:00:00Z",
+  "dateDeregistered": "2025-06-01T00:00:00Z",
+  "website": null,
+  "email": "mandc.pohio@xtra.co.nz",
+  "address": {
+    "line1": "74 Tihi Road",
+    "line2": " ",
+    "suburb": "Springfield",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429043036912",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Charisma-Church-Rotorua",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T00:09:51Z"
+}

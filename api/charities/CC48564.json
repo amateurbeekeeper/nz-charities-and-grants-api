@@ -1,0 +1,27 @@
+{
+  "id": 32750,
+  "registrationNumber": "CC48564",
+  "name": "Circability Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.circability.org",
+  "email": "office@circability.org",
+  "address": {
+    "line1": "203-271 Victoria Street West",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043318438",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/Circability",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T07:52:26Z"
+}

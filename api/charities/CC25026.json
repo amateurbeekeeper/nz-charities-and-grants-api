@@ -1,0 +1,27 @@
+{
+  "id": 56023,
+  "registrationNumber": "CC25026",
+  "name": "Mt Roskill Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mrbc.org.nz",
+  "email": "roger.deverell@roskillbaptist.com",
+  "address": {
+    "line1": "485 Richardson Road",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-07T20:25:30Z"
+}

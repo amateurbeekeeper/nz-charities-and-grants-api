@@ -1,0 +1,27 @@
+{
+  "id": 71465,
+  "registrationNumber": "CC57844",
+  "name": "Lincoln Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2020-04-28T00:00:00Z",
+  "dateDeregistered": "2025-08-20T00:00:00Z",
+  "website": null,
+  "email": "lincoln@playcentre.org.nz",
+  "address": {
+    "line1": "158 North Belt",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lincoln",
+    "postcode": "7608"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/lincolnplaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T07:13:30Z"
+}

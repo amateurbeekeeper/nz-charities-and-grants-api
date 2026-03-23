@@ -1,0 +1,27 @@
+{
+  "id": 58691,
+  "registrationNumber": "CC26615",
+  "name": "Herne Bay Rackets Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.hernebayrackets.co.nz",
+  "email": "treasurer@hernebayrackets.co.nz",
+  "address": {
+    "line1": "10 West End Road",
+    "line2": " ",
+    "suburb": "Herne Bay",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429042643012",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/HerneBayRackets",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T19:37:29Z"
+}

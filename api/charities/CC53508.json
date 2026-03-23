@@ -1,0 +1,27 @@
+{
+  "id": 67216,
+  "registrationNumber": "CC53508",
+  "name": "Kaimai Ridgeway Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-04-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kaimairidgeway.nz",
+  "email": "kaimairidgeway@gmail.com",
+  "address": {
+    "line1": "11 Corbett-Scott Ave",
+    "line2": " ",
+    "suburb": "Auckland",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043294848",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T22:25:40Z"
+}

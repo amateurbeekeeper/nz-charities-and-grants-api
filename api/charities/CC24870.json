@@ -1,0 +1,27 @@
+{
+  "id": 39782,
+  "registrationNumber": "CC24870",
+  "name": "The Monckton Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-12-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "alice@hmtmct.co.nz",
+  "address": {
+    "line1": "71 Rostrevor Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042784586",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T22:03:51Z"
+}

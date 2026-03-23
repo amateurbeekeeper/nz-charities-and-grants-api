@@ -1,0 +1,27 @@
+{
+  "id": 74372,
+  "registrationNumber": "CC60783",
+  "name": "RAISE UP Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.raiseupfoundation.org.nz",
+  "email": "rebekah@raiseupfoundation.org.nz",
+  "address": {
+    "line1": "23A Kamara Road",
+    "line2": " ",
+    "suburb": "Glen Eden",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": "9429051005610",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-11T19:41:00Z"
+}

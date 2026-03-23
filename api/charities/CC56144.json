@@ -1,0 +1,27 @@
+{
+  "id": 69787,
+  "registrationNumber": "CC56144",
+  "name": "Katikati Community Patrol",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "katikati@cpnz.org.nz",
+  "address": {
+    "line1": "33 Middlebrook Drive",
+    "line2": "Katikati 3129",
+    "suburb": " ",
+    "city": "Katikati",
+    "postcode": "3129"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T06:56:07Z"
+}

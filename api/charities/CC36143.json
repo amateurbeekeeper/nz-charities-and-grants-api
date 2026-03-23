@@ -1,0 +1,27 @@
+{
+  "id": 47517,
+  "registrationNumber": "CC36143",
+  "name": "Mahi Tahi Akoranga Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mahitahi.org.nz",
+  "email": "carolyn@mahitahi.org.nz",
+  "address": {
+    "line1": "105 Hastings Street",
+    "line2": null,
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429043141272",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100064543847595",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:40:07Z"
+}

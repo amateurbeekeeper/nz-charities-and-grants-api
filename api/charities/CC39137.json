@@ -1,0 +1,27 @@
+{
+  "id": 64621,
+  "registrationNumber": "CC39137",
+  "name": "DineAid New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2023-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dineaid.org.nz",
+  "email": "sophie@dineaid.org.nz",
+  "address": {
+    "line1": "102 Jervois Road",
+    "line2": " ",
+    "suburb": "Herne Bay",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429043091232",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-28T19:05:43Z"
+}

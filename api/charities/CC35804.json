@@ -1,0 +1,27 @@
+{
+  "id": 45189,
+  "registrationNumber": "CC35804",
+  "name": "Canterbury Explorers Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-12-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.canterburyexplorers.org.nz/",
+  "email": "gina@canterburyexplorers.org.nz",
+  "address": {
+    "line1": "472 Barrington Street",
+    "line2": " ",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429043048281",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/canterburyexplorers/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T06:12:11Z"
+}

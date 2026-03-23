@@ -1,0 +1,27 @@
+{
+  "id": 67603,
+  "registrationNumber": "CC53909",
+  "name": "The New Zealand Raptor Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-09-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jenni@waugh.nz",
+  "address": {
+    "line1": "55A Redruth Street",
+    "line2": " ",
+    "suburb": "Redruth",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429053073945",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/nzraptor/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:20:04Z"
+}

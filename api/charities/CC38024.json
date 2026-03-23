@@ -1,0 +1,27 @@
+{
+  "id": 63257,
+  "registrationNumber": "CC38024",
+  "name": "Te Ha o Matauranga",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kaikoura.link",
+  "email": "vicki@kaikoura.link",
+  "address": {
+    "line1": "14 Ludstone Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaikoura",
+    "postcode": "7300"
+  },
+  "nzbn": "9429043180622",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@kaikoura.link",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:02:58Z"
+}

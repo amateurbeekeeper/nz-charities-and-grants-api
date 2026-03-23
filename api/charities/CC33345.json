@@ -1,0 +1,27 @@
+{
+  "id": 45636,
+  "registrationNumber": "CC33345",
+  "name": "Māngere Bridge Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.mangerebridgebaptist.com",
+  "email": "finance@mangerebridgebaptist.com",
+  "address": {
+    "line1": "Woodward Avenue Corner Mcintyre Road",
+    "line2": "Mangere Bridge",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1730"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/mangerebridgebaptist",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T03:27:54Z"
+}

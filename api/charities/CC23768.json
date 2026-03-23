@@ -1,0 +1,27 @@
+{
+  "id": 41357,
+  "registrationNumber": "CC23768",
+  "name": "Ranui Community Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ranuicommunitycentre.co.nz",
+  "email": "info@ranuicommunitycentre.co.nz",
+  "address": {
+    "line1": "474 Swanson Road",
+    "line2": " ",
+    "suburb": "Ranui",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429042800637",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ranui Community Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T21:42:35Z"
+}

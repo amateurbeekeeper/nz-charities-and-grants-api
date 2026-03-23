@@ -1,0 +1,27 @@
+{
+  "id": 70679,
+  "registrationNumber": "CC57047",
+  "name": "Lifespan Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-09-05T00:00:00Z",
+  "dateDeregistered": "2020-11-01T00:00:00Z",
+  "website": "www.lifespantrust.com",
+  "email": "brian@lifespantrust.com",
+  "address": {
+    "line1": "73 Roland Road",
+    "line2": " ",
+    "suburb": "Greenhithe",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-11-10T03:25:11Z"
+}

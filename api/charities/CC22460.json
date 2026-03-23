@@ -1,0 +1,27 @@
+{
+  "id": 55685,
+  "registrationNumber": "CC22460",
+  "name": "Gisborne Hospital Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@bainsheppard.co.nz",
+  "address": {
+    "line1": "57 Customhouse Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042631699",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T19:04:09Z"
+}

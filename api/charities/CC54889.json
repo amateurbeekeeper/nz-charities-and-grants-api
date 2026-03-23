@@ -1,0 +1,27 @@
+{
+  "id": 68554,
+  "registrationNumber": "CC54889",
+  "name": "Screen Edge Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-10-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.docedge.nz",
+  "email": "dan@docedge.nz",
+  "address": {
+    "line1": "175 Khyber Pass Road",
+    "line2": "Floor 2",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429030445345",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/DocumentaryEdge",
+    "twitter": "https://twitter.com/Docedge"
+  },
+  "lastUpdated": "2026-01-01T06:10:13Z"
+}

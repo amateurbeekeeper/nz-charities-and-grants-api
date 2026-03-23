@@ -1,0 +1,27 @@
+{
+  "id": 46804,
+  "registrationNumber": "CC37888",
+  "name": "Karoro PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Hopethampton@gmail.com",
+  "address": {
+    "line1": "77 Main South Road",
+    "line2": " ",
+    "suburb": "Karoro",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:16:46Z"
+}

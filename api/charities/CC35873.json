@@ -1,0 +1,27 @@
+{
+  "id": 58858,
+  "registrationNumber": "CC35873",
+  "name": "New Zealand Outdoor Instructors Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzoia.org.nz",
+  "email": "accounts@nzoia.org.nz",
+  "address": {
+    "line1": "C/- Real Key Accounting Solutions Ltd",
+    "line2": " 12 Wallace Street",
+    "suburb": " ",
+    "city": "Motueka",
+    "postcode": "7120"
+  },
+  "nzbn": "9429042705307",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZOIAInstructors",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:14:00Z"
+}

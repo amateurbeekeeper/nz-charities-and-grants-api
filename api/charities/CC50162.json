@@ -1,0 +1,27 @@
+{
+  "id": 33835,
+  "registrationNumber": "CC50162",
+  "name": "Ngapuhi Service Station Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2014-01-12T00:00:00Z",
+  "dateDeregistered": "2024-05-06T00:00:00Z",
+  "website": "https://www.ngapuhi.iwi.nz",
+  "email": "paul.knight@nahc.co.nz",
+  "address": {
+    "line1": "19 Broadway",
+    "line2": "Kaikohe 0405",
+    "suburb": "Kaikohe",
+    "city": "Kaikohe",
+    "postcode": "0405"
+  },
+  "nzbn": "9429031511483",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-12-22T23:37:32Z"
+}

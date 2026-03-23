@@ -1,0 +1,27 @@
+{
+  "id": 57863,
+  "registrationNumber": "CC26883",
+  "name": "Windsor Park Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.windsorpark.org.nz",
+  "email": "joyce.chang@windsorpark.org.nz",
+  "address": {
+    "line1": "550 East Coast Road",
+    "line2": " ",
+    "suburb": "Windsor Park",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/windsorparkbaptistchurchnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T03:11:28Z"
+}

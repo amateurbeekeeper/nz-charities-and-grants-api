@@ -1,0 +1,27 @@
+{
+  "id": 55484,
+  "registrationNumber": "CC21782",
+  "name": "New Zealand Council Of Christian Social Services",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzccss.org.nz",
+  "email": "ceo@nzccss.org.nz",
+  "address": {
+    "line1": "192 Tinakori Road",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429051971908",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T02:40:39Z"
+}

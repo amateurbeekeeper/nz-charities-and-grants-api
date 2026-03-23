@@ -1,0 +1,27 @@
+{
+  "id": 72736,
+  "registrationNumber": "CC59124",
+  "name": "Speed Freaks Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.speedfreaks.org.nz",
+  "email": "anna@speedfreaks.org.nz",
+  "address": {
+    "line1": "21 Leslie Hills Drive",
+    "line2": "Tower Junction",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429050292820",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/speedfreakrunners/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T20:12:16Z"
+}

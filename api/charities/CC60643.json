@@ -1,0 +1,27 @@
+{
+  "id": 74227,
+  "registrationNumber": "CC60643",
+  "name": "Siddhartha's Intent NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-10-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://siddharthasintent.org/new-zealand/",
+  "email": "kim@siddharthasintent.org",
+  "address": {
+    "line1": "56 Park Terrace",
+    "line2": " ",
+    "suburb": "Corsair Bay",
+    "city": "Lyttelton",
+    "postcode": "8082"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-19T02:16:15Z"
+}

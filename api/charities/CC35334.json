@@ -1,0 +1,27 @@
+{
+  "id": 62285,
+  "registrationNumber": "CC35334",
+  "name": "42Collective Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-11-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "42collective@gmail.com",
+  "address": {
+    "line1": "412 High Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": "9429043166138",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T06:01:30Z"
+}

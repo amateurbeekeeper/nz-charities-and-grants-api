@@ -1,0 +1,27 @@
+{
+  "id": 52458,
+  "registrationNumber": "CC11432",
+  "name": "Diabetes New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.diabetes.org.nz",
+  "email": "nickyk@diabetes.org.nz",
+  "address": {
+    "line1": "Diabetes New Zealand House, Level 10",
+    "line2": "15-17 Murphy Street",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429047509696",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/diabetesnz",
+    "twitter": "https://twitter.com/diabetes_nz"
+  },
+  "lastUpdated": "2026-01-29T02:17:15Z"
+}

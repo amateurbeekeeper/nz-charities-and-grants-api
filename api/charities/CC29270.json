@@ -1,0 +1,27 @@
+{
+  "id": 46037,
+  "registrationNumber": "CC29270",
+  "name": "Paeroa Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stuart.arnold@fireandemergency.nz",
+  "address": {
+    "line1": "Willoughby Street",
+    "line2": " ",
+    "suburb": " ",
+    "city": "Paeroa",
+    "postcode": "3600"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T21:26:03Z"
+}

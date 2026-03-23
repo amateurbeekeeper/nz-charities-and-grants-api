@@ -1,0 +1,27 @@
+{
+  "id": 61093,
+  "registrationNumber": "CC42764",
+  "name": "Cantabrian Rugby Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://cantabrianrfc.co.nz",
+  "email": "kandrpope@xtra.co.nz",
+  "address": {
+    "line1": "18 Beatrice Place",
+    "line2": " ",
+    "suburb": "Avonhead",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429042599500",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T23:29:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72625,
+  "registrationNumber": "CC59019",
+  "name": "Te Kaunihera Kaumatua o Tuhoe",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "melody@cttu.org.nz",
+  "address": {
+    "line1": "4B Island View Road",
+    "line2": " ",
+    "suburb": "Western Heights",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429047198081",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T04:19:55Z"
+}

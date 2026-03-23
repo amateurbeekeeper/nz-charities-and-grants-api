@@ -1,0 +1,27 @@
+{
+  "id": 55112,
+  "registrationNumber": "CC22019",
+  "name": "F.S.S.P Auckland Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fssp.nz",
+  "email": "fsspauckland@crossbeam.co.nz",
+  "address": {
+    "line1": "3 Cole Place",
+    "line2": " ",
+    "suburb": "Te Atatu South",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429042950004",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/fsspauckland/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T19:38:01Z"
+}

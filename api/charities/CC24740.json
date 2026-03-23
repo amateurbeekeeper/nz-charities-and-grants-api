@@ -1,0 +1,27 @@
+{
+  "id": 40046,
+  "registrationNumber": "CC24740",
+  "name": "Surfside Christian Life Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.surfside.co.nz",
+  "email": "norris.peart@surfside.co.nz",
+  "address": {
+    "line1": "36 Bow Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Raglan",
+    "postcode": "3225"
+  },
+  "nzbn": "9429042930105",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SurfsideChurch/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T23:28:22Z"
+}

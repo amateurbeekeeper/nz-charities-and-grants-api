@@ -1,0 +1,27 @@
+{
+  "id": 73070,
+  "registrationNumber": "CC59465",
+  "name": "Reach Out Waiheke",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.projectreachoutwaiheke.co.nz",
+  "email": "barryffenton@icloud.com",
+  "address": {
+    "line1": "56 Korora Road",
+    "line2": " ",
+    "suburb": "Oneroa",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "5007740965629",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/projectreachoutwaiheke",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-08T07:06:47Z"
+}

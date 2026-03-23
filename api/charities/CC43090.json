@@ -1,0 +1,27 @@
+{
+  "id": 50795,
+  "registrationNumber": "CC43090",
+  "name": "TDL No.1 Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-08-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Statrec@tgh.co.nz",
+  "address": {
+    "line1": "6 Bryce Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429032108934",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T01:35:15Z"
+}

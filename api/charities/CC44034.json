@@ -1,0 +1,27 @@
+{
+  "id": 50463,
+  "registrationNumber": "CC44034",
+  "name": "The Tui Motu Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john.gallaher@forbar.co.nz",
+  "address": {
+    "line1": "52 Union Street West",
+    "line2": " ",
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043162598",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T00:35:56Z"
+}

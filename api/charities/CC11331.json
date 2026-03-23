@@ -1,0 +1,27 @@
+{
+  "id": 53166,
+  "registrationNumber": "CC11331",
+  "name": "Citizens Advice Bureau Otara Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cab.org.nz",
+  "email": "manager.otara@cab.org.nz",
+  "address": {
+    "line1": "Shop 1&2, 46 Fair Mall",
+    "line2": "Otara Town Centre, Bairds Rd",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": "9429042820666",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T02:08:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 77840,
+  "registrationNumber": "CC63645",
+  "name": "South Waikato Investment Fund",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-11-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.swift.org.nz/",
+  "email": "shannon.double@swift.org.nz",
+  "address": {
+    "line1": "Pūkenga Rau, Level 1, 34 Chambers Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tokoroa",
+    "postcode": "3420"
+  },
+  "nzbn": "9429043279821",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T01:14:38Z"
+}

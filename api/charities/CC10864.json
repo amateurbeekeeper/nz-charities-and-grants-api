@@ -1,0 +1,27 @@
+{
+  "id": 52587,
+  "registrationNumber": "CC10864",
+  "name": "The Cats Protection League Wellington Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cpl-wellington.org.nz",
+  "email": "president@catsprotectionwellington.org.nz",
+  "address": {
+    "line1": "29 Vancouver Street",
+    "line2": " ",
+    "suburb": "Kingston",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429042607946",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WgtnCPL",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T05:17:21Z"
+}

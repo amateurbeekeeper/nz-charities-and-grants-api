@@ -1,0 +1,27 @@
+{
+  "id": 61269,
+  "registrationNumber": "CC38484",
+  "name": "Theatre New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.theatrenewzealand.co.nz",
+  "email": "president@theatrenewzealand.co.nz",
+  "address": {
+    "line1": "19 Te Ore Ore Road",
+    "line2": " ",
+    "suburb": "Lansdowne",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429042868040",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Theatre New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T03:38:30Z"
+}

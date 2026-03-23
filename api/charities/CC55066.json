@@ -1,0 +1,27 @@
+{
+  "id": 68726,
+  "registrationNumber": "CC55066",
+  "name": "Indigo and Iris Foundation",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-09-08T00:00:00Z",
+  "dateDeregistered": "2021-07-27T00:00:00Z",
+  "website": "indigoandiris.co",
+  "email": "hannah@indigoandiris.co",
+  "address": {
+    "line1": "2 Earl Street",
+    "line2": null,
+    "suburb": "Hillsborough",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429046305046",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "indigoandirs",
+    "twitter": null
+  },
+  "lastUpdated": "2021-08-11T22:27:44Z"
+}

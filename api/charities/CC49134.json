@@ -1,0 +1,27 @@
+{
+  "id": 34965,
+  "registrationNumber": "CC49134",
+  "name": "What Hope Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://whathope.org.nz",
+  "email": "ken@whathope.org.nz",
+  "address": {
+    "line1": "25a Nicholas Gibbons Drive",
+    "line2": " ",
+    "suburb": "Clendon Park",
+    "city": "Auckland",
+    "postcode": "2103"
+  },
+  "nzbn": "9429043264292",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T02:44:20Z"
+}

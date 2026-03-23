@@ -1,0 +1,27 @@
+{
+  "id": 34033,
+  "registrationNumber": "CC50539",
+  "name": "Tairawhiti Voyaging Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tairawhitiwaka.org",
+  "email": "emma@tairawhitiwaka.org",
+  "address": {
+    "line1": "43 Scarlys Way",
+    "line2": "Gisborne 4010",
+    "suburb": "Okitu",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042936299",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tairawhitivoyagingtrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T02:26:03Z"
+}

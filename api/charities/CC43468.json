@@ -1,0 +1,27 @@
+{
+  "id": 62734,
+  "registrationNumber": "CC43468",
+  "name": "New Zealand Basketball Foundation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "saileen@nz.basketball",
+  "address": {
+    "line1": "Level 6",
+    "line2": "39 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042679370",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-29T19:16:07Z"
+}

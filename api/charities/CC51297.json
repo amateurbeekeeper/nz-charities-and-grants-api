@@ -1,0 +1,27 @@
+{
+  "id": 34715,
+  "registrationNumber": "CC51297",
+  "name": "Mangere Law Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-02-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david.anstice@mangerelaw.org.nz",
+  "address": {
+    "line1": "Unit 9, Shop 27",
+    "line2": "Mangere Town Centre",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429041314630",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T19:16:49Z"
+}

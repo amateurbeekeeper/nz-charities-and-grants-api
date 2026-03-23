@@ -1,0 +1,27 @@
+{
+  "id": 52890,
+  "registrationNumber": "CC20010",
+  "name": "Cornerstone Family Support Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2020-11-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "russ@secan.co.nz",
+  "address": {
+    "line1": "100 Tainui Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": "9429042912088",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Supporting Families West Coast",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T20:03:55Z"
+}

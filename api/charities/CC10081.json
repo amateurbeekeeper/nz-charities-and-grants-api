@@ -1,0 +1,27 @@
+{
+  "id": 51036,
+  "registrationNumber": "CC10081",
+  "name": "ChildFund New Zealand Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.childfund.org.nz",
+  "email": "sarah@ChildFund.org.nz",
+  "address": {
+    "line1": "2 Kitchener Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429039225627",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T20:49:59Z"
+}

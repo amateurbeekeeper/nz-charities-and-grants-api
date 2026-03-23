@@ -1,0 +1,27 @@
+{
+  "id": 69900,
+  "registrationNumber": "CC56260",
+  "name": "Donna Doolittle's Animal Rescue",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "msjt62@gmail.com",
+  "address": {
+    "line1": "953 Fairburn Rd",
+    "line2": "RD2",
+    "suburb": "Kaitaia",
+    "city": "Far North",
+    "postcode": "0482"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Donna Doolittle's Animal Rescue",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T01:16:50Z"
+}

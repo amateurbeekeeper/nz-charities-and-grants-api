@@ -1,0 +1,27 @@
+{
+  "id": 71518,
+  "registrationNumber": "CC57914",
+  "name": "Runanga Marae Reservation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pandhhillman@xtra.co.nz",
+  "address": {
+    "line1": "907 Oliphant Road",
+    "line2": " ",
+    "suburb": "Raureka",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T02:47:22Z"
+}

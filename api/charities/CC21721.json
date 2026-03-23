@@ -1,0 +1,27 @@
+{
+  "id": 56001,
+  "registrationNumber": "CC21721",
+  "name": "Pakuranga Chinese Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://pcbc.org.nz",
+  "email": "kariswhtang@gmail.com",
+  "address": {
+    "line1": "PO Box 51844",
+    "line2": "Pakuranga",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "2140"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/pcbchurch/",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2024-10-31T18:39:17Z"
+}

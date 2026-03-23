@@ -1,0 +1,27 @@
+{
+  "id": 35323,
+  "registrationNumber": "CC49590",
+  "name": "Life 4 U",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-08-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.life4u.org.nz",
+  "email": "grahamtui@life4u.org.nz",
+  "address": {
+    "line1": "194 Pompallier Estate Drive",
+    "line2": " ",
+    "suburb": "Maunu",
+    "city": "Whangarei",
+    "postcode": "110"
+  },
+  "nzbn": "9429043265367",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:54:02Z"
+}

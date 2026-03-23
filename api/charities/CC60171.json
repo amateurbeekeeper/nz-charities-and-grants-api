@@ -1,0 +1,27 @@
+{
+  "id": 73711,
+  "registrationNumber": "CC60171",
+  "name": "Mararoa Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.mavoraexplorer.co.nz",
+  "email": "info@mavoraexplorer.co.nz",
+  "address": {
+    "line1": "2373 Te Anau Mossburn Highway",
+    "line2": "RD 2",
+    "suburb": "The Key",
+    "city": "Te Anau",
+    "postcode": "9672"
+  },
+  "nzbn": "9429049970531",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@mavoraexplorer",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T05:31:05Z"
+}

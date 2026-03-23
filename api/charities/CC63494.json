@@ -1,0 +1,27 @@
+{
+  "id": 77697,
+  "registrationNumber": "CC63494",
+  "name": "SWEET NOAH ANIMAL RESCUE",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-07-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@sweetnoah.co.nz",
+  "address": {
+    "line1": "129-131 Diana Drive",
+    "line2": null,
+    "suburb": "Wairau Valley",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/sweetnoahnz0/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T05:33:46Z"
+}

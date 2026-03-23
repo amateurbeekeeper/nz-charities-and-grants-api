@@ -1,0 +1,27 @@
+{
+  "id": 60760,
+  "registrationNumber": "CC28229",
+  "name": "Takapuna Bible Chapel",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cbmaclaren@hotmail.com",
+  "address": {
+    "line1": "13 Jutland Road",
+    "line2": " ",
+    "suburb": "Hauraki",
+    "city": "Auckland",
+    "postcode": "622"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Takapuna Bible Church",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T03:20:08Z"
+}

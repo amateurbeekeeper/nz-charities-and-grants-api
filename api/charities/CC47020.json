@@ -1,0 +1,27 @@
+{
+  "id": 36540,
+  "registrationNumber": "CC47020",
+  "name": "Cancer Rehabilitation Foundation (PINC & STEEL)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cancerrehab.org.nz",
+  "email": "lou@pincandsteel.com",
+  "address": {
+    "line1": "109 Adams Road",
+    "line2": "RD 2",
+    "suburb": "Whangapoua",
+    "city": "Coromandel",
+    "postcode": "3582"
+  },
+  "nzbn": "9429043147748",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/pincandsteel",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T03:23:27Z"
+}

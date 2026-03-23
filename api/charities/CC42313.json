@@ -1,0 +1,27 @@
+{
+  "id": 50939,
+  "registrationNumber": "CC42313",
+  "name": "Mokoia Pa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "prangihaeata@xtra.co.nz",
+  "address": {
+    "line1": "1305",
+    "line2": "72 Nelson Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T19:27:52Z"
+}

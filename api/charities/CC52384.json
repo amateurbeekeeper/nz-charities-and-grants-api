@@ -1,0 +1,27 @@
+{
+  "id": 66119,
+  "registrationNumber": "CC52384",
+  "name": "Fikun Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.fikuntrust.com",
+  "email": "jumi@jumokegiwa.com",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "122 Pope Street",
+    "suburb": "Camborne",
+    "city": "Porirua",
+    "postcode": "5026"
+  },
+  "nzbn": "9429043270767",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/fikuntrust",
+    "twitter": "www.twitter.com/fikuntrust"
+  },
+  "lastUpdated": "2025-09-22T22:15:38Z"
+}

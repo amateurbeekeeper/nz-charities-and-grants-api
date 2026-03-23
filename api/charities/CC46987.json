@@ -1,0 +1,27 @@
+{
+  "id": 36532,
+  "registrationNumber": "CC46987",
+  "name": "Fund for Timor",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2011-06-28T00:00:00Z",
+  "dateDeregistered": "2025-03-24T00:00:00Z",
+  "website": "http://www.fundfortimor.com",
+  "email": "fundfortimor@gmail.com",
+  "address": {
+    "line1": "4 Prestige Place",
+    "line2": " ",
+    "suburb": "Castor Bay",
+    "city": "Auckland",
+    "postcode": "620"
+  },
+  "nzbn": "9429043146819",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-05T04:22:07Z"
+}

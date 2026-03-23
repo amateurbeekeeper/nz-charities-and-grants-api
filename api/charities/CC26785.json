@@ -1,0 +1,27 @@
+{
+  "id": 58994,
+  "registrationNumber": "CC26785",
+  "name": "Wellington Womens Refuge Group Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wellingtonwomensrefuge.co.nz",
+  "email": "officeadmin@wwr.org.nz",
+  "address": {
+    "line1": "44 Wigan Street",
+    "line2": "264 Cuba Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042841142",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/pages/Wellington-Womens-Refuge/175339925905470",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T22:00:06Z"
+}

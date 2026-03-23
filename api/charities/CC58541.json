@@ -1,0 +1,27 @@
+{
+  "id": 72157,
+  "registrationNumber": "CC58541",
+  "name": "Bay Animal Resources for the Community",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-12-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jess7@live.com",
+  "address": {
+    "line1": "46 Kirk Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hhanimalrescuenz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-05T06:05:00Z"
+}

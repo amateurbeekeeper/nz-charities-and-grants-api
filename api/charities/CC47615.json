@@ -1,0 +1,27 @@
+{
+  "id": 36534,
+  "registrationNumber": "CC47615",
+  "name": "Invercargill Symphonia Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-06-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dr.ewan.adam@mac.com",
+  "address": {
+    "line1": "160 George Street",
+    "line2": " ",
+    "suburb": "Windsor",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042637776",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/InvercargillSymphonia/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-10T01:34:14Z"
+}

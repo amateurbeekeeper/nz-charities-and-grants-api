@@ -1,0 +1,27 @@
+{
+  "id": 70625,
+  "registrationNumber": "CC56999",
+  "name": "The Waverley Golf Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.waverleygolf.co.nz",
+  "email": "jacks40@orcon.net.nz",
+  "address": {
+    "line1": "155 Ihupuku Road",
+    "line2": "Waverley 4591",
+    "suburb": " ",
+    "city": "Waverley",
+    "postcode": "4591"
+  },
+  "nzbn": "9429042971962",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waverley Golf Club Incoporated",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:44:25Z"
+}

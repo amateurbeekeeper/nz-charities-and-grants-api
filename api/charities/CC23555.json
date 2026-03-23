@@ -1,0 +1,27 @@
+{
+  "id": 40420,
+  "registrationNumber": "CC23555",
+  "name": "Estate Eunice Isobel Beswick",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@cookwong.co.nz",
+  "address": {
+    "line1": "C/- Race Douglas Burke Alloo",
+    "line2": "109 Princes Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T18:05:58Z"
+}

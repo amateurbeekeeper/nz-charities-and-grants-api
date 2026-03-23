@@ -1,0 +1,27 @@
+{
+  "id": 70396,
+  "registrationNumber": "CC56759",
+  "name": "Thriving Madly",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thrivingmadly.com",
+  "email": "info@thrivingmadly.com",
+  "address": {
+    "line1": "MHERC ",
+    "line2": " level 1/12 Haeldean Road ",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thrivingmadly/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-06T23:15:28Z"
+}

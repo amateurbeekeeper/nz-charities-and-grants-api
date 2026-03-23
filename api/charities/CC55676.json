@@ -1,0 +1,27 @@
+{
+  "id": 69327,
+  "registrationNumber": "CC55676",
+  "name": "Gospel Light Bible Baptist Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gospellightbbc.org.nz/",
+  "email": "jenniferp.callo@yahoo.com",
+  "address": {
+    "line1": "1 Rielly Place",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GLBBCNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T22:39:08Z"
+}

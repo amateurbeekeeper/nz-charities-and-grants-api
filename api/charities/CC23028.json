@@ -1,0 +1,27 @@
+{
+  "id": 39938,
+  "registrationNumber": "CC23028",
+  "name": "Waimate North Landcare Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waimatenorthlandcare.org.nz",
+  "email": "waimatenorthlandcares@gmail.com",
+  "address": {
+    "line1": "259 Te Ahu Ahu Road",
+    "line2": "RD 2",
+    "suburb": "Waimate North",
+    "city": "Kaikohe",
+    "postcode": "0472"
+  },
+  "nzbn": "9429042966869",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http/www.facebook.co./waimatenorthlandcare",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T21:38:41Z"
+}

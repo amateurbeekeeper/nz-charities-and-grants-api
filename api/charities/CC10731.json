@@ -1,0 +1,27 @@
+{
+  "id": 51948,
+  "registrationNumber": "CC10731",
+  "name": "Age Concern Rodney Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@ageconcernrodney.org.nz",
+  "address": {
+    "line1": "Westpac Plaza",
+    "line2": "Tamariki Avenue",
+    "suburb": "Orewa",
+    "city": "Hibiscus Coast",
+    "postcode": "0931"
+  },
+  "nzbn": "9429043028016",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T01:43:33Z"
+}

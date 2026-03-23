@@ -1,0 +1,27 @@
+{
+  "id": 65359,
+  "registrationNumber": "CC51594",
+  "name": "Kaipara Basketball Association",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-04-20T00:00:00Z",
+  "dateDeregistered": "2018-08-31T00:00:00Z",
+  "website": "http://www.kaiparabasketball.co.nz",
+  "email": "nocharityemail@dia.govt.nz",
+  "address": {
+    "line1": "Unit 1811",
+    "line2": "171 Queen Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/KaiparaBasketballAssociation",
+    "twitter": "https://twitter.com/KaiparaBball"
+  },
+  "lastUpdated": "2019-07-31T22:54:02Z"
+}

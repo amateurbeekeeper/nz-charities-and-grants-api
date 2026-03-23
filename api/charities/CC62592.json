@@ -1,0 +1,27 @@
+{
+  "id": 76199,
+  "registrationNumber": "CC62592",
+  "name": "Smith Consultancy Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "smithconsultancy@outlook.co.nz",
+  "address": {
+    "line1": "1523 Korokipo Road",
+    "line2": "RD 3",
+    "suburb": "Fernhill",
+    "city": "Napier",
+    "postcode": "4183"
+  },
+  "nzbn": "9429051663124",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@theluckylittlepig ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T09:49:55Z"
+}

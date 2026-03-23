@@ -1,0 +1,27 @@
+{
+  "id": 64116,
+  "registrationNumber": "CC44207",
+  "name": "Te Aranui Youth Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tayt.org.nz",
+  "email": "admin@tayt.org.nz",
+  "address": {
+    "line1": "135 Thirteenth Avenue",
+    "line2": " ",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042947486",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TeAranuiYouthTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T22:27:07Z"
+}

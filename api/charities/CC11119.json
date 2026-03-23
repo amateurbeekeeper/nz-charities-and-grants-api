@@ -1,0 +1,27 @@
+{
+  "id": 52921,
+  "registrationNumber": "CC11119",
+  "name": "Interacting",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.interacting.org.nz",
+  "email": "sabrina@interacting.org.nz",
+  "address": {
+    "line1": "23 Fruitvale Road",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429043139309",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/InteractingAuckland/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:37:45Z"
+}

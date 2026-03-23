@@ -1,0 +1,27 @@
+{
+  "id": 42751,
+  "registrationNumber": "CC40811",
+  "name": "The Big Little Theatre Company Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kimandjem@gmail.com",
+  "address": {
+    "line1": "815 Back Track",
+    "line2": "RD 12",
+    "suburb": "Highbank",
+    "city": "Rakaia",
+    "postcode": "7782"
+  },
+  "nzbn": "9429043101146",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thebiglittletheatrecompany",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T23:46:39Z"
+}

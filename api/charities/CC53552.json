@@ -1,0 +1,27 @@
+{
+  "id": 67265,
+  "registrationNumber": "CC53552",
+  "name": "C3 Church Hawkes Bay",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.c3hawkesbay.org.nz",
+  "email": "rachel@c3hawkesbay.org.nz",
+  "address": {
+    "line1": "923 Southampton Street West",
+    "line2": " ",
+    "suburb": "Saint Leonards",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429043310258",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@c3churchHB",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T23:07:33Z"
+}

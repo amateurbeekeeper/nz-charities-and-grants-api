@@ -1,0 +1,27 @@
+{
+  "id": 53143,
+  "registrationNumber": "CC11354",
+  "name": "Crown Financial Ministries New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.crown.org.nz",
+  "email": "crown@crown.org.nz",
+  "address": {
+    "line1": "99 Waterloo Crescent",
+    "line2": " ",
+    "suburb": "Hokowhitu",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042987222",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@CrownFinanceNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-23T20:45:53Z"
+}

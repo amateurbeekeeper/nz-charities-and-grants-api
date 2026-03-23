@@ -1,0 +1,27 @@
+{
+  "id": 65146,
+  "registrationNumber": "CC30634",
+  "name": "Ararua Church ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kbdbchambers@gmail.com",
+  "address": {
+    "line1": "1874 Ararua Road",
+    "line2": "Ararua 0594",
+    "suburb": " ",
+    "city": "Ararua",
+    "postcode": "0594"
+  },
+  "nzbn": "9429043088553",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-16T19:07:15Z"
+}

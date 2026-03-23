@@ -1,0 +1,27 @@
+{
+  "id": 34346,
+  "registrationNumber": "CC50629",
+  "name": "The Centre for Science and Citizenship Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2014-06-03T00:00:00Z",
+  "dateDeregistered": "2022-05-31T00:00:00Z",
+  "website": "https://www.nzcsc.org",
+  "email": "lynne@nzcsc.org",
+  "address": {
+    "line1": "14 Kaimanawa Street",
+    "line2": "RD 1",
+    "suburb": "Omori",
+    "city": "Turangi",
+    "postcode": "3381"
+  },
+  "nzbn": "9429043274970",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/nzcsctrust/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2024-09-25T19:31:13Z"
+}

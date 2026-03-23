@@ -1,0 +1,27 @@
+{
+  "id": 50760,
+  "registrationNumber": "CC42857",
+  "name": "Nelson Riding Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nelsonridingclubnz.com",
+  "email": "nelsonridingclub@hotmail.com",
+  "address": {
+    "line1": "453 High Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Motueka",
+    "postcode": "7120"
+  },
+  "nzbn": "9429043093465",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Nelson Riding Club (NZ)",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T10:22:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 47071,
+  "registrationNumber": "CC42809",
+  "name": "Rata Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-11-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rata.org.nz",
+  "email": "ratasupport@gmail.com",
+  "address": {
+    "line1": "88 Lowe Road",
+    "line2": "RD 2",
+    "suburb": "Rukuhia",
+    "city": "Hamilton",
+    "postcode": "3282"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RATATeachersSupport/?ref=aymt_homepage_panel",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T21:28:12Z"
+}

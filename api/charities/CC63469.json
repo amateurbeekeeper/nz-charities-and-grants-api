@@ -1,0 +1,27 @@
+{
+  "id": 77669,
+  "registrationNumber": "CC63469",
+  "name": "Auckland Christ Life Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lucyliu270@hotmail.com",
+  "address": {
+    "line1": "831 New North Road",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T08:35:20Z"
+}

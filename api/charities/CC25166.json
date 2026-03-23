@@ -1,0 +1,27 @@
+{
+  "id": 42259,
+  "registrationNumber": "CC25166",
+  "name": "He Oranga mo nga Uri Tuku Iho Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tukuiho.wordpress.com",
+  "email": "tuiaroha@gmail.com",
+  "address": {
+    "line1": "12 Mangakino Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ruatoria",
+    "postcode": "4032"
+  },
+  "nzbn": "9429042990918",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-07-08T02:21:46Z"
+}

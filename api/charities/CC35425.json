@@ -1,0 +1,27 @@
+{
+  "id": 43523,
+  "registrationNumber": "CC35425",
+  "name": "Remuera Primary School PTA Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "adamaoakes@gmail.com",
+  "address": {
+    "line1": "25 Dromorne Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429042996897",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T04:25:47Z"
+}

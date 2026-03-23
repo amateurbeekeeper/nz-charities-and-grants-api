@@ -1,0 +1,27 @@
+{
+  "id": 72758,
+  "registrationNumber": "CC59151",
+  "name": "Eduk8 Canterbury",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.therighttrack.org.nz",
+  "email": "john@eduk8.co.nz",
+  "address": {
+    "line1": "3 Julia Way",
+    "line2": " ",
+    "suburb": "Beachlands",
+    "city": "Auckland",
+    "postcode": "2018"
+  },
+  "nzbn": "9429049364170",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T23:41:15Z"
+}

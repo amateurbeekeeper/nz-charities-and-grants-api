@@ -1,0 +1,27 @@
+{
+  "id": 55468,
+  "registrationNumber": "CC22391",
+  "name": "Quinlan Court Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hayden@beltonsmith.co.nz",
+  "address": {
+    "line1": "59 Harrison Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429037944438",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:00:15Z"
+}

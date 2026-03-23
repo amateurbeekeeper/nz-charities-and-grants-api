@@ -1,0 +1,27 @@
+{
+  "id": 64433,
+  "registrationNumber": "CC42837",
+  "name": "Gonville Health Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sharyn@tpco.co.nz",
+  "address": {
+    "line1": "44 Abbot Street",
+    "line2": " ",
+    "suburb": "Gonville",
+    "city": "Wanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429033039848",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T20:24:33Z"
+}

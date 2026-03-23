@@ -1,0 +1,27 @@
+{
+  "id": 39131,
+  "registrationNumber": "CC22851",
+  "name": "Taranaki Kiwi Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taranakikiwi.org.nz/",
+  "email": "admin@taranakikiwi.org.nz",
+  "address": {
+    "line1": "31 Richmond Street",
+    "line2": "Inglewood 4330",
+    "suburb": "Mangamingi",
+    "city": "Inglewood",
+    "postcode": "4330"
+  },
+  "nzbn": "9429043000685",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TaranakiKiwiTrust/",
+    "twitter": "https://www.instagram.com/taranakikiwitrust/"
+  },
+  "lastUpdated": "2025-11-20T18:14:15Z"
+}

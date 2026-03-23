@@ -1,0 +1,27 @@
+{
+  "id": 69663,
+  "registrationNumber": "CC56018",
+  "name": "Citizen AI Limited",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-08-14T00:00:00Z",
+  "dateDeregistered": "2021-06-30T00:00:00Z",
+  "website": "https://citizenai.nz",
+  "email": "geoffrey@citizenai.nz",
+  "address": {
+    "line1": "Suite 1",
+    "line2": "Level 4",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429046709059",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": "https://twitter.com/citizenai_nz"
+  },
+  "lastUpdated": "2024-11-26T23:20:08Z"
+}

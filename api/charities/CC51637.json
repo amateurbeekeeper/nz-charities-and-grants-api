@@ -1,0 +1,27 @@
+{
+  "id": 65402,
+  "registrationNumber": "CC51637",
+  "name": "Fab Lab Masterton",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2023-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://fablabmasterton.org.nz",
+  "email": "farmgeek@gmail.com",
+  "address": {
+    "line1": "203 Kaka Amu Road",
+    "line2": "RD 11",
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5871"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/fablabmasterton/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T08:59:57Z"
+}

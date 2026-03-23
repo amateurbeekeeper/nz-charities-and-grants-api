@@ -1,0 +1,27 @@
+{
+  "id": 73862,
+  "registrationNumber": "CC60271",
+  "name": "Tu Kaha Tu Ora",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "p.moon@middleton.school.nz",
+  "address": {
+    "line1": "251 Estuary Road",
+    "line2": " ",
+    "suburb": "South New Brighton",
+    "city": "Christchurch",
+    "postcode": "8062"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Tū Kaha Tū Ora",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:54:36Z"
+}

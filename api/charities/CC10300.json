@@ -1,0 +1,27 @@
+{
+  "id": 51011,
+  "registrationNumber": "CC10300",
+  "name": "The National Foundation for the Deaf and Hard of Hearing Manatopu Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-05-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nfdhh.org.nz",
+  "email": "natasha@nfdhh.org.nz",
+  "address": {
+    "line1": "1 Kenwyn Street",
+    "line2": "1 Kenwyn Street",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429042786931",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.comTheNationalFoundationfortheDeaf",
+    "twitter": "https://twitter.com/theNatFdnDeaf"
+  },
+  "lastUpdated": "2025-06-17T21:23:49Z"
+}

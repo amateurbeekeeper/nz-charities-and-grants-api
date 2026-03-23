@@ -1,0 +1,27 @@
+{
+  "id": 41609,
+  "registrationNumber": "CC24716",
+  "name": "Lifeline Christchurch",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": "2014-03-26T00:00:00Z",
+  "website": "www.lifelinechch.org.nz",
+  "email": "murray.withers@mwa.co.nz",
+  "address": {
+    "line1": "1 Knox Lane",
+    "line2": "Knox Centre",
+    "suburb": null,
+    "city": "Christchurch",
+    "postcode": "8114"
+  },
+  "nzbn": "9429043028856",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:21:34Z"
+}

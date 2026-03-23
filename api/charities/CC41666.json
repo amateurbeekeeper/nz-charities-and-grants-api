@@ -1,0 +1,27 @@
+{
+  "id": 64344,
+  "registrationNumber": "CC41666",
+  "name": "Millennium Institute of Sport and Health",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-08-04T00:00:00Z",
+  "dateDeregistered": "2017-03-30T00:00:00Z",
+  "website": "http://www.autmillennium.org.nz",
+  "email": "opaterson@autmillennium.org.nz",
+  "address": {
+    "line1": "17 Antares Place",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429043084647",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-01-19T19:05:48Z"
+}

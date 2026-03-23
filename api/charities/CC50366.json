@@ -1,0 +1,27 @@
+{
+  "id": 33750,
+  "registrationNumber": "CC50366",
+  "name": "I Love Avondale",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.iloveavondale.co.nz/",
+  "email": "sue@iloveavondale.co.nz",
+  "address": {
+    "line1": "1855 Great North Road",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429043321124",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ILoveAvondale",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:06:16Z"
+}

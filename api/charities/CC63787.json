@@ -1,0 +1,27 @@
+{
+  "id": 77981,
+  "registrationNumber": "CC63787",
+  "name": "Te Maru Kaupapa Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kelly@naia.co.nz",
+  "address": {
+    "line1": "38 Rose Street",
+    "line2": " ",
+    "suburb": "Somerfield",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T00:35:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 59923,
+  "registrationNumber": "CC36167",
+  "name": "Canterbury Rugby Football League Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2011-11-08T00:00:00Z",
+  "website": "http://www.crfl.co.nz",
+  "email": "graeme@crfl.co.nz",
+  "address": {
+    "line1": "95 Jack Hinton Drive",
+    "line2": null,
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429042604396",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-12-03T21:29:48Z"
+}

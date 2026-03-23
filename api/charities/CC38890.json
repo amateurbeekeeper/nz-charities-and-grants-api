@@ -1,0 +1,27 @@
+{
+  "id": 55819,
+  "registrationNumber": "CC38890",
+  "name": "Dunedin Astronomical Society Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dunedin.astronomical.nz/",
+  "email": "treasurer@dunedin.astronomical.nz",
+  "address": {
+    "line1": "Upper Robin Hood Park",
+    "line2": "City Road",
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": "9429043075836",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dunedin.astronomy/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:40:39Z"
+}

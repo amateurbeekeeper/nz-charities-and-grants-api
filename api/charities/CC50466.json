@@ -1,0 +1,27 @@
+{
+  "id": 34014,
+  "registrationNumber": "CC50466",
+  "name": "Tokoroa High School Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tokoroahightrust.org.nz",
+  "email": "info@tokoroahightrust.org.nz",
+  "address": {
+    "line1": "Billah Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tokoroa",
+    "postcode": "3420"
+  },
+  "nzbn": "9429042891420",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:19:27Z"
+}

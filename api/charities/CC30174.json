@@ -1,0 +1,27 @@
+{
+  "id": 48085,
+  "registrationNumber": "CC30174",
+  "name": "Pacific Health Service Hutt Valley Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://Pacifichealthhutt.co.nz",
+  "email": "nanai.muaau@phshutt.co.nz",
+  "address": {
+    "line1": "1 Hewer Crescent",
+    "line2": " ",
+    "suburb": "Naenae",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429042990277",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Pacific Health Service - Hutt Valley ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T03:58:41Z"
+}

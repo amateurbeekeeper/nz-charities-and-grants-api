@@ -1,0 +1,27 @@
+{
+  "id": 32893,
+  "registrationNumber": "CC48459",
+  "name": "R.E.K.A. Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-09-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Mate@reka.org.nz",
+  "address": {
+    "line1": "88A Pahou Pa Rd",
+    "line2": "Whakatane 3120",
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429043301263",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/rekatrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T04:55:49Z"
+}

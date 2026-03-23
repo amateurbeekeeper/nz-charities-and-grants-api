@@ -1,0 +1,27 @@
+{
+  "id": 71422,
+  "registrationNumber": "CC57796",
+  "name": "Stray Cats New Zealand Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-01-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.straycatsnz.org",
+  "email": "straycatsnz@gmail.com",
+  "address": {
+    "line1": "3 Scott Road",
+    "line2": " ",
+    "suburb": "Hobsonville",
+    "city": "Auckland",
+    "postcode": "0616"
+  },
+  "nzbn": "9429047802650",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T23:56:15Z"
+}

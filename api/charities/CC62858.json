@@ -1,0 +1,27 @@
+{
+  "id": 76702,
+  "registrationNumber": "CC62858",
+  "name": "Abbeyfield Manukau Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-10-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://abbeyfield.org.nz",
+  "email": "office@abbeyfield.org.nz",
+  "address": {
+    "line1": "17 Tuhono Street",
+    "line2": " ",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:20:48Z"
+}

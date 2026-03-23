@@ -1,0 +1,27 @@
+{
+  "id": 45219,
+  "registrationNumber": "CC35400",
+  "name": "Invercargill Women's Refuge Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cathy@iwr.org.nz",
+  "address": {
+    "line1": "142 Tramway Road",
+    "line2": " ",
+    "suburb": "Strathern",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": "9429042637844",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Invercargill Women's Refuge",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:39:52Z"
+}

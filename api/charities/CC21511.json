@@ -1,0 +1,27 @@
+{
+  "id": 55837,
+  "registrationNumber": "CC21511",
+  "name": "The Sure and Stedfast Development Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waiparaadventure.nz",
+  "email": "Stephen@waiparaadventure.nz",
+  "address": {
+    "line1": "137 Darnley Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Amberley",
+    "postcode": "7483"
+  },
+  "nzbn": "9429042955290",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "waipara adventure centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:00:18Z"
+}

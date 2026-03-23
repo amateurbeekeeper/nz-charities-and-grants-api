@@ -1,0 +1,27 @@
+{
+  "id": 53200,
+  "registrationNumber": "CC20028",
+  "name": "Canterbury Philharmonia Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-11-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://canterburyphilhamonia.org.nz",
+  "email": "treasurercantyphil@gmail.com",
+  "address": {
+    "line1": "Villa 32",
+    "line2": "Silverstream Lifestyle",
+    "suburb": "Bishopdale",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042606673",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-21T04:36:14Z"
+}

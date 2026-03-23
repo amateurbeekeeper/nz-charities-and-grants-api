@@ -1,0 +1,27 @@
+{
+  "id": 71469,
+  "registrationNumber": "CC57842",
+  "name": "The Kindness Collective Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-06-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kindness.org.nz",
+  "email": "sarah@kindness.org.nz",
+  "address": {
+    "line1": "33 Walmsley Road",
+    "line2": " ",
+    "suburb": "Ōtāhuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429048315197",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/kindnesscollectivefoundation ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T05:59:48Z"
+}

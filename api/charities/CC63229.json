@@ -1,0 +1,27 @@
+{
+  "id": 77409,
+  "registrationNumber": "CC63229",
+  "name": "Good Care Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.goodcarecommunitytrust.co.nz",
+  "email": "goodcarecommunitytrust@gmail.com",
+  "address": {
+    "line1": "170B Edmonton Road",
+    "line2": " ",
+    "suburb": "Te Atatu South",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429052244902",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "goodcarecommunitytrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T01:08:35Z"
+}

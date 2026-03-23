@@ -1,0 +1,27 @@
+{
+  "id": 35436,
+  "registrationNumber": "CC49643",
+  "name": "EdCollective Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2013-08-23T00:00:00Z",
+  "dateDeregistered": "2022-10-24T00:00:00Z",
+  "website": null,
+  "email": "craig@faraday.company",
+  "address": {
+    "line1": "Apartment 1501",
+    "line2": "The Vincent",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429030127630",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-10-31T23:05:47Z"
+}

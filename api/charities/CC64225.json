@@ -1,0 +1,27 @@
+{
+  "id": 78407,
+  "registrationNumber": "CC64225",
+  "name": "Criminon Aotearoa Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-07-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nanmcleary@gmail.com",
+  "address": {
+    "line1": "12A Auckland Road",
+    "line2": "Warkworth 0910",
+    "suburb": "Chartwell",
+    "city": "Warkworth",
+    "postcode": "0910"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T01:28:32Z"
+}

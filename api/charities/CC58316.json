@@ -1,0 +1,27 @@
+{
+  "id": 71937,
+  "registrationNumber": "CC58316",
+  "name": "Will & Able Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-09-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.willandable.co.nz",
+  "email": "finance@willandable.co.nz",
+  "address": {
+    "line1": "246 Puhinui Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429048207348",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T20:40:54Z"
+}

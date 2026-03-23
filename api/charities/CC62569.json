@@ -1,0 +1,27 @@
+{
+  "id": 76155,
+  "registrationNumber": "CC62569",
+  "name": "The Neighbourhood Literacy Project",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.neighbourhoodliteracyproject.co.nz/",
+  "email": "neighbourhoodliteracyproject@gmail.com",
+  "address": {
+    "line1": "25 Hewett Way",
+    "line2": " ",
+    "suburb": "Ngaio",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429052271656",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T00:05:18Z"
+}

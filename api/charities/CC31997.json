@@ -1,0 +1,27 @@
+{
+  "id": 49361,
+  "registrationNumber": "CC31997",
+  "name": "The Mt Roskill Sports and Recreation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mrgs.school.nz",
+  "email": "tom.webb@mrgs.school.nz",
+  "address": {
+    "line1": "37 Frost Road",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429043125920",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T19:33:21Z"
+}

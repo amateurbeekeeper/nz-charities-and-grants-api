@@ -1,0 +1,27 @@
+{
+  "id": 69867,
+  "registrationNumber": "CC56228",
+  "name": "The New Day Church Auckland Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-01-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.newdaychurchauckland.com",
+  "email": "russell@newdaychurchauckland.com",
+  "address": {
+    "line1": "21 Tamariki Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Orewa",
+    "postcode": "0931"
+  },
+  "nzbn": "9429047195455",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/New-Day-Church-Auckland-295169624660692/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T22:27:16Z"
+}

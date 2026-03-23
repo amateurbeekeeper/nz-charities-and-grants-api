@@ -1,0 +1,27 @@
+{
+  "id": 36266,
+  "registrationNumber": "CC46093",
+  "name": "Waikato Postgraduate Medicine Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-01-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ross.lawrenson@waikato.ac.nz",
+  "address": {
+    "line1": "PO Box 25060",
+    "line2": "Waikato University",
+    "suburb": "Hillcrest",
+    "city": "Hamilton",
+    "postcode": "3255"
+  },
+  "nzbn": "9429042889397",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-12-01T18:44:03Z"
+}

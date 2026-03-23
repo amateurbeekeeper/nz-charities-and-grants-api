@@ -1,0 +1,27 @@
+{
+  "id": 74118,
+  "registrationNumber": "CC60531",
+  "name": "The B.R.A.V.E. Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thebravefoundation.org.nz",
+  "email": "katannehart@gmail.com",
+  "address": {
+    "line1": "11 Napier Terrace",
+    "line2": " ",
+    "suburb": "Hospital Hill",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429050734597",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The BRAVE Foundation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:34:30Z"
+}

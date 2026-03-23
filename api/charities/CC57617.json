@@ -1,0 +1,27 @@
+{
+  "id": 71244,
+  "registrationNumber": "CC57617",
+  "name": "Queenstown Vegan Society Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-11-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kat.gollop@hotmail.co.uk",
+  "address": {
+    "line1": "13A McMillan Road",
+    "line2": "RD 1",
+    "suburb": "Arthurs Point",
+    "city": "Queenstown",
+    "postcode": "9371"
+  },
+  "nzbn": "9429047715653",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/QueenstownVeganSociety/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-04T00:18:57Z"
+}

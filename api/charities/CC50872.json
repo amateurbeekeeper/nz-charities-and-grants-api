@@ -1,0 +1,27 @@
+{
+  "id": 34529,
+  "registrationNumber": "CC50872",
+  "name": "Kōtui Ako | Virtual Learning Network Aotearoa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://kotuiako.school.nz/",
+  "email": "rachel.whalley@kotuiako.school.nz",
+  "address": {
+    "line1": "131B Hogg Road",
+    "line2": "RD 2",
+    "suburb": "Rotoma",
+    "city": "Whakatane",
+    "postcode": "3192"
+  },
+  "nzbn": "9429043285297",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KotuiAkoVLN",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-25T19:19:10Z"
+}

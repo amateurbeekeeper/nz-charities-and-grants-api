@@ -1,0 +1,27 @@
+{
+  "id": 56396,
+  "registrationNumber": "CC22250",
+  "name": "The New Zealand Archive of Film Television and Sound Nga Taonga Whitiahua me Nga Taonga Korero",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngataonga.org.nz",
+  "email": "accounts@ngataonga.org.nz",
+  "address": {
+    "line1": "2 Aitken Street",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042686422",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T23:03:16Z"
+}

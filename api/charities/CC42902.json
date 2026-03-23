@@ -1,0 +1,27 @@
+{
+  "id": 64680,
+  "registrationNumber": "CC42902",
+  "name": "Gladstone Tennis Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gladstonetennis.co.nz",
+  "email": "jeremy.skinner@anz.com",
+  "address": {
+    "line1": "120 Gladstone Road",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429042634409",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "gladstone tennis club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T19:26:00Z"
+}

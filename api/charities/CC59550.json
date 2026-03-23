@@ -1,0 +1,27 @@
+{
+  "id": 73147,
+  "registrationNumber": "CC59550",
+  "name": "Te Pu-a-nga Maara",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tpnm.co.nz",
+  "email": "tehapaio@tpnm.co.nz",
+  "address": {
+    "line1": "5 Jack Conway Avenue",
+    "line2": " ",
+    "suburb": "Manukau City",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429049445923",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Pu-a-nga Maara",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T20:25:10Z"
+}

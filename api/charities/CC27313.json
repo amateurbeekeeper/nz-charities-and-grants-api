@@ -1,0 +1,27 @@
+{
+  "id": 39307,
+  "registrationNumber": "CC27313",
+  "name": "The Gifting Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "richard@awatere.co",
+  "address": {
+    "line1": "142 Victoria Avenue",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T19:26:36Z"
+}

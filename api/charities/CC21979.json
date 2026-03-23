@@ -1,0 +1,27 @@
+{
+  "id": 55561,
+  "registrationNumber": "CC21979",
+  "name": "The Neonatal Trust (Wellington)",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-03-19T00:00:00Z",
+  "dateDeregistered": "2020-03-31T00:00:00Z",
+  "website": "http://www.neonataltrust.org.nz",
+  "email": "chair@neonataltrust.org.nz",
+  "address": {
+    "line1": "C/- MINTER ELLISON RUDD WATTS",
+    "line2": "125 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042913696",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-01-07T01:50:52Z"
+}

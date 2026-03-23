@@ -1,0 +1,27 @@
+{
+  "id": 41918,
+  "registrationNumber": "CC25212",
+  "name": "Kotuku Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.asupportedlife.com",
+  "email": "carissa@asupportedlife.co.nz",
+  "address": {
+    "line1": "Unit 7",
+    "line2": "4 Waipareira Avenue",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429042655244",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/asupportedlife",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T03:25:15Z"
+}

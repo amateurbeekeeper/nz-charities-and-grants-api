@@ -1,0 +1,27 @@
+{
+  "id": 75232,
+  "registrationNumber": "CC61662",
+  "name": "The Rose Gold Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-10-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kiaora@rosegoldtrust.com",
+  "address": {
+    "line1": "23 Plymouth Road",
+    "line2": " ",
+    "suburb": "Flaxmere",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429051696672",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@rosegoldtrust https://www.facebook.com/profile.php?id=61550876501749",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T03:34:33Z"
+}

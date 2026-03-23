@@ -1,0 +1,27 @@
+{
+  "id": 48330,
+  "registrationNumber": "CC30419",
+  "name": "GC Assist",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gc3.org.nz",
+  "email": "johanna@gc3.org.nz",
+  "address": {
+    "line1": "Level Three",
+    "line2": "Capital Fund House",
+    "suburb": "357 Main Street",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042976035",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:09Z"
+}

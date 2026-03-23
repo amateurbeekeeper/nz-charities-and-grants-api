@@ -1,0 +1,27 @@
+{
+  "id": 74319,
+  "registrationNumber": "CC60725",
+  "name": "PTNZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://projecttalanoa.org.nz",
+  "email": "ptnztrust@gmail.com",
+  "address": {
+    "line1": "4 Netherlands Avenue",
+    "line2": " ",
+    "suburb": "Kelston",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": "9429050951925",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "ptnz - project talanoa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-24T19:35:33Z"
+}

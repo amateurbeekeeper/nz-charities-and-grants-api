@@ -1,0 +1,27 @@
+{
+  "id": 61353,
+  "registrationNumber": "CC34633",
+  "name": "New Zealand Society For Oncology Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzsoncology.org.nz",
+  "email": "admin@nzsoncology.org.nz",
+  "address": {
+    "line1": "University of Otago Medical School",
+    "line2": " 2 Riccarton Avenue",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042977124",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "NZSOncology ",
+    "twitter": "@NzsOncology"
+  },
+  "lastUpdated": "2025-12-07T20:28:19Z"
+}

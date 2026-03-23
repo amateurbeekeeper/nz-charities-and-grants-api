@@ -1,0 +1,27 @@
+{
+  "id": 73200,
+  "registrationNumber": "CC59603",
+  "name": "Birchwood School Parents Team",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.birchwood.school.nz/",
+  "email": "admin@birchwood.school.nz",
+  "address": {
+    "line1": "15 Durham Street",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/Birchwood-School-525139700961316/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-24T02:07:15Z"
+}

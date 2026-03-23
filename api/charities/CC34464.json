@@ -1,0 +1,27 @@
+{
+  "id": 58784,
+  "registrationNumber": "CC34464",
+  "name": "Tauranga Community Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kimberley.reed@bopdhb.govt.nz",
+  "address": {
+    "line1": "C/- Tauranga Hospital",
+    "line2": "Cameron Road",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": null
+  },
+  "nzbn": "9429043064496",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-14T19:21:35Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 62090,
+  "registrationNumber": "CC35882",
+  "name": "The Depot (Nelson) Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thedepot.org.nz",
+  "email": "office@teoraake.org.nz",
+  "address": {
+    "line1": "75 Pascoe Street",
+    "line2": " ",
+    "suburb": "Annesbrook",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429042856900",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/The-Depot-Nelson-Trust-353118125045146/?ref=br_rs",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T01:45:52Z"
+}

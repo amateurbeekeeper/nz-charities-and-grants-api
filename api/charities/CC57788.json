@@ -1,0 +1,27 @@
+{
+  "id": 71418,
+  "registrationNumber": "CC57788",
+  "name": "Flourish Taranaki Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.flourishtaranaki.org",
+  "email": "secretary@flourishtaranaki.org",
+  "address": {
+    "line1": "12 Omata Road",
+    "line2": " ",
+    "suburb": "Westown",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429048110556",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/flourishtaranaki",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-22T19:54:30Z"
+}

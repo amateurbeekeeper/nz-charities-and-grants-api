@@ -1,0 +1,27 @@
+{
+  "id": 66302,
+  "registrationNumber": "CC52570",
+  "name": "Create Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-11-10T00:00:00Z",
+  "dateDeregistered": "2018-09-21T00:00:00Z",
+  "website": null,
+  "email": "chair@create.org.nz",
+  "address": {
+    "line1": "20 Otara Road",
+    "line2": null,
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": "9429043271887",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-09-20T21:01:11Z"
+}

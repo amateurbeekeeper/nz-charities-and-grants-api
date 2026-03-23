@@ -1,0 +1,27 @@
+{
+  "id": 69127,
+  "registrationNumber": "CC55467",
+  "name": "Youth Health and Wellbeing Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-02-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whanakeyouth.org.nz",
+  "email": "leeann@whanakeyouth.org.nz",
+  "address": {
+    "line1": "548 Main Road Stoke",
+    "line2": "530 Main Road Stoke",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429046052490",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whanakeyouth/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T04:51:26Z"
+}

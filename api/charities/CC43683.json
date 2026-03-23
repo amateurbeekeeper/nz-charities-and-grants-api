@@ -1,0 +1,27 @@
+{
+  "id": 50158,
+  "registrationNumber": "CC43683",
+  "name": "Bethany International Church New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mrmkanon@gmail.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "61 Clonbern Road",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429043265947",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:55:52Z"
+}

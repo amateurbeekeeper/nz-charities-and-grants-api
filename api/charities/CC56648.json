@@ -1,0 +1,27 @@
+{
+  "id": 70284,
+  "registrationNumber": "CC56648",
+  "name": "Brave Paws Animal Rescue",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "aaron_grafton@hotmail.com",
+  "address": {
+    "line1": "19 Aorangi Place",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/bravepawsnz/",
+    "twitter": "https://twitter.com/bravepawsrescue"
+  },
+  "lastUpdated": "2025-12-08T19:37:06Z"
+}

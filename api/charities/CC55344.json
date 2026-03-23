@@ -1,0 +1,27 @@
+{
+  "id": 69003,
+  "registrationNumber": "CC55344",
+  "name": "Fundraising Institute of New Zealand Incorporated",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-02-10T00:00:00Z",
+  "dateDeregistered": "2025-07-31T00:00:00Z",
+  "website": "https://www.finz.org.nz",
+  "email": "accounts@finz.org.nz",
+  "address": {
+    "line1": "19 Ravi Street",
+    "line2": " ",
+    "suburb": "Khandallah",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429042704546",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FINZnewzealand/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T23:01:34Z"
+}

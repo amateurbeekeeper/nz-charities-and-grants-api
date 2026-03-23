@@ -1,0 +1,27 @@
+{
+  "id": 47953,
+  "registrationNumber": "CC40843",
+  "name": "Mangawhai Memo",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mangawhaimemo@gmail.com",
+  "address": {
+    "line1": "PO Box 153",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mangawhai",
+    "postcode": "0540"
+  },
+  "nzbn": "9429043165896",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-23T19:09:53Z"
+}

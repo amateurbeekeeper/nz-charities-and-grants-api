@@ -1,0 +1,27 @@
+{
+  "id": 40266,
+  "registrationNumber": "CC23718",
+  "name": "Massey University (Palmerston North) Community Christian Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.thecentre.ac.nz",
+  "email": "lgreer@pndiocese.org.nz",
+  "address": {
+    "line1": "Chaplaincy Centre",
+    "line2": "Columbo Rd",
+    "suburb": " Massey University",
+    "city": "Palmerston North",
+    "postcode": "4442"
+  },
+  "nzbn": "9429043004423",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "TheCentre/TeWaiora",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-09T19:24:55Z"
+}

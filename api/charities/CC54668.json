@@ -1,0 +1,27 @@
+{
+  "id": 68332,
+  "registrationNumber": "CC54668",
+  "name": "Mā Te Rae - Māori Evaluation Association",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.maaterae.maori.nz/",
+  "email": "dwgoodwin@gmail.com",
+  "address": {
+    "line1": "28 Claudelands Rd",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429043276448",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/MaTeRae",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T23:51:30Z"
+}

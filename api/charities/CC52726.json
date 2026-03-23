@@ -1,0 +1,27 @@
+{
+  "id": 66456,
+  "registrationNumber": "CC52726",
+  "name": "Anglican Diocese of Christchurch - Parish of Highfield, Kensington and Otipua",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stjohnstimaru.co.nz",
+  "email": "admin@stjohnstimaru.co.nz",
+  "address": {
+    "line1": "125 Wai-Iti Road",
+    "line2": " ",
+    "suburb": "Highfield",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T06:35:12Z"
+}

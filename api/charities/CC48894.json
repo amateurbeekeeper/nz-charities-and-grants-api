@@ -1,0 +1,27 @@
+{
+  "id": 33322,
+  "registrationNumber": "CC48894",
+  "name": "Grace Baptist Church of Wanganui",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-12-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pastorwatt@gmail.com",
+  "address": {
+    "line1": "1 Bignell Street",
+    "line2": " ",
+    "suburb": "Gonville",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T02:44:30Z"
+}

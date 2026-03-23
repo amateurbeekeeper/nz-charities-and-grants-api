@@ -1,0 +1,27 @@
+{
+  "id": 69337,
+  "registrationNumber": "CC55685",
+  "name": "TCLD Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tcld.co.nz",
+  "email": "daryn@tclt.co.nz",
+  "address": {
+    "line1": "79 Maria Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429046605276",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/282020499174846",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T19:58:20Z"
+}

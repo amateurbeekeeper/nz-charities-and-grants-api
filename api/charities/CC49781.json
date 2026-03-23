@@ -1,0 +1,27 @@
+{
+  "id": 35240,
+  "registrationNumber": "CC49781",
+  "name": "New Zealand Parkour Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-10-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzparkour.co.nz",
+  "email": "contact@nzparkour.co.nz",
+  "address": {
+    "line1": "64 Banks Street",
+    "line2": " ",
+    "suburb": "Richmond",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429043225101",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ParkourNZ/",
+    "twitter": "https://www.twitter.com/nzparkour"
+  },
+  "lastUpdated": "2026-01-20T06:06:32Z"
+}

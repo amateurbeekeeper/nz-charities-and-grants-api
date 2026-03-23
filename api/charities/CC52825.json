@@ -1,0 +1,27 @@
+{
+  "id": 66558,
+  "registrationNumber": "CC52825",
+  "name": "Auckland Wheelbreakers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.aucklandwheelbreakers.org.nz",
+  "email": "kiwi.marquardt@gmail.com",
+  "address": {
+    "line1": "139 Golf Road",
+    "line2": null,
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429043294039",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/akwcbb",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T18:32:34Z"
+}

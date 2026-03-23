@@ -1,0 +1,27 @@
+{
+  "id": 69185,
+  "registrationNumber": "CC55529",
+  "name": "NZ Parrot Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "janes@nsatax.co.nz",
+  "address": {
+    "line1": "8 Tohora Close",
+    "line2": null,
+    "suburb": " ",
+    "city": "Raglan",
+    "postcode": "3297"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:39:35Z"
+}

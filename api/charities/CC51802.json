@@ -1,0 +1,27 @@
+{
+  "id": 65555,
+  "registrationNumber": "CC51802",
+  "name": "New Zealand Diamond Sports Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzdiamondsports.com",
+  "email": "manager@thelanes.co.nz",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "234 Wakefield Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043273942",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T18:45:17Z"
+}

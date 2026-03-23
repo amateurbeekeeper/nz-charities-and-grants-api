@@ -1,0 +1,27 @@
+{
+  "id": 68619,
+  "registrationNumber": "CC54956",
+  "name": "TE WAIARIKI/ NGATI KORORA NGATI TAKA HAPU IWI TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tewaiariki.com",
+  "email": "admin@tewaiariki.com",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "7 Poto Street",
+    "suburb": "Morningside",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429042948667",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tewaiarikingatikororangatitakapari",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T09:40:40Z"
+}

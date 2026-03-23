@@ -1,0 +1,27 @@
+{
+  "id": 67778,
+  "registrationNumber": "CC54081",
+  "name": "Dementia Hawkes Bay",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-12-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dementiahb.org.nz",
+  "email": "board@dementiahb.org.nz",
+  "address": {
+    "line1": "1 Wilding Avenue",
+    "line2": " ",
+    "suburb": "Marewa",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429045893025",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/dementiahawkesbay/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T22:17:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 45886,
+  "registrationNumber": "CC41143",
+  "name": "Te Takinga Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "newtonlogging@xtra.co.nz",
+  "address": {
+    "line1": "36C Collingwood Drive",
+    "line2": "RD 4",
+    "suburb": "Tikitere",
+    "city": "Rotorua",
+    "postcode": "3074"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:06:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42889,
+  "registrationNumber": "CC40853",
+  "name": "Spirit of Coromandel Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.arcevents.co.nz",
+  "email": "andy@arcevents.co.nz",
+  "address": {
+    "line1": "1485 Wyuna Bay Road",
+    "line2": " ",
+    "suburb": "Wyuna Bay",
+    "city": "Coromandel",
+    "postcode": "3581"
+  },
+  "nzbn": "9429043059508",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T05:01:01Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44138,
+  "registrationNumber": "CC35171",
+  "name": "New Zealand Parent Teacher Association Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2020-12-31T00:00:00Z",
+  "website": "http://www.nzpta.org.nz",
+  "email": "treasurer@nzpta.org.nz",
+  "address": {
+    "line1": "272 Letts Gully Road",
+    "line2": "RD 3",
+    "suburb": "Letts Gully",
+    "city": "Alexandra",
+    "postcode": "9393"
+  },
+  "nzbn": "9429042705529",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/NZPTA/?ref=br_rs",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-18T23:42:11Z"
+}

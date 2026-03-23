@@ -1,0 +1,27 @@
+{
+  "id": 38334,
+  "registrationNumber": "CC46102",
+  "name": "Adoption First Steps",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.adoptionfirststeps.org.nz",
+  "email": "sanah.mseth@gmail.com",
+  "address": {
+    "line1": "PO Box 77046",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1350"
+  },
+  "nzbn": "9429043189915",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Adoption First Steps",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T08:03:14Z"
+}

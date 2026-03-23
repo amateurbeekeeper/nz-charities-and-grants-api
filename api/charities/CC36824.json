@@ -1,0 +1,27 @@
+{
+  "id": 54561,
+  "registrationNumber": "CC36824",
+  "name": "Latin Mass Society of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://latinmasssociety.org.nz/",
+  "email": "janetcurran@xtra.co.nz",
+  "address": {
+    "line1": "64 Awatere Avenue",
+    "line2": " ",
+    "suburb": "Beerescourt",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429042703464",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EDSNZ.org",
+    "twitter": "https://twitter.com/ecclesiadeinz"
+  },
+  "lastUpdated": "2025-11-07T03:26:45Z"
+}

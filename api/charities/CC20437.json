@@ -1,0 +1,27 @@
+{
+  "id": 53568,
+  "registrationNumber": "CC20437",
+  "name": "Interpretation Network New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.innz.org",
+  "email": "chair@innz.net.nz",
+  "address": {
+    "line1": "Auckland War Memorial Museum",
+    "line2": "Auckland Domain",
+    "suburb": "Parnell",
+    "city": "Auckland ",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043175147",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/innz.net.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:20:49Z"
+}

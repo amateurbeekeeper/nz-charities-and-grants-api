@@ -1,0 +1,27 @@
+{
+  "id": 73046,
+  "registrationNumber": "CC59442",
+  "name": "Student Residence Trust Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hatchstudentliving.co.nz/",
+  "email": "kamelia.purwo@tompkinswake.co.nz",
+  "address": {
+    "line1": "181 Collingwood Street",
+    "line2": " ",
+    "suburb": "Hamilton Lake",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429049952254",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T02:22:46Z"
+}

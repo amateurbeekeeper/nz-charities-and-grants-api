@@ -1,0 +1,27 @@
+{
+  "id": 32984,
+  "registrationNumber": "CC48513",
+  "name": "Manaaki Ora Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-11-28T00:00:00Z",
+  "dateDeregistered": "2012-09-20T00:00:00Z",
+  "website": "https://www.manaakiora.org.nz",
+  "email": "bkorewha@manaakiora.org.nz",
+  "address": {
+    "line1": "1272 Fenton Street",
+    "line2": "Rotorua 3010",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429043259236",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T22:32:32Z"
+}

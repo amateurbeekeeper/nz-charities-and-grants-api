@@ -1,0 +1,27 @@
+{
+  "id": 40738,
+  "registrationNumber": "CC29446",
+  "name": "Age Concern  Canterbury Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ageconcerncan.org.nz",
+  "email": "ceo@ageconcerncan.org.nz",
+  "address": {
+    "line1": "24 Main North Road",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042572794",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T01:27:18Z"
+}

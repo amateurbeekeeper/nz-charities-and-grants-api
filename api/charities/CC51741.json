@@ -1,0 +1,27 @@
+{
+  "id": 65506,
+  "registrationNumber": "CC51741",
+  "name": "St Albans Pavilion and Pool Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.edgewarepool.co.nz",
+  "email": "stephen.edgewaresv@xtra.co.nz",
+  "address": {
+    "line1": "150 Springfield Road",
+    "line2": " ",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429043169429",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EdgewarePool/ ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:08:11Z"
+}

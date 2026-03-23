@@ -1,0 +1,27 @@
+{
+  "id": 52467,
+  "registrationNumber": "CC10701",
+  "name": "Tongariro Natural History Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tongariro.org.nz",
+  "email": "info@tongariro.org.nz",
+  "address": {
+    "line1": "3 Turangi Town Centre",
+    "line2": "Turangi 3334",
+    "suburb": " ",
+    "city": "Turangi",
+    "postcode": "3334"
+  },
+  "nzbn": "9429042974734",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ProjectTongariro/,  https://www.facebook.com/GreeningTaupo/?ref=br_rs",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T23:48:08Z"
+}

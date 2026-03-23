@@ -1,0 +1,27 @@
+{
+  "id": 56603,
+  "registrationNumber": "CC26198",
+  "name": "The Foundation For Alcohol And Drug Education",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-18T00:00:00Z",
+  "dateDeregistered": "2015-06-29T00:00:00Z",
+  "website": "http://www.fade.org.nz",
+  "email": "colin@fade.org.nz",
+  "address": {
+    "line1": "3 William Laurie Place",
+    "line2": null,
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429042853886",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:30:52Z"
+}

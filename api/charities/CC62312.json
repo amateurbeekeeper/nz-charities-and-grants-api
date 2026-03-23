@@ -1,0 +1,27 @@
+{
+  "id": 75868,
+  "registrationNumber": "CC62312",
+  "name": "Soul Edge",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.souledge.org",
+  "email": "sebgray@souledge.org",
+  "address": {
+    "line1": "346 Gressons Road",
+    "line2": "RD 3",
+    "suburb": "Waikuku",
+    "city": "Rangiora",
+    "postcode": "7473"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/souledge44",
+    "twitter": null
+  },
+  "lastUpdated": "2024-09-25T05:23:29Z"
+}

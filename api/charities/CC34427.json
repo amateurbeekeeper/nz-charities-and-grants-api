@@ -1,0 +1,27 @@
+{
+  "id": 45162,
+  "registrationNumber": "CC34427",
+  "name": "The Feilding And District Art Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.feildingartsociety.com",
+  "email": "manager@feildingartsociety.com",
+  "address": {
+    "line1": "104 Manchester Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Feilding",
+    "postcode": "4702"
+  },
+  "nzbn": "9429043183074",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/feildingart",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:02:41Z"
+}

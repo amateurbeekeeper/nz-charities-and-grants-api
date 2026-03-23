@@ -1,0 +1,27 @@
+{
+  "id": 32900,
+  "registrationNumber": "CC48465",
+  "name": "Fountain of Peace Children's Foundation New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-09-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fountainofpeace.org.nz",
+  "email": "jane@fountainofpeace.org.nz",
+  "address": {
+    "line1": "159 Spey Street",
+    "line2": "Invercargill 9810",
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429043324019",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/FountainofPeaceNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T01:26:50Z"
+}

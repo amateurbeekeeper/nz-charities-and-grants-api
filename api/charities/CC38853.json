@@ -1,0 +1,27 @@
+{
+  "id": 45383,
+  "registrationNumber": "CC38853",
+  "name": "Sports Medicine New Zealand Incorporated ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sportsmedicine.co.nz",
+  "email": "admin@sportsmedicine.co.nz",
+  "address": {
+    "line1": "8 Fell Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waikouaiti",
+    "postcode": "9510"
+  },
+  "nzbn": "9429042727736",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Sports Medicine New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T01:15:44Z"
+}

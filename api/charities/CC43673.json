@@ -1,0 +1,27 @@
+{
+  "id": 64689,
+  "registrationNumber": "CC43673",
+  "name": "Toti Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-02-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.toti.co.nz",
+  "email": "admin@vazeychild.co.nz",
+  "address": {
+    "line1": "4 Findlay Street",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429043198245",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T18:16:21Z"
+}

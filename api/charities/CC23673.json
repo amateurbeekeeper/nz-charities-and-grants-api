@@ -1,0 +1,27 @@
+{
+  "id": 55783,
+  "registrationNumber": "CC23673",
+  "name": "Tertiary Students Christian Fellowship NZ Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tscf.org.nz",
+  "email": "tscf@tscf.org.nz",
+  "address": {
+    "line1": "9a Oxford Terrace",
+    "line2": " ",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043100347",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "tscf.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T01:49:41Z"
+}

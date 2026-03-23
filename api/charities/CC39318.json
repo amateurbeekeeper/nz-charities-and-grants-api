@@ -1,0 +1,27 @@
+{
+  "id": 44366,
+  "registrationNumber": "CC39318",
+  "name": "The Auckland Branch of the Entomological Society of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ento.org.nz/regional-branches/auckland/",
+  "email": "entosocak@gmail.com",
+  "address": {
+    "line1": "22 Pinewood Street",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T10:22:17Z"
+}

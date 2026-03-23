@@ -1,0 +1,27 @@
+{
+  "id": 46554,
+  "registrationNumber": "CC33507",
+  "name": "Waiatarua Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "steve.smith3@fireandemergency.nz",
+  "address": {
+    "line1": "86 Main Road",
+    "line2": " ",
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waiatarua Volunteer Fire Brigade",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T19:51:20Z"
+}

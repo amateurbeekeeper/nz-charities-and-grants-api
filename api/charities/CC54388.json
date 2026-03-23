@@ -1,0 +1,27 @@
+{
+  "id": 68060,
+  "registrationNumber": "CC54388",
+  "name": "Methodist Church of New Zealand Te Haahi Weteriana O Aotearoa Tabacakacaka Peceil Parish",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.methodist.org.nz",
+  "email": "charities@methodist.org.nz",
+  "address": {
+    "line1": "PO Box 931",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T18:29:18Z"
+}

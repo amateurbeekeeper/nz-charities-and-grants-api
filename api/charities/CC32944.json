@@ -1,0 +1,27 @@
+{
+  "id": 45145,
+  "registrationNumber": "CC32944",
+  "name": "SANDS Canterbury Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2019-08-14T00:00:00Z",
+  "dateDeregistered": "2025-06-30T00:00:00Z",
+  "website": "https://www.sands.org.nz",
+  "email": "sands.canterbury@xtra.co.nz",
+  "address": {
+    "line1": "PO Box 5548",
+    "line2": "Papanui",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "8542"
+  },
+  "nzbn": "9429042945130",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/sands.canterbury/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T07:32:58Z"
+}

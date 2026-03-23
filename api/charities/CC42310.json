@@ -1,0 +1,27 @@
+{
+  "id": 50929,
+  "registrationNumber": "CC42310",
+  "name": "The Rotorua Christian Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.chapman.school.nz",
+  "email": "jandymatipo@gmail.com",
+  "address": {
+    "line1": "39 Biak Street",
+    "line2": " ",
+    "suburb": "Mangakakahi",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429043197064",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T00:40:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 77133,
+  "registrationNumber": "CC63084",
+  "name": "Open Closed Doors",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "megan@kindredfilms.co.nz",
+  "address": {
+    "line1": "44 Parkdale Road",
+    "line2": null,
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-25T00:13:56Z"
+}

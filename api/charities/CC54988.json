@@ -1,0 +1,27 @@
+{
+  "id": 68646,
+  "registrationNumber": "CC54988",
+  "name": "Artemis Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-07-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.artemis-foundation.org",
+  "email": "contact@artemis-foundation.org",
+  "address": {
+    "line1": "10 Sherwood Avenue",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429046255266",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/artemisfoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T22:38:22Z"
+}

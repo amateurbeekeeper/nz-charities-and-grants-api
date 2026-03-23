@@ -1,0 +1,27 @@
+{
+  "id": 52385,
+  "registrationNumber": "CC10718",
+  "name": "Northland Disabled Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.adultdaycentre.co.nz",
+  "email": "manager@forgetmenot.org.nz",
+  "address": {
+    "line1": "110 Boundary Road",
+    "line2": " ",
+    "suburb": "Tikipunga",
+    "city": "Whangarei",
+    "postcode": "112"
+  },
+  "nzbn": "9429042695745",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Forget MeNot Adult Day Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T20:52:34Z"
+}

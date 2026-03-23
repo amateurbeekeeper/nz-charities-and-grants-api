@@ -1,0 +1,27 @@
+{
+  "id": 75984,
+  "registrationNumber": "CC62434",
+  "name": "Te Puna Ariki Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-03-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tepunaariki.com",
+  "email": "ceo@tepunaariki.com",
+  "address": {
+    "line1": "55 Blomfield Street",
+    "line2": " ",
+    "suburb": "Pukehangi",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429051383152",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tepunaariki.trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T20:03:46Z"
+}

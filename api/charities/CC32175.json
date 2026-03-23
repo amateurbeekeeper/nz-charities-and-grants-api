@@ -1,0 +1,27 @@
+{
+  "id": 43699,
+  "registrationNumber": "CC32175",
+  "name": "The Linwood Congregational Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "elsa.ahkuoi@gmail.com",
+  "address": {
+    "line1": "83 Craig Thompson Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lincoln",
+    "postcode": "7608"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-03T19:20:03Z"
+}

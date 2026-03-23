@@ -1,0 +1,27 @@
+{
+  "id": 53116,
+  "registrationNumber": "CC20378",
+  "name": "Christchurch School Of Music Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.csm.org.nz",
+  "email": "office@csm.org.nz",
+  "address": {
+    "line1": "100 Fitzgerald Avenue",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042612377",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T21:12:04Z"
+}

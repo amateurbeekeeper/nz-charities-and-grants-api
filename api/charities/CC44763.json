@@ -1,0 +1,27 @@
+{
+  "id": 35593,
+  "registrationNumber": "CC44763",
+  "name": "Argyll East Home and School",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@argylleast.school.nz",
+  "address": {
+    "line1": "Argyll East School",
+    "line2": "Argyll Road, ",
+    "suburb": "R.D.1",
+    "city": "Otane",
+    "postcode": "4276"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Argyll East Home and School",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-23T19:37:52Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43267,
+  "registrationNumber": "CC31665",
+  "name": "Lifetime Design Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2019-11-28T00:00:00Z",
+  "website": "http://www.lifemark.co.nz/",
+  "email": "sarah@lifemark.co.nz",
+  "address": {
+    "line1": "Flat 502",
+    "line2": "150 Karangahape Road",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429033943084",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/Lifemark",
+    "twitter": "https://twitter.com/Lifemark"
+  },
+  "lastUpdated": "2019-12-12T06:01:23Z"
+}

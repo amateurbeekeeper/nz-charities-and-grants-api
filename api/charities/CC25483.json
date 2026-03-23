@@ -1,0 +1,27 @@
+{
+  "id": 64903,
+  "registrationNumber": "CC25483",
+  "name": "The Matai Foundation",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cghs.school.nz",
+  "email": "bly@cghs.school.nz",
+  "address": {
+    "line1": "Christchurch Girls' High School",
+    "line2": "10 Matai Street East",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043161560",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T11:02:37Z"
+}

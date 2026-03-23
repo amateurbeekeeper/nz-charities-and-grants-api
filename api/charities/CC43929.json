@@ -1,0 +1,27 @@
+{
+  "id": 50358,
+  "registrationNumber": "CC43929",
+  "name": "Eden Foundation Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-03-30T00:00:00Z",
+  "dateDeregistered": "2017-07-19T00:00:00Z",
+  "website": "http://www.edenfoundation.org.nz",
+  "email": "mattwinstone@yahoo.co.nz",
+  "address": {
+    "line1": "PO Box 869",
+    "line2": null,
+    "suburb": "Nelson",
+    "city": null,
+    "postcode": "7040"
+  },
+  "nzbn": "9429043202263",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:28:22Z"
+}

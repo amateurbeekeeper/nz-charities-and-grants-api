@@ -1,0 +1,27 @@
+{
+  "id": 66067,
+  "registrationNumber": "CC52341",
+  "name": "The Kind Foundation Arts Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thekindfoundation.org.nz",
+  "email": "josie@thekindfoundation.org.nz",
+  "address": {
+    "line1": "12 Hereford Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429043309368",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thekindfoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:13:25Z"
+}

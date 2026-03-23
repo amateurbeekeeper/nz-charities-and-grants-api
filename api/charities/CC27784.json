@@ -1,0 +1,27 @@
+{
+  "id": 59831,
+  "registrationNumber": "CC27784",
+  "name": "Akron House Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@akronhouse.org.nz",
+  "address": {
+    "line1": "415 St Aubyn Street West",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429042575412",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T08:01:43Z"
+}

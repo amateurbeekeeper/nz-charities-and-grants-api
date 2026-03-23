@@ -1,0 +1,27 @@
+{
+  "id": 56258,
+  "registrationNumber": "CC26917",
+  "name": "Activate Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul@fenton.co.nz",
+  "address": {
+    "line1": "21 Telford Way",
+    "line2": " ",
+    "suburb": "Raumati Beach",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-30T04:21:40Z"
+}

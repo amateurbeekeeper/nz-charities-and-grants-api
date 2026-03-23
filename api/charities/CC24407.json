@@ -1,0 +1,27 @@
+{
+  "id": 55592,
+  "registrationNumber": "CC24407",
+  "name": "Voice Of Islam",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.voiceofislam.me",
+  "email": "mt@voiceofislam.me",
+  "address": {
+    "line1": "Unit 14",
+    "line2": "150 Harris Road",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429043135226",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/voiceofislamtv",
+    "twitter": "twitter.com/voiceofislamnz"
+  },
+  "lastUpdated": "2025-08-12T19:09:07Z"
+}

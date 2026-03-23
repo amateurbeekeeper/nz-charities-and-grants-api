@@ -1,0 +1,27 @@
+{
+  "id": 71034,
+  "registrationNumber": "CC57405",
+  "name": "Pasifika Technology Education Charity (Trust)",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pasifikateched.net/",
+  "email": "ron@pasifikateched.net",
+  "address": {
+    "line1": "Suite 11964",
+    "line2": "PO Box 106910",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1143"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/ptecnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-07T01:45:46Z"
+}

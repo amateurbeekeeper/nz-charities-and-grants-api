@@ -1,0 +1,27 @@
+{
+  "id": 42372,
+  "registrationNumber": "CC27681",
+  "name": "The City of Auckland Pipe Band Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cityofaucklandpipeband.org",
+  "email": "cityofaucklandpipeband@gmail.com",
+  "address": {
+    "line1": "198 Waikoukou Valley Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Waimauku",
+    "postcode": "0882"
+  },
+  "nzbn": "9429042852278",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "City of Auckland Pipe Band",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T06:49:36Z"
+}

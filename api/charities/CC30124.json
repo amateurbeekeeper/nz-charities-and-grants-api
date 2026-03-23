@@ -1,0 +1,27 @@
+{
+  "id": 47592,
+  "registrationNumber": "CC30124",
+  "name": "Kahurangi Christian Church ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rowan@millerchiro.co.nz",
+  "address": {
+    "line1": "3 Boundary Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Takaka",
+    "postcode": "7110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KahurangiChristianChurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-04T19:34:30Z"
+}

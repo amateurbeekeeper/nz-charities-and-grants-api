@@ -1,0 +1,27 @@
+{
+  "id": 78382,
+  "registrationNumber": "CC64194",
+  "name": "Nga Potiki a Tamapahore Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ngapotiki.org.nz",
+  "email": "briar@ngapotiki.org.nz",
+  "address": {
+    "line1": "4 Te Omiraka Lane",
+    "line2": null,
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ngapotiki.org.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T01:50:40Z"
+}

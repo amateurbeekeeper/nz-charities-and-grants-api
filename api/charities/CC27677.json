@@ -1,0 +1,27 @@
+{
+  "id": 39412,
+  "registrationNumber": "CC27677",
+  "name": "The Hocken Collection",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.otago.ac.nz/studentservices/otherservices/library/hocken",
+  "email": "financial.accountant@otago.ac.nz",
+  "address": {
+    "line1": "362 Leith Street",
+    "line2": "Leith Street",
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T20:26:32Z"
+}

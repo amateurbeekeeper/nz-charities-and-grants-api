@@ -1,0 +1,27 @@
+{
+  "id": 35428,
+  "registrationNumber": "CC49974",
+  "name": "Selwyn Sports Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-11-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.selwynsportstrust.org.nz",
+  "email": "mitch@selwynsportstrust.org.nz",
+  "address": {
+    "line1": "70 Broadlands Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rolleston",
+    "postcode": "7614"
+  },
+  "nzbn": "0942904327736",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SelwynSports/",
+    "twitter": "@SelwynSports"
+  },
+  "lastUpdated": "2026-01-15T20:27:52Z"
+}

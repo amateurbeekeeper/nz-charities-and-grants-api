@@ -1,0 +1,27 @@
+{
+  "id": 66009,
+  "registrationNumber": "CC52276",
+  "name": "St Andrews Presbyterian Church Matamata",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-08-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.standrewsmatamata.org.nz",
+  "email": "office@standrewsmatamata.org.nz",
+  "address": {
+    "line1": "20 Meura Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Matamata",
+    "postcode": "3400"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T20:11:51Z"
+}

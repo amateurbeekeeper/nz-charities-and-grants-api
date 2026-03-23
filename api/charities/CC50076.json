@@ -1,0 +1,27 @@
+{
+  "id": 33668,
+  "registrationNumber": "CC50076",
+  "name": "The New Zealand Cat Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thenzcatfoundation.org.nz",
+  "email": "admin@whhlaw.co.nz",
+  "address": {
+    "line1": "99 Trigg Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Kumeu",
+    "postcode": "0891"
+  },
+  "nzbn": "9429049566079",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The NZ Cat Foundation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T22:36:07Z"
+}

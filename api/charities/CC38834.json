@@ -1,0 +1,27 @@
+{
+  "id": 47965,
+  "registrationNumber": "CC38834",
+  "name": "The Eagles Golfing Society of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.eaglesgolf.co.nz",
+  "email": "eaglesnatsec@gmail.com",
+  "address": {
+    "line1": "558 Mangorei Road",
+    "line2": "RD 1",
+    "suburb": "Mangorei",
+    "city": "New Plymouth",
+    "postcode": "4371"
+  },
+  "nzbn": "9429042697121",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T06:05:53Z"
+}

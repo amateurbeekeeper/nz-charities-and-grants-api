@@ -1,0 +1,27 @@
+{
+  "id": 38255,
+  "registrationNumber": "CC45902",
+  "name": "Te Kāinga C3 Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tekainga.org.nz",
+  "email": "tamaticam@gmail.com",
+  "address": {
+    "line1": "1 Zambuk Way",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3152"
+  },
+  "nzbn": "9429043212880",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "tekainga",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T21:57:08Z"
+}

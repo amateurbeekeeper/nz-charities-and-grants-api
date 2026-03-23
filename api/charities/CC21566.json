@@ -1,0 +1,27 @@
+{
+  "id": 54633,
+  "registrationNumber": "CC21566",
+  "name": "Age Concern Otago Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ageconcernotago.com",
+  "email": "agecon@ageconcernotago.co.nz",
+  "address": {
+    "line1": "26 Bath Street",
+    "line2": "26 Bath Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042576259",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T00:44:35Z"
+}

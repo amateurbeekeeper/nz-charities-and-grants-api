@@ -1,0 +1,27 @@
+{
+  "id": 55787,
+  "registrationNumber": "CC22440",
+  "name": "Prison Care Ministries",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.prisoncare.org.nz",
+  "email": "admin@prisoncare.nz",
+  "address": {
+    "line1": "2 Mahoe Street",
+    "line2": " ",
+    "suburb": "Melville",
+    "city": "Hamilton",
+    "postcode": "3206"
+  },
+  "nzbn": "9429043122073",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/prisoncareministries",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:52:40Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 60824,
+  "registrationNumber": "CC28810",
+  "name": "Camp Wakarara Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.campwakarara.org.nz",
+  "email": "wakarara.treasurer@outlook.co.nz",
+  "address": {
+    "line1": "1 North Block Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Tikokino",
+    "postcode": "4279"
+  },
+  "nzbn": "9429042599302",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "camp wakarara",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-10T19:59:57Z"
+}

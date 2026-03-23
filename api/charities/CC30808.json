@@ -1,0 +1,27 @@
+{
+  "id": 48320,
+  "registrationNumber": "CC30808",
+  "name": "Papakura Music School Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://papakuramusicschool.org.nz",
+  "email": "aileen@eire.co.nz",
+  "address": {
+    "line1": "202 Park Estate Road",
+    "line2": "Willis Road",
+    "suburb": "Rosehill",
+    "city": "Papakura",
+    "postcode": "2113"
+  },
+  "nzbn": "9429042822790",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Papakuramusicschool/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T21:08:18Z"
+}

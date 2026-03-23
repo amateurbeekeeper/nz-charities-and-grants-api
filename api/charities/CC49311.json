@@ -1,0 +1,27 @@
+{
+  "id": 35199,
+  "registrationNumber": "CC49311",
+  "name": "The Media Access Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.able.co.nz",
+  "email": "dan@able.co.nz",
+  "address": {
+    "line1": "110 Symonds Street",
+    "line2": " ",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043251438",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/AbleNZ",
+    "twitter": "www.twitter.com/able_nz"
+  },
+  "lastUpdated": "2025-10-27T18:08:15Z"
+}

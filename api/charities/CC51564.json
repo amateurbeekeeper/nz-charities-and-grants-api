@@ -1,0 +1,27 @@
+{
+  "id": 65338,
+  "registrationNumber": "CC51564",
+  "name": "New Zealand Society for Music Education Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://menza.co.nz/",
+  "email": "admin@menza.co.nz",
+  "address": {
+    "line1": "1288 Upper Ohauiti Road",
+    "line2": "RD 3",
+    "suburb": "Ohauiti",
+    "city": "Tauranga",
+    "postcode": "3173"
+  },
+  "nzbn": "9429042688624",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/136126223066322/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-17T23:19:39Z"
+}

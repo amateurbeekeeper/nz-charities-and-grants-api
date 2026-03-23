@@ -1,0 +1,27 @@
+{
+  "id": 53111,
+  "registrationNumber": "CC11251",
+  "name": "Antara Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.antara.org.nz",
+  "email": "info@antara.org.nz",
+  "address": {
+    "line1": "66 Taikata Road",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "610"
+  },
+  "nzbn": "9429042579731",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T20:54:02Z"
+}

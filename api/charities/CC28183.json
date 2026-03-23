@@ -1,0 +1,27 @@
+{
+  "id": 60548,
+  "registrationNumber": "CC28183",
+  "name": "Otaki Heritage",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.otakiheritage.org.nz/",
+  "email": "accounts@otakimuseum.co.nz",
+  "address": {
+    "line1": "49 Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Otaki",
+    "postcode": "5512"
+  },
+  "nzbn": "9429042999560",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T22:56:51Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44002,
+  "registrationNumber": "CC28614",
+  "name": "Cheviot Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "christopher.hill@fireandemergency.nz",
+  "address": {
+    "line1": "8 McQueens Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cheviot",
+    "postcode": "7310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:33:10Z"
+}

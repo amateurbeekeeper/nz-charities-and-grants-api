@@ -1,0 +1,27 @@
+{
+  "id": 66353,
+  "registrationNumber": "CC52615",
+  "name": "Anglican Diocese of Christchurch - Parish of Saint Mary The Virgin Addington",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.stmarysaddington.org",
+  "email": "anglicanstmary@gmail.com",
+  "address": {
+    "line1": "30 Church Square",
+    "line2": " ",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "St Marys Addington",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:19:57Z"
+}

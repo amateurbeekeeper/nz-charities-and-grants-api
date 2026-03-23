@@ -1,0 +1,27 @@
+{
+  "id": 66639,
+  "registrationNumber": "CC52902",
+  "name": "New Zealand Python User Group Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-02-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://python.nz",
+  "email": "treasurer@python.nz",
+  "address": {
+    "line1": "28 McBain Grove",
+    "line2": " ",
+    "suburb": "Avalon",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429043184057",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pythonnz/",
+    "twitter": "https://twitter.com/pythonnz"
+  },
+  "lastUpdated": "2025-11-27T02:46:15Z"
+}

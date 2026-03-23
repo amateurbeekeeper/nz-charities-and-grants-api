@@ -1,0 +1,27 @@
+{
+  "id": 51099,
+  "registrationNumber": "CC10076",
+  "name": "Southern Stars Charitable Trust Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.southernstars.org.nz",
+  "email": "shayam@cleaver.co.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "15 Day Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland ",
+    "postcode": "1010"
+  },
+  "nzbn": "9429035207221",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:42:05Z"
+}

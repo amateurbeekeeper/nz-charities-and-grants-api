@@ -1,0 +1,27 @@
+{
+  "id": 42139,
+  "registrationNumber": "CC29342",
+  "name": "Kingston Street Chapel",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.kingstoncommunitychurch.com",
+  "email": "office@kingstoncommunitychurch.com",
+  "address": {
+    "line1": "Cnr Kingston St & London Tce",
+    "line2": "Awapuni",
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-29T23:42:23Z"
+}

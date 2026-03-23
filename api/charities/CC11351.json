@@ -1,0 +1,27 @@
+{
+  "id": 52754,
+  "registrationNumber": "CC11351",
+  "name": "New Zealand Association for Comparative Law",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.victoria.ac.nz/law/research/publications/about-nzacl",
+  "email": "alberto.costi@vuw.ac.nz",
+  "address": {
+    "line1": "55 Lambton Quay",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042678519",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T03:46:30Z"
+}

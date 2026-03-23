@@ -1,0 +1,27 @@
+{
+  "id": 61423,
+  "registrationNumber": "CC35430",
+  "name": "Education Dunedin Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2013-10-17T00:00:00Z",
+  "website": null,
+  "email": null,
+  "address": {
+    "line1": "139 Moray Place",
+    "line2": null,
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-06-09T04:41:41Z"
+}

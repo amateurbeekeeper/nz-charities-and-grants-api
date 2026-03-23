@@ -1,0 +1,27 @@
+{
+  "id": 50326,
+  "registrationNumber": "CC43889",
+  "name": "Hospice Southland Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Jennifer.rooney@hospicesouthland.org.nz",
+  "address": {
+    "line1": "75 Kew Road",
+    "line2": "Elles Road",
+    "suburb": "Kew",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": "9429043205424",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T07:17:20Z"
+}

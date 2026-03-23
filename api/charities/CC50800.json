@@ -1,0 +1,27 @@
+{
+  "id": 34128,
+  "registrationNumber": "CC50800",
+  "name": "The Pasifika Collective Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jane@flinchmarketing.com",
+  "address": {
+    "line1": "50 Gordon Road",
+    "line2": " ",
+    "suburb": "Plimmerton",
+    "city": "Porirua",
+    "postcode": "5026"
+  },
+  "nzbn": "9429043280315",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "The Pasifika Collective Charitable Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-20T01:58:49Z"
+}

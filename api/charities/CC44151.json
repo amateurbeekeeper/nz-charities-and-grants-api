@@ -1,0 +1,27 @@
+{
+  "id": 64123,
+  "registrationNumber": "CC44151",
+  "name": "Gisborne Artists' Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "teressamatthews@gmail.com",
+  "address": {
+    "line1": "16 Stout Street",
+    "line2": " ",
+    "suburb": "Whataupoko",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429043181636",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/gisborneartistssociety",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T22:00:36Z"
+}

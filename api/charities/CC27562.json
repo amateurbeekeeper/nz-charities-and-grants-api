@@ -1,0 +1,27 @@
+{
+  "id": 39419,
+  "registrationNumber": "CC27562",
+  "name": "The House of God Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thehouseofgod.net",
+  "email": "contact@thehouseofgod.net",
+  "address": {
+    "line1": "679 Runciman Road",
+    "line2": "RD 2",
+    "suburb": "Runciman",
+    "city": "Drury",
+    "postcode": "2578"
+  },
+  "nzbn": "9429043122868",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-07T09:39:33Z"
+}

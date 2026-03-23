@@ -1,0 +1,27 @@
+{
+  "id": 60174,
+  "registrationNumber": "CC32649",
+  "name": "New Zealand Vice-Chancellors' Committee",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.universitiesnz.ac.nz",
+  "email": "chris.whelan@universitiesnz.ac.nz",
+  "address": {
+    "line1": "Level 3",
+    "line2": "69 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429051685799",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/UniversitiesNZ/",
+    "twitter": "https://twitter.com/universitiesnz"
+  },
+  "lastUpdated": "2026-02-13T01:36:06Z"
+}

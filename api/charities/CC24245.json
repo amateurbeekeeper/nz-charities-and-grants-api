@@ -1,0 +1,27 @@
+{
+  "id": 40451,
+  "registrationNumber": "CC24245",
+  "name": "The Electricity Transmission Heritage Of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://gridheritage.pastperfectonline.com",
+  "email": "alex.joosten@transpower.co.nz",
+  "address": {
+    "line1": "65 Hatton Street",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043015900",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GridHeritage/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T01:10:08Z"
+}

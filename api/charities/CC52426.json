@@ -1,0 +1,27 @@
+{
+  "id": 66160,
+  "registrationNumber": "CC52426",
+  "name": "Connected for Life",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2024-09-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.connectedforlife.org.nz",
+  "email": "Kylahuff@gmail.com",
+  "address": {
+    "line1": "6 Patterson Grove",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waikanae",
+    "postcode": "5036"
+  },
+  "nzbn": "9429043274277",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/connectedforlifeNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-14T00:59:14Z"
+}

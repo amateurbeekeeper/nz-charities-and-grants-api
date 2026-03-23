@@ -1,0 +1,27 @@
+{
+  "id": 78526,
+  "registrationNumber": "CC64345",
+  "name": "Beam Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-08-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "beekengkoh@yahoo.com",
+  "address": {
+    "line1": "9 Huron Street",
+    "line2": null,
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T03:37:22Z"
+}

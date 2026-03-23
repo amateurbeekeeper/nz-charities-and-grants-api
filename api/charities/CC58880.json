@@ -1,0 +1,27 @@
+{
+  "id": 72488,
+  "registrationNumber": "CC58880",
+  "name": "Tardigrade World Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tardigrade.world/",
+  "email": "mongoose@tardigrade.world",
+  "address": {
+    "line1": "85 Remuera Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429047329881",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tardigrade.world/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T00:44:17Z"
+}

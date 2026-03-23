@@ -1,0 +1,27 @@
+{
+  "id": 61382,
+  "registrationNumber": "CC34197",
+  "name": "Bible Camp Bookshop",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "foxton@biblecamp.org.nz",
+  "address": {
+    "line1": "17 Te Awa Street",
+    "line2": " ",
+    "suburb": "Foxton Beach",
+    "city": "Foxton",
+    "postcode": "4815"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T22:21:18Z"
+}

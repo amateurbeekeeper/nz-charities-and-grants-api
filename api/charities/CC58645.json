@@ -1,0 +1,27 @@
+{
+  "id": 72261,
+  "registrationNumber": "CC58645",
+  "name": "Franklin Bible Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.franklinbiblechurch.nz",
+  "email": "mackerethd@outlook.com",
+  "address": {
+    "line1": "11 Mahoe Glade",
+    "line2": "RD 4",
+    "suburb": "Patumahoe",
+    "city": "Pukekohe",
+    "postcode": "2679"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-07T03:43:05Z"
+}

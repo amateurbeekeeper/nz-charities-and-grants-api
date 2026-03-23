@@ -1,0 +1,27 @@
+{
+  "id": 73759,
+  "registrationNumber": "CC60123",
+  "name": "Te Kuha Marae",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "atiriap10@gmail.com",
+  "address": {
+    "line1": "4853 Lake Road",
+    "line2": "Tuai 4195",
+    "suburb": " ",
+    "city": "Tuai",
+    "postcode": "4195"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/733149583830863",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T18:41:51Z"
+}

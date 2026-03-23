@@ -1,0 +1,27 @@
+{
+  "id": 37094,
+  "registrationNumber": "CC46576",
+  "name": "Major Arc",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-05-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.majorarc.org",
+  "email": "vivienne.winter@gmail.com",
+  "address": {
+    "line1": "31 Bolton Street",
+    "line2": " ",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": "9429043151554",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T19:35:14Z"
+}

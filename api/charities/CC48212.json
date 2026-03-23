@@ -1,0 +1,27 @@
+{
+  "id": 36488,
+  "registrationNumber": "CC48212",
+  "name": "Takapuna Primary School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2022-08-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tps.school.nz",
+  "email": "mf@whitelegg.nz",
+  "address": {
+    "line1": "Takapuna School",
+    "line2": "23 Auburn Street",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "622"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:15:50Z"
+}

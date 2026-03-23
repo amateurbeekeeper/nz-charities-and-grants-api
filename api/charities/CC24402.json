@@ -1,0 +1,27 @@
+{
+  "id": 42220,
+  "registrationNumber": "CC24402",
+  "name": "Ficino Educational Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ficino.school.nz",
+  "email": "manager@ficino.school.nz",
+  "address": {
+    "line1": "27 Esplanade Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429043300471",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ficinoschool",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:32:12Z"
+}

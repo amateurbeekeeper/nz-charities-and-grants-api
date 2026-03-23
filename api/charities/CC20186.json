@@ -1,0 +1,27 @@
+{
+  "id": 53762,
+  "registrationNumber": "CC20186",
+  "name": "Canaan Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://connectchurchdevonport.co.nz",
+  "email": "gprentice@me.com",
+  "address": {
+    "line1": "90A Victoria Road",
+    "line2": " ",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": "9429042963097",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/connect.church.devonport",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T22:31:31Z"
+}

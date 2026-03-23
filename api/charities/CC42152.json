@@ -1,0 +1,27 @@
+{
+  "id": 42641,
+  "registrationNumber": "CC42152",
+  "name": "Gisborne Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-09-07T00:00:00Z",
+  "dateDeregistered": "2012-07-10T00:00:00Z",
+  "website": null,
+  "email": "rossedwards@slingshot.co.nz",
+  "address": {
+    "line1": "4 Lewis Street",
+    "line2": null,
+    "suburb": "Kaiti",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429043059218",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:17:19Z"
+}

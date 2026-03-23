@@ -1,0 +1,27 @@
+{
+  "id": 65128,
+  "registrationNumber": "CC31265",
+  "name": "Revival Centres International - Blenheim",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.revivalcentres.org",
+  "email": "johnmcilroy1@gmail.com",
+  "address": {
+    "line1": "64 Houldsworth Street",
+    "line2": "Blenheim",
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429042732891",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:54:07Z"
+}

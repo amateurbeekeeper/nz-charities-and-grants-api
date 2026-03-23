@@ -1,0 +1,27 @@
+{
+  "id": 74490,
+  "registrationNumber": "CC60907",
+  "name": "Indigenous Genomics Institute",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-01-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.igi.nz",
+  "email": "lisa@igi.nz",
+  "address": {
+    "line1": "94 Awahuri Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Feilding",
+    "postcode": "4702"
+  },
+  "nzbn": "9429049437874",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T05:26:43Z"
+}

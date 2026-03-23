@@ -1,0 +1,27 @@
+{
+  "id": 58995,
+  "registrationNumber": "CC33792",
+  "name": "Thames Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thamesbaptist.org.nz",
+  "email": "basadvice@gmail.com",
+  "address": {
+    "line1": "303 Mary Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429048097956",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/thamesbaptist.org.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T18:09:20Z"
+}

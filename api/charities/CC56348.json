@@ -1,0 +1,27 @@
+{
+  "id": 69989,
+  "registrationNumber": "CC56348",
+  "name": "NZ Disability Advisory Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-01-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzdat.com",
+  "email": "christchurchadvocate@gmail.com",
+  "address": {
+    "line1": "149 Papanui Road",
+    "line2": " ",
+    "suburb": "Merivale",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429047495449",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZ-Disability-Advisory-Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-23T23:51:05Z"
+}

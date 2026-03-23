@@ -1,0 +1,27 @@
+{
+  "id": 73537,
+  "registrationNumber": "CC60099",
+  "name": "Waikato Housing Initiative",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.waikatohousinginitiative.org",
+  "email": "lale@waikatohousinginitiative.org",
+  "address": {
+    "line1": "Panama Square / Gibbons Law",
+    "line2": "14 Garden Place",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429050184798",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T00:28:59Z"
+}

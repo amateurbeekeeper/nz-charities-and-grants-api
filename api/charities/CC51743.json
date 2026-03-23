@@ -1,0 +1,27 @@
+{
+  "id": 65513,
+  "registrationNumber": "CC51743",
+  "name": "The Whakaahuru Singers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://whakaahuru.nz/",
+  "email": "nmacrean@gmail.com",
+  "address": {
+    "line1": "C/O 19 Apuka Street",
+    "line2": " ",
+    "suburb": "Brooklyn",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043285969",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thewhakaahurusingers/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T00:49:57Z"
+}

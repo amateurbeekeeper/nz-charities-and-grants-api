@@ -1,0 +1,27 @@
+{
+  "id": 52338,
+  "registrationNumber": "CC11001",
+  "name": "New Hope Fellowship Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.newhope.org.nz",
+  "email": "julie@newhope.org.nz",
+  "address": {
+    "line1": "8 Waller Street",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042958314",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/newhopefellowship.org.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-29T19:15:06Z"
+}

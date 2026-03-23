@@ -1,0 +1,27 @@
+{
+  "id": 38419,
+  "registrationNumber": "CC47209",
+  "name": "Inclusive Sport Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-08-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.inclusivesport.org.nz",
+  "email": "helenbywater@yahoo.com",
+  "address": {
+    "line1": "16 Melrose Terrace",
+    "line2": " ",
+    "suburb": "Nelson South",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043151943",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/InclusSportTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:07:17Z"
+}

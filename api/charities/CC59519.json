@@ -1,0 +1,27 @@
+{
+  "id": 73124,
+  "registrationNumber": "CC59519",
+  "name": "St Joseph’s Parish Levin",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stjosephlevin.com/",
+  "email": "office@stjosephlevin.com",
+  "address": {
+    "line1": "56 Weraroa Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-11T19:40:44Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 60775,
+  "registrationNumber": "CC35760",
+  "name": "Winton Agricultural and Pastoral Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wintonapshow.co.nz",
+  "email": "wintonapshow@yahoo.co.nz",
+  "address": {
+    "line1": "2 Tummel Street",
+    "line2": null,
+    "suburb": "Glengarry",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/wintonapshow",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T06:12:33Z"
+}

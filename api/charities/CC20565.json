@@ -1,0 +1,27 @@
+{
+  "id": 53511,
+  "registrationNumber": "CC20565",
+  "name": "Alight Wairoa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@alivechurch.nz",
+  "address": {
+    "line1": "118 Achilles Street",
+    "line2": "Wairoa 4108",
+    "suburb": " ",
+    "city": "Wairoa",
+    "postcode": "4108"
+  },
+  "nzbn": "9429042619154",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-15T23:20:56Z"
+}

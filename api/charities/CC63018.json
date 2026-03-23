@@ -1,0 +1,27 @@
+{
+  "id": 77000,
+  "registrationNumber": "CC63018",
+  "name": "WHANGAREI MARTHOMA CHURCH INCORPORATED",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "whgmarthoma@gmail.com",
+  "address": {
+    "line1": "17 Tieke Place",
+    "line2": " ",
+    "suburb": "Horahora",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Whangarei Marthoma",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-02T22:27:07Z"
+}

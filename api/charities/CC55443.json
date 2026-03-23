@@ -1,0 +1,27 @@
+{
+  "id": 69105,
+  "registrationNumber": "CC55443",
+  "name": "Orange Sky New Zealand Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://orangesky.org.nz/",
+  "email": "emma@orangesky.org.au",
+  "address": {
+    "line1": "PO Box 261",
+    "line2": " Unit 2, 10-12 Umbers Street",
+    "suburb": " ",
+    "city": "Wanaka",
+    "postcode": "9343"
+  },
+  "nzbn": "9429046761255",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/OrangeSkyNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T00:23:40Z"
+}

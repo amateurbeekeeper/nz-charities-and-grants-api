@@ -1,0 +1,27 @@
+{
+  "id": 59227,
+  "registrationNumber": "CC27475",
+  "name": "Entré Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.entre.co.nz",
+  "email": "operations@entre.co.nz",
+  "address": {
+    "line1": "C/- Mary Cunningham",
+    "line2": "Centre of Entrepreneurship, Level 6 Rehua Building, University of Canterbury",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": "9429048417631",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/entre.at.uc/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T02:09:14Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75148,
+  "registrationNumber": "CC61578",
+  "name": "SLNZ HELPLINE",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "slnzhelpline@gmail.com",
+  "address": {
+    "line1": "Flat 4",
+    "line2": "1 Peach Parade",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429051549961",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/683572003584560",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T18:09:34Z"
+}

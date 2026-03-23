@@ -1,0 +1,27 @@
+{
+  "id": 54758,
+  "registrationNumber": "CC21259",
+  "name": "North Shore Stroke Club",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nsstrokeclub@gmail.com",
+  "address": {
+    "line1": "30 Waiau Street",
+    "line2": " ",
+    "suburb": "Torbay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:17:55Z"
+}

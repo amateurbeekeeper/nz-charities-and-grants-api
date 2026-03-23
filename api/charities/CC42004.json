@@ -1,0 +1,27 @@
+{
+  "id": 48596,
+  "registrationNumber": "CC42004",
+  "name": "Onepoto Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-28T00:00:00Z",
+  "website": null,
+  "email": "onepoto@playcentre.org.nz",
+  "address": {
+    "line1": "51 Hillcrest Avenue",
+    "line2": " ",
+    "suburb": "Hillcrest",
+    "city": "Auckland",
+    "postcode": "627"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T07:12:27Z"
+}

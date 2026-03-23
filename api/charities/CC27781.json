@@ -1,0 +1,27 @@
+{
+  "id": 58267,
+  "registrationNumber": "CC27781",
+  "name": "Ellesmere District Search & Rescue Organisation Inc.",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul@ellesmerelandsar.org.nz",
+  "address": {
+    "line1": "1650 Leeston Road",
+    "line2": "Leeston 7683",
+    "suburb": " ",
+    "city": "Leeston",
+    "postcode": "7683"
+  },
+  "nzbn": "9429042716204",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T22:40:20Z"
+}

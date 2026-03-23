@@ -1,0 +1,27 @@
+{
+  "id": 55116,
+  "registrationNumber": "CC22627",
+  "name": "Uxbridge Early Learning Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.uxbridgeelc.co.nz",
+  "email": "uxbridgeearlylearning@xtra.co.nz",
+  "address": {
+    "line1": "35 Uxbridge Road",
+    "line2": " ",
+    "suburb": "Mellons Bay",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": "9429042961550",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Uxbridge Early Learning Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T06:06:38Z"
+}

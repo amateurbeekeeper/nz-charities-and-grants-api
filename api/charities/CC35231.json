@@ -1,0 +1,27 @@
+{
+  "id": 62186,
+  "registrationNumber": "CC35231",
+  "name": "SavY",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-11-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.savy.org.nz",
+  "email": "dipra.ray@gmail.com",
+  "address": {
+    "line1": "BUSINESS STUDENT CENTRE   LVL 1 UOA BUSINESS SCHOOL",
+    "line2": "12 Grafton Road",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043183616",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SavyNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T05:30:31Z"
+}

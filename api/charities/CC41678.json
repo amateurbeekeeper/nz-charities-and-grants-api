@@ -1,0 +1,27 @@
+{
+  "id": 63705,
+  "registrationNumber": "CC41678",
+  "name": "HTL Ministries",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-08-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.htlministries.org.nz",
+  "email": "bryce.staveley@xtra.co.nz",
+  "address": {
+    "line1": "49G Lancaster Road",
+    "line2": " ",
+    "suburb": "Beach Haven",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429043267415",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-16T16:39:37Z"
+}

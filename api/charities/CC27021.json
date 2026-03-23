@@ -1,0 +1,27 @@
+{
+  "id": 55193,
+  "registrationNumber": "CC27021",
+  "name": "Cognition Education Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2023-08-30T00:00:00Z",
+  "website": "http://www.cognitioneducationtrust.org",
+  "email": "exec@cognitiontrust.co.nz",
+  "address": {
+    "line1": "Level 26, HSBC Tower",
+    "line2": "188 Quay Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042764847",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-09-13T07:02:14Z"
+}

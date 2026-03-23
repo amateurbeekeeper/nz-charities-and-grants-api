@@ -1,0 +1,27 @@
+{
+  "id": 40201,
+  "registrationNumber": "CC27438",
+  "name": "Nelson Environment Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nec.org.nz",
+  "email": "andrewwhite@nec.org.nz",
+  "address": {
+    "line1": "6 Vivian Place",
+    "line2": " ",
+    "suburb": "Annesbrook",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429042751090",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nelsonenvironmentcentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T21:26:12Z"
+}

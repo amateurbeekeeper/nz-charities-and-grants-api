@@ -1,0 +1,27 @@
+{
+  "id": 36883,
+  "registrationNumber": "CC46365",
+  "name": "Pentecostal Missionary Church of Christ (4th Watch)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-03-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pmcc4w.auckland@gmail.com",
+  "address": {
+    "line1": "5A Earl Richardson Avenue",
+    "line2": " ",
+    "suburb": "Wiri",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429043210756",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PMCC4WAuckland",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T04:56:43Z"
+}

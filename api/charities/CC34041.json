@@ -1,0 +1,27 @@
+{
+  "id": 61299,
+  "registrationNumber": "CC34041",
+  "name": "The Migrating Kitchen Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.migratingkitchen.org",
+  "email": "anna.c.cottrell@gmail.com",
+  "address": {
+    "line1": "20 Mariri Road",
+    "line2": " ",
+    "suburb": "Kelburn",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043185467",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MigratingKitchen",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-14T06:36:37Z"
+}

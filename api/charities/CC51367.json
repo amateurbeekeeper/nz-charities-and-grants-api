@@ -1,0 +1,27 @@
+{
+  "id": 34882,
+  "registrationNumber": "CC51367",
+  "name": "Equippers Wellington Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-02-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.equipperschurch.com/ngauranga",
+  "email": "byron.marchant@equipperschurch.com",
+  "address": {
+    "line1": "Unit 10",
+    "line2": "4 Glover Street",
+    "suburb": "Ngauranga",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429043272471",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/equippersngauranga\t\t\t\t",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T04:05:26Z"
+}

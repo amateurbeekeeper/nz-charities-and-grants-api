@@ -1,0 +1,27 @@
+{
+  "id": 65676,
+  "registrationNumber": "CC51929",
+  "name": "Mossburn Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "landcruiser557@hotmail.co.nz",
+  "address": {
+    "line1": "8 Holmes Street",
+    "line2": "Mossburn 9793",
+    "suburb": " ",
+    "city": "Mossburn",
+    "postcode": "9793"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:53Z"
+}

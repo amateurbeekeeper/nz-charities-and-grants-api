@@ -1,0 +1,27 @@
+{
+  "id": 67507,
+  "registrationNumber": "CC53805",
+  "name": "Āhuru Mōwai Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ahurumowaitrust.org.nz",
+  "email": "pauljandalsnz@gmail.com",
+  "address": {
+    "line1": "Studio 8",
+    "line2": "99 Mana Esplanade",
+    "suburb": "Mana",
+    "city": "Porirua, New Zealand",
+    "postcode": "5026"
+  },
+  "nzbn": "9429043312290",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ahurumowaitrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T18:04:12Z"
+}

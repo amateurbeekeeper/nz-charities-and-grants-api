@@ -1,0 +1,27 @@
+{
+  "id": 35686,
+  "registrationNumber": "CC44701",
+  "name": "Campbell Park Christian Camp",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.campbellpark.org.nz",
+  "email": "admin@campbellpark.org.nz",
+  "address": {
+    "line1": "280 Molesworth Drive",
+    "line2": " ",
+    "suburb": "Mangawhai Heads",
+    "city": "Mangawhai",
+    "postcode": "505"
+  },
+  "nzbn": "9429048092036",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:41:00Z"
+}

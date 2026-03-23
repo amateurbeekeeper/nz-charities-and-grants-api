@@ -1,0 +1,27 @@
+{
+  "id": 51083,
+  "registrationNumber": "CC39365",
+  "name": "Ngapuhi Asset Holding Company Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngapuhi.iwi.nz",
+  "email": "ceo@nahc.co.nz",
+  "address": {
+    "line1": "5449A State Highway 12",
+    "line2": "Kaikohe 0472",
+    "suburb": " ",
+    "city": "Kaikohe",
+    "postcode": "0472"
+  },
+  "nzbn": "9429039015266",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:28:47Z"
+}

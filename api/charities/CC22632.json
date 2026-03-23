@@ -1,0 +1,27 @@
+{
+  "id": 51051,
+  "registrationNumber": "CC22632",
+  "name": "Gateway Christian Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gatewaychurch.org.nz",
+  "email": "chris@gatewaychurch.org.nz",
+  "address": {
+    "line1": "17 Clifton Road",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043000777",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T23:04:33Z"
+}

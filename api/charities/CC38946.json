@@ -1,0 +1,27 @@
+{
+  "id": 59998,
+  "registrationNumber": "CC38946",
+  "name": "GABBS Trust Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.barfootstadium.co.nz",
+  "email": "brian@eastcitytrust.org.nz",
+  "address": {
+    "line1": "Barfoot and Thompson Stadium",
+    "line2": "237 Kohimarama Road",
+    "suburb": "Kohimarama",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429042625100",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T08:44:45Z"
+}

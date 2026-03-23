@@ -1,0 +1,27 @@
+{
+  "id": 55691,
+  "registrationNumber": "CC24333",
+  "name": "The Christian Congregation In New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "a.duarte@christiancongregation.org.nz",
+  "address": {
+    "line1": "107A Marlow Road",
+    "line2": " ",
+    "suburb": "Aranui",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429043157259",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-11T22:23:48Z"
+}

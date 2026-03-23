@@ -1,0 +1,27 @@
+{
+  "id": 72158,
+  "registrationNumber": "CC58551",
+  "name": "Kaitiaki Kiwi Waipoua Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-12-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kaitiakikiwi@gmail.com",
+  "address": {
+    "line1": "44 Avoca Road",
+    "line2": "RD 2",
+    "suburb": "Parore",
+    "city": "Dargaville",
+    "postcode": "0372"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kaitiakikiwi/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-21T08:19:31Z"
+}

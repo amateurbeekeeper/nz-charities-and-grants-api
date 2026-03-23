@@ -1,0 +1,27 @@
+{
+  "id": 63489,
+  "registrationNumber": "CC40992",
+  "name": "Fun & Games Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.funandgamestoylibrary.org.nz/",
+  "email": "finance@funandgamestoylibrary.org.nz",
+  "address": {
+    "line1": "446 Parnell Road",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429042704522",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=fun%20and%20games%20toy%20library",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T23:40:37Z"
+}

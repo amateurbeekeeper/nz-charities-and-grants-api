@@ -1,0 +1,27 @@
+{
+  "id": 60821,
+  "registrationNumber": "CC35871",
+  "name": "Optometrists and Dispensing Opticians Board",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.odob.health.nz",
+  "email": "registrar@odob.health.nz",
+  "address": {
+    "line1": "Level 5",
+    "line2": "22 Willeston Street",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429047125308",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T20:36:48Z"
+}

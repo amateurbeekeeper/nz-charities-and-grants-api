@@ -1,0 +1,27 @@
+{
+  "id": 34004,
+  "registrationNumber": "CC50244",
+  "name": "Emmanuel Community Church",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2014-02-16T00:00:00Z",
+  "dateDeregistered": "2020-09-30T00:00:00Z",
+  "website": null,
+  "email": "imiller@xtra.co.nz",
+  "address": {
+    "line1": "35 Bainton Street",
+    "line2": " ",
+    "suburb": "Bishopdale",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-12-04T02:50:48Z"
+}

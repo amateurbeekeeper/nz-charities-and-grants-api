@@ -1,0 +1,27 @@
+{
+  "id": 61620,
+  "registrationNumber": "CC34196",
+  "name": "Trust Board of the Cistercian Order in New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kopuamonastery.org.nz",
+  "email": "bursar@kopuamonastery.org.nz",
+  "address": {
+    "line1": "C/- Southern Star Abbey",
+    "line2": "Kopua Road",
+    "suburb": "R D 2",
+    "city": "Takapau",
+    "postcode": "4287"
+  },
+  "nzbn": "9429042893684",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:02:44Z"
+}

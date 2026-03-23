@@ -1,0 +1,27 @@
+{
+  "id": 39548,
+  "registrationNumber": "CC23052",
+  "name": "National Heart Foundation Of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.heartfoundation.org.nz",
+  "email": "marks@heartfoundation.org.nz",
+  "address": {
+    "line1": "9 Kalmia Street",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042769408",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T23:50:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39834,
+  "registrationNumber": "CC28141",
+  "name": "Rangitoto Island Historic Conservation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rangitoto.org",
+  "email": "jo@firstscene.co.nz",
+  "address": {
+    "line1": "43A James Evans Drive",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429042933434",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Rangitoto.Island",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T03:08:14Z"
+}

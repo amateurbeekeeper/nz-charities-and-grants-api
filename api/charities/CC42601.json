@@ -1,0 +1,27 @@
+{
+  "id": 50896,
+  "registrationNumber": "CC42601",
+  "name": "Aoraki Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aorakifoundation.org.nz",
+  "email": "richard@aorakifoundation.org.nz",
+  "address": {
+    "line1": "27 Strathallan Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429043226122",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aorakifoundation/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T00:24:27Z"
+}

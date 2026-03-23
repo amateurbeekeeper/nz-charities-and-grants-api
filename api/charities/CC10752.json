@@ -1,0 +1,27 @@
+{
+  "id": 51601,
+  "registrationNumber": "CC10752",
+  "name": "SeniorNet Motueka Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.seniornetmotueka.org.nz",
+  "email": "allanculling@gmail.com",
+  "address": {
+    "line1": "42 Pā Street",
+    "line2": "Motueka 7120",
+    "suburb": " ",
+    "city": "Motueka",
+    "postcode": "7120"
+  },
+  "nzbn": "9429042951506",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T09:00:06Z"
+}

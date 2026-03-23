@@ -1,0 +1,27 @@
+{
+  "id": 50168,
+  "registrationNumber": "CC44379",
+  "name": "Wairau Valley Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wairauvalleygolfclub.co.nz",
+  "email": "sam.rutherford@me.com",
+  "address": {
+    "line1": "46 Morse Street",
+    "line2": "Wairau Valley 7271",
+    "suburb": " ",
+    "city": "Wairau Valley",
+    "postcode": "7271"
+  },
+  "nzbn": "9429042884279",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T21:09:44Z"
+}

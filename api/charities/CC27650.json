@@ -1,0 +1,27 @@
+{
+  "id": 39220,
+  "registrationNumber": "CC27650",
+  "name": "Malologa Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.vakatautua.co.nz",
+  "email": "Greg.Fitzpatrick@vakatautua.co.nz",
+  "address": {
+    "line1": "12 Lambie Drive",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042995234",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T00:17:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39958,
+  "registrationNumber": "CC24541",
+  "name": "New Plymouth Parents Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://newplymouth.parentscentre.org.nz/",
+  "email": "new.plymouth@parentscentre.org.nz",
+  "address": {
+    "line1": "Te Mete Pavillion ",
+    "line2": "Mangorei Road ",
+    "suburb": " Merrilands",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429042705901",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/npparentscentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:56:57Z"
+}

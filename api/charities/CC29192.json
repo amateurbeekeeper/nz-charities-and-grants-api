@@ -1,0 +1,27 @@
+{
+  "id": 49824,
+  "registrationNumber": "CC29192",
+  "name": "Cromwell Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "neil.gillespie@fireandemergency.nz",
+  "address": {
+    "line1": "96 Barry Avenue",
+    "line2": "Cromwell 9310",
+    "suburb": " ",
+    "city": "Cromwell",
+    "postcode": "9310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-18T01:42:55Z"
+}

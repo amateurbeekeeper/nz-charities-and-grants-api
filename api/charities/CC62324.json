@@ -1,0 +1,27 @@
+{
+  "id": 75871,
+  "registrationNumber": "CC62324",
+  "name": "Little Labs Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.littlelabs.co.nz",
+  "email": "torpeylcr@outlook.co.nz",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-31T00:02:57Z"
+}

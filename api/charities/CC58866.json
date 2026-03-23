@@ -1,0 +1,27 @@
+{
+  "id": 72472,
+  "registrationNumber": "CC58866",
+  "name": "Te Wai Mauri Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tewaimauri.nz",
+  "email": "jonathan@mataatawhai.co.nz",
+  "address": {
+    "line1": "40-44 Waiohiki Road",
+    "line2": "RD 3",
+    "suburb": "Waiohiki",
+    "city": "Napier",
+    "postcode": "4183"
+  },
+  "nzbn": "9429048638074",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TeWaiMauri",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T23:05:20Z"
+}

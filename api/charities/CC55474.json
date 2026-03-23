@@ -1,0 +1,27 @@
+{
+  "id": 69133,
+  "registrationNumber": "CC55474",
+  "name": "Astronomy New Zealand Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.astronz.nz/",
+  "email": "accounts@astronz.nz",
+  "address": {
+    "line1": "21 Tui Street",
+    "line2": null,
+    "suburb": "Torbay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429037249434",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Astronz/",
+    "twitter": "https://twitter.com/astronznz"
+  },
+  "lastUpdated": "2026-03-03T01:17:29Z"
+}

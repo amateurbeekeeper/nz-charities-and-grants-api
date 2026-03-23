@@ -1,0 +1,27 @@
+{
+  "id": 75632,
+  "registrationNumber": "CC62081",
+  "name": "Generations Connect New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-11-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.genconnectnz.org",
+  "email": "admin@genconnectnz.org",
+  "address": {
+    "line1": "24 Takahe Road",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429051720476",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/generationsconnectnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T05:12:32Z"
+}

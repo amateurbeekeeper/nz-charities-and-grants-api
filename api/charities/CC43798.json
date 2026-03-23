@@ -1,0 +1,27 @@
+{
+  "id": 50104,
+  "registrationNumber": "CC43798",
+  "name": "Mangakahia Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mangakahiacomtrust@gmail.com",
+  "address": {
+    "line1": "62 Tokiri Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Titoki",
+    "postcode": "0172"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-01T01:22:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 62583,
+  "registrationNumber": "CC43345",
+  "name": "Wadestown School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wadestown.school.nz",
+  "email": "pta.treasurer@wadestown.school.nz",
+  "address": {
+    "line1": "Wadestown School",
+    "line2": "Rose Street",
+    "suburb": "Wadestown",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T19:09:45Z"
+}

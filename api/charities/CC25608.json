@@ -1,0 +1,27 @@
+{
+  "id": 53721,
+  "registrationNumber": "CC25608",
+  "name": "Dunkirk Road Activity Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://dunkirkrdactivitycentre.org.nz",
+  "email": "dunkirk@xtra.co.nz",
+  "address": {
+    "line1": "50 Dunkirk Road",
+    "line2": " ",
+    "suburb": "Panmure",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042714439",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DunkirkRoadActivityCentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:54:28Z"
+}

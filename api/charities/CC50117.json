@@ -1,0 +1,27 @@
+{
+  "id": 35203,
+  "registrationNumber": "CC50117",
+  "name": "Wellington Basketball Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-10-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wellingtonbasketball.co.nz",
+  "email": "jasmine@wellingtonbasketball.co.nz",
+  "address": {
+    "line1": "72 Kemp Street",
+    "line2": " ",
+    "suburb": "Kilbirnie",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429042917557",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/WellingtonBasketball/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-04-15T20:12:27Z"
+}

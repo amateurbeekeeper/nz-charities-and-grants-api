@@ -1,0 +1,27 @@
+{
+  "id": 68148,
+  "registrationNumber": "CC54470",
+  "name": "Strathmore Park Community Centre Trust ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.strathmorepark.nz",
+  "email": "manager@spcc.org.nz",
+  "address": {
+    "line1": "108 Strathmore Avenue",
+    "line2": " ",
+    "suburb": "Strathmore Park",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429043381944",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/strathmorepark.community/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T21:53:28Z"
+}

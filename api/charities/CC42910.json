@@ -1,0 +1,27 @@
+{
+  "id": 64692,
+  "registrationNumber": "CC42910",
+  "name": "Good News Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.goodnewsbaptist.nz",
+  "email": "admin@goodnewsbaptist.nz",
+  "address": {
+    "line1": "meeting at Hamilton West School",
+    "line2": " Fow Street",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3240"
+  },
+  "nzbn": "9429043227136",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/goodnewshamilton/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:31:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 36976,
+  "registrationNumber": "CC46535",
+  "name": "The Basement Theatre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-03-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.basementtheatre.co.nz",
+  "email": "michelle@maiacentre.org",
+  "address": {
+    "line1": "The Basement",
+    "line2": "Lower Grey's Avenue",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043193776",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wearethebasement/",
+    "twitter": "https://twitter.com/basementspace?lang=en"
+  },
+  "lastUpdated": "2026-01-22T04:36:34Z"
+}

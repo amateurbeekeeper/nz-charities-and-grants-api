@@ -1,0 +1,27 @@
+{
+  "id": 76383,
+  "registrationNumber": "CC62698",
+  "name": "Tony's Place Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tonysplace.org.nz",
+  "email": "shelley@shelleybrunskillmatson.com",
+  "address": {
+    "line1": "3 Atherton Terrace",
+    "line2": " ",
+    "suburb": "Churton Park",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429052199677",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-24T03:54:36Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70256,
+  "registrationNumber": "CC56622",
+  "name": "Holy Family Parish (Porirua)",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "holyfamilyparish.nz",
+  "email": "patricia@holyfamilyparish.nz",
+  "address": {
+    "line1": "169 Mungavin Avenue",
+    "line2": " ",
+    "suburb": "Cannons Creek",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429049984323",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Holy Family Catholic Church-Porirua",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-18T01:41:22Z"
+}

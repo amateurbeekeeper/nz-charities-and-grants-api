@@ -1,0 +1,27 @@
+{
+  "id": 52556,
+  "registrationNumber": "CC11264",
+  "name": "Naenae Youth Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bgyf.org.nz/naenae-boxing-academy",
+  "email": "finance@nyct.org.nz",
+  "address": {
+    "line1": "42 Treadwell Street",
+    "line2": " ",
+    "suburb": "Naenae",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429043171873",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/naenaeboxingacademy/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T22:34:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51798,
+  "registrationNumber": "CC10571",
+  "name": "Comcare Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.comcare.org.nz",
+  "email": "l.webber@comcare.org.nz",
+  "address": {
+    "line1": "334 Lincoln Road",
+    "line2": " ",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429042618676",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T00:10:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71993,
+  "registrationNumber": "CC58376",
+  "name": "Frank Sargeson Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-10-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://franksargeson.nz",
+  "email": "e.aitken-rose@auckland.ac.nz",
+  "address": {
+    "line1": "26 Inkster Street",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T02:19:32Z"
+}

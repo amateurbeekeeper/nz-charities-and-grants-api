@@ -1,0 +1,27 @@
+{
+  "id": 55615,
+  "registrationNumber": "CC22532",
+  "name": "AFS Educational Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "afstrust@afs.org",
+  "address": {
+    "line1": "Level 2, 50 Customhouse Quay",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042572664",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T04:06:20Z"
+}

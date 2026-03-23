@@ -1,0 +1,27 @@
+{
+  "id": 50720,
+  "registrationNumber": "CC46799",
+  "name": "Wakatere Boating Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-07-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wakatere.org.nz",
+  "email": "commodore@wakatere.org.nz",
+  "address": {
+    "line1": "Narrow Neck Beach",
+    "line2": "Old Lake",
+    "suburb": "Devonport",
+    "city": "Auckland, New Zealand",
+    "postcode": null
+  },
+  "nzbn": "9429042915218",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:10:08Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35367,
+  "registrationNumber": "CC49525",
+  "name": "Patients First Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2013-07-31T00:00:00Z",
+  "dateDeregistered": "2023-05-23T00:00:00Z",
+  "website": null,
+  "email": "info@patientsfirst.org.nz",
+  "address": {
+    "line1": "25 Fyvie Avenue",
+    "line2": "50 Customhouse Quay",
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": "9429030215856",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-12-07T22:56:49Z"
+}

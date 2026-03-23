@@ -1,0 +1,27 @@
+{
+  "id": 62242,
+  "registrationNumber": "CC38831",
+  "name": "Inclusive Education Action Group Incorporated ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ieag.org.nz",
+  "email": "hello@ieag.org.nz",
+  "address": {
+    "line1": "4 Ross Street",
+    "line2": "RD 3",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429043087075",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/IEAG.NZ/",
+    "twitter": "https://www.twitter.com/IEAGNZ"
+  },
+  "lastUpdated": "2026-02-27T02:16:44Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51739,
+  "registrationNumber": "CC21604",
+  "name": "STOP ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stop.org.nz",
+  "email": "adrienne.noonan@stop.org.nz",
+  "address": {
+    "line1": "11 Whitmore Street",
+    "line2": " ",
+    "suburb": "Edgeware",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042829386",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T19:43:54Z"
+}

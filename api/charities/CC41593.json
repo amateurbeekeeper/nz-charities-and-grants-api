@@ -1,0 +1,27 @@
+{
+  "id": 63619,
+  "registrationNumber": "CC41593",
+  "name": "408 Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2019-07-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "carol@mauri.net.nz",
+  "address": {
+    "line1": "7 Riverbank Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "0230"
+  },
+  "nzbn": "9429043288038",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100066791071515",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T07:50:38Z"
+}

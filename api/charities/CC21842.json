@@ -1,0 +1,27 @@
+{
+  "id": 53093,
+  "registrationNumber": "CC21842",
+  "name": "Lighthouse Wanaka Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.lighthousewanaka.com",
+  "email": "reubenslighthouseaddress@gmail.com",
+  "address": {
+    "line1": "28 Reece Crescent",
+    "line2": "Wanaka 9305",
+    "suburb": "Wānaka",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429043127849",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Wanaka Lighthouse",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T02:41:53Z"
+}

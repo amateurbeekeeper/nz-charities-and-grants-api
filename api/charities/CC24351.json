@@ -1,0 +1,27 @@
+{
+  "id": 41701,
+  "registrationNumber": "CC24351",
+  "name": "Waikato Society Of Arts Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://wsa@wsa.org.nz",
+  "email": "wsa@wsa.org.nz",
+  "address": {
+    "line1": "120 Victoria Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042889625",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "waikatosocietyofarts",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T00:19:26Z"
+}

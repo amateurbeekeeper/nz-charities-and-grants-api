@@ -1,0 +1,27 @@
+{
+  "id": 73098,
+  "registrationNumber": "CC59489",
+  "name": "Digital Waitaha Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://digitalwaitaha.org.nz",
+  "email": "help@digitalwaitaha.org.nz",
+  "address": {
+    "line1": "44 Cass Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": "9429049905540",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Digital Waitaha",
+    "twitter": "Digital Waitaha"
+  },
+  "lastUpdated": "2026-01-30T08:34:23Z"
+}

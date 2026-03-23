@@ -1,0 +1,27 @@
+{
+  "id": 72508,
+  "registrationNumber": "CC58899",
+  "name": "The Observatory",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-04-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://theobservatory.foundation",
+  "email": "rich@brainbadge.org",
+  "address": {
+    "line1": "38 Symonds Street",
+    "line2": null,
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429049924169",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-16T00:23:49Z"
+}

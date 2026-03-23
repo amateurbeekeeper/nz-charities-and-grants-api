@@ -1,0 +1,27 @@
+{
+  "id": 75672,
+  "registrationNumber": "CC62125",
+  "name": "Auraki Group Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aurakigroup.com",
+  "email": "naomi@aurakigroup.co.nz",
+  "address": {
+    "line1": "228A Victoria Avenue",
+    "line2": " ",
+    "suburb": "Hokowhitu",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aurakigrouplimited",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T22:00:48Z"
+}

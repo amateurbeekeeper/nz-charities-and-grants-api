@@ -1,0 +1,27 @@
+{
+  "id": 50111,
+  "registrationNumber": "CC43650",
+  "name": "The Tapestry Trust of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tapestrytrustnz.org.nz",
+  "email": "hudson.biggs@accountingnz.com",
+  "address": {
+    "line1": "41 Coolock Crescent",
+    "line2": " ",
+    "suburb": "Waverley",
+    "city": "Dunedin",
+    "postcode": "9013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T03:39:29Z"
+}

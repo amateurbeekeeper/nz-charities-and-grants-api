@@ -1,0 +1,27 @@
+{
+  "id": 69194,
+  "registrationNumber": "CC55543",
+  "name": "New Zealand Kahoa Tauleva Trust 2000 ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kahoatauleva.org",
+  "email": "kulitaumoefolau@gmail.com",
+  "address": {
+    "line1": "122 Jericho Road",
+    "line2": "RD 2",
+    "suburb": "Pukekohe East",
+    "city": "Pukekohe",
+    "postcode": "2677"
+  },
+  "nzbn": "9429043033638",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:43:59Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55674,
+  "registrationNumber": "CC25003",
+  "name": "Holy Cross Seminary",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.holycross.org.nz",
+  "email": "office@holycross.org.nz",
+  "address": {
+    "line1": "44 Vermont Street",
+    "line2": " ",
+    "suburb": "Ponsonby",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:52Z"
+}

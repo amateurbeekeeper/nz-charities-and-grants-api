@@ -1,0 +1,27 @@
+{
+  "id": 64245,
+  "registrationNumber": "CC40039",
+  "name": "Royal District Nursing Service New Zealand Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rdns.org.nz",
+  "email": "sustewart@boltonclarke.com.au",
+  "address": {
+    "line1": "LEVEL 1",
+    "line2": "8 Hugo Johnston Road",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429032296259",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-06T01:30:14Z"
+}

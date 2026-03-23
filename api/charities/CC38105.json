@@ -1,0 +1,27 @@
+{
+  "id": 45900,
+  "registrationNumber": "CC38105",
+  "name": "Ashburton Senior Citizens Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jadriscoll@xtra.co.nz",
+  "address": {
+    "line1": "255 Moore Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": "9429043212811",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ashburton Senior Citizens Inc.",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T03:41:30Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 36225,
+  "registrationNumber": "CC45392",
+  "name": "Kaikoura Search and Rescue",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-09-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "daniel@evince.co.nz",
+  "address": {
+    "line1": "87 Green Lane",
+    "line2": "RD 1",
+    "suburb": "Kaikoura Flat",
+    "city": "Kaikoura",
+    "postcode": "7371"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "Kaikoura Land Search and Rescue ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T03:50:23Z"
+}

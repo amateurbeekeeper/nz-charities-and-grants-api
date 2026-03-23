@@ -1,0 +1,27 @@
+{
+  "id": 75130,
+  "registrationNumber": "CC61561",
+  "name": "Wellington Art Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wellingtonart.co.nz/",
+  "email": "charhird@gmail.com",
+  "address": {
+    "line1": "27 Chelsea Street",
+    "line2": " ",
+    "suburb": "Miramar",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429042917373",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/wellingtonartclub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:56:37Z"
+}

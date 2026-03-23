@@ -1,0 +1,27 @@
+{
+  "id": 60120,
+  "registrationNumber": "CC42512",
+  "name": "KERIKERI TENNIS AND PICKLEBALL CLUB INCORPORATED",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kerikeritennisclub.org.nz",
+  "email": "cottle-hill@xtra.co.nz",
+  "address": {
+    "line1": "Baysport",
+    "line2": "Harmony Lane",
+    "suburb": "Waipapa",
+    "city": "Kerikeri",
+    "postcode": null
+  },
+  "nzbn": "9429042777816",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/KerikeriTennisClub",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T01:45:09Z"
+}

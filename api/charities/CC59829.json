@@ -1,0 +1,27 @@
+{
+  "id": 73300,
+  "registrationNumber": "CC59829",
+  "name": "Validate Whakamana Tangata i Whara",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.validate.org",
+  "email": "sonja@validate-wtiw.org",
+  "address": {
+    "line1": "3 Colson Street",
+    "line2": null,
+    "suburb": "Avalon",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429050090983",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T09:31:19Z"
+}

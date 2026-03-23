@@ -1,0 +1,27 @@
+{
+  "id": 75818,
+  "registrationNumber": "CC62274",
+  "name": "FEBC Aotearoa New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-02-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://febc.nz",
+  "email": "matthew@febc.nz",
+  "address": {
+    "line1": "2 Cate Road",
+    "line2": " ",
+    "suburb": "Rototuna",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429051798406",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/febcnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T02:22:09Z"
+}

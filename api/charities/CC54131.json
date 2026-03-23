@@ -1,0 +1,27 @@
+{
+  "id": 67815,
+  "registrationNumber": "CC54131",
+  "name": "VOM Ministries",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2015-10-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "graham.gallen@gmail.com",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:35Z"
+}

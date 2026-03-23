@@ -1,0 +1,27 @@
+{
+  "id": 65751,
+  "registrationNumber": "CC52003",
+  "name": "Kihikihi St Andrews Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nigel.a@farmside.co.nz",
+  "address": {
+    "line1": "2505 Arapuni Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Pukeatua",
+    "postcode": "3880"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:05:14Z"
+}

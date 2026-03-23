@@ -1,0 +1,27 @@
+{
+  "id": 52098,
+  "registrationNumber": "CC11075",
+  "name": "Kiwi Family Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kiwifamilytrust.org",
+  "email": "nelson@kiwifamilytrust.org",
+  "address": {
+    "line1": "39 Nursery Road",
+    "line2": " ",
+    "suburb": "Phillipstown",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043012589",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "kiwi Family Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T20:46:35Z"
+}

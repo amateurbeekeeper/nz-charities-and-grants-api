@@ -1,0 +1,27 @@
+{
+  "id": 75714,
+  "registrationNumber": "CC62161",
+  "name": "Canterbury Softball Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-01-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.csa.org.nz/CSCT",
+  "email": "csct@csa.org.nz",
+  "address": {
+    "line1": "94 Studholme Street",
+    "line2": " ",
+    "suburb": "Somerfield",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:42:28Z"
+}

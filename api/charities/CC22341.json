@@ -1,0 +1,27 @@
+{
+  "id": 53543,
+  "registrationNumber": "CC22341",
+  "name": "Vocalis Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.vocalis.nz",
+  "email": "gayannphillips@gmail.com",
+  "address": {
+    "line1": "Unit 304",
+    "line2": "168 Hobson Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043021659",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/VocalisNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T01:34:23Z"
+}

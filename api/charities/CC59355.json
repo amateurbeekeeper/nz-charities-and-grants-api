@@ -1,0 +1,27 @@
+{
+  "id": 72960,
+  "registrationNumber": "CC59355",
+  "name": "Wanaka Community Workshop",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wanakacommunityworkshop.org.nz",
+  "email": "trustees@wcw.org.nz",
+  "address": {
+    "line1": "15 Gordon Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429048812726",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wanakacommunityworkshop",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:09:55Z"
+}

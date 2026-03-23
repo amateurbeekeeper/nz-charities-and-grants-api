@@ -1,0 +1,27 @@
+{
+  "id": 39260,
+  "registrationNumber": "CC22120",
+  "name": "New Zealand Society Of Genealogists Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.genealogy.org.nz",
+  "email": "nzsgmanager@genealogy.org.nz",
+  "address": {
+    "line1": "159 Queens Road",
+    "line2": " ",
+    "suburb": "Panmure",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042688853",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZSGFRC",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T23:34:19Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70495,
+  "registrationNumber": "CC56858",
+  "name": "Richmond Community Garden Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://richmondcommunitygarden.co.nz/",
+  "email": "hayley@guglietta.co.nz",
+  "address": {
+    "line1": "46A Vogel Street",
+    "line2": " ",
+    "suburb": "Richmond",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429045959790",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RichmondCommunityGardenAvebury/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T00:48:27Z"
+}

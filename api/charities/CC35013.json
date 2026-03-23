@@ -1,0 +1,27 @@
+{
+  "id": 48441,
+  "registrationNumber": "CC35013",
+  "name": "Counties-Manukau Sports Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cmsport.co.nz",
+  "email": "GregB@cmsport.co.nz",
+  "address": {
+    "line1": "90 Walters Road",
+    "line2": " ",
+    "suburb": "Takanini",
+    "city": "Auckland",
+    "postcode": "2112"
+  },
+  "nzbn": "9429042665137",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CountiesManukauSportNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T00:31:18Z"
+}

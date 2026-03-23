@@ -1,0 +1,27 @@
+{
+  "id": 50300,
+  "registrationNumber": "CC44079",
+  "name": "Methven Tennis Club",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-04-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "methventennis@gmail.com",
+  "address": {
+    "line1": "176 Waimarama Road",
+    "line2": "RD 12",
+    "suburb": "Methven",
+    "city": "Rakaia",
+    "postcode": "7782"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:32:21Z"
+}

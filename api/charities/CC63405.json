@@ -1,0 +1,27 @@
+{
+  "id": 77606,
+  "registrationNumber": "CC63405",
+  "name": "Global Lighthouse Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@ghm.org.nz",
+  "address": {
+    "line1": "14 Tyburnia Avenue",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429052515361",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T20:04:14Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65784,
+  "registrationNumber": "CC52033",
+  "name": "Rotorua District Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rdpc.org.nz",
+  "email": "admin@rdpc.org.nz",
+  "address": {
+    "line1": "Cnr Ranolf and Victoria Streets",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T06:09:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44075,
+  "registrationNumber": "CC37445",
+  "name": "Nelson Hockey Association 1993 Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nelsonhockey.org.nz",
+  "email": "manager@nelsonhockey.org.nz",
+  "address": {
+    "line1": "142 Saxton Road East",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429042752349",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Nelson Hockey",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T23:44:33Z"
+}

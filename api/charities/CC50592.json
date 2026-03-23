@@ -1,0 +1,27 @@
+{
+  "id": 34313,
+  "registrationNumber": "CC50592",
+  "name": "Child Rescue Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-05-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.childrescue.org.nz",
+  "email": "steven.perich@childrescue.org.nz",
+  "address": {
+    "line1": "642 West Coast Road",
+    "line2": " ",
+    "suburb": "Oratia",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T00:06:58Z"
+}

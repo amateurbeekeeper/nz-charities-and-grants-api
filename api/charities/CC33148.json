@@ -1,0 +1,27 @@
+{
+  "id": 58169,
+  "registrationNumber": "CC33148",
+  "name": "The Society Of Mary Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.smnz.org.nz",
+  "email": "williams@smnz.org.nz",
+  "address": {
+    "line1": "219 Thorndon Quay",
+    "line2": "219 Thorndon Quay",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042885597",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T00:59:13Z"
+}

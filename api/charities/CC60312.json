@@ -1,0 +1,27 @@
+{
+  "id": 73903,
+  "registrationNumber": "CC60312",
+  "name": "Migraine Foundation Aotearoa New Zealand Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://migrainefoundation.org.nz",
+  "email": "sarah@migrainefoundation.org.nz",
+  "address": {
+    "line1": "C/- Neurological Foundation",
+    "line2": "66 Grafton Road",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429050422135",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@migrainefoundationaotearoanewzealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T00:46:20Z"
+}

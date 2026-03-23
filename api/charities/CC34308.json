@@ -1,0 +1,27 @@
+{
+  "id": 46383,
+  "registrationNumber": "CC34308",
+  "name": "The William Kennedy Memorial Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2010-09-23T00:00:00Z",
+  "website": "http://www.otago.ac.nz",
+  "email": "treasury.accountant@otago.ac.nz",
+  "address": {
+    "line1": "Clocktower Building",
+    "line2": "Leith Street",
+    "suburb": null,
+    "city": "Dunedin",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:23:11Z"
+}

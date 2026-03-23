@@ -1,0 +1,27 @@
+{
+  "id": 33193,
+  "registrationNumber": "CC49524",
+  "name": "Uiraroa Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "morrisoncilla@gmail.com",
+  "address": {
+    "line1": "C/- 237 Powell Road",
+    "line2": "R.D.3",
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3193"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:41:13Z"
+}

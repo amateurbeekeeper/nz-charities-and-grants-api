@@ -1,0 +1,27 @@
+{
+  "id": 44355,
+  "registrationNumber": "CC32529",
+  "name": "Christchurch PHO Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david.hogue@ph.co.nz",
+  "address": {
+    "line1": "88C Edgeware Road",
+    "line2": " ",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429043088485",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T02:27:17Z"
+}

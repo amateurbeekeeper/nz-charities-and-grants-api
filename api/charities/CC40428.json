@@ -1,0 +1,27 @@
+{
+  "id": 61602,
+  "registrationNumber": "CC40428",
+  "name": "Save Animals From Exploitation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.safe.org.nz",
+  "email": "accounts@safe.org.nz",
+  "address": {
+    "line1": "PO Box 5750",
+    "line2": "Victoria Street West",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1142"
+  },
+  "nzbn": "9429042724353",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/SAFEnewzealand",
+    "twitter": "https://twitter.com/safenewzealand"
+  },
+  "lastUpdated": "2025-10-23T22:29:16Z"
+}

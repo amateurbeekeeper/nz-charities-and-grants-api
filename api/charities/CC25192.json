@@ -1,0 +1,27 @@
+{
+  "id": 42265,
+  "registrationNumber": "CC25192",
+  "name": "Friends of the Auckland Botanic Gardens Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurerfriendsabg@gmail.com",
+  "address": {
+    "line1": "102 Hill Road",
+    "line2": " ",
+    "suburb": "The Gardens",
+    "city": "Auckland",
+    "postcode": "2105"
+  },
+  "nzbn": "9429042702610",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T00:53:30Z"
+}

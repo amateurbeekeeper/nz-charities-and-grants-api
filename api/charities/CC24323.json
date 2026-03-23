@@ -1,0 +1,27 @@
+{
+  "id": 42061,
+  "registrationNumber": "CC24323",
+  "name": "Citizens Advice Bureau New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cab.org.nz",
+  "email": "sandra@cab.org.nz",
+  "address": {
+    "line1": "LEVEL 3",
+    "line2": "93 Boulcott Street",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": null
+  },
+  "nzbn": "9429042678694",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T18:06:01Z"
+}

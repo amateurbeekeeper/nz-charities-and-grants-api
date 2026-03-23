@@ -1,0 +1,27 @@
+{
+  "id": 40820,
+  "registrationNumber": "CC23345",
+  "name": "Trust House Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-04-22T00:00:00Z",
+  "dateDeregistered": "2009-05-25T00:00:00Z",
+  "website": "http://www.trusthouse.co.nz",
+  "email": "bernard@trusthouse.co.nz",
+  "address": {
+    "line1": "Cnr Chapel And Russell Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429042893783",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-07-26T23:55:43Z"
+}

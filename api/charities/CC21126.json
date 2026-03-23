@@ -1,0 +1,27 @@
+{
+  "id": 54373,
+  "registrationNumber": "CC21126",
+  "name": "Exscite Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.exscite.org.nz",
+  "email": "carpenterliz@actrix.co.nz",
+  "address": {
+    "line1": "21 Alderson Road",
+    "line2": " ",
+    "suburb": "Fairview Downs",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": "9429042702061",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T08:29:42Z"
+}

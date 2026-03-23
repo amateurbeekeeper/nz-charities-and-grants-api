@@ -1,0 +1,27 @@
+{
+  "id": 33306,
+  "registrationNumber": "CC48863",
+  "name": "Mount Roskill Grammar School Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2013-01-22T00:00:00Z",
+  "dateDeregistered": "2022-08-29T00:00:00Z",
+  "website": "https://mrgs.school.nz",
+  "email": "greg.watson@mrgs.school.nz",
+  "address": {
+    "line1": "Mount Roskill Grammar School",
+    "line2": "Frost Road",
+    "suburb": "Mt Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429043321865",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-07-18T19:14:34Z"
+}

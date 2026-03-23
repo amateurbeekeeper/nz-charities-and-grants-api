@@ -1,0 +1,27 @@
+{
+  "id": 41178,
+  "registrationNumber": "CC23928",
+  "name": "Avebury House Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.aveburyhouse.co.nz",
+  "email": "admin@aveburyhouse.co.nz",
+  "address": {
+    "line1": "9 Eveleyn Couzins Avenue",
+    "line2": " ",
+    "suburb": "Richmond",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429043002634",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AveburyHouseTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T19:47:19Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48415,
+  "registrationNumber": "CC30646",
+  "name": "Matapu Preschool Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.matapupreschool.co.nz",
+  "email": "emma@matapupreschool.co.nz",
+  "address": {
+    "line1": "501 Hastings Road",
+    "line2": "RD 15",
+    "suburb": " ",
+    "city": "Hawera",
+    "postcode": "4675"
+  },
+  "nzbn": "9429043068227",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/matapupreschool",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T20:50:06Z"
+}

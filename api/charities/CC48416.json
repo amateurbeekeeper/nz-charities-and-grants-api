@@ -1,0 +1,27 @@
+{
+  "id": 36595,
+  "registrationNumber": "CC48416",
+  "name": "New Zealand Blind Lawn Bowling Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-11-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sportsground.co.nz/nzblba",
+  "email": "kevincsmith23@gmail.com",
+  "address": {
+    "line1": "3 Redfern Street",
+    "line2": " ",
+    "suburb": "Northwood",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429042680314",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T01:56:18Z"
+}

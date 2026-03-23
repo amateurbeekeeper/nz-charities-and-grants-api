@@ -1,0 +1,27 @@
+{
+  "id": 32600,
+  "registrationNumber": "CC48106",
+  "name": "Christian Schools of Auckland Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.manukauchristian.school.nz/",
+  "email": "admin@manukauchristian.school.nz",
+  "address": {
+    "line1": "77 Rogers Road",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": "9429043230341",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T23:01:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73574,
+  "registrationNumber": "CC59873",
+  "name": "Aroha Kaikorai Valley Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-01-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.akv.nz",
+  "email": "paul.southworth@akv.nz",
+  "address": {
+    "line1": "381 Kaikorai Valley Road",
+    "line2": " ",
+    "suburb": "Bradford",
+    "city": "Dunedin",
+    "postcode": "9011"
+  },
+  "nzbn": "9429050230808",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ArohaKaikoraiValley",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:45:09Z"
+}

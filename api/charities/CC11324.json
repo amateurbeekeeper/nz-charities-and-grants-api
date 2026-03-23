@@ -1,0 +1,27 @@
+{
+  "id": 52986,
+  "registrationNumber": "CC11324",
+  "name": "Te Kohanga Reo National Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kohanga.ac.nz",
+  "email": "angus@kohanga.ac.nz",
+  "address": {
+    "line1": "67 Hankey Street",
+    "line2": " ",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042863502",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-14T01:47:56Z"
+}

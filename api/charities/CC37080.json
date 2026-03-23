@@ -1,0 +1,27 @@
+{
+  "id": 58450,
+  "registrationNumber": "CC37080",
+  "name": "The Karori Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.karorigolf.co.nz",
+  "email": "treasurer@karorigolf.co.nz",
+  "address": {
+    "line1": "280 South Makara Road",
+    "line2": " ",
+    "suburb": "Mākara",
+    "city": "Wellington",
+    "postcode": "6972"
+  },
+  "nzbn": "9429042777540",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "karori golf club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T21:30:19Z"
+}

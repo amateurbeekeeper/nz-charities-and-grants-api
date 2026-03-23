@@ -1,0 +1,27 @@
+{
+  "id": 50050,
+  "registrationNumber": "CC39585",
+  "name": "New Zealand Barbarian Rugby Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.barbarianrugby.co.nz",
+  "email": "secretary@barbarianrugby.co.nz",
+  "address": {
+    "line1": "58 Walters Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042851936",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T01:56:47Z"
+}

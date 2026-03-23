@@ -1,0 +1,27 @@
+{
+  "id": 37372,
+  "registrationNumber": "CC46805",
+  "name": "The New Zealand Pain Society Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-07-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nzps.org.nz",
+  "email": "nzpssecretary@gmail.com",
+  "address": {
+    "line1": "PO Box 6087",
+    "line2": "Invercargill North",
+    "suburb": "Windsor",
+    "city": "Invercargill",
+    "postcode": "9841"
+  },
+  "nzbn": "9429042870579",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NewZealandPainSociety/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T00:17:32Z"
+}

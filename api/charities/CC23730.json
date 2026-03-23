@@ -1,0 +1,27 @@
+{
+  "id": 41359,
+  "registrationNumber": "CC23730",
+  "name": "Koinonia House Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.khouse.org.nz/",
+  "email": "murray@malnz.co.nz",
+  "address": {
+    "line1": "394 Vaile Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mihi",
+    "postcode": "3081"
+  },
+  "nzbn": "9429042967477",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T03:57:39Z"
+}

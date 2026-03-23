@@ -1,0 +1,27 @@
+{
+  "id": 63381,
+  "registrationNumber": "CC40249",
+  "name": "Papatoetoe Cricket Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2023-08-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://papatoetoecricket.co.nz",
+  "email": "accounts@papatoetoecricket.co.nz",
+  "address": {
+    "line1": "Sutton Cres",
+    "line2": "Hunters Corner, ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2125"
+  },
+  "nzbn": "9429042799870",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:50:55Z"
+}

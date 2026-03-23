@@ -1,0 +1,27 @@
+{
+  "id": 70422,
+  "registrationNumber": "CC56788",
+  "name": "The Planetary Accounting Network",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.planetaryaccounting.org",
+  "email": "kate@planetaryaccounting.org",
+  "address": {
+    "line1": "11 McLeod Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429047208292",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/planetaryaccts",
+    "twitter": "https://twitter.com/planetaryaccts"
+  },
+  "lastUpdated": "2025-12-20T19:01:36Z"
+}

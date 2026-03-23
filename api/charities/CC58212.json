@@ -1,0 +1,27 @@
+{
+  "id": 71826,
+  "registrationNumber": "CC58212",
+  "name": "EarthDiverse Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://earthdiverse.org.nz",
+  "email": "todd@earthdiverse.org.nz",
+  "address": {
+    "line1": "10 Cranwell Place",
+    "line2": " ",
+    "suburb": "Hillcrest",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429050099306",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/earthdiverse",
+    "twitter": "x.com/EarthDiverse"
+  },
+  "lastUpdated": "2026-01-24T23:39:38Z"
+}

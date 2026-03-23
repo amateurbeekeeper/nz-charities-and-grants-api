@@ -1,0 +1,27 @@
+{
+  "id": 38750,
+  "registrationNumber": "CC45680",
+  "name": "New Lynn Islamic Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-11-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fareed@accountingitconsultants.com",
+  "address": {
+    "line1": "13 Ward Street",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429043223022",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T04:34:48Z"
+}

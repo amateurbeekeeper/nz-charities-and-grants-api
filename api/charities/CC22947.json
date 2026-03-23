@@ -1,0 +1,27 @@
+{
+  "id": 52889,
+  "registrationNumber": "CC22947",
+  "name": "New Zealand Railway And Locomotive Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.railsoc.org.nz",
+  "email": "nzrlsfinances@actrix.co.nz",
+  "address": {
+    "line1": "1A North Street",
+    "line2": " ",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": "9429042708759",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NewZealandRailwayandLocomotiveSociety/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T22:36:06Z"
+}

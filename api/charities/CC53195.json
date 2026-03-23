@@ -1,0 +1,27 @@
+{
+  "id": 67090,
+  "registrationNumber": "CC53195",
+  "name": "Asian Family Assistance Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.afact.org.nz",
+  "email": "afactnz@gmail.com",
+  "address": {
+    "line1": "9 Belfast Street",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429043298082",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T09:07:29Z"
+}

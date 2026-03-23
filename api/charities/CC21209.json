@@ -1,0 +1,27 @@
+{
+  "id": 54862,
+  "registrationNumber": "CC21209",
+  "name": "Youth Services Trust Whanganui",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "Whatever.org.nz",
+  "email": "rosie@whatever.org.nz",
+  "address": {
+    "line1": "39 Drews Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042921813",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Whatever Whanganui",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T01:07:27Z"
+}

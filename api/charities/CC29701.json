@@ -1,0 +1,27 @@
+{
+  "id": 54482,
+  "registrationNumber": "CC29701",
+  "name": "Kea Conservation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.keaconservation.co.nz",
+  "email": "tamsin.orr-walker@keaconservation.nz",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429043057931",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/keaconservation/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T21:16:59Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40673,
+  "registrationNumber": "CC24310",
+  "name": "Life to the Max Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lifetothemaxtrust.org.nz",
+  "email": "office@lifetothemaxtrust.org.nz",
+  "address": {
+    "line1": "GONVILLE POLICE STATION",
+    "line2": "2 Harper Street",
+    "suburb": "Gonville",
+    "city": "Wanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429043082971",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/LTTMWhanganui",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:02:05Z"
+}

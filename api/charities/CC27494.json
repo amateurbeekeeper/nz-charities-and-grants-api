@@ -1,0 +1,27 @@
+{
+  "id": 59751,
+  "registrationNumber": "CC27494",
+  "name": "The North Shore Company Theatre And Dramatic Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.companytheatre.co.nz",
+  "email": "stephenmhood@gmail.com",
+  "address": {
+    "line1": "C/- The Rose Centre",
+    "line2": "School Road",
+    "suburb": "Belmont",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429042781882",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CompanyTheatreNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T02:03:32Z"
+}

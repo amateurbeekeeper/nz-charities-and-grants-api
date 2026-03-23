@@ -1,0 +1,27 @@
+{
+  "id": 66232,
+  "registrationNumber": "CC52508",
+  "name": "Bowls Papanui Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-10-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bowlspapanui.com",
+  "email": "bowlspapanui@xtra.co.nz",
+  "address": {
+    "line1": "181 Condell Avenue",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042824411",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Bowls Papanui",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-28T22:41:29Z"
+}

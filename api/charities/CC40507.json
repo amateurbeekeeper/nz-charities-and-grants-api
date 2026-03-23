@@ -1,0 +1,27 @@
+{
+  "id": 62913,
+  "registrationNumber": "CC40507",
+  "name": "Fernside School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "becs.parker@loanmarket.co.nz",
+  "address": {
+    "line1": "O'roarkes Road",
+    "line2": "Fernside",
+    "suburb": "Rd 1",
+    "city": "Rangiora",
+    "postcode": "7471"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T07:15:52Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73865,
+  "registrationNumber": "CC60274",
+  "name": "Waikaia Trails Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waikaiaforesttrails.co.nz/",
+  "email": "sam@rbsgore.co.nz",
+  "address": {
+    "line1": "22 Traford Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gore",
+    "postcode": "9710"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waikaiaforesttrails/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T19:30:07Z"
+}

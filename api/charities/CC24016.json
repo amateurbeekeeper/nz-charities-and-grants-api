@@ -1,0 +1,27 @@
+{
+  "id": 55270,
+  "registrationNumber": "CC24016",
+  "name": "Victoria House Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.vichouse.org.nz",
+  "email": "tania.bailey@nz.gt.com",
+  "address": {
+    "line1": "Victoria House",
+    "line2": "282 The Terrace",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042897453",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T21:02:42Z"
+}

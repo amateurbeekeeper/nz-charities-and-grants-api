@@ -1,0 +1,27 @@
+{
+  "id": 66802,
+  "registrationNumber": "CC53079",
+  "name": "Picton Dawn Chorus Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pictondawnchorus.nz",
+  "email": "gm@pictondawnchorus.nz",
+  "address": {
+    "line1": "14 Auckland Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Picton",
+    "postcode": "7220"
+  },
+  "nzbn": "9429043297221",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/PictonDawnChorus",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T00:25:36Z"
+}

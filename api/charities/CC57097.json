@@ -1,0 +1,27 @@
+{
+  "id": 70730,
+  "registrationNumber": "CC57097",
+  "name": "Young and Healthy 2019 Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-07-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.youngandhealthy.org.nz",
+  "email": "Kim.harvey@youngandhealthy.org.nz",
+  "address": {
+    "line1": "7A Scarboro Terrace",
+    "line2": " ",
+    "suburb": "Murrays Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429047525771",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/youngandhealthynz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T19:06:52Z"
+}

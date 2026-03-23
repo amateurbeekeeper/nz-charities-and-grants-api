@@ -1,0 +1,27 @@
+{
+  "id": 42126,
+  "registrationNumber": "CC24340",
+  "name": "Bethel Chinese Fellowship",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "springfootpath@hotmail.com",
+  "address": {
+    "line1": "21C Gilfillan Street",
+    "line2": " ",
+    "suburb": "Blockhouse Bay",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429043018291",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-02T19:34:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39540,
+  "registrationNumber": "CC24759",
+  "name": "Inner Fit New Zealand",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": "2023-06-06T00:00:00Z",
+  "website": "http://www.innerfit.nz",
+  "email": "john@roberts.co.nz",
+  "address": {
+    "line1": "8B Carr Road",
+    "line2": " ",
+    "suburb": "Three Kings",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429043050048",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "@InnerFitNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2023-06-20T07:01:45Z"
+}

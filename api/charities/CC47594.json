@@ -1,0 +1,27 @@
+{
+  "id": 37890,
+  "registrationNumber": "CC47594",
+  "name": "Be Safe Taranaki Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-08-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.besafe.org.nz",
+  "email": "besafe@besafe.org.nz",
+  "address": {
+    "line1": "369 Devon Street East",
+    "line2": " ",
+    "suburb": "Strandon",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T03:29:12Z"
+}

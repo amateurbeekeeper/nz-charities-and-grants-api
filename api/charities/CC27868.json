@@ -1,0 +1,27 @@
+{
+  "id": 57201,
+  "registrationNumber": "CC27868",
+  "name": "The Ākina Foundation",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-02-12T00:00:00Z",
+  "dateDeregistered": "2025-05-28T00:00:00Z",
+  "website": "http://www.akina.org.nz",
+  "email": "nicola.nation@akina.org.nz",
+  "address": {
+    "line1": "26 Egmont Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043179930",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "@akinafoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-11T07:11:21Z"
+}

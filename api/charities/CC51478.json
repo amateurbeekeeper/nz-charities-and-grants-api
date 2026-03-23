@@ -1,0 +1,27 @@
+{
+  "id": 65252,
+  "registrationNumber": "CC51478",
+  "name": "Grace Wellington Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gracewellington.org.nz",
+  "email": "george@dewar.co.nz",
+  "address": {
+    "line1": "11 McKeefry Grove",
+    "line2": " ",
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": "9429043273836",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/GraceatWellington/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T19:20:49Z"
+}

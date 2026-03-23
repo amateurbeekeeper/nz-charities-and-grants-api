@@ -1,0 +1,27 @@
+{
+  "id": 60029,
+  "registrationNumber": "CC28447",
+  "name": "Cycling CHB",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cyclingchb.co.nz",
+  "email": "cyclingchb@gmail.com",
+  "address": {
+    "line1": "87C Ongaonga Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Waipawa",
+    "postcode": "4272"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Cycling CHB Bats",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:18:55Z"
+}

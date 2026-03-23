@@ -1,0 +1,27 @@
+{
+  "id": 61440,
+  "registrationNumber": "CC40300",
+  "name": "Worser Bay School Trust",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2017-07-31T00:00:00Z",
+  "website": "http://www.worserbay.school.nz",
+  "email": "andrew.wilson@foreconsulting.co.nz",
+  "address": {
+    "line1": "168 Seatoun Heights Road",
+    "line2": " ",
+    "suburb": "Seatoun",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:06:01Z"
+}

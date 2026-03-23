@@ -1,0 +1,27 @@
+{
+  "id": 38259,
+  "registrationNumber": "CC45932",
+  "name": "Inspiring Stories Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-12-19T00:00:00Z",
+  "dateDeregistered": "2025-06-27T00:00:00Z",
+  "website": "http://www.inspiringstories.org.nz",
+  "email": "GuyRyanNZ@gmail.com",
+  "address": {
+    "line1": "Level 4",
+    "line2": "1 Woodward Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043190096",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-06T07:19:54Z"
+}

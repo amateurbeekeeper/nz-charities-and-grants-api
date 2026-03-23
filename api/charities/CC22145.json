@@ -1,0 +1,27 @@
+{
+  "id": 55030,
+  "registrationNumber": "CC22145",
+  "name": "The Auckland Festival Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aaf.co.nz",
+  "email": "vanessa.zigliani@aaf.co.nz",
+  "address": {
+    "line1": "GROUND Floor",
+    "line2": "48 Greys Avenue",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042985211",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Aklfestival",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T18:36:13Z"
+}

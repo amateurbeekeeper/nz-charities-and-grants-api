@@ -1,0 +1,27 @@
+{
+  "id": 42945,
+  "registrationNumber": "CC34253",
+  "name": "Rotorua Revival Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rci.org.au",
+  "email": "angelagunn@xtra.co.nz",
+  "address": {
+    "line1": "363 Sunset Road",
+    "line2": " ",
+    "suburb": "Sunnybrook",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:58:50Z"
+}

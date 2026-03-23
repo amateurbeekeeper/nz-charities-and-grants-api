@@ -1,0 +1,27 @@
+{
+  "id": 65836,
+  "registrationNumber": "CC52096",
+  "name": "The Cromwell Museum Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-07-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cromwellmuseum.nz",
+  "email": "detaildesk@outlook.com",
+  "address": {
+    "line1": "47 The Mall",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cromwell",
+    "postcode": "9310"
+  },
+  "nzbn": "9429043287253",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Cromwell-Museum-1153224751361034/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T02:24:30Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71328,
+  "registrationNumber": "CC57701",
+  "name": "Humans of Christchurch Ōtautahi",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.humansofchch.org",
+  "email": "hoco.contact@gmail.com",
+  "address": {
+    "line1": "4 Baronet Lane",
+    "line2": " ",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/humansofchch/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:45:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52123,
+  "registrationNumber": "CC11031",
+  "name": "Community Contact",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paringamonk@farmside.co.nz",
+  "address": {
+    "line1": "6501 Haast Highway",
+    "line2": "Paringa 7886",
+    "suburb": "Paringa",
+    "city": "Haast",
+    "postcode": "7886"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Community Contact - South Westland",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-18T02:20:31Z"
+}

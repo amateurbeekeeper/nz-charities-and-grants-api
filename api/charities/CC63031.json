@@ -1,0 +1,27 @@
+{
+  "id": 77028,
+  "registrationNumber": "CC63031",
+  "name": "The Pohutukawa East Coast Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "trust@pohutukawa.org.nz",
+  "address": {
+    "line1": "6 Waiotu Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tokomaru Bay",
+    "postcode": "4079"
+  },
+  "nzbn": "9429052602399",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T18:36:08Z"
+}

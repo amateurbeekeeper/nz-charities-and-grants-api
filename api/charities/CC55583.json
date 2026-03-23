@@ -1,0 +1,27 @@
+{
+  "id": 69237,
+  "registrationNumber": "CC55583",
+  "name": "Raglan Football Club",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.raglanjuniorsoccer.co.nz",
+  "email": "netbelling@gmail.com",
+  "address": {
+    "line1": "Unit 3",
+    "line2": "2 Mahana Place",
+    "suburb": " ",
+    "city": "Raglan",
+    "postcode": "3225"
+  },
+  "nzbn": "9429046490445",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T06:37:45Z"
+}

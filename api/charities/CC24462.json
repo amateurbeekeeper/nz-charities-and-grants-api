@@ -1,0 +1,27 @@
+{
+  "id": 40890,
+  "registrationNumber": "CC24462",
+  "name": "Travis Wetland Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.traviswetland.org.nz",
+  "email": "info@traviswetland.org.nz",
+  "address": {
+    "line1": "280 Beach Road",
+    "line2": " ",
+    "suburb": "Burwood",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429042898344",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TravisWetland",
+    "twitter": "https://twitter.com/TravisWetland"
+  },
+  "lastUpdated": "2025-12-31T04:14:39Z"
+}

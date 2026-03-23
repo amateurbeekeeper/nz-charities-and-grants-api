@@ -1,0 +1,27 @@
+{
+  "id": 69683,
+  "registrationNumber": "CC56038",
+  "name": "Kiwilink",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kiwilink.org",
+  "email": "cbaigent@xtra.co.nz",
+  "address": {
+    "line1": "21 Keats Crescent",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Kiwilink",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-14T19:22:33Z"
+}

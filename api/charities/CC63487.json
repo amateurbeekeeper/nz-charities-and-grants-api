@@ -1,0 +1,27 @@
+{
+  "id": 77688,
+  "registrationNumber": "CC63487",
+  "name": "WAIKATO WATER POLO CLUB INCORPORATED",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-07-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://waikatowaterpolo.co.nz/",
+  "email": "nicole.c@waikatowaterpolo.co.nz",
+  "address": {
+    "line1": "Waterworld Aquatic Centre",
+    "line2": "Garnett Avenue",
+    "suburb": "Te Rapa",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WaikatoWaterPolo/?ref=embed_page#",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T19:37:27Z"
+}

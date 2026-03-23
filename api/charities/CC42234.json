@@ -1,0 +1,27 @@
+{
+  "id": 50923,
+  "registrationNumber": "CC42234",
+  "name": "Richmond Waimea Youth Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.24-7youthwork.nz/",
+  "email": "wpmills@gmail.com",
+  "address": {
+    "line1": "523 Main Road Stoke",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429043286621",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/waimeayouth",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T00:23:50Z"
+}

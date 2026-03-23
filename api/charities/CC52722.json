@@ -1,0 +1,27 @@
+{
+  "id": 66459,
+  "registrationNumber": "CC52722",
+  "name": "Berean Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-12-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.bereantrust.com",
+  "email": "mike.mudford@gmail.com",
+  "address": {
+    "line1": "196 Watershed Road",
+    "line2": "RD 10",
+    "suburb": "Bunnythorpe",
+    "city": "Palmerston North",
+    "postcode": "4470"
+  },
+  "nzbn": "9429043315093",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-11T19:40:25Z"
+}

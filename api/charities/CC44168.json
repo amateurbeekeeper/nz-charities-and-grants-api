@@ -1,0 +1,27 @@
+{
+  "id": 64139,
+  "registrationNumber": "CC44168",
+  "name": "Toi Ora Live Art Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.toiora.org.nz",
+  "email": "susanne@toiora.org.nz",
+  "address": {
+    "line1": "6 Putiki Street",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429042886587",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.fb.me/toiora",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T21:50:22Z"
+}

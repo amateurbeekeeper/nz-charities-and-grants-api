@@ -1,0 +1,27 @@
+{
+  "id": 75348,
+  "registrationNumber": "CC61785",
+  "name": "Bike Hub Nelson Inc.",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bikehubnelson.org",
+  "email": "aadvanderpoel2022@gmail.com",
+  "address": {
+    "line1": "142 Saxton Road East",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429051196196",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BikeHubNelson",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-27T23:18:07Z"
+}

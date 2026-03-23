@@ -1,0 +1,27 @@
+{
+  "id": 64920,
+  "registrationNumber": "CC35554",
+  "name": "Auckland Esperanto Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aes.org.nz",
+  "email": "eboysix@hotmail.co.nz",
+  "address": {
+    "line1": "372 Ellerslie-Panmure Highway",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429042586746",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T00:34:00Z"
+}

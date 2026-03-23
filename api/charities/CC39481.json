@@ -1,0 +1,27 @@
+{
+  "id": 43227,
+  "registrationNumber": "CC39481",
+  "name": "Waihi Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-03T00:00:00Z",
+  "website": "www.playcentre.org.nz",
+  "email": "waihi@playcentre.org.nz",
+  "address": {
+    "line1": "54 Consols Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waihi",
+    "postcode": "3610"
+  },
+  "nzbn": "9429042899396",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-17T07:14:39Z"
+}

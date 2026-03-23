@@ -1,0 +1,27 @@
+{
+  "id": 48319,
+  "registrationNumber": "CC30888",
+  "name": "The Knights Of The Southern Cross At Auckland",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kscnz.org.nz/auckland/",
+  "email": "math3wbland@gmail.com",
+  "address": {
+    "line1": "401 Dominion Road",
+    "line2": "121A Selwyn Street",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042779469",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T21:40:26Z"
+}

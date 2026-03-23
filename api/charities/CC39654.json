@@ -1,0 +1,27 @@
+{
+  "id": 47332,
+  "registrationNumber": "CC39654",
+  "name": "Evangelical Christian Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "registrar@confessinganglicans.nz",
+  "address": {
+    "line1": "Suite 3",
+    "line2": "211 Ferry Road",
+    "suburb": "Waltham",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043094967",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-13T02:30:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51244,
+  "registrationNumber": "CC10771",
+  "name": "New Zealand Speech Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.speechnz.co.nz",
+  "email": "info@speechnz.co.nz",
+  "address": {
+    "line1": "101 Molesworth Street",
+    "line2": " Level 1",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042690429",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/speechnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T21:49:55Z"
+}

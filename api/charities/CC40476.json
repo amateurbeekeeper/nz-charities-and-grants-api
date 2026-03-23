@@ -1,0 +1,27 @@
+{
+  "id": 42650,
+  "registrationNumber": "CC40476",
+  "name": "NZ Badminton Academy Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzba.net.nz",
+  "email": "ritchie@nzba.net.nz",
+  "address": {
+    "line1": "162 Royal Road",
+    "line2": " ",
+    "suburb": "Massey",
+    "city": "Auckland",
+    "postcode": "0614"
+  },
+  "nzbn": "9429043185849",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "NZ Badminton Academy",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T18:18:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35886,
+  "registrationNumber": "CC45567",
+  "name": "Martin-Hautus Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-10-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "maretta@mhfoundationtrust.org.nz",
+  "address": {
+    "line1": "87 Kiwi Esplanade",
+    "line2": " ",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429043298310",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T22:11:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48384,
+  "registrationNumber": "CC34368",
+  "name": "Waitakere Gymnastics Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waitakeregymnastics.co.nz",
+  "email": "office@waitakeregymnastics.co.nz",
+  "address": {
+    "line1": "36 Portage Road",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "600"
+  },
+  "nzbn": "9429042685517",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T00:02:24Z"
+}

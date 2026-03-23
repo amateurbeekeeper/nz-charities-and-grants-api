@@ -1,0 +1,27 @@
+{
+  "id": 77966,
+  "registrationNumber": "CC63774",
+  "name": "Āwhina Ora",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-09-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Tuterangi@awhinaora.co.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "249 One Tree Point Road",
+    "suburb": null,
+    "city": "One Tree Point",
+    "postcode": "0118"
+  },
+  "nzbn": null,
+  "financialYearEnd": "1/10",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-23T00:44:26Z"
+}

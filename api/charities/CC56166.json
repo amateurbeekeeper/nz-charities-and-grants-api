@@ -1,0 +1,27 @@
+{
+  "id": 69810,
+  "registrationNumber": "CC56166",
+  "name": "Voices From The Spectrum",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.vfts.org.nz",
+  "email": "elroy.l@vfts.org.nz",
+  "address": {
+    "line1": "12 Rachel Place",
+    "line2": " ",
+    "suburb": "Dinsdale",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429046998873",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T21:14:44Z"
+}

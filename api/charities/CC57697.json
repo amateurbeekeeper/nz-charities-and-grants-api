@@ -1,0 +1,27 @@
+{
+  "id": 71324,
+  "registrationNumber": "CC57697",
+  "name": "Schools Out Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tim.bell@best-start.org",
+  "address": {
+    "line1": "609 Cameron Road",
+    "line2": " ",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T08:18:55Z"
+}

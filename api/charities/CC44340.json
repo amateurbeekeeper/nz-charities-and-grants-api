@@ -1,0 +1,27 @@
+{
+  "id": 50498,
+  "registrationNumber": "CC44340",
+  "name": "Harry J Wilson Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "linda.vanturnhout@gallawaycookallan.co.nz",
+  "address": {
+    "line1": "123 Vogel Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:23:11Z"
+}

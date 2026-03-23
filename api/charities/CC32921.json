@@ -1,0 +1,27 @@
+{
+  "id": 45009,
+  "registrationNumber": "CC32921",
+  "name": "Our Lady Star of the Sea School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2023-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.starofthesea.school.nz/",
+  "email": "syandell@starofthesea.school.nz",
+  "address": {
+    "line1": "Star of the Sea School",
+    "line2": "14 Oakridge Way",
+    "suburb": "Northpark",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429052628689",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Our-Lady-Star-of-the-Sea-1878437815714297/?hc_ref=NEWSFEED&fref=nf",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T21:32:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38540,
+  "registrationNumber": "CC45782",
+  "name": "Whakatohea Maori Trust Board",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-11-30T00:00:00Z",
+  "dateDeregistered": "2024-06-04T00:00:00Z",
+  "website": "http://www.whakatohea.co.nz",
+  "email": "pdrummond@whakatohea.co.nz",
+  "address": {
+    "line1": "122 St John Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Opotiki",
+    "postcode": "3122"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T02:45:30Z"
+}

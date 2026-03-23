@@ -1,0 +1,27 @@
+{
+  "id": 74183,
+  "registrationNumber": "CC60594",
+  "name": "Stratford Shakespeare Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "shakespearestratford@gmail.com",
+  "address": {
+    "line1": "11 Fenton Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Stratford",
+    "postcode": "4332"
+  },
+  "nzbn": "9429042944652",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/stratfordshakespearetrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T04:35:01Z"
+}

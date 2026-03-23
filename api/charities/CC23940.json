@@ -1,0 +1,27 @@
+{
+  "id": 40945,
+  "registrationNumber": "CC23940",
+  "name": "Carterton Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cartertonbaptist@gmail.com",
+  "address": {
+    "line1": "110 Broadway",
+    "line2": null,
+    "suburb": " ",
+    "city": "Carterton",
+    "postcode": "5713"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-05T19:25:26Z"
+}

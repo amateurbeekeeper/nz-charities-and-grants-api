@@ -1,0 +1,27 @@
+{
+  "id": 67741,
+  "registrationNumber": "CC54047",
+  "name": "Sistema Whangarei - Toi Akorangi",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sistemawhangarei.org.nz",
+  "email": "mlm.mjones@gmail.com",
+  "address": {
+    "line1": "7 Rust Avenue",
+    "line2": "Whangarei 0110",
+    "suburb": "Kensington",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043369645",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SistemaWhangarei/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T06:22:10Z"
+}

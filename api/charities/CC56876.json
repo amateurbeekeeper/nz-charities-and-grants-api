@@ -1,0 +1,27 @@
+{
+  "id": 70513,
+  "registrationNumber": "CC56876",
+  "name": "Eyeview Ethnic",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://eyeviewethnictrust.org.nz/",
+  "email": "info@eyeviewethnictrust.org.nz",
+  "address": {
+    "line1": "65B Target Road",
+    "line2": " ",
+    "suburb": "Totara Vale",
+    "city": "Auckland",
+    "postcode": "0629"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/eyeviewethnictrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T00:13:41Z"
+}

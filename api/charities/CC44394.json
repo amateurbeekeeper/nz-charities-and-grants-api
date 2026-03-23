@@ -1,0 +1,27 @@
+{
+  "id": 50642,
+  "registrationNumber": "CC44394",
+  "name": "New Zealand Geographical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzgs.co.nz",
+  "email": "diproseg@landcareresearch.co.nz",
+  "address": {
+    "line1": "C/- School People, Environment and Planning",
+    "line2": "Massey University",
+    "suburb": "Private Bag 11 222",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429043285907",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T21:13:57Z"
+}

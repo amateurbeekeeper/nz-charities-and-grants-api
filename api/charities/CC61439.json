@@ -1,0 +1,27 @@
+{
+  "id": 75015,
+  "registrationNumber": "CC61439",
+  "name": "Offload",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kerynmartin@gmail.com",
+  "address": {
+    "line1": "18 Tremaine Place",
+    "line2": " ",
+    "suburb": "Camborne",
+    "city": "Porirua",
+    "postcode": "5026"
+  },
+  "nzbn": "9429051412340",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:47:27Z"
+}

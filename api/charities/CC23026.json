@@ -1,0 +1,27 @@
+{
+  "id": 39970,
+  "registrationNumber": "CC23026",
+  "name": "Bike Auckland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bikeauckland.org.nz/",
+  "email": "treasurer@bikeauckland.org.nz",
+  "address": {
+    "line1": "16 Firth Road",
+    "line2": " 11-19 Customs Street West",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429043169412",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BikeAKL/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T04:02:29Z"
+}

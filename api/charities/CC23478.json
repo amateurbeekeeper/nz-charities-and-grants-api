@@ -1,0 +1,27 @@
+{
+  "id": 57203,
+  "registrationNumber": "CC23478",
+  "name": "Hutt City Uniting Congregations",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hcuc.co.nz",
+  "email": "michelle@hcuc.co.nz",
+  "address": {
+    "line1": "HCUC PARISH OFFICE",
+    "line2": "58 Woburn Road",
+    "suburb": "Woburn",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T03:41:52Z"
+}

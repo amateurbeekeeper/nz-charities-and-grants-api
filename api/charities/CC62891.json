@@ -1,0 +1,27 @@
+{
+  "id": 76749,
+  "registrationNumber": "CC62891",
+  "name": "Manahau Aotearoa Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://manahau.nz",
+  "email": "kiaora@manahau.nz",
+  "address": {
+    "line1": "10 Welles Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429052130069",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/manahaunz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T23:16:30Z"
+}

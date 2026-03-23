@@ -1,0 +1,27 @@
+{
+  "id": 36762,
+  "registrationNumber": "CC46962",
+  "name": "Ockham Collective",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-10-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "preet.kaur@ockham.co.nz",
+  "address": {
+    "line1": "20 Williamson Avenue",
+    "line2": "246 Khyber Pass Road",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429043221868",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:41:10Z"
+}

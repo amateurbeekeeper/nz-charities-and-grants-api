@@ -1,0 +1,27 @@
+{
+  "id": 73707,
+  "registrationNumber": "CC60179",
+  "name": "Whitewater NZ Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://whitewater.nz/",
+  "email": "president@whitewater.nz",
+  "address": {
+    "line1": "15 Grahams Road",
+    "line2": " ",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WhitewaterNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T18:42:49Z"
+}

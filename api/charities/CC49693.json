@@ -1,0 +1,27 @@
+{
+  "id": 32757,
+  "registrationNumber": "CC49693",
+  "name": "New Zealand Infant and Toddler Consortium",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzitc.co.nz",
+  "email": "anita@nzitc.co.nz",
+  "address": {
+    "line1": "41 Arrowsmith Road",
+    "line2": "RD 2",
+    "suburb": "Waitākere",
+    "city": "Henderson",
+    "postcode": "0782"
+  },
+  "nzbn": "9429043148417",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nz.consortium/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T23:16:00Z"
+}

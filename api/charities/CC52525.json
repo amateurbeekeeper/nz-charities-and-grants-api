@@ -1,0 +1,27 @@
+{
+  "id": 66251,
+  "registrationNumber": "CC52525",
+  "name": "Life Education Trust Coastal Otago",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-10-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lifeeducation.org.nz",
+  "email": "chair.coastalotago@lifeedtrust.org.nz",
+  "address": {
+    "line1": "PO Box 5886",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9054"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T01:26:30Z"
+}

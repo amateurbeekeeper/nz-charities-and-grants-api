@@ -1,0 +1,27 @@
+{
+  "id": 78100,
+  "registrationNumber": "CC63908",
+  "name": "Hamilton Grey Power Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.greypowerhamilton.com",
+  "email": "rudiduplooynz@gmail.com",
+  "address": {
+    "line1": "23 Stoneleigh Drive",
+    "line2": null,
+    "suburb": "Chartwell",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T06:56:39Z"
+}

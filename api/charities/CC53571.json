@@ -1,0 +1,27 @@
+{
+  "id": 67284,
+  "registrationNumber": "CC53571",
+  "name": "Chatham Islands Shipping Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.chathamislandsshipping.co.nz",
+  "email": "accounts@cietrust.co.nz",
+  "address": {
+    "line1": "1 Waitangi Wharf - Owenga Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Chatham Islands",
+    "postcode": "8942"
+  },
+  "nzbn": "9429031820660",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T20:32:26Z"
+}

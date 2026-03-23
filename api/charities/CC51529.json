@@ -1,0 +1,27 @@
+{
+  "id": 65307,
+  "registrationNumber": "CC51529",
+  "name": "Grace Community Church, New Plymouth",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.gracenp.co.nz",
+  "email": "pastor@gracenp.co.nz",
+  "address": {
+    "line1": "78 Awanui Street",
+    "line2": " ",
+    "suburb": "Merrilands",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T18:52:12Z"
+}

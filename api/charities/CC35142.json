@@ -1,0 +1,27 @@
+{
+  "id": 47538,
+  "registrationNumber": "CC35142",
+  "name": "Auckland Bible Church Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.abcchurch.co.nz",
+  "email": "claireallegro@gmail.com",
+  "address": {
+    "line1": "3 Ngaire Avenue",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429043009923",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T01:52:02Z"
+}

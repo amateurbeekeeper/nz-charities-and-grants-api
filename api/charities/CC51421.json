@@ -1,0 +1,27 @@
+{
+  "id": 65197,
+  "registrationNumber": "CC51421",
+  "name": "EVolocity Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.evolocity.co.nz",
+  "email": "jo.morgan@evolocity.co.nz",
+  "address": {
+    "line1": "1 Celmisia Retreat",
+    "line2": " ",
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": "9429050506903",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/evolocitynz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T02:52:24Z"
+}

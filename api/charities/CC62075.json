@@ -1,0 +1,27 @@
+{
+  "id": 75630,
+  "registrationNumber": "CC62075",
+  "name": "Aotearoa Rongoa Maori Collective",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-12-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "aotearoarongoamaoric@gmail.com",
+  "address": {
+    "line1": "5167B Great South Road",
+    "line2": "RD 1",
+    "suburb": "Ngāruawāhia",
+    "city": "Taupiri",
+    "postcode": "3791"
+  },
+  "nzbn": "9429050491599",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T23:01:14Z"
+}

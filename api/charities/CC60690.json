@@ -1,0 +1,27 @@
+{
+  "id": 74275,
+  "registrationNumber": "CC60690",
+  "name": "Palmerston North Hospital Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://PNHospitalFoundation.co.nz",
+  "email": "jackie.braithwaite@midcentraldhb.govt.nz",
+  "address": {
+    "line1": "50 Ruahine Street",
+    "line2": " ",
+    "suburb": "Roslyn",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429050436163",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:15:41Z"
+}

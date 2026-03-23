@@ -1,0 +1,27 @@
+{
+  "id": 34558,
+  "registrationNumber": "CC50936",
+  "name": "Woman Care Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-08-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.womancaretrust.org.nz",
+  "email": "womancaretrust@gmail.com",
+  "address": {
+    "line1": "2 Sutton Crescent",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429043279500",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Woman Care Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T23:09:29Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69567,
+  "registrationNumber": "CC55917",
+  "name": "The NESA Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-08-07T00:00:00Z",
+  "dateDeregistered": "2023-03-15T00:00:00Z",
+  "website": "https://www.nesa.org.nz",
+  "email": "nobodystandsalonenz@gmail.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "148A Church Street",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429046893611",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/NooneEverStandsAlone",
+    "twitter": null
+  },
+  "lastUpdated": "2023-05-25T07:01:52Z"
+}

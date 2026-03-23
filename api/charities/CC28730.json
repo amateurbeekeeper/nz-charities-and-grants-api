@@ -1,0 +1,27 @@
+{
+  "id": 55955,
+  "registrationNumber": "CC28730",
+  "name": "The Gut Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thegut.org.nz",
+  "email": "alice@thegut.org.nz",
+  "address": {
+    "line1": "335 Lincoln Road",
+    "line2": "906 Colombo Street",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429042614920",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/Bowel-and-Liver-Trust-924059097640748/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T17:52:46Z"
+}

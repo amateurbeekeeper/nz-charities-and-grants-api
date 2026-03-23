@@ -1,0 +1,27 @@
+{
+  "id": 41417,
+  "registrationNumber": "CC26889",
+  "name": "Agora Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.agorachurch.nz/cafe/",
+  "email": "al@jeyapal.com",
+  "address": {
+    "line1": "13B Kent Street",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043179435",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T22:25:33Z"
+}

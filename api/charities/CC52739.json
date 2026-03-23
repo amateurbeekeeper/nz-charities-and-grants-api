@@ -1,0 +1,27 @@
+{
+  "id": 66465,
+  "registrationNumber": "CC52739",
+  "name": "Anglican Diocese of Christchurch - Parish of Sumner-Redcliffs",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sumred.org.nz",
+  "email": "office@sumred.org.nz",
+  "address": {
+    "line1": "148 Main Road",
+    "line2": " ",
+    "suburb": "Redcliffs",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": "9429052150166",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/sumnerredcliffs.anglicanchurch.1",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T19:27:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69013,
+  "registrationNumber": "CC53664",
+  "name": "Momenta Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.momenta.org.nz",
+  "email": "accountant@momenta.org.nz",
+  "address": {
+    "line1": "17 Grey Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429047520769",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/MomentaCharitableTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:33:38Z"
+}

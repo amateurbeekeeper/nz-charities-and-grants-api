@@ -1,0 +1,27 @@
+{
+  "id": 57623,
+  "registrationNumber": "CC26004",
+  "name": "Institute for World Evangelisation - ICPE Mission (New Zealand Branch)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.icpe.org",
+  "email": "lucienne@icpe.org",
+  "address": {
+    "line1": "C/o Catholic Archdiocese of Wellington",
+    "line2": "Level 2, 204 Thorndon Quay",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042664345",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-03T19:19:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 58822,
+  "registrationNumber": "CC26779",
+  "name": "Orewa Surf Life Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.orewasurfclub.org.nz",
+  "email": "admin@orewasurfclub.org.nz",
+  "address": {
+    "line1": "275 Hibiscus Coast Highway",
+    "line2": "Orewa 0931",
+    "suburb": " ",
+    "city": "Orewa",
+    "postcode": "0931"
+  },
+  "nzbn": "9429042799689",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/orewasurflifesavingclub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T19:34:15Z"
+}

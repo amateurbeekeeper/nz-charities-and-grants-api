@@ -1,0 +1,27 @@
+{
+  "id": 55489,
+  "registrationNumber": "CC22363",
+  "name": "Presbyterian Support Southland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pss.org.nz",
+  "email": "jenny.donnelly@pss.org.nz",
+  "address": {
+    "line1": "181",
+    "line2": "183 Spey Street",
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042808718",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T07:46:47Z"
+}

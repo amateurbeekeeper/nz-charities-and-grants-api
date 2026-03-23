@@ -1,0 +1,27 @@
+{
+  "id": 70086,
+  "registrationNumber": "CC56451",
+  "name": "Stratford Theatre Group Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stratfordonstagenz@gmail.com",
+  "address": {
+    "line1": "85 Regan Street",
+    "line2": "Stratford 4332",
+    "suburb": " ",
+    "city": "Stratford",
+    "postcode": "4332"
+  },
+  "nzbn": "9429042833246",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/stratfordonstagenz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T06:34:17Z"
+}

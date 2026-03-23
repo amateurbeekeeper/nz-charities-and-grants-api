@@ -1,0 +1,27 @@
+{
+  "id": 51146,
+  "registrationNumber": "CC10029",
+  "name": "Rimutaka Incline Railway Heritage Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rimutaka-incline-railway.org.nz",
+  "email": "hugh.mccracken@rimutaka-incline-railway.org.nz",
+  "address": {
+    "line1": "247A Parkes Line Road",
+    "line2": " ",
+    "suburb": "Maymorn",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429043103850",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "rimutakaincline"
+  },
+  "lastUpdated": "2026-01-08T02:35:56Z"
+}

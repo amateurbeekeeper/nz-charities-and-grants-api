@@ -1,0 +1,27 @@
+{
+  "id": 49213,
+  "registrationNumber": "CC31976",
+  "name": "Whanganui Regional Health Network",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wrhn.org.nz",
+  "email": "sharyn@tpco.co.nz",
+  "address": {
+    "line1": "GATE 3",
+    "line2": "100 Heads Road",
+    "suburb": "Gonville",
+    "city": "Wanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429043102266",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T03:33:47Z"
+}

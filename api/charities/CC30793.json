@@ -1,0 +1,27 @@
+{
+  "id": 43296,
+  "registrationNumber": "CC30793",
+  "name": "Normandale Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-28T00:00:00Z",
+  "website": null,
+  "email": "normandale@playcentre.org.nz",
+  "address": {
+    "line1": "165 Normandale Road",
+    "line2": " ",
+    "suburb": "Normandale",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T07:12:21Z"
+}

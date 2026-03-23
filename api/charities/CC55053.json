@@ -1,0 +1,27 @@
+{
+  "id": 68714,
+  "registrationNumber": "CC55053",
+  "name": "New Zealand Disability Karate Association",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-09-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.karatedojo.nz",
+  "email": "steve@karatedojo.nz",
+  "address": {
+    "line1": "20 Rajkot Terrace",
+    "line2": " ",
+    "suburb": "Broadmeadows",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429051197872",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/karatedojonz",
+    "twitter": "no longer used"
+  },
+  "lastUpdated": "2025-04-02T03:56:11Z"
+}

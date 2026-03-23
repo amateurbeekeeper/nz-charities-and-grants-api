@@ -1,0 +1,27 @@
+{
+  "id": 58115,
+  "registrationNumber": "CC29587",
+  "name": "The Going West Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://goingwestfest.co.nz",
+  "email": "jan@goingwestfest.co.nz",
+  "address": {
+    "line1": "Unit 31",
+    "line2": "Powley Village",
+    "suburb": "Blockhouse Bay",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429043143085",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-21T21:29:29Z"
+}

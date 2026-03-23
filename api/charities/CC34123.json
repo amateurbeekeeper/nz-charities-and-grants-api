@@ -1,0 +1,27 @@
+{
+  "id": 61303,
+  "registrationNumber": "CC34123",
+  "name": "Disabled Sailing Trust NZ",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2016-06-09T00:00:00Z",
+  "website": "http://www.disabledsailingtrust.org.nz",
+  "email": "jonkirk@xtra.co.nz",
+  "address": {
+    "line1": "22 Aramoana Avenue",
+    "line2": null,
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "624"
+  },
+  "nzbn": "9429043181872",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:21:50Z"
+}

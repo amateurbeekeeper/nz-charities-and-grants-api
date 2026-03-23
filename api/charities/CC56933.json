@@ -1,0 +1,27 @@
+{
+  "id": 70565,
+  "registrationNumber": "CC56933",
+  "name": "Brain Tumour Support Trust New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.braintumoursupport.org.nz",
+  "email": "chris.tse@braintumoursupport.org.nz",
+  "address": {
+    "line1": "4 Tennyson Road",
+    "line2": " ",
+    "suburb": "Enderley",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": "9429047714182",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/braintumoursupportNZ/",
+    "twitter": "@btsupportnz"
+  },
+  "lastUpdated": "2025-11-30T22:43:07Z"
+}

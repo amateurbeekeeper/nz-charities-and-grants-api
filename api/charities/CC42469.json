@@ -1,0 +1,27 @@
+{
+  "id": 44080,
+  "registrationNumber": "CC42469",
+  "name": "Waitemata Golf Club Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2020-01-30T00:00:00Z",
+  "website": "http://www.waitematagolf.co.nz",
+  "email": "admin@waitematagolf.co.nz",
+  "address": {
+    "line1": "15 Derby Street",
+    "line2": "Devonport",
+    "suburb": " ",
+    "city": "North Shore City",
+    "postcode": "0624"
+  },
+  "nzbn": "9429042913368",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "waitemata golf club",
+    "twitter": null
+  },
+  "lastUpdated": "2020-01-29T19:48:42Z"
+}

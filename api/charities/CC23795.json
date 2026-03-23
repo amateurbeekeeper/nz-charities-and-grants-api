@@ -1,0 +1,27 @@
+{
+  "id": 55519,
+  "registrationNumber": "CC23795",
+  "name": "Independent Schools of New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.info@isnz.org.nz",
+  "email": "accounts@isnz.org.nz",
+  "address": {
+    "line1": "142 Lambton Quay",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043134939",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T20:15:50Z"
+}

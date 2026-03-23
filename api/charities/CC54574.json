@@ -1,0 +1,27 @@
+{
+  "id": 68244,
+  "registrationNumber": "CC54574",
+  "name": "He Waka Kotuia Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://hwk.maori.nz",
+  "email": "komene@hwk.maori.nz",
+  "address": {
+    "line1": "12 Freyberg Road",
+    "line2": " ",
+    "suburb": "Fairfield",
+    "city": "Dunedin",
+    "postcode": "9018"
+  },
+  "nzbn": "9429043306947",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WakaKotuia",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T22:00:45Z"
+}

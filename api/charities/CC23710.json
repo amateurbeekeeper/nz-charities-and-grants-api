@@ -1,0 +1,27 @@
+{
+  "id": 41568,
+  "registrationNumber": "CC23710",
+  "name": "Calvary Auckland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.calvaryakl.nz",
+  "email": "murray.bell@malnz.co.nz",
+  "address": {
+    "line1": "7 Target Court",
+    "line2": " ",
+    "suburb": "Wairau Valley",
+    "city": "Auckland",
+    "postcode": "627"
+  },
+  "nzbn": "9429043011254",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/calvarychapelnz",
+    "twitter": "https://twitter.com/calvarychapelnz"
+  },
+  "lastUpdated": "2025-10-28T18:02:50Z"
+}

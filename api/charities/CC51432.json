@@ -1,0 +1,27 @@
+{
+  "id": 65207,
+  "registrationNumber": "CC51432",
+  "name": "Bob Charles Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-10-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.golf.co.nz",
+  "email": "rob.cooney@golfnz.org",
+  "address": {
+    "line1": "120 Abbotts Way",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T20:22:31Z"
+}

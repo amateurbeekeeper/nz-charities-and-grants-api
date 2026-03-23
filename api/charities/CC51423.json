@@ -1,0 +1,27 @@
+{
+  "id": 65201,
+  "registrationNumber": "CC51423",
+  "name": "Activate Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.activatechurchhamilton.com",
+  "email": "sara.m@afct.co.nz",
+  "address": {
+    "line1": "21 Ruakura Road",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429043278930",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/activatechurchhamilton/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:22Z"
+}

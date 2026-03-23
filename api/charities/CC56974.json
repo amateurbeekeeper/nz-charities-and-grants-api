@@ -1,0 +1,27 @@
+{
+  "id": 70609,
+  "registrationNumber": "CC56974",
+  "name": "NZSL Club Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-09-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nzsl.club/",
+  "email": "shona@xtra.co.nz",
+  "address": {
+    "line1": "4 Rust Avenue",
+    "line2": null,
+    "suburb": "Whangārei",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429047486652",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Itscooltosign",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T02:31:44Z"
+}

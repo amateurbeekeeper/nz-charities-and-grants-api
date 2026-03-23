@@ -1,0 +1,27 @@
+{
+  "id": 70067,
+  "registrationNumber": "CC56426",
+  "name": "Dunsandel Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "holly.pierce@fireandemergency.nz",
+  "address": {
+    "line1": "10 Browns Road",
+    "line2": "Dunsandel 7682",
+    "suburb": " ",
+    "city": "Dunsandel",
+    "postcode": "7682"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Dunsandel Fire Brigade",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:51:28Z"
+}

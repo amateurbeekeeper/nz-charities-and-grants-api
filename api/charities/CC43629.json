@@ -1,0 +1,27 @@
+{
+  "id": 48467,
+  "registrationNumber": "CC43629",
+  "name": "Coastguard Clyde Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.coastguard.nz/",
+  "email": "seaahorse@xtra.co.nz",
+  "address": {
+    "line1": "16 Springvale Road",
+    "line2": "Clyde 9330",
+    "suburb": " ",
+    "city": "Clyde",
+    "postcode": "9330"
+  },
+  "nzbn": "9429043115433",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T00:46:24Z"
+}

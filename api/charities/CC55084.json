@@ -1,0 +1,27 @@
+{
+  "id": 68742,
+  "registrationNumber": "CC55084",
+  "name": "TimeOut Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-09-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "timeoutnz.org",
+  "email": "ronda.amende@gmail.com",
+  "address": {
+    "line1": "21 Woodlands Crescent",
+    "line2": " ",
+    "suburb": "Browns Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429046338440",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "timeoutnz.org",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T20:45:13Z"
+}

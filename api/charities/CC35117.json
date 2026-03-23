@@ -1,0 +1,27 @@
+{
+  "id": 57451,
+  "registrationNumber": "CC35117",
+  "name": "Generations Church Hamilton",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2016-03-02T00:00:00Z",
+  "website": "http://www.generationshamilton.org.nz",
+  "email": "admin@generationshamilton.org.nz",
+  "address": {
+    "line1": "79 North City Road",
+    "line2": "RD 1",
+    "suburb": null,
+    "city": "Hamilton",
+    "postcode": "3281"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:26:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50725,
+  "registrationNumber": "CC44459",
+  "name": "Titirangi Festival Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.titirangifestival.com",
+  "email": "dixon.tfm@gmail.com",
+  "address": {
+    "line1": "4178B Great North Road",
+    "line2": " ",
+    "suburb": "Glendene",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": "9429043267576",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/titirangifestival/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T03:57:46Z"
+}

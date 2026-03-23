@@ -1,0 +1,27 @@
+{
+  "id": 73796,
+  "registrationNumber": "CC60192",
+  "name": "Te Kapa o Te Reureu Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "darapere1@gmail.com",
+  "address": {
+    "line1": "557 Pryces Line",
+    "line2": "RD 9",
+    "suburb": "Halcombe",
+    "city": "Feilding",
+    "postcode": "4779"
+  },
+  "nzbn": "9429050610174",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T22:48:34Z"
+}

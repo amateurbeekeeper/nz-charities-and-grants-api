@@ -1,0 +1,27 @@
+{
+  "id": 50061,
+  "registrationNumber": "CC38141",
+  "name": "Philadelphia Support Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2020-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ap435@live.com",
+  "address": {
+    "line1": "621 Knight Road",
+    "line2": "RD 9",
+    "suburb": "209 Ruatangata West",
+    "city": "Whangarei",
+    "postcode": "0179"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:17:35Z"
+}

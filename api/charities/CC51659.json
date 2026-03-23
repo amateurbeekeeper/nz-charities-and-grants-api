@@ -1,0 +1,27 @@
+{
+  "id": 65423,
+  "registrationNumber": "CC51659",
+  "name": "Effective Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john.hart@tax-trusts.com",
+  "address": {
+    "line1": "C-/ John W Hart Limited",
+    "line2": "Level 5, 36 Kitchener Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-05T21:03:48Z"
+}

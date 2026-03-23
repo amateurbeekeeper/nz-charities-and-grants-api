@@ -1,0 +1,27 @@
+{
+  "id": 49980,
+  "registrationNumber": "CC30364",
+  "name": "Paparoa Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-04-30T00:00:00Z",
+  "website": null,
+  "email": "paparoa@playcentre.org.nz",
+  "address": {
+    "line1": "Franklin Road",
+    "line2": "Paparoa",
+    "suburb": " ",
+    "city": "Kaipara",
+    "postcode": "0571"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T00:01:32Z"
+}

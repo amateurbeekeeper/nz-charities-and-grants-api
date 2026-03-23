@@ -1,0 +1,27 @@
+{
+  "id": 52586,
+  "registrationNumber": "CC10863",
+  "name": "Multiple Sclerosis Auckland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.msakl.org.nz",
+  "email": "mark@msakl.org.nz",
+  "address": {
+    "line1": "5 The Strand",
+    "line2": " ",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429042764816",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/multiplesclerosisakl/",
+    "twitter": "https://twitter.com/ms_auckland"
+  },
+  "lastUpdated": "2025-10-21T00:53:03Z"
+}

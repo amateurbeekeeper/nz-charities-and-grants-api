@@ -1,0 +1,27 @@
+{
+  "id": 74457,
+  "registrationNumber": "CC60871",
+  "name": "The Artstart Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.artstart.co.nz",
+  "email": "charlotte@artstart.co.nz",
+  "address": {
+    "line1": "64 Winslow Westerfield Road",
+    "line2": "RD 5",
+    "suburb": "Winslow",
+    "city": "Ashburton",
+    "postcode": "7775"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://m.facebook.com/artstartnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T19:36:58Z"
+}

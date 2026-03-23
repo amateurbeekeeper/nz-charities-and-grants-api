@@ -1,0 +1,27 @@
+{
+  "id": 72579,
+  "registrationNumber": "CC58972",
+  "name": "Waimate Parenting Hub",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "grigg.p@xtra.co.nz",
+  "address": {
+    "line1": "135 High Street",
+    "line2": "Waimate 7924",
+    "suburb": " ",
+    "city": "Waimate",
+    "postcode": "7924"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waimateparenting",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T19:04:23Z"
+}

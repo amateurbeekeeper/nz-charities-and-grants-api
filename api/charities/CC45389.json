@@ -1,0 +1,27 @@
+{
+  "id": 35833,
+  "registrationNumber": "CC45389",
+  "name": "Arise Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "a.talemaitoga@xtra.co.nz",
+  "address": {
+    "line1": "14 Brian Slater Way",
+    "line2": " ",
+    "suburb": "Stonefields",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429043204328",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-31T05:31:44Z"
+}

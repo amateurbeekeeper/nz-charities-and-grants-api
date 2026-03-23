@@ -1,0 +1,27 @@
+{
+  "id": 75199,
+  "registrationNumber": "CC61631",
+  "name": "Be Heard Children's Counselling Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.beheard.org.nz",
+  "email": "kelly@beheard.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "77 Vogel St",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-14T22:33:06Z"
+}

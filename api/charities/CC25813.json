@@ -1,0 +1,27 @@
+{
+  "id": 42575,
+  "registrationNumber": "CC25813",
+  "name": "Hawke's Bay Readers and Writers Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hbreadersandwriters.co.nz/",
+  "email": "carlaac@hdc.govt.nz",
+  "address": {
+    "line1": "106 Russell Street South",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429043320998",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hbreaderswriters/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:37:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 61212,
+  "registrationNumber": "CC28994",
+  "name": "Teen Missions International In New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teenmissions.com.au",
+  "email": "little.lodge@xtra.co.nz",
+  "address": {
+    "line1": "128 Spencer Road",
+    "line2": "RD 5",
+    "suburb": "Lake Tarawera",
+    "city": "Rotorua",
+    "postcode": "3076"
+  },
+  "nzbn": "9429042923442",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "teenmissionnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T18:23:33Z"
+}

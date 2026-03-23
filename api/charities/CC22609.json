@@ -1,0 +1,27 @@
+{
+  "id": 55985,
+  "registrationNumber": "CC22609",
+  "name": "The Life Centre Trust Auckland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lifecommunity.org.nz",
+  "email": "jeff.wong@lifenz.org",
+  "address": {
+    "line1": "14 Normanby Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429043021062",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:57Z"
+}

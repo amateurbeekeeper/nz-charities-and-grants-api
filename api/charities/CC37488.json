@@ -1,0 +1,27 @@
+{
+  "id": 57362,
+  "registrationNumber": "CC37488",
+  "name": "The Auckland Sailors Home",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pamandrichardwilson@gmail.com",
+  "address": {
+    "line1": "16 Gore Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429040752532",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T19:04:40Z"
+}

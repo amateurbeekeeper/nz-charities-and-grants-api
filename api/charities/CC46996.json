@@ -1,0 +1,27 @@
+{
+  "id": 37517,
+  "registrationNumber": "CC46996",
+  "name": "The Koru 2002 Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.korutrust.co.nz",
+  "email": "korutrust1@gmail.com",
+  "address": {
+    "line1": "21 Graham Street",
+    "line2": "Crest Apartments",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042990321",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:33:47Z"
+}

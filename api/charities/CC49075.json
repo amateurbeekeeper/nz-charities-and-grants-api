@@ -1,0 +1,27 @@
+{
+  "id": 32649,
+  "registrationNumber": "CC49075",
+  "name": "Creative Waikato",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.creativewaikato.co.nz",
+  "email": "jeremy@creativewaikato.co.nz",
+  "address": {
+    "line1": "11 Garden Place",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043323043",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CreativeWaikato/",
+    "twitter": "https://twitter.com/CreativeWaikato?lang=en"
+  },
+  "lastUpdated": "2025-09-23T19:26:24Z"
+}

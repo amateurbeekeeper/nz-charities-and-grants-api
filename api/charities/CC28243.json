@@ -1,0 +1,27 @@
+{
+  "id": 55299,
+  "registrationNumber": "CC28243",
+  "name": "Otago Foundation Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "factor@otagofoundation.co.nz",
+  "address": {
+    "line1": "Admin Building First Church of Otago",
+    "line2": "417 Moray Place",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T01:54:14Z"
+}

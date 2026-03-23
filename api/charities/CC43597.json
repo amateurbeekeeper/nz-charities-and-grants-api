@@ -1,0 +1,27 @@
+{
+  "id": 45141,
+  "registrationNumber": "CC43597",
+  "name": "Downhill Ski Club Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2022-11-18T00:00:00Z",
+  "website": "http://www.skiclub.org.nz",
+  "email": "secretary@skiclub.org.nz",
+  "address": {
+    "line1": "52 Carroll Street",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Owhango",
+    "postcode": "3989"
+  },
+  "nzbn": "9429042668855",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/skiclubnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-02-13T03:52:39Z"
+}

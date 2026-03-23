@@ -1,0 +1,27 @@
+{
+  "id": 34587,
+  "registrationNumber": "CC50900",
+  "name": "St Peter's College Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.st-peters.school.nz",
+  "email": "babley@st-peters.school.nz",
+  "address": {
+    "line1": "23 Mountain Road",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T07:32:31Z"
+}

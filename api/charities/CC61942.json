@@ -1,0 +1,27 @@
+{
+  "id": 75497,
+  "registrationNumber": "CC61942",
+  "name": "Street Flora Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.streetflora.com",
+  "email": "phil@streetflora.com",
+  "address": {
+    "line1": "85 Shepherd Road",
+    "line2": null,
+    "suburb": "Waipahihi",
+    "city": "Taupō",
+    "postcode": "3330"
+  },
+  "nzbn": "9429051399740",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-18T23:43:09Z"
+}

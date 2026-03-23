@@ -1,0 +1,27 @@
+{
+  "id": 60860,
+  "registrationNumber": "CC28699",
+  "name": "The Mountain Meadows Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mmct.co.nz",
+  "email": "james@mmct.co.nz",
+  "address": {
+    "line1": "19 Golf Links Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7473"
+  },
+  "nzbn": "9429043158775",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Mountain-Meadows-Charitable-Trust-1453518124702873",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:16:28Z"
+}

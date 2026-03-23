@@ -1,0 +1,27 @@
+{
+  "id": 69626,
+  "registrationNumber": "CC55978",
+  "name": "NZ VICTORY CHURCH",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-11-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@taxbethel.com",
+  "address": {
+    "line1": "159B Wallace Road",
+    "line2": " ",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429046802224",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T21:41:13Z"
+}

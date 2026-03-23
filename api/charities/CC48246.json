@@ -1,0 +1,27 @@
+{
+  "id": 32641,
+  "registrationNumber": "CC48246",
+  "name": "Pacific Trust Canterbury",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2012-06-22T00:00:00Z",
+  "dateDeregistered": "2018-11-22T00:00:00Z",
+  "website": "www.pacifictrust.co.nz",
+  "email": "info@pacifictrust.co.nz",
+  "address": {
+    "line1": "177 Montreal Street",
+    "line2": null,
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042980414",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-11-22T01:13:30Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42131,
+  "registrationNumber": "CC24406",
+  "name": "Hawke's Bay Museums Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hawkesbaymuseum.co.nz",
+  "email": "lvodanovich@mtghawkesbay.com",
+  "address": {
+    "line1": "1 Dickens Street",
+    "line2": "231 Hastings Street",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042713487",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T18:36:31Z"
+}

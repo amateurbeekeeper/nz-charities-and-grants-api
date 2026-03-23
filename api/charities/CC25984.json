@@ -1,0 +1,27 @@
+{
+  "id": 42503,
+  "registrationNumber": "CC25984",
+  "name": "World Vision of New Zealand Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.worldvision.org.nz",
+  "email": "tj.grant@worldvision.org.nz",
+  "address": {
+    "line1": "51 Hugo Johnston Drive",
+    "line2": " ",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042923046",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top/?q=world%20vision",
+    "twitter": "@WorldVisionNZ"
+  },
+  "lastUpdated": "2026-02-25T21:55:19Z"
+}

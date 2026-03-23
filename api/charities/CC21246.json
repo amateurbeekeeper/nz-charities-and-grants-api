@@ -1,0 +1,27 @@
+{
+  "id": 54347,
+  "registrationNumber": "CC21246",
+  "name": "Laingholm Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.laingholmbaptist.org",
+  "email": "david@laingholmbaptist.org",
+  "address": {
+    "line1": "1 Victory Road",
+    "line2": " ",
+    "suburb": "Laingholm",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429049703931",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "laingholm baptist church",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T03:07:56Z"
+}

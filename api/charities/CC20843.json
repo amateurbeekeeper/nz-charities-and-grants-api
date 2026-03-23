@@ -1,0 +1,27 @@
+{
+  "id": 54592,
+  "registrationNumber": "CC20843",
+  "name": "Citizens Advice Bureau Cambridge Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cab.org.nz",
+  "email": "coordinator.cambridge@cab.org.nz",
+  "address": {
+    "line1": "62 Alpha Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": "9429042601807",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CambridgeNZCAB",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:26:05Z"
+}

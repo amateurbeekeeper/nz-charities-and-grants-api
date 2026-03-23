@@ -1,0 +1,27 @@
+{
+  "id": 71259,
+  "registrationNumber": "CC57633",
+  "name": "D65 Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-04-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "d65fitlife@gmail.com",
+  "address": {
+    "line1": "5 Buckingham Crescent",
+    "line2": " ",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429043297931",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/pages/D65-Fitness/172929862750006",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:09:26Z"
+}

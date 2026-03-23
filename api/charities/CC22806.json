@@ -1,0 +1,27 @@
+{
+  "id": 40080,
+  "registrationNumber": "CC22806",
+  "name": "University Of Otago Holdings Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": "2016-11-07T00:00:00Z",
+  "website": null,
+  "email": "financial.controller@otago.ac.nz",
+  "address": {
+    "line1": "Leith Street",
+    "line2": "Clocktower Building",
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429039932334",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:08:40Z"
+}

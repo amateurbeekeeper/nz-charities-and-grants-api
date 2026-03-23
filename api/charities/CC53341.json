@@ -1,0 +1,27 @@
+{
+  "id": 67058,
+  "registrationNumber": "CC53341",
+  "name": "Community Focus Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-03-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.cft.nz",
+  "email": "heather@empowerchurch.co.nz",
+  "address": {
+    "line1": "136 Springfield Road",
+    "line2": " ",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429047204294",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/communityfocustrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T22:13:27Z"
+}

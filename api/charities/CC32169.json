@@ -1,0 +1,27 @@
+{
+  "id": 43656,
+  "registrationNumber": "CC32169",
+  "name": "Wai Art Trust Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waiart.org.nz",
+  "email": "john.gordon@xtra.co.nz",
+  "address": {
+    "line1": "74 Park Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Carterton",
+    "postcode": "5713"
+  },
+  "nzbn": "9429043155675",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T20:00:18Z"
+}

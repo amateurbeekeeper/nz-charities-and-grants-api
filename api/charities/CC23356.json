@@ -1,0 +1,27 @@
+{
+  "id": 52346,
+  "registrationNumber": "CC23356",
+  "name": "The Whangarei Lodge Of The Theosophical Society",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-04-22T00:00:00Z",
+  "dateDeregistered": "2025-12-01T00:00:00Z",
+  "website": "http://www.theosophy.org.nz",
+  "email": "whangarei@theosophy.org.nz",
+  "address": {
+    "line1": "110 Handforth Street",
+    "line2": " ",
+    "suburb": "Onerahi",
+    "city": "Whangarei",
+    "postcode": "110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T01:37:32Z"
+}

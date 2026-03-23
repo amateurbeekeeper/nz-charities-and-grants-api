@@ -1,0 +1,27 @@
+{
+  "id": 69398,
+  "registrationNumber": "CC55751",
+  "name": "Thrive Coromandel Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.coromandeltown.nz",
+  "email": "trustees@coromandeltown.nz",
+  "address": {
+    "line1": "74 Kapanga Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Coromandel",
+    "postcode": "3506"
+  },
+  "nzbn": "9429046536211",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@coromandeltowninformationcentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T23:22:34Z"
+}

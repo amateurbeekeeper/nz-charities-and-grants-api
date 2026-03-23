@@ -1,0 +1,27 @@
+{
+  "id": 76398,
+  "registrationNumber": "CC62701",
+  "name": "Diamond Harbour Cat Rescue",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dhcr.org.nz",
+  "email": "shaun.hardcastle@gmail.com",
+  "address": {
+    "line1": "38 Birmingham Drive",
+    "line2": " ",
+    "suburb": "Middleton",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/1032182504341970",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T04:34:06Z"
+}

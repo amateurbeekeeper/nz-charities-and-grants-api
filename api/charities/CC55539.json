@@ -1,0 +1,27 @@
+{
+  "id": 69183,
+  "registrationNumber": "CC55539",
+  "name": "Lawrence Gymkhana Club",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lawrencegymkhana@gmail.com",
+  "address": {
+    "line1": "33 Thompson Road",
+    "line2": "RD 1",
+    "suburb": "Gabriels Gully",
+    "city": "Lawrence",
+    "postcode": "9591"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LawrenceGymkhana/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T06:04:47Z"
+}

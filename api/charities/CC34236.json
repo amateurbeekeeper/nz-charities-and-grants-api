@@ -1,0 +1,27 @@
+{
+  "id": 61574,
+  "registrationNumber": "CC34236",
+  "name": "Capital C3 Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.c3wellington.com",
+  "email": "steve@c3wellington.com",
+  "address": {
+    "line1": "C/- Hutt Valey Riding for the Disabled",
+    "line2": " County Lane ",
+    "suburb": "Siverstream ",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429043180448",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/c3wellington",
+    "twitter": null
+  },
+  "lastUpdated": "2024-09-01T19:17:52Z"
+}

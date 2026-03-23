@@ -1,0 +1,27 @@
+{
+  "id": 41157,
+  "registrationNumber": "CC25054",
+  "name": "Emergency Care Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.emergencycare.org.nz",
+  "email": "matthew.b.yates@pwc.com",
+  "address": {
+    "line1": "21 Taylors Mistake Road",
+    "line2": " ",
+    "suburb": "Scarborough",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": "9429043086030",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-22T19:51:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 68693,
+  "registrationNumber": "CC55034",
+  "name": "Wellness Walkers Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-09-14T00:00:00Z",
+  "dateDeregistered": "2021-04-01T00:00:00Z",
+  "website": "https://wellnesswalkerstrust.com/",
+  "email": "lisa@wellnesswalkerstrust.com",
+  "address": {
+    "line1": "117 Lynn Street",
+    "line2": " ",
+    "suburb": "Wakari",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": "9429046345974",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/WellnessWalkersTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2022-07-06T09:47:38Z"
+}

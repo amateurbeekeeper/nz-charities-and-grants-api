@@ -1,0 +1,27 @@
+{
+  "id": 32597,
+  "registrationNumber": "CC48109",
+  "name": "Hohepa Services Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nicola.hay@hohepa.com",
+  "address": {
+    "line1": "State Highway 2",
+    "line2": " ",
+    "suburb": "Clive",
+    "city": "Hawkes Bay",
+    "postcode": "4102"
+  },
+  "nzbn": "9429030638075",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T00:24:49Z"
+}

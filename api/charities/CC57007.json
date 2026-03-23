@@ -1,0 +1,27 @@
+{
+  "id": 70638,
+  "registrationNumber": "CC57007",
+  "name": "Live Ocean Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-09-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://liveocean.org",
+  "email": "stephen@liveocean.org",
+  "address": {
+    "line1": "15 Customs Street West",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429047553651",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@itsliveocean",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T02:14:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41109,
+  "registrationNumber": "CC23586",
+  "name": "W F Birch Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.birch.co.nz",
+  "email": "stephen@msbca.co.nz",
+  "address": {
+    "line1": "2A Wesley Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T20:42:44Z"
+}

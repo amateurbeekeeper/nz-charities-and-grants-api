@@ -1,0 +1,27 @@
+{
+  "id": 72394,
+  "registrationNumber": "CC58783",
+  "name": "Island Base Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://islandbasefm.com/",
+  "email": "jazz@islandbasefm.com",
+  "address": {
+    "line1": "83 Church Street",
+    "line2": "86 The Strand",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429048638500",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/islandbase",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-08T19:42:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66841,
+  "registrationNumber": "CC53138",
+  "name": "St Mary's Parish Ōtaki",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.pukekaraka.com",
+  "email": "pukekaraka1@gmail.com",
+  "address": {
+    "line1": "4 Convent Road",
+    "line2": "Otaki 5512",
+    "suburb": "Ōtaki",
+    "city": "Otaki",
+    "postcode": "5512"
+  },
+  "nzbn": "9429050000456",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T23:12:28Z"
+}

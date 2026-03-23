@@ -1,0 +1,27 @@
+{
+  "id": 62711,
+  "registrationNumber": "CC43466",
+  "name": "The Graduate Choir NZ Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-01-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.graduatechoirnz.org",
+  "email": "agrimsey3@gmail.com",
+  "address": {
+    "line1": "75 Alberton Avenue",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429043283217",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/TheGraduateChoirNZ",
+    "twitter": "twitter.com/GraduateChoirNZ"
+  },
+  "lastUpdated": "2025-06-25T19:18:57Z"
+}

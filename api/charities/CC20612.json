@@ -1,0 +1,27 @@
+{
+  "id": 53432,
+  "registrationNumber": "CC20612",
+  "name": "Clutha Community Health Company Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cluthahealth.co.nz",
+  "email": "gary.reed@chf.co.nz",
+  "address": {
+    "line1": "9-11 Charlotte Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Balclutha",
+    "postcode": "9230"
+  },
+  "nzbn": "9429037944018",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T18:36:16Z"
+}

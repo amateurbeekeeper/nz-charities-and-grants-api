@@ -1,0 +1,27 @@
+{
+  "id": 60604,
+  "registrationNumber": "CC33760",
+  "name": "Totara Grove Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "totaragrove@playcentre.org.nz",
+  "address": {
+    "line1": "38 Corks Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kamo",
+    "postcode": "112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T21:43:30Z"
+}

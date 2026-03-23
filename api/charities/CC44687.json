@@ -1,0 +1,27 @@
+{
+  "id": 50547,
+  "registrationNumber": "CC44687",
+  "name": "Gravity Canterbury Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gravitycanterbury.org.nz",
+  "email": "treasurer@gravitycanterbury.org.nz",
+  "address": {
+    "line1": "69 Rose Street",
+    "line2": " ",
+    "suburb": "Somerfield",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429043110643",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Gravity-Canterbury-105061092865715/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T23:11:01Z"
+}

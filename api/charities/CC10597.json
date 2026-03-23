@@ -1,0 +1,27 @@
+{
+  "id": 52001,
+  "registrationNumber": "CC10597",
+  "name": "Diabetes Southland Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2007-07-10T00:00:00Z",
+  "dateDeregistered": "2013-09-06T00:00:00Z",
+  "website": null,
+  "email": "diabetes.southland@xtra.co.nz",
+  "address": {
+    "line1": "8 Conway Crescent",
+    "line2": null,
+    "suburb": "Glengarry",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042670209",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T00:30:40Z"
+}

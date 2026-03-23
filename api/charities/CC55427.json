@@ -1,0 +1,27 @@
+{
+  "id": 69085,
+  "registrationNumber": "CC55427",
+  "name": "Sea Shepherd New Zealand Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2013-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.seashepherd.org.nz",
+  "email": "michael@seashepherd.org.nz",
+  "address": {
+    "line1": "64 Waitea Road",
+    "line2": "R D 1",
+    "suburb": "Muriwai",
+    "city": "Auckland",
+    "postcode": "0881"
+  },
+  "nzbn": "9429030118669",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/seashepherdnewzealand",
+    "twitter": "@SeaShepherdNZ"
+  },
+  "lastUpdated": "2025-10-05T09:03:39Z"
+}

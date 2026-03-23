@@ -1,0 +1,27 @@
+{
+  "id": 69502,
+  "registrationNumber": "CC55845",
+  "name": "The Atelier Ministries NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.atelier.org.nz",
+  "email": "david@atelier.org.nz",
+  "address": {
+    "line1": "28 Shelbourne Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429046577320",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T18:17:06Z"
+}

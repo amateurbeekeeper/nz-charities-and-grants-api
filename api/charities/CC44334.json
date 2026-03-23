@@ -1,0 +1,27 @@
+{
+  "id": 50584,
+  "registrationNumber": "CC44334",
+  "name": "Huria Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.huriatrust.co.nz",
+  "email": "sylvia.w@huriatrust.co.nz",
+  "address": {
+    "line1": "4 Te Kaponga Street",
+    "line2": " ",
+    "suburb": "Brookfield",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042946007",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T03:51:35Z"
+}

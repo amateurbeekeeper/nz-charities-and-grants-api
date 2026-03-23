@@ -1,0 +1,27 @@
+{
+  "id": 55480,
+  "registrationNumber": "CC22228",
+  "name": "St Aidans Presbyterian Property Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://onewacc.org.nz",
+  "email": "ibogue@slingshot.co.nz",
+  "address": {
+    "line1": "4 Woodside Avenue",
+    "line2": null,
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429042729112",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T11:39:20Z"
+}

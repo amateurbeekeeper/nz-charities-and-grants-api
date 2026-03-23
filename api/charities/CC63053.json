@@ -1,0 +1,27 @@
+{
+  "id": 77081,
+  "registrationNumber": "CC63053",
+  "name": "Good Neighbours",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wrpf.co.nz",
+  "email": "sadulela@gmail.com",
+  "address": {
+    "line1": "Suite 4",
+    "line2": "326 Sunset Road",
+    "suburb": "Windsor Park",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/1974936752708947",
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-25T02:14:09Z"
+}

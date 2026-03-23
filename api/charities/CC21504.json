@@ -1,0 +1,27 @@
+{
+  "id": 54619,
+  "registrationNumber": "CC21504",
+  "name": "Pirimai Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.engagechurch.nz",
+  "email": "admin@engagechurch.nz",
+  "address": {
+    "line1": "69 Bill Hercock Street",
+    "line2": " ",
+    "suburb": "Pirimai",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T22:53:22Z"
+}

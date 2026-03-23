@@ -1,0 +1,27 @@
+{
+  "id": 34125,
+  "registrationNumber": "CC50436",
+  "name": "Te Hau Awhiowhio o Otangarei Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.otangarei.org",
+  "email": "Janine.kaipo@otangarei.org",
+  "address": {
+    "line1": "28 James Street",
+    "line2": " ",
+    "suburb": null,
+    "city": "Whangarei ",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043191604",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Hau Awhiowhio o Otangarei Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T23:42:19Z"
+}

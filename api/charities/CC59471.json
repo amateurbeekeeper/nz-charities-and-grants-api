@@ -1,0 +1,27 @@
+{
+  "id": 73078,
+  "registrationNumber": "CC59471",
+  "name": "Ngati Toa Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ngatitoa.iwi.nz/",
+  "email": "christian.katene@ngatitoa.iwi.nz",
+  "address": {
+    "line1": "26 Ngatitoa Street",
+    "line2": " ",
+    "suburb": "Takapuwahia",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429038638930",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-15T20:26:15Z"
+}

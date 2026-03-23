@@ -1,0 +1,27 @@
+{
+  "id": 41906,
+  "registrationNumber": "CC24534",
+  "name": "Driver Training Center of New Zealand Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-05-19T00:00:00Z",
+  "dateDeregistered": "2010-05-31T00:00:00Z",
+  "website": null,
+  "email": null,
+  "address": {
+    "line1": "1 London Street",
+    "line2": null,
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043184699",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:20:23Z"
+}

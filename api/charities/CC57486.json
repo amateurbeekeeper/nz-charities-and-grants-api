@@ -1,0 +1,27 @@
+{
+  "id": 71119,
+  "registrationNumber": "CC57486",
+  "name": "The Roman Catholic Diocese of Christchurch - The Catholic Parish of Christchurch North Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.christchurchnorth.org.nz",
+  "email": "finance@christchurchnorth.org.nz",
+  "address": {
+    "line1": "30 Cotswold Avenue",
+    "line2": " ",
+    "suburb": "Bishopdale",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429049857696",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "christchurchnorthparish",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T02:03:30Z"
+}

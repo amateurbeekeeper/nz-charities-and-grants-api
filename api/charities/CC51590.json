@@ -1,0 +1,27 @@
+{
+  "id": 65362,
+  "registrationNumber": "CC51590",
+  "name": "Koha Kai",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-04-21T00:00:00Z",
+  "dateDeregistered": "2018-02-19T00:00:00Z",
+  "website": null,
+  "email": "janicel.kohakai@gmail.com",
+  "address": {
+    "line1": "65 Totara Street",
+    "line2": " ",
+    "suburb": "Newfield",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/kohakai",
+    "twitter": null
+  },
+  "lastUpdated": "2018-03-21T17:54:28Z"
+}

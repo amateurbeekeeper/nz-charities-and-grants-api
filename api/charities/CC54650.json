@@ -1,0 +1,27 @@
+{
+  "id": 68322,
+  "registrationNumber": "CC54650",
+  "name": "Te Mau Aroha Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "temauaroha@gmail.com",
+  "address": {
+    "line1": "29 Huratai Street",
+    "line2": " ",
+    "suburb": "Koutu",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429043314430",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:08:36Z"
+}

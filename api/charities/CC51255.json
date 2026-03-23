@@ -1,0 +1,27 @@
+{
+  "id": 34599,
+  "registrationNumber": "CC51255",
+  "name": "The Ferrymead Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-02-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.Ferrymead.org.nz",
+  "email": "as@blackmur.co.nz",
+  "address": {
+    "line1": "50 Ferrymead Park Drive",
+    "line2": " ",
+    "suburb": "Ferrymead",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429042698654",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ferrymeadheritagepark/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T18:24:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 32691,
+  "registrationNumber": "CC49567",
+  "name": "The New Zealand Catalina Preservation Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-06-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzcatalina.org",
+  "email": "dee@deebond.co.nz",
+  "address": {
+    "line1": "333 Airport Road",
+    "line2": "Pukekohe 2120",
+    "suburb": "Rukuhia",
+    "city": "Hamilton",
+    "postcode": "3282"
+  },
+  "nzbn": "9429042775102",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/CatalinaNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T19:55:29Z"
+}

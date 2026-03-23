@@ -1,0 +1,27 @@
+{
+  "id": 65284,
+  "registrationNumber": "CC51506",
+  "name": "Grace Presbyterian Church Rotorua",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gracechurchrotorua.co.nz",
+  "email": "shallard@live.com",
+  "address": {
+    "line1": "5 Towhai Crescent",
+    "line2": " ",
+    "suburb": "Owhata",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429043278954",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T19:14:08Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48048,
+  "registrationNumber": "CC30205",
+  "name": "Masterton Trust Lands Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mtlt.org.nz",
+  "email": "finance@ltm.org.nz",
+  "address": {
+    "line1": "115 Chapel Street",
+    "line2": "Masterton 5810",
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MastertonTrustLandsTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T20:18:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63371,
+  "registrationNumber": "CC37288",
+  "name": "BirdCare Aotearoa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.birdcareaotearoa.org.nz",
+  "email": "general.manager@birdcareaotearoa.org.nz",
+  "address": {
+    "line1": "74 Avonleigh Road",
+    "line2": " ",
+    "suburb": "Green Bay",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429043286683",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BirdCareAotearoa",
+    "twitter": "https://twitter.com/birdcarenz"
+  },
+  "lastUpdated": "2025-12-16T18:18:57Z"
+}

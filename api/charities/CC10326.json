@@ -1,0 +1,27 @@
+{
+  "id": 51559,
+  "registrationNumber": "CC10326",
+  "name": "The Taranaki Rescue Helicopter Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.taranakirescue.org.nz",
+  "email": "accounts@taranakirescue.org.nz",
+  "address": {
+    "line1": "Hangar Complex",
+    "line2": "David Street",
+    "suburb": "Westown",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042976820",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TaranakiRescueHelicopterTrust/",
+    "twitter": "https://twitter.com/TaranakiRescue"
+  },
+  "lastUpdated": "2026-01-08T02:35:49Z"
+}

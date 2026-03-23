@@ -1,0 +1,27 @@
+{
+  "id": 57721,
+  "registrationNumber": "CC25425",
+  "name": "City Faith Centre Gisborne",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "poninghousea@gmail.com",
+  "address": {
+    "line1": "3007A Tauwhareparae Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tauwhareparae",
+    "postcode": "4077"
+  },
+  "nzbn": "9429043000319",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T00:50:15Z"
+}

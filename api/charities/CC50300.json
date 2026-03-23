@@ -1,0 +1,27 @@
+{
+  "id": 34037,
+  "registrationNumber": "CC50300",
+  "name": "New Zealand Forensic Science Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nzfss.treasurer@gmail.com",
+  "address": {
+    "line1": "118-120 Mount Albert Road",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042708261",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T09:54:49Z"
+}

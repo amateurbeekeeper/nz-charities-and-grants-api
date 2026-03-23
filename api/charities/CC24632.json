@@ -1,0 +1,27 @@
+{
+  "id": 42143,
+  "registrationNumber": "CC24632",
+  "name": "A.I.M. (Adults in Motion) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.adultsinmotionnz.com",
+  "email": "adultsinmotion@gmail.com",
+  "address": {
+    "line1": "16 Auckland Road",
+    "line2": "Warkworth 0910",
+    "suburb": " ",
+    "city": "Warkworth",
+    "postcode": "0910"
+  },
+  "nzbn": "9429043143269",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Adults in Motion(A.I.M) Inc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:56:53Z"
+}

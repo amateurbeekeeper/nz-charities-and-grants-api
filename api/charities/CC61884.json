@@ -1,0 +1,27 @@
+{
+  "id": 75441,
+  "registrationNumber": "CC61884",
+  "name": "RAD COMMUNITY TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://rad.nz",
+  "email": "chris@rad.nz",
+  "address": {
+    "line1": "1 Merivale Avenue",
+    "line2": " ",
+    "suburb": "Wānaka",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429051559267",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://facebook.com/radcommunitytrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:54:54Z"
+}

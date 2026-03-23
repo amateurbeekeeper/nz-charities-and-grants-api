@@ -1,0 +1,27 @@
+{
+  "id": 46358,
+  "registrationNumber": "CC29055",
+  "name": "Seaview Volunteer Fire Brigade ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2025-07-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jenn.dobinson@fireandemergency.nz",
+  "address": {
+    "line1": "51 Parkside Road",
+    "line2": null,
+    "suburb": "Gracefield",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T02:15:47Z"
+}

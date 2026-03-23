@@ -1,0 +1,27 @@
+{
+  "id": 76883,
+  "registrationNumber": "CC62954",
+  "name": "Discover NZ Stories/Tuhura Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gordon@tuhura.com",
+  "address": {
+    "line1": "Unit 5",
+    "line2": "Ocean Breeze Apts",
+    "suburb": "Browns Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429052224492",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-06T04:03:36Z"
+}

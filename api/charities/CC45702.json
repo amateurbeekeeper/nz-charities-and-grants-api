@@ -1,0 +1,27 @@
+{
+  "id": 50305,
+  "registrationNumber": "CC45702",
+  "name": "North East Valley Community Development Project Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-11-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.northeastvalley.org",
+  "email": "james@northeastvalley.org",
+  "address": {
+    "line1": "262 North Road ",
+    "line2": "North East Valley ",
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": "9429042674184",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@valleyproject",
+    "twitter": "@valleyproject"
+  },
+  "lastUpdated": "2026-02-02T17:56:04Z"
+}

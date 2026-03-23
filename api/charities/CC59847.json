@@ -1,0 +1,27 @@
+{
+  "id": 73524,
+  "registrationNumber": "CC59847",
+  "name": "Engage Church Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-02-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.engagechurch.nz",
+  "email": "andrew@engagechurch.nz",
+  "address": {
+    "line1": "69 Bill Hercock Street",
+    "line2": " ",
+    "suburb": "Pirimai",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-16T19:29:15Z"
+}

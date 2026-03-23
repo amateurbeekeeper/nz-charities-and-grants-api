@@ -1,0 +1,27 @@
+{
+  "id": 40040,
+  "registrationNumber": "CC24799",
+  "name": "Gospel Way Outreach",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gospelwayoutreach.org",
+  "email": "pastorgreg@gospelwayoutreach.org",
+  "address": {
+    "line1": "36 Charles Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Kaiapoi",
+    "postcode": "7630"
+  },
+  "nzbn": "9429042633457",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T00:27:23Z"
+}

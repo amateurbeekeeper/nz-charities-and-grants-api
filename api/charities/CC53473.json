@@ -1,0 +1,27 @@
+{
+  "id": 67283,
+  "registrationNumber": "CC53473",
+  "name": "Pakistan Association Of New Zealand Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-07-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.panz.co.nz",
+  "email": "panznz@gmail.com",
+  "address": {
+    "line1": "349 Great North Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429042987307",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Facebook.com/mypanz",
+    "twitter": "@panznz"
+  },
+  "lastUpdated": "2026-02-22T05:26:43Z"
+}

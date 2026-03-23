@@ -1,0 +1,27 @@
+{
+  "id": 73510,
+  "registrationNumber": "CC59791",
+  "name": "Stratford Flyers Swimming Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://taranaki.swimming.org.nz/stratford.html",
+  "email": "stfdswimtreasurer@gmail.com",
+  "address": {
+    "line1": "53 Portia Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Stratford",
+    "postcode": "4332"
+  },
+  "nzbn": "9429042831792",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/stratfordflyersswimmingclub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-05T02:26:08Z"
+}

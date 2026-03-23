@@ -1,0 +1,27 @@
+{
+  "id": 34013,
+  "registrationNumber": "CC50545",
+  "name": "Southbridge Rugby Football Club Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.southbridgerugby.com",
+  "email": "southbridgerfc@gmail.com",
+  "address": {
+    "line1": "Southbridge Park",
+    "line2": "St James Street",
+    "suburb": " ",
+    "city": "Southbridge",
+    "postcode": "7602"
+  },
+  "nzbn": "9429042726692",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Southbridge Rugby Football Club",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T01:18:20Z"
+}

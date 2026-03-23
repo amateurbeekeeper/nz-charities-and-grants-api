@@ -1,0 +1,27 @@
+{
+  "id": 51186,
+  "registrationNumber": "CC36073",
+  "name": "The Federated Mountain Clubs Mountain and Forest Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.fmc.org.nz",
+  "email": "stu.gray@fmc.org.nz",
+  "address": {
+    "line1": "10 Ormonde Road",
+    "line2": "Geraldine 7930",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429042872832",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T22:55:40Z"
+}

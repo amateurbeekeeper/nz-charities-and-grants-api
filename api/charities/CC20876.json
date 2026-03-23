@@ -1,0 +1,27 @@
+{
+  "id": 54057,
+  "registrationNumber": "CC20876",
+  "name": "Mangere College Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mangerecollege.school.nz",
+  "email": "operations@mangerecollege.school.nz",
+  "address": {
+    "line1": "23 Bader Drive",
+    "line2": "Bader Drive",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429043174478",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "MangereCollege",
+    "twitter": "mangerecollege"
+  },
+  "lastUpdated": "2024-08-18T19:31:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71530,
+  "registrationNumber": "CC57907",
+  "name": "St Clements Anglican Maori Church Ahipara",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stclementsahipara.com",
+  "email": "jnatanahira@gmail.com",
+  "address": {
+    "line1": "61 Foreshore Road",
+    "line2": "RD 1",
+    "suburb": "Ahipara",
+    "city": "Kaitaia",
+    "postcode": "0481"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T21:16:10Z"
+}

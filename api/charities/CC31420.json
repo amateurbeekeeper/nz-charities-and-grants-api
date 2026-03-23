@@ -1,0 +1,27 @@
+{
+  "id": 57756,
+  "registrationNumber": "CC31420",
+  "name": "New Zealand Breastfeeding Alliance Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.babyfriendly.org.nz",
+  "email": "wendy@nzba.co.nz",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "16 Sheffield Crescent",
+    "suburb": "Burnside",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042974086",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NewZealandBreastfeedingAlliance/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T19:18:28Z"
+}

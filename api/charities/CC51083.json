@@ -1,0 +1,27 @@
+{
+  "id": 34675,
+  "registrationNumber": "CC51083",
+  "name": "Jane Goodall Institute New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-10-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.janegoodall.org.nz",
+  "email": "info@janegoodall.org.nz",
+  "address": {
+    "line1": "PO Box 1583",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": "9429043242573",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Jane.Goodall.Institute.NZ/",
+    "twitter": "https://twitter.com/JGI_NZ"
+  },
+  "lastUpdated": "2025-10-30T04:29:12Z"
+}

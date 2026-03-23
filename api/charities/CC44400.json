@@ -1,0 +1,27 @@
+{
+  "id": 50298,
+  "registrationNumber": "CC44400",
+  "name": "Otago Society for Music Education Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "musiceducatorsotago@gmail.com",
+  "address": {
+    "line1": "51 Nottingham Crescent",
+    "line2": " ",
+    "suburb": "Calton Hill",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429043228478",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MusicEducationOtago",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T20:19:28Z"
+}

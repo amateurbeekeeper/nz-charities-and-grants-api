@@ -1,0 +1,27 @@
+{
+  "id": 76306,
+  "registrationNumber": "CC62651",
+  "name": "Te Awa Churches",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "teawachurches@gmail.com",
+  "address": {
+    "line1": "31 Ashby Avenue",
+    "line2": " ",
+    "suburb": "Saint Heliers",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T23:05:09Z"
+}

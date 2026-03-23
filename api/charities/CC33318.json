@@ -1,0 +1,27 @@
+{
+  "id": 61064,
+  "registrationNumber": "CC33318",
+  "name": "Northend Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "communityplaycentre@gmail.com",
+  "address": {
+    "line1": "42 North Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Feilding",
+    "postcode": "4702"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:08:16Z"
+}

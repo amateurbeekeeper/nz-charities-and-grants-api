@@ -1,0 +1,27 @@
+{
+  "id": 56732,
+  "registrationNumber": "CC25133",
+  "name": "St Johns Union Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "june.forbes@xtra.co.nz",
+  "address": {
+    "line1": "100 St John Street",
+    "line2": "Ōpōtiki 3122",
+    "suburb": " ",
+    "city": "Ōpōtiki",
+    "postcode": "3122"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "St John's Union Parish - Opotiki, New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T23:50:04Z"
+}

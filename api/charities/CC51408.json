@@ -1,0 +1,27 @@
+{
+  "id": 65186,
+  "registrationNumber": "CC51408",
+  "name": "Masterton Tennis Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mastertontennis.kiwi.nz",
+  "email": "mast.tennis@gmail.com",
+  "address": {
+    "line1": "147 Dixon Street",
+    "line2": "Masterton 5810",
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429042684596",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T01:41:32Z"
+}

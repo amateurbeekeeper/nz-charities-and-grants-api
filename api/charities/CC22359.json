@@ -1,0 +1,27 @@
+{
+  "id": 54251,
+  "registrationNumber": "CC22359",
+  "name": "Trust Porirua",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-03-31T00:00:00Z",
+  "dateDeregistered": "2019-02-28T00:00:00Z",
+  "website": null,
+  "email": "accounts@trustporirua.co.nz",
+  "address": {
+    "line1": "6 Ulric Street",
+    "line2": "15 Marina View",
+    "suburb": "Plimmerton",
+    "city": "Porirua",
+    "postcode": "5026"
+  },
+  "nzbn": "9429042812975",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-05-04T03:22:26Z"
+}

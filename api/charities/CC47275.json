@@ -1,0 +1,27 @@
+{
+  "id": 35494,
+  "registrationNumber": "CC47275",
+  "name": "Auckland City Triathlon Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandcitytri.co.nz",
+  "email": "nicolasproulenz@gmail.com",
+  "address": {
+    "line1": "Flat 6",
+    "line2": "64 Hawera Road",
+    "suburb": "Kohimarama",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429042588023",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/AkldCityTri",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T20:00:29Z"
+}

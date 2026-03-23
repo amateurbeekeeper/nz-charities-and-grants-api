@@ -1,0 +1,27 @@
+{
+  "id": 42850,
+  "registrationNumber": "CC31674",
+  "name": "Taranaki Down Syndrome Association",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kerenbolger@gmail.com",
+  "address": {
+    "line1": "58A Veale Road",
+    "line2": "RD 1",
+    "suburb": "Frankleigh Park",
+    "city": "New Plymouth",
+    "postcode": "4371"
+  },
+  "nzbn": "9429043137756",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/taranakidownsyndrome/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:40:07Z"
+}

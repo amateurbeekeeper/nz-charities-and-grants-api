@@ -1,0 +1,27 @@
+{
+  "id": 54450,
+  "registrationNumber": "CC21565",
+  "name": "Leys Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "andrew.leys@gmail.com",
+  "address": {
+    "line1": "687C Runciman Road",
+    "line2": "RD 2",
+    "suburb": "Runciman",
+    "city": "Drury",
+    "postcode": "2578"
+  },
+  "nzbn": "9429042655343",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:55:55Z"
+}

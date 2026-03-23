@@ -1,0 +1,27 @@
+{
+  "id": 75208,
+  "registrationNumber": "CC61639",
+  "name": "Level Playing Field",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.levelplayingfield.org.nz",
+  "email": "zane.seddon@gmail.com",
+  "address": {
+    "line1": "86 Deep Creek Road",
+    "line2": " ",
+    "suburb": "Waiake",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429051455521",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LevelPlayingFieldAotearoa",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T06:46:06Z"
+}

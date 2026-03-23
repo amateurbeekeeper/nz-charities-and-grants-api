@@ -1,0 +1,27 @@
+{
+  "id": 41667,
+  "registrationNumber": "CC24430",
+  "name": "Dunedin City Elim Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.elimdunedin.com",
+  "email": "gabe@elimdunedin.com",
+  "address": {
+    "line1": "67 Harrow Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042952268",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "dunedinelim",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-03T19:19:38Z"
+}

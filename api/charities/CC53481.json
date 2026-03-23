@@ -1,0 +1,27 @@
+{
+  "id": 67191,
+  "registrationNumber": "CC53481",
+  "name": "The Innovation Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.theinnovationtrust.org/",
+  "email": "theinnovationtrust@gmail.com",
+  "address": {
+    "line1": "26 Aotea Crescent",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tokoroa",
+    "postcode": "3420"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "www.facebook.com/theinnovationtrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T18:21:12Z"
+}

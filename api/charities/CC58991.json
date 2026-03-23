@@ -1,0 +1,27 @@
+{
+  "id": 72598,
+  "registrationNumber": "CC58991",
+  "name": "Louise Nicholas Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.louisenicholastrust.org.nz",
+  "email": "lil@louisenicholastrust.org.nz",
+  "address": {
+    "line1": "1285 Fenton Street",
+    "line2": "Rotorua 3010",
+    "suburb": "Springfield",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429049156713",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T03:30:20Z"
+}

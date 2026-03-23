@@ -1,0 +1,27 @@
+{
+  "id": 50353,
+  "registrationNumber": "CC43914",
+  "name": "Big Brothers Big Sisters of Manawatu",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-03-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bigbrothersbigsisters.org.nz",
+  "email": "manawatu@bigbrothersbigsisters.org.nz",
+  "address": {
+    "line1": "148 Park Road",
+    "line2": "22-30 Broadway Avenue",
+    "suburb": "West End",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429047618541",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T01:47:46Z"
+}

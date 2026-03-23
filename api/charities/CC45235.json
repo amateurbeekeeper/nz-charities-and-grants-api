@@ -1,0 +1,27 @@
+{
+  "id": 35665,
+  "registrationNumber": "CC45235",
+  "name": "British Council (New Zealand branch)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-09-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.britishcouncil.org.nz",
+  "email": "Natasha.Beckman@britishcouncil.org.nz",
+  "address": {
+    "line1": "151 Queen Street",
+    "line2": "Level 17",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BritishCouncilNewZealand/",
+    "twitter": "https://twitter.com/nzBritish"
+  },
+  "lastUpdated": "2026-01-26T08:27:06Z"
+}

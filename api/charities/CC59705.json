@@ -1,0 +1,27 @@
+{
+  "id": 73382,
+  "registrationNumber": "CC59705",
+  "name": "Cornerstone Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cornerstonecharity.co.nz/",
+  "email": "cornerstonecharity1@gmail.com",
+  "address": {
+    "line1": "1070 Eruera Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429050174980",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cornerstonecharitynz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T22:28:04Z"
+}

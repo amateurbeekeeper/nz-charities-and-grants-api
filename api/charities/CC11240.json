@@ -1,0 +1,27 @@
+{
+  "id": 52477,
+  "registrationNumber": "CC11240",
+  "name": "Early Education Waikato Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kindergarten.org.nz",
+  "email": "ceo@kindergarten.org.nz",
+  "address": {
+    "line1": "18 Puutikitiki Street",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429034766491",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:18:21Z"
+}

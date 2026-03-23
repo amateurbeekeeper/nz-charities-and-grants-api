@@ -1,0 +1,27 @@
+{
+  "id": 45299,
+  "registrationNumber": "CC35294",
+  "name": "Waverley Volunteers Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2024-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "KJ.James@fireandemergency.nz",
+  "address": {
+    "line1": "5 Bear Street",
+    "line2": "Waverley 4510",
+    "suburb": "Waverley",
+    "city": "Waverley",
+    "postcode": "4510"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "NZFS Waverley Volunteer Fire Brigade",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-03T19:20:13Z"
+}

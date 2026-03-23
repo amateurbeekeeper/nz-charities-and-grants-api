@@ -1,0 +1,27 @@
+{
+  "id": 35379,
+  "registrationNumber": "CC50033",
+  "name": "Te Puna Reo O Pukehinahina Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-11-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.punareo.school.nz",
+  "email": "office@punareo.school.nz",
+  "address": {
+    "line1": "C/-GATE PA SCHOOL",
+    "line2": "900 Cameron Road",
+    "suburb": "Gate Pa",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429045736797",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-02T19:54:08Z"
+}

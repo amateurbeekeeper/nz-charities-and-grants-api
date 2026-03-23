@@ -1,0 +1,27 @@
+{
+  "id": 63646,
+  "registrationNumber": "CC42545",
+  "name": "Christian Science Committee On Publication For New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.christianscience.com/additional-resources/committee-on-publication",
+  "email": "newzealand@compub.org",
+  "address": {
+    "line1": "Flat 6",
+    "line2": "111 Coutts Street",
+    "suburb": "Kilbirnie",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "@ComPubNZ"
+  },
+  "lastUpdated": "2026-03-05T04:12:16Z"
+}

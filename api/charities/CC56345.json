@@ -1,0 +1,27 @@
+{
+  "id": 69995,
+  "registrationNumber": "CC56345",
+  "name": "Humanitix New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.humanitix.com",
+  "email": "jenny@humanitix.com",
+  "address": {
+    "line1": "37D Crummer Road",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429047170568",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Humanitix/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-06T22:26:34Z"
+}

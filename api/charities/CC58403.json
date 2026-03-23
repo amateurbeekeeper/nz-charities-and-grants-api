@@ -1,0 +1,27 @@
+{
+  "id": 72017,
+  "registrationNumber": "CC58403",
+  "name": "The South Dunedin Community Network Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-09-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://southd.org.nz",
+  "email": "manager@southd.org.nz",
+  "address": {
+    "line1": "278A King Edward Street",
+    "line2": " ",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429048479165",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "South Dunedin Community Network",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T22:15:40Z"
+}

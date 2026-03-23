@@ -1,0 +1,27 @@
+{
+  "id": 34232,
+  "registrationNumber": "CC51091",
+  "name": "The Salford School Parent Teacher Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-11-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta@salford.school.nz",
+  "address": {
+    "line1": "110 Lamond Street",
+    "line2": "Hargest",
+    "suburb": "Invercargill",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429043224463",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T01:10:57Z"
+}

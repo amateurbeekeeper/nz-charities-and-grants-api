@@ -1,0 +1,27 @@
+{
+  "id": 77423,
+  "registrationNumber": "CC63501",
+  "name": "DARUL EIMAN EPSOM TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://daeie.org/",
+  "email": "shahzad@daeie.org",
+  "address": {
+    "line1": "123 Manukau Road",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-15T23:51:54Z"
+}

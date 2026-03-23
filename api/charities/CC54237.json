@@ -1,0 +1,27 @@
+{
+  "id": 67923,
+  "registrationNumber": "CC54237",
+  "name": "Victoria University of Wellington Commerce Students' Society Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-02-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.viccom.org.nz",
+  "email": "executive@viccom.org.nz",
+  "address": {
+    "line1": "Floor G",
+    "line2": "Rutherford House",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043285174",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/vuwcss/?fref=ts",
+    "twitter": "https://twitter.com/viccomwlg"
+  },
+  "lastUpdated": "2025-10-12T18:41:21Z"
+}

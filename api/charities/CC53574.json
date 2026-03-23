@@ -1,0 +1,27 @@
+{
+  "id": 67288,
+  "registrationNumber": "CC53574",
+  "name": "Pongaroa Fuel Stop Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pongaroafuelstop@gmail.com",
+  "address": {
+    "line1": "10823 Route 52",
+    "line2": "RD2",
+    "suburb": "Pongaroa",
+    "city": "Pongaroa",
+    "postcode": "4991"
+  },
+  "nzbn": "9429043304875",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T22:11:42Z"
+}

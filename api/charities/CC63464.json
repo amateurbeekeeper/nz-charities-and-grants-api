@@ -1,0 +1,27 @@
+{
+  "id": 77660,
+  "registrationNumber": "CC63464",
+  "name": "Te Arahou o Aotearoa Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tearahou.co.nz",
+  "email": "tehiringa@tearahou.co.nz",
+  "address": {
+    "line1": "5 Jerram Street",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429051383176",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61586862765915",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T00:05:51Z"
+}

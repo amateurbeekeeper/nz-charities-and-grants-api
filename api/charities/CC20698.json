@@ -1,0 +1,27 @@
+{
+  "id": 51552,
+  "registrationNumber": "CC20698",
+  "name": "Heretaunga Women's Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.heretaungawomenscentre.nz",
+  "email": "manager@hwc.nz",
+  "address": {
+    "line1": "Cnr Eastbourne & Russell St",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4201"
+  },
+  "nzbn": "9429043189953",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Heretaunga Women's Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T06:28:14Z"
+}

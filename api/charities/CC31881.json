@@ -1,0 +1,27 @@
+{
+  "id": 42773,
+  "registrationNumber": "CC31881",
+  "name": "Kalpa Bhadra Buddhist Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.meditateinchristchurch.org",
+  "email": "admin@meditateinchristchurch.org",
+  "address": {
+    "line1": "24 Rugby Street",
+    "line2": " ",
+    "suburb": "Merivale",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429043109739",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Meditate in Christchurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T00:09:46Z"
+}

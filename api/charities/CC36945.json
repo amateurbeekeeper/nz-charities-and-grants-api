@@ -1,0 +1,27 @@
+{
+  "id": 43302,
+  "registrationNumber": "CC36945",
+  "name": "Te Puna Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-06-06T00:00:00Z",
+  "website": "www.playcentre.org.nz",
+  "email": "te.puna@playcentre.org.nz",
+  "address": {
+    "line1": "225 Te Puna Road",
+    "line2": "RD 6",
+    "suburb": "Te Puna",
+    "city": "Tauranga",
+    "postcode": "3176"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-26T01:32:18Z"
+}

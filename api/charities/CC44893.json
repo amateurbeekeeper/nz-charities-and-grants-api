@@ -1,0 +1,27 @@
+{
+  "id": 35876,
+  "registrationNumber": "CC44893",
+  "name": "Birkenhead Primary School Learning Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bps.school.nz/learning-trust",
+  "email": "learningtrust@bps.school.nz",
+  "address": {
+    "line1": "Birkenhead School",
+    "line2": "77 Mokoia Road",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "626"
+  },
+  "nzbn": "9429043213771",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T02:54:03Z"
+}

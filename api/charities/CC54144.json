@@ -1,0 +1,27 @@
+{
+  "id": 67829,
+  "registrationNumber": "CC54144",
+  "name": "St Augustine Charitable Trust NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-01-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.saintaugustines.org/",
+  "email": "mathew@saintaugustines.org",
+  "address": {
+    "line1": "283 Mount Eden Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429045893124",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/staugustinesnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-22T19:53:52Z"
+}

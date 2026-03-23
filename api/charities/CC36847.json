@@ -1,0 +1,27 @@
+{
+  "id": 48208,
+  "registrationNumber": "CC36847",
+  "name": "New Zealand Agrichemical Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.growsafe.co.nz",
+  "email": "info@hortnz.co.nz",
+  "address": {
+    "line1": "20-26 Ballance Street",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042968719",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-26T07:56:45Z"
+}

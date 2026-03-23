@@ -1,0 +1,27 @@
+{
+  "id": 41111,
+  "registrationNumber": "CC32648",
+  "name": "Te Wiri Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2015-01-14T00:00:00Z",
+  "website": null,
+  "email": "beatrice@kohanga.ac.nz",
+  "address": {
+    "line1": "27 Kerrs Road",
+    "line2": null,
+    "suburb": "Wiri",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042847458",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:11:50Z"
+}

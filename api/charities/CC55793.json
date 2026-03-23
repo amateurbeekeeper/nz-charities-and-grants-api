@@ -1,0 +1,27 @@
+{
+  "id": 69444,
+  "registrationNumber": "CC55793",
+  "name": "Bay Vineyard Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bayvineyardchurch.org",
+  "email": "sam@bayvineyardchurch.org",
+  "address": {
+    "line1": "54 Rogers Road",
+    "line2": " ",
+    "suburb": "Bay View",
+    "city": "Napier",
+    "postcode": "4104"
+  },
+  "nzbn": "9429046868510",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/bayvineyardchurch/?ref=br_rs",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T09:54:56Z"
+}

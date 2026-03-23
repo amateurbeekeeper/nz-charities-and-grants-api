@@ -1,0 +1,27 @@
+{
+  "id": 73921,
+  "registrationNumber": "CC60331",
+  "name": "Tauranga Moana Hikoi Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "b@bry.co.nz",
+  "address": {
+    "line1": "210 Rarapua Place",
+    "line2": " ",
+    "suburb": "Te Puna",
+    "city": "Tauranga",
+    "postcode": "3176"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T01:38:13Z"
+}

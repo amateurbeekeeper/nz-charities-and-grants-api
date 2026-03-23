@@ -1,0 +1,27 @@
+{
+  "id": 39016,
+  "registrationNumber": "CC26017",
+  "name": "Phoenix Pre-school Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.phoenixpreschool.co.nz",
+  "email": "phoenixpreschool@xtra.co.nz",
+  "address": {
+    "line1": "35 Middle Road",
+    "line2": " ",
+    "suburb": "Allenton",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": "9429042850625",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Phoenix Preschool INC Ashburton",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-09T20:17:20Z"
+}

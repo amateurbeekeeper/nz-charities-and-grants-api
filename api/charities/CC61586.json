@@ -1,0 +1,27 @@
+{
+  "id": 75185,
+  "registrationNumber": "CC61586",
+  "name": "Belong Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://belongtrust.org.nz",
+  "email": "info@belongtrust.org.nz",
+  "address": {
+    "line1": "145 Shakespeare Road",
+    "line2": " ",
+    "suburb": "Milford",
+    "city": "Auckland",
+    "postcode": "0620"
+  },
+  "nzbn": "9429051559373",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-09-12T05:28:28Z"
+}

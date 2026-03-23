@@ -1,0 +1,27 @@
+{
+  "id": 37197,
+  "registrationNumber": "CC47727",
+  "name": "Mercy Hospice Services Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-02-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@whanaumercy.nz",
+  "address": {
+    "line1": "15 Guildford Terrace",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429030902336",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T23:04:00Z"
+}

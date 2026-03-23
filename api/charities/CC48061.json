@@ -1,0 +1,27 @@
+{
+  "id": 38024,
+  "registrationNumber": "CC48061",
+  "name": "North Shore Youth Music",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nsym.org.nz",
+  "email": "dkay14@gmail.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "575 Beach Road",
+    "suburb": "Murrays Bay",
+    "city": "Auckland",
+    "postcode": "630"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/NorthShoreYouthMusic",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T00:28:56Z"
+}

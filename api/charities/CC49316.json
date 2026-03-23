@@ -1,0 +1,27 @@
+{
+  "id": 35077,
+  "registrationNumber": "CC49316",
+  "name": "The Carey College Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2013-05-08T00:00:00Z",
+  "dateDeregistered": "2018-08-23T00:00:00Z",
+  "website": "http://careycollege.com/Trust.html",
+  "email": "trust@carey.school.nz",
+  "address": {
+    "line1": "Carey College",
+    "line2": "21 Domain Road",
+    "suburb": "Panmure",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429043317745",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-09-18T20:49:36Z"
+}

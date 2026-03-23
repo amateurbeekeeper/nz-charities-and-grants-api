@@ -1,0 +1,27 @@
+{
+  "id": 61227,
+  "registrationNumber": "CC37898",
+  "name": "Oxford Health Charity Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.oxfordhealth.co.nz",
+  "email": "manager@ochc.co.nz",
+  "address": {
+    "line1": "39 Park Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Oxford",
+    "postcode": "7430"
+  },
+  "nzbn": "9429035745129",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T23:20:31Z"
+}

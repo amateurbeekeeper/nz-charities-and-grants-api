@@ -1,0 +1,27 @@
+{
+  "id": 54278,
+  "registrationNumber": "CC20804",
+  "name": "Rotorua Community Creche and Kindergarten Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.rcck.org.nz",
+  "email": "office@rcck.org.nz",
+  "address": {
+    "line1": "187 Old Taupo Road",
+    "line2": " ",
+    "suburb": "Utuhina",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429042816720",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RotoruaCommunityCreche",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T00:32:17Z"
+}

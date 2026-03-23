@@ -1,0 +1,27 @@
+{
+  "id": 70400,
+  "registrationNumber": "CC56763",
+  "name": "NixCrew Trust Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nixcrew.org.nz",
+  "email": "annepala@nixcrew.com",
+  "address": {
+    "line1": "16 Rosewarne Crescent",
+    "line2": " ",
+    "suburb": "Glendene",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Trust NixCrew",
+    "twitter": "nil"
+  },
+  "lastUpdated": "2026-01-22T00:11:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43914,
+  "registrationNumber": "CC34683",
+  "name": "Te Whare Ruruhau O Meri Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://tewhare.org.nz",
+  "email": "natalie@tewhare.org.nz",
+  "address": {
+    "line1": "19 Lambie Drive",
+    "line2": "Manukau",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042928355",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T06:04:21Z"
+}

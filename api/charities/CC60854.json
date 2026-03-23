@@ -1,0 +1,27 @@
+{
+  "id": 74436,
+  "registrationNumber": "CC60854",
+  "name": "PRshed Aiga",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-12-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.prshed.co.nz/",
+  "email": "team@prshed.info",
+  "address": {
+    "line1": "43 Litchfield Street",
+    "line2": " ",
+    "suburb": "Redwoodtown",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429051474737",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T20:53:03Z"
+}

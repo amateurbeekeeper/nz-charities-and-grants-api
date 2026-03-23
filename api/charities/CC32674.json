@@ -1,0 +1,27 @@
+{
+  "id": 41532,
+  "registrationNumber": "CC32674",
+  "name": "Rowley Community Centre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rcc.net.nz",
+  "email": "manager@rcc.net.nz",
+  "address": {
+    "line1": "89 Rowley Avenue",
+    "line2": " ",
+    "suburb": "Hoon Hay",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429050952588",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/rowleycc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:30:33Z"
+}

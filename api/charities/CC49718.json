@@ -1,0 +1,27 @@
+{
+  "id": 35351,
+  "registrationNumber": "CC49718",
+  "name": "Hamilton Arts Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-07-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.boonarts.co.nz",
+  "email": "leesarahnz@yahoo.com.au",
+  "address": {
+    "line1": "PO Box 12360",
+    "line2": "Chartwell Square",
+    "suburb": "Chartwell",
+    "city": "Hamilton",
+    "postcode": "3248"
+  },
+  "nzbn": "9429043250219",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/boonartshamilton",
+    "twitter": "https://twitter.com/boon_arts"
+  },
+  "lastUpdated": "2025-11-04T20:42:03Z"
+}

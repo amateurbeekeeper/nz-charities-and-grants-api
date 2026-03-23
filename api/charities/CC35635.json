@@ -1,0 +1,27 @@
+{
+  "id": 60992,
+  "registrationNumber": "CC35635",
+  "name": "The Bruce Museum Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "miltonmuseum.nz",
+  "email": "miltoninfo@xtra.co.nz",
+  "address": {
+    "line1": "51",
+    "line2": "53 Union Street",
+    "suburb": " ",
+    "city": "Milton",
+    "postcode": "9220"
+  },
+  "nzbn": "9429042939627",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:28:26Z"
+}

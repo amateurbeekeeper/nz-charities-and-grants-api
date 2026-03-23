@@ -1,0 +1,27 @@
+{
+  "id": 70616,
+  "registrationNumber": "CC56980",
+  "name": "Te Wai Parera Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@tewaipareratrust.co.nz",
+  "address": {
+    "line1": "12 Bradshaw Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Bluff",
+    "postcode": "9814"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T02:00:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52383,
+  "registrationNumber": "CC11142",
+  "name": "Pleasant Point Railway And Historical Society (Inc)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pleasantpointrail.org.nz",
+  "email": "treasurer@pleasantpointrail.org.nz",
+  "address": {
+    "line1": "16 Afghan Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pleasant Point",
+    "postcode": "7903"
+  },
+  "nzbn": "9429042814733",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/PleasantPointRail",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T22:49:56Z"
+}

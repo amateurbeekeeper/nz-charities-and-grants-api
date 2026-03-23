@@ -1,0 +1,27 @@
+{
+  "id": 47415,
+  "registrationNumber": "CC29761",
+  "name": "Pregnancy Counselling Services",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pregnancycounselling-nz.org",
+  "email": "admin@pregnancycounselling-nz.org",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429042807681",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Pregnancy-Counselling-Services-107583895981586/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:53:44Z"
+}

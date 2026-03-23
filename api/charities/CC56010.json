@@ -1,0 +1,27 @@
+{
+  "id": 69659,
+  "registrationNumber": "CC56010",
+  "name": "Te Awamutu Youth Development Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bgyf.org.nz",
+  "email": "admin@tayouthdevelopment.org.nz",
+  "address": {
+    "line1": "20 Rickit Road",
+    "line2": "Te Awamutu 3800",
+    "suburb": "Hamilton Central",
+    "city": "Te Awamutu",
+    "postcode": "3800"
+  },
+  "nzbn": "9429047120525",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TAboxingacademy",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T00:43:31Z"
+}

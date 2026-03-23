@@ -1,0 +1,27 @@
+{
+  "id": 46449,
+  "registrationNumber": "CC39901",
+  "name": "Whangaparaoa Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wgcgolf.net.nz",
+  "email": "manager@wgcgolf.net",
+  "address": {
+    "line1": "PO Box 274",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whangaparaoa",
+    "postcode": "943"
+  },
+  "nzbn": "9429042925194",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whangaparaoagolfclub",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T03:00:57Z"
+}

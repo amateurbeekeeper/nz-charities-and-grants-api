@@ -1,0 +1,27 @@
+{
+  "id": 50201,
+  "registrationNumber": "CC43750",
+  "name": "IPv6 Task Force Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-03-07T00:00:00Z",
+  "dateDeregistered": "2021-03-31T00:00:00Z",
+  "website": "www.ipv6.org.nz",
+  "email": "mary@internetnz.net.nz",
+  "address": {
+    "line1": "LEVEL 11",
+    "line2": "80 Boulcott Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-04-10T23:35:15Z"
+}

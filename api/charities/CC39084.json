@@ -1,0 +1,27 @@
+{
+  "id": 45705,
+  "registrationNumber": "CC39084",
+  "name": "The Wellington Orchid Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "doubledoc@xtra.co.nz",
+  "address": {
+    "line1": "4 Mitre Grove",
+    "line2": "46 Awamutu Grove",
+    "suburb": "Trentham",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429042885221",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/groups/12763763025",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T07:58:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65760,
+  "registrationNumber": "CC52010",
+  "name": "Hoon Hay Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.hoonhaychurch.co.nz",
+  "email": "Treasurer@hoonhaychurch.co.nz",
+  "address": {
+    "line1": "5 Downing Street",
+    "line2": " ",
+    "suburb": "Hoon Hay",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T19:36:47Z"
+}

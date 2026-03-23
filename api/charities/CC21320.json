@@ -1,0 +1,27 @@
+{
+  "id": 54247,
+  "registrationNumber": "CC21320",
+  "name": "The Museum of Kawatiri Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pounamupathway.com/kawatiri/",
+  "email": "info@bullerca.co.nz",
+  "address": {
+    "line1": "123 Palmerston ST",
+    "line2": null,
+    "suburb": " ",
+    "city": "Westport",
+    "postcode": "7825"
+  },
+  "nzbn": "9429042614654",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T04:13:43Z"
+}

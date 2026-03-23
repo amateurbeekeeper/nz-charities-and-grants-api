@@ -1,0 +1,27 @@
+{
+  "id": 52000,
+  "registrationNumber": "CC25925",
+  "name": "White Elephant Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-15T00:00:00Z",
+  "dateDeregistered": "2019-08-30T00:00:00Z",
+  "website": "www.whiteelephanttrust.org.nz",
+  "email": "info@we.org.nz",
+  "address": {
+    "line1": "39 Nursery Road",
+    "line2": "283 Barbadoes Street",
+    "suburb": "Phillipstown",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043049059",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/whiteelephanttrust",
+    "twitter": null
+  },
+  "lastUpdated": "2019-09-13T03:57:18Z"
+}

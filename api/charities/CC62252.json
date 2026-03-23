@@ -1,0 +1,27 @@
+{
+  "id": 75794,
+  "registrationNumber": "CC62252",
+  "name": "THE SAPLING CHARITABLE TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.thesapling.co.nz",
+  "email": "editors@thesapling.co.nz",
+  "address": {
+    "line1": "16 Doris Gordon Crescent",
+    "line2": null,
+    "suburb": "Crofton Downs",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thesaplingnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T18:56:09Z"
+}

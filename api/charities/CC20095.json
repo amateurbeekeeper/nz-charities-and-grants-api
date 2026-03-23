@@ -1,0 +1,27 @@
+{
+  "id": 52741,
+  "registrationNumber": "CC20095",
+  "name": "Age Concern Whangarei (Incorporated)",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2007-11-21T00:00:00Z",
+  "dateDeregistered": "2025-12-17T00:00:00Z",
+  "website": null,
+  "email": "info@ageconcernwhg.org.nz",
+  "address": {
+    "line1": "16 Manse Street",
+    "line2": " ",
+    "suburb": "Regent",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429042576372",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T06:03:22Z"
+}

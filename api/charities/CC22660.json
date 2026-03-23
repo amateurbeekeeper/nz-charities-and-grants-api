@@ -1,0 +1,27 @@
+{
+  "id": 56329,
+  "registrationNumber": "CC22660",
+  "name": "Friends of the Turnbull Library",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.turnbullfriends.org.nz",
+  "email": "crossgt@xtra.co.nz",
+  "address": {
+    "line1": "26 Woodman Drive",
+    "line2": "Thorndon",
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": "9429042704171",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/turnbullfriends/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T19:54:52Z"
+}

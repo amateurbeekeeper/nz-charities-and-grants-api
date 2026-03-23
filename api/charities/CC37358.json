@@ -1,0 +1,27 @@
+{
+  "id": 41504,
+  "registrationNumber": "CC37358",
+  "name": "Te Araroa - The Long Pathway. Te Araroa Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.teararoa.org.nz",
+  "email": "matt@teararoa.org.nz",
+  "address": {
+    "line1": "100 Willis Street",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042834939",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T18:29:02Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 68099,
+  "registrationNumber": "CC54422",
+  "name": "The Cranford Hospice Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cranfordhospice.org.nz",
+  "email": "debra.ridgway@cranfordhospice.org.nz",
+  "address": {
+    "line1": "300 Knight Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429046179432",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T21:51:31Z"
+}

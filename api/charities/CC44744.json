@@ -1,0 +1,27 @@
+{
+  "id": 50581,
+  "registrationNumber": "CC44744",
+  "name": "Waterwheel Historic Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waterwheel.nz",
+  "email": "john.galbraith@xtra.co.nz",
+  "address": {
+    "line1": "283A Pohutukawa Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ohope",
+    "postcode": "3121"
+  },
+  "nzbn": "9429043145294",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T01:20:11Z"
+}

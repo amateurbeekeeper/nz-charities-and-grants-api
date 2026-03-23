@@ -1,0 +1,27 @@
+{
+  "id": 55316,
+  "registrationNumber": "CC21357",
+  "name": "Canterbury West Coast Sports Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sportcanterbury.org.nz",
+  "email": "chloe.wilkinson@sportcanterbury.org.nz",
+  "address": {
+    "line1": "Parakiore - Metro Sports House",
+    "line2": "Level 2/50 St Asaph Street ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042605072",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T01:19:27Z"
+}

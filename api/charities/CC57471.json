@@ -1,0 +1,27 @@
+{
+  "id": 71098,
+  "registrationNumber": "CC57471",
+  "name": "Hanbit Presbyterian Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-01-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nzhanbit.org",
+  "email": "nzhanbit@gmail.com",
+  "address": {
+    "line1": "2 Rodney Road",
+    "line2": " ",
+    "suburb": "Northcote Point",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429047877597",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T23:29:36Z"
+}

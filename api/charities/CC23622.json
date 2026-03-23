@@ -1,0 +1,27 @@
+{
+  "id": 39819,
+  "registrationNumber": "CC23622",
+  "name": "New Zealand Institute of Rural Health",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-04-29T00:00:00Z",
+  "dateDeregistered": "2023-02-16T00:00:00Z",
+  "website": "http://www.nzirh.org.nz",
+  "email": "accounts@htrhn.org.nz",
+  "address": {
+    "line1": "88 The Terrace",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043071166",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-05-10T02:44:52Z"
+}

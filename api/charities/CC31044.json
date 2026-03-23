@@ -1,0 +1,27 @@
+{
+  "id": 48188,
+  "registrationNumber": "CC31044",
+  "name": "Epsom Community Creche Incorporated ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.epsomcommunitycreche.co.nz",
+  "email": "hello@epsomcommunitycreche.co.nz",
+  "address": {
+    "line1": "200 Gillies Avenue",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043007967",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top/?q=epsom%20community%20creche",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-23T19:36:42Z"
+}

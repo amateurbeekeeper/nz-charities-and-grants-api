@@ -1,0 +1,27 @@
+{
+  "id": 50500,
+  "registrationNumber": "CC44290",
+  "name": "Coastguard Lake Brunner Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.coastguard.nz/",
+  "email": "cheryl.moffat@nzcoastguard.org.nz",
+  "address": {
+    "line1": "Moana Yacht Club Rooms",
+    "line2": "Moana",
+    "suburb": "Lake Brunner",
+    "city": "Lake Brunner",
+    "postcode": null
+  },
+  "nzbn": "9429043140671",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-16T22:58:22Z"
+}

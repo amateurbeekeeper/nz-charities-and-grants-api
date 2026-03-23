@@ -1,0 +1,27 @@
+{
+  "id": 45902,
+  "registrationNumber": "CC33431",
+  "name": "Bird Rescue Wanganui-Manawatu Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2020-10-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "birdrescuewhanganui@gmail.com",
+  "address": {
+    "line1": "2446 State Highway 3",
+    "line2": "Turakina 4581",
+    "suburb": " ",
+    "city": "Turakina",
+    "postcode": "4581"
+  },
+  "nzbn": "9429042600183",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Bird Rescue Whanganui/Manawatu",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:07:41Z"
+}

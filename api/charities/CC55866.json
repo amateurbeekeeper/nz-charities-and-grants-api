@@ -1,0 +1,27 @@
+{
+  "id": 69513,
+  "registrationNumber": "CC55866",
+  "name": "Oamaru Pacific Island Community Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.oamarupacific.nz",
+  "email": "hana@oamarupacific.nz",
+  "address": {
+    "line1": "26 Ribble Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429042939337",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "oamaru pacific island community group inc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:19:30Z"
+}

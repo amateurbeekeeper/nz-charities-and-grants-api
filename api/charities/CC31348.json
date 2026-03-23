@@ -1,0 +1,27 @@
+{
+  "id": 40733,
+  "registrationNumber": "CC31348",
+  "name": "Canterbury Arts and Heritage Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mark@hillaryinstitute.org.nz",
+  "address": {
+    "line1": "24 Hawkesbury Avenue",
+    "line2": null,
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429042602675",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T20:48:20Z"
+}

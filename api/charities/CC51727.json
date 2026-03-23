@@ -1,0 +1,27 @@
+{
+  "id": 65492,
+  "registrationNumber": "CC51727",
+  "name": "Touchable Earth Foundation",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2022-04-07T00:00:00Z",
+  "dateDeregistered": "2024-09-26T00:00:00Z",
+  "website": "https://www.touchableearth.org",
+  "email": "tudor@touchableearth.org",
+  "address": {
+    "line1": "Suite 1B ",
+    "line2": "68 Greys Ave",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429052085000",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/touchableearth",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-10T20:25:28Z"
+}

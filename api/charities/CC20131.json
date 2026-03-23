@@ -1,0 +1,27 @@
+{
+  "id": 53313,
+  "registrationNumber": "CC20131",
+  "name": "Northbridge Lifecare Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.northbridge.co.nz",
+  "email": "geet@northbridge.co.nz",
+  "address": {
+    "line1": "45 Akoranga Drive",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "627"
+  },
+  "nzbn": "9429042709862",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T20:58:01Z"
+}

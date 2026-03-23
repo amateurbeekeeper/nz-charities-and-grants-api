@@ -1,0 +1,27 @@
+{
+  "id": 74010,
+  "registrationNumber": "CC60429",
+  "name": "Aotearoa Animal Refuge",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jayne.pritchard@aotearoaanimalrefuge.org",
+  "address": {
+    "line1": "22 Tapuwae Way",
+    "line2": " ",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429050712700",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100083380560753",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T06:59:00Z"
+}

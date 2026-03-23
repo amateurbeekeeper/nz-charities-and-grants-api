@@ -1,0 +1,27 @@
+{
+  "id": 42128,
+  "registrationNumber": "CC26887",
+  "name": "St Luke's Community Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2021-03-31T00:00:00Z",
+  "website": null,
+  "email": "jenny@ecclesia.co.nz",
+  "address": {
+    "line1": "6 Woodlaw Crescent",
+    "line2": "Prebbleton 7604",
+    "suburb": "Christchurch Central",
+    "city": "Prebbleton",
+    "postcode": "7604"
+  },
+  "nzbn": "9429043128631",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-07-29T19:35:25Z"
+}

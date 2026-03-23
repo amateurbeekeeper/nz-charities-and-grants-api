@@ -1,0 +1,27 @@
+{
+  "id": 61332,
+  "registrationNumber": "CC33920",
+  "name": "The Ohinetahi Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-11-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ohinetahi.co.nz",
+  "email": "sarah@sasco.co.nz",
+  "address": {
+    "line1": "31 Governors Bay Teddington Road",
+    "line2": "RD 1",
+    "suburb": "Allandale",
+    "city": "Lyttelton",
+    "postcode": "8971"
+  },
+  "nzbn": "9429043106462",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T04:09:42Z"
+}

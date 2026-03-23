@@ -1,0 +1,27 @@
+{
+  "id": 35410,
+  "registrationNumber": "CC49651",
+  "name": "Frocks on Bikes Aotearoa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-08-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "frocksonbikes.net",
+  "email": "frocksonbikes@gmail.com",
+  "address": {
+    "line1": "29 Tiber Street",
+    "line2": " ",
+    "suburb": "Island Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FrocksonBikes/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T22:57:01Z"
+}

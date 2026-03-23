@@ -1,0 +1,27 @@
+{
+  "id": 49157,
+  "registrationNumber": "CC28199",
+  "name": "Clinton Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "wmharris@xtra.co.nz",
+  "address": {
+    "line1": "4 Gorge Road",
+    "line2": "Clinton 9534",
+    "suburb": "Clinton",
+    "city": "Clinton",
+    "postcode": "9534"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-28T19:35:19Z"
+}

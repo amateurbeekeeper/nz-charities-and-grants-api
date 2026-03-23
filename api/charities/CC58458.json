@@ -1,0 +1,27 @@
+{
+  "id": 72075,
+  "registrationNumber": "CC58458",
+  "name": "Legacy Property Group",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stevec@legacy.net.nz",
+  "address": {
+    "line1": "86-92 Highbury Avenue",
+    "line2": " ",
+    "suburb": "Highbury",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429048696210",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/legacypmn/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-29T22:59:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43324,
+  "registrationNumber": "CC33911",
+  "name": "Otaki Foodbank Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "graham@breakerbay.co.nz",
+  "address": {
+    "line1": "43A Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Otaki",
+    "postcode": "5512"
+  },
+  "nzbn": "9429053041302",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T02:08:26Z"
+}

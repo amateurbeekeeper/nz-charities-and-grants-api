@@ -1,0 +1,27 @@
+{
+  "id": 68462,
+  "registrationNumber": "CC54794",
+  "name": "Whakatipu Wildlife Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://whakatipuwildlifetrust.org.nz/",
+  "email": "hello@whakatipuwildlifetrust.org.nz",
+  "address": {
+    "line1": "32 Cornwall Street",
+    "line2": "Arrowtown 9302",
+    "suburb": " ",
+    "city": "Arrowtown",
+    "postcode": "9302"
+  },
+  "nzbn": "9429046225825",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WakatipuWildlifeTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T01:17:27Z"
+}

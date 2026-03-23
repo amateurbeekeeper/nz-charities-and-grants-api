@@ -1,0 +1,27 @@
+{
+  "id": 63229,
+  "registrationNumber": "CC39646",
+  "name": "Waerenga School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waerengaschool.co.nz",
+  "email": "philandmay@hotmail.com",
+  "address": {
+    "line1": "1066 Taniwha Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Te Kauwhata",
+    "postcode": "3781"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-17T19:14:01Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52244,
+  "registrationNumber": "CC20250",
+  "name": "New Zealand Poetry Society Te Ropu Toikupu O Aotearoa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-12-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.poetrysociety.org.nz",
+  "email": "info@poetrysociety.org.nz",
+  "address": {
+    "line1": "797 Waimate North Road",
+    "line2": "RD 3",
+    "suburb": "Waimate North",
+    "city": "Kerikeri",
+    "postcode": "0293"
+  },
+  "nzbn": "9429042783183",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NewZealandPoetrySociety/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T23:17:43Z"
+}

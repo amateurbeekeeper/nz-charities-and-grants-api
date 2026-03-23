@@ -1,0 +1,27 @@
+{
+  "id": 69132,
+  "registrationNumber": "CC55472",
+  "name": "Otara Whanau Medical Centre Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "marionh@tehononga.org.nz",
+  "address": {
+    "line1": "Suite 3",
+    "line2": "100 Alexander Crescent",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": "9429046516619",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T02:30:53Z"
+}

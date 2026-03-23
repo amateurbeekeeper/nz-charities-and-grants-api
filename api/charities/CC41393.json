@@ -1,0 +1,27 @@
+{
+  "id": 42756,
+  "registrationNumber": "CC41393",
+  "name": "Honest Bunch Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-07-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://crimestoppers-nz.org",
+  "email": "ash.kaifong@crimestoppers-nz.org",
+  "address": {
+    "line1": "342 Lambton Quay",
+    "line2": " Level 5",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429033719283",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "crimestoppers nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T20:21:51Z"
+}

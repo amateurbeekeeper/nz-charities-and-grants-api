@@ -1,0 +1,27 @@
+{
+  "id": 56597,
+  "registrationNumber": "CC22799",
+  "name": "Whangarei City Assembly of God",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": "2012-01-17T00:00:00Z",
+  "website": "http://crossroads.org.nz",
+  "email": "djames@maxnet.co.nz",
+  "address": {
+    "line1": "10 Cross Street",
+    "line2": null,
+    "suburb": "Regent",
+    "city": "Whangarei",
+    "postcode": "112"
+  },
+  "nzbn": "9429042926931",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:08:37Z"
+}

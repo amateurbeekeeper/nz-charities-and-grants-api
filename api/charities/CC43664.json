@@ -1,0 +1,27 @@
+{
+  "id": 64036,
+  "registrationNumber": "CC43664",
+  "name": "Wymondley Early Learning Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.welc.co.nz",
+  "email": "ashleen@wymondley.school.nz",
+  "address": {
+    "line1": "77S Wymondley Road",
+    "line2": " ",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429043099177",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T22:38:39Z"
+}

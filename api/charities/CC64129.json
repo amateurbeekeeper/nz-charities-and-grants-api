@@ -1,0 +1,27 @@
+{
+  "id": 78318,
+  "registrationNumber": "CC64129",
+  "name": "Palmy Men",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.palmymen.co.nz/",
+  "email": "gary@gsaaudit.nz",
+  "address": {
+    "line1": "19 Royal Oak Drive",
+    "line2": null,
+    "suburb": "Kelvin Grove",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/2015775605492106",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T21:45:47Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63663,
+  "registrationNumber": "CC41893",
+  "name": "REGENT COMMUNITY TRUST",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-08-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.regentcommunitytrust.org/",
+  "email": "regentcommunitytrust@gmail.com",
+  "address": {
+    "line1": "C/- Whangarei Central Baptist Church",
+    "line2": "202 Bank Street",
+    "suburb": "Regent",
+    "city": "Whangarei",
+    "postcode": "0140"
+  },
+  "nzbn": "9429043197910",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T01:14:06Z"
+}

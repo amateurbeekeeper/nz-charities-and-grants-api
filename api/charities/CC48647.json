@@ -1,0 +1,27 @@
+{
+  "id": 38009,
+  "registrationNumber": "CC48647",
+  "name": "Ohope Junior Soccer Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-10-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ohopefootball.org.nz/",
+  "email": "cunnington_26@hotmail.com",
+  "address": {
+    "line1": "2 Claydon Place",
+    "line2": null,
+    "suburb": "Ōhope",
+    "city": "Ohope",
+    "postcode": "3121"
+  },
+  "nzbn": "9429043092772",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ohopefootball",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T22:42:08Z"
+}

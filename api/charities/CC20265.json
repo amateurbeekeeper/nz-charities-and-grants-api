@@ -1,0 +1,27 @@
+{
+  "id": 53479,
+  "registrationNumber": "CC20265",
+  "name": "Breezes Road Baptist Fellowship",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-12-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bradley@brl.org.nz",
+  "address": {
+    "line1": "110 Shortland Street",
+    "line2": " ",
+    "suburb": "Wainoni",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T21:01:11Z"
+}

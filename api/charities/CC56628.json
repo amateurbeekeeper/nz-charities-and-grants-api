@@ -1,0 +1,27 @@
+{
+  "id": 70263,
+  "registrationNumber": "CC56628",
+  "name": "Dunedin Pride Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dunedinpride.org.nz",
+  "email": "chairperson@dunedinpride.org.nz",
+  "address": {
+    "line1": "43 Princes Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429047089990",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DunedinPride/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-28T17:24:37Z"
+}

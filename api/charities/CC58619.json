@@ -1,0 +1,27 @@
+{
+  "id": 72233,
+  "registrationNumber": "CC58619",
+  "name": "Club SuperCue Limited",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2020-11-25T00:00:00Z",
+  "dateDeregistered": "2024-04-01T00:00:00Z",
+  "website": "https://www.supercue.nz",
+  "email": "rebekah@supercue.nz",
+  "address": {
+    "line1": "12 Lee Road",
+    "line2": " ",
+    "suburb": "Taradale",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": "9429047040700",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "supercue.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2024-10-04T01:08:55Z"
+}

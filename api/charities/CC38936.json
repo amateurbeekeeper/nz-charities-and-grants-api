@@ -1,0 +1,27 @@
+{
+  "id": 58131,
+  "registrationNumber": "CC38936",
+  "name": "Whangarei Riding For The Disabled Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rdawhangarei.org.nz",
+  "email": "chair@rdawhangarei.org.nz",
+  "address": {
+    "line1": "Barge Park Showgrounds",
+    "line2": "Sh 14",
+    "suburb": "Maunu",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429042920212",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "NZ Riding for the Disabled - Whangarei",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T20:25:50Z"
+}

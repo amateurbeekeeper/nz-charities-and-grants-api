@@ -1,0 +1,27 @@
+{
+  "id": 52616,
+  "registrationNumber": "CC11303",
+  "name": "Te Waiariki Purea Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.twptnz.org",
+  "email": "kiti@twptnz.org",
+  "address": {
+    "line1": "1274 Fenton Street",
+    "line2": "Rotorua 3010",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042850007",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tewaiarikipureatrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T20:58:36Z"
+}

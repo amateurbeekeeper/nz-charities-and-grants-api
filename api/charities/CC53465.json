@@ -1,0 +1,27 @@
+{
+  "id": 67177,
+  "registrationNumber": "CC53465",
+  "name": "Rottweiler Rescue & Rehoming New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rottierescue.org.nz",
+  "email": "rottierescuenz@gmail.com",
+  "address": {
+    "line1": "15 Lantana Road",
+    "line2": " ",
+    "suburb": "Green Bay",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RottweilerRescueNZ/?ref=aymt_homepage_panel#",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T00:56:07Z"
+}

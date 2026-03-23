@@ -1,0 +1,27 @@
+{
+  "id": 51507,
+  "registrationNumber": "CC10269",
+  "name": "Community Legal Advice Whanganui Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "deanne@claw.co.nz",
+  "address": {
+    "line1": "236 Victoria Avenue",
+    "line2": "Whanganui 4500",
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042934172",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Community Legal Advice Whanganui Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:35:48Z"
+}

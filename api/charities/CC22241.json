@@ -1,0 +1,27 @@
+{
+  "id": 39261,
+  "registrationNumber": "CC22241",
+  "name": "Rawene Community Christian Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rawenecentre.org.nz",
+  "email": "david@hounsell.co.nz",
+  "address": {
+    "line1": "33 Rawene Road",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "626"
+  },
+  "nzbn": "9429042959885",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "therawenecentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T20:27:59Z"
+}

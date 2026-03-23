@@ -1,0 +1,27 @@
+{
+  "id": 77560,
+  "registrationNumber": "CC63358",
+  "name": "Sanctuary Ekklesia",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sanctuaryekklesia@gmail.com",
+  "address": {
+    "line1": "10 Dallow Place",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-10T07:46:08Z"
+}

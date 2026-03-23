@@ -1,0 +1,27 @@
+{
+  "id": 53593,
+  "registrationNumber": "CC20527",
+  "name": "University Book Shop (Otago) Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.unibooks.co.nz/",
+  "email": "tsaul@hgw.co.nz",
+  "address": {
+    "line1": "HARVIE GREEN WYATT  LEVEL 5",
+    "line2": "229 Moray Place",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429034064115",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:00Z"
+}

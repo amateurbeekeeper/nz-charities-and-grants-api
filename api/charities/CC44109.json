@@ -1,0 +1,27 @@
+{
+  "id": 64100,
+  "registrationNumber": "CC44109",
+  "name": "Creative Initiatives Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lynnlawton@gmail.com",
+  "address": {
+    "line1": "31 William Bond Street",
+    "line2": " ",
+    "suburb": "Stanley Point",
+    "city": "Auckland",
+    "postcode": "624"
+  },
+  "nzbn": "9429043191451",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:38:14Z"
+}

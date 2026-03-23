@@ -1,0 +1,27 @@
+{
+  "id": 34519,
+  "registrationNumber": "CC50843",
+  "name": "Kiwi CRPS Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kiwicrps.co.nz",
+  "email": "jane.in.aotearoa@gmail.com",
+  "address": {
+    "line1": "94B Beach Road",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429043257072",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kiwicrps",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T21:36:08Z"
+}

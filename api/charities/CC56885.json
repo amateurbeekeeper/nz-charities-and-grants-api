@@ -1,0 +1,27 @@
+{
+  "id": 70517,
+  "registrationNumber": "CC56885",
+  "name": "The Backbone Collective",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.backbone.org.nz",
+  "email": "deb@backbone.org.nz",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429045941153",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thebackbonecollective/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T22:47:33Z"
+}

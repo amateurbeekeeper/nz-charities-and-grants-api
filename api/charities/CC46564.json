@@ -1,0 +1,27 @@
+{
+  "id": 36991,
+  "registrationNumber": "CC46564",
+  "name": "Auckland Search And Rescue Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2011-05-15T00:00:00Z",
+  "dateDeregistered": "2018-06-01T00:00:00Z",
+  "website": "www.asar.org.nz",
+  "email": "adam.knezovic@yahoo.co.nz",
+  "address": {
+    "line1": "24 Puhoi Close",
+    "line2": "Puhoi 0983",
+    "suburb": " ",
+    "city": "Puhoi",
+    "postcode": "0983"
+  },
+  "nzbn": "9429043238217",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-02-17T20:19:52Z"
+}

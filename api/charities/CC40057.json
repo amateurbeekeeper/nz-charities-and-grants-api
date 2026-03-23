@@ -1,0 +1,27 @@
+{
+  "id": 64325,
+  "registrationNumber": "CC40057",
+  "name": "Verdon College Parent Teachers Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.verdoncollege.school.nz",
+  "email": "vsmith@verdoncollege.school.nz",
+  "address": {
+    "line1": "210 Rockdale Road",
+    "line2": " ",
+    "suburb": "Rockdale",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-10-02T18:20:56Z"
+}

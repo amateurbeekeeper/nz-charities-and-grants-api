@@ -1,0 +1,27 @@
+{
+  "id": 46220,
+  "registrationNumber": "CC37588",
+  "name": "Woodstock School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "woodstock.school.nz",
+  "email": "jnverheem@gmail.com",
+  "address": {
+    "line1": "Cnr Fairfield & Woodstock Roads",
+    "line2": "Fairfield",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-02T19:35:21Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37833,
+  "registrationNumber": "CC47886",
+  "name": "Fertility New Zealand (National) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-12-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.fertilitynz.org.nz",
+  "email": "secretary@fertilitynz.org.nz",
+  "address": {
+    "line1": "82 Somerfield Street",
+    "line2": " ",
+    "suburb": "Somerfield",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429042680093",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/fertilitynewzealand",
+    "twitter": "@FertilityNZ"
+  },
+  "lastUpdated": "2025-12-18T03:39:00Z"
+}

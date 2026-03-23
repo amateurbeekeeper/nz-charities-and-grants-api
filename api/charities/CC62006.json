@@ -1,0 +1,27 @@
+{
+  "id": 75561,
+  "registrationNumber": "CC62006",
+  "name": "Āwhitu Collective",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "awhitucollective.nz",
+  "email": "awhi.tucollective@gmail.com",
+  "address": {
+    "line1": "123 Big Bay Road",
+    "line2": "RD 4",
+    "suburb": "Manukau Heads",
+    "city": "Waiuku",
+    "postcode": "2684"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T19:43:01Z"
+}

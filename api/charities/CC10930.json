@@ -1,0 +1,27 @@
+{
+  "id": 51937,
+  "registrationNumber": "CC10930",
+  "name": "Manukau New Life Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mnl.org.nz",
+  "email": "accounts@mnl.org.nz",
+  "address": {
+    "line1": "12 Jellicoe Road",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": "9429043743292",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ManukauNewLife",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T19:49:57Z"
+}

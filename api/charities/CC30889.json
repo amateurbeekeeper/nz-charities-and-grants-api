@@ -1,0 +1,27 @@
+{
+  "id": 60080,
+  "registrationNumber": "CC30889",
+  "name": "Avon Loop Planning Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://sites.google.com/site/avonloop/home",
+  "email": "tony.gray@blackandwhite.co.nz",
+  "address": {
+    "line1": "28 Hurley Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042591542",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AvonLoop",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T05:53:49Z"
+}

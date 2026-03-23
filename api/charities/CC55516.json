@@ -1,0 +1,27 @@
+{
+  "id": 69166,
+  "registrationNumber": "CC55516",
+  "name": "New Plymouth Roller Sports Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.skatesports.org.nz",
+  "email": "krys.beardman@xtra.co.nz",
+  "address": {
+    "line1": "8A Hunter Place",
+    "line2": " ",
+    "suburb": "Merrilands",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429042705994",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SkateSportTaranki/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T16:53:27Z"
+}

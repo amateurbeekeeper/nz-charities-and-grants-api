@@ -1,0 +1,27 @@
+{
+  "id": 65684,
+  "registrationNumber": "CC51935",
+  "name": "Taranaki Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.taranakifoundation.org.nz",
+  "email": "josh@taranakifoundation.org.nz",
+  "address": {
+    "line1": "47 Queen Street",
+    "line2": "White Hart Level 1",
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043306060",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/taranakifoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T18:09:06Z"
+}

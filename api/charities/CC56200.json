@@ -1,0 +1,27 @@
+{
+  "id": 69844,
+  "registrationNumber": "CC56200",
+  "name": "Lyall Bay Baptist Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-01-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "accounts@welsh.co.nz",
+  "address": {
+    "line1": "4 Resolution Street",
+    "line2": " ",
+    "suburb": "Lyall Bay",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T21:05:41Z"
+}

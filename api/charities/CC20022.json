@@ -1,0 +1,27 @@
+{
+  "id": 53309,
+  "registrationNumber": "CC20022",
+  "name": "The Tudor Consort Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-11-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://tudor-consort.org.nz/",
+  "email": "jtbeaglehole@gmail.com",
+  "address": {
+    "line1": "81 Hatton Street",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429042885078",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T08:35:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 47169,
+  "registrationNumber": "CC38709",
+  "name": "The Motueka High School A M Miller Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john@mba.net.nz",
+  "address": {
+    "line1": "29 Wallace Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Motueka",
+    "postcode": "7120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T23:53:05Z"
+}

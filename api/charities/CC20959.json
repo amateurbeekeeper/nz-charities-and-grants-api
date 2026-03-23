@@ -1,0 +1,27 @@
+{
+  "id": 52417,
+  "registrationNumber": "CC20959",
+  "name": "Maungarei Community Christian Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mcct.org.nz",
+  "email": "admin@mcct.org.nz",
+  "address": {
+    "line1": "3 Waipuna Road",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429042990437",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T02:38:55Z"
+}

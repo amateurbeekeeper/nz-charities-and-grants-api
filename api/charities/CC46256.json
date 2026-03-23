@@ -1,0 +1,27 @@
+{
+  "id": 36383,
+  "registrationNumber": "CC46256",
+  "name": "New Zealand Statistical Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-03-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stats.org.nz/",
+  "email": "president@stats.org.nz",
+  "address": {
+    "line1": "PO Box 1731",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429042691921",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:35:49Z"
+}

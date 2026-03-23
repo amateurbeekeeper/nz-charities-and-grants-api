@@ -1,0 +1,27 @@
+{
+  "id": 72191,
+  "registrationNumber": "CC58576",
+  "name": "Community Goodwill Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://goodwill.law/community-goodwill",
+  "email": "office@goodwill.law",
+  "address": {
+    "line1": "122 Vivian Street",
+    "line2": null,
+    "suburb": null,
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GoodwillCommunityTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T03:40:46Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63037,
+  "registrationNumber": "CC38407",
+  "name": "Sumner Bays Union Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sumnerbays.org.nz",
+  "email": "admin@sumnerbays.org.nz",
+  "address": {
+    "line1": "16 Wakefield Avenue",
+    "line2": " ",
+    "suburb": "Sumner",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": "9429043092963",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/sumnerbays/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T19:35:05Z"
+}

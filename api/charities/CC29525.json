@@ -1,0 +1,27 @@
+{
+  "id": 56668,
+  "registrationNumber": "CC29525",
+  "name": "Cutts Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "abacus@diprosemiller.co.nz",
+  "address": {
+    "line1": "17 Rewi Street",
+    "line2": "Te Aroha 3320",
+    "suburb": " ",
+    "city": "Te Aroha",
+    "postcode": "3320"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T18:47:45Z"
+}

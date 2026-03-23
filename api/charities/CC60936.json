@@ -1,0 +1,27 @@
+{
+  "id": 74521,
+  "registrationNumber": "CC60936",
+  "name": "Pūmanawa Āwhina Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-12-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.communityconnect.nz/",
+  "email": "sandi@communityconnect.nz",
+  "address": {
+    "line1": "Unit 3",
+    "line2": "517 Mount Wellington Highway",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429050860623",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/communityconnectTNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T22:49:21Z"
+}

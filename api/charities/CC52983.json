@@ -1,0 +1,27 @@
+{
+  "id": 66710,
+  "registrationNumber": "CC52983",
+  "name": "OOOOBY Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pete@ooooby.com",
+  "address": {
+    "line1": "9D Laingholm Drive",
+    "line2": " ",
+    "suburb": "Laingholm",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429043297375",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-05T00:33:50Z"
+}

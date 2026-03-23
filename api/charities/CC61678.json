@@ -1,0 +1,27 @@
+{
+  "id": 75247,
+  "registrationNumber": "CC61678",
+  "name": "Pawsible Service Dogs",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pawsibledogs.co.nz",
+  "email": "natalieramm@pawsibledogs.co.nz",
+  "address": {
+    "line1": "13 Cyclarama Crescent",
+    "line2": " ",
+    "suburb": "Massey",
+    "city": "Auckland",
+    "postcode": "0614"
+  },
+  "nzbn": "9429051606596",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Pawsibleservicedogs",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-22T03:49:03Z"
+}

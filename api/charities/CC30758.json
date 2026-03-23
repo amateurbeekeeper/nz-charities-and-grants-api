@@ -1,0 +1,27 @@
+{
+  "id": 42577,
+  "registrationNumber": "CC30758",
+  "name": "Summer in the Parks",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "db.burns@xtra.co.nz",
+  "address": {
+    "line1": "106 Russell Street South",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-09T07:37:29Z"
+}

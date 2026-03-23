@@ -1,0 +1,27 @@
+{
+  "id": 59297,
+  "registrationNumber": "CC27006",
+  "name": "St. Anne's Catholic School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "principal@stannes.school.nz",
+  "address": {
+    "line1": "Raine Street",
+    "line2": " ",
+    "suburb": "Wanganui East",
+    "city": "Wanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T03:38:10Z"
+}

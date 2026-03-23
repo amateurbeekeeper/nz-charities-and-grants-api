@@ -1,0 +1,27 @@
+{
+  "id": 40037,
+  "registrationNumber": "CC23679",
+  "name": "Ashburton Community Alcohol And Drug Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.acads.co.nz",
+  "email": "chris@acads.co.nz",
+  "address": {
+    "line1": "Ashburton Nurses Home",
+    "line2": "Ashburton Hospital, Elizabeth Street",
+    "suburb": " ",
+    "city": "Ashburton",
+    "postcode": "7740"
+  },
+  "nzbn": "9429042768876",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/Ashburton-Community-Alcohol-and-Drug-Service-ACADS",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T02:29:53Z"
+}

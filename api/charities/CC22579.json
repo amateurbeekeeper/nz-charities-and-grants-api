@@ -1,0 +1,27 @@
+{
+  "id": 53750,
+  "registrationNumber": "CC22579",
+  "name": "Dental Council",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dcnz.org.nz",
+  "email": "marie.mackay@dcnz.org.nz",
+  "address": {
+    "line1": "Level 7",
+    "line2": "22 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429047122932",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:20:49Z"
+}

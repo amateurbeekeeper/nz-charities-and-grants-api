@@ -1,0 +1,27 @@
+{
+  "id": 44286,
+  "registrationNumber": "CC38843",
+  "name": "Oakland School Te Kura o Ōwaka PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.oaklands.school.nz",
+  "email": "pta@oaklands.school.nz",
+  "address": {
+    "line1": "C/-  Oaklands School",
+    "line2": "37 Cunningham Place",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Oaklands-School-PTA-1650370438580999/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T07:22:24Z"
+}

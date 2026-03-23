@@ -1,0 +1,27 @@
+{
+  "id": 64598,
+  "registrationNumber": "CC37699",
+  "name": "Sports Recreation and Outdoors Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://sproutnz.org",
+  "email": "vinay@sproutnz.org",
+  "address": {
+    "line1": "14 Leander Place",
+    "line2": " ",
+    "suburb": "Flagstaff",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429043092666",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/sproutnzorg",
+    "twitter": "www.x.com/sproutnzorg"
+  },
+  "lastUpdated": "2026-03-02T20:46:07Z"
+}

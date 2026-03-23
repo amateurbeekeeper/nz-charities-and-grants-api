@@ -1,0 +1,27 @@
+{
+  "id": 46701,
+  "registrationNumber": "CC28757",
+  "name": "Lake Tekapo Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nigel.frost@canterbury.ac.nz",
+  "address": {
+    "line1": "P O Box 64",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tekapo",
+    "postcode": "7945"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:18:32Z"
+}

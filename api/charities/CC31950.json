@@ -1,0 +1,27 @@
+{
+  "id": 43601,
+  "registrationNumber": "CC31950",
+  "name": "The Royal School of Church Music (Auckland Branch)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://rscmnz.org.nz/",
+  "email": "nesushroff@xtra.co.nz",
+  "address": {
+    "line1": "25 Vista Crescent",
+    "line2": " ",
+    "suburb": "Glendowie",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "0000000000000",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T20:55:19Z"
+}

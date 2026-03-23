@@ -1,0 +1,27 @@
+{
+  "id": 33392,
+  "registrationNumber": "CC48908",
+  "name": "Greater Waikato (CEC) Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-02-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "waikato.treasurer@launchpad.kiwi",
+  "address": {
+    "line1": "611 Peacockes Road",
+    "line2": "RD 2",
+    "suburb": "Rukuhia",
+    "city": "Hamilton",
+    "postcode": "3282"
+  },
+  "nzbn": "9429043317080",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T04:52:40Z"
+}

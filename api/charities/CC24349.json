@@ -1,0 +1,27 @@
+{
+  "id": 42107,
+  "registrationNumber": "CC24349",
+  "name": "Papakura Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.redhill.org.nz",
+  "email": "samantha.tan@wesleyan.nz",
+  "address": {
+    "line1": "163 Dominion Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": "9429043115532",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Redhill.Community/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T18:01:43Z"
+}

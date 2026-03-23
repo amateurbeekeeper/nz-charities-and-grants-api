@@ -1,0 +1,27 @@
+{
+  "id": 51638,
+  "registrationNumber": "CC10600",
+  "name": "Whangarei Church of the Nazarene",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2007-07-10T00:00:00Z",
+  "dateDeregistered": "2012-01-23T00:00:00Z",
+  "website": "http://churchofthenazarenenewzealand.com",
+  "email": "donnawilliams1@xtra.co.nz",
+  "address": {
+    "line1": "7 Nixon Street",
+    "line2": null,
+    "suburb": "Kensington",
+    "city": "Whangarei",
+    "postcode": "112"
+  },
+  "nzbn": "9429043168613",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T00:30:41Z"
+}

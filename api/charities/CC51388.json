@@ -1,0 +1,27 @@
+{
+  "id": 34862,
+  "registrationNumber": "CC51388",
+  "name": "St Paul's Presbyterian Church Manurewa",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stpaulsmanurewa.nz",
+  "email": "auteine@gmail.com",
+  "address": {
+    "line1": "215 Weymouth Road",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": "0000000000000",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:04:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75140,
+  "registrationNumber": "CC61571",
+  "name": "Auckland Hockey Facilities Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.akhockey.org,nz",
+  "email": "gm@akhockey.org.nz",
+  "address": {
+    "line1": "PO Box 51128",
+    "line2": " ",
+    "suburb": "Pakuranga",
+    "city": "Auckland",
+    "postcode": "2140"
+  },
+  "nzbn": "9429047167094",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "auckland hockey ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-26T04:44:27Z"
+}

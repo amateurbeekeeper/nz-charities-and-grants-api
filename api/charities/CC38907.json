@@ -1,0 +1,27 @@
+{
+  "id": 58155,
+  "registrationNumber": "CC38907",
+  "name": "Gisborne Riding for Disabled Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gisbornerda.org.nz",
+  "email": "rda-gisborne@xtra.co.nz",
+  "address": {
+    "line1": "34 Main Road",
+    "line2": " ",
+    "suburb": "Makaraka",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042633044",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GisborneRDA/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T01:35:23Z"
+}

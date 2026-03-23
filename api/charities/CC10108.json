@@ -1,0 +1,27 @@
+{
+  "id": 51463,
+  "registrationNumber": "CC10108",
+  "name": "Citizens Advice Bureau Manurewa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.cab.org.nz",
+  "email": "chair.manurewa@cab.org.nz",
+  "address": {
+    "line1": "7 Hill Road",
+    "line2": "7 Hill Road",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": "9429042741213",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "NA",
+    "twitter": "NA"
+  },
+  "lastUpdated": "2026-02-20T01:42:55Z"
+}

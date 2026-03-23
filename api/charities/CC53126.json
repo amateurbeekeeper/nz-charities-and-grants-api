@@ -1,0 +1,27 @@
+{
+  "id": 66858,
+  "registrationNumber": "CC53126",
+  "name": "Titoki Tihi Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stephen@titokitihi.org.nz",
+  "address": {
+    "line1": "516 State Highway 30",
+    "line2": "RD 4",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3074"
+  },
+  "nzbn": "9429043304981",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:08:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74191,
+  "registrationNumber": "CC60598",
+  "name": "Olive Leaf Network Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://oliveleaf.org.nz",
+  "email": "peter@dpiltd.co.nz",
+  "address": {
+    "line1": "2 Lanark Way",
+    "line2": " ",
+    "suburb": "Northland",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429050748709",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Olive Leaf Network ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T18:41:41Z"
+}

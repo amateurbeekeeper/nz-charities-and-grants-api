@@ -1,0 +1,27 @@
+{
+  "id": 63611,
+  "registrationNumber": "CC41517",
+  "name": "New Lynn Bible Chapel",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nlbiblechapel.org",
+  "email": "nlbiblechapel@gmail.com",
+  "address": {
+    "line1": "3123 Great North Road",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "600"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NewLynnBibleChapel/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T03:54:29Z"
+}

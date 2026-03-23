@@ -1,0 +1,27 @@
+{
+  "id": 75268,
+  "registrationNumber": "CC61701",
+  "name": "Dear Effie Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.deareffie.co.nz",
+  "email": "symonehart@gmail.com",
+  "address": {
+    "line1": "6 Jag Way",
+    "line2": " ",
+    "suburb": "Tinwald",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": "9429051584061",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/deareffiecharitabletrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:48:44Z"
+}

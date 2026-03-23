@@ -1,0 +1,27 @@
+{
+  "id": 42260,
+  "registrationNumber": "CC26498",
+  "name": "Stadium Southland Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stadiumsouth.co.nz",
+  "email": "accounts@stadiumsouth.co.nz",
+  "address": {
+    "line1": "14 Surrey Park Road",
+    "line2": "Isabella Street",
+    "suburb": "Glengarry",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429037417499",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@iltstadiumsouthland",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:38:01Z"
+}

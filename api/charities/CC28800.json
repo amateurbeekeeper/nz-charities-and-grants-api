@@ -1,0 +1,27 @@
+{
+  "id": 60315,
+  "registrationNumber": "CC28800",
+  "name": "Invercargill Public Art Gallery Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.invercargillpublicartgallery.nz",
+  "email": "bpilley@jameshargest.school.nz",
+  "address": {
+    "line1": "42 Kelvin Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042575016",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/invercargillpublicartgallery/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T23:57:03Z"
+}

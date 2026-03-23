@@ -1,0 +1,27 @@
+{
+  "id": 67391,
+  "registrationNumber": "CC53683",
+  "name": "YMCA BUTLER STREET TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-07-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "keith@ymcasc.org.nz",
+  "address": {
+    "line1": "23 Butler Street",
+    "line2": "Timaru 7910",
+    "suburb": " ",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429043298921",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-22T20:12:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50128,
+  "registrationNumber": "CC43653",
+  "name": "ECPAT Child Alert Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-02-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ecpat.org.nz",
+  "email": "ashiana@ecpat.org.nz",
+  "address": {
+    "line1": "19 View Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429043199372",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ecpatnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T21:11:56Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55332,
+  "registrationNumber": "CC24023",
+  "name": "St. Kentigern Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.saintkentigern.com",
+  "email": "elizabeth.gillingham@saintkentigern.com",
+  "address": {
+    "line1": "130 Pakuranga Road",
+    "line2": " ",
+    "suburb": "Pakuranga",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429042827979",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "saintkentigern",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T01:48:59Z"
+}

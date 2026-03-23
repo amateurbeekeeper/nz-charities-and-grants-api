@@ -1,0 +1,27 @@
+{
+  "id": 39176,
+  "registrationNumber": "CC36978",
+  "name": "New Zealand Federation Of Multicultural Councils Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.multiculturalnz.org.nz",
+  "email": "premsingh111@xtra.co.nz",
+  "address": {
+    "line1": "192 Tinakori Road",
+    "line2": "Suite 9, Anvil House",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043200030",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MulticulturalNZ",
+    "twitter": "https://twitter.com/nzfmc"
+  },
+  "lastUpdated": "2026-01-25T20:04:21Z"
+}

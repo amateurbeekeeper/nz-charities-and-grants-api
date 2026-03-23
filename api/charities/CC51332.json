@@ -1,0 +1,27 @@
+{
+  "id": 34209,
+  "registrationNumber": "CC51332",
+  "name": "Church in Auckland Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.churchinauckland.org.nz/",
+  "email": "wesgarratt@hotmail.com",
+  "address": {
+    "line1": "71 Morningside Drive",
+    "line2": " ",
+    "suburb": "Mt Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T20:46:28Z"
+}

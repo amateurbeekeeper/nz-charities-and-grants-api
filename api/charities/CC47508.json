@@ -1,0 +1,27 @@
+{
+  "id": 36302,
+  "registrationNumber": "CC47508",
+  "name": "Aratika Cancer Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-03-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aratikatrust.co.nz/",
+  "email": "aratika@aratikatrust.co.nz",
+  "address": {
+    "line1": "1235 Ranolf Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429043146000",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AratikaCancerTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T22:26:10Z"
+}

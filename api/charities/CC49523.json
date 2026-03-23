@@ -1,0 +1,27 @@
+{
+  "id": 35297,
+  "registrationNumber": "CC49523",
+  "name": "Waitaha Swim Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-08-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.waitahaswimclub.org.nz",
+  "email": "treasurer@waitahaswimclub.org.nz",
+  "address": {
+    "line1": "25 Charente Way",
+    "line2": " ",
+    "suburb": "Yaldhurst",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429043241859",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/waitahaswimclub/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-18T19:21:32Z"
+}

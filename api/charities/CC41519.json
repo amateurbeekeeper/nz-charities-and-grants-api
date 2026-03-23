@@ -1,0 +1,27 @@
+{
+  "id": 42698,
+  "registrationNumber": "CC41519",
+  "name": "Kaiao Rangi Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mraukawahaskell@gmail.com",
+  "address": {
+    "line1": "130 Hautapu Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Taihape",
+    "postcode": "4720"
+  },
+  "nzbn": "9429043095179",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T19:25:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71274,
+  "registrationNumber": "CC57646",
+  "name": "RRR - Rescue, Revive, Rehome Bay of Plenty Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rrr.org.nz",
+  "email": "s.mikaere@rrr.org.nz",
+  "address": {
+    "line1": "4 Betty May Drive",
+    "line2": " ",
+    "suburb": "Pyes Pa",
+    "city": "Tauranga",
+    "postcode": "3173"
+  },
+  "nzbn": "9429047935075",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/RescueReviveRehome/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T00:07:14Z"
+}

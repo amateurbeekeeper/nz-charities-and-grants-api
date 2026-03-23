@@ -1,0 +1,27 @@
+{
+  "id": 74903,
+  "registrationNumber": "CC61332",
+  "name": "Auckland Community Education Centre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.acec.org.nz",
+  "email": "info.acec@icloud.com",
+  "address": {
+    "line1": "18 Byron Avenue",
+    "line2": " ",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100090485059350",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-11T19:46:55Z"
+}

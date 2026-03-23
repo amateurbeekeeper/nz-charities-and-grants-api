@@ -1,0 +1,27 @@
+{
+  "id": 58420,
+  "registrationNumber": "CC36706",
+  "name": "Auckland Netball Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandnetball.co.nz",
+  "email": "diannelasenby@aucklandnetball.co.nz",
+  "address": {
+    "line1": "7 Allison Ferguson Drive",
+    "line2": " ",
+    "suburb": "Saint Johns",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042586012",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aucklandnetball",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T01:56:22Z"
+}

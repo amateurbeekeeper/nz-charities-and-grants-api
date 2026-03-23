@@ -1,0 +1,27 @@
+{
+  "id": 37036,
+  "registrationNumber": "CC46497",
+  "name": "Hawke's Bay Digital Archives Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.knowledgebank.org.nz",
+  "email": "cynthia@knowledgebank.org.nz",
+  "address": {
+    "line1": "901 Omahu Road",
+    "line2": "Stortford Lodge",
+    "suburb": "Frimley",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429043220205",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hawkesbayKnowledgeBank",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T06:10:41Z"
+}

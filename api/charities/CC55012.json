@@ -1,0 +1,27 @@
+{
+  "id": 68672,
+  "registrationNumber": "CC55012",
+  "name": "Launch Church",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2023-02-09T00:00:00Z",
+  "dateDeregistered": "2024-12-04T00:00:00Z",
+  "website": null,
+  "email": "Anna.boardman@windowslive.com",
+  "address": {
+    "line1": "23 The Oval",
+    "line2": " ",
+    "suburb": "Paremoremo",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-12-05T06:10:39Z"
+}

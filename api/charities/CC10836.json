@@ -1,0 +1,27 @@
+{
+  "id": 51495,
+  "registrationNumber": "CC10836",
+  "name": "International Sailors' Society Auckland (Incorporated)",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2007-08-13T00:00:00Z",
+  "dateDeregistered": "2015-12-31T00:00:00Z",
+  "website": "http://www.iss.org.nz",
+  "email": "iss@iss.org.nz",
+  "address": {
+    "line1": "42 Knights Road",
+    "line2": null,
+    "suburb": "Rothesay Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429042665922",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T00:32:24Z"
+}

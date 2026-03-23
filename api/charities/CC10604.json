@@ -1,0 +1,27 @@
+{
+  "id": 51904,
+  "registrationNumber": "CC10604",
+  "name": "Nga Manu Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngamanu.co.nz",
+  "email": "manager@ngamanu.org.nz",
+  "address": {
+    "line1": "74 Nga Manu Reserve Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Waikanae",
+    "postcode": "5391"
+  },
+  "nzbn": "9429042691211",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NgaManuNatureReserve/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:18:35Z"
+}

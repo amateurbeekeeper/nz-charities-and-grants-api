@@ -1,0 +1,27 @@
+{
+  "id": 45593,
+  "registrationNumber": "CC38719",
+  "name": "Canterbury Botanical Society (N.Z.) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.canterburybotanicalsociety.org.nz",
+  "email": "info@canterburybotanicalsociety.org.nz",
+  "address": {
+    "line1": "80 Colombo Street",
+    "line2": " ",
+    "suburb": "Beckenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429042602828",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-17T19:18:45Z"
+}

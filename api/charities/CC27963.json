@@ -1,0 +1,27 @@
+{
+  "id": 58962,
+  "registrationNumber": "CC27963",
+  "name": "Auckland Volunteer Fire Brigade Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandoperationalsupport.org.nz",
+  "email": "allan.officer@fireandemergency.nz",
+  "address": {
+    "line1": "2 Poynton Terrace",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043260805",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:02:19Z"
+}

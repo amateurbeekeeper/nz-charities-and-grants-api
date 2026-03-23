@@ -1,0 +1,27 @@
+{
+  "id": 44884,
+  "registrationNumber": "CC44157",
+  "name": "Te Aroa Haereiti Whanau Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "maclarke@maclarke.co.nz",
+  "address": {
+    "line1": "33 Great South Road",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042835905",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-11-04T23:26:40Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51347,
+  "registrationNumber": "CC20141",
+  "name": "Anxiety New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.anxiety.org.nz",
+  "email": "sarahw@anxiety.org.nz",
+  "address": {
+    "line1": "77 Morningside Drive",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042782971",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/anxietynewzealand/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T18:15:18Z"
+}

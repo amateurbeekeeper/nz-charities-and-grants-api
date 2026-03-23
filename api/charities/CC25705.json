@@ -1,0 +1,27 @@
+{
+  "id": 42404,
+  "registrationNumber": "CC25705",
+  "name": "The Bishop's Action Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.baf.org.nz",
+  "email": "ceo@baf.org.nz",
+  "address": {
+    "line1": "566 Mangorei Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4371"
+  },
+  "nzbn": "9429043051854",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-12T00:06:34Z"
+}

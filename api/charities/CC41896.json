@@ -1,0 +1,27 @@
+{
+  "id": 63709,
+  "registrationNumber": "CC41896",
+  "name": "Sunny Hills Tennis Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-08-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sunnyhillstennisclub.org",
+  "email": "Treasurershtc@gmail.com",
+  "address": {
+    "line1": "6 Oleander Point",
+    "line2": " ",
+    "suburb": "Farm Cove",
+    "city": "Auckland",
+    "postcode": "2012"
+  },
+  "nzbn": "9429042837428",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SunnyhillsTennisClub/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T02:02:13Z"
+}

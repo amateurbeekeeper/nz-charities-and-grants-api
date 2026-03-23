@@ -1,0 +1,27 @@
+{
+  "id": 33257,
+  "registrationNumber": "CC49059",
+  "name": "Safeguarding Children Initiative",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-04-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.safeguardingchildren.org.nz",
+  "email": "accounts@safeguardingchildren.org.nz",
+  "address": {
+    "line1": "142 Saxton Road East",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429043276134",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Safeguarding Children New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:30:05Z"
+}

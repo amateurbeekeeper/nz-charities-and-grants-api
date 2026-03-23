@@ -1,0 +1,27 @@
+{
+  "id": 55815,
+  "registrationNumber": "CC24546",
+  "name": "Raumati Crescent Chapel",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "terrykathjensen@msn.com",
+  "address": {
+    "line1": "PO Box 3042",
+    "line2": "Onerahi",
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "142"
+  },
+  "nzbn": "1111111111111",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-14T19:21:11Z"
+}

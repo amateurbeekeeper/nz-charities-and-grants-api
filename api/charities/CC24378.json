@@ -1,0 +1,27 @@
+{
+  "id": 42211,
+  "registrationNumber": "CC24378",
+  "name": "Te Aroha Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tearohagolfclub.co.nz",
+  "email": "gavandgail@xtra.co.nz",
+  "address": {
+    "line1": "5122 SH 26",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Aroha",
+    "postcode": "3320"
+  },
+  "nzbn": "9429042836155",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T23:58:07Z"
+}

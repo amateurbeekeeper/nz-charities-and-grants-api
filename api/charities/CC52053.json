@@ -1,0 +1,27 @@
+{
+  "id": 65796,
+  "registrationNumber": "CC52053",
+  "name": "Waitaki Presbyterian Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "read.n.c@xtra.co.nz",
+  "address": {
+    "line1": "90 Weston Road",
+    "line2": " ",
+    "suburb": "Weston",
+    "city": "Oamaru",
+    "postcode": "9401"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:08:10Z"
+}

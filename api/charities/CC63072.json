@@ -1,0 +1,27 @@
+{
+  "id": 77107,
+  "registrationNumber": "CC63072",
+  "name": "The Gathering Church Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://thegatheringchurch.co.nz",
+  "email": "markfedmond@gmail.com",
+  "address": {
+    "line1": "79 Riverbank Road",
+    "line2": "RD 2",
+    "suburb": "Wānaka",
+    "city": "Wanaka",
+    "postcode": "9382"
+  },
+  "nzbn": "9429052579653",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T18:45:51Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64235,
+  "registrationNumber": "CC39821",
+  "name": "Regent Street Church of Christ",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-05-05T00:00:00Z",
+  "dateDeregistered": "2015-05-06T00:00:00Z",
+  "website": null,
+  "email": "gstanton@es.co.nz",
+  "address": {
+    "line1": "Cnr Regent & Dome Streets",
+    "line2": null,
+    "suburb": "Newfield",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": "9429042741701",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-02-28T20:16:25Z"
+}

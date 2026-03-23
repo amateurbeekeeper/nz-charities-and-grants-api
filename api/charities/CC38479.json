@@ -1,0 +1,27 @@
+{
+  "id": 41943,
+  "registrationNumber": "CC38479",
+  "name": "Paihia Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.paihiabaptist.com",
+  "email": "paihia.baptist@gmail.com",
+  "address": {
+    "line1": "77 Williams Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paihia",
+    "postcode": "200"
+  },
+  "nzbn": "9429050136193",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T18:23:56Z"
+}

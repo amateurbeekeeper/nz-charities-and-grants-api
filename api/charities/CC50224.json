@@ -1,0 +1,27 @@
+{
+  "id": 33981,
+  "registrationNumber": "CC50224",
+  "name": "Rhodes Trust In New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jonathan.ross@cjr.co.nz",
+  "address": {
+    "line1": "94 St Stephens Avenue",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T18:06:42Z"
+}

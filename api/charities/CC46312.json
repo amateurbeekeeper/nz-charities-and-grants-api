@@ -1,0 +1,27 @@
+{
+  "id": 36414,
+  "registrationNumber": "CC46312",
+  "name": "Mount Albert Grammar School Rowing Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-02-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.magsrow.org.nz/",
+  "email": "magsrowclub@gmail.com",
+  "address": {
+    "line1": "36 Alberton Avenue",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429043221455",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T19:43:48Z"
+}

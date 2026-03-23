@@ -1,0 +1,27 @@
+{
+  "id": 62276,
+  "registrationNumber": "CC40236",
+  "name": "Te Hauora o Ngati Rarua Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngatirarua.iwi.nz",
+  "email": "michelle.lavender@ngatirarua.iwi.nz",
+  "address": {
+    "line1": "65 Scott Street",
+    "line2": "Blenheim 7201",
+    "suburb": "Redwoodtown",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429037404451",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Hauora o Ngati Rarua",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T18:08:19Z"
+}

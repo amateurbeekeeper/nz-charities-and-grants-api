@@ -1,0 +1,27 @@
+{
+  "id": 43244,
+  "registrationNumber": "CC32959",
+  "name": "Riverton Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "breecornwell@aol.com",
+  "address": {
+    "line1": "7 Leader Street",
+    "line2": "Riverton 9822",
+    "suburb": "Riverton / Aparima",
+    "city": "Riverton",
+    "postcode": "9822"
+  },
+  "nzbn": "9429042992165",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/rivtoylib",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-21T22:13:36Z"
+}

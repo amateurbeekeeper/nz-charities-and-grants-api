@@ -1,0 +1,27 @@
+{
+  "id": 38764,
+  "registrationNumber": "CC46013",
+  "name": "Costume and Textile Association of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-01-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.costumeandtextile.co.nz",
+  "email": "dinahwrites@gmail.com",
+  "address": {
+    "line1": "203 Wilton Road",
+    "line2": " ",
+    "suburb": "Wilton",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429052595165",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CostumeTextilesNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-22T07:21:12Z"
+}

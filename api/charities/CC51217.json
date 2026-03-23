@@ -1,0 +1,27 @@
+{
+  "id": 34938,
+  "registrationNumber": "CC51217",
+  "name": "ANZUP Cancer Trials Group Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-01-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.anzup.org.au/",
+  "email": "marcel.svatos@anzup.org.au",
+  "address": {
+    "line1": "Level 18, International Tower 3",
+    "line2": "300 Barangaroo Avenue",
+    "suburb": "Barangaroo",
+    "city": "Sydney",
+    "postcode": "2000"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/ANZUPtrials/",
+    "twitter": "https://twitter.com/ANZUPtrials"
+  },
+  "lastUpdated": "2025-10-22T02:13:44Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52401,
+  "registrationNumber": "CC10723",
+  "name": "Soka Gakkai International of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sginz.org",
+  "email": "jimi@sginz.org",
+  "address": {
+    "line1": "285 Cuba Street",
+    "line2": "8 Gilmer Terrace",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042742449",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:39:41Z"
+}

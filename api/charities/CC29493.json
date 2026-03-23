@@ -1,0 +1,27 @@
+{
+  "id": 58095,
+  "registrationNumber": "CC29493",
+  "name": "Rewi Alley Chinese School",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rewialley.school.nz",
+  "email": "principal@rewialley.ac.nz",
+  "address": {
+    "line1": "Suite 4",
+    "line2": "11 Print Place",
+    "suburb": "Middleton",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429042951377",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/RewiAlleyChineseSchool/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T18:06:52Z"
+}

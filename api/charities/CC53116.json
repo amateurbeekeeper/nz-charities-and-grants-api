@@ -1,0 +1,27 @@
+{
+  "id": 66839,
+  "registrationNumber": "CC53116",
+  "name": "Western Bay Wildlife Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.westernbaywildlife.nz",
+  "email": "westernbaywildlife@gmail.com",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "7 Robins Road",
+    "suburb": "Judea",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043259960",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Western Bay Wildlife Trust ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-05T08:32:26Z"
+}

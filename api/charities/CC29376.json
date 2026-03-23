@@ -1,0 +1,27 @@
+{
+  "id": 49611,
+  "registrationNumber": "CC29376",
+  "name": "Stratford Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kevan.old@fireandemergency.nz",
+  "address": {
+    "line1": "Miranda Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Stratford",
+    "postcode": "4332"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T20:59:00Z"
+}

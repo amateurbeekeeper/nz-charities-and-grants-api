@@ -1,0 +1,27 @@
+{
+  "id": 49628,
+  "registrationNumber": "CC38742",
+  "name": "Hamilton Musical Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hamiltonmusicaltheatre.co.nz",
+  "email": "treasurer@hamiltonmusicaltheatre.co.nz",
+  "address": {
+    "line1": "83 Riverlea Road",
+    "line2": " ",
+    "suburb": "Riverlea",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429042771425",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T05:52:43Z"
+}

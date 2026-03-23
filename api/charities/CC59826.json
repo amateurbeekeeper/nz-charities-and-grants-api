@@ -1,0 +1,27 @@
+{
+  "id": 73466,
+  "registrationNumber": "CC59826",
+  "name": "Waitara Taiohi Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waitarataiohitrust.com",
+  "email": "tiri.porter@gmail.com",
+  "address": {
+    "line1": "17 Grey Street, Waitara",
+    "line2": " ",
+    "suburb": " Waitara",
+    "city": "Taranaki",
+    "postcode": "4320"
+  },
+  "nzbn": "9429050115716",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waitara Taiohi Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T03:58:45Z"
+}

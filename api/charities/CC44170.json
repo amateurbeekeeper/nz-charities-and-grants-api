@@ -1,0 +1,27 @@
+{
+  "id": 50469,
+  "registrationNumber": "CC44170",
+  "name": "Masonic Care Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "warick.dunn@masonicvillages.co.nz",
+  "address": {
+    "line1": "15 Daly Street",
+    "line2": " Level 2",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429033457116",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T02:15:05Z"
+}

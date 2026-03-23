@@ -1,0 +1,27 @@
+{
+  "id": 72212,
+  "registrationNumber": "CC58596",
+  "name": "Bush Farm Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2021-01-29T00:00:00Z",
+  "dateDeregistered": "2023-11-30T00:00:00Z",
+  "website": "www.bushfarm.org.nz",
+  "email": "katie@bushfarm.org.nz",
+  "address": {
+    "line1": "154 Governors Bay Teddington Road",
+    "line2": "RD 1",
+    "suburb": "Allandale",
+    "city": "Lyttelton",
+    "postcode": "8971"
+  },
+  "nzbn": "9429048957540",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100057103866045",
+    "twitter": null
+  },
+  "lastUpdated": "2023-12-19T06:03:35Z"
+}

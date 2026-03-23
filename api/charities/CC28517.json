@@ -1,0 +1,27 @@
+{
+  "id": 40023,
+  "registrationNumber": "CC28517",
+  "name": "Just Dollars Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2022-08-31T00:00:00Z",
+  "website": "http://www.justdollars.org.nz",
+  "email": "mail@justdollars.org.nz",
+  "address": {
+    "line1": "442 Tuam Street",
+    "line2": " ",
+    "suburb": "Phillipstown",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042648192",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/justdollars.org.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2022-09-21T07:58:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34891,
+  "registrationNumber": "CC51380",
+  "name": "Cornerstone Rolleston Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cornerstonerolleston.org/",
+  "email": "rob@tufftoys.co.nz",
+  "address": {
+    "line1": "999 Goulds Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rolleston",
+    "postcode": "7614"
+  },
+  "nzbn": "9429043272808",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Cornerstone-Church-Rolleston-251071588634904/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T04:16:42Z"
+}

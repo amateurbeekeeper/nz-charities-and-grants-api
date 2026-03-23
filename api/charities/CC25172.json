@@ -1,0 +1,27 @@
+{
+  "id": 56753,
+  "registrationNumber": "CC25172",
+  "name": "Maori Literature Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://mlt.org.nz/",
+  "email": "eboni@huia.co.nz",
+  "address": {
+    "line1": "39 Pipitea Street",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043126873",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T01:29:34Z"
+}

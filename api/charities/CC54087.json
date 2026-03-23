@@ -1,0 +1,27 @@
+{
+  "id": 67783,
+  "registrationNumber": "CC54087",
+  "name": "Te Ara Rangatahi Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-09-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teararangatahi.com",
+  "email": "kahuatairingi.tarhi@gmail.com",
+  "address": {
+    "line1": "Unit 25, 23 Kitchener Road",
+    "line2": "Waiuku 2123",
+    "suburb": "Waiuku",
+    "city": "Waiuku",
+    "postcode": "2123"
+  },
+  "nzbn": "9429043348411",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Ara Rangatahi",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-16T19:08:32Z"
+}

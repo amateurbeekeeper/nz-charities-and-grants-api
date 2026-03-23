@@ -1,0 +1,27 @@
+{
+  "id": 74210,
+  "registrationNumber": "CC60625",
+  "name": "Christian Pentecost Church Worldwide Missionary Movement New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mmm.nzchurch@gmail.com",
+  "address": {
+    "line1": "40 Mitchell Street",
+    "line2": " ",
+    "suburb": "Epuni",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "MMM New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-02T02:38:08Z"
+}

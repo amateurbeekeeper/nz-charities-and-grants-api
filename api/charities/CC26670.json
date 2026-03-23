@@ -1,0 +1,27 @@
+{
+  "id": 39331,
+  "registrationNumber": "CC26670",
+  "name": "Altrusa International Inc of Invercargill",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://districtfifteen.altrusa.org/invercargill",
+  "email": "altrusainvercargill@gmail.com",
+  "address": {
+    "line1": "153 Ness Street",
+    "line2": " ",
+    "suburb": "Appleby",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T03:30:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73816,
+  "registrationNumber": "CC60205",
+  "name": "The Meningitis Foundation Aotearoa New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.meningitis.org.nz/",
+  "email": "gerard@meningitis.org.nz",
+  "address": {
+    "line1": "201 Smithfield Road",
+    "line2": "RD 2",
+    "suburb": "Elgin",
+    "city": "Ashburton",
+    "postcode": "7772"
+  },
+  "nzbn": "9429031359368",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MeningitisFoundationNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T00:17:30Z"
+}

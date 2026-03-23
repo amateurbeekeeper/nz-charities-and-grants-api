@@ -1,0 +1,27 @@
+{
+  "id": 42201,
+  "registrationNumber": "CC25424",
+  "name": "Mayfield School Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "redparkfarm@gmail.com",
+  "address": {
+    "line1": "Lismore Mayfield Road",
+    "line2": "Mayfield",
+    "suburb": " ",
+    "city": "Ashburton",
+    "postcode": "7775"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T01:58:12Z"
+}

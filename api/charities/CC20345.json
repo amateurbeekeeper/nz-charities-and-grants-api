@@ -1,0 +1,27 @@
+{
+  "id": 53296,
+  "registrationNumber": "CC20345",
+  "name": "Te Kura Toi Whakaari o Aotearoa: New Zealand Drama School Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.toiwhakaari.ac.nz",
+  "email": "accounts@toiwhakaari.ac.nz",
+  "address": {
+    "line1": "Te Whaea: National Dance and Drama Centre",
+    "line2": "11 Hutchison Road",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429042860433",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T22:06:34Z"
+}

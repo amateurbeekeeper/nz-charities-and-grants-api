@@ -1,0 +1,27 @@
+{
+  "id": 51634,
+  "registrationNumber": "CC10396",
+  "name": "North Shore Bethel Missionary Baptist Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nsbmbc.org",
+  "email": "louiebgalang@yahoo.com",
+  "address": {
+    "line1": "13B Tiri Tiri Road",
+    "line2": " ",
+    "suburb": "Birkdale",
+    "city": "Auckland",
+    "postcode": "626"
+  },
+  "nzbn": "9429043143849",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "NsBethel M BaptistChurch (nsbmbc-nz)",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2026-01-21T08:42:00Z"
+}

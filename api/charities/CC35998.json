@@ -1,0 +1,27 @@
+{
+  "id": 57430,
+  "registrationNumber": "CC35998",
+  "name": "Winton Christian Centre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2015-06-01T00:00:00Z",
+  "website": null,
+  "email": "wintonchristiancentre@xtra.co.nz",
+  "address": {
+    "line1": "67 Albert Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Winton",
+    "postcode": "9720"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:32:00Z"
+}

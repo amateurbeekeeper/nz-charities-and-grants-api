@@ -1,0 +1,27 @@
+{
+  "id": 33103,
+  "registrationNumber": "CC48584",
+  "name": "The Vine House Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-11-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thevinehouse.org.nz",
+  "email": "herbherbertsnr@gmail.com",
+  "address": {
+    "line1": "196 Pilkington Road",
+    "line2": " ",
+    "suburb": "Point England",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429043191239",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T19:40:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54420,
+  "registrationNumber": "CC21039",
+  "name": "Martinborough And District Ambulance Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tracey@trueca.co.nz",
+  "address": {
+    "line1": "48 Jellicoe Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Martinborough",
+    "postcode": "5711"
+  },
+  "nzbn": "9429042761358",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:42:05Z"
+}

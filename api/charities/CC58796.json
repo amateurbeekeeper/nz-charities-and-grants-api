@@ -1,0 +1,27 @@
+{
+  "id": 72407,
+  "registrationNumber": "CC58796",
+  "name": "Disc Golf Wanaka Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-12-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.discgolfwanaka.org/",
+  "email": "discgolfwanaka@xtra.co.nz",
+  "address": {
+    "line1": "4 Wexford Street",
+    "line2": " ",
+    "suburb": "Albert Town",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429043236848",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DiscGolfWanaka",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T08:24:13Z"
+}

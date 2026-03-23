@@ -1,0 +1,27 @@
+{
+  "id": 47715,
+  "registrationNumber": "CC38791",
+  "name": "The Auckland Tramping Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://aucktramping.org.nz",
+  "email": "secretary@aucktramping.org.nz",
+  "address": {
+    "line1": "11 Corbett-Scott Avenue",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042869764",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T06:37:04Z"
+}

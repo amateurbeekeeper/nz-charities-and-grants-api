@@ -1,0 +1,27 @@
+{
+  "id": 72923,
+  "registrationNumber": "CC59317",
+  "name": "Heathcote Community Garden",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john.marks47@outlook.com",
+  "address": {
+    "line1": "Villa 61",
+    "line2": "Maltworks Villas",
+    "suburb": "Heathcote Valley",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429052260445",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/1220815585088673 ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T00:04:45Z"
+}

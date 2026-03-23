@@ -1,0 +1,27 @@
+{
+  "id": 69446,
+  "registrationNumber": "CC55801",
+  "name": "Ara Tuhono Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hokainuku.co.nz",
+  "email": "hina@hokainuku.co.nz",
+  "address": {
+    "line1": "26 Billing Road",
+    "line2": "Puhoi 0994",
+    "suburb": " ",
+    "city": "Puhoi",
+    "postcode": "0994"
+  },
+  "nzbn": "9429046776693",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "hokainuku",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T01:10:27Z"
+}

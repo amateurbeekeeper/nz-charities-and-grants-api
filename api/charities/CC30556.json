@@ -1,0 +1,27 @@
+{
+  "id": 48628,
+  "registrationNumber": "CC30556",
+  "name": "Turangi Evangelical Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.turangievangelical.co.nz",
+  "email": "turangievangelical@gmail.com",
+  "address": {
+    "line1": "113 Te Rangitautahanga Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Turangi",
+    "postcode": "3334"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-08T20:16:17Z"
+}

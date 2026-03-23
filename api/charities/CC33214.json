@@ -1,0 +1,27 @@
+{
+  "id": 42066,
+  "registrationNumber": "CC33214",
+  "name": "Masterton Foodbank Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "steve@ssinsure.co.nz",
+  "address": {
+    "line1": "9-11 Church Street",
+    "line2": "Masterton 5810",
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429043023387",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mastertonfoodbank",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-10T20:00:32Z"
+}

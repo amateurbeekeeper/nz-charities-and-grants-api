@@ -1,0 +1,27 @@
+{
+  "id": 58574,
+  "registrationNumber": "CC26513",
+  "name": "Foxton Gospel Hall",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jamie.susiemoir@gmail.com",
+  "address": {
+    "line1": "10 Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Foxton",
+    "postcode": "4814"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-13T02:29:24Z"
+}

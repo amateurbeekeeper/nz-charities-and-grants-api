@@ -1,0 +1,27 @@
+{
+  "id": 40082,
+  "registrationNumber": "CC23947",
+  "name": "NZ Hymn Book Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2022-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "d.bush@netaccess.co.nz",
+  "address": {
+    "line1": "50 Langdons Road",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042677383",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T18:10:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35271,
+  "registrationNumber": "CC49759",
+  "name": "New Zealand Ecological Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-09-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://newzealandecology.org",
+  "email": "chrisbycroft@xtra.co.nz",
+  "address": {
+    "line1": "PO Box 5008",
+    "line2": " ",
+    "suburb": "Waikiwi",
+    "city": "Invercargill",
+    "postcode": "9843"
+  },
+  "nzbn": "9429043208760",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzecology/",
+    "twitter": "https://twitter.com/nzecology"
+  },
+  "lastUpdated": "2026-03-06T02:46:15Z"
+}

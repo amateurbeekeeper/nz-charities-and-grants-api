@@ -1,0 +1,27 @@
+{
+  "id": 63739,
+  "registrationNumber": "CC39341",
+  "name": "Dunedin Gasworks Museum Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gasworksmuseum.org.nz/",
+  "email": "glynn.b@hyper.net.nz",
+  "address": {
+    "line1": "20 Braemar Street",
+    "line2": " ",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042662570",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Dunedin.Gasworks.Museum",
+    "twitter": "https://twitter.com/GasworksMuseum"
+  },
+  "lastUpdated": "2025-09-26T12:55:34Z"
+}

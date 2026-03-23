@@ -1,0 +1,27 @@
+{
+  "id": 69374,
+  "registrationNumber": "CC55727",
+  "name": "Kaiapoi Food Forest Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kaiapoifoodforest.co.nz",
+  "email": "james.adams@xtra.co.nz",
+  "address": {
+    "line1": "94 Heywards Road",
+    "line2": "RD 2",
+    "suburb": "Clarkville",
+    "city": "Kaiapoi",
+    "postcode": "7692"
+  },
+  "nzbn": "9429046356857",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://wwwfacebook.com/KaiintoKAIAPOI",
+    "twitter": "NA"
+  },
+  "lastUpdated": "2026-03-19T08:37:52Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63685,
+  "registrationNumber": "CC42678",
+  "name": "Law and Economics Association of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.leanz.org.nz",
+  "email": "info@leanz.org.nz",
+  "address": {
+    "line1": "57 Leinster Avenue",
+    "line2": " ",
+    "suburb": "Raumati South",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429042640509",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/lawandeconomicsassociation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:38:51Z"
+}

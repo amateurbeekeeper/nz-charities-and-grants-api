@@ -1,0 +1,27 @@
+{
+  "id": 44392,
+  "registrationNumber": "CC42911",
+  "name": "Hawarden Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hawardengolf.com",
+  "email": "treasurer@hawardengolf.com",
+  "address": {
+    "line1": "53 Horsley Down Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Hawarden",
+    "postcode": "7385"
+  },
+  "nzbn": "9429042720447",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T00:04:57Z"
+}

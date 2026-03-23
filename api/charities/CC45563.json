@@ -1,0 +1,27 @@
+{
+  "id": 38633,
+  "registrationNumber": "CC45563",
+  "name": "APOPO",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-10-17T00:00:00Z",
+  "dateDeregistered": "2017-07-31T00:00:00Z",
+  "website": "http://www.apopo.org.nz/",
+  "email": "admin@apopo.org.nz",
+  "address": {
+    "line1": "220 Taharepa Road",
+    "line2": " ",
+    "suburb": "Tauhara",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429043208180",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:38:44Z"
+}

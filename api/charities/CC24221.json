@@ -1,0 +1,27 @@
+{
+  "id": 40735,
+  "registrationNumber": "CC24221",
+  "name": "University of Canterbury",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.canterbury.ac.nz",
+  "email": "hestine.zurich@canterbury.ac.nz",
+  "address": {
+    "line1": "University Drive",
+    "line2": "Ilam",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": "9429041925317",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:13:31Z"
+}

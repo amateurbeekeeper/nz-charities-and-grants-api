@@ -1,0 +1,27 @@
+{
+  "id": 41614,
+  "registrationNumber": "CC25099",
+  "name": "The Wellington Boys and Girls Institute Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bgi.org.nz",
+  "email": "simon@bgi.org.nz",
+  "address": {
+    "line1": "3 MacDonald Crescent",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042894728",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T23:03:22Z"
+}

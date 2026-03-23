@@ -1,0 +1,27 @@
+{
+  "id": 74804,
+  "registrationNumber": "CC61215",
+  "name": "Christchurch Mar Thoma Parish",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.christchurchmarthoma.org",
+  "email": "babukutty@xtra.co.nz",
+  "address": {
+    "line1": "275A Avonhead Road",
+    "line2": " ",
+    "suburb": "Avonhead",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Christchurch Mar Thoma Parish",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T04:45:47Z"
+}

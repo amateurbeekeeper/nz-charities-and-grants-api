@@ -1,0 +1,27 @@
+{
+  "id": 55640,
+  "registrationNumber": "CC22655",
+  "name": "Incedo Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lauragreennz@gmail.com",
+  "address": {
+    "line1": "42A Waimea Road",
+    "line2": " ",
+    "suburb": "Waikanae Beach",
+    "city": "Waikanae",
+    "postcode": "5036"
+  },
+  "nzbn": "9429042926696",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T01:17:44Z"
+}

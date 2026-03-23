@@ -1,0 +1,27 @@
+{
+  "id": 35363,
+  "registrationNumber": "CC49545",
+  "name": "Koata Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-07-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ngatikoata.com",
+  "email": "hemi@ngatikoata.com",
+  "address": {
+    "line1": "126 Trafalgar Street",
+    "line2": "Nelson 7010",
+    "suburb": "The Wood",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429034333631",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:14:18Z"
+}

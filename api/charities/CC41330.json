@@ -1,0 +1,27 @@
+{
+  "id": 63551,
+  "registrationNumber": "CC41330",
+  "name": "Tokomairiro Waiora Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tokowaiora.co.nz",
+  "email": "sasha@tokowaiora.co.nz",
+  "address": {
+    "line1": "4 Shakespeare Street",
+    "line2": "Milton 9220",
+    "suburb": " ",
+    "city": "Milton",
+    "postcode": "9220"
+  },
+  "nzbn": "9429043180943",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TokoWaiora/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T02:07:32Z"
+}

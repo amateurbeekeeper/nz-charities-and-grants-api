@@ -1,0 +1,27 @@
+{
+  "id": 66413,
+  "registrationNumber": "CC52680",
+  "name": "The Anglican Parish of South Christchurch",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "anglican.southchch@gmail.com",
+  "address": {
+    "line1": "231 Barrington Street",
+    "line2": " ",
+    "suburb": "Spreydon",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "stnicholaschurch.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T02:42:41Z"
+}

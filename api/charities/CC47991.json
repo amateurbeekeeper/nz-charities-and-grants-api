@@ -1,0 +1,27 @@
+{
+  "id": 36597,
+  "registrationNumber": "CC47991",
+  "name": "Cobden Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-07-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fireandemergency.nz/stations/show/cobden-volunteer-fire-brigade",
+  "email": "Clark.Fountain@fireandemergency.nz",
+  "address": {
+    "line1": "1 Newcastle Street",
+    "line2": " ",
+    "suburb": "Cobden",
+    "city": "Greymouth",
+    "postcode": "7802"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cobdenfire",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T05:34:34Z"
+}

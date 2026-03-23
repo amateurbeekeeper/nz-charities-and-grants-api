@@ -1,0 +1,27 @@
+{
+  "id": 36686,
+  "registrationNumber": "CC48099",
+  "name": "St Patrick's College Silverstream Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2022-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stream.school.nz",
+  "email": "sayerm@stream.school.nz",
+  "address": {
+    "line1": "207 Fergusson Drive",
+    "line2": " ",
+    "suburb": "Heretaunga",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/streamfoundation/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T19:34:00Z"
+}

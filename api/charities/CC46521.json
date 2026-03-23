@@ -1,0 +1,27 @@
+{
+  "id": 36831,
+  "registrationNumber": "CC46521",
+  "name": "Taonga Wesleyan Community",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2011-05-04T00:00:00Z",
+  "dateDeregistered": "2019-12-31T00:00:00Z",
+  "website": "www.taongawesleyan.org.nz",
+  "email": "melissa.powell@wesleyan.nz",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "97 Paihia Road",
+    "suburb": "One Tree Hill",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/TaongaWesleyan/",
+    "twitter": "https://twitter.com/taongawesleyan"
+  },
+  "lastUpdated": "2020-10-11T23:25:56Z"
+}

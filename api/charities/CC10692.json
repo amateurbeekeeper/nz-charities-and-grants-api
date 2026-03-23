@@ -1,0 +1,27 @@
+{
+  "id": 52333,
+  "registrationNumber": "CC10692",
+  "name": "Communicare CMA (Auckland) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.communicare.org.nz",
+  "email": "manager@communicare.org.nz",
+  "address": {
+    "line1": "14 Erson Avenue",
+    "line2": " ",
+    "suburb": "Royal Oak",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042616825",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "CommunicareCMA",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T21:03:26Z"
+}

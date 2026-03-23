@@ -1,0 +1,27 @@
+{
+  "id": 54123,
+  "registrationNumber": "CC21023",
+  "name": "Life Education Trust Kapiti Horowhenua",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lifeeducation.org.nz",
+  "email": "mccraedc1@gmail.com",
+  "address": {
+    "line1": "PO Box 30",
+    "line2": "Paraparaumu 5254",
+    "suburb": "Paraparaumu Beach",
+    "city": "Paraparaumu",
+    "postcode": "5254"
+  },
+  "nzbn": "9429043031566",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T04:43:11Z"
+}

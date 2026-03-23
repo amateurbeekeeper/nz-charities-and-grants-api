@@ -1,0 +1,27 @@
+{
+  "id": 65574,
+  "registrationNumber": "CC51819",
+  "name": "Henderson St Andrews Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "secretary@standrewshenderson.com",
+  "address": {
+    "line1": "7 Tara Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/standrewshenderson",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:03:35Z"
+}

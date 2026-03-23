@@ -1,0 +1,27 @@
+{
+  "id": 36583,
+  "registrationNumber": "CC47150",
+  "name": "Mapping Analysis and Information Network Trust, New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-08-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.main.net.nz",
+  "email": "main@main.net.nz",
+  "address": {
+    "line1": "320B Frankley Road",
+    "line2": " ",
+    "suburb": "Ferndale",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043149704",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mapitNZ",
+    "twitter": "nil"
+  },
+  "lastUpdated": "2025-09-28T04:25:52Z"
+}

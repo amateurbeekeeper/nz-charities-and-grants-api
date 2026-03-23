@@ -1,0 +1,27 @@
+{
+  "id": 75433,
+  "registrationNumber": "CC61875",
+  "name": "PETITS LASCARS INCORPORATED",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-12-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.petitslascars.co.nz",
+  "email": "president@petitslascars.co.nz",
+  "address": {
+    "line1": "10 Matipo Road",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/petitslascars/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T20:03:18Z"
+}

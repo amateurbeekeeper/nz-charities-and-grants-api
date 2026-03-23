@@ -1,0 +1,27 @@
+{
+  "id": 53083,
+  "registrationNumber": "CC21338",
+  "name": "Tauranga Trade Aid Centre Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-02-24T00:00:00Z",
+  "dateDeregistered": "2025-06-30T00:00:00Z",
+  "website": "http://www.tradeaid.org.nz",
+  "email": "joanne.palmer@tradeaid.org.nz",
+  "address": {
+    "line1": "192 Maunganui Road",
+    "line2": "Mount Maunganui 3116",
+    "suburb": "Dallington",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429042831051",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T07:24:35Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70438,
+  "registrationNumber": "CC56800",
+  "name": "ACCC Sports Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-07-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "andrew.lowe88@gmail.com",
+  "address": {
+    "line1": "2 Kea Place",
+    "line2": " ",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/acccsc/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:58:58Z"
+}

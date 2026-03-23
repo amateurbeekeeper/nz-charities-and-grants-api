@@ -1,0 +1,27 @@
+{
+  "id": 42279,
+  "registrationNumber": "CC41400",
+  "name": "Ashburton Cadet Corps Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-09-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cadetforces.org.nz",
+  "email": "cezarne.rodgers@gmail.com",
+  "address": {
+    "line1": "2 Chalmers Avenue",
+    "line2": null,
+    "suburb": "Hampstead",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/ashburtoncadetunit/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-10T20:01:37Z"
+}

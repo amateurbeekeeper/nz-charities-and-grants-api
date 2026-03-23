@@ -1,0 +1,27 @@
+{
+  "id": 51444,
+  "registrationNumber": "CC10313",
+  "name": "Eastbay REAP (Rural Activities Education Programme)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.eastbayreap.org.nz",
+  "email": "ryan@eastbayreap.org.nz",
+  "address": {
+    "line1": "21 Pyne Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429051606299",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T00:40:09Z"
+}

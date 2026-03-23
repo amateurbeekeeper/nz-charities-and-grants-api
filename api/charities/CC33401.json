@@ -1,0 +1,27 @@
+{
+  "id": 40031,
+  "registrationNumber": "CC33401",
+  "name": "Freyberg Community Pre-School Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "freybergcommunitypreschool.co.nz",
+  "email": "freybergcommunitypreschool@xtra.co.nz",
+  "address": {
+    "line1": "Freyberg Community School",
+    "line2": "60 Roberts Road",
+    "suburb": "Te Atatu South",
+    "city": "Auckland",
+    "postcode": "610"
+  },
+  "nzbn": "9429042996521",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T02:41:29Z"
+}

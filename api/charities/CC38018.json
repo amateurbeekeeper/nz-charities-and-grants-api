@@ -1,0 +1,27 @@
+{
+  "id": 42147,
+  "registrationNumber": "CC38018",
+  "name": "Taranaki Volunteer Coastguard Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.coastguard.nz/regions/central-region/units/taranaki",
+  "email": "taranaki@coastguard.nz",
+  "address": {
+    "line1": "47 Ocean View Parade",
+    "line2": "Ocean View Parade",
+    "suburb": "Port Taranaki",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042830085",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/coastguardtaranaki",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:17:32Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43633,
+  "registrationNumber": "CC33777",
+  "name": "Pukekohe Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john.robinson@fireandemergency.nz",
+  "address": {
+    "line1": "Harris Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PukekoheFire/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-15T16:42:27Z"
+}

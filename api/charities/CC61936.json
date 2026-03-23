@@ -1,0 +1,27 @@
+{
+  "id": 75489,
+  "registrationNumber": "CC61936",
+  "name": "The Youth Project NZ Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-10-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.youthprojectnz.org",
+  "email": "ann@youthprojectnz.org",
+  "address": {
+    "line1": "64 Liberty Crescent",
+    "line2": " ",
+    "suburb": "Beachlands",
+    "city": "Auckland",
+    "postcode": "2018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Youth-Project-NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-13T00:05:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51061,
+  "registrationNumber": "CC10126",
+  "name": "Alzheimers Waikato Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2007-04-01T00:00:00Z",
+  "dateDeregistered": "2010-06-03T00:00:00Z",
+  "website": "http://www.alzwaikato.org.nz",
+  "email": "manager@alzwaikato.org.nz",
+  "address": {
+    "line1": "1 Mill Lane",
+    "line2": null,
+    "suburb": "Whitiora",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429042576051",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-01-21T00:22:32Z"
+}

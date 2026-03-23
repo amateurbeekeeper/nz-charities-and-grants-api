@@ -1,0 +1,27 @@
+{
+  "id": 49135,
+  "registrationNumber": "CC28245",
+  "name": "Ravensbourne Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2026-02-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ravensbournevfb@gmail.com",
+  "address": {
+    "line1": "4 Delacy street ",
+    "line2": null,
+    "suburb": "Ravensbourne",
+    "city": "Dunedin",
+    "postcode": "9022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T02:02:41Z"
+}

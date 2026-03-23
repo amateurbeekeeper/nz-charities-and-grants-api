@@ -1,0 +1,27 @@
+{
+  "id": 41507,
+  "registrationNumber": "CC37359",
+  "name": "Te Araroa Southland Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.teararoa.org.nz",
+  "email": "info@teararoa.org.nz",
+  "address": {
+    "line1": "Level 12, 100 Willis Street",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T00:03:24Z"
+}

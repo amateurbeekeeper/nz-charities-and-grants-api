@@ -1,0 +1,27 @@
+{
+  "id": 39449,
+  "registrationNumber": "CC23138",
+  "name": "The Auckland Lutheran Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mountainside.co.nz",
+  "email": "mside.lutheran@gmail.com",
+  "address": {
+    "line1": "1 Harris Road",
+    "line2": "Mount Wellington",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:32:18Z"
+}

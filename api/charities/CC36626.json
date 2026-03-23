@@ -1,0 +1,27 @@
+{
+  "id": 50053,
+  "registrationNumber": "CC36626",
+  "name": "Multiples Auckland Central Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-01-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.multiples-ac.org.nz",
+  "email": "contact@multiples-ac.org.nz",
+  "address": {
+    "line1": "79 Grey Street",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043185054",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/multiplesacnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:50:37Z"
+}

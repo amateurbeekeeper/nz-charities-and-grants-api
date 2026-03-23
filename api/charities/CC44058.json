@@ -1,0 +1,27 @@
+{
+  "id": 49493,
+  "registrationNumber": "CC44058",
+  "name": "Mangere Church of The Nazarene",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "churchofthenazarene.co.nz",
+  "email": "nzdsec@gmail.com",
+  "address": {
+    "line1": "1 Killington Crescent",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429043182022",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T09:28:21Z"
+}

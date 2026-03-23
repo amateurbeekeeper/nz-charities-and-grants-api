@@ -1,0 +1,27 @@
+{
+  "id": 47687,
+  "registrationNumber": "CC29989",
+  "name": "Rotorua Continuing Care Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thecarevillage.co.nz",
+  "email": "vmclennan8@hotmail.com",
+  "address": {
+    "line1": "32 Taui Street",
+    "line2": " ",
+    "suburb": "Ngongotaha",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042816799",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:38:59Z"
+}

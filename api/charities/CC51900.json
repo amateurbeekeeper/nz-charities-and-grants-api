@@ -1,0 +1,27 @@
+{
+  "id": 65657,
+  "registrationNumber": "CC51900",
+  "name": "Mind Over Manner Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mindovermanner.co.nz",
+  "email": "sue@mindovermanner.co.nz",
+  "address": {
+    "line1": "32 Constable Road",
+    "line2": "RD 1",
+    "suburb": "Muriwai",
+    "city": "Waimauku",
+    "postcode": "0881"
+  },
+  "nzbn": "9429041028414",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:19:23Z"
+}

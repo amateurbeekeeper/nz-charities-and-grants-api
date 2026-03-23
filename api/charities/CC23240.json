@@ -1,0 +1,27 @@
+{
+  "id": 40510,
+  "registrationNumber": "CC23240",
+  "name": "Retina New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.retina.org.nz",
+  "email": "president@retina.org.nz",
+  "address": {
+    "line1": "PO Box 7001",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3247"
+  },
+  "nzbn": "9429043099252",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Retina- New-Zealand-Inc-137892080241063/",
+    "twitter": "@RetinaNZ_tweets"
+  },
+  "lastUpdated": "2026-03-16T22:15:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 58163,
+  "registrationNumber": "CC38931",
+  "name": "Southland Group NZ Riding for the Disabled Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rdasouthland.org.nz",
+  "email": "admin@rdasouthland.org.nz",
+  "address": {
+    "line1": "184 Erskine Road",
+    "line2": "RD 9",
+    "suburb": "Otatara",
+    "city": "Invercargill",
+    "postcode": "9879"
+  },
+  "nzbn": "9429042728306",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SouthlandRDA/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T21:27:22Z"
+}

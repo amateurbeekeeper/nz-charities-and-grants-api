@@ -1,0 +1,27 @@
+{
+  "id": 33562,
+  "registrationNumber": "CC49846",
+  "name": "Rotoehu Ecological Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-09-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "kokako.kiwi",
+  "email": "rotoehuecologicaltrust@gmail.com",
+  "address": {
+    "line1": "18 Wharetoroa Drive",
+    "line2": "RD 4",
+    "suburb": "Rotoiti Forest",
+    "city": "Rotorua",
+    "postcode": "3074"
+  },
+  "nzbn": "9429043251896",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/Rotoehu",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T23:43:17Z"
+}

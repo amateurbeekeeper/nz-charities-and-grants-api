@@ -1,0 +1,27 @@
+{
+  "id": 45154,
+  "registrationNumber": "CC29457",
+  "name": "Sumner Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "marcus.thompson@fireandemergency.nz",
+  "address": {
+    "line1": "39 Wakefield Avenue",
+    "line2": " ",
+    "suburb": "Sumner",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SumnerVolunteerFireBrigade/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-05T03:56:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65749,
+  "registrationNumber": "CC52004",
+  "name": "PLAINS PRESBYTERIAN",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.plainspresbyterian.co.nz/",
+  "email": "plainsoffice@gmail.com",
+  "address": {
+    "line1": "139A Bowen Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Rakaia",
+    "postcode": "7710"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/PlainsPresbyterianParish",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-13T00:36:18Z"
+}

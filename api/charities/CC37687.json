@@ -1,0 +1,27 @@
+{
+  "id": 45639,
+  "registrationNumber": "CC37687",
+  "name": "Henderson Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hbc.org.nz",
+  "email": "office@hbc.org.nz",
+  "address": {
+    "line1": "325 Great North Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/Hendersonbaptist",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T00:54:46Z"
+}

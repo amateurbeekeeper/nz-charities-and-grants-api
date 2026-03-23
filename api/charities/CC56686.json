@@ -1,0 +1,27 @@
+{
+  "id": 70324,
+  "registrationNumber": "CC56686",
+  "name": "Cust Toy Library Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cust-toy-library.mibase.co.nz/home/index.php",
+  "email": "custtoylibrary@gmail.com",
+  "address": {
+    "line1": "11 Mill Road",
+    "line2": "Cust 7471",
+    "suburb": " ",
+    "city": "Cust",
+    "postcode": "7471"
+  },
+  "nzbn": "9429042671466",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/custtoylibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-14T22:56:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42857,
+  "registrationNumber": "CC34290",
+  "name": "Mataura Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurer.matauravfb@gmail.com",
+  "address": {
+    "line1": "121 Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mataura",
+    "postcode": "9712"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T18:55:15Z"
+}

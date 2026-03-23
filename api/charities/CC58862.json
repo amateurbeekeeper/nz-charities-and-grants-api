@@ -1,0 +1,27 @@
+{
+  "id": 72468,
+  "registrationNumber": "CC58862",
+  "name": "Musselburgh Rise Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.mbc.ac.nz",
+  "email": "treasurer@mbc.ac.nz",
+  "address": {
+    "line1": "131 Musselburgh Rise",
+    "line2": " ",
+    "suburb": "Musselburgh",
+    "city": "Dunedin",
+    "postcode": "9013"
+  },
+  "nzbn": "9429048957052",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Musselburgh Baptist Church Dunedin",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:33:16Z"
+}

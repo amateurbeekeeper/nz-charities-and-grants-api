@@ -1,0 +1,27 @@
+{
+  "id": 49286,
+  "registrationNumber": "CC36666",
+  "name": "Auckland Tamil Sport Club",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2025-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandtamilsports.org",
+  "email": "tkandramya@gmail.com",
+  "address": {
+    "line1": "5 Volcanic Street",
+    "line2": "Meadowbank",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429043075188",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ATSCSportsClub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T20:28:21Z"
+}

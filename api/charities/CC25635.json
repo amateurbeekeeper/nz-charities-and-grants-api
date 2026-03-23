@@ -1,0 +1,27 @@
+{
+  "id": 56440,
+  "registrationNumber": "CC25635",
+  "name": "Auckland Writers and Readers Festival Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://writersfestival.co.nz",
+  "email": "admin@writersfestival.co.nz",
+  "address": {
+    "line1": "Level 2, The Darby Building",
+    "line2": "8 Darby Street",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043084609",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@akwrfest",
+    "twitter": "@AklWritersFest"
+  },
+  "lastUpdated": "2026-02-17T20:38:02Z"
+}

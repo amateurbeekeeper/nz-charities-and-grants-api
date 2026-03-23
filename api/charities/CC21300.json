@@ -1,0 +1,27 @@
+{
+  "id": 54531,
+  "registrationNumber": "CC21300",
+  "name": "The River Ōpāwaho",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.theriveropawaho.org.nz",
+  "email": "amy@theriveropawaho.org.nz",
+  "address": {
+    "line1": "30 Colombo Street",
+    "line2": " ",
+    "suburb": "Cashmere",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429042606482",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/theriveropawaho",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-15T20:56:08Z"
+}

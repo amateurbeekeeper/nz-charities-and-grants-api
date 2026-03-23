@@ -1,0 +1,27 @@
+{
+  "id": 48591,
+  "registrationNumber": "CC42002",
+  "name": "Warkworth Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-11-20T00:00:00Z",
+  "website": null,
+  "email": "warkworth@playcentre.org.nz",
+  "address": {
+    "line1": "Church Hill",
+    "line2": "Warkworth",
+    "suburb": " ",
+    "city": "Warkworth",
+    "postcode": "0910"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T06:03:06Z"
+}

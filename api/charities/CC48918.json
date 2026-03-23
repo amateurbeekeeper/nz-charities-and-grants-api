@@ -1,0 +1,27 @@
+{
+  "id": 33238,
+  "registrationNumber": "CC48918",
+  "name": "Wellington Young Voices Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-02-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wellingtonyoungvoices.org.nz",
+  "email": "wyvchoir@gmail.com",
+  "address": {
+    "line1": "78 Messines Road",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043316656",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wellingtonyoungvoices",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T07:47:42Z"
+}

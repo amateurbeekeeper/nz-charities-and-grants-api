@@ -1,0 +1,27 @@
+{
+  "id": 60121,
+  "registrationNumber": "CC42223",
+  "name": "St Kentigern College Rowing Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2019-05-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fiona.hurren@saintkentigern.com",
+  "address": {
+    "line1": "130 Pakuranga Road",
+    "line2": " ",
+    "suburb": "Pakuranga",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429043036929",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T18:31:58Z"
+}

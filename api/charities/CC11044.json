@@ -1,0 +1,27 @@
+{
+  "id": 52167,
+  "registrationNumber": "CC11044",
+  "name": "The Puketapu/Fernhill Reserve Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jsterito@xtra.co.nz",
+  "address": {
+    "line1": "PO Box 109012",
+    "line2": "Newmarket",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1149"
+  },
+  "nzbn": "9429043132317",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-24T04:12:18Z"
+}

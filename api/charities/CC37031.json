@@ -1,0 +1,27 @@
+{
+  "id": 46242,
+  "registrationNumber": "CC37031",
+  "name": "Maramarua School Parent and Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.maramarua.school.nz/",
+  "email": "office@maramarua.school.nz",
+  "address": {
+    "line1": "2200 State Highway 2",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Pokeno",
+    "postcode": "2471"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/maramaruaschool",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:32:46Z"
+}

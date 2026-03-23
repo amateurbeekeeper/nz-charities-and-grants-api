@@ -1,0 +1,27 @@
+{
+  "id": 57949,
+  "registrationNumber": "CC35482",
+  "name": "Kaikoura New Life Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kaikouranewlife.com",
+  "email": "kaikouranewlife@gmail.com",
+  "address": {
+    "line1": "203 Beach Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaikoura",
+    "postcode": "7300"
+  },
+  "nzbn": "9429042649083",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Kaikoura-New-Life-Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:17:15Z"
+}

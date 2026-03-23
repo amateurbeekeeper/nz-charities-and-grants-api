@@ -1,0 +1,27 @@
+{
+  "id": 51160,
+  "registrationNumber": "CC10506",
+  "name": "Mid-North Budgeting Services Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hine@mnbs.org.nz",
+  "address": {
+    "line1": "1 Marino Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaikohe",
+    "postcode": "0405"
+  },
+  "nzbn": "9429042770558",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Mid North Budgeting Services",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T18:05:50Z"
+}

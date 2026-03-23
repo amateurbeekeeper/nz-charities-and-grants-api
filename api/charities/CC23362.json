@@ -1,0 +1,27 @@
+{
+  "id": 41256,
+  "registrationNumber": "CC23362",
+  "name": "Musical Theatre Gisborne Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "musicaltheatregisborne.nz",
+  "email": "peter@musicaltheatregisborne.nz",
+  "address": {
+    "line1": "101 Innes Street",
+    "line2": " ",
+    "suburb": "Awapuni",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429043178551",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "m.facebook.com/musicaltheatregisborne/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-29T19:15:01Z"
+}

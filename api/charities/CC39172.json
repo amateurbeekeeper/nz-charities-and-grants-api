@@ -1,0 +1,27 @@
+{
+  "id": 52324,
+  "registrationNumber": "CC39172",
+  "name": "Canterbury Agricultural & Pastoral Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.theshow.co.nz",
+  "email": "gm@theshow.co.nz",
+  "address": {
+    "line1": "Canterbury Agricultural Park",
+    "line2": "102 Curletts Road",
+    "suburb": "Wigram",
+    "city": "Christchurch",
+    "postcode": "8243"
+  },
+  "nzbn": "9429047729513",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:10:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 78369,
+  "registrationNumber": "CC64184",
+  "name": "Whanganui City Mission Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "duncan@slca.co.nz",
+  "address": {
+    "line1": "199 Wicksteed Street",
+    "line2": "Whanganui 4500",
+    "suburb": null,
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T00:15:30Z"
+}

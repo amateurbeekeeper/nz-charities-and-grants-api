@@ -1,0 +1,27 @@
+{
+  "id": 45120,
+  "registrationNumber": "CC36041",
+  "name": "St Mary's PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "janandrews1970@gmail.com",
+  "address": {
+    "line1": "37 Carnot Street",
+    "line2": " ",
+    "suburb": "Glenholme",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T22:26:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75495,
+  "registrationNumber": "CC61939",
+  "name": "Homeschool HQ",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2023-10-30T00:00:00Z",
+  "dateDeregistered": "2024-07-25T00:00:00Z",
+  "website": null,
+  "email": "accounts@homeschoolhq.co.nz",
+  "address": {
+    "line1": "PO Box 165",
+    "line2": null,
+    "suburb": " ",
+    "city": "Orewa",
+    "postcode": "0946"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-08-14T07:24:16Z"
+}

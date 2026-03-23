@@ -1,0 +1,27 @@
+{
+  "id": 66469,
+  "registrationNumber": "CC52731",
+  "name": "Anglican Diocese of Christchurch, Parish of Woodend-Pegasus",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stbarnabaswoodend.org",
+  "email": "stb.finance@peachy.nz",
+  "address": {
+    "line1": "147 Main North Road",
+    "line2": "Woodend 7610",
+    "suburb": " ",
+    "city": "Woodend",
+    "postcode": "7610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "St Barnabas Church",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T21:29:05Z"
+}

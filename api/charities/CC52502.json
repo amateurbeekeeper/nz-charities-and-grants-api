@@ -1,0 +1,27 @@
+{
+  "id": 66247,
+  "registrationNumber": "CC52502",
+  "name": "Karori Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://karoriassociation.nz/",
+  "email": "andreaskews.kra@gmail.com",
+  "address": {
+    "line1": "16 Cornford Street",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043288427",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/karorires/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T07:43:05Z"
+}

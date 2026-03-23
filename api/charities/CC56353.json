@@ -1,0 +1,27 @@
+{
+  "id": 69988,
+  "registrationNumber": "CC56353",
+  "name": "Spirit Army",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.spiritarmy.co.nz",
+  "email": "southlandspiritarmy@gmail.com",
+  "address": {
+    "line1": "73 Lindisfarne Street",
+    "line2": " ",
+    "suburb": "Richmond",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429046968555",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheSpiritArmy/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T22:45:54Z"
+}

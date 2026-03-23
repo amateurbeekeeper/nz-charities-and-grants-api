@@ -1,0 +1,27 @@
+{
+  "id": 65386,
+  "registrationNumber": "CC51617",
+  "name": "Digital Future Aotearoa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.digitalfutureaotearoa.nz",
+  "email": "team@digitalfutureaotearoa.nz",
+  "address": {
+    "line1": "9 Rawhiti Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Snells Beach",
+    "postcode": "0920"
+  },
+  "nzbn": "9429043268764",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T02:38:44Z"
+}

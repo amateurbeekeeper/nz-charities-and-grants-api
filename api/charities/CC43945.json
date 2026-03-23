@@ -1,0 +1,27 @@
+{
+  "id": 50376,
+  "registrationNumber": "CC43945",
+  "name": "Multiple Sclerosis Auckland Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-04-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pmwood.ca@gmail.com",
+  "address": {
+    "line1": "Apartment D8",
+    "line2": "Blair Block",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429043191437",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-29T19:53:57Z"
+}

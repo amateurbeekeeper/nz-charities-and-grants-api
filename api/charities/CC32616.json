@@ -1,0 +1,27 @@
+{
+  "id": 44237,
+  "registrationNumber": "CC32616",
+  "name": "The Limapela Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.limapela.org",
+  "email": "info@limapela.org",
+  "address": {
+    "line1": "29 Brixton Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429043185313",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T04:45:42Z"
+}

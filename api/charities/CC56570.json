@@ -1,0 +1,27 @@
+{
+  "id": 70206,
+  "registrationNumber": "CC56570",
+  "name": "mSupply Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://msupply.foundation",
+  "email": "Craig@msupply.foundation",
+  "address": {
+    "line1": "55 Anzac Avenue",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429047133815",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "https://twitter.com/mSupply"
+  },
+  "lastUpdated": "2026-02-19T21:49:08Z"
+}

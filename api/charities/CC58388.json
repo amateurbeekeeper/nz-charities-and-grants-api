@@ -1,0 +1,27 @@
+{
+  "id": 72011,
+  "registrationNumber": "CC58388",
+  "name": "Auckland University Medical Students’ Association (Incorporated)",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aumsa.org.nz",
+  "email": "treasurer@aumsa.org.nz",
+  "address": {
+    "line1": "85 Park Road",
+    "line2": " ",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042590989",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AUMSA.org/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-07T08:58:44Z"
+}

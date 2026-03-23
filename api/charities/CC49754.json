@@ -1,0 +1,27 @@
+{
+  "id": 35433,
+  "registrationNumber": "CC49754",
+  "name": "Grit Learning Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2013-08-19T00:00:00Z",
+  "dateDeregistered": "2020-03-31T00:00:00Z",
+  "website": "www.gritlearning.com",
+  "email": "sam@samng.com",
+  "address": {
+    "line1": "247 Rutherford Street",
+    "line2": " ",
+    "suburb": "Nelson South",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429030120457",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-03-31T06:00:34Z"
+}

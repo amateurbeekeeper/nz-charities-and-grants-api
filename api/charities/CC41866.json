@@ -1,0 +1,27 @@
+{
+  "id": 63541,
+  "registrationNumber": "CC41866",
+  "name": "Refit - NZ Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-08-23T00:00:00Z",
+  "dateDeregistered": "2011-03-31T00:00:00Z",
+  "website": "http://www.refit.org.nz",
+  "email": "alex@hunter-ralfe.co.nz",
+  "address": {
+    "line1": "C/- CARRAN MILLER",
+    "line2": "38 Halifax Street",
+    "suburb": null,
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:15:36Z"
+}

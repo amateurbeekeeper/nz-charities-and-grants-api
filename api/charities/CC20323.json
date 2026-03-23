@@ -1,0 +1,27 @@
+{
+  "id": 52283,
+  "registrationNumber": "CC20323",
+  "name": "Taranaki Multi Ethnic Council",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-12-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tmec.org.nz",
+  "email": "bdias@vbw.co.nz",
+  "address": {
+    "line1": "3 Corokia Street",
+    "line2": "King Street",
+    "suburb": "Bell Block",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429042844792",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T21:59:35Z"
+}

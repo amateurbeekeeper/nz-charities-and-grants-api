@@ -1,0 +1,27 @@
+{
+  "id": 71051,
+  "registrationNumber": "CC57423",
+  "name": "Pixies Animal Rescue Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-12-04T00:00:00Z",
+  "dateDeregistered": "2022-01-19T00:00:00Z",
+  "website": "http://www.pixies.org.nz/",
+  "email": "admin@pixies.org.nz",
+  "address": {
+    "line1": "PO Box 300457",
+    "line2": " ",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0752"
+  },
+  "nzbn": "9429047993822",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "Pixies animal rescue trust",
+    "twitter": null
+  },
+  "lastUpdated": "2022-09-11T22:27:53Z"
+}

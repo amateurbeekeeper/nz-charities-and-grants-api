@@ -1,0 +1,27 @@
+{
+  "id": 32800,
+  "registrationNumber": "CC48823",
+  "name": "Waikawa Marae Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waikawamarae.com",
+  "email": "dawn.mcconnell@xtra.co.nz",
+  "address": {
+    "line1": "210 Waikawa Road",
+    "line2": " ",
+    "suburb": "Waikawa",
+    "city": "Picton",
+    "postcode": "7220"
+  },
+  "nzbn": "9429042896036",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "@waikawamarae",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T00:33:50Z"
+}

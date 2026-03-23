@@ -1,0 +1,27 @@
+{
+  "id": 68733,
+  "registrationNumber": "CC54355",
+  "name": "Ormiston Community Baptist Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-03-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ormistonbaptist.org.nz",
+  "email": "harmbarkhuizen@gmail.com",
+  "address": {
+    "line1": "275 Ormiston Road",
+    "line2": " ",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": "9429051735746",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ormistoncommunitybaptistchurchnz/?ref=aymt_homepage_panel",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-03T19:45:59Z"
+}

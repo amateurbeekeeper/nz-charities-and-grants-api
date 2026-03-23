@@ -1,0 +1,27 @@
+{
+  "id": 41531,
+  "registrationNumber": "CC23756",
+  "name": "Saint Albans Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sabc.org.nz",
+  "email": "churchmanager@sabc.org.nz",
+  "address": {
+    "line1": "64 McFaddens Road",
+    "line2": " ",
+    "suburb": "Saint Albans",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429047146792",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www://facebook.com/stalbansbaptist",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T03:22:51Z"
+}

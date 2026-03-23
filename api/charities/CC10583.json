@@ -1,0 +1,27 @@
+{
+  "id": 52270,
+  "registrationNumber": "CC10583",
+  "name": "Matamata Historical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.matamatahistoricalsociety.co.nz",
+  "email": "office@matamatahistoricalsociety.co.nz",
+  "address": {
+    "line1": "266A Tower Road",
+    "line2": "Matamata 3471",
+    "suburb": " ",
+    "city": "Matamata",
+    "postcode": "3471"
+  },
+  "nzbn": "9429042768487",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T05:33:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54578,
+  "registrationNumber": "CC20949",
+  "name": "The Lions Club Of Cambridge Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lionsclubs.org.nz",
+  "email": "cambridgetreasurer@lionsclubs.org.nz",
+  "address": {
+    "line1": "26 Vogel Street",
+    "line2": "Cambridge 3434",
+    "suburb": "Forest Lake",
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": "9429042778363",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/lionsclubcambridge",
+    "twitter": "nil"
+  },
+  "lastUpdated": "2025-11-24T18:23:17Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74515,
+  "registrationNumber": "CC60929",
+  "name": "Rekindle Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rekindle.org.nz/",
+  "email": "jessica@teputahi.org.nz",
+  "address": {
+    "line1": "843 Cashmere Road",
+    "line2": " ",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429050986101",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/rekindlenz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T18:08:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40276,
+  "registrationNumber": "CC31220",
+  "name": "Glenroy Lodge Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-11-30T00:00:00Z",
+  "website": "http://www.glenroylodge.co.nz/",
+  "email": "bradley@brl.org.nz",
+  "address": {
+    "line1": "778 Sleeman's Road ",
+    "line2": " ",
+    "suburb": "Glenroy",
+    "city": "Canterbury",
+    "postcode": "5030"
+  },
+  "nzbn": "9429043030118",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T06:04:22Z"
+}

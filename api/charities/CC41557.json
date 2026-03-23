@@ -1,0 +1,27 @@
+{
+  "id": 63666,
+  "registrationNumber": "CC41557",
+  "name": "Starfish Ministries New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.starfish.net.nz",
+  "email": "neilandalison13@gmail.com",
+  "address": {
+    "line1": "140 Daphne Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Awamutu",
+    "postcode": "3800"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Starfish Ministries NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-03T19:20:33Z"
+}

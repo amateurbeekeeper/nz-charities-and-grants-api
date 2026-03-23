@@ -1,0 +1,27 @@
+{
+  "id": 60866,
+  "registrationNumber": "CC28993",
+  "name": "Garden City Big Band Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "haydnrandall@gmail.com",
+  "address": {
+    "line1": "2 Kelly Close",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lincoln",
+    "postcode": "7608"
+  },
+  "nzbn": "9429042625315",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The Garden City Big Band",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T21:05:33Z"
+}

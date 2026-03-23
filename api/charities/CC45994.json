@@ -1,0 +1,27 @@
+{
+  "id": 36027,
+  "registrationNumber": "CC45994",
+  "name": "Christchurch Circus Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-01-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.chchcircus.co.nz",
+  "email": "circustrust@gmail.com",
+  "address": {
+    "line1": "158 Leaver Terrace",
+    "line2": null,
+    "suburb": "North New Brighton",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429042942160",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/CircusCentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-07T19:10:48Z"
+}

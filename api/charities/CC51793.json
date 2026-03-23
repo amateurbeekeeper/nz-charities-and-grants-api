@@ -1,0 +1,27 @@
+{
+  "id": 65553,
+  "registrationNumber": "CC51793",
+  "name": "Blackball Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2021-08-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fireandemergency.nz",
+  "email": "671blackball@gmail.com",
+  "address": {
+    "line1": "11 Hilton Street",
+    "line2": "Blackball 7804",
+    "suburb": " ",
+    "city": "Blackball",
+    "postcode": "7804"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BlackballFireBrigade",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-18T22:15:20Z"
+}

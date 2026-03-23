@@ -1,0 +1,27 @@
+{
+  "id": 54786,
+  "registrationNumber": "CC21541",
+  "name": "The Windy Hill - Rosalie Bay Catchment Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.windyhillsanctuary.nz",
+  "email": "lovebirds@xtra.co.nz",
+  "address": {
+    "line1": "429 Rosalie Bay Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Great Barrier Island",
+    "postcode": "991"
+  },
+  "nzbn": "9429042988656",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "F#windyhillsanctuary",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-30T18:52:56Z"
+}

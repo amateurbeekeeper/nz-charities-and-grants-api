@@ -1,0 +1,27 @@
+{
+  "id": 45066,
+  "registrationNumber": "CC41739",
+  "name": "South Auckland Woodturners Guild Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.sawg.org.nz",
+  "email": "secretary@sawg.org.nz",
+  "address": {
+    "line1": "24 House Avenue",
+    "line2": " ",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429042726654",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/sawgnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:44:11Z"
+}

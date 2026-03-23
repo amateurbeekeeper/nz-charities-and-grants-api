@@ -1,0 +1,27 @@
+{
+  "id": 40122,
+  "registrationNumber": "CC22867",
+  "name": "Ngatiwai O Aotea Kawa Marae Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kawamarae.com",
+  "email": "kawamarae.gbi@gmail.com",
+  "address": {
+    "line1": "215 Kawa Bay Rd",
+    "line2": "Kawa",
+    "suburb": " ",
+    "city": "Great Barrier Island",
+    "postcode": "0991"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "www.facebook.com/kawamarae",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T19:49:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65238,
+  "registrationNumber": "CC51462",
+  "name": "Waipu Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "waipupresby@outlook.com",
+  "address": {
+    "line1": "50 The Centre",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waipu",
+    "postcode": "0545"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waipu Presbyterian Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T18:07:25Z"
+}

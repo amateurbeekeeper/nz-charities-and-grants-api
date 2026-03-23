@@ -1,0 +1,27 @@
+{
+  "id": 40366,
+  "registrationNumber": "CC40491",
+  "name": "New Zealand Cultural Heritage Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "keith@gsm.co.nz",
+  "address": {
+    "line1": "New Zealand Cultural Heritage Trust",
+    "line2": "RD 21",
+    "suburb": "195 Highway 79",
+    "city": "Geraldine",
+    "postcode": "7921"
+  },
+  "nzbn": "9429043020409",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-15T21:40:08Z"
+}

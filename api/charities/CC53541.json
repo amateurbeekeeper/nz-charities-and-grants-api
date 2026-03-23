@@ -1,0 +1,27 @@
+{
+  "id": 67245,
+  "registrationNumber": "CC53541",
+  "name": "Putaruru Community Garden Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-07-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rpeters@outlook.co.nz",
+  "address": {
+    "line1": "21 Grey Street",
+    "line2": "Putaruru 3411",
+    "suburb": " ",
+    "city": "Putaruru",
+    "postcode": "3411"
+  },
+  "nzbn": "9429043310739",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/putarurucommunitygarden/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-18T23:52:19Z"
+}

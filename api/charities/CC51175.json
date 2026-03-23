@@ -1,0 +1,27 @@
+{
+  "id": 34725,
+  "registrationNumber": "CC51175",
+  "name": "Got Drive Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-10-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gotdrivetrust.co.nz",
+  "email": "admin@gotdrivetrust.co.nz",
+  "address": {
+    "line1": "117 Murdoch Road West",
+    "line2": " ",
+    "suburb": "Raureka",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429043282654",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/gotdrivetrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T18:22:18Z"
+}

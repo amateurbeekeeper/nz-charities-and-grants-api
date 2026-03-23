@@ -1,0 +1,27 @@
+{
+  "id": 36299,
+  "registrationNumber": "CC48039",
+  "name": "Diamond Harbour School PTA",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2012-05-08T00:00:00Z",
+  "dateDeregistered": "2018-05-30T00:00:00Z",
+  "website": "http://www.diamondharbour.school.nz",
+  "email": "pta@diamondharbour.school.nz",
+  "address": {
+    "line1": "13 Hunters Road",
+    "line2": "RD 1",
+    "suburb": null,
+    "city": "Diamond Harbour",
+    "postcode": "8971"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-06-25T20:05:14Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66214,
+  "registrationNumber": "CC52483",
+  "name": "Porirua Pacific Island Church of Christ the King",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-08-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "arthur.lotoaso@gmail.com",
+  "address": {
+    "line1": "205A Champion Street",
+    "line2": " ",
+    "suburb": "Cannons Creek",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "0000000000000",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T19:49:05Z"
+}

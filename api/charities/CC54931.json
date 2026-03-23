@@ -1,0 +1,27 @@
+{
+  "id": 68595,
+  "registrationNumber": "CC54931",
+  "name": "Whangarei Parents Centre Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-08-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://parentscentre.org.nz",
+  "email": "whangareiparentscentre@outlook.co.nz",
+  "address": {
+    "line1": "13A Te Mai Road",
+    "line2": " ",
+    "suburb": "Woodhill",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429042920472",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Whangarei Parents Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T00:34:12Z"
+}

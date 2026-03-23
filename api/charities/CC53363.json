@@ -1,0 +1,27 @@
+{
+  "id": 67081,
+  "registrationNumber": "CC53363",
+  "name": "PT in the Park Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2016-04-18T00:00:00Z",
+  "dateDeregistered": "2025-01-24T00:00:00Z",
+  "website": "https://ptinthepark.nz/",
+  "email": "info@ptinthepark.nz",
+  "address": {
+    "line1": "62 Vernon Terrace",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429043298563",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/PTintheParkNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-01-24T06:07:54Z"
+}

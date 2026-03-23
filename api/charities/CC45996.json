@@ -1,0 +1,27 @@
+{
+  "id": 38252,
+  "registrationNumber": "CC45996",
+  "name": "Connect Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-01-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.connectcommunity.org.nz",
+  "email": "wheke@connectcommunity.org.nz",
+  "address": {
+    "line1": "208 Market Street South",
+    "line2": "Hastings 4122",
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429043219469",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T22:24:42Z"
+}

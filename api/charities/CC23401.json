@@ -1,0 +1,27 @@
+{
+  "id": 54320,
+  "registrationNumber": "CC23401",
+  "name": "The Bay of Islands Singers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.theboisingers.org.nz",
+  "email": "margaret.haines@outlook.co.nz",
+  "address": {
+    "line1": "43 Cobham Road",
+    "line2": "Kerikeri 0230",
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "0230"
+  },
+  "nzbn": "9429042881537",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T06:31:35Z"
+}

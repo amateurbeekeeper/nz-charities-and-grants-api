@@ -1,0 +1,27 @@
+{
+  "id": 37869,
+  "registrationNumber": "CC48662",
+  "name": "Ruapotaka Marae Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-01-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "georgie@ruapotakamarae.co.nz",
+  "address": {
+    "line1": "106 Line Road",
+    "line2": " ",
+    "suburb": "Glen Innes",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429053491749",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ruapotaka Marae",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T22:10:40Z"
+}

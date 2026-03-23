@@ -1,0 +1,27 @@
+{
+  "id": 40262,
+  "registrationNumber": "CC29757",
+  "name": "Bishop Julius Hall",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.arcadyhall.org.nz",
+  "email": "assistantprincipal@arcadyhall.org.nz",
+  "address": {
+    "line1": "90 Waimairi Road",
+    "line2": " ",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042594864",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:47:18Z"
+}

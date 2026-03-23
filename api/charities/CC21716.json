@@ -1,0 +1,27 @@
+{
+  "id": 55870,
+  "registrationNumber": "CC21716",
+  "name": "The General Church Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ageorge@trustmanagement.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "105 Carlton Gore Road",
+    "suburb": "Newmarket",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043009077",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T02:59:33Z"
+}

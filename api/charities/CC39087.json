@@ -1,0 +1,27 @@
+{
+  "id": 43236,
+  "registrationNumber": "CC39087",
+  "name": "The Manawatu Kilwinning Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://manawatukilwinning.org/charity",
+  "email": "charity@manawatukilwinning.org",
+  "address": {
+    "line1": "4 Majestic Way",
+    "line2": " ",
+    "suburb": "Kelvin Grove",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T09:57:52Z"
+}

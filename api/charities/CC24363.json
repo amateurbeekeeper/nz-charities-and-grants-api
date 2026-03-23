@@ -1,0 +1,27 @@
+{
+  "id": 55463,
+  "registrationNumber": "CC24363",
+  "name": "King's School, Auckland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kings.school.nz",
+  "email": "bursar@kings.school.nz",
+  "address": {
+    "line1": "258 Remuera Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429042945390",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-15T20:09:30Z"
+}

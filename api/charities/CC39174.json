@@ -1,0 +1,27 @@
+{
+  "id": 63844,
+  "registrationNumber": "CC39174",
+  "name": "Gut Cancer Foundation Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gutcancer.org.nz",
+  "email": "liamw@gutcancer.org.nz",
+  "address": {
+    "line1": "Level 17",
+    "line2": "191 Queen Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429032456608",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/gutcancerfoundation/",
+    "twitter": "https://twitter.com/gutcancerfoundation"
+  },
+  "lastUpdated": "2026-01-19T23:43:15Z"
+}

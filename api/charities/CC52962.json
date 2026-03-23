@@ -1,0 +1,27 @@
+{
+  "id": 66692,
+  "registrationNumber": "CC52962",
+  "name": "Angel Casts Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.angelcasts.co.nz",
+  "email": "jen@angelcasts.co.nz",
+  "address": {
+    "line1": "28 Carey Street",
+    "line2": " ",
+    "suburb": "Maeroa",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429043306114",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/angelcastsnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T05:30:32Z"
+}

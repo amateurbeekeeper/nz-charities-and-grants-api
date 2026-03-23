@@ -1,0 +1,27 @@
+{
+  "id": 75608,
+  "registrationNumber": "CC62057",
+  "name": "Marton Boxing",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kellywidd@gmail.com",
+  "address": {
+    "line1": "Sir James Wilson Memorial Park",
+    "line2": "Marumaru Street",
+    "suburb": " ",
+    "city": "Marton",
+    "postcode": "4710"
+  },
+  "nzbn": "9429052809712",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100075978737375",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T02:58:08Z"
+}

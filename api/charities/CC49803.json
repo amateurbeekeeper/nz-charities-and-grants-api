@@ -1,0 +1,27 @@
+{
+  "id": 35215,
+  "registrationNumber": "CC49803",
+  "name": "Te Ora Hou Wellington East Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-10-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tohwe.org.nz",
+  "email": "teorahou@gmail.com",
+  "address": {
+    "line1": "27 Chelsea Street",
+    "line2": " ",
+    "suburb": "Miramar",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429043241156",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://facebook.com/Tohwellington",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:27:04Z"
+}

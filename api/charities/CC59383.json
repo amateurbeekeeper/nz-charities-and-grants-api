@@ -1,0 +1,27 @@
+{
+  "id": 72989,
+  "registrationNumber": "CC59383",
+  "name": "The Twinkle Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thetwinklefoundation.co.nz/",
+  "email": "thetwinklefoundation@gmail.com",
+  "address": {
+    "line1": "271B Wallaceville Road",
+    "line2": "RD 1",
+    "suburb": "Wallaceville",
+    "city": "Upper Hutt",
+    "postcode": "5371"
+  },
+  "nzbn": "9429049529951",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:20:23Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35004,
+  "registrationNumber": "CC49197",
+  "name": "Henderson High School Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2024-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "davidm@cesl.co.nz",
+  "address": {
+    "line1": "21 Henderson Valley Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "612"
+  },
+  "nzbn": "9429043244058",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T17:31:05Z"
+}

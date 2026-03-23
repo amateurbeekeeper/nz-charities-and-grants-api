@@ -1,0 +1,27 @@
+{
+  "id": 46717,
+  "registrationNumber": "CC33814",
+  "name": "Invercargill Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "aaron_s_mckenzie@bnz.co.nz",
+  "address": {
+    "line1": "175 Duke Street",
+    "line2": " ",
+    "suburb": "Gladstone",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T23:58:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70383,
+  "registrationNumber": "CC56747",
+  "name": "Brave Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bravenz.com/",
+  "email": "jessicatyson08@gmail.com",
+  "address": {
+    "line1": "51 Huri Street",
+    "line2": " ",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BraveNZ",
+    "twitter": "https://twitter.com/brave_nz"
+  },
+  "lastUpdated": "2025-11-23T04:44:37Z"
+}

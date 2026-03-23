@@ -1,0 +1,27 @@
+{
+  "id": 49139,
+  "registrationNumber": "CC42033",
+  "name": "Tauranga Photographic Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-08-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://taurangaphoto.nz",
+  "email": "secretary.tps2@gmail.com",
+  "address": {
+    "line1": "36 Cupples Street",
+    "line2": " ",
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": "9429042828648",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T00:33:36Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56119,
+  "registrationNumber": "CC25022",
+  "name": "Polio NZ Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-05-28T00:00:00Z",
+  "dateDeregistered": "2023-05-09T00:00:00Z",
+  "website": "http://www.polio.org.nz",
+  "email": "secretary@polio.org.nz",
+  "address": {
+    "line1": "1395 Carrington Road",
+    "line2": "RD 1",
+    "suburb": "Hurworth",
+    "city": "New Plymouth",
+    "postcode": "4371"
+  },
+  "nzbn": "9429042786696",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "Polio New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2023-05-23T07:01:51Z"
+}

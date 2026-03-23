@@ -1,0 +1,27 @@
+{
+  "id": 50443,
+  "registrationNumber": "CC44113",
+  "name": "Art Show North Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-05-03T00:00:00Z",
+  "dateDeregistered": "2014-11-27T00:00:00Z",
+  "website": "http://www.artshownorth.co.nz",
+  "email": "artshownorth@gmail.com",
+  "address": {
+    "line1": "150B Koropewa Road",
+    "line2": "RD 2",
+    "suburb": null,
+    "city": "Waipapa",
+    "postcode": "295"
+  },
+  "nzbn": "9429043210299",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:29:27Z"
+}

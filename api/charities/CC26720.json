@@ -1,0 +1,27 @@
+{
+  "id": 42579,
+  "registrationNumber": "CC26720",
+  "name": "Creation Ministries International (NZ)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://creation.com",
+  "email": "a.mulcahy@creation.com",
+  "address": {
+    "line1": "51 Galway Street",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042980797",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/creationministries/",
+    "twitter": "https://twitter.com/creationnews"
+  },
+  "lastUpdated": "2025-12-18T00:14:39Z"
+}

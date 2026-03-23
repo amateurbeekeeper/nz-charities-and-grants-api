@@ -1,0 +1,27 @@
+{
+  "id": 50829,
+  "registrationNumber": "CC41961",
+  "name": "Haunui Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-08-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.haunui.org.nz",
+  "email": "bernardd@glenmore.kiwi.nz",
+  "address": {
+    "line1": "C/- Anthony Harper",
+    "line2": "PO Box 2646",
+    "suburb": " ",
+    "city": "Auckland 1140",
+    "postcode": "8141"
+  },
+  "nzbn": "9429042713944",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:32:12Z"
+}

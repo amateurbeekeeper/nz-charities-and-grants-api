@@ -1,0 +1,27 @@
+{
+  "id": 55302,
+  "registrationNumber": "CC24008",
+  "name": "Dominican Fathers (Auckland) Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dominicans.org.nz",
+  "email": "admin@domincanfriars.nz",
+  "address": {
+    "line1": "14 Vermont Street",
+    "line2": " ",
+    "suburb": "Ponsonby",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429042667155",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T00:13:42Z"
+}

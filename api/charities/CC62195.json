@@ -1,0 +1,27 @@
+{
+  "id": 75743,
+  "registrationNumber": "CC62195",
+  "name": "Co- Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-11-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.co-aotearoa.org/",
+  "email": "michelle@co-aotearoa.org",
+  "address": {
+    "line1": "41 Hepburn Street",
+    "line2": " ",
+    "suburb": "Freemans Bay",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T19:23:32Z"
+}

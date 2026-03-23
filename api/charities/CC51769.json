@@ -1,0 +1,27 @@
+{
+  "id": 65534,
+  "registrationNumber": "CC51769",
+  "name": "Brainstorm New Zealand",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-05-21T00:00:00Z",
+  "dateDeregistered": "2015-08-15T00:00:00Z",
+  "website": "www.facebook.com/BRAINZSTORM",
+  "email": "kcho621@aucklanduni.ac.nz",
+  "address": {
+    "line1": "PO Box 7269",
+    "line2": "Wellesley Street",
+    "suburb": null,
+    "city": "Auckland",
+    "postcode": "1141"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T04:20:38Z"
+}

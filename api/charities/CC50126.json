@@ -1,0 +1,27 @@
+{
+  "id": 33769,
+  "registrationNumber": "CC50126",
+  "name": "Diversity Counselling New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-12-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.diversitycounselling.org.nz/",
+  "email": "contact@dc.org.nz",
+  "address": {
+    "line1": "Vickery house, Level 1, 113",
+    "line2": " Alexandra street",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043252725",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DiversityCounsellingNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T20:28:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37604,
+  "registrationNumber": "CC47993",
+  "name": "International Student Rescue Mission",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.learn2earn-app.com",
+  "email": "zhianeli19@gmail.com",
+  "address": {
+    "line1": "68 Summer Street",
+    "line2": "Browns Bay",
+    "suburb": "Ponsonby",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429043214617",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T22:36:51Z"
+}

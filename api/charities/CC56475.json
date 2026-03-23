@@ -1,0 +1,27 @@
+{
+  "id": 70113,
+  "registrationNumber": "CC56475",
+  "name": "Whanganui Māori Reservation Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-11-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whanganuibay.com",
+  "email": "whanganuibay.adm@gmail.com",
+  "address": {
+    "line1": "5155 Western Bay Road",
+    "line2": "State Highway 32",
+    "suburb": " ",
+    "city": "Waihaha",
+    "postcode": "3381"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/824396062065887/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-13T15:50:11Z"
+}

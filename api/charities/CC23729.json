@@ -1,0 +1,27 @@
+{
+  "id": 53894,
+  "registrationNumber": "CC23729",
+  "name": "The Lonely Miaow Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lonelymiaow.co.nz",
+  "email": "chair@lonelymiaow.co.nz",
+  "address": {
+    "line1": "13 Red Beach Road",
+    "line2": "Red Beach 0932",
+    "suburb": " ",
+    "city": "Red Beach",
+    "postcode": "0932"
+  },
+  "nzbn": "9429042780441",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/LonelyMiaow",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-13T00:36:53Z"
+}

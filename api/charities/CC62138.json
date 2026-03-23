@@ -1,0 +1,27 @@
+{
+  "id": 75683,
+  "registrationNumber": "CC62138",
+  "name": "HAWKE'S BAY INDIAN CULTURAL CENTRE TE POKAPŪ AHUREA MAI I INIA KI AOTEAROA",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hawkesbayicc.nz/",
+  "email": "accounts@hawkesbayicc.nz",
+  "address": {
+    "line1": "17 Barcroft Street",
+    "line2": " ",
+    "suburb": "Frimley",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429050482498",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hawkesbayiccnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-16T07:16:12Z"
+}

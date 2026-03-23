@@ -1,0 +1,27 @@
+{
+  "id": 61781,
+  "registrationNumber": "CC45101",
+  "name": "Centre for Advanced Engineering",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2013-09-12T00:00:00Z",
+  "website": "http://www.canterbury.ac.nz",
+  "email": null,
+  "address": {
+    "line1": "University Of Canterbury",
+    "line2": "Private Bag 4800, Ilam",
+    "suburb": null,
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": "9429042609568",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2014-04-17T05:36:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66384,
+  "registrationNumber": "CC52659",
+  "name": "Gabby's Starlit HOPE",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-11-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://gabbysstarlithope.co.nz",
+  "email": "gabbysstarlithope@gmail.com",
+  "address": {
+    "line1": "43 Record Street",
+    "line2": " ",
+    "suburb": "Fitzroy",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429043314980",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "gabbysstarlithope",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T20:01:12Z"
+}

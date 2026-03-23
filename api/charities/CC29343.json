@@ -1,0 +1,27 @@
+{
+  "id": 57137,
+  "registrationNumber": "CC29343",
+  "name": "Zeal Youth Trust Aotearoa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.zeal.nz",
+  "email": "andre.afamasaga@gmail.com",
+  "address": {
+    "line1": "20 Alderman Drive",
+    "line2": "Henderson",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429043168620",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T02:04:51Z"
+}

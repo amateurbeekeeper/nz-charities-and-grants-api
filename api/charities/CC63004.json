@@ -1,0 +1,27 @@
+{
+  "id": 76975,
+  "registrationNumber": "CC63004",
+  "name": "The Mission House Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-12-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david@rtca.co.nz",
+  "address": {
+    "line1": "412 Kamo Road",
+    "line2": "RD 9",
+    "suburb": "Te Kamo",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T20:13:18Z"
+}

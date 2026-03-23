@@ -1,0 +1,27 @@
+{
+  "id": 61048,
+  "registrationNumber": "CC28701",
+  "name": "Lifeline Waikato Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2014-06-03T00:00:00Z",
+  "website": "http://www.lifelinewaikato.org.nz",
+  "email": "lifelinewaikato@lifeline.co.nz",
+  "address": {
+    "line1": "113 Alexandra Street",
+    "line2": null,
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042656647",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:46:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64220,
+  "registrationNumber": "CC39371",
+  "name": "The Beacon Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pamelasims@hotmail.com",
+  "address": {
+    "line1": "5 Hattersley Grove",
+    "line2": null,
+    "suburb": "Churton Park",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429043024346",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T18:50:22Z"
+}

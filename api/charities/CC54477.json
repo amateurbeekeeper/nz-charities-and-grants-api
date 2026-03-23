@@ -1,0 +1,27 @@
+{
+  "id": 68151,
+  "registrationNumber": "CC54477",
+  "name": "Reconnecting Northland",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.reconnectingnorthland.org.nz",
+  "email": "liz@reconnectingnorthland.org.nz",
+  "address": {
+    "line1": "151 Bank Street",
+    "line2": " ",
+    "suburb": "Regent",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429046057518",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/reconnectingnorthland/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T18:02:21Z"
+}

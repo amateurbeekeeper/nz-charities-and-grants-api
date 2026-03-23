@@ -1,0 +1,27 @@
+{
+  "id": 45031,
+  "registrationNumber": "CC42054",
+  "name": "Fordell Pre-School Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.fordellpreschool.co.nz",
+  "email": "fordellpreschool@xtra.co.nz",
+  "address": {
+    "line1": "19 Budge Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Fordell",
+    "postcode": "4572"
+  },
+  "nzbn": "9429042624998",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/fordellpreschool",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T18:03:24Z"
+}

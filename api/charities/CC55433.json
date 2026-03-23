@@ -1,0 +1,27 @@
+{
+  "id": 69093,
+  "registrationNumber": "CC55433",
+  "name": "Hunterville Home and School Association",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hunterville.school.nz/our-people/home-and-school",
+  "email": "hvillehomeandschool@gmail.com",
+  "address": {
+    "line1": "33 Bruce Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hunterville",
+    "postcode": "4730"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100072149070027",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T21:07:04Z"
+}

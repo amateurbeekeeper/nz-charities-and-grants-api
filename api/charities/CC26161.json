@@ -1,0 +1,27 @@
+{
+  "id": 40371,
+  "registrationNumber": "CC26161",
+  "name": "The Methodist Church of New Zealand Te Haahi Weteriana O Aotearoa Rotorua Methodist Parish - Parish (3170)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.methodist.org.nz",
+  "email": "rotoruaparish@methodist.org.nz",
+  "address": {
+    "line1": "25 Latimer Square",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Rotorua Bainbridge Methodist",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T18:07:17Z"
+}

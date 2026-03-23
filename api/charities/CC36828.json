@@ -1,0 +1,27 @@
+{
+  "id": 62484,
+  "registrationNumber": "CC36828",
+  "name": "Vedic Trust of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-01-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.vediccentre.org",
+  "email": "sen@pitstop.co.nz",
+  "address": {
+    "line1": "32 Glasgow Avenue",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429043130320",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Vedic Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T07:58:20Z"
+}

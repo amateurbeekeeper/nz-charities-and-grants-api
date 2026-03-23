@@ -1,0 +1,27 @@
+{
+  "id": 65765,
+  "registrationNumber": "CC52016",
+  "name": "Tongan Wesleyan Methodist Church of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2025-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Lakai.tonganwesleyan@methodistchurch.co.nz",
+  "address": {
+    "line1": "116 Heaven Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Wellsford",
+    "postcode": "0973"
+  },
+  "nzbn": "9429042998952",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T04:22:04Z"
+}

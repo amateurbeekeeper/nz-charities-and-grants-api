@@ -1,0 +1,27 @@
+{
+  "id": 71680,
+  "registrationNumber": "CC58058",
+  "name": "Ngā Hua o Ngāti Pūkenga Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngatipukenga.co.nz/index",
+  "email": "generalmanager@ngatipukenga.com",
+  "address": {
+    "line1": "612 Welcome Bay Road",
+    "line2": "RD 5",
+    "suburb": "Welcome Bay",
+    "city": "Tauranga",
+    "postcode": "3175"
+  },
+  "nzbn": "9429048361811",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TeTawharauoNgatiPukenga",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T02:08:04Z"
+}

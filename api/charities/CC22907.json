@@ -1,0 +1,27 @@
+{
+  "id": 56563,
+  "registrationNumber": "CC22907",
+  "name": "Puke Ariki Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pukeariki.com",
+  "email": "fiona.cayzer@npdc.govt.nz",
+  "address": {
+    "line1": "1 Ariki Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T23:20:07Z"
+}

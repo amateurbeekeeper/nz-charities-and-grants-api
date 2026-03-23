@@ -1,0 +1,27 @@
+{
+  "id": 38122,
+  "registrationNumber": "CC45997",
+  "name": "Bike Manawatu Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-01-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bikemanawatu.co.nz",
+  "email": "secretary@bikemanawatu.co.nz",
+  "address": {
+    "line1": "61 Pascal Street",
+    "line2": "Palmerston North 4410",
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429043208920",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/BikeManawatu",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T21:49:29Z"
+}

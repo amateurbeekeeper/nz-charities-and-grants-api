@@ -1,0 +1,27 @@
+{
+  "id": 74203,
+  "registrationNumber": "CC60623",
+  "name": "Shaolin Temple of New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-10-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kuan.yap@charteredaccountant.co.nz",
+  "address": {
+    "line1": "59 Mangahoe Road",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429051953171",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T19:30:07Z"
+}

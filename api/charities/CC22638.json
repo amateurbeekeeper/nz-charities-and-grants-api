@@ -1,0 +1,27 @@
+{
+  "id": 54872,
+  "registrationNumber": "CC22638",
+  "name": "Maternity Services Consumer Council Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.maternity.org.nz",
+  "email": "mscc@maternity.org.nz",
+  "address": {
+    "line1": "1132 Huia Road",
+    "line2": " ",
+    "suburb": "Huia",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429042585640",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Maternity-Services-Consumer-Council-146615722049495/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-06T19:28:50Z"
+}

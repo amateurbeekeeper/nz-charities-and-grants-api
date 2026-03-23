@@ -1,0 +1,27 @@
+{
+  "id": 76169,
+  "registrationNumber": "CC62581",
+  "name": "The Dunedin Museum of Natural Mystery ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.royaldunedinmuseum.com",
+  "email": "mahalski@outlook.com",
+  "address": {
+    "line1": "61 Royal Terrace",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/naturalmysterymuseum/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-16T05:43:07Z"
+}

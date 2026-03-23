@@ -1,0 +1,27 @@
+{
+  "id": 61560,
+  "registrationNumber": "CC39533",
+  "name": "Cambridge Photography Club",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cambridgephotographyclub.nz",
+  "email": "brucehan@xtra.co.nz",
+  "address": {
+    "line1": "8 Ihimaera Terrace",
+    "line2": " ",
+    "suburb": "Leamington",
+    "city": "Cambridge",
+    "postcode": "3432"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Cambridge Photography Club, New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T01:29:58Z"
+}

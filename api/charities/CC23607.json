@@ -1,0 +1,27 @@
+{
+  "id": 40436,
+  "registrationNumber": "CC23607",
+  "name": "Auckland Philharmonia Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://aucklandphil.nz/",
+  "email": "heatherw@aucklandphil.nz",
+  "address": {
+    "line1": "301-303 Queen Street",
+    "line2": " Level 1",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042586333",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T22:34:48Z"
+}

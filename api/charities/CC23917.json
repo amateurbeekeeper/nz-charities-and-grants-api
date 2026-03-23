@@ -1,0 +1,27 @@
+{
+  "id": 41057,
+  "registrationNumber": "CC23917",
+  "name": "Taranaki Medical Foundation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.taranakimedicalfoundation.co.nz",
+  "email": "info@taranakimedicalfoundation.co.nz",
+  "address": {
+    "line1": "274 Korito Road",
+    "line2": "RD 1",
+    "suburb": "Korito",
+    "city": "New Plymouth",
+    "postcode": "4371"
+  },
+  "nzbn": "9429042844723",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:14:19Z"
+}

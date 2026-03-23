@@ -1,0 +1,27 @@
+{
+  "id": 49044,
+  "registrationNumber": "CC25980",
+  "name": "Central Otago Friendship Network",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "friendshipnetworknz@gmail.com",
+  "address": {
+    "line1": "14 Centennial Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Alexandra",
+    "postcode": "9320"
+  },
+  "nzbn": "9429042608820",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://m.facebook.com/The-Central-Otago-Friendship-Network-100977712509439/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T02:35:49Z"
+}

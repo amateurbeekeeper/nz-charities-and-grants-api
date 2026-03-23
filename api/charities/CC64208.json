@@ -1,0 +1,27 @@
+{
+  "id": 78395,
+  "registrationNumber": "CC64208",
+  "name": "UNIMA Aotearoa New Zealand Inc",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "unima.aotearoanz@gmail.com",
+  "address": {
+    "line1": "393a Marychurch Road",
+    "line2": null,
+    "suburb": "Matangi",
+    "city": "Hamilton",
+    "postcode": "3284"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T20:27:12Z"
+}

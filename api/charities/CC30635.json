@@ -1,0 +1,27 @@
+{
+  "id": 48774,
+  "registrationNumber": "CC30635",
+  "name": "Prostate Cancer Foundation of New Zealand Te Kāhui Mate Pukupuku Repe Tātea O Aotearoa Manatōpū",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.prostate.org.nz",
+  "email": "secretary@prostate.org.nz",
+  "address": {
+    "line1": "42 Tawa Drive",
+    "line2": "Albany",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043008247",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ProstateCancerFoundationofNewZealand",
+    "twitter": "https://twitter.com/prostatenz"
+  },
+  "lastUpdated": "2025-11-05T01:34:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65896,
+  "registrationNumber": "CC52156",
+  "name": "St Martins Presbyterian Church Papatoetoe",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jan@hfdk.co.nz",
+  "address": {
+    "line1": "22 Wyllie Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-15T08:27:51Z"
+}

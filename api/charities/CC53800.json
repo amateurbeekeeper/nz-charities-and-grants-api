@@ -1,0 +1,27 @@
+{
+  "id": 67959,
+  "registrationNumber": "CC53800",
+  "name": "Te Ara Moana Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tearamoana.co.nz/",
+  "email": "Deborahstewart@actrix.co.nz",
+  "address": {
+    "line1": "C% Titahi Bay Boating Club",
+    "line2": "Onepoto Rd",
+    "suburb": "Titahi Bay",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429043272228",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tearamoananz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-18T21:25:37Z"
+}

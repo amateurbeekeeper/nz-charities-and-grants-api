@@ -1,0 +1,27 @@
+{
+  "id": 74132,
+  "registrationNumber": "CC60536",
+  "name": "Barrytown Settlers Hall Society Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.barrytownsettlershall.co.nz",
+  "email": "dumbletonius@gmail.com",
+  "address": {
+    "line1": "3118 Coast Road",
+    "line2": "RD 1",
+    "suburb": "Barrytown",
+    "city": "Runanga",
+    "postcode": "7873"
+  },
+  "nzbn": "9429042593607",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Barrytown Settlers Hall",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:27:03Z"
+}

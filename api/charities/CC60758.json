@@ -1,0 +1,27 @@
+{
+  "id": 74344,
+  "registrationNumber": "CC60758",
+  "name": "AOTEAROA NZ BREAST CANCER COMMUNITY TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://breastcancercommunity.nz/",
+  "email": "lily@breastcancercommunity.nz",
+  "address": {
+    "line1": "1 Maple Lane",
+    "line2": null,
+    "suburb": " ",
+    "city": "Martinborough",
+    "postcode": "5711"
+  },
+  "nzbn": "9429050853755",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/anzbcc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-12T01:47:44Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 45810,
+  "registrationNumber": "CC40072",
+  "name": "Normanby Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-07T00:00:00Z",
+  "website": "http://www.playcentre.org.nz",
+  "email": "normanby@playcentre.org.nz",
+  "address": {
+    "line1": "11 Chute Street",
+    "line2": " ",
+    "suburb": "Normanby",
+    "city": "Hawera",
+    "postcode": "4614"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/share/ynQ2sboh3d7QCmnj/?mibextid=qi2Omg",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T07:21:32Z"
+}

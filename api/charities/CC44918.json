@@ -1,0 +1,27 @@
+{
+  "id": 35784,
+  "registrationNumber": "CC44918",
+  "name": "Hospice Mid Northland Holdings Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hospicemn.org.nz",
+  "email": "admin@hospicemn.org.nz",
+  "address": {
+    "line1": "464 Kerikeri Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "0293"
+  },
+  "nzbn": "9429031476348",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T00:20:24Z"
+}

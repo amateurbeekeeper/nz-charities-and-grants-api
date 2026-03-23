@@ -1,0 +1,27 @@
+{
+  "id": 57207,
+  "registrationNumber": "CC29224",
+  "name": "Avondale Union Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mandy.siitia@gmail.com",
+  "address": {
+    "line1": "PO Box 19455",
+    "line2": "Avondale",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1746"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T18:03:12Z"
+}

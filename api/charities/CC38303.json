@@ -1,0 +1,27 @@
+{
+  "id": 61392,
+  "registrationNumber": "CC38303",
+  "name": "Bridgeway Baptist Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-03-08T00:00:00Z",
+  "dateDeregistered": "2015-02-25T00:00:00Z",
+  "website": "www.bridgewaynz.org",
+  "email": "dwalker356@aol.com",
+  "address": {
+    "line1": "58 Waipuna Road",
+    "line2": null,
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429043067268",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T22:29:14Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 47214,
+  "registrationNumber": "CC44511",
+  "name": "Waverley Bowling Club Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "waverleybowls@gmail.com",
+  "address": {
+    "line1": "225 King Street",
+    "line2": "Windsor",
+    "suburb": "Waverley",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042911449",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T08:02:43Z"
+}

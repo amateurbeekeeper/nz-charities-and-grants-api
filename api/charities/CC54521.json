@@ -1,0 +1,27 @@
+{
+  "id": 68198,
+  "registrationNumber": "CC54521",
+  "name": "Rototuna Indoor Recreation Centre Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thepeak.co.nz",
+  "email": "manager@thepeak.co.nz",
+  "address": {
+    "line1": "60 Kimbrae Drive",
+    "line2": "Rototuna",
+    "suburb": "Rototuna North",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429045855610",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/thepeakrototuna/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T23:30:10Z"
+}

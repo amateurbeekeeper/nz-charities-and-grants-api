@@ -1,0 +1,27 @@
+{
+  "id": 50511,
+  "registrationNumber": "CC44261",
+  "name": "Red Leap Theatre Charitable Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.redleaptheatre.co.nz",
+  "email": "zoe@redleaptheatre.co.nz",
+  "address": {
+    "line1": "2 Mt Lebanon Lane",
+    "line2": "426 Great North Road",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429043207015",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/redleaptheatre ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T21:43:23Z"
+}

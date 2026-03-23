@@ -1,0 +1,27 @@
+{
+  "id": 35344,
+  "registrationNumber": "CC49669",
+  "name": "Living Church of God Ltd",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2013-07-24T00:00:00Z",
+  "dateDeregistered": "2025-06-30T00:00:00Z",
+  "website": "https://www.lcg.org",
+  "email": "bmckenzie@living.org.au",
+  "address": {
+    "line1": "88B Waerenga Road",
+    "line2": "Te Kauwhata 3710",
+    "suburb": "Auckland Central",
+    "city": "Te Kauwhata",
+    "postcode": "3710"
+  },
+  "nzbn": "9429030272910",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/tomorrowsworld",
+    "twitter": "https://twitter.com/tomorrowsworld"
+  },
+  "lastUpdated": "2025-07-11T07:14:22Z"
+}

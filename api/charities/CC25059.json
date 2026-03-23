@@ -1,0 +1,27 @@
+{
+  "id": 56276,
+  "registrationNumber": "CC25059",
+  "name": "West Coast Alpine Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.westcoastalpineclub.org.nz",
+  "email": "treasurer@westcoastalpineclub.org.nz",
+  "address": {
+    "line1": "PO Box 136",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greymouth",
+    "postcode": "7840"
+  },
+  "nzbn": "9429042909071",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/249895021785547/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T05:58:15Z"
+}

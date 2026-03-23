@@ -1,0 +1,27 @@
+{
+  "id": 70605,
+  "registrationNumber": "CC56971",
+  "name": "Mechanical Tempest Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "tempest.co.nz",
+  "email": "nicolemgaston@gmail.com",
+  "address": {
+    "line1": "2 Haines Terrace",
+    "line2": " ",
+    "suburb": "Aro Valley",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MechanicalTempest/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T02:25:32Z"
+}

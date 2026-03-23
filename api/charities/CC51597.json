@@ -1,0 +1,27 @@
+{
+  "id": 65368,
+  "registrationNumber": "CC51597",
+  "name": "Conductive Education Taranaki Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.conductivetaranaki.org.nz",
+  "email": "callum@conductivetaranaki.org.nz",
+  "address": {
+    "line1": "41 Sanders Avenue",
+    "line2": "RD 1",
+    "suburb": "Westown",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043267224",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/cetaranaki",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T19:54:01Z"
+}

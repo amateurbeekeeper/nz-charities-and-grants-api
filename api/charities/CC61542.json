@@ -1,0 +1,27 @@
+{
+  "id": 75112,
+  "registrationNumber": "CC61542",
+  "name": "Smoky Mirror Arts Company",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.smokymirrorarts.com/",
+  "email": "admin@smokymirrorarts.com",
+  "address": {
+    "line1": "18 Margaret Henry Crescent",
+    "line2": " ",
+    "suburb": "Oteha",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100087114527023",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T19:10:25Z"
+}

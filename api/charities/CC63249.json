@@ -1,0 +1,27 @@
+{
+  "id": 77457,
+  "registrationNumber": "CC63249",
+  "name": "Peggy Purl Manawatu",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "peggypurlmanawatu@outlook.com",
+  "address": {
+    "line1": "24B Mahoe Avenue",
+    "line2": " ",
+    "suburb": "Takaro",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/peggypurlmanawatu/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T01:40:37Z"
+}

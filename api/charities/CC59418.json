@@ -1,0 +1,27 @@
+{
+  "id": 73024,
+  "registrationNumber": "CC59418",
+  "name": "Mercury Bay Resource Recovery Centre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wahutukurua.co.nz",
+  "email": "chair@wahitukurua.co.nz",
+  "address": {
+    "line1": "239 South Highway West",
+    "line2": "Whitianga 3510",
+    "suburb": " ",
+    "city": "Whitianga",
+    "postcode": "3510"
+  },
+  "nzbn": "9429048729086",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mercurybayresourcerecoverycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:45:06Z"
+}

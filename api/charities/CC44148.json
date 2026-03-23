@@ -1,0 +1,27 @@
+{
+  "id": 64128,
+  "registrationNumber": "CC44148",
+  "name": "Manukau Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.windrossfarm.co.nz",
+  "email": "gm@windrossfarm.co.nz",
+  "address": {
+    "line1": "237 Alfriston-Ardmore Road",
+    "line2": " ",
+    "suburb": "Ardmore",
+    "city": "Papakura",
+    "postcode": "2582"
+  },
+  "nzbn": "9429042760108",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T20:19:23Z"
+}

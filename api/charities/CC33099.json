@@ -1,0 +1,27 @@
+{
+  "id": 46204,
+  "registrationNumber": "CC33099",
+  "name": "Paekakariki Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paekakariki@playcentre.org.nz",
+  "address": {
+    "line1": "22 Wellington Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paekakariki",
+    "postcode": "5034"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:08:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42496,
+  "registrationNumber": "CC37891",
+  "name": "Fiordland Community House",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.fiordlandcommunityhouse.co.nz",
+  "email": "boardsecretary@fch.org.nz",
+  "address": {
+    "line1": "21 Luxmore Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Anau",
+    "postcode": "9600"
+  },
+  "nzbn": "9429042873099",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Fiordland Community House",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T20:46:24Z"
+}

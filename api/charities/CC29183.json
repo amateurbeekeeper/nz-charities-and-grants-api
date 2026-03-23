@@ -1,0 +1,27 @@
+{
+  "id": 61081,
+  "registrationNumber": "CC29183",
+  "name": "Annesbrook Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.annesbrook.co.nz",
+  "email": "finance.manager@annesbrook.co.nz",
+  "address": {
+    "line1": "40 Saxton Road West",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429048866071",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ANNESBROOKnelson/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:07Z"
+}

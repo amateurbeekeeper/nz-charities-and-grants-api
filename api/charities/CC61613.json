@@ -1,0 +1,27 @@
+{
+  "id": 75179,
+  "registrationNumber": "CC61613",
+  "name": "Featherston Memorial RSA Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fstnrsa@gmail.com",
+  "address": {
+    "line1": "57 Fox Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Featherston",
+    "postcode": "5710"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FeatherstonRSA",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T02:36:09Z"
+}

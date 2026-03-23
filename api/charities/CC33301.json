@@ -1,0 +1,27 @@
+{
+  "id": 45726,
+  "registrationNumber": "CC33301",
+  "name": "Hope Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2021-03-20T00:00:00Z",
+  "website": null,
+  "email": "david@agers.co.nz",
+  "address": {
+    "line1": "5 Newnham Terrace",
+    "line2": " ",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429043131877",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-08-10T21:08:50Z"
+}

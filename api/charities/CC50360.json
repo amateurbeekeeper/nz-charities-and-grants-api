@@ -1,0 +1,27 @@
+{
+  "id": 34000,
+  "registrationNumber": "CC50360",
+  "name": "Tarawahi Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-03-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "russell@ptengland.school.nz",
+  "address": {
+    "line1": "208 Riverside Avenue",
+    "line2": " ",
+    "suburb": "Point England",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429043251049",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T19:35:43Z"
+}

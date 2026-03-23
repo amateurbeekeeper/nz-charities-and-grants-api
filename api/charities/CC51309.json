@@ -1,0 +1,27 @@
+{
+  "id": 34792,
+  "registrationNumber": "CC51309",
+  "name": "Second Chance Kitties",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-02-19T00:00:00Z",
+  "dateDeregistered": "2023-02-10T00:00:00Z",
+  "website": "https://sck.org.nz",
+  "email": "carzands@gmail.com",
+  "address": {
+    "line1": "5 Kawakawa Street",
+    "line2": " ",
+    "suburb": "Whanganui East",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/secondchancekittyswanganui/",
+    "twitter": null
+  },
+  "lastUpdated": "2023-02-10T01:08:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70361,
+  "registrationNumber": "CC56720",
+  "name": "Foundation for Equity and Research New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fernz.org.nz",
+  "email": "info@fernz.org.nz",
+  "address": {
+    "line1": "22 Scapa Terrace",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429046893697",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FERNZcharity",
+    "twitter": "https://twitter.com/fernzaotearoa"
+  },
+  "lastUpdated": "2026-01-08T02:44:25Z"
+}

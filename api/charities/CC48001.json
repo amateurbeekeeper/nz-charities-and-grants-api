@@ -1,0 +1,27 @@
+{
+  "id": 37255,
+  "registrationNumber": "CC48001",
+  "name": "Lincoln University Alumni Association Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2012-04-05T00:00:00Z",
+  "dateDeregistered": "2021-03-04T00:00:00Z",
+  "website": "www.lincoln.ac.nz ",
+  "email": "royevans@xtra.co.nz",
+  "address": {
+    "line1": "C/- Lincoln University",
+    "line2": "Ellesmere Junction Road/Springs Road",
+    "suburb": "Lincoln",
+    "city": "Canterbury",
+    "postcode": "7647"
+  },
+  "nzbn": "9429042654209",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/LincolnUniversityAlumni",
+    "twitter": null
+  },
+  "lastUpdated": "2021-03-21T23:01:27Z"
+}

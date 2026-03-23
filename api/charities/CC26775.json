@@ -1,0 +1,27 @@
+{
+  "id": 52335,
+  "registrationNumber": "CC26775",
+  "name": "Otautau New Life Centre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.otautauconnect.com/",
+  "email": "anita@woldwide.nz",
+  "address": {
+    "line1": "104 Shaws Trees Road",
+    "line2": "RD 3",
+    "suburb": "Heddon Bush",
+    "city": "Winton",
+    "postcode": "9783"
+  },
+  "nzbn": "9429042852735",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T01:58:52Z"
+}

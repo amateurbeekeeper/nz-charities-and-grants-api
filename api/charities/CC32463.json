@@ -1,0 +1,27 @@
+{
+  "id": 44107,
+  "registrationNumber": "CC32463",
+  "name": "The Butterfly Creek Theatre Troupe Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bctt.org.nz",
+  "email": "treas.bctt.org.nz@gmail.com",
+  "address": {
+    "line1": "457 Muritai Road",
+    "line2": " ",
+    "suburb": "Eastbourne",
+    "city": "Lower Hutt",
+    "postcode": "5013"
+  },
+  "nzbn": "9429042855767",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BCTTNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:33:17Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64777,
+  "registrationNumber": "CC29254",
+  "name": "Horowhenua Search And Rescue Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.horowhenualandsar.org.nz",
+  "email": "dylan.buckingham@horowhenualandsar.org.nz",
+  "address": {
+    "line1": "51 Ohau Terraces",
+    "line2": "RD 20",
+    "suburb": "Ohau",
+    "city": "Levin",
+    "postcode": "5570"
+  },
+  "nzbn": "9429047479067",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:35:57Z"
+}

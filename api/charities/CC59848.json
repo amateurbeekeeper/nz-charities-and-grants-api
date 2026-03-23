@@ -1,0 +1,27 @@
+{
+  "id": 73610,
+  "registrationNumber": "CC59848",
+  "name": "Mums4Mums Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mums4mums.org.nz",
+  "email": "cj.dafoe@mums4mums.org.nz",
+  "address": {
+    "line1": "15 Millers Road",
+    "line2": " ",
+    "suburb": "Brookfield",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429050252183",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mums4mumsnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T23:08:24Z"
+}

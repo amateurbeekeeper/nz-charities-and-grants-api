@@ -1,0 +1,27 @@
+{
+  "id": 65926,
+  "registrationNumber": "CC52196",
+  "name": "Glendowie Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.glendowiechurch.org.nz",
+  "email": "gpc@hofer.co.nz",
+  "address": {
+    "line1": "197 Riddell Road",
+    "line2": " ",
+    "suburb": "Glendowie",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429051121266",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/GlendowieChurch",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T03:54:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53615,
+  "registrationNumber": "CC20795",
+  "name": "Whanganui Peoples Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whanganuipeoplescentre.nz",
+  "email": "manager@wpcentre.org.nz",
+  "address": {
+    "line1": "Unit 8D",
+    "line2": "212 Victoria Avenue",
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042960287",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-21T22:56:06Z"
+}

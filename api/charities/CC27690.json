@@ -1,0 +1,27 @@
+{
+  "id": 43427,
+  "registrationNumber": "CC27690",
+  "name": "Belmont Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-26T00:00:00Z",
+  "website": null,
+  "email": "belmont@playcentre.org.nz",
+  "address": {
+    "line1": "39 Norfolk Street",
+    "line2": " ",
+    "suburb": "Belmont",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-10T01:28:47Z"
+}

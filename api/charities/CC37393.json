@@ -1,0 +1,27 @@
+{
+  "id": 41099,
+  "registrationNumber": "CC37393",
+  "name": "Auckland Christian Mandarin Salvation Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.salvationchurch.org.nz",
+  "email": "salvation.church@gmail.com",
+  "address": {
+    "line1": "10 Dana Place",
+    "line2": " ",
+    "suburb": "Somerville",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-14T19:45:06Z"
+}

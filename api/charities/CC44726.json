@@ -1,0 +1,27 @@
+{
+  "id": 35710,
+  "registrationNumber": "CC44726",
+  "name": "Kaiata Community Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "margbecker@xtra.co.nz",
+  "address": {
+    "line1": "21 Litchfield Street",
+    "line2": " ",
+    "suburb": "Kaiata",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": "9429043201235",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Kaiata Community Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:35:41Z"
+}

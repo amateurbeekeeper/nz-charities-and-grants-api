@@ -1,0 +1,27 @@
+{
+  "id": 77189,
+  "registrationNumber": "CC63111",
+  "name": "Front Steps Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "warwick.webb@masthead.co.nz",
+  "address": {
+    "line1": "19 Elam Street",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T02:43:16Z"
+}

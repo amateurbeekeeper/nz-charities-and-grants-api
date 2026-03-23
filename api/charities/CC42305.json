@@ -1,0 +1,27 @@
+{
+  "id": 62235,
+  "registrationNumber": "CC42305",
+  "name": "Special Olympics Lower South Island Regional Council",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2022-06-30T00:00:00Z",
+  "website": "https://www.specialolympics.org.nz",
+  "email": "finance@specialolympics.org.nz",
+  "address": {
+    "line1": "93 Hutt Park Road",
+    "line2": " ",
+    "suburb": "Moera",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-08-07T20:38:41Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42604,
+  "registrationNumber": "CC39280",
+  "name": "Rule Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rulefoundation.nz",
+  "email": "secretary@rulefoundation.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "123 Vogel Street",
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/rulefoundation/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T01:41:27Z"
+}

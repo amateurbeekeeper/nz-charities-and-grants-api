@@ -1,0 +1,27 @@
+{
+  "id": 76103,
+  "registrationNumber": "CC62530",
+  "name": "Farmers Footprint NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-03-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://farmersfootprint.nz/",
+  "email": "hugh@farmersfootprint.nz",
+  "address": {
+    "line1": "47 French Pass Road",
+    "line2": "RD 4",
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3496"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=farmers%20footprint%20nz",
+    "twitter": null
+  },
+  "lastUpdated": "2024-08-29T02:17:10Z"
+}

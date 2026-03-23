@@ -1,0 +1,27 @@
+{
+  "id": 35751,
+  "registrationNumber": "CC44777",
+  "name": "St Mary's Community Church Pukenui",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "korora2@xtra.co.nz",
+  "address": {
+    "line1": "3998 Far North Road",
+    "line2": "RD 4",
+    "suburb": "Pukenui",
+    "city": "Kaitaia",
+    "postcode": "0484"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T01:41:32Z"
+}

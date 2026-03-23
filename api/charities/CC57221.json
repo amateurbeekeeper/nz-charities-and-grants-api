@@ -1,0 +1,27 @@
+{
+  "id": 70849,
+  "registrationNumber": "CC57221",
+  "name": "South Auckland Anglican Mission",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.saam.org.nz",
+  "email": "aaron.mattingly@saam.org.nz",
+  "address": {
+    "line1": "10 Robert Ross Place",
+    "line2": " ",
+    "suburb": "Clendon Park",
+    "city": "Auckland",
+    "postcode": "2103"
+  },
+  "nzbn": "9429047686922",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T22:59:43Z"
+}

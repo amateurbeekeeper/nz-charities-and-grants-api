@@ -1,0 +1,27 @@
+{
+  "id": 59082,
+  "registrationNumber": "CC27013",
+  "name": "Roopu A Iwi Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rait.co.nz",
+  "email": "maureen.mua@rait.co.nz",
+  "address": {
+    "line1": "32 Bledisloe Road",
+    "line2": " ",
+    "suburb": "Maraenui",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042723721",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ROOPUAIWITRUST",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T00:57:39Z"
+}

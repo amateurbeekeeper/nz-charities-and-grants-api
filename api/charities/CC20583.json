@@ -1,0 +1,27 @@
+{
+  "id": 53460,
+  "registrationNumber": "CC20583",
+  "name": "The Wellington Sculpture Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sculpture.org.nz",
+  "email": "wellingtonsculpture@xtra.co.nz",
+  "address": {
+    "line1": "6 Queens Wharf",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042886198",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T00:36:35Z"
+}

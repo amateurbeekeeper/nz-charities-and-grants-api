@@ -1,0 +1,27 @@
+{
+  "id": 52195,
+  "registrationNumber": "CC10640",
+  "name": "Te Ika Whenua Hauora Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tiwh.org.nz",
+  "email": "kath.purcell@tiwh.org.nz",
+  "address": {
+    "line1": "43 Pine Drive",
+    "line2": "Murupara 3025",
+    "suburb": " ",
+    "city": "Murupara",
+    "postcode": "3025"
+  },
+  "nzbn": "9429042859956",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TeIkaWhenuaHauora",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T21:40:20Z"
+}

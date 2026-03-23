@@ -1,0 +1,27 @@
+{
+  "id": 67491,
+  "registrationNumber": "CC53781",
+  "name": "Make-A-Wish Pacific",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2016-08-11T00:00:00Z",
+  "dateDeregistered": "2024-09-11T00:00:00Z",
+  "website": "https://www.makeawishpacific.org/",
+  "email": "hello@makeawishpacific.com",
+  "address": {
+    "line1": "12 Bellfield Road",
+    "line2": " ",
+    "suburb": "Opaheke",
+    "city": "Papakura",
+    "postcode": "2113"
+  },
+  "nzbn": "9429046126030",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/people/Make-A-Wish-Pacific/100069574758581/?mibextid=ZbWKwL",
+    "twitter": null
+  },
+  "lastUpdated": "2024-09-25T07:10:32Z"
+}

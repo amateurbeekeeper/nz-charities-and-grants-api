@@ -1,0 +1,27 @@
+{
+  "id": 51808,
+  "registrationNumber": "CC11026-2",
+  "name": "Ngati Awa Farms Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngatiawa.iwi.nz",
+  "email": "regan@ngatiawa.iwi.nz",
+  "address": {
+    "line1": "Louvain House",
+    "line2": "Louvain Street",
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429034900369",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T22:28:35Z"
+}

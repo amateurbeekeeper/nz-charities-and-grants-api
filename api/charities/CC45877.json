@@ -1,0 +1,27 @@
+{
+  "id": 38544,
+  "registrationNumber": "CC45877",
+  "name": "Otane Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://fireandemergency.nz",
+  "email": "ashleywoon@xtra.co.nz",
+  "address": {
+    "line1": "4 Campbell Street",
+    "line2": "Otane 4202",
+    "suburb": " ",
+    "city": "Otane",
+    "postcode": "4202"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-18T00:42:52Z"
+}

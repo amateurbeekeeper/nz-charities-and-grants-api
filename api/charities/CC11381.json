@@ -1,0 +1,27 @@
+{
+  "id": 52658,
+  "registrationNumber": "CC11381",
+  "name": "New Hope Church",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2007-10-16T00:00:00Z",
+  "dateDeregistered": "2022-10-01T00:00:00Z",
+  "website": "http://www.newhope.church.org.nz",
+  "email": "jandtmcknight@gmail.com",
+  "address": {
+    "line1": "PO Box 340",
+    "line2": "Feilding 4740",
+    "suburb": " ",
+    "city": "Feilding",
+    "postcode": "4740"
+  },
+  "nzbn": "9429043033379",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-12-24T06:00:49Z"
+}

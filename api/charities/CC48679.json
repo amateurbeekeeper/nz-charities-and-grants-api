@@ -1,0 +1,27 @@
+{
+  "id": 33187,
+  "registrationNumber": "CC48679",
+  "name": "Marist Alternative Education Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-11-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ceo@cmel.org.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "381 Great South Road",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429031373272",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:55Z"
+}

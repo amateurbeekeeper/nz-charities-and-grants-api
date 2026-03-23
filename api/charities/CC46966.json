@@ -1,0 +1,27 @@
+{
+  "id": 36501,
+  "registrationNumber": "CC46966",
+  "name": "James Cook Charitable  Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tim@timryan.co.nz",
+  "address": {
+    "line1": "39 St Vincent Avenue",
+    "line2": "110 Custom Street West",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T04:51:14Z"
+}

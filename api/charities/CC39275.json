@@ -1,0 +1,27 @@
+{
+  "id": 62115,
+  "registrationNumber": "CC39275",
+  "name": "Otago Rowing Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-07-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "president@otagorowingclub.org.nz",
+  "address": {
+    "line1": "23 Kitchener Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042789994",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T09:03:06Z"
+}

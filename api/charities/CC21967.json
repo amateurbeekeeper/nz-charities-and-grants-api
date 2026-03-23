@@ -1,0 +1,27 @@
+{
+  "id": 39024,
+  "registrationNumber": "CC21967",
+  "name": "Community Living Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.communitylivingtrust.org.nz",
+  "email": "accounts@communityliving.org.nz",
+  "address": {
+    "line1": "180 Collingwood Street",
+    "line2": " ",
+    "suburb": "Hamilton Lake",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042883258",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/communitylivingnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-12T00:47:21Z"
+}

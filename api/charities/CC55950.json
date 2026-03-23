@@ -1,0 +1,27 @@
+{
+  "id": 69599,
+  "registrationNumber": "CC55950",
+  "name": "The Clutha Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.cluthafoundation.org.nz",
+  "email": "givewhereyoulive@cluthafoundation.org.nz",
+  "address": {
+    "line1": "6 Clyde Street",
+    "line2": "Balclutha 9230",
+    "suburb": " ",
+    "city": "Balclutha",
+    "postcode": "9230"
+  },
+  "nzbn": "9429046903532",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Clutha-Foundation-2164071780573717/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T23:17:37Z"
+}

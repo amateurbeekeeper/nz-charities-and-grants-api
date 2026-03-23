@@ -1,0 +1,27 @@
+{
+  "id": 43101,
+  "registrationNumber": "CC32117",
+  "name": "Wharerangi Marae Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ewan.gardiner@gkl.co.nz",
+  "address": {
+    "line1": "9 Weatherfield Mews",
+    "line2": " ",
+    "suburb": "Taradale",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T22:52:06Z"
+}

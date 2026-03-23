@@ -1,0 +1,27 @@
+{
+  "id": 62439,
+  "registrationNumber": "CC35948",
+  "name": "Maritime Heritage Trust Of Wellington",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hikitia.co.nz",
+  "email": "peter.mcknight@ppmck.co.nz",
+  "address": {
+    "line1": "27 Gillespies Road",
+    "line2": " ",
+    "suburb": "Birchville",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429043126576",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T21:00:01Z"
+}

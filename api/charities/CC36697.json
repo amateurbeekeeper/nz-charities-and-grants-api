@@ -1,0 +1,27 @@
+{
+  "id": 49278,
+  "registrationNumber": "CC36697",
+  "name": "Taranaki Toy Library Trust Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://taranakitoylibrary.org.nz/",
+  "email": "chair@taranakitoylibrary.org.nz",
+  "address": {
+    "line1": "524A Devon Street East",
+    "line2": " ",
+    "suburb": "Fitzroy",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429042829997",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Taranaki-Toy-Library-101142259966500/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-15T06:59:57Z"
+}

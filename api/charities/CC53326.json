@@ -1,0 +1,27 @@
+{
+  "id": 67039,
+  "registrationNumber": "CC53326",
+  "name": "Waikato Animal Outreach Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "waikatoanimaloutreach@gmail.com",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429043298129",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/animaloutreachtrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T00:52:00Z"
+}

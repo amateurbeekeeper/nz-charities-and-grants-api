@@ -1,0 +1,27 @@
+{
+  "id": 55993,
+  "registrationNumber": "CC30862",
+  "name": "Tourism Industry New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tinzt.org.nz",
+  "email": "mark.rickard@tia.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "125 Featherston Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429043178445",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T20:02:46Z"
+}

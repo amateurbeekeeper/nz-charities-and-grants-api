@@ -1,0 +1,27 @@
+{
+  "id": 72623,
+  "registrationNumber": "CC59013",
+  "name": "The Wellington Law Revue Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wellingtonlawrevue.com/",
+  "email": "c.griggs@bcomm.nz",
+  "address": {
+    "line1": "Barristers.Comm",
+    "line2": "Level 8, 45 Johnston St",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-02T19:34:34Z"
+}

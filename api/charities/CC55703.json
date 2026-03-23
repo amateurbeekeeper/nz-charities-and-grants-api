@@ -1,0 +1,27 @@
+{
+  "id": 69352,
+  "registrationNumber": "CC55703",
+  "name": "ENABLE Tamil Christian Fellowship (An Assemblies of God Church)",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.enableag.org.nz",
+  "email": "clement.sudhakar@gmail.com",
+  "address": {
+    "line1": "1020 Fergusson Drive",
+    "line2": null,
+    "suburb": "Clouston Park",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429046738059",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/enable.church/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:28:12Z"
+}

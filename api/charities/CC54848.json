@@ -1,0 +1,27 @@
+{
+  "id": 68516,
+  "registrationNumber": "CC54848",
+  "name": "Ka Pai Kai Rotorua Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-10-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kapaikairotorua.co.nz",
+  "email": "timihou@gmail.com",
+  "address": {
+    "line1": "1227 Ranolf Street",
+    "line2": "Rotorua 3010",
+    "suburb": "Ngongotaha",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429046181619",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kapaikairotorua/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:41:35Z"
+}

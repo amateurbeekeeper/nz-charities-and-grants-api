@@ -1,0 +1,27 @@
+{
+  "id": 51902,
+  "registrationNumber": "CC10686",
+  "name": "Amputee Society of Canterbury & Westland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.amputeeinfo.co.nz/",
+  "email": "justinemw@me.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "127 Petrie Street",
+    "suburb": "Richmond",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042574682",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/408156575969037",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T04:34:42Z"
+}

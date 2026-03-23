@@ -1,0 +1,27 @@
+{
+  "id": 42110,
+  "registrationNumber": "CC34378",
+  "name": "Auckland Agricultural and Pastoral Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aucklandaandp.co.nz",
+  "email": "clive.ellis.nz@gmail.com",
+  "address": {
+    "line1": "28 Drinnan Road",
+    "line2": "RD 1",
+    "suburb": "Waitoki",
+    "city": "Kaukapakapa",
+    "postcode": "0871"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Auckland Agricultural and Pastoral Association",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-06T19:14:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35148,
+  "registrationNumber": "CC50387",
+  "name": "Community Foundations of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-03-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.communityfoundations.org.nz",
+  "email": "arron@communityfoundations.org.nz",
+  "address": {
+    "line1": "Level 5",
+    "line2": "166 Featherston Street ",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043324262",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CommunityFNZ",
+    "twitter": "https://twitter.com/CommunityFNZ"
+  },
+  "lastUpdated": "2025-08-20T19:52:11Z"
+}

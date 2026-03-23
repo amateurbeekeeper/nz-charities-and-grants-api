@@ -1,0 +1,27 @@
+{
+  "id": 48277,
+  "registrationNumber": "CC30518",
+  "name": "Western Bay of Plenty Primary Health Organisation Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wboppho.org.nz",
+  "email": "debbiep@wboppho.org.nz",
+  "address": {
+    "line1": "87 First Avenue",
+    "line2": "Tauranga 3110",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429035904809",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WBOPPHO/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-18T23:16:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43612,
+  "registrationNumber": "CC40090",
+  "name": "Thames Coast Kiwi Care Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thamescoastkiwicare.org",
+  "email": "chair@thamescoastkiwicare.org",
+  "address": {
+    "line1": "208 Sealey Street",
+    "line2": "Thames 3500",
+    "suburb": "Te Puru",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429043158836",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Thames-Coast-Kiwi-Care-451941634970366",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T01:14:45Z"
+}

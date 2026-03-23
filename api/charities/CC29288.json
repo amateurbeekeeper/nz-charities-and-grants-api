@@ -1,0 +1,27 @@
+{
+  "id": 61206,
+  "registrationNumber": "CC29288",
+  "name": "New Zealand Society of Pathologists Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sudha.patil@pathlab.co.nz",
+  "address": {
+    "line1": "Pathlab Waikato",
+    "line2": "Gate 3, 56 Tristram Street",
+    "suburb": " Waiora ",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043077106",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-16T19:47:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71255,
+  "registrationNumber": "CC57630",
+  "name": "New Zealand Korean Medical Association",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nzkma2021@gmail.com",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "4 Kupari Place",
+    "suburb": "Totara Vale",
+    "city": "Auckland",
+    "postcode": "0629"
+  },
+  "nzbn": "9429049253641",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/647296482413117",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T03:10:06Z"
+}

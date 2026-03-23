@@ -1,0 +1,27 @@
+{
+  "id": 61273,
+  "registrationNumber": "CC34846",
+  "name": "Women's Support Motueka",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wsm.org.nz/",
+  "email": "manager@wsm.org.nz",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429053364043",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/motuekawomenssupportlink/",
+    "twitter": "nil"
+  },
+  "lastUpdated": "2026-03-11T02:58:23Z"
+}

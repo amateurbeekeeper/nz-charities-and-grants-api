@@ -1,0 +1,27 @@
+{
+  "id": 41695,
+  "registrationNumber": "CC32660",
+  "name": "Otago Railway and Locomotive Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.oceanbeachrailway.co.nz",
+  "email": "cthomson@dcc.govt.nz",
+  "address": {
+    "line1": "3 John Wilson Ocean Drive",
+    "line2": "19 Ascog Road",
+    "suburb": "Lawyers Head",
+    "city": "Dunedin",
+    "postcode": "9013"
+  },
+  "nzbn": "9429042789918",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "oceanbeachrailway dunedinnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T04:08:30Z"
+}

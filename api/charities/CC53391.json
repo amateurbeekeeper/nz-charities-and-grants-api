@@ -1,0 +1,27 @@
+{
+  "id": 67110,
+  "registrationNumber": "CC53391",
+  "name": "Pukekawa School PTA",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Office@pukekawa.school.nz",
+  "address": {
+    "line1": "803 Highway 22",
+    "line2": "RD 1",
+    "suburb": "Pukekawa",
+    "city": "Tuakau",
+    "postcode": "2696"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T18:33:54Z"
+}

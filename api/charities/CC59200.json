@@ -1,0 +1,27 @@
+{
+  "id": 72808,
+  "registrationNumber": "CC59200",
+  "name": "Southern Lakes Sanctuary Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://southernlakessanctuary.org.nz",
+  "email": "Neil@shufflehub.co.nz",
+  "address": {
+    "line1": "153 Glenda Drive",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429049432107",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T06:07:00Z"
+}

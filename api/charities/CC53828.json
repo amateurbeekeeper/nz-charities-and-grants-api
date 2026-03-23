@@ -1,0 +1,27 @@
+{
+  "id": 67530,
+  "registrationNumber": "CC53828",
+  "name": "The Naval Point Club Lyttelton Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-10-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.navalpoint.co.nz",
+  "email": "manager@navalpoint.co.nz",
+  "address": {
+    "line1": "Clubrooms",
+    "line2": "Magazine Bay",
+    "suburb": "Lyttelton",
+    "city": "Christchurch",
+    "postcode": "8241"
+  },
+  "nzbn": "9429043078950",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Naval.Point.Club.Lyttelton/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T20:33:06Z"
+}

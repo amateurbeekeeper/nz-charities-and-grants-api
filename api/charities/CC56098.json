@@ -1,0 +1,27 @@
+{
+  "id": 69741,
+  "registrationNumber": "CC56098",
+  "name": "Pasifika Safe Shelter Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@eestate.co.nz",
+  "address": {
+    "line1": "103 Pine Hill Road",
+    "line2": "RD 2C",
+    "suburb": "Elderslie",
+    "city": "Oamaru",
+    "postcode": "9491"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T10:23:15Z"
+}

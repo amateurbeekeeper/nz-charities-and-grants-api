@@ -1,0 +1,27 @@
+{
+  "id": 64311,
+  "registrationNumber": "CC40045",
+  "name": "Central Otago Heritage Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.heritagecentralotago.org.nz",
+  "email": "centralotagoheritagetrust@gmail.com",
+  "address": {
+    "line1": "34 Sunderland Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Clyde",
+    "postcode": "9330"
+  },
+  "nzbn": "9429043095438",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Heritage Central Otago",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:01:17Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 57766,
+  "registrationNumber": "CC25445",
+  "name": "Kaipatiki Community Facilities Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kcft.org.nz",
+  "email": "selena@kcft.org.nz",
+  "address": {
+    "line1": "15 Chartwell Avenue",
+    "line2": " ",
+    "suburb": "Glenfield",
+    "city": "Auckland",
+    "postcode": "0629"
+  },
+  "nzbn": "9429042871910",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T04:24:24Z"
+}

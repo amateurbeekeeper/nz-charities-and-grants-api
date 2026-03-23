@@ -1,0 +1,27 @@
+{
+  "id": 66889,
+  "registrationNumber": "CC53174",
+  "name": "Our Lady of The Valleys Parish",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "olov.org.nz",
+  "email": "office@olov.org.nz",
+  "address": {
+    "line1": "5 Palmer Crescent",
+    "line2": " ",
+    "suburb": "Silverstream",
+    "city": "Upper Hutt",
+    "postcode": "5019"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T19:27:19Z"
+}

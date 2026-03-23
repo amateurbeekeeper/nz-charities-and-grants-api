@@ -1,0 +1,27 @@
+{
+  "id": 64488,
+  "registrationNumber": "CC44435",
+  "name": "The Ngati Tamaoho Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-01-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tamaoho.maori.nz",
+  "email": "carl@tamaoho.maori.nz",
+  "address": {
+    "line1": "128 Hingaia Road",
+    "line2": "RD 1",
+    "suburb": "Karaka",
+    "city": "Papakura",
+    "postcode": "2580"
+  },
+  "nzbn": "9429042785064",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NgatiTamaohoTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T03:18:07Z"
+}

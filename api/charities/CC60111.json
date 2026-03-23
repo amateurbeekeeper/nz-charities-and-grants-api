@@ -1,0 +1,27 @@
+{
+  "id": 73601,
+  "registrationNumber": "CC60111",
+  "name": "Henderson Tongan Assembly of God",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hendersontonganaog@gmail.com",
+  "address": {
+    "line1": "57 Brunner Road",
+    "line2": " ",
+    "suburb": "Glen Eden",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": "9429049184693",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Henderson Tongan Assembly of God",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T20:08:04Z"
+}

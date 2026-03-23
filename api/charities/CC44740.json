@@ -1,0 +1,27 @@
+{
+  "id": 35538,
+  "registrationNumber": "CC44740",
+  "name": "The West Coast Society of Arts Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2019-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.leftbankartgallery.nz",
+  "email": "cassandra@leftbankartgallery.nz",
+  "address": {
+    "line1": "1 Tainui Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": "9429042891109",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "leftbankartgallery",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:57:05Z"
+}

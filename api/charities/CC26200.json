@@ -1,0 +1,27 @@
+{
+  "id": 58590,
+  "registrationNumber": "CC26200",
+  "name": "Whaingaroa Community Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "whaingaroatoylibrary@hotmail.com",
+  "address": {
+    "line1": "45 Bow Street",
+    "line2": "Raglan 3225",
+    "suburb": "Te Uku",
+    "city": "Raglan",
+    "postcode": "3225"
+  },
+  "nzbn": "9429043175833",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Whaingaroatoylibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T07:18:27Z"
+}

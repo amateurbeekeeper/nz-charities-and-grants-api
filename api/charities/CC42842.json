@@ -1,0 +1,27 @@
+{
+  "id": 50914,
+  "registrationNumber": "CC42842",
+  "name": "The Fatimah Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2021-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.fatimahfoundation.org.nz",
+  "email": "info@fatimahfoundation.org.nz",
+  "address": {
+    "line1": "30B Morningside Drive",
+    "line2": " ",
+    "suburb": "Morningside",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429043096428",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FatimahFoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T03:35:27Z"
+}

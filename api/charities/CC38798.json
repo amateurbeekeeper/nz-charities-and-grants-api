@@ -1,0 +1,27 @@
+{
+  "id": 63831,
+  "registrationNumber": "CC38798",
+  "name": "Taranaki Dragons Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.taranakidragons.co.nz",
+  "email": "taranakidragons@gmail.com",
+  "address": {
+    "line1": "15 Hobson Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429043181865",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Taranaki.Dragons2008/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T00:27:58Z"
+}

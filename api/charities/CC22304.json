@@ -1,0 +1,27 @@
+{
+  "id": 55582,
+  "registrationNumber": "CC22304",
+  "name": "Whangarei Heads Volunteer Surf Life Saving Patrol Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://whangareiheadsvolunteersurflifesavingpatrol.co.nz/",
+  "email": "treasurer@whvslsp.nz",
+  "address": {
+    "line1": "29 Ranui Road",
+    "line2": "Whangarei Heads 0174",
+    "suburb": "Whangarei Heads",
+    "city": "Whangarei Heads",
+    "postcode": "0174"
+  },
+  "nzbn": "9429042920250",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WHVSLSP",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T05:05:56Z"
+}

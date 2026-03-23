@@ -1,0 +1,27 @@
+{
+  "id": 48499,
+  "registrationNumber": "CC37390",
+  "name": "Minimarc Childcare Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://marcelc.co.nz/",
+  "email": "tracey@sbsltd.nz",
+  "address": {
+    "line1": "122 Mount Albert Road",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042747567",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:40:20Z"
+}

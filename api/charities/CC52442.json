@@ -1,0 +1,27 @@
+{
+  "id": 66174,
+  "registrationNumber": "CC52442",
+  "name": "Longview Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-10-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "andrew@longviewtrust.org.nz",
+  "address": {
+    "line1": "122 Puketaha Road",
+    "line2": "RD 1",
+    "suburb": "Puketaha",
+    "city": "Hamilton",
+    "postcode": "3281"
+  },
+  "nzbn": "9429043305728",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T18:45:32Z"
+}

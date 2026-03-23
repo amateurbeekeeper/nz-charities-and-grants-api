@@ -1,0 +1,27 @@
+{
+  "id": 41063,
+  "registrationNumber": "CC23544",
+  "name": "Kidney Kids NZ Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kidneykids.org.nz",
+  "email": "ian.potter@kidneykids.org.nz",
+  "address": {
+    "line1": "3 Scarborough Lane",
+    "line2": " 7 Falcon Street",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429042657910",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KidneyKidsNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T02:21:35Z"
+}

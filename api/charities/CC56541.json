@@ -1,0 +1,27 @@
+{
+  "id": 70179,
+  "registrationNumber": "CC56541",
+  "name": "Park2Park Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-01-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rjkluit@xtra.co.nz",
+  "address": {
+    "line1": "55 Waratah Street",
+    "line2": " ",
+    "suburb": "Matua",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T01:51:27Z"
+}

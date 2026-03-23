@@ -1,0 +1,27 @@
+{
+  "id": 75680,
+  "registrationNumber": "CC62129",
+  "name": "Toi Whanau Health Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-12-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jonathanm@nhc.maori.nz",
+  "address": {
+    "line1": "Level 4, 8 Tangihua Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429051759445",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T06:00:07Z"
+}

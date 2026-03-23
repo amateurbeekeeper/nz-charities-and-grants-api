@@ -1,0 +1,27 @@
+{
+  "id": 35110,
+  "registrationNumber": "CC49532",
+  "name": "Gisborne Central School Parent Support Group (PSG)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-08-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gisbornecentral.school.nz",
+  "email": "centralschoolpsg@gmail.com",
+  "address": {
+    "line1": "Gisborne Central School",
+    "line2": "7 Central Street",
+    "suburb": "Whataupoko",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429043261000",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-04T03:57:54Z"
+}

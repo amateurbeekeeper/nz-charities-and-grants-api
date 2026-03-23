@@ -1,0 +1,27 @@
+{
+  "id": 69172,
+  "registrationNumber": "CC55518",
+  "name": "Naenae Nature Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "andy@yokoso.co.nz",
+  "address": {
+    "line1": "16 Strand Crescent",
+    "line2": " ",
+    "suburb": "Naenae",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429046665638",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/naenaenaturetrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T06:42:39Z"
+}

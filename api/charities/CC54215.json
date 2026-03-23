@@ -1,0 +1,27 @@
+{
+  "id": 67900,
+  "registrationNumber": "CC54215",
+  "name": "LUCK",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-01-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kedwards@mashtrust.org.nz",
+  "address": {
+    "line1": "180 Cuba Street",
+    "line2": "Palmerston North 4410",
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429045877858",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-20T19:01:30Z"
+}

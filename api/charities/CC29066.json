@@ -1,0 +1,27 @@
+{
+  "id": 61160,
+  "registrationNumber": "CC29066",
+  "name": "Pablos Art Studios Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pablosart.org.nz",
+  "email": "simon@pablosart.org.nz",
+  "address": {
+    "line1": "45 Vivian Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042796268",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T02:02:39Z"
+}

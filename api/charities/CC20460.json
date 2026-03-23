@@ -1,0 +1,27 @@
+{
+  "id": 53403,
+  "registrationNumber": "CC20460",
+  "name": "Knox Home Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.knox.co.nz",
+  "email": "diannel@knox.co.nz",
+  "address": {
+    "line1": "10 Ranfurly Road",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042657507",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/elizabeth.knoxnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T19:35:46Z"
+}

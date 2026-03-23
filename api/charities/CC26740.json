@@ -1,0 +1,27 @@
+{
+  "id": 58625,
+  "registrationNumber": "CC26740",
+  "name": "The Bach Choir of Wellington Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://bachchoirwellington.org.nz/",
+  "email": "treasurer@bachchoirwellington.org.nz",
+  "address": {
+    "line1": "PO Box 514",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429042876182",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BachChoirOfWellington/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:04:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69770,
+  "registrationNumber": "CC56133",
+  "name": "Anthem Foundation",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-12-14T00:00:00Z",
+  "dateDeregistered": "2025-03-26T00:00:00Z",
+  "website": null,
+  "email": "gill@burrell.co.nz",
+  "address": {
+    "line1": "5 Waiwetu Street",
+    "line2": null,
+    "suburb": "Fendalton",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-10T07:15:36Z"
+}

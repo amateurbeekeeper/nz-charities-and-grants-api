@@ -1,0 +1,27 @@
+{
+  "id": 47072,
+  "registrationNumber": "CC43724",
+  "name": "Waikato Refugee Forum Incorporated ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wrf.org.nz",
+  "email": "finance@wrf.org.nz",
+  "address": {
+    "line1": "Settlement Centre Waikato",
+    "line2": "46G Boundary Road",
+    "suburb": "Claudelands",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": "9429043138722",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WWW.WaikatoRefugeeForum.co.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T01:00:31Z"
+}

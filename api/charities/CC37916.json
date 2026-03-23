@@ -1,0 +1,27 @@
+{
+  "id": 48034,
+  "registrationNumber": "CC37916",
+  "name": "Taipake Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hika.whanau@gmail.com",
+  "address": {
+    "line1": "8 Rangitatau East Road",
+    "line2": "RD 8",
+    "suburb": "Kai Iwi",
+    "city": "Whanganui",
+    "postcode": "4578"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:40:21Z"
+}

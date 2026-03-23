@@ -1,0 +1,27 @@
+{
+  "id": 55938,
+  "registrationNumber": "CC23099",
+  "name": "The Religious Society Of Friends (Quakers) Yearly Meeting Of Aotearoa New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://quakers.nz/",
+  "email": "treasurer@ym.quakers.nz",
+  "address": {
+    "line1": "115 Mount Eden Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T00:51:56Z"
+}

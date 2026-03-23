@@ -1,0 +1,27 @@
+{
+  "id": 65355,
+  "registrationNumber": "CC51600",
+  "name": "Northern New Zealand Seabird Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzseabirdtrust.com/",
+  "email": "karenb@sprep.org",
+  "address": {
+    "line1": "174 Ti Point Road",
+    "line2": "RD 5",
+    "suburb": "Ti Point",
+    "city": "Warkworth",
+    "postcode": "0985"
+  },
+  "nzbn": "9429043273027",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "northern new zealand seabird trust - nnzst",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:07:59Z"
+}

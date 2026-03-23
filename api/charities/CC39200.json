@@ -1,0 +1,27 @@
+{
+  "id": 42342,
+  "registrationNumber": "CC39200",
+  "name": "Titirangi Volunteer Coastguard Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2019-12-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.titirangicoastguard.org.nz",
+  "email": "president@titirangicoastguard.org.nz",
+  "address": {
+    "line1": "55 Onehunga Harbour Road",
+    "line2": "French Bay",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042761273",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Titirangi-Volunteer-Coastguard-311743385534650/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:13:59Z"
+}

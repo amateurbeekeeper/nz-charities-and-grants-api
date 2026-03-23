@@ -1,0 +1,27 @@
+{
+  "id": 46631,
+  "registrationNumber": "CC33699",
+  "name": "Central Otago Search And Rescue",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@centralotagolandsar.org.nz",
+  "address": {
+    "line1": "2 Kelman Street",
+    "line2": "Alexandra 9320",
+    "suburb": " ",
+    "city": "Alexandra",
+    "postcode": "9320"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CentralOtagoSAR/?view_public_for=1981939355441326",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T01:53:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 68496,
+  "registrationNumber": "CC54830",
+  "name": "Free Church of Tonga Christchurch",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-07-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pauliasi@me.com",
+  "address": {
+    "line1": "975 Weedons Ross Road",
+    "line2": "West Melton 7671",
+    "suburb": " ",
+    "city": "West Melton",
+    "postcode": "7671"
+  },
+  "nzbn": "9429046280312",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-15T23:15:28Z"
+}

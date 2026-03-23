@@ -1,0 +1,27 @@
+{
+  "id": 39996,
+  "registrationNumber": "CC29312",
+  "name": "Elim Christian Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.elimchristiancentre.elim.org.nz",
+  "email": "john@roberts.co.nz",
+  "address": {
+    "line1": "74 Cook Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042973973",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-23T23:56:54Z"
+}

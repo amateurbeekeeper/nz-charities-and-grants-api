@@ -1,0 +1,27 @@
+{
+  "id": 65931,
+  "registrationNumber": "CC52197",
+  "name": "Grace Evangelical Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.graceevangelical.org.nz/",
+  "email": "greg48k@gmail.com",
+  "address": {
+    "line1": "7 Ashford Mews",
+    "line2": " ",
+    "suburb": "Flagstaff",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429043274376",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-12-05T06:03:54Z"
+}

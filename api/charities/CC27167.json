@@ -1,0 +1,27 @@
+{
+  "id": 59423,
+  "registrationNumber": "CC27167",
+  "name": "New Zealand Music Examinations Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzmeb.org",
+  "email": "lynne@nzmeb.org",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429043167005",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZMEB",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T18:54:58Z"
+}

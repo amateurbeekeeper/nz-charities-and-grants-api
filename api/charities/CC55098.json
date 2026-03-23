@@ -1,0 +1,27 @@
+{
+  "id": 68758,
+  "registrationNumber": "CC55098",
+  "name": "Aotearoa Permaculture Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aptrust.org.nz",
+  "email": "contact@aptrust.org.nz",
+  "address": {
+    "line1": "52 Garden Hill Lane",
+    "line2": "RD 9",
+    "suburb": "Maungatapere",
+    "city": "Whangarei",
+    "postcode": "0179"
+  },
+  "nzbn": "9429045860218",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-14T01:58:22Z"
+}

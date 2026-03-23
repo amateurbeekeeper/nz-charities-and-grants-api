@@ -1,0 +1,27 @@
+{
+  "id": 57973,
+  "registrationNumber": "CC25775",
+  "name": "Kawerau Bible Chapel",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-11T00:00:00Z",
+  "dateDeregistered": "2025-07-01T00:00:00Z",
+  "website": null,
+  "email": "glenn.janicesutton@gmail.com",
+  "address": {
+    "line1": "371 River Road",
+    "line2": "Kawerau 3127",
+    "suburb": " ",
+    "city": "Kawerau",
+    "postcode": "3127"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KawerauBibleChapel",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-31T07:13:35Z"
+}

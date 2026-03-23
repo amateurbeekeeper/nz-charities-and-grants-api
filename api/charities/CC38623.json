@@ -1,0 +1,27 @@
+{
+  "id": 41122,
+  "registrationNumber": "CC38623",
+  "name": "Te Tomika Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tetomikatrust.org.nz",
+  "email": "rewi.chaplow@tetomika.co.nz",
+  "address": {
+    "line1": "60 Grace Road",
+    "line2": "469B Matapihi Road",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042844884",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T23:15:30Z"
+}

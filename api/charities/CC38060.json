@@ -1,0 +1,27 @@
+{
+  "id": 63115,
+  "registrationNumber": "CC38060",
+  "name": "Manawatu Horowhenua and Tararua Diabetes Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.diabetestrust.org.nz",
+  "email": "admin@diabetestrust.org.nz",
+  "address": {
+    "line1": "Unit 9, 91 Milson Line",
+    "line2": "The Pillars",
+    "suburb": " Milson",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429042989097",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "MHTdiabetestrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T02:51:54Z"
+}

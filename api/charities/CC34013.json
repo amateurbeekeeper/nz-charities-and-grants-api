@@ -1,0 +1,27 @@
+{
+  "id": 61083,
+  "registrationNumber": "CC34013",
+  "name": "Onerahi Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-07T00:00:00Z",
+  "website": null,
+  "email": "Onerahi@playcentre.org.nz",
+  "address": {
+    "line1": "1 Church Street",
+    "line2": " ",
+    "suburb": "Onerahi",
+    "city": "Whangarei",
+    "postcode": "110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T06:03:40Z"
+}

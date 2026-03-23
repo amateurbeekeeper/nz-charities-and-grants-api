@@ -1,0 +1,27 @@
+{
+  "id": 60301,
+  "registrationNumber": "CC28255",
+  "name": "The Laurenson Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "slaurensonkune@gmail.com",
+  "address": {
+    "line1": "30 Ruapehu Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ohakune",
+    "postcode": "4625"
+  },
+  "nzbn": "9429043007905",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-09T19:19:08Z"
+}

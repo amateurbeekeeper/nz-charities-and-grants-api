@@ -1,0 +1,27 @@
+{
+  "id": 60062,
+  "registrationNumber": "CC27959",
+  "name": "Vaiola P.I Budgeting Service Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.vaiola.org",
+  "email": "Tracy@vaiola.org",
+  "address": {
+    "line1": "Bader Drive (corner Ashgrove Road) - No Street No.",
+    "line2": "In Baptist Church - All Mail Must Go To P.o. Box",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429043003983",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-21T23:05:42Z"
+}

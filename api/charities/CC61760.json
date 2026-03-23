@@ -1,0 +1,27 @@
+{
+  "id": 75322,
+  "registrationNumber": "CC61760",
+  "name": "Te Wairoa Tapokorau Whānui Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tina@whanui.com",
+  "address": {
+    "line1": "C/o 44 Kopu Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wairoa",
+    "postcode": "4108"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Wairoa Tapokorau Whanui",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T10:27:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56146,
+  "registrationNumber": "CC21033",
+  "name": "Age Concern Taranaki (Inc)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ageconcerntaranaki.org.nz",
+  "email": "info@ageconcerntaranaki.org.nz",
+  "address": {
+    "line1": "33 Liardet Street",
+    "line2": "New Plymouth 4310",
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043020874",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ageconcerntaranaki/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:29:00Z"
+}

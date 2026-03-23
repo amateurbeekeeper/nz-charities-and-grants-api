@@ -1,0 +1,27 @@
+{
+  "id": 33912,
+  "registrationNumber": "CC50223",
+  "name": "Second Chance",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "secondchancetasman@gmail.com",
+  "address": {
+    "line1": "29 Goddard Road",
+    "line2": "RD 1",
+    "suburb": "Tasman",
+    "city": "Upper Moutere",
+    "postcode": "7173"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/secondchancetasman",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T05:48:48Z"
+}

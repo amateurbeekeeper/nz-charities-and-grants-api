@@ -1,0 +1,27 @@
+{
+  "id": 50834,
+  "registrationNumber": "CC42204",
+  "name": "The Royal Australian and New Zealand College of Obstetricians and Gynaecologists",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ranzcog.edu.au",
+  "email": "ccooper@ranzcog.org.nz",
+  "address": {
+    "line1": "Level 10",
+    "line2": "89 The Terrace",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429037442781",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T04:24:52Z"
+}

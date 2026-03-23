@@ -1,0 +1,27 @@
+{
+  "id": 66461,
+  "registrationNumber": "CC52725",
+  "name": "Anglican Diocese of Christchurch - Hokitika Parish",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": "2022-12-31T00:00:00Z",
+  "website": "http://hokitikaanglicanchurch.weebly.com",
+  "email": "wuzzledowns@gmail.com",
+  "address": {
+    "line1": "57 Bealey Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hokitika",
+    "postcode": "7810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/AllSaintsAnglicanChurchHokitika",
+    "twitter": null
+  },
+  "lastUpdated": "2023-12-18T08:18:48Z"
+}

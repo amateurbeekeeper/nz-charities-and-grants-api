@@ -1,0 +1,27 @@
+{
+  "id": 40398,
+  "registrationNumber": "CC23725",
+  "name": "The Ferrymead Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": "2012-05-16T00:00:00Z",
+  "website": null,
+  "email": "d-payne@hotmail.co.nz",
+  "address": {
+    "line1": "50 Ferrymead Park Drive",
+    "line2": null,
+    "suburb": "Ferrymead",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429042698654",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:14:53Z"
+}

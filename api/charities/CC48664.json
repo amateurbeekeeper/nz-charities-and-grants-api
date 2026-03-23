@@ -1,0 +1,27 @@
+{
+  "id": 32845,
+  "registrationNumber": "CC48664",
+  "name": "Kaingahoa Marae Mataraua",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nyrawhiu@gmail.com",
+  "address": {
+    "line1": "945 Mataraua Road",
+    "line2": "Kaikohe 0474",
+    "suburb": "Te Puru",
+    "city": "Kaikohe",
+    "postcode": "0474"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T19:19:24Z"
+}

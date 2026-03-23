@@ -1,0 +1,27 @@
+{
+  "id": 70756,
+  "registrationNumber": "CC57132",
+  "name": "Lyttelton Street Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-10-27T00:00:00Z",
+  "dateDeregistered": "2025-08-11T00:00:00Z",
+  "website": null,
+  "email": "lytteltonstreet@playcentre.org.nz",
+  "address": {
+    "line1": "81 Lyttelton Street",
+    "line2": " ",
+    "suburb": "Somerfield",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/lytteltonstreetplaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T07:20:59Z"
+}

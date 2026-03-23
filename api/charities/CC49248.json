@@ -1,0 +1,27 @@
+{
+  "id": 35181,
+  "registrationNumber": "CC49248",
+  "name": "TBfree New Zealand Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-06-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ospri.co.nz",
+  "email": "marie-anne.wong@ospri.co.nz",
+  "address": {
+    "line1": "Level 9, Gallagher House",
+    "line2": "15 Willeston Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429030190023",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T19:04:52Z"
+}

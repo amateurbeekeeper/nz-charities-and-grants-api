@@ -1,0 +1,27 @@
+{
+  "id": 42991,
+  "registrationNumber": "CC32718",
+  "name": "The YWCA Bursary Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "alice@timpanywalton.co.nz",
+  "address": {
+    "line1": "The Landings, Unit 8",
+    "line2": "Cnr SH 1 & Elizabeth Street ",
+    "suburb": " Timaru Central ",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T02:03:23Z"
+}

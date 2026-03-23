@@ -1,0 +1,27 @@
+{
+  "id": 50884,
+  "registrationNumber": "CC42183",
+  "name": "Q-Youth Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://qyouthnz.com/",
+  "email": "office.q.youth@gmail.com",
+  "address": {
+    "line1": "100 Quarantine Road",
+    "line2": " ",
+    "suburb": "Annesbrook",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429043096800",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/qyouthinc/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T00:15:54Z"
+}

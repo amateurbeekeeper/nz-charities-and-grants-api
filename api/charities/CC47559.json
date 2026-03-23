@@ -1,0 +1,27 @@
+{
+  "id": 37168,
+  "registrationNumber": "CC47559",
+  "name": "Taranaki Animal Protection Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-12-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "taranakianimalprotectiontrust.co.nz",
+  "email": "rudi.valkman@yahoo.co.nz",
+  "address": {
+    "line1": "76A Govett Avenue",
+    "line2": " ",
+    "suburb": "Frankleigh Park",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043215140",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/343572593237027",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T05:57:27Z"
+}

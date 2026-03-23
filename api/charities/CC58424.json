@@ -1,0 +1,27 @@
+{
+  "id": 72052,
+  "registrationNumber": "CC58424",
+  "name": "Christchurch Disc Golf Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://christchurchdiscgolf.org.nz",
+  "email": "christchurchdiscgolfclub@gmail.com",
+  "address": {
+    "line1": "3 Rolfe Place",
+    "line2": " ",
+    "suburb": "Bishopdale",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429047228962",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Christchurch Disc Golf",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-06T19:16:37Z"
+}

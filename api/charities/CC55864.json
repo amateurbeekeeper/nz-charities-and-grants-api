@@ -1,0 +1,27 @@
+{
+  "id": 69515,
+  "registrationNumber": "CC55864",
+  "name": "Cambridge Historical Society Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cambridgemuseum.org.nz",
+  "email": "secretary.cbhs@gmail.com",
+  "address": {
+    "line1": "24 Victoria Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": "9429042600619",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/cambridgemuseum",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T03:40:29Z"
+}

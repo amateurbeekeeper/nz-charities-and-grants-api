@@ -1,0 +1,27 @@
+{
+  "id": 68193,
+  "registrationNumber": "CC54523",
+  "name": "Joyful Christian Ministry",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "vaise.sia@hotmail.com",
+  "address": {
+    "line1": "2 Solidus Lane",
+    "line2": " ",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": "9429043417094",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T05:20:28Z"
+}

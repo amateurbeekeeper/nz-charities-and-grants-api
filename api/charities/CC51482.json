@@ -1,0 +1,27 @@
+{
+  "id": 65260,
+  "registrationNumber": "CC51482",
+  "name": "FabFeb Foundation",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-03-17T00:00:00Z",
+  "dateDeregistered": "2018-05-08T00:00:00Z",
+  "website": "www.fabfeb.org",
+  "email": "david@fabfeb.org",
+  "address": {
+    "line1": "55B Beresford Street",
+    "line2": null,
+    "suburb": "Bayswater",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429043282432",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-05-08T01:05:16Z"
+}

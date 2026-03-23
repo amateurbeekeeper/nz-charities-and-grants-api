@@ -1,0 +1,27 @@
+{
+  "id": 47422,
+  "registrationNumber": "CC30147",
+  "name": "Poverty Bay Agricultural and Pastoral Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gisborneshow.co.nz",
+  "email": "info@gisborneshow.co.nz",
+  "address": {
+    "line1": "20 Main Road",
+    "line2": " ",
+    "suburb": "Makaraka",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Gisborne Showgrounds",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T04:04:01Z"
+}

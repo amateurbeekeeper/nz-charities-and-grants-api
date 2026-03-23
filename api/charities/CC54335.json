@@ -1,0 +1,27 @@
+{
+  "id": 68010,
+  "registrationNumber": "CC54335",
+  "name": "Piha Community Centre Society Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.pihahall.co.nz",
+  "email": "shatters@xtra.co.nz",
+  "address": {
+    "line1": "2 North Piha Road",
+    "line2": "Piha 0772",
+    "suburb": "Epsom",
+    "city": "Piha",
+    "postcode": "0772"
+  },
+  "nzbn": "9429042805465",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-22T19:43:01Z"
+}

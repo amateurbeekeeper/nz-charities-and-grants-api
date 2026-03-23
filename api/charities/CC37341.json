@@ -1,0 +1,27 @@
+{
+  "id": 42993,
+  "registrationNumber": "CC37341",
+  "name": "Creative Northland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.creativenorthland.com",
+  "email": "board@creativenorthland.com",
+  "address": {
+    "line1": "Whangarei Station",
+    "line2": "Railway Road",
+    "suburb": "Whangarei",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429042947943",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Creative Northland",
+    "twitter": "@CreativeNthld "
+  },
+  "lastUpdated": "2026-02-17T20:56:11Z"
+}

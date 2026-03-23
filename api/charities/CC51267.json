@@ -1,0 +1,27 @@
+{
+  "id": 34822,
+  "registrationNumber": "CC51267",
+  "name": "The Best Dog Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-12-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bestdogtrust.org.nz",
+  "email": "bestdogtrust@gmail.com",
+  "address": {
+    "line1": "372 Apotu Road",
+    "line2": "RD 1",
+    "suburb": "Kauri",
+    "city": "Kamo",
+    "postcode": "0185"
+  },
+  "nzbn": "9429043242702",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ruakakadogrescue/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:12:20Z"
+}

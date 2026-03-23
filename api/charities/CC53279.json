@@ -1,0 +1,27 @@
+{
+  "id": 66993,
+  "registrationNumber": "CC53279",
+  "name": "The Kindness Institute Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://thekindnessinstitute.com/",
+  "email": "brady@thekindnessinstitute.com",
+  "address": {
+    "line1": "2171 Great North Road",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429046148308",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thekindnessinstitute/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T01:01:42Z"
+}

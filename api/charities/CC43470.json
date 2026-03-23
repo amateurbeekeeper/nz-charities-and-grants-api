@@ -1,0 +1,27 @@
+{
+  "id": 47051,
+  "registrationNumber": "CC43470",
+  "name": "New Zealand Fundraising Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-01-25T00:00:00Z",
+  "dateDeregistered": "2011-12-07T00:00:00Z",
+  "website": "http://www.fundraisingtrust.org",
+  "email": "warwick@bergs.net",
+  "address": {
+    "line1": "138A Sandspit Road",
+    "line2": null,
+    "suburb": "Shelly Park",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": "9429043206650",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:25:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54222,
+  "registrationNumber": "CC25544",
+  "name": "Habitat For Humanity Taranaki Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-09T00:00:00Z",
+  "dateDeregistered": "2025-06-30T00:00:00Z",
+  "website": "http://www.habitat.org.nz",
+  "email": "lwilkinson@connectlegal.co.nz",
+  "address": {
+    "line1": "136 Powderham Street",
+    "line2": "New Plymouth 4310",
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429038592690",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T03:13:26Z"
+}

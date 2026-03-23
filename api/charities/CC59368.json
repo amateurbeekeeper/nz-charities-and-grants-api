@@ -1,0 +1,27 @@
+{
+  "id": 72972,
+  "registrationNumber": "CC59368",
+  "name": "Dancing in the Rain",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dancingintherain.org.nz",
+  "email": "rachel.dancingintherain@gmail.com",
+  "address": {
+    "line1": "186A Amberley Avenue",
+    "line2": " ",
+    "suburb": "Highbury",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429049272772",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/summityourmountain/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T09:57:20Z"
+}

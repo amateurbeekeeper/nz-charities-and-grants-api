@@ -1,0 +1,27 @@
+{
+  "id": 33977,
+  "registrationNumber": "CC50281",
+  "name": "New Zealand Cricket Museum",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nzcricketmuseum.co.nz",
+  "email": "rochelle.roddick@pkfkendons.co.nz",
+  "address": {
+    "line1": "2 Rugby Street",
+    "line2": "PO Box 578",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043322954",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZCricketMuseum/",
+    "twitter": "https://twitter.com/nzcricketmuseum "
+  },
+  "lastUpdated": "2025-12-01T18:04:27Z"
+}

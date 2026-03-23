@@ -1,0 +1,27 @@
+{
+  "id": 65706,
+  "registrationNumber": "CC51952",
+  "name": "Race for Life Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.race4life.org.nz",
+  "email": "viv@race4life.org.nz",
+  "address": {
+    "line1": "154A Cairnmuir Road",
+    "line2": "RD 2",
+    "suburb": "Nevis",
+    "city": "Cromwell",
+    "postcode": "9384"
+  },
+  "nzbn": "9429043269051",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://facebook.com/race4lifetrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T00:49:27Z"
+}

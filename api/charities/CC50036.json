@@ -1,0 +1,27 @@
+{
+  "id": 33807,
+  "registrationNumber": "CC50036",
+  "name": "DermNet New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-11-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dermnetnz.org",
+  "email": "kwon079@gmail.com",
+  "address": {
+    "line1": "145 Great South Road",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429043254064",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T23:23:21Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 49900,
+  "registrationNumber": "CC33554",
+  "name": "Ellerslie Theatrical Society Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ellerslietheatre.co.nz",
+  "email": "davidblakey@gmail.com",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "32 Armadale Road",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429042716150",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ellerslietheatre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T02:53:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 58404,
+  "registrationNumber": "CC26136",
+  "name": "Footsteps Adventist Preschool Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.footstepspreschool.co.nz",
+  "email": "admin@footstepspreschool.co.nz",
+  "address": {
+    "line1": "105 Tait Drive",
+    "line2": " ",
+    "suburb": "Greenmeadows",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": "9429043035427",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Footsteps preschool Napier",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T23:45:17Z"
+}

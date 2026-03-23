@@ -1,0 +1,27 @@
+{
+  "id": 46281,
+  "registrationNumber": "CC29093",
+  "name": "Cheltenham Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "racheloconnor@hotmail.co.nz",
+  "address": {
+    "line1": "10 Barrow Road",
+    "line2": "RD 7",
+    "suburb": "Cheltenham",
+    "city": "Feilding",
+    "postcode": "4777"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T00:48:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 61287,
+  "registrationNumber": "CC34385",
+  "name": "Balance NZ",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2016-11-29T00:00:00Z",
+  "website": "http://www.balance.org.nz",
+  "email": "lynere@inet.net.nz",
+  "address": {
+    "line1": "Room 113",
+    "line2": "60 Ridgway Street",
+    "suburb": " ",
+    "city": "Wanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429043079780",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-04-30T23:16:27Z"
+}

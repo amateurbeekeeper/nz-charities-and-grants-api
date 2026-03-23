@@ -1,0 +1,27 @@
+{
+  "id": 43978,
+  "registrationNumber": "CC35477",
+  "name": "West End Lawn Tennis Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.westendtennis.club.co.nz",
+  "email": "info@westendtennisclub.co.nz",
+  "address": {
+    "line1": "Corner West End Road And Fife Street",
+    "line2": " ",
+    "suburb": "Westmere",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429042912293",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T04:52:38Z"
+}

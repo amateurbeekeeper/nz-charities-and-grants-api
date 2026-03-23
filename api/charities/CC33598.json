@@ -1,0 +1,27 @@
+{
+  "id": 43027,
+  "registrationNumber": "CC33598",
+  "name": "Hillsborough Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.hillschurch.nz",
+  "email": "paul.pidakala@gmail.com",
+  "address": {
+    "line1": "179 Hillsborough Road",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429042622598",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T08:00:23Z"
+}

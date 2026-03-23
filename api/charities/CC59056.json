@@ -1,0 +1,27 @@
+{
+  "id": 72664,
+  "registrationNumber": "CC59056",
+  "name": "Luminata Voices Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.luminatavoices.org",
+  "email": "luminata@gmail.com",
+  "address": {
+    "line1": "32 Lake Road",
+    "line2": " ",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": "9429049203028",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/luminatavoices",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:28:37Z"
+}

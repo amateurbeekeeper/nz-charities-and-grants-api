@@ -1,0 +1,27 @@
+{
+  "id": 51842,
+  "registrationNumber": "CC10518",
+  "name": "Wellington Botanical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-06-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wellingtonbotsoc.org.nz",
+  "email": "wellingtonbotsoctreasurer@gmail.com",
+  "address": {
+    "line1": "c/o Ōtari-Wilton's Bush",
+    "line2": "150 Wilton Road",
+    "suburb": "Wilton",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429042917588",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T01:34:26Z"
+}

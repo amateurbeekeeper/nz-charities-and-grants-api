@@ -1,0 +1,27 @@
+{
+  "id": 54521,
+  "registrationNumber": "CC36791",
+  "name": "Elim Church Christchurch City Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-11-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.elimchristchurch.org",
+  "email": "faamanu.telea@chch.elim.org.nz",
+  "address": {
+    "line1": "285 Cashel Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042964575",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T20:58:07Z"
+}

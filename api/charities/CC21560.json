@@ -1,0 +1,27 @@
+{
+  "id": 54200,
+  "registrationNumber": "CC21560",
+  "name": "Geyser Community Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.geysercf.org.nz",
+  "email": "rosie@geysercf.org.nz",
+  "address": {
+    "line1": "1274 Eruera Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429043173105",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/geysercommunityfoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T20:47:11Z"
+}

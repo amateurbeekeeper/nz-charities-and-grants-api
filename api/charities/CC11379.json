@@ -1,0 +1,27 @@
+{
+  "id": 51555,
+  "registrationNumber": "CC11379",
+  "name": "Papatoetoe Adolescent Christian Trust Inc",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pact.org.nz",
+  "email": "sarah@pact.org.nz",
+  "address": {
+    "line1": "311 Great South Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429042824688",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/papatoetoeadolescentchristiantrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-18T23:46:40Z"
+}

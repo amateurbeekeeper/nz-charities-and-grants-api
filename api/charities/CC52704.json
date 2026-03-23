@@ -1,0 +1,27 @@
+{
+  "id": 66438,
+  "registrationNumber": "CC52704",
+  "name": "Anglican Diocese of Christchurch-Parish of Merivale St Albans",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.allsouls.org.nz",
+  "email": "kkearney594@gmail.com",
+  "address": {
+    "line1": "30 Church Lane",
+    "line2": " ",
+    "suburb": "Merivale",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/allsoulsmerivalestalbans",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-02T19:36:30Z"
+}

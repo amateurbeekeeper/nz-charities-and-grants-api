@@ -1,0 +1,27 @@
+{
+  "id": 50042,
+  "registrationNumber": "CC38168",
+  "name": "Red Panda Productions",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-03-02T00:00:00Z",
+  "dateDeregistered": "2011-02-08T00:00:00Z",
+  "website": null,
+  "email": "red.panda.productions@gmail.com",
+  "address": {
+    "line1": "Floor 1",
+    "line2": "1 Bedford Row",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043087211",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:52:29Z"
+}

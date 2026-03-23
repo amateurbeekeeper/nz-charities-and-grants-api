@@ -1,0 +1,27 @@
+{
+  "id": 68015,
+  "registrationNumber": "CC54332",
+  "name": "Christian Community Churches of New Zealand Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-03-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cccnz.nz",
+  "email": "jcmarais@cccnz.nz",
+  "address": {
+    "line1": "Level 3",
+    "line2": "Capital Fund House",
+    "suburb": "357 Main Street",
+    "city": "Palmerston North",
+    "postcode": "4440"
+  },
+  "nzbn": "9429045936203",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ChristianCommunityChurchesofNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T01:45:52Z"
+}

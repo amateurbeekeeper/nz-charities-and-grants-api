@@ -1,0 +1,27 @@
+{
+  "id": 53172,
+  "registrationNumber": "CC20977",
+  "name": "Parkwood Trust Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.parkwoodvillage.co.nz",
+  "email": "s.lyons@parkwoodvillage.co.nz",
+  "address": {
+    "line1": "99 Belvedere Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waikanae",
+    "postcode": "5036"
+  },
+  "nzbn": "9429042803065",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T21:58:50Z"
+}

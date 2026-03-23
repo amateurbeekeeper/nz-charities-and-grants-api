@@ -1,0 +1,27 @@
+{
+  "id": 70647,
+  "registrationNumber": "CC57015",
+  "name": "The Aotearoa Circle Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.theaotearoacircle.nz/",
+  "email": "funding@publictrust.co.nz",
+  "address": {
+    "line1": "Public Trust Tower",
+    "line2": "Level 2, 22 Willeston St",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:08:59Z"
+}

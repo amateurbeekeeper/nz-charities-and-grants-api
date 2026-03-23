@@ -1,0 +1,27 @@
+{
+  "id": 51288,
+  "registrationNumber": "CC20161",
+  "name": "Otago Youth Wellness Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.oywt.org.nz",
+  "email": "amyc@oywt.org.nz",
+  "address": {
+    "line1": "20 Parry Street West",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042798255",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/otagoyouthwellnesstrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T18:12:57Z"
+}

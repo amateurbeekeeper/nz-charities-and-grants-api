@@ -1,0 +1,27 @@
+{
+  "id": 75712,
+  "registrationNumber": "CC62159",
+  "name": "Students for Fair Rent",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://sfr.org.nz/",
+  "email": "matthew.lee@sfr.org.nz",
+  "address": {
+    "line1": "11 Symonds Street",
+    "line2": "Student Engagement Office, Level 1",
+    "suburb": "Auckland CBD",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T03:46:42Z"
+}

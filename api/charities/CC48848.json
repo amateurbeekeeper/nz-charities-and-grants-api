@@ -1,0 +1,27 @@
+{
+  "id": 33154,
+  "registrationNumber": "CC48848",
+  "name": "Sumner Cricket Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-02-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sumnercricketclub.com",
+  "email": "paul@openaccounting.co.nz",
+  "address": {
+    "line1": "25 St Leonards Square",
+    "line2": " ",
+    "suburb": "Sumner",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": "9429043173389",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com\\sumnercricket",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T18:20:14Z"
+}

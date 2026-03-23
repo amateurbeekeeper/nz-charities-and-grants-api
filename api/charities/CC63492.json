@@ -1,0 +1,27 @@
+{
+  "id": 77693,
+  "registrationNumber": "CC63492",
+  "name": "Te Mauri o te Taiao Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john@earthquotient.nz",
+  "address": {
+    "line1": "53A Kotare Street",
+    "line2": " ",
+    "suburb": "Fendalton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T02:48:52Z"
+}

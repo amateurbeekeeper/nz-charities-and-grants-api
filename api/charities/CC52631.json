@@ -1,0 +1,27 @@
+{
+  "id": 66362,
+  "registrationNumber": "CC52631",
+  "name": "The Reddy Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://reddyfoundation.org.nz",
+  "email": "brett@reddygroup.com",
+  "address": {
+    "line1": "Spartik House, Level 3",
+    "line2": "6-8 Edward Wayte Place",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043305858",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-06T22:47:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63800,
+  "registrationNumber": "CC39432",
+  "name": "Dunedin Tunnels Trail Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.dttt.org.nz",
+  "email": "gerard@hyland.net.nz",
+  "address": {
+    "line1": "167 Signal Hill Road",
+    "line2": " ",
+    "suburb": "Opoho",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": "9429043100705",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DunedinTunnelsTrailTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:03:13Z"
+}

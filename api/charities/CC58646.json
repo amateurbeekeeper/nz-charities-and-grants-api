@@ -1,0 +1,27 @@
+{
+  "id": 72259,
+  "registrationNumber": "CC58646",
+  "name": "SOS Kaipara Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-12-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.soskaipara.com",
+  "email": "pushpa.joyce@soskaipara.co.nz",
+  "address": {
+    "line1": "158A Victoria Street",
+    "line2": "Dargaville 0310",
+    "suburb": " ",
+    "city": "Dargaville",
+    "postcode": "0310"
+  },
+  "nzbn": "9429048715447",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/SOSKaipara",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T07:40:27Z"
+}

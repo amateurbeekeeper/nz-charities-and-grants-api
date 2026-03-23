@@ -1,0 +1,27 @@
+{
+  "id": 65811,
+  "registrationNumber": "CC52066",
+  "name": "St Martins Waimauku Presbyterian Church",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-07-02T00:00:00Z",
+  "dateDeregistered": "2020-08-27T00:00:00Z",
+  "website": null,
+  "email": "tony@kts.co.nz",
+  "address": {
+    "line1": "751 Main Rd",
+    "line2": " ",
+    "suburb": "Waimauku",
+    "city": "Auckland",
+    "postcode": "RD3"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-10-30T20:59:17Z"
+}

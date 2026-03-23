@@ -1,0 +1,27 @@
+{
+  "id": 50164,
+  "registrationNumber": "CC43688",
+  "name": "Temple Basin Ski Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2021-10-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.templebasin.co.nz",
+  "email": "treasurer@templebasin.co.nz",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "70 Hastings Street West",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429042862970",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T00:41:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66012,
+  "registrationNumber": "CC52274",
+  "name": "Cromwell Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-08-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cromchurch.co.nz",
+  "email": "treasurer.cromchurch@gmail.com",
+  "address": {
+    "line1": "10 Elspeth Street",
+    "line2": "Cromwell 9310",
+    "suburb": " ",
+    "city": "Cromwell",
+    "postcode": "9310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T21:32:37Z"
+}

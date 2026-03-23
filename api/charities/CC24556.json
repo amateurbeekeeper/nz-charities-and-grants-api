@@ -1,0 +1,27 @@
+{
+  "id": 42366,
+  "registrationNumber": "CC24556",
+  "name": "Far North Regional Museum Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teahumuseum.nz",
+  "email": "jeff_FNRMT@anotherworld.co.nz",
+  "address": {
+    "line1": "Cnr South Road",
+    "line2": "Matthews Avenue",
+    "suburb": " ",
+    "city": "Kaitaia",
+    "postcode": "0410"
+  },
+  "nzbn": "9429043119868",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T05:30:09Z"
+}

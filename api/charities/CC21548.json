@@ -1,0 +1,27 @@
+{
+  "id": 54445,
+  "registrationNumber": "CC21548",
+  "name": "Alzheimers Society Southland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.alzheimers.org.nz/southland",
+  "email": "grant.meyer@business-fixit.co.nz",
+  "address": {
+    "line1": "135 Yarrow Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042576044",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/alzheimerssouthlandbranch/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T02:25:36Z"
+}

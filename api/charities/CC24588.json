@@ -1,0 +1,27 @@
+{
+  "id": 40149,
+  "registrationNumber": "CC24588",
+  "name": "The Wilberforce Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wilberforce.org.nz",
+  "email": "melanie@wilberforce.org.nz",
+  "address": {
+    "line1": "55 Hugo Johnston Drive",
+    "line2": " ",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429046847867",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/people/Wilberforce-Foundation/100083077400065/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-19T18:19:37Z"
+}

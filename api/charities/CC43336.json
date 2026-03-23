@@ -1,0 +1,27 @@
+{
+  "id": 64423,
+  "registrationNumber": "CC43336",
+  "name": "Jesus City Church (JCC)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-01-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.jesuscitychurch.co.nz",
+  "email": "byeonggukkim79@gmail.com",
+  "address": {
+    "line1": "11A Carrigans Close",
+    "line2": "48 Courthouse Lane",
+    "suburb": "Pinehill",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043228386",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/jesuscitychurchnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T03:20:27Z"
+}

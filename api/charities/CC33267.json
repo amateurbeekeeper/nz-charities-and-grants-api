@@ -1,0 +1,27 @@
+{
+  "id": 45674,
+  "registrationNumber": "CC33267",
+  "name": "Club Garin",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "benbonoma@garincollege.nz",
+  "address": {
+    "line1": "Garin College",
+    "line2": "35 Champion Road",
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": "9429043019809",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-06T19:47:42Z"
+}

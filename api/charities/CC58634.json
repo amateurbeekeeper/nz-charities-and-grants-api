@@ -1,0 +1,27 @@
+{
+  "id": 72254,
+  "registrationNumber": "CC58634",
+  "name": "Kauri Rescue Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kaurirescue.org.nz",
+  "email": "treasurer.kaurirescuetrust@gmail.com",
+  "address": {
+    "line1": "311 Whareora Road",
+    "line2": "RD 5",
+    "suburb": "Whareora",
+    "city": "Whangarei",
+    "postcode": "0175"
+  },
+  "nzbn": "9429048869737",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kaurirescue",
+    "twitter": "https://twitter.com/KauriRescue"
+  },
+  "lastUpdated": "2025-12-02T18:13:53Z"
+}

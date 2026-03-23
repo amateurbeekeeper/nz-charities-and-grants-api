@@ -1,0 +1,27 @@
+{
+  "id": 57456,
+  "registrationNumber": "CC35109",
+  "name": "Park City Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2016-03-02T00:00:00Z",
+  "website": "www.parkcitychurch.org.nz",
+  "email": "carey.clow@parkcitychurch.org.nz",
+  "address": {
+    "line1": "94 Hurlstone Drive",
+    "line2": null,
+    "suburb": "Waiwhakaiho",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:26:35Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64279,
+  "registrationNumber": "CC41019",
+  "name": "St Mary's Home and School Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "m_soper@hotmail.com",
+  "address": {
+    "line1": "St Mary's School",
+    "line2": "7 Chaucer Street",
+    "suburb": " ",
+    "city": "Milton",
+    "postcode": "9220"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-19T19:25:57Z"
+}

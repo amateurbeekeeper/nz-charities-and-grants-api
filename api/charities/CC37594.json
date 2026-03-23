@@ -1,0 +1,27 @@
+{
+  "id": 42361,
+  "registrationNumber": "CC37594",
+  "name": "Iuventus Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.startme.org.nz",
+  "email": "pete@startme.org.nz",
+  "address": {
+    "line1": "MANAWANUI HOUSE",
+    "line2": "210 Featherston Street",
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429033700137",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-29T23:49:51Z"
+}

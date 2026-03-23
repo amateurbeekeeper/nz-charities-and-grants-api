@@ -1,0 +1,27 @@
+{
+  "id": 52203,
+  "registrationNumber": "CC10479",
+  "name": "Whangaruru Volunteer Coastguard Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://linktr.ee/coastguard.whangaruru",
+  "email": "tony.coyle@coastguard.nz",
+  "address": {
+    "line1": "167 Whangaruru Wharf Road",
+    "line2": null,
+    "suburb": "Whangaruru",
+    "city": "Russell",
+    "postcode": "0184"
+  },
+  "nzbn": "9429042919476",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whangaruru.coastguard/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T20:57:53Z"
+}

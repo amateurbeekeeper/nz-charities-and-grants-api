@@ -1,0 +1,27 @@
+{
+  "id": 52418,
+  "registrationNumber": "CC11149",
+  "name": "Kerr Taylor Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kerrtaylor.org.nz",
+  "email": "kerrtaylor@xtra.co.nz",
+  "address": {
+    "line1": "22 Wairata Place",
+    "line2": " ",
+    "suburb": "Te Atatu South",
+    "city": "Auckland",
+    "postcode": "610"
+  },
+  "nzbn": "9429042777830",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-23T04:59:39Z"
+}

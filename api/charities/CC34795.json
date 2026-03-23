@@ -1,0 +1,27 @@
+{
+  "id": 57387,
+  "registrationNumber": "CC34795",
+  "name": "The Corpus Christi Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bruce@ceracell.co.nz",
+  "address": {
+    "line1": "18 Campbell Road",
+    "line2": " ",
+    "suburb": "Maraetai",
+    "city": "Auckland",
+    "postcode": "2018"
+  },
+  "nzbn": "9429043130351",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-15T19:49:57Z"
+}

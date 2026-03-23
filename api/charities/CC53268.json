@@ -1,0 +1,27 @@
+{
+  "id": 66987,
+  "registrationNumber": "CC53268",
+  "name": "Waitangi Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-04-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waitangi.org.nz",
+  "email": "bendalton@waitangi.org.nz",
+  "address": {
+    "line1": "Tau Henare Drive",
+    "line2": " ",
+    "suburb": "Waitangi",
+    "city": "Paihia, Bay Of Islands",
+    "postcode": "0293"
+  },
+  "nzbn": "9429042300892",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T19:25:53Z"
+}

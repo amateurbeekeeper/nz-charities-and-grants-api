@@ -1,0 +1,27 @@
+{
+  "id": 62740,
+  "registrationNumber": "CC43812",
+  "name": "Glenview United AFC Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.glenviewsoccer.co.nz",
+  "email": "glenviewsoccernz@gmail.com",
+  "address": {
+    "line1": "49 Tomin Road",
+    "line2": " ",
+    "suburb": "Glenview",
+    "city": "Hamilton",
+    "postcode": "3206"
+  },
+  "nzbn": "9429042628507",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T23:35:12Z"
+}

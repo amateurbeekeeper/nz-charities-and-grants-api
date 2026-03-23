@@ -1,0 +1,27 @@
+{
+  "id": 65590,
+  "registrationNumber": "CC51815",
+  "name": "Crossroads Mangatangi",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.crossroadschurch.co.nz",
+  "email": "treasurer@crossroadschurch.co.nz",
+  "address": {
+    "line1": "448 Mangatangi Road",
+    "line2": "RD 3",
+    "suburb": "Mangatangi",
+    "city": "Pokeno",
+    "postcode": "2473"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-29T04:02:54Z"
+}

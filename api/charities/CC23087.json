@@ -1,0 +1,27 @@
+{
+  "id": 54789,
+  "registrationNumber": "CC23087",
+  "name": "Sixtus Lodge Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sixtuslodge.co.nz",
+  "email": "treasurer@sixtuslodge.co.nz",
+  "address": {
+    "line1": "318 Limestone Road",
+    "line2": "RD 54",
+    "suburb": " ",
+    "city": "Apiti",
+    "postcode": "4774"
+  },
+  "nzbn": "9429042724575",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SixtusLodge/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-29T03:18:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 68309,
+  "registrationNumber": "CC54642",
+  "name": "Te Waiiti Marae Ruatahuna",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngaituhoe.iwi.nz/te-waiiti-marae",
+  "email": "meremclean@gmail.com",
+  "address": {
+    "line1": "14A Princess Street",
+    "line2": " ",
+    "suburb": "Ōpōtiki",
+    "city": "Opotiki",
+    "postcode": "3122"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tewaiiti.marae?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T21:27:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42101,
+  "registrationNumber": "CC36363",
+  "name": "Bell Block Childcare Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@communitynest.net",
+  "address": {
+    "line1": "32 Nugent Street",
+    "line2": " ",
+    "suburb": "Bell Block",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429042594277",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T00:59:09Z"
+}

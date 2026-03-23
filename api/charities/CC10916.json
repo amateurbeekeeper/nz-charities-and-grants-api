@@ -1,0 +1,27 @@
+{
+  "id": 51830,
+  "registrationNumber": "CC10916",
+  "name": "Te Runanga O Ngati Awa",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngatiawa.iwi.nz",
+  "email": "haley@ngatiawa.iwi.nz",
+  "address": {
+    "line1": "Louvain House",
+    "line2": "Louvain Street",
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429052726354",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T22:19:44Z"
+}

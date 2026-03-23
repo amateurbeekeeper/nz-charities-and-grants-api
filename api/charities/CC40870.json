@@ -1,0 +1,27 @@
+{
+  "id": 59317,
+  "registrationNumber": "CC40870",
+  "name": "Tiakina Te Taiao Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tiakina.co.nz",
+  "email": "sacha@rezource.nz",
+  "address": {
+    "line1": "Suite 1",
+    "line2": "23 Alma Street",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429033782829",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-31T02:25:24Z"
+}

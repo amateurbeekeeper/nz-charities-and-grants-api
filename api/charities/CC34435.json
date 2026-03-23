@@ -1,0 +1,27 @@
+{
+  "id": 42346,
+  "registrationNumber": "CC34435",
+  "name": "Plumbers Gasfitters Drainlayers Board",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pgdb.co.nz",
+  "email": "gillian@pgdb.co.nz",
+  "address": {
+    "line1": "Level 4, Midland Chambers",
+    "line2": "45 Johnston Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429046194435",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T22:13:33Z"
+}

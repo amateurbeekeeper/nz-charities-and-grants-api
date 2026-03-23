@@ -1,0 +1,27 @@
+{
+  "id": 70050,
+  "registrationNumber": "CC56414",
+  "name": "Love Kawatiri Community Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-08-14T00:00:00Z",
+  "dateDeregistered": "2023-06-30T00:00:00Z",
+  "website": "https://www.lovekawatiri.org.nz",
+  "email": "pete.howard@canterbury.ac.nz",
+  "address": {
+    "line1": "10A Lyndhurst Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Westport",
+    "postcode": "7825"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/lovekawatiri",
+    "twitter": null
+  },
+  "lastUpdated": "2024-06-12T00:05:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56555,
+  "registrationNumber": "CC30080",
+  "name": "Piha Surf Life Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pihaslsc.com",
+  "email": "opsmgr@pihaslsc.com",
+  "address": {
+    "line1": "23 Marine Parade South",
+    "line2": "Piha 0772",
+    "suburb": " ",
+    "city": "Piha",
+    "postcode": "0772"
+  },
+  "nzbn": "9429042805533",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T04:22:32Z"
+}

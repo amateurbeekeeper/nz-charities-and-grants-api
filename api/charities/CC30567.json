@@ -1,0 +1,27 @@
+{
+  "id": 48168,
+  "registrationNumber": "CC30567",
+  "name": "Saint Peter Claver Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "peterclaver@xtra.co.nz",
+  "address": {
+    "line1": "1 Mersey Street",
+    "line2": " ",
+    "suburb": "Island Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429042831587",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T03:05:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 58708,
+  "registrationNumber": "CC29577",
+  "name": "Vision Life Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.vfcak.org.nz",
+  "email": "visionlifecentre@gmail.com",
+  "address": {
+    "line1": "7E Rata Street",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "640"
+  },
+  "nzbn": "9429043073047",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:53:47Z"
+}

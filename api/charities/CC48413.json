@@ -1,0 +1,27 @@
+{
+  "id": 32654,
+  "registrationNumber": "CC48413",
+  "name": "Tiger Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "philb@nsatax.co.nz",
+  "address": {
+    "line1": "LEVEL 1",
+    "line2": "5 Crummer Road",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:39:06Z"
+}

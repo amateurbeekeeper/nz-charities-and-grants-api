@@ -1,0 +1,27 @@
+{
+  "id": 37289,
+  "registrationNumber": "CC46858",
+  "name": "Motairehe Marae Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-08-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "motairehe@gmail.com",
+  "address": {
+    "line1": "Motairehe Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Great Barrier Island",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/motairehe.marae",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T23:38:17Z"
+}

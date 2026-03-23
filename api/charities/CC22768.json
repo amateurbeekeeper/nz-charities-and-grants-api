@@ -1,0 +1,27 @@
+{
+  "id": 56106,
+  "registrationNumber": "CC22768",
+  "name": "Hamilton SeniorNet Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hamseniornet.org.nz",
+  "email": "debney1912@gmail.com",
+  "address": {
+    "line1": "Flat 106",
+    "line2": "4 Admiral Crescent",
+    "suburb": "Flagstaff",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429043028900",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T00:27:38Z"
+}

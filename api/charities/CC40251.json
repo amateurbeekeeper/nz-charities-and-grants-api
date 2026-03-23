@@ -1,0 +1,27 @@
+{
+  "id": 64247,
+  "registrationNumber": "CC40251",
+  "name": "The Unions Aotearoa International Development Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.unionaid.org.nz",
+  "email": "tim@unionaid.org.nz",
+  "address": {
+    "line1": "79 Boulcott Street",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/unionaid",
+    "twitter": "https://twitter.com/UnionAID1"
+  },
+  "lastUpdated": "2025-09-11T19:25:17Z"
+}

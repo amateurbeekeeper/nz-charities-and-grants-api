@@ -1,0 +1,27 @@
+{
+  "id": 75682,
+  "registrationNumber": "CC62137",
+  "name": "SDL Charitable Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-01-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://thepawphanage.nz",
+  "email": "jay@thepawphanage.nz",
+  "address": {
+    "line1": "18 Homestead Place",
+    "line2": " ",
+    "suburb": "Glenview",
+    "city": "Hamilton",
+    "postcode": "3206"
+  },
+  "nzbn": "9429051825454",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thepawphanage/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-10T04:55:41Z"
+}

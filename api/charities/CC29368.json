@@ -1,0 +1,27 @@
+{
+  "id": 61221,
+  "registrationNumber": "CC29368",
+  "name": "Queenstown Bible Chapel ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.queenstownbiblechapel.co.nz",
+  "email": "robinp@pimmco.co.nz",
+  "address": {
+    "line1": "129 Hallenstein Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-25T18:56:04Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54151,
+  "registrationNumber": "CC20913",
+  "name": "Parents Of Vision Impaired (NZ) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pvi.org.nz",
+  "email": "rgraham@pvi.org.nz",
+  "address": {
+    "line1": "13 Blakewell Lane",
+    "line2": null,
+    "suburb": "Dinsdale",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043152506",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pvinz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T18:17:38Z"
+}

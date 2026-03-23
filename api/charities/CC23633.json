@@ -1,0 +1,27 @@
+{
+  "id": 41441,
+  "registrationNumber": "CC23633",
+  "name": "The Stratford Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2022-09-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stfdhealth@outlook.com",
+  "address": {
+    "line1": "8 Romeo Street",
+    "line2": "Stratford 4332",
+    "suburb": " ",
+    "city": "Stratford",
+    "postcode": "4332"
+  },
+  "nzbn": "9429042959113",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T20:11:18Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73530,
+  "registrationNumber": "CC59808",
+  "name": "Te Arateatea Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-01-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tearateatea.com",
+  "email": "kiaora@tearateatea.com",
+  "address": {
+    "line1": "Shop 59 The Tannery",
+    "line2": "3 Garlands Road",
+    "suburb": "Woolston",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": "9429048790079",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T01:38:49Z"
+}

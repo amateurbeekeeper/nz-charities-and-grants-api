@@ -1,0 +1,27 @@
+{
+  "id": 63327,
+  "registrationNumber": "CC43077",
+  "name": "TGH Crown Investment Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tgh.co.nz",
+  "email": "Statrec@tgh.co.nz",
+  "address": {
+    "line1": "6 Bryce Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429038355349",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T02:01:55Z"
+}

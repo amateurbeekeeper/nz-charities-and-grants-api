@@ -1,0 +1,27 @@
+{
+  "id": 45357,
+  "registrationNumber": "CC36733",
+  "name": "Tuakau Methodist Presbyterian Union Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@tupc.org.nz",
+  "address": {
+    "line1": "Madill Street",
+    "line2": " ",
+    "suburb": "Tuakau",
+    "city": "South Auckland",
+    "postcode": "2121"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Tuakau-Union-Parish-1066687903445469/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T18:06:21Z"
+}

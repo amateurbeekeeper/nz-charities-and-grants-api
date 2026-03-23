@@ -1,0 +1,27 @@
+{
+  "id": 34588,
+  "registrationNumber": "CC51163",
+  "name": "Summer Festival Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.festival.one",
+  "email": "Graham@Festival.One",
+  "address": {
+    "line1": "42A Kiwi Esplanade",
+    "line2": "RD 3",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429041348116",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T02:18:32Z"
+}

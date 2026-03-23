@@ -1,0 +1,27 @@
+{
+  "id": 69124,
+  "registrationNumber": "CC55465",
+  "name": "Halcombe Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.halcombecommunity.co.nz",
+  "email": "jelanco@xtra.co.nz",
+  "address": {
+    "line1": "210 Mt Biggs Road",
+    "line2": "RD 9",
+    "suburb": "Halcombe",
+    "city": "Feilding",
+    "postcode": "4779"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T21:22:57Z"
+}

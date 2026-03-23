@@ -1,0 +1,27 @@
+{
+  "id": 41273,
+  "registrationNumber": "CC27170",
+  "name": "The Catwalk Spinal Cord Injury Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.catwalk.org.nz",
+  "email": "info@catwalk.org.nz",
+  "address": {
+    "line1": "52 Symonds Street",
+    "line2": "Level 3",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043048595",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/thecatwalktrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T21:29:50Z"
+}

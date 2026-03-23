@@ -1,0 +1,27 @@
+{
+  "id": 41889,
+  "registrationNumber": "CC33452",
+  "name": "Dietitians Board",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dietitiansboard.org.nz",
+  "email": "dietitians@dietitiansboard.org.nz",
+  "address": {
+    "line1": "Level 6, ",
+    "line2": "22 Willeston Street",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6141"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:38:14Z"
+}

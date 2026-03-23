@@ -1,0 +1,27 @@
+{
+  "id": 68019,
+  "registrationNumber": "CC54241",
+  "name": "The Men's Resource Centre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-01-27T00:00:00Z",
+  "dateDeregistered": "2025-01-28T00:00:00Z",
+  "website": null,
+  "email": "tmrctauranga@gmail.com",
+  "address": {
+    "line1": "1858 State Highway 2",
+    "line2": "RD 4",
+    "suburb": "Whakamarama",
+    "city": "Katikati",
+    "postcode": "3181"
+  },
+  "nzbn": "9429045865770",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-11T06:07:34Z"
+}

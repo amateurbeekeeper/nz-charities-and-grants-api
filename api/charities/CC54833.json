@@ -1,0 +1,27 @@
+{
+  "id": 68500,
+  "registrationNumber": "CC54833",
+  "name": "The Dog Rescue Project",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thedogrescueproject.org.nz",
+  "email": "amanda@thedogrescueproject.org.nz",
+  "address": {
+    "line1": "Unit 4",
+    "line2": "93 Ellice Road",
+    "suburb": "Wairau Valley",
+    "city": "Auckland",
+    "postcode": "0629"
+  },
+  "nzbn": "9429046220073",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thedogrescueproject",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T23:54:45Z"
+}

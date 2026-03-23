@@ -1,0 +1,27 @@
+{
+  "id": 35932,
+  "registrationNumber": "CC45560",
+  "name": "Te Whakaora Tangata",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-10-17T00:00:00Z",
+  "dateDeregistered": "2024-12-31T00:00:00Z",
+  "website": "https://www.tewhakaora.org.nz",
+  "email": "shawn@tewhakaora.org.nz",
+  "address": {
+    "line1": "10 Roys Road",
+    "line2": " ",
+    "suburb": "Weymouth",
+    "city": "Auckland",
+    "postcode": "2103"
+  },
+  "nzbn": "9429043206247",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/tewhakaora",
+    "twitter": null
+  },
+  "lastUpdated": "2025-01-06T06:31:06Z"
+}

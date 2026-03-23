@@ -1,0 +1,27 @@
+{
+  "id": 62083,
+  "registrationNumber": "CC35936",
+  "name": "Joe and Eve Major Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "janpage102@hotmail.com",
+  "address": {
+    "line1": "105 Waterloo Road",
+    "line2": " ",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:17:33Z"
+}

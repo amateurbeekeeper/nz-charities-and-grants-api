@@ -1,0 +1,27 @@
+{
+  "id": 42638,
+  "registrationNumber": "CC40644",
+  "name": "Carlton Netball Club Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-06-07T00:00:00Z",
+  "dateDeregistered": "2015-02-09T00:00:00Z",
+  "website": null,
+  "email": "bvandelden@mvp.co.nz",
+  "address": {
+    "line1": "192A Green Lane West",
+    "line2": null,
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429043156344",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:08:04Z"
+}

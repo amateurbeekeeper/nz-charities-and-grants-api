@@ -1,0 +1,27 @@
+{
+  "id": 33358,
+  "registrationNumber": "CC48841",
+  "name": "Papawai Pa Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-02-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.papawai.org.nz",
+  "email": "papawai.marae@gmail.com",
+  "address": {
+    "line1": "18 Pā Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Papawai",
+    "postcode": "5794"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/papawaipamarae",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:12Z"
+}

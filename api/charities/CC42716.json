@@ -1,0 +1,27 @@
+{
+  "id": 46309,
+  "registrationNumber": "CC42716",
+  "name": "Canterbury Provincial Fire Brigades Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cpfba.org.nz",
+  "email": "secretary@cpfba.org.nz",
+  "address": {
+    "line1": "24 Simeon Quay",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lyttelton",
+    "postcode": "8082"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Canterbury-Provincial-Fire-Brigades-Association-CPFBA-183601518432363/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:55:50Z"
+}

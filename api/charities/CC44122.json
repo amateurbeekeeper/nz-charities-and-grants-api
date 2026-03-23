@@ -1,0 +1,27 @@
+{
+  "id": 64105,
+  "registrationNumber": "CC44122",
+  "name": "Earthlink Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.earthlink.org.nz",
+  "email": "chris@earthlink.org.nz",
+  "address": {
+    "line1": "25 Peterkin Street",
+    "line2": " ",
+    "suburb": "Taita",
+    "city": "Lower Hutt",
+    "postcode": "5019"
+  },
+  "nzbn": "9429042697404",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EarthlinkIncorporated/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T00:32:31Z"
+}

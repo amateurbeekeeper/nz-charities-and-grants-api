@@ -1,0 +1,27 @@
+{
+  "id": 73186,
+  "registrationNumber": "CC59596",
+  "name": "Community Support Waitakere",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://waitakere.org.nz",
+  "email": "support@waitakere.org.nz",
+  "address": {
+    "line1": "21 Laingfield Terrace",
+    "line2": " ",
+    "suburb": "Laingholm",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429049950588",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/waitakere.org.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-07T02:53:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 57509,
+  "registrationNumber": "CC23812",
+  "name": "Oxford District Union Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kmauricewells@gmail.com",
+  "address": {
+    "line1": "85 Main Street",
+    "line2": "Oxford 7430",
+    "suburb": "Starvation Hill",
+    "city": "Oxford",
+    "postcode": "7430"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:12:50Z"
+}

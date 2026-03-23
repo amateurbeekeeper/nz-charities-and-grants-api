@@ -1,0 +1,27 @@
+{
+  "id": 38431,
+  "registrationNumber": "CC47565",
+  "name": "IAM Roadsmart Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-08-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.iam.org.nz",
+  "email": "secretary@iam.org.nz",
+  "address": {
+    "line1": "PO Box 222",
+    "line2": null,
+    "suburb": null,
+    "city": "Waikanae",
+    "postcode": "5250"
+  },
+  "nzbn": "9429042620594",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/65119753776",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T06:32:51Z"
+}

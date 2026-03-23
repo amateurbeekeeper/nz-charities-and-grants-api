@@ -1,0 +1,27 @@
+{
+  "id": 34137,
+  "registrationNumber": "CC50478",
+  "name": "Wanaka Baptist Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wanakabaptist.org",
+  "email": "office@wanakabaptist.org",
+  "address": {
+    "line1": "49 Nichol Street",
+    "line2": "RD 2",
+    "suburb": "Lake Hāwea",
+    "city": "Wanaka",
+    "postcode": "9382"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Wanaka-Baptist-Church-387487941622017/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:10:56Z"
+}

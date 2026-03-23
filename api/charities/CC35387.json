@@ -1,0 +1,27 @@
+{
+  "id": 42205,
+  "registrationNumber": "CC35387",
+  "name": "Warkworth Celebration Centre Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2023-03-31T00:00:00Z",
+  "website": "http://www.celebrationcentre.co.nz",
+  "email": "aitkensinnz@gmail.com",
+  "address": {
+    "line1": "59 Canterbury Street",
+    "line2": "RD 7",
+    "suburb": "Ashley",
+    "city": "Rangiora",
+    "postcode": "7477"
+  },
+  "nzbn": "9429043137671",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/Celebration-Centre-Warkworth-130278630388086/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-02-06T06:01:17Z"
+}

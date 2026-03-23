@@ -1,0 +1,27 @@
+{
+  "id": 75224,
+  "registrationNumber": "CC61655",
+  "name": "HTowers Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bruce@htowers.nz",
+  "address": {
+    "line1": "123 Vogel Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T20:39:21Z"
+}

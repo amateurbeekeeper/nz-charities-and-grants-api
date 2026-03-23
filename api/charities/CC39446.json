@@ -1,0 +1,27 @@
+{
+  "id": 47225,
+  "registrationNumber": "CC39446",
+  "name": "Athletics Canterbury Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.athleticscanterbury.co.nz",
+  "email": "victor.gamperle@athleticscanterbury.org.nz",
+  "address": {
+    "line1": "10 Patricia Place",
+    "line2": null,
+    "suburb": "Harewood",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429042581468",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Athletics Canterbury",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T01:22:30Z"
+}

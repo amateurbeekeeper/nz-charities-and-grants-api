@@ -1,0 +1,27 @@
+{
+  "id": 51003,
+  "registrationNumber": "CC11343",
+  "name": "Hamilton Combined Christian Foodbank Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hamiltonfoodbank.org.nz",
+  "email": "manager@hccfb.org.nz",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429042942436",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T19:18:58Z"
+}

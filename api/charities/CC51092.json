@@ -1,0 +1,27 @@
+{
+  "id": 34701,
+  "registrationNumber": "CC51092",
+  "name": "North Shore Resource Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-09-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.northshoreresourcecentre.org.nz",
+  "email": "k.waugh@xtra.co.nz",
+  "address": {
+    "line1": "44 Mahara Avenue",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429042814238",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/northshoreresourcecentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T03:54:57Z"
+}

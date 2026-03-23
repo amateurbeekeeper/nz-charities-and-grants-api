@@ -1,0 +1,27 @@
+{
+  "id": 45543,
+  "registrationNumber": "CC30471",
+  "name": "Waikanae Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "waikanae@playcentre.org.nz",
+  "address": {
+    "line1": "2 Hira Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waikanae",
+    "postcode": "5036"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:11:29Z"
+}

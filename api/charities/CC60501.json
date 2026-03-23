@@ -1,0 +1,27 @@
+{
+  "id": 74091,
+  "registrationNumber": "CC60501",
+  "name": "MARAMA SOUTH",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "grant.meyer@business-fixit.co.nz",
+  "address": {
+    "line1": "135 Yarrow Street",
+    "line2": "Invercargill 9810",
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429050812943",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-27T19:22:41Z"
+}

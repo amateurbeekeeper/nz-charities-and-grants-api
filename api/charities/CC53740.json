@@ -1,0 +1,27 @@
+{
+  "id": 67451,
+  "registrationNumber": "CC53740",
+  "name": "Te Kopae Reo o Tupoho Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admintekopaereo@xtra.co.nz",
+  "address": {
+    "line1": "18 Cross Street",
+    "line2": " ",
+    "suburb": "Castlecliff",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429043251988",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Kopae Reo o Tupoho",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-08T19:41:40Z"
+}

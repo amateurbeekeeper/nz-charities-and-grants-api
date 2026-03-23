@@ -1,0 +1,27 @@
+{
+  "id": 50989,
+  "registrationNumber": "CC10138",
+  "name": "Church Of New Zealand (Orthodox Catholic)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "afifhadj@gmail.com",
+  "address": {
+    "line1": "72 Fingall Street",
+    "line2": " ",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042616580",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-12T21:13:20Z"
+}

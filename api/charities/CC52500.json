@@ -1,0 +1,27 @@
+{
+  "id": 66277,
+  "registrationNumber": "CC52500",
+  "name": "Tirau Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-11-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david.fisher@fireandemergency.nz",
+  "address": {
+    "line1": "17 Okoroire Street",
+    "line2": " ",
+    "suburb": "Tīrau",
+    "city": "Tirau",
+    "postcode": "3410"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T22:31:40Z"
+}

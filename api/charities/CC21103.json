@@ -1,0 +1,27 @@
+{
+  "id": 54002,
+  "registrationNumber": "CC21103",
+  "name": "Young Enterprise Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.youngenterprise.org.nz",
+  "email": "accounts@youngenterprise.org.nz",
+  "address": {
+    "line1": "LEVEL 2",
+    "line2": "93 Boulcott Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042719564",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T21:30:05Z"
+}

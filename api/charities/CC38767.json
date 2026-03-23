@@ -1,0 +1,27 @@
+{
+  "id": 59110,
+  "registrationNumber": "CC38767",
+  "name": "West Coast Historical and Mechanical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.shantytown.co.nz",
+  "email": "andrea@shantytown.co.nz",
+  "address": {
+    "line1": "Shantytown Post Office",
+    "line2": "Rutherglen Road",
+    "suburb": " ",
+    "city": "Greymouth",
+    "postcode": "7801"
+  },
+  "nzbn": "9429042909224",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Shantytownnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T22:20:01Z"
+}

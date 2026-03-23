@@ -1,0 +1,27 @@
+{
+  "id": 61117,
+  "registrationNumber": "CC30229",
+  "name": "Oak Lane Community Church Trust (OLCCT)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lifezone.church",
+  "email": "accts.at.crest@gmail.com",
+  "address": {
+    "line1": "7 Oak Lane",
+    "line2": " ",
+    "suburb": "Judea",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T00:41:44Z"
+}

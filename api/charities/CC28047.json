@@ -1,0 +1,27 @@
+{
+  "id": 60252,
+  "registrationNumber": "CC28047",
+  "name": "Central Otago Health Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.dunstanhospital.org.nz/central-otago-health-incorporated",
+  "email": "centralotagohealthinc@gmail.com",
+  "address": {
+    "line1": "29 Hospital Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Clyde",
+    "postcode": "9330"
+  },
+  "nzbn": "9429043074341",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T22:30:49Z"
+}

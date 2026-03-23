@@ -1,0 +1,27 @@
+{
+  "id": 38229,
+  "registrationNumber": "CC45891",
+  "name": "Asia Pacific Research  Institute",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-12-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.asiaforum.org.nz",
+  "email": "farib.sos@asiaforum.org.nz",
+  "address": {
+    "line1": "PO BOX 2152",
+    "line2": "5 Kandy Crescent",
+    "suburb": "Ngaio",
+    "city": "Ngaio",
+    "postcode": "6035"
+  },
+  "nzbn": "9429041696682",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-02T19:15:38Z"
+}

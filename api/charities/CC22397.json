@@ -1,0 +1,27 @@
+{
+  "id": 39798,
+  "registrationNumber": "CC22397",
+  "name": "Wellington Rape Crisis Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wellingtonrapecrisis.org.nz",
+  "email": "kyla@wgtnrc.org.nz",
+  "address": {
+    "line1": "Level 4",
+    "line2": "220 Willis Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042908807",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wgtnrapecrisis/",
+    "twitter": "https://twitter.com/WgtnRapeCrisis"
+  },
+  "lastUpdated": "2025-11-13T18:32:43Z"
+}

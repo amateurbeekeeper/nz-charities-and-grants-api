@@ -1,0 +1,27 @@
+{
+  "id": 53590,
+  "registrationNumber": "CC20717",
+  "name": "The Seddon Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-01-28T00:00:00Z",
+  "dateDeregistered": "2025-12-08T00:00:00Z",
+  "website": null,
+  "email": "arsalan.abdollahi@scholefield.co.nz",
+  "address": {
+    "line1": "C/- CALVARY HOSPITAL",
+    "line2": "215 Centre Street",
+    "suburb": "Heidelberg",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": "9429042890942",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T01:50:45Z"
+}

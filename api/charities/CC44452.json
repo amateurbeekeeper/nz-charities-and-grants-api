@@ -1,0 +1,27 @@
+{
+  "id": 50723,
+  "registrationNumber": "CC44452",
+  "name": "Brass Whanganui Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.brasswhanganui.co.nz",
+  "email": "admin@tpco.co.nz",
+  "address": {
+    "line1": "7 Pukenamu Drive",
+    "line2": "Whanganui 4500",
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042992509",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/brasswhanganui",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T04:44:29Z"
+}

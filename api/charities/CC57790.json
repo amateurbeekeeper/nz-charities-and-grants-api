@@ -1,0 +1,27 @@
+{
+  "id": 71415,
+  "registrationNumber": "CC57790",
+  "name": "Jersey Advantage",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.jerseyadvantage.co.nz",
+  "email": "info@jerseyadvantage.co.nz",
+  "address": {
+    "line1": "4938 Orchard East Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Ngatea",
+    "postcode": "3597"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Jersey Advantage NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T23:22:17Z"
+}

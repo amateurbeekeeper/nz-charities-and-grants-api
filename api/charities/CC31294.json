@@ -1,0 +1,27 @@
+{
+  "id": 49755,
+  "registrationNumber": "CC31294",
+  "name": "Celebration Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://heartofthenorth.co.nz",
+  "email": "mikes@kcs.school.nz",
+  "address": {
+    "line1": "50 Mangakahia Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaikohe",
+    "postcode": "405"
+  },
+  "nzbn": "9429042647416",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T19:18:28Z"
+}

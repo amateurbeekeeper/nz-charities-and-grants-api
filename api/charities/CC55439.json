@@ -1,0 +1,27 @@
+{
+  "id": 69099,
+  "registrationNumber": "CC55439",
+  "name": "Pinetree No.5 Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-02-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "shelley@smithmitchell.co.nz",
+  "address": {
+    "line1": "28 Queen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Kuiti",
+    "postcode": "3910"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T00:25:56Z"
+}

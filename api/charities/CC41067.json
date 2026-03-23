@@ -1,0 +1,27 @@
+{
+  "id": 45462,
+  "registrationNumber": "CC41067",
+  "name": "Canine Friends Pet Therapy Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.caninefriends.org.nz",
+  "email": "secretary@caninefriends.org.nz",
+  "address": {
+    "line1": "PO Box 45056",
+    "line2": "Waterloo",
+    "suburb": " ",
+    "city": "Lower Hutt",
+    "postcode": "5042"
+  },
+  "nzbn": "9429042599456",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CanineFriendsPetTherapy",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-11T19:45:53Z"
+}

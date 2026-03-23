@@ -1,0 +1,27 @@
+{
+  "id": 41882,
+  "registrationNumber": "CC24545",
+  "name": "Hokowhitu Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hbc-pn.org.nz/",
+  "email": "aw31729@gmail.com",
+  "address": {
+    "line1": "HOKOWHITU BAPTIST CHURCH",
+    "line2": "15 Ascot Street",
+    "suburb": "Hokowhitu",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042669289",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T03:22:27Z"
+}

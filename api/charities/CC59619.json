@@ -1,0 +1,27 @@
+{
+  "id": 73226,
+  "registrationNumber": "CC59619",
+  "name": "Northland Climbing Club",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "swyrsch@hotmail.com",
+  "address": {
+    "line1": "126D Apotu Road",
+    "line2": "RD 1",
+    "suburb": "Kauri",
+    "city": "Kamo",
+    "postcode": "0185"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/691221947703553",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T05:30:57Z"
+}

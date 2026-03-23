@@ -1,0 +1,27 @@
+{
+  "id": 72172,
+  "registrationNumber": "CC58558",
+  "name": "Kainga Pasifika Services Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "judyfs@kaingapasifika.org.nz",
+  "address": {
+    "line1": "4 Tenby Terrace",
+    "line2": " ",
+    "suburb": "Flaxmere",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429048944588",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Kainga Pasifika Services",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T02:49:25Z"
+}

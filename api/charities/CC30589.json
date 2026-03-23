@@ -1,0 +1,27 @@
+{
+  "id": 60743,
+  "registrationNumber": "CC30589",
+  "name": "Arise Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://arisechurch.com/",
+  "email": "sally.hughes@arisechurch.com",
+  "address": {
+    "line1": "3 Pito-One Road",
+    "line2": " ",
+    "suburb": "Korokoro",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": "9429043126620",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ARISEchurchNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-31T07:06:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 57384,
+  "registrationNumber": "CC26620",
+  "name": "Canterbury Youth Services",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cys.org.nz",
+  "email": "Mike@cys.org.nz",
+  "address": {
+    "line1": "286 Oxford Terrace",
+    "line2": "Papanui",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042968771",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/CanterburyYouthServices",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T19:54:21Z"
+}

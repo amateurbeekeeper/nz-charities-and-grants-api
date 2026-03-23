@@ -1,0 +1,27 @@
+{
+  "id": 60611,
+  "registrationNumber": "CC28365",
+  "name": "Eastbourne Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://eastbourne.mibase.com.au ",
+  "email": "kathyclaridge@yahoo.com",
+  "address": {
+    "line1": "234 Muritai Road",
+    "line2": " ",
+    "suburb": "Eastbourne",
+    "city": "Lower Hutt",
+    "postcode": "5013"
+  },
+  "nzbn": "9429042943440",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/eastbournetoylibrary ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-16T07:05:36Z"
+}

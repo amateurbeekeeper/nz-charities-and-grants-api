@@ -1,0 +1,27 @@
+{
+  "id": 52818,
+  "registrationNumber": "CC24946",
+  "name": "Open Doors (New Zealand) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.opendoors.org.nz",
+  "email": "adamh@od.org.au",
+  "address": {
+    "line1": "Level 1, 12 Florence Avenue",
+    "line2": "Hillary Square",
+    "suburb": "Orewa",
+    "city": "Auckland",
+    "postcode": "0931"
+  },
+  "nzbn": "9429042794967",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T01:39:14Z"
+}

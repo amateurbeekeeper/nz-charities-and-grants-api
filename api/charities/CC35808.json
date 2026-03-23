@@ -1,0 +1,27 @@
+{
+  "id": 51229,
+  "registrationNumber": "CC35808",
+  "name": "Wai Ora Christian Community Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-12-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waiora.org.nz",
+  "email": "admin@waiora.org.nz",
+  "address": {
+    "line1": "49 Brunswick Road",
+    "line2": "RD 1",
+    "suburb": "Aramoho",
+    "city": "Whanganui",
+    "postcode": "4571"
+  },
+  "nzbn": "9429042887010",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WaioraChristianCommunityTrust-Whanganui",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T23:13:05Z"
+}

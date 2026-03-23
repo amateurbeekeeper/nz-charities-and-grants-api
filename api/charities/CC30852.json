@@ -1,0 +1,27 @@
+{
+  "id": 49148,
+  "registrationNumber": "CC30852",
+  "name": "Bainbridge House",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2014-06-15T00:00:00Z",
+  "website": "www.methodist.org.nz",
+  "email": "peterv@methodist.org.nz",
+  "address": {
+    "line1": "1 Maydell Street",
+    "line2": null,
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042589518",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:00:28Z"
+}

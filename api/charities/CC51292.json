@@ -1,0 +1,27 @@
+{
+  "id": 34834,
+  "registrationNumber": "CC51292",
+  "name": "Upper Hutt Community Youth Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-12-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kickstart.org.nz",
+  "email": "paul@uhcyt.org.nz",
+  "address": {
+    "line1": "34 Seymour Grove",
+    "line2": " ",
+    "suburb": "Kingsley Heights",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429043287604",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kickstartyouth",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:30:12Z"
+}

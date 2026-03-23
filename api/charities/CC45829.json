@@ -1,0 +1,27 @@
+{
+  "id": 38785,
+  "registrationNumber": "CC45829",
+  "name": "Levin MenzShed",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-12-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "levinshed@gmail.com",
+  "address": {
+    "line1": "131 Mako Mako Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-19T19:49:18Z"
+}

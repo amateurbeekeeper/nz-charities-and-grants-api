@@ -1,0 +1,27 @@
+{
+  "id": 44803,
+  "registrationNumber": "CC33286",
+  "name": "Clark Road Chapel",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.clarkroadchapel.nz",
+  "email": "finance@clarkroadchapel.nz",
+  "address": {
+    "line1": "4 Clark Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kamo",
+    "postcode": "112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/clarkroad",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T00:39:43Z"
+}

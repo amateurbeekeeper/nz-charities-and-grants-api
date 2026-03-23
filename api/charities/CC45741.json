@@ -1,0 +1,27 @@
+{
+  "id": 38769,
+  "registrationNumber": "CC45741",
+  "name": "Community Energy Network Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-11-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.communityenergy.org.nz",
+  "email": "gareth@communityenergy.org.nz",
+  "address": {
+    "line1": "24 Dick Street",
+    "line2": "Cambridge 3434",
+    "suburb": "Tauranga Central ",
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": "9429043195701",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T01:25:00Z"
+}

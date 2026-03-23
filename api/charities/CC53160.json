@@ -1,0 +1,27 @@
+{
+  "id": 66877,
+  "registrationNumber": "CC53160",
+  "name": "St Pauls Union Church Pahiatua",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "anthony@mcia.co.nz",
+  "address": {
+    "line1": "12 Arthur Street",
+    "line2": "Pahiatua 4910",
+    "suburb": " ",
+    "city": "Pahiatua",
+    "postcode": "4910"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T18:09:57Z"
+}

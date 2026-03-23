@@ -1,0 +1,27 @@
+{
+  "id": 49943,
+  "registrationNumber": "CC35178",
+  "name": "Good Seed Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://goodseedtrust.co.nz",
+  "email": "grace.ikiua@goodseedtrust.co.nz",
+  "address": {
+    "line1": "18 Pukaki Road",
+    "line2": "203 Kirkbride Road",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429043056378",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Good Seed Trust ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T21:18:16Z"
+}

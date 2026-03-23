@@ -1,0 +1,27 @@
+{
+  "id": 39117,
+  "registrationNumber": "CC28451",
+  "name": "The Abundant Life Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://alc.org.nz",
+  "email": "kc@chiew.co.nz",
+  "address": {
+    "line1": "71-73 Abel Smith Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042825470",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ALCWellington/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:38:01Z"
+}

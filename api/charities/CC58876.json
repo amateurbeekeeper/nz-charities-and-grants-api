@@ -1,0 +1,27 @@
+{
+  "id": 72483,
+  "registrationNumber": "CC58876",
+  "name": "Northern Rovers Football Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://northernroversfc.org.nz/",
+  "email": "treasurer@northernroversfc.org.nz",
+  "address": {
+    "line1": "115 Archers Road",
+    "line2": " ",
+    "suburb": "Hillcrest",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429048853385",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/northernroversfc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-31T06:12:17Z"
+}

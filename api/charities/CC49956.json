@@ -1,0 +1,27 @@
+{
+  "id": 33542,
+  "registrationNumber": "CC49956",
+  "name": "Queenstown Arts Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-11-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.queenstownartsociety.co.nz",
+  "email": "accounts@queenstownartsociety.co.nz",
+  "address": {
+    "line1": "Dart House Building",
+    "line2": "11/12 Hawthorn Drive",
+    "suburb": " Frankton",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429042807803",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Queenstownartsociety",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T21:21:36Z"
+}

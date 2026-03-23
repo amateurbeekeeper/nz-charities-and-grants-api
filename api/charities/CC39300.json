@@ -1,0 +1,27 @@
+{
+  "id": 64569,
+  "registrationNumber": "CC39300",
+  "name": "The Methodist Church of New Zealand Te Haahi Weteriana O Aotearoa Tauranga Parish (Western Bay of Plenty)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.methodist.org.nz",
+  "email": "charities@methodist.org.nz",
+  "address": {
+    "line1": "100 Thirteenth Avenue",
+    "line2": " ",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:13:36Z"
+}

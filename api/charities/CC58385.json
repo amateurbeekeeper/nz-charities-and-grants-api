@@ -1,0 +1,27 @@
+{
+  "id": 72002,
+  "registrationNumber": "CC58385",
+  "name": "He Toutou mo te Ahika Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whakauka.org",
+  "email": "sam@whakauka.org",
+  "address": {
+    "line1": "13 Bristol Road",
+    "line2": null,
+    "suburb": "Whenuapai",
+    "city": "Auckland",
+    "postcode": "0618"
+  },
+  "nzbn": "9429048726016",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/temaherewhakauka/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:44:55Z"
+}

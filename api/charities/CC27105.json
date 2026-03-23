@@ -1,0 +1,27 @@
+{
+  "id": 57804,
+  "registrationNumber": "CC27105",
+  "name": "The Friends of Ferrymead Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "martygj@xtra.co.nz",
+  "address": {
+    "line1": "50 Ferrymead Park Drive",
+    "line2": "Heathcote",
+    "suburb": "Ferrymead",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429042700319",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Friends of Ferrymead",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T04:59:43Z"
+}

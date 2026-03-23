@@ -1,0 +1,27 @@
+{
+  "id": 38100,
+  "registrationNumber": "CC45786",
+  "name": "Greymouth Toy Library",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2010-11-30T00:00:00Z",
+  "dateDeregistered": "2020-01-01T00:00:00Z",
+  "website": null,
+  "email": "rob.little@xtra.co.nz",
+  "address": {
+    "line1": "30 Lees Ferry Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Blackball",
+    "postcode": "7871"
+  },
+  "nzbn": "9429042634072",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-03-17T06:01:05Z"
+}

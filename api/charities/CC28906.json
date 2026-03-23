@@ -1,0 +1,27 @@
+{
+  "id": 49239,
+  "registrationNumber": "CC28906",
+  "name": "Murchison Volunteer Fire Brigade",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2019-02-13T00:00:00Z",
+  "website": null,
+  "email": "jane@ufba.org.nz",
+  "address": {
+    "line1": "124 Fairfax Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Murchison",
+    "postcode": "7007"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-11-18T02:15:37Z"
+}

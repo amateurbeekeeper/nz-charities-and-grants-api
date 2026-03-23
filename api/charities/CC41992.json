@@ -1,0 +1,27 @@
+{
+  "id": 48567,
+  "registrationNumber": "CC41992",
+  "name": "Birkenhead Playcentre Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.playcentre.org.nz/centre/birkenhead/",
+  "email": "birkenhead@playcentre.org.nz",
+  "address": {
+    "line1": "PO Box 300720",
+    "line2": "Albany",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "752"
+  },
+  "nzbn": "9429042600329",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Birkenhead.Playcentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T08:59:04Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64725,
+  "registrationNumber": "CC43120",
+  "name": "Urenui Home And School Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.urenui.school.nz",
+  "email": "principal@urenui.school.nz",
+  "address": {
+    "line1": "Takiroa Street",
+    "line2": " ",
+    "suburb": "Urenui",
+    "city": "Taranaki",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Urenui Home & School Committee",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T23:13:18Z"
+}

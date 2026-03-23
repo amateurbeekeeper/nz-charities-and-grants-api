@@ -1,0 +1,27 @@
+{
+  "id": 38323,
+  "registrationNumber": "CC47013",
+  "name": "New Zealand Water Polo Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzwaterpolo.org.nz",
+  "email": "ceo@nzwaterpolo.org.nz",
+  "address": {
+    "line1": "14 Antares Place",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429042690924",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-20T19:18:09Z"
+}

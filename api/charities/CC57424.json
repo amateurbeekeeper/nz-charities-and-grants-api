@@ -1,0 +1,27 @@
+{
+  "id": 71053,
+  "registrationNumber": "CC57424",
+  "name": "Te Tira Whakamātaki Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ttw.nz",
+  "email": "mel@ttw.nz",
+  "address": {
+    "line1": "48 Church Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": "9429031483360",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "TeTiraWhakamātaki",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T20:16:25Z"
+}

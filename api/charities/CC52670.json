@@ -1,0 +1,27 @@
+{
+  "id": 66400,
+  "registrationNumber": "CC52670",
+  "name": "Central Vineyard Church Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-11-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.centralvineyard.org",
+  "email": "accounts@centralvineyard.org",
+  "address": {
+    "line1": "Ground Floor",
+    "line2": "65 Great North Road",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/centralvineyardchurch/home",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-17T19:19:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38651,
+  "registrationNumber": "CC45548",
+  "name": "Institute of Earthcare Education Aotearoa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-10-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.earthcare-education.org",
+  "email": "robina@maxnet.co.nz",
+  "address": {
+    "line1": "264 McShane Road",
+    "line2": "RD 1",
+    "suburb": "Wainui Bay",
+    "city": "Takaka",
+    "postcode": "7183"
+  },
+  "nzbn": "9429042995937",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:41:47Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72464,
+  "registrationNumber": "CC58857",
+  "name": "New Zealanders for Health Research",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2020-09-09T00:00:00Z",
+  "dateDeregistered": "2025-10-09T00:00:00Z",
+  "website": "https://www.nz4healthresearch.org.nz",
+  "email": "karen@executiveoffice.co.nz",
+  "address": {
+    "line1": "Level 3, 5 Short Street",
+    "line2": " ",
+    "suburb": "Newmarket",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043314409",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T20:54:32Z"
+}

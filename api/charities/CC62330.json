@@ -1,0 +1,27 @@
+{
+  "id": 75876,
+  "registrationNumber": "CC62330",
+  "name": "The Counselling Centre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.thecounsellingcentre.org.nz",
+  "email": "jason@thecounsellingcentre.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "20 Beaumont Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429051755881",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-07T20:41:35Z"
+}

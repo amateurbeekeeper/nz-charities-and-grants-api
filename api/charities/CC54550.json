@@ -1,0 +1,27 @@
+{
+  "id": 68223,
+  "registrationNumber": "CC54550",
+  "name": "Hibiscus Coast Concert Band Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-06-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hccb.org.nz",
+  "email": "stephanie@hccb.org.nz",
+  "address": {
+    "line1": "6 Barton Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Orewa",
+    "postcode": "0931"
+  },
+  "nzbn": "9429045996764",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HibiscusCoastConcertBand/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T01:54:52Z"
+}

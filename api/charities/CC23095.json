@@ -1,0 +1,27 @@
+{
+  "id": 56120,
+  "registrationNumber": "CC23095",
+  "name": "Northern Monthly Meeting Of The Religious Society Of Friends - Quakers",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.quaker.org.nz/meeting/northern",
+  "email": "treasurer@nt.quakers.nz",
+  "address": {
+    "line1": "115 Mount Eden Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-02T07:07:02Z"
+}

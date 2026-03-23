@@ -1,0 +1,27 @@
+{
+  "id": 35084,
+  "registrationNumber": "CC51312",
+  "name": "Wanaka Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wanakagolf.co.nz",
+  "email": "manager@wanakagolf.co.nz",
+  "address": {
+    "line1": "12 Ballantyne Road",
+    "line2": "Wanaka 9305",
+    "suburb": " ",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429042914440",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wanakagolf.newzealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:41Z"
+}

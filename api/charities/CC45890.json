@@ -1,0 +1,27 @@
+{
+  "id": 38172,
+  "registrationNumber": "CC45890",
+  "name": "Browns Bay Market Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-12-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.brownsbaymarket.co.nz",
+  "email": "admin@brownsbaymarket.co.nz",
+  "address": {
+    "line1": "14 Robin Lane",
+    "line2": " ",
+    "suburb": "Browns Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429043219148",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BrownsBayMarket/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T18:07:19Z"
+}

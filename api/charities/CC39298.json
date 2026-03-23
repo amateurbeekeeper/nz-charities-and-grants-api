@@ -1,0 +1,27 @@
+{
+  "id": 45341,
+  "registrationNumber": "CC39298",
+  "name": "Wellington Photographic Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2022-09-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wps.org.nz",
+  "email": "president@wps.org.nz",
+  "address": {
+    "line1": "4 Moncrieff Street",
+    "line2": " ",
+    "suburb": "Mount Victoria",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042916994",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "WPS Discussion & Mentoring Group",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T01:38:04Z"
+}

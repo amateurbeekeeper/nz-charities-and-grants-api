@@ -1,0 +1,27 @@
+{
+  "id": 66013,
+  "registrationNumber": "CC52275",
+  "name": "Rotorua Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-08-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://arikikapakapagolfrotorua.co.nz/",
+  "email": "manager@rotoruagolfclub.nz",
+  "address": {
+    "line1": "399 Fenton Street",
+    "line2": " ",
+    "suburb": "Whakarewarewa",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042818335",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Rotorua Golf Club \"arikikapakapa\"",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T06:56:18Z"
+}

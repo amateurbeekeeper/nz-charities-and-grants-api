@@ -1,0 +1,27 @@
+{
+  "id": 34438,
+  "registrationNumber": "CC50818",
+  "name": "Rose City Quilters Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://rosecityquilters@gmail.com",
+  "email": "mhawkes@inspire.net.nz",
+  "address": {
+    "line1": "318 College Street",
+    "line2": " ",
+    "suburb": "West End",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429043187706",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T04:55:04Z"
+}

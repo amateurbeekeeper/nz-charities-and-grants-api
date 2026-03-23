@@ -1,0 +1,27 @@
+{
+  "id": 64390,
+  "registrationNumber": "CC40359",
+  "name": "Otago School of Piping and Drumming Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-05-25T00:00:00Z",
+  "dateDeregistered": "2021-06-15T00:00:00Z",
+  "website": "http://www.ospd.org.nz",
+  "email": "ospd@ospd.org.nz",
+  "address": {
+    "line1": "186 Main South Road",
+    "line2": " ",
+    "suburb": "Green Island",
+    "city": "Dunedin",
+    "postcode": "9018"
+  },
+  "nzbn": "9429043187270",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/ospdnz",
+    "twitter": null
+  },
+  "lastUpdated": "2021-06-15T02:21:37Z"
+}

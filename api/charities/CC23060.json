@@ -1,0 +1,27 @@
+{
+  "id": 54825,
+  "registrationNumber": "CC23060",
+  "name": "Waimarie Operating Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waimarie.co.nz",
+  "email": "admin@slca.co.nz",
+  "address": {
+    "line1": "1A Taupo Quay",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429043020577",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-04T03:59:31Z"
+}

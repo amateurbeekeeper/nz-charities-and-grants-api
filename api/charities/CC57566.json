@@ -1,0 +1,27 @@
+{
+  "id": 71197,
+  "registrationNumber": "CC57566",
+  "name": "Deacon Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-03-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.deacon.org.nz",
+  "email": "grantm@stepstone.org.nz",
+  "address": {
+    "line1": "1 Barry Hogan Place",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429047963085",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T19:50:40Z"
+}

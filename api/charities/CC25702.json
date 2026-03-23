@@ -1,0 +1,27 @@
+{
+  "id": 56223,
+  "registrationNumber": "CC25702",
+  "name": "Estate John MacMillan Brown",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gtcc@pgtrust.co.nz",
+  "address": {
+    "line1": "C/O Perpetual Guardian ",
+    "line2": "Level 23, 191 Queen Street",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-04T18:30:23Z"
+}

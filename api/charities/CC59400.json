@@ -1,0 +1,27 @@
+{
+  "id": 73004,
+  "registrationNumber": "CC59400",
+  "name": "Blue Brothers Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bluebrothers.org.nz",
+  "email": "craigrhodes@xtra.co.nz",
+  "address": {
+    "line1": "16 Malcolm Avenue",
+    "line2": " ",
+    "suburb": "Cashmere",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429052325397",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "bluebrothers",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T22:23:30Z"
+}

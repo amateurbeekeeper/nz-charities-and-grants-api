@@ -1,0 +1,27 @@
+{
+  "id": 51642,
+  "registrationNumber": "CC22456",
+  "name": "Breast Cancer Aotearoa Coalition Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.breastcancer.org.nz",
+  "email": "libbyb@breastcancer.org.nz",
+  "address": {
+    "line1": "5 Fitzroy Street",
+    "line2": " ",
+    "suburb": "Ponsonby",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429043170364",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BreastCancerAotearoaCoalition",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T03:10:21Z"
+}

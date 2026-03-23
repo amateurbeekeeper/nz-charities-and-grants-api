@@ -1,0 +1,27 @@
+{
+  "id": 40005,
+  "registrationNumber": "CC30515",
+  "name": "Royal Society of New Zealand Rotorua Branch",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2024-10-07T00:00:00Z",
+  "website": "https://www.rotoruascience.org/",
+  "email": "lloyd.donaldson@scionresearch.com",
+  "address": {
+    "line1": "Lloyd Donaldson",
+    "line2": "Scion, Private Bag 3020",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/RotoruaRoyalSociety/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-10-21T06:12:49Z"
+}

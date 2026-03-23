@@ -1,0 +1,27 @@
+{
+  "id": 38497,
+  "registrationNumber": "CC47566",
+  "name": "Totara North School Focus",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@totaranorth.school.nz",
+  "address": {
+    "line1": "Totara North School",
+    "line2": "R D 2",
+    "suburb": "Kaeo",
+    "city": "Northland",
+    "postcode": "0479"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-05T02:58:14Z"
+}

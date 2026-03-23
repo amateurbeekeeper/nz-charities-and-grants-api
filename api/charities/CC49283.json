@@ -1,0 +1,27 @@
+{
+  "id": 35068,
+  "registrationNumber": "CC49283",
+  "name": "Te Waka Whaiora Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tww.org.nz/",
+  "email": "vanessah@tww.org.nz",
+  "address": {
+    "line1": "1 Walton Leigh Avenue",
+    "line2": "Level 3",
+    "suburb": "Porirua City Centre",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429043325948",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T20:04:57Z"
+}

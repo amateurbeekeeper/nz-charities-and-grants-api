@@ -1,0 +1,27 @@
+{
+  "id": 33732,
+  "registrationNumber": "CC50017",
+  "name": "Aorere College Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-11-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jdgordon@xtra.co.nz",
+  "address": {
+    "line1": "Aorere College",
+    "line2": "Portage Road",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429043252572",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T03:40:42Z"
+}

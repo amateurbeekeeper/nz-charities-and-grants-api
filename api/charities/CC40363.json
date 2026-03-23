@@ -1,0 +1,27 @@
+{
+  "id": 63001,
+  "registrationNumber": "CC40363",
+  "name": "Rotokauri School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta@rotokauri.school.nz",
+  "address": {
+    "line1": "462 Rotokauri Road",
+    "line2": "RD 9",
+    "suburb": "Rotokauri",
+    "city": "Hamilton",
+    "postcode": "3289"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T21:46:05Z"
+}

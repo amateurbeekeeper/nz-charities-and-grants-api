@@ -1,0 +1,27 @@
+{
+  "id": 65533,
+  "registrationNumber": "CC51770",
+  "name": "Age of Discovery Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-05-21T00:00:00Z",
+  "dateDeregistered": "2023-07-26T00:00:00Z",
+  "website": "https://www.ageofdiscovery.co.nz",
+  "email": "james@ageofdiscovery.co.nz",
+  "address": {
+    "line1": "11 Transport Lane",
+    "line2": null,
+    "suburb": " ",
+    "city": "Oxford",
+    "postcode": "7430"
+  },
+  "nzbn": "9429043236473",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-08-10T07:01:35Z"
+}

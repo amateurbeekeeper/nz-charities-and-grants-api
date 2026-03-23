@@ -1,0 +1,27 @@
+{
+  "id": 75420,
+  "registrationNumber": "CC61856",
+  "name": "Friends of Bullock Creek Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-12-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.fobc.kiwi",
+  "email": "info@fobc.kiwi",
+  "address": {
+    "line1": "149 Stone Street",
+    "line2": " ",
+    "suburb": "Wānaka",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429051566296",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/friendsofbullockcreek/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T00:27:26Z"
+}

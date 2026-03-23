@@ -1,0 +1,27 @@
+{
+  "id": 52258,
+  "registrationNumber": "CC10647",
+  "name": "Canterbury Men's Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.canmen.org.nz",
+  "email": "gm@canmen.org.nz",
+  "address": {
+    "line1": "21 Marshland Road",
+    "line2": " ",
+    "suburb": "Shirley",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429043168446",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/canterburymenscentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-08T19:40:17Z"
+}

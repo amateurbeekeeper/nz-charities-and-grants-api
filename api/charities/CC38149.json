@@ -1,0 +1,27 @@
+{
+  "id": 43552,
+  "registrationNumber": "CC38149",
+  "name": "New Zealand Dancesport Association Canterbury Incorporated ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dancesportcanterbury.org.nz",
+  "email": "jenny.lamb134@gmail.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "10 Percy Street",
+    "suburb": "Phillipstown",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042599654",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "DanceSportCanterbury",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T04:08:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33265,
+  "registrationNumber": "CC48959",
+  "name": "Feed The Need Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2021-09-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.feedtheneed.co.nz",
+  "email": "derek@learningplanet.tv",
+  "address": {
+    "line1": "108 Paremoremo Road",
+    "line2": " ",
+    "suburb": "Lucas Heights",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043325610",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Feedtheneednz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T02:53:24Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42570,
+  "registrationNumber": "CC24771",
+  "name": "Tyndale Park Christian School Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tyndalepark.school.nz",
+  "email": "accounts@tyndalepark.school.nz",
+  "address": {
+    "line1": "206 Murphys Road",
+    "line2": " ",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": "9429042897194",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "http://www.facebook.com/tyndalepark",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-20T20:04:30Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70645,
+  "registrationNumber": "CC57011",
+  "name": "The Rising Sun Institute",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "finance@trs.ngo",
+  "address": {
+    "line1": "156 Carrington Road",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T02:40:25Z"
+}

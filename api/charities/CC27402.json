@@ -1,0 +1,27 @@
+{
+  "id": 41408,
+  "registrationNumber": "CC27402",
+  "name": "Durham St Gospel Hall",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "acmcewan79@gmail.com",
+  "address": {
+    "line1": "24 Ranfurly Street",
+    "line2": " ",
+    "suburb": "Saint Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T18:50:59Z"
+}

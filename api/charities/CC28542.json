@@ -1,0 +1,27 @@
+{
+  "id": 56607,
+  "registrationNumber": "CC28542",
+  "name": "Brunstad Christian Church New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bccinnz@gmail.com",
+  "address": {
+    "line1": "104 Glue Pot Road",
+    "line2": "RD 3",
+    "suburb": "Oropi",
+    "city": "Tauranga",
+    "postcode": "3173"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T22:09:18Z"
+}

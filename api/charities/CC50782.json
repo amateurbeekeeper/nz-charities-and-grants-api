@@ -1,0 +1,27 @@
+{
+  "id": 34183,
+  "registrationNumber": "CC50782",
+  "name": "Tarere Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tareremarae@gmail.com",
+  "address": {
+    "line1": "66 Pilmer Road",
+    "line2": " ",
+    "suburb": "Makauri",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T18:09:49Z"
+}

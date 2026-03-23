@@ -1,0 +1,27 @@
+{
+  "id": 65613,
+  "registrationNumber": "CC51863",
+  "name": "Waiareka Weston Presbyterian church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sarahannepaisley@gmail.com",
+  "address": {
+    "line1": "48 Main Street",
+    "line2": " ",
+    "suburb": "Weston",
+    "city": "Oamaru",
+    "postcode": "9401"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T07:27:15Z"
+}

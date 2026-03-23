@@ -1,0 +1,27 @@
+{
+  "id": 51893,
+  "registrationNumber": "CC10618",
+  "name": "Thames Pensioner Housing Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "thamespensionerhousingtrust@gmail.com",
+  "address": {
+    "line1": "701 Pollen Street",
+    "line2": "Thames 3500",
+    "suburb": " ",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429042947479",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T02:25:18Z"
+}

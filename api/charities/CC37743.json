@@ -1,0 +1,27 @@
+{
+  "id": 64530,
+  "registrationNumber": "CC37743",
+  "name": "Garden to Table Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gardentotable.org.nz",
+  "email": "green@brookfields.co.nz",
+  "address": {
+    "line1": "69D St Georges Bay Road",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429043091669",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/garden2table",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T20:54:32Z"
+}

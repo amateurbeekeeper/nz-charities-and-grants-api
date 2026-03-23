@@ -1,0 +1,27 @@
+{
+  "id": 43635,
+  "registrationNumber": "CC32205",
+  "name": "Riverlea Kindergarten Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.riverleakindergarten.co.nz",
+  "email": "d.towner@hotmail.com",
+  "address": {
+    "line1": "218 Cambridge Road",
+    "line2": " ",
+    "suburb": "Hillcrest",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429042598787",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:08:26Z"
+}

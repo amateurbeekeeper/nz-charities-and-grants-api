@@ -1,0 +1,27 @@
+{
+  "id": 64157,
+  "registrationNumber": "CC44187",
+  "name": "St Martins Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "marilynjcowe@gmail.com",
+  "address": {
+    "line1": "29 Wades Avenue",
+    "line2": " ",
+    "suburb": "Saint Martins",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429043210251",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:30:43Z"
+}

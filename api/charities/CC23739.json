@@ -1,0 +1,27 @@
+{
+  "id": 41620,
+  "registrationNumber": "CC23739",
+  "name": "The Coronation Literary Institute",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2021-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hiltonwd1@gmail.com",
+  "address": {
+    "line1": "103 Rue Jolie",
+    "line2": null,
+    "suburb": " ",
+    "city": "Akaroa",
+    "postcode": "7520"
+  },
+  "nzbn": "9429043024063",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Coronation library akaroa",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T19:33:18Z"
+}

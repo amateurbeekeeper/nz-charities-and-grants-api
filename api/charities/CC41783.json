@@ -1,0 +1,27 @@
+{
+  "id": 65064,
+  "registrationNumber": "CC41783",
+  "name": "Te Orihau Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "horiana@maurioraservices.co.nz",
+  "address": {
+    "line1": "3 Karauria Rise",
+    "line2": "RD 12",
+    "suburb": "Waimārama",
+    "city": "Havelock North",
+    "postcode": "4294"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-05T02:22:09Z"
+}

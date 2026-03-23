@@ -1,0 +1,27 @@
+{
+  "id": 68275,
+  "registrationNumber": "CC54596",
+  "name": "The New Zealand Association of Radio Transmitters Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzart.org.nz",
+  "email": "warren@zl2aj.com",
+  "address": {
+    "line1": "15 Geange Street",
+    "line2": "Upper Hutt 5018",
+    "suburb": " ",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429042781509",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T18:40:33Z"
+}

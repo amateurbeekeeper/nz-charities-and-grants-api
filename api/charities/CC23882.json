@@ -1,0 +1,27 @@
+{
+  "id": 56256,
+  "registrationNumber": "CC23882",
+  "name": "Putaruru Baptist Church Family",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@putarurubaptist.org",
+  "address": {
+    "line1": "52 Arapuni Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Putaruru",
+    "postcode": "3411"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Putaruru Baptist Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:26:05Z"
+}

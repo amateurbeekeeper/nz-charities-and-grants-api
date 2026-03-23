@@ -1,0 +1,27 @@
+{
+  "id": 34609,
+  "registrationNumber": "CC51029",
+  "name": "Fiordland Trails Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-08-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.trailstrust.co.nz",
+  "email": "haylee.preston@milfordsoundtourism.nz",
+  "address": {
+    "line1": "112 Town Centre",
+    "line2": "Te Anau 9600",
+    "suburb": " ",
+    "city": "Te Anau",
+    "postcode": "9600"
+  },
+  "nzbn": "9429043137879",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/fiordlandtrails/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T03:06:18Z"
+}

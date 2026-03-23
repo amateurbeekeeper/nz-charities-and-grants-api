@@ -1,0 +1,27 @@
+{
+  "id": 78142,
+  "registrationNumber": "CC63953",
+  "name": "Pou Awatea Enterprises Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://pouawatea.com/",
+  "email": "scottie@thebrokenmovement.org",
+  "address": {
+    "line1": "10 Poi poi Place",
+    "line2": null,
+    "suburb": "Wainoni",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/pouawatea",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T01:43:16Z"
+}

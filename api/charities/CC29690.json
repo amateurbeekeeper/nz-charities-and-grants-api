@@ -1,0 +1,27 @@
+{
+  "id": 47390,
+  "registrationNumber": "CC29690",
+  "name": "Enabled",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.enabled.org.nz",
+  "email": "shelley@enabled.org.nz",
+  "address": {
+    "line1": "75 Apatu Street",
+    "line2": "Wairoa 4108",
+    "suburb": " ",
+    "city": "Wairoa",
+    "postcode": "4108"
+  },
+  "nzbn": "9429042929758",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "enabledwairoa",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T23:29:14Z"
+}

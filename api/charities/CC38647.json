@@ -1,0 +1,27 @@
+{
+  "id": 58986,
+  "registrationNumber": "CC38647",
+  "name": "Kelvin Peninsula Community Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://kelvinpeninsula.org",
+  "email": "tr.kpca@gmail.com",
+  "address": {
+    "line1": "32 Willow Place",
+    "line2": " ",
+    "suburb": "Kawarau Falls",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429042657262",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KelvinPeninsula/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-21T19:44:41Z"
+}

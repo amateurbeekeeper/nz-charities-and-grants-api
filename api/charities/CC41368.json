@@ -1,0 +1,27 @@
+{
+  "id": 62256,
+  "registrationNumber": "CC41368",
+  "name": "Auckland Curling Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aucklandcurling.nz/",
+  "email": "accounts@aucklandcurling.nz",
+  "address": {
+    "line1": "9 Lorien Place",
+    "line2": " ",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429043158003",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Auckland-Curling-198417333525946/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T22:39:32Z"
+}

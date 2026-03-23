@@ -1,0 +1,27 @@
+{
+  "id": 65183,
+  "registrationNumber": "CC51404",
+  "name": "Rotorua Whakaora",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-02-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rotoruawhakaora@gmail.com",
+  "address": {
+    "line1": "2 Ross Road",
+    "line2": " ",
+    "suburb": "Western Heights",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/Lovesouprotorua",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T04:54:53Z"
+}

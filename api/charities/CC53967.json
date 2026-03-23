@@ -1,0 +1,27 @@
+{
+  "id": 67662,
+  "registrationNumber": "CC53967",
+  "name": "Hutt City Emergency Response Team Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-09-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzrt18.org",
+  "email": "hq@nzrt18.org",
+  "address": {
+    "line1": "105 Western Hutt Rd ",
+    "line2": " ",
+    "suburb": " ",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429043298143",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZRT18/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T00:54:47Z"
+}

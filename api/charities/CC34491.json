@@ -1,0 +1,27 @@
+{
+  "id": 61456,
+  "registrationNumber": "CC34491",
+  "name": "The New Zealand Animal Breeding Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nzabt.weebly.com",
+  "email": "clare.callow@gmail.com",
+  "address": {
+    "line1": "550 Albert Street",
+    "line2": " ",
+    "suburb": "Hokowhitu",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:39:52Z"
+}

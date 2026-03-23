@@ -1,0 +1,27 @@
+{
+  "id": 64093,
+  "registrationNumber": "CC44269",
+  "name": "New Zealand Chess Federation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.newzealandchess.co.nz",
+  "email": "admin@newzealandchess.co.nz",
+  "address": {
+    "line1": "PO Box 38422",
+    "line2": " ",
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": "2145"
+  },
+  "nzbn": "9429042707936",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/NZChessFederation/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T08:37:32Z"
+}

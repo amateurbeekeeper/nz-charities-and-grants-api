@@ -1,0 +1,27 @@
+{
+  "id": 33710,
+  "registrationNumber": "CC49984",
+  "name": "Te Ara Pae Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-10-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tearapae.org.nz",
+  "email": "ceo@tearapae.org.nz",
+  "address": {
+    "line1": "276 High Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hawera",
+    "postcode": "4610"
+  },
+  "nzbn": "9429043253524",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tearapae/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T21:44:37Z"
+}

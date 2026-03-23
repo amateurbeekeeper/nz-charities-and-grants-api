@@ -1,0 +1,27 @@
+{
+  "id": 68370,
+  "registrationNumber": "CC54705",
+  "name": "Tania Dalton Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-07-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://taniadaltonfoundation.org",
+  "email": "jeanette@taniadaltonfoundation.org.nz",
+  "address": {
+    "line1": "Unit 9",
+    "line2": "31 Northcroft Street",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429047709829",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/TheTaniaDaltonFoundation/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T20:59:21Z"
+}

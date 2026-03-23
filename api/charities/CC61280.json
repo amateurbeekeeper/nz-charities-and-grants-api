@@ -1,0 +1,27 @@
+{
+  "id": 74860,
+  "registrationNumber": "CC61280",
+  "name": "Heart Place Hospital",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.heartplacehospital.org.nz",
+  "email": "jacqui@heartplacehospital.org.nz",
+  "address": {
+    "line1": "248 Devich Road",
+    "line2": "RD 2",
+    "suburb": "Mangawhai",
+    "city": "Kaiwaka",
+    "postcode": "0573"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "heartplacehospital",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T02:59:39Z"
+}

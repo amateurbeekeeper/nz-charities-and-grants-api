@@ -1,0 +1,27 @@
+{
+  "id": 59669,
+  "registrationNumber": "CC30478",
+  "name": "New Zealand Organ Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzoa.org",
+  "email": "treasurer@nzoa.org",
+  "address": {
+    "line1": "4 Bellevue Road",
+    "line2": " ",
+    "suburb": "Woburn",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429042683476",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-30T09:15:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69053,
+  "registrationNumber": "CC55403",
+  "name": "Kerikeri Retirement Village Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kerikerivillage.co.nz",
+  "email": "gaylene@kerikerivillage.co.nz",
+  "address": {
+    "line1": "1 Ruatara Drive",
+    "line2": "Kerikeri 0230",
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "0230"
+  },
+  "nzbn": "9429046766298",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T20:25:56Z"
+}

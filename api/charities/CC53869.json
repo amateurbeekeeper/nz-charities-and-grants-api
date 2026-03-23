@@ -1,0 +1,27 @@
+{
+  "id": 67566,
+  "registrationNumber": "CC53869",
+  "name": "Hikurangi Enterprises Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-10-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hikurangi.enterprises",
+  "email": "panapa@hikurangi.enterprises",
+  "address": {
+    "line1": "53 Lloyd George Road",
+    "line2": " ",
+    "suburb": "Wainui",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042167990",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-01T07:23:29Z"
+}

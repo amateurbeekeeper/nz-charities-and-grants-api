@@ -1,0 +1,27 @@
+{
+  "id": 69378,
+  "registrationNumber": "CC55730",
+  "name": "Weave Together",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://weavetogether.org.nz",
+  "email": "kiaora@weavetogether.org.nz",
+  "address": {
+    "line1": "Floor 1",
+    "line2": "43 Princes Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429046741592",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T00:41:35Z"
+}

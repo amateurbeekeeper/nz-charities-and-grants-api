@@ -1,0 +1,27 @@
+{
+  "id": 75600,
+  "registrationNumber": "CC62048",
+  "name": "Mohua Galactic Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-01-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mohuagalactictrust@gmail.com",
+  "address": {
+    "line1": "65 Commercial Street",
+    "line2": " ",
+    "suburb": "Tākaka",
+    "city": "Takaka",
+    "postcode": "7110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-10T00:50:35Z"
+}

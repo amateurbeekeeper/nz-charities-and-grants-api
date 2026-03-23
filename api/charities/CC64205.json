@@ -1,0 +1,27 @@
+{
+  "id": 78393,
+  "registrationNumber": "CC64205",
+  "name": "PFG Flemington School",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "abzandtroy@gmail.com",
+  "address": {
+    "line1": "2 Rotohiwi Road",
+    "line2": null,
+    "suburb": null,
+    "city": "Flemington",
+    "postcode": "4282"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T02:43:42Z"
+}

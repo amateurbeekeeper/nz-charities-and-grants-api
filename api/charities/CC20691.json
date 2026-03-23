@@ -1,0 +1,27 @@
+{
+  "id": 53542,
+  "registrationNumber": "CC20691",
+  "name": "Waipu Centennial Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.waipumuseum.com",
+  "email": "lexism@xtra.co.nz",
+  "address": {
+    "line1": "36 The Centre",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waipu",
+    "postcode": "510"
+  },
+  "nzbn": "9429042897958",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Waipu-Museum-114683655228221/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T18:12:37Z"
+}

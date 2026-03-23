@@ -1,0 +1,27 @@
+{
+  "id": 35152,
+  "registrationNumber": "CC49791",
+  "name": "New Zealand Institute of Highway Technology Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2013-10-08T00:00:00Z",
+  "dateDeregistered": "2020-12-31T00:00:00Z",
+  "website": "www.nziht.co.nz",
+  "email": "r.burkhart@witt.ac.nz",
+  "address": {
+    "line1": "20 Bell Street",
+    "line2": " ",
+    "suburb": "Welbourn",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429038553349",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-01-29T03:38:51Z"
+}

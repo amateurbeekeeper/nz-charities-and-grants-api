@@ -1,0 +1,27 @@
+{
+  "id": 67123,
+  "registrationNumber": "CC53411",
+  "name": "Kerikeri Community Patrol Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://krcp.org.nz/",
+  "email": "juneg@krcp.org.nz",
+  "address": {
+    "line1": "28 Hall Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "0230"
+  },
+  "nzbn": "9429043297153",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T23:03:58Z"
+}

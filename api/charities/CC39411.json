@@ -1,0 +1,27 @@
+{
+  "id": 45988,
+  "registrationNumber": "CC39411",
+  "name": "Springston Tennis Club",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sporty.co.nz/springstontennisclub/Home-1",
+  "email": "tracy.henderson942@gmail.com",
+  "address": {
+    "line1": "299 Collins Road",
+    "line2": "RD 4",
+    "suburb": "Lincoln",
+    "city": "Christchurch",
+    "postcode": "7674"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/SpringstonTC/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T23:31:58Z"
+}

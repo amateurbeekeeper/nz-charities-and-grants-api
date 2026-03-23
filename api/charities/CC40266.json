@@ -1,0 +1,27 @@
+{
+  "id": 60211,
+  "registrationNumber": "CC40266",
+  "name": "Mt Albert Gymnasium Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mtalbertgym.co.nz/",
+  "email": "mtalbertgymnasiumclubnz@outlook.com",
+  "address": {
+    "line1": "13 Potu Road",
+    "line2": "RD 3",
+    "suburb": "Tahawai",
+    "city": "Katikati",
+    "postcode": "3170"
+  },
+  "nzbn": "9429042767527",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MtAlbertGym/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-14T02:04:40Z"
+}

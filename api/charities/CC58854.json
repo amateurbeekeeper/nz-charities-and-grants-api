@@ -1,0 +1,27 @@
+{
+  "id": 72461,
+  "registrationNumber": "CC58854",
+  "name": "Bike Waikato Incorporated ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.bikewaikato.org.nz",
+  "email": "info@bikewaikato.org.nz",
+  "address": {
+    "line1": "25A Devon Road",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429048699921",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/bikewaikato",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T08:48:32Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73550,
+  "registrationNumber": "CC59983",
+  "name": "ThatDay Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-01-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.thatday.co.nz",
+  "email": "paul@thatday.co.nz",
+  "address": {
+    "line1": "53 Randolph Street",
+    "line2": " ",
+    "suburb": "Eden Terrace",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429050190713",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T20:29:50Z"
+}

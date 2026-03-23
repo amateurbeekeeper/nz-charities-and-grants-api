@@ -1,0 +1,27 @@
+{
+  "id": 70792,
+  "registrationNumber": "CC57163",
+  "name": "Mahurangi Wastebusters Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mahurangiwastebusters.nz/",
+  "email": "simon@salcombe.co.nz",
+  "address": {
+    "line1": "55 Lawrie Road",
+    "line2": "Warkworth 0982",
+    "suburb": "Matakana",
+    "city": "Warkworth",
+    "postcode": "0982"
+  },
+  "nzbn": "9429047239555",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mahuwastebusters",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:46:02Z"
+}

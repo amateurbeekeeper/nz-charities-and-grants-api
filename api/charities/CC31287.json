@@ -1,0 +1,27 @@
+{
+  "id": 42111,
+  "registrationNumber": "CC31287",
+  "name": "New Zealand Cancer Control Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2017-06-30T00:00:00Z",
+  "website": "http://www.cancercontrol.org.nz",
+  "email": "betsy.marshall@cancercontrol.org.nz",
+  "address": {
+    "line1": "65 Kelvin Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429042993384",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:03:28Z"
+}

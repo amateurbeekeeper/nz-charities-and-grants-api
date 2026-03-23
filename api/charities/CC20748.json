@@ -1,0 +1,27 @@
+{
+  "id": 53072,
+  "registrationNumber": "CC20748",
+  "name": "Napier Trade Aid Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-01-28T00:00:00Z",
+  "dateDeregistered": "2025-06-30T00:00:00Z",
+  "website": "http://www.tradeaid.org.nz",
+  "email": "joanne.palmer@tradeaid.org.nz",
+  "address": {
+    "line1": "127 Hastings Street",
+    "line2": " ",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042752271",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T07:24:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75264,
+  "registrationNumber": "CC61694",
+  "name": "Allied Veterinary Professional Regulatory Council of New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.avprc.org.nz/",
+  "email": "jennifer.hamlin@avprc.org.nz",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429051421328",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AVPRCNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:45:36Z"
+}

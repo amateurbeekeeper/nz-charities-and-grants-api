@@ -1,0 +1,27 @@
+{
+  "id": 51007,
+  "registrationNumber": "CC10661",
+  "name": "New Zealand Secondary Students' Choir",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2007-07-19T00:00:00Z",
+  "dateDeregistered": "2018-12-31T00:00:00Z",
+  "website": "http://www.nzsschoir.com",
+  "email": "anna@choirsnz.co.nz",
+  "address": {
+    "line1": "Floor 4",
+    "line2": "75 Ghuznee Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042940937",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "New Zealand Secondary Students' Choir",
+    "twitter": null
+  },
+  "lastUpdated": "2020-05-12T07:00:41Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75500,
+  "registrationNumber": "CC61945",
+  "name": "Music Rotorua",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "musicattherotunda@gmail.com",
+  "address": {
+    "line1": "94 Springfield Road",
+    "line2": " ",
+    "suburb": "Springfield",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429051843533",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/musicattherotunda",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T19:30:45Z"
+}

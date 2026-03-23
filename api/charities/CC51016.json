@@ -1,0 +1,27 @@
+{
+  "id": 34615,
+  "registrationNumber": "CC51016",
+  "name": "New Zealand Military Historical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-09-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nzmhs.org.nz",
+  "email": "treasurer@nzmhs.org.nz",
+  "address": {
+    "line1": "95 Whenuapai Drive",
+    "line2": "Basque Central",
+    "suburb": "Whenuapai",
+    "city": "Auckland",
+    "postcode": "0618"
+  },
+  "nzbn": "9429042708360",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T01:47:33Z"
+}

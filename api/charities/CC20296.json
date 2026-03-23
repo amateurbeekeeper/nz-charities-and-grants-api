@@ -1,0 +1,27 @@
+{
+  "id": 51207,
+  "registrationNumber": "CC20296",
+  "name": "Royal Humane Society of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-12-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.royalhumanesociety.org.nz",
+  "email": "exec.officer@royalhumanesociety.org.nz",
+  "address": {
+    "line1": "71 Reserve Terrace",
+    "line2": "Lyttelton 8082",
+    "suburb": "Ilam",
+    "city": "Lyttelton",
+    "postcode": "8082"
+  },
+  "nzbn": "9429043123476",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T18:20:39Z"
+}

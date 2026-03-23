@@ -1,0 +1,27 @@
+{
+  "id": 44899,
+  "registrationNumber": "CC33550",
+  "name": "Christchurch Sunrise Rotary Club Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sunriserotary.org.nz/",
+  "email": "sunrisetrusttreasurer@gmail.com",
+  "address": {
+    "line1": "PO Box 122",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": "9429042612568",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RotaryChristchurchSunrise",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T03:49:50Z"
+}

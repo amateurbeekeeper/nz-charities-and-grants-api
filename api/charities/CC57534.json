@@ -1,0 +1,27 @@
+{
+  "id": 71162,
+  "registrationNumber": "CC57534",
+  "name": "The Word of Life Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-04-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "adriennescott1@gmail.com",
+  "address": {
+    "line1": "2A Saunders Place",
+    "line2": " ",
+    "suburb": "Gonville",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Word of Life Church Wanganui",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T18:10:18Z"
+}

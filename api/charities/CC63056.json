@@ -1,0 +1,27 @@
+{
+  "id": 77075,
+  "registrationNumber": "CC63056",
+  "name": "Makaurau Marae Reservation Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.makauraumarae.co.nz",
+  "email": "edwina.pi@xtra.co.nz",
+  "address": {
+    "line1": "8 Ruaiti Road",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-13T22:20:25Z"
+}

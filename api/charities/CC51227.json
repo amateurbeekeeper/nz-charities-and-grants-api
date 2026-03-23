@@ -1,0 +1,27 @@
+{
+  "id": 34741,
+  "registrationNumber": "CC51227",
+  "name": "Univision Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-01-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.univision.org.nz",
+  "email": "irene.peng@univision.org.nz",
+  "address": {
+    "line1": "3 Campbell Road",
+    "line2": " ",
+    "suburb": "Royal Oak",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043320974",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T13:22:35Z"
+}

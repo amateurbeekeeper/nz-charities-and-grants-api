@@ -1,0 +1,27 @@
+{
+  "id": 63337,
+  "registrationNumber": "CC37005",
+  "name": "Kerikeri Community Music Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-01-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kerikerischoolofmusic.org",
+  "email": "info@kerikerischoolofmusic.co.nz",
+  "address": {
+    "line1": "44J Darwin Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "0230"
+  },
+  "nzbn": "9429043119431",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T23:34:15Z"
+}

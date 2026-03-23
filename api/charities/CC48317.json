@@ -1,0 +1,27 @@
+{
+  "id": 32759,
+  "registrationNumber": "CC48317",
+  "name": "Rarangi Surf Life Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rarangislsc.org.nz/",
+  "email": "treasurer@rarangislsc.org.nz",
+  "address": {
+    "line1": "Whites Bay",
+    "line2": "Port Underwood Rd",
+    "suburb": "Rarangi",
+    "city": "Blenheim",
+    "postcode": "7273"
+  },
+  "nzbn": "9429042815464",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T21:02:55Z"
+}

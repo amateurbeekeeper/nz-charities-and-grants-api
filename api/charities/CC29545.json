@@ -1,0 +1,27 @@
+{
+  "id": 61111,
+  "registrationNumber": "CC29545",
+  "name": "The University of Waikato Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waikato.ac.nz/foundation",
+  "email": "liesha.mawdsley@waikato.ac.nz",
+  "address": {
+    "line1": "Development Office",
+    "line2": "University of Waikato, Gate 5",
+    "suburb": "Hillcrest",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429042890058",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T01:19:09Z"
+}

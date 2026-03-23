@@ -1,0 +1,27 @@
+{
+  "id": 67604,
+  "registrationNumber": "CC53905",
+  "name": "Waiheke Mountain Bike Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wmbc.co.nz",
+  "email": "amelialawley@yahoo.co.nz",
+  "address": {
+    "line1": "123 Wilma Road",
+    "line2": " ",
+    "suburb": "Surfdale",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429043140756",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WaihekeMountainBikeClub",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-02T01:26:03Z"
+}

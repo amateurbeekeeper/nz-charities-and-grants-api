@@ -1,0 +1,27 @@
+{
+  "id": 49533,
+  "registrationNumber": "CC31631",
+  "name": "Henwood Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.henwoodtrust.org.nz",
+  "email": "jennifer@snapdragon.co.nz",
+  "address": {
+    "line1": "19 Grosvenor Terrace",
+    "line2": " ",
+    "suburb": "Wadestown",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T18:03:07Z"
+}

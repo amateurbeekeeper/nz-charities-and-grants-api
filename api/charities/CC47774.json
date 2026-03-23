@@ -1,0 +1,27 @@
+{
+  "id": 37601,
+  "registrationNumber": "CC47774",
+  "name": "Auckland Dream Methodist Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-01-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jk.kimjh@gmail.com",
+  "address": {
+    "line1": "12 St Vincent Avenue",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429043239610",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:07:17Z"
+}

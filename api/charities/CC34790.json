@@ -1,0 +1,27 @@
+{
+  "id": 42327,
+  "registrationNumber": "CC34790",
+  "name": "Korohe Marae Committee",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.korohe.co.nz",
+  "email": "ritz.cmellis@xtra.co.nz",
+  "address": {
+    "line1": "168 Korohe Road",
+    "line2": "Tūrangi 3382",
+    "suburb": " ",
+    "city": "Tūrangi",
+    "postcode": "3382"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T18:17:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 62249,
+  "registrationNumber": "CC42236",
+  "name": "Special Olympics Auckland Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.specialolympicsauckland.com",
+  "email": "sportsmiker@hotmail.com",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "44 Amaru Road",
+    "suburb": "One Tree Hill",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429050034390",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SpecialOlympicsAuckland/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-19T00:33:48Z"
+}

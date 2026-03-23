@@ -1,0 +1,27 @@
+{
+  "id": 60140,
+  "registrationNumber": "CC30495",
+  "name": "Pukeko Preschool Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pukekopreschool.org.nz",
+  "email": "Hayley.ferrier-kerr@outlook.com",
+  "address": {
+    "line1": "20 Scotsman Valley Road",
+    "line2": "RD 7",
+    "suburb": "Tauwhare",
+    "city": "Hamilton",
+    "postcode": "3287"
+  },
+  "nzbn": "9429043048168",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pukekopreschool",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T23:53:30Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 62146,
+  "registrationNumber": "CC38959",
+  "name": "Project Jonah New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-07-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.projectjonah.org.nz",
+  "email": "darengrover@projectjonah.org.nz",
+  "address": {
+    "line1": "74 Vickerman Street",
+    "line2": " ",
+    "suburb": "Port Nelson",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042809340",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/projectjonah",
+    "twitter": "Twitter: @projectjonah"
+  },
+  "lastUpdated": "2026-02-17T07:27:22Z"
+}

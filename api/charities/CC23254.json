@@ -1,0 +1,27 @@
+{
+  "id": 55325,
+  "registrationNumber": "CC23254",
+  "name": "The Selwyn Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.selwynfoundation.org.nz",
+  "email": "Denise.cosgrove@selwynfoundation.org.nz",
+  "address": {
+    "line1": "43 Target Street",
+    "line2": "1 Nugent Street",
+    "suburb": "Point Chevalier",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429042742067",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T03:27:09Z"
+}

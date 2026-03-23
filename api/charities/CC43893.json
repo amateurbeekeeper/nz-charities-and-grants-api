@@ -1,0 +1,27 @@
+{
+  "id": 50276,
+  "registrationNumber": "CC43893",
+  "name": "Waikanae Montessori Pre school Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waikanaemontessori.school.nz",
+  "email": "info@waikanaemontessori.school.nz",
+  "address": {
+    "line1": "3B Seddon Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waikanae",
+    "postcode": "5036"
+  },
+  "nzbn": "9429042880899",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T01:20:07Z"
+}

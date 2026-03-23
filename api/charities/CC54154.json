@@ -1,0 +1,27 @@
+{
+  "id": 67843,
+  "registrationNumber": "CC54154",
+  "name": "All Heart NZ Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.allheartnz.org.nz",
+  "email": "joe@allheartnz.org.nz",
+  "address": {
+    "line1": "215 Rosedale Road",
+    "line2": " ",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043359677",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/allheartnz/",
+    "twitter": "https://twitter.com/allheartnz?lang=en"
+  },
+  "lastUpdated": "2025-09-22T22:44:29Z"
+}

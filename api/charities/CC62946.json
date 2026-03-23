@@ -1,0 +1,27 @@
+{
+  "id": 76871,
+  "registrationNumber": "CC62946",
+  "name": "Connecting Otago Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-06-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.DunedinTimeBank.nz",
+  "email": "secretary@dunedintimebank.nz",
+  "address": {
+    "line1": "174 Princes Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429050078394",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dunedintimebank",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T18:47:42Z"
+}

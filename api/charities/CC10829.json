@@ -1,0 +1,27 @@
+{
+  "id": 52053,
+  "registrationNumber": "CC10829",
+  "name": "London Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2007-08-13T00:00:00Z",
+  "dateDeregistered": "2016-01-18T00:00:00Z",
+  "website": null,
+  "email": "murray@careyhood.co.nz",
+  "address": {
+    "line1": "162 Wicksteed Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Wanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T00:32:21Z"
+}

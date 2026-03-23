@@ -1,0 +1,27 @@
+{
+  "id": 42041,
+  "registrationNumber": "CC35683",
+  "name": "The Jasmine Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.jasmine.org.nz/",
+  "email": "ann@redstars.co.nz",
+  "address": {
+    "line1": "15 Murphy Street",
+    "line2": "Level 10",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T19:25:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 62300,
+  "registrationNumber": "CC38373",
+  "name": "Te Ataarangi Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teataarangi.org.nz",
+  "email": "finance@ataarangi.ac.nz",
+  "address": {
+    "line1": "53B King Street",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043165148",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T01:15:06Z"
+}

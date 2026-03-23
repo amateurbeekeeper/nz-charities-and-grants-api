@@ -1,0 +1,27 @@
+{
+  "id": 38000,
+  "registrationNumber": "CC47761",
+  "name": "Avian Wildlife Rehabilitation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-03-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "wjs@outlook.co.nz",
+  "address": {
+    "line1": "1522 Gordonton Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Taupiri",
+    "postcode": "3791"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/Avian-Wildlife-Rehabilitation-Trust-WildCare-521019171327019",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T20:31:55Z"
+}

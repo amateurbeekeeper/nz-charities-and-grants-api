@@ -1,0 +1,27 @@
+{
+  "id": 61564,
+  "registrationNumber": "CC41250",
+  "name": "Waitakere City Stadium Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://thetrustsarena.co.nz/",
+  "email": "marcus.reynolds@thetrustsarena.co.nz",
+  "address": {
+    "line1": "65-67 Central Park Drive",
+    "line2": "Henderson",
+    "suburb": "Auckland",
+    "city": "Auckland",
+    "postcode": "0650"
+  },
+  "nzbn": "9429042907510",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thetrustsarena",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T21:33:29Z"
+}

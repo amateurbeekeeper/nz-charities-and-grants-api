@@ -1,0 +1,27 @@
+{
+  "id": 42224,
+  "registrationNumber": "CC24420",
+  "name": "Stoke Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.stokebaptist.org.nz",
+  "email": "sue@brl.org.nz",
+  "address": {
+    "line1": "648 Main Road Stoke",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T02:39:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75145,
+  "registrationNumber": "CC61577",
+  "name": "Tagata Moana Maternity Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tagatamoanamidwives@gmail.com",
+  "address": {
+    "line1": "14 Waddon Place",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-16T22:38:23Z"
+}

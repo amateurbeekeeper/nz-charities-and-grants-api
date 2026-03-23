@@ -1,0 +1,27 @@
+{
+  "id": 69965,
+  "registrationNumber": "CC56322",
+  "name": "Waiwaste Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waiwaste.org.nz",
+  "email": "coordinator@waiwaste.org.nz",
+  "address": {
+    "line1": "15 Hope Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429052672590",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waiwaste",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T20:48:53Z"
+}

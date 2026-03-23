@@ -1,0 +1,27 @@
+{
+  "id": 54598,
+  "registrationNumber": "CC21081",
+  "name": "Tauranga Baptist Church Gresham Court Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tcbc.org.nz",
+  "email": "accounts@tcbc.org.nz",
+  "address": {
+    "line1": "640 Cameron Road",
+    "line2": " ",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042946588",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:12:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39824,
+  "registrationNumber": "CC22788",
+  "name": "The Randell Cottage Writers Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.randellcottage.co.nz",
+  "email": "nztrustee@yahoo.com",
+  "address": {
+    "line1": "14 St Mary Street",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043080441",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Randell Cottage Writers Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-05T19:48:16Z"
+}

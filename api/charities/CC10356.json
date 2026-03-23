@@ -1,0 +1,27 @@
+{
+  "id": 51453,
+  "registrationNumber": "CC10356",
+  "name": "Alliance Francaise D'Auckland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.alliance-francaise.co.nz",
+  "email": "d.walker@auckland.ac.nz",
+  "address": {
+    "line1": "131 Remuera Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429042578758",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/afauckland",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-17T19:25:21Z"
+}

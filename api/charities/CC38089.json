@@ -1,0 +1,27 @@
+{
+  "id": 62832,
+  "registrationNumber": "CC38089",
+  "name": "Home and School Association of Central School Te Kura Waenga o Ngāmotu",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2025-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.central.school.nz",
+  "email": "homeandschool@central.school.nz",
+  "address": {
+    "line1": "Lemon Street",
+    "line2": " ",
+    "suburb": "Central",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "central home and school committee friends",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-29T23:05:03Z"
+}

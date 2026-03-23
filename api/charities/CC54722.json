@@ -1,0 +1,27 @@
+{
+  "id": 68389,
+  "registrationNumber": "CC54722",
+  "name": "Matakana Coast Trail Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-07-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://mctt.org.nz",
+  "email": "marshes@xtra.co.nz",
+  "address": {
+    "line1": "PO Box 184",
+    "line2": null,
+    "suburb": " ",
+    "city": "Matakana",
+    "postcode": "0948"
+  },
+  "nzbn": "9429043240593",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheMatakanaCoastTrailTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:54:01Z"
+}

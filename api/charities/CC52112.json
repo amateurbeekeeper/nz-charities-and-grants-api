@@ -1,0 +1,27 @@
+{
+  "id": 65849,
+  "registrationNumber": "CC52112",
+  "name": "Church Untamed Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-07-15T00:00:00Z",
+  "dateDeregistered": "2025-03-31T00:00:00Z",
+  "website": "www.churchuntamed.nz",
+  "email": "jason.sargeant@equipperschurch.com",
+  "address": {
+    "line1": "612 George Street",
+    "line2": " ",
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043273744",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/ChurchUntamed/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-07T00:24:26Z"
+}

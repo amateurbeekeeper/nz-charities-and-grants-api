@@ -1,0 +1,27 @@
+{
+  "id": 42840,
+  "registrationNumber": "CC32212",
+  "name": "Mariners Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2014-06-25T00:00:00Z",
+  "website": null,
+  "email": "teamkiwi@xtra.co.nz",
+  "address": {
+    "line1": "PO Box 54017",
+    "line2": "The Marina",
+    "suburb": "Auckland",
+    "city": null,
+    "postcode": "2144"
+  },
+  "nzbn": "9429042997023",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:08:56Z"
+}

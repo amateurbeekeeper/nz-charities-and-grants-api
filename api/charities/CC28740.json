@@ -1,0 +1,27 @@
+{
+  "id": 40093,
+  "registrationNumber": "CC28740",
+  "name": "Fell Locomotive Museum Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.fellmuseum.org.nz",
+  "email": "benjamesduncan@gmail.com",
+  "address": {
+    "line1": "Corner State Highway 2 & Lyon Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Featherston",
+    "postcode": "5710"
+  },
+  "nzbn": "9429042702726",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T18:13:49Z"
+}

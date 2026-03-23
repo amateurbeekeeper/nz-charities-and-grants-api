@@ -1,0 +1,27 @@
+{
+  "id": 66631,
+  "registrationNumber": "CC52900",
+  "name": "CrossNet Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-09-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thepark.co.nz",
+  "email": "dale@thepark.co.nz",
+  "address": {
+    "line1": "129 Ara-Kotinga",
+    "line2": "RD 1",
+    "suburb": "Whitford",
+    "city": "Manurewa",
+    "postcode": "2576"
+  },
+  "nzbn": "9429043294077",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T19:13:59Z"
+}

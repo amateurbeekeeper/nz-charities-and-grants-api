@@ -1,0 +1,27 @@
+{
+  "id": 41548,
+  "registrationNumber": "CC23865",
+  "name": "Ranfurly Care Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ranfurlycare.co.nz",
+  "email": "rancare@xtra.co.nz",
+  "address": {
+    "line1": "56 Ranfurly Road",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042869160",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T18:18:55Z"
+}

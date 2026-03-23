@@ -1,0 +1,27 @@
+{
+  "id": 65234,
+  "registrationNumber": "CC51457",
+  "name": "Kory's Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-02-24T00:00:00Z",
+  "dateDeregistered": "2022-04-07T00:00:00Z",
+  "website": null,
+  "email": "stacey@klk.nz",
+  "address": {
+    "line1": "424 Pokuru Road",
+    "line2": "RD 3",
+    "suburb": "Pokuru",
+    "city": "Te Awamutu",
+    "postcode": "3873"
+  },
+  "nzbn": "9429043264513",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/korystrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2022-04-06T22:22:18Z"
+}

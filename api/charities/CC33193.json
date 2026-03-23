@@ -1,0 +1,27 @@
+{
+  "id": 49583,
+  "registrationNumber": "CC33193",
+  "name": "Basketball New Zealand Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2017-05-17T00:00:00Z",
+  "website": "http://www.basketball.org.nz",
+  "email": "saileen@basketball.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "55 Abel Smith Street",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042781646",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-08-16T21:43:28Z"
+}

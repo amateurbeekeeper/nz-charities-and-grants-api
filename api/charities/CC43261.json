@@ -1,0 +1,27 @@
+{
+  "id": 54293,
+  "registrationNumber": "CC43261",
+  "name": "Hokotehi Moriori Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.moriori.co.nz",
+  "email": "office@kopinga.co.nz",
+  "address": {
+    "line1": "Kopinga Marae",
+    "line2": "Owenga Wharf Road",
+    "suburb": " ",
+    "city": "Chatham Islands",
+    "postcode": "8942"
+  },
+  "nzbn": "9429043109005",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-18T22:26:18Z"
+}

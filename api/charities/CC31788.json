@@ -1,0 +1,27 @@
+{
+  "id": 48382,
+  "registrationNumber": "CC31788",
+  "name": "The Breast Cancer Support Northland Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.breastcancernorthland.co.nz/",
+  "email": "info@breastcancernorthland.co.nz",
+  "address": {
+    "line1": "26 Acacia Drive",
+    "line2": " ",
+    "suburb": "Raumanga",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043160570",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Breast Cancer Support Northland Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2024-06-03T19:20:45Z"
+}

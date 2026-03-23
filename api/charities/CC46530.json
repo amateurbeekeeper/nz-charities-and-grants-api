@@ -1,0 +1,27 @@
+{
+  "id": 36966,
+  "registrationNumber": "CC46530",
+  "name": "Wakatipu Youth Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wakatipuyouthtrust.co.nz/",
+  "email": "tsurrey@mactodd.co.nz",
+  "address": {
+    "line1": "Unit 4A",
+    "line2": "15 Red Oaks Drive",
+    "suburb": "Frankton",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429043151813",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wakatipuyouth/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T03:24:44Z"
+}

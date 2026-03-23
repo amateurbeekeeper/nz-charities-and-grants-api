@@ -1,0 +1,27 @@
+{
+  "id": 76550,
+  "registrationNumber": "CC62783",
+  "name": "Te Ihowai Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tami@teihowai.nz",
+  "address": {
+    "line1": "321A Mangorei Road",
+    "line2": " ",
+    "suburb": "Merrilands",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429052179419",
+  "financialYearEnd": "26/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:09:10Z"
+}

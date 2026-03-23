@@ -1,0 +1,27 @@
+{
+  "id": 68645,
+  "registrationNumber": "CC54986",
+  "name": "Tabernacle Plaza Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-08-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rangland@tabtrust.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "441 Queen Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043376681",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T23:24:29Z"
+}

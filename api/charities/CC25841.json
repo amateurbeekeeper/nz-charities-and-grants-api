@@ -1,0 +1,27 @@
+{
+  "id": 58290,
+  "registrationNumber": "CC25841",
+  "name": "Kia Haumaru - Personal Safety Education Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kiahaumaru.org.nz",
+  "email": "kaiwhakahaere@kiahaumaru.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "4 Bond Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042924203",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kiahaumaru",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T22:35:21Z"
+}

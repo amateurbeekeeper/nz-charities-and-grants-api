@@ -1,0 +1,27 @@
+{
+  "id": 69214,
+  "registrationNumber": "CC55563",
+  "name": "Thai Community Church",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-07-23T00:00:00Z",
+  "dateDeregistered": "2021-02-26T00:00:00Z",
+  "website": null,
+  "email": "thaicommunitynz@gmail.com",
+  "address": {
+    "line1": "610A East Coast Road",
+    "line2": null,
+    "suburb": "Pinehill",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": null,
+  "financialYearEnd": "29/1",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-02-25T23:55:04Z"
+}

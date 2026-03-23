@@ -1,0 +1,27 @@
+{
+  "id": 67384,
+  "registrationNumber": "CC53669",
+  "name": "Karori Community Garden",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2016-08-22T00:00:00Z",
+  "dateDeregistered": "2018-05-01T00:00:00Z",
+  "website": "karoricommunitygarden.nz",
+  "email": "stevensonpd2012@gmail.com",
+  "address": {
+    "line1": "26a Woodhouse Ave",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "facebook.com/groups/karoricommunitygarden/",
+    "twitter": null
+  },
+  "lastUpdated": "2018-05-07T18:45:44Z"
+}

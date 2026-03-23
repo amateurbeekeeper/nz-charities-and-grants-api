@@ -1,0 +1,27 @@
+{
+  "id": 48106,
+  "registrationNumber": "CC30423",
+  "name": "The National Wetland Trust of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wetlandtrust.org.nz",
+  "email": "lawrie@ps.gen.nz",
+  "address": {
+    "line1": "52B Mill Road",
+    "line2": "RD 2",
+    "suburb": "Pukekohe East",
+    "city": "Pukekohe",
+    "postcode": "2677"
+  },
+  "nzbn": "9429042969990",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/WetlandTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-16T18:11:12Z"
+}

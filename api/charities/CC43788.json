@@ -1,0 +1,27 @@
+{
+  "id": 50222,
+  "registrationNumber": "CC43788",
+  "name": "Waiheke United Association Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waihekeunited.org.nz",
+  "email": "simon.harvey@waihekeunited.org.nz",
+  "address": {
+    "line1": "133- 165 Onetangi Road",
+    "line2": " ",
+    "suburb": "Onetangi ",
+    "city": "Waiheke Island",
+    "postcode": "1971"
+  },
+  "nzbn": "9429043097968",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WaihekeUnitedAfc/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T08:03:36Z"
+}

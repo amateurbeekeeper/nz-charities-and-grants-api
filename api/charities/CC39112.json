@@ -1,0 +1,27 @@
+{
+  "id": 42270,
+  "registrationNumber": "CC39112",
+  "name": "Margot Property Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2019-03-31T00:00:00Z",
+  "website": null,
+  "email": "brendanm@locks.co.nz",
+  "address": {
+    "line1": "19 Beresford Square",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429039029850",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-05-02T02:22:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 57680,
+  "registrationNumber": "CC28301",
+  "name": "New Zealand Olympic Foundation",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2010-10-10T00:00:00Z",
+  "website": null,
+  "email": "shelley@olympic.org.nz",
+  "address": {
+    "line1": "TSB BANK ARENA",
+    "line2": "4 Queens Wharf",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043167319",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-09-15T21:55:37Z"
+}

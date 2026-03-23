@@ -1,0 +1,27 @@
+{
+  "id": 36389,
+  "registrationNumber": "CC46172",
+  "name": "Tauranga Sports Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.taurangasports.nz",
+  "email": "tgasports@xtra.co.nz",
+  "address": {
+    "line1": "31 Cameron Road",
+    "line2": "Tauranga 3110",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042828891",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Taurangasportsrugbyclub/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T04:35:26Z"
+}

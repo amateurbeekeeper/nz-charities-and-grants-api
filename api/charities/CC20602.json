@@ -1,0 +1,27 @@
+{
+  "id": 53496,
+  "registrationNumber": "CC20602",
+  "name": "Hutt Council Of Social Services Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-01-22T00:00:00Z",
+  "dateDeregistered": "2014-08-31T00:00:00Z",
+  "website": "http://www.huttcoss.org.nz",
+  "email": "coordinator@huttcoss.org.nz",
+  "address": {
+    "line1": "PO Box 31621",
+    "line2": null,
+    "suburb": "Lower Hutt",
+    "city": null,
+    "postcode": "5040"
+  },
+  "nzbn": "9429043057450",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T00:53:03Z"
+}

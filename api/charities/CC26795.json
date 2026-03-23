@@ -1,0 +1,27 @@
+{
+  "id": 39298,
+  "registrationNumber": "CC26795",
+  "name": "LevinLife Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.levinlife.org.nz",
+  "email": "office@levinlife.org.nz",
+  "address": {
+    "line1": "131 Liverpool Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": "9429042580621",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/levinlifechurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-07T19:09:52Z"
+}

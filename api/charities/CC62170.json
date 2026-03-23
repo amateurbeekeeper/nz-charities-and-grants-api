@@ -1,0 +1,27 @@
+{
+  "id": 75718,
+  "registrationNumber": "CC62170",
+  "name": "Southern Heart Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david@dkbaccounting.co.nz",
+  "address": {
+    "line1": "141 Cambridge Terrace",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T20:03:39Z"
+}

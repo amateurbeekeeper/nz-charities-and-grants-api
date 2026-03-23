@@ -1,0 +1,27 @@
+{
+  "id": 34211,
+  "registrationNumber": "CC50603",
+  "name": "Pegasus Flying Trust Air Training Corps",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.pegasusflyingtrust.co.nz",
+  "email": "calowrie@gmail.com",
+  "address": {
+    "line1": "The Depot",
+    "line2": "Lloyd Elsemore Park",
+    "suburb": "Pakuranga",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429043244881",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pegasusflyingtrustATC/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-26T19:16:34Z"
+}

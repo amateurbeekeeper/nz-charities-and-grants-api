@@ -1,0 +1,27 @@
+{
+  "id": 74489,
+  "registrationNumber": "CC60909",
+  "name": "This is Eden Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-01-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.thisiseden.org",
+  "email": "kalinda@thisiseden.org",
+  "address": {
+    "line1": "6 Gennaker Lane",
+    "line2": " ",
+    "suburb": "Whitby",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "This is Eden",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T02:36:17Z"
+}

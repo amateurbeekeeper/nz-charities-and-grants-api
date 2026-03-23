@@ -1,0 +1,27 @@
+{
+  "id": 72301,
+  "registrationNumber": "CC58689",
+  "name": "Hutt Valley Hearing Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hvhearing.co.nz",
+  "email": "admin@hvhearing.co.nz",
+  "address": {
+    "line1": "Unit 19",
+    "line2": "55 Percy Cameron Street",
+    "suburb": "Avalon",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429049001501",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Hutt Valley Hearing",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T00:17:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 57157,
+  "registrationNumber": "CC25034",
+  "name": "Citizens Advice Bureau North Otago Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "coordinator.northotago@cab.org.nz",
+  "address": {
+    "line1": "Community House",
+    "line2": "100 Thames Street",
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429042695882",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:02:35Z"
+}

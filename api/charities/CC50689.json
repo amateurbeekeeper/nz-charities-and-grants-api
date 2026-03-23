@@ -1,0 +1,27 @@
+{
+  "id": 35279,
+  "registrationNumber": "CC50689",
+  "name": "FIANZ Baitul Maal New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2022-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://baitulmaal.nz/",
+  "email": "accounts@baitulmaal.nz",
+  "address": {
+    "line1": "463 Porchester Road",
+    "line2": " ",
+    "suburb": "Randwick Park",
+    "city": "Auckland",
+    "postcode": "2105"
+  },
+  "nzbn": "9429043235612",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": " https://www.facebook.com/baitulmaalnz",
+    "twitter": "https://twitter.com/baitulmaalnz"
+  },
+  "lastUpdated": "2025-10-20T23:42:34Z"
+}

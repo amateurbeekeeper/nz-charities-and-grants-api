@@ -1,0 +1,27 @@
+{
+  "id": 65409,
+  "registrationNumber": "CC51644",
+  "name": "YNCA SOURCE AND ASSOCIATES",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ynca.source@gmail.com",
+  "address": {
+    "line1": "PO Box 15",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kingston",
+    "postcode": "9748"
+  },
+  "nzbn": "9429041835906",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T01:08:22Z"
+}

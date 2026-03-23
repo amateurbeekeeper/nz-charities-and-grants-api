@@ -1,0 +1,27 @@
+{
+  "id": 33148,
+  "registrationNumber": "CC48835",
+  "name": "St Andrews Parent Teachers Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2025-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "amy.j.scott@outlook.com",
+  "address": {
+    "line1": "St Andrews School",
+    "line2": "Blue cliffs rd",
+    "suburb": "Rd 24",
+    "city": "St Andrews",
+    "postcode": "7988"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-24T21:28:41Z"
+}

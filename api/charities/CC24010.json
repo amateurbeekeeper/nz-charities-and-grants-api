@@ -1,0 +1,27 @@
+{
+  "id": 40297,
+  "registrationNumber": "CC24010",
+  "name": "Botanical Society of Otago",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bso.org.nz/",
+  "email": "angela.j.brandt@gmail.com",
+  "address": {
+    "line1": "c/o Department of Botany, University of Otago",
+    "line2": "P.O. Box 56",
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9054"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/Botanical-Society-of-Otago-513831728707617/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:36:10Z"
+}

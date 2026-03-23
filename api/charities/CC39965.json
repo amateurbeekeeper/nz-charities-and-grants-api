@@ -1,0 +1,27 @@
+{
+  "id": 57219,
+  "registrationNumber": "CC39965",
+  "name": "The New Zealand Electronics Institute Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzelectronics.org.nz",
+  "email": "wheelerm@actrix.co.nz",
+  "address": {
+    "line1": "3A Willis Street",
+    "line2": " ",
+    "suburb": "Torbay",
+    "city": "Auckland",
+    "postcode": "630"
+  },
+  "nzbn": "9429042783886",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T00:59:10Z"
+}

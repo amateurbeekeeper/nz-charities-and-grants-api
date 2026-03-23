@@ -1,0 +1,27 @@
+{
+  "id": 33764,
+  "registrationNumber": "CC50303",
+  "name": "LUME Network",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2014-01-30T00:00:00Z",
+  "dateDeregistered": "2025-11-04T00:00:00Z",
+  "website": "https://www.lumenetwork.org",
+  "email": "diana@lumenetwork.org",
+  "address": {
+    "line1": "17B Sunshine Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T06:03:29Z"
+}

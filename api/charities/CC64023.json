@@ -1,0 +1,27 @@
+{
+  "id": 78215,
+  "registrationNumber": "CC64023",
+  "name": "ODE Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-11-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nixon.fong@gmail.com",
+  "address": {
+    "line1": "35/48 Shortland Street ",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T19:56:43Z"
+}

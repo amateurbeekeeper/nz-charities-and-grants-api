@@ -1,0 +1,27 @@
+{
+  "id": 58500,
+  "registrationNumber": "CC35800",
+  "name": "Manukau Institute of Technology Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2022-09-30T00:00:00Z",
+  "website": "http://www.manukau.ac.nz",
+  "email": "Contracts_and_Legal@manukau.ac.nz",
+  "address": {
+    "line1": "53 Otara Road",
+    "line2": "Otara",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": "9429048037396",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/manukau.institute",
+    "twitter": null
+  },
+  "lastUpdated": "2022-11-23T06:04:55Z"
+}

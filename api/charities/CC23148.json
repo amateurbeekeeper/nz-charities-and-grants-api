@@ -1,0 +1,27 @@
+{
+  "id": 40502,
+  "registrationNumber": "CC23148",
+  "name": "Auckland Christian Mandarin Campus Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "acmcc.nz",
+  "email": "finance.acmcc@gmail.com",
+  "address": {
+    "line1": "11E Kerria Place",
+    "line2": " ",
+    "suburb": "Sunnynook",
+    "city": "Auckland",
+    "postcode": "0620"
+  },
+  "nzbn": "9429043002542",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T21:49:47Z"
+}

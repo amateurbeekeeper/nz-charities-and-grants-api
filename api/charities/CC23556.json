@@ -1,0 +1,27 @@
+{
+  "id": 55360,
+  "registrationNumber": "CC23556",
+  "name": "Raglan Community Media Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.raglanradio.com",
+  "email": "manager@raglanradio.com",
+  "address": {
+    "line1": "41 Bow Street",
+    "line2": "Raglan 3225",
+    "suburb": " ",
+    "city": "Raglan",
+    "postcode": "3225"
+  },
+  "nzbn": "9429042733713",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RCR981",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T05:36:57Z"
+}

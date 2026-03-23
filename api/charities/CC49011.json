@@ -1,0 +1,27 @@
+{
+  "id": 35501,
+  "registrationNumber": "CC49011",
+  "name": "Coptic Orthodox Church, NZ, Parish of St. Mary And St. Mina, Wellington",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "stmarystmina.co.nz",
+  "email": "hbaramousy@gmail.com",
+  "address": {
+    "line1": "243 Naenae Road",
+    "line2": " ",
+    "suburb": "Naenae",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429043174300",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The Coptic Orthodox Church of Wellington",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-03T00:19:56Z"
+}

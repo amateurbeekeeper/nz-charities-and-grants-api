@@ -1,0 +1,27 @@
+{
+  "id": 45952,
+  "registrationNumber": "CC35349",
+  "name": "Wa Ora Montessori School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waora.school.nz",
+  "email": "sarah@doublethink.co.nz",
+  "address": {
+    "line1": "WA Ora Montessori School",
+    "line2": "278 Waddington Drive",
+    "suburb": "Naenae",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T01:38:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63863,
+  "registrationNumber": "CC40150",
+  "name": "Malvern Agricultural and Pastoral Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.malvernshownz.com",
+  "email": "malvernshow@gmail.com",
+  "address": {
+    "line1": "1627 Tramway Road",
+    "line2": "RD 1",
+    "suburb": "Sheffield",
+    "city": "Darfield",
+    "postcode": "7571"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Malvern A&P Show",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T03:04:37Z"
+}

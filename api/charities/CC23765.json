@@ -1,0 +1,27 @@
+{
+  "id": 40109,
+  "registrationNumber": "CC23765",
+  "name": "Lifeline Aotearoa Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": "2016-12-01T00:00:00Z",
+  "website": "http://www.lifeline.org.nz",
+  "email": "info@lifeline.org.nz",
+  "address": {
+    "line1": "95 Great South Road",
+    "line2": null,
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042711513",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-01-29T02:53:17Z"
+}

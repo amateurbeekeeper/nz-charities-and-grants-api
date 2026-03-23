@@ -1,0 +1,27 @@
+{
+  "id": 65719,
+  "registrationNumber": "CC51971",
+  "name": "Opoho Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.opohochurch.org",
+  "email": "opohopcbusiness@gmail.com",
+  "address": {
+    "line1": "50 Signal Hill Road",
+    "line2": " ",
+    "suburb": "Opoho",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Opoho Church Community",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:43:11Z"
+}

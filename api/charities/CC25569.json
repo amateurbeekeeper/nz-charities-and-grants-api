@@ -1,0 +1,27 @@
+{
+  "id": 57801,
+  "registrationNumber": "CC25569",
+  "name": "Conservation Volunteers New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.conservationvolunteers.co.nz",
+  "email": "sogrady@cvnz.org.nz",
+  "address": {
+    "line1": "45 MacLaggan Street",
+    "line2": "10 Heather Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043169801",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:37:36Z"
+}

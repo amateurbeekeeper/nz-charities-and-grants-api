@@ -1,0 +1,27 @@
+{
+  "id": 67086,
+  "registrationNumber": "CC53361",
+  "name": "Te Reo Irirangi o Te Upoko o Te Ika Trust Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://teupoko.nz/",
+  "email": "piripi@reo.co.nz",
+  "address": {
+    "line1": "14 Chapman Street",
+    "line2": " ",
+    "suburb": "Newlands",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429042826996",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T19:06:40Z"
+}

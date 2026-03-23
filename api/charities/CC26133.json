@@ -1,0 +1,27 @@
+{
+  "id": 58386,
+  "registrationNumber": "CC26133",
+  "name": "Perinatal Society Of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://perinatalsociety.org.nz/",
+  "email": "jennifer.barrowclough@aut.ac.nz",
+  "address": {
+    "line1": "Attention: Jennifer Barrow",
+    "line2": "Private Bag 92019",
+    "suburb": "Auckland Mail Centre",
+    "city": "Auckland",
+    "postcode": "1142"
+  },
+  "nzbn": "9429042804147",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T19:29:29Z"
+}

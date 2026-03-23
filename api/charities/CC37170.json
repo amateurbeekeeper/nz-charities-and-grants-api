@@ -1,0 +1,27 @@
+{
+  "id": 60520,
+  "registrationNumber": "CC37170",
+  "name": "Dunedin Naturalist's Field Club",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fbeggs3@gmail.com",
+  "address": {
+    "line1": "147 Forfar Street",
+    "line2": " ",
+    "suburb": "Clyde Hill",
+    "city": "Dunedin",
+    "postcode": "9011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-09T02:41:55Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54349,
+  "registrationNumber": "CC39342",
+  "name": "Aotearoa Digital Arts",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ada.net.nz",
+  "email": "j.alexander.hope@gmail.com",
+  "address": {
+    "line1": "45 Glovers Road",
+    "line2": " ",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429043162093",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@ada.net.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T09:37:39Z"
+}

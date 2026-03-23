@@ -1,0 +1,27 @@
+{
+  "id": 57217,
+  "registrationNumber": "CC25122",
+  "name": "Ngaio Union Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ngaiounion.co.nz",
+  "email": "jofullelove@gmail.com",
+  "address": {
+    "line1": "1-5  Kenya Street",
+    "line2": " ",
+    "suburb": "Ngaio",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ngaio Union Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:13:25Z"
+}

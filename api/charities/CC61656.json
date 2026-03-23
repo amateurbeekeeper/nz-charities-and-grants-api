@@ -1,0 +1,27 @@
+{
+  "id": 75218,
+  "registrationNumber": "CC61656",
+  "name": "Moana Pasifika Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-10-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "melanie@pasifikafutures.co.nz",
+  "address": {
+    "line1": "7A Pacific Rise",
+    "line2": "Level 7, 8 Hardinge Street",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429049752120",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T20:11:55Z"
+}

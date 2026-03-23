@@ -1,0 +1,27 @@
+{
+  "id": 43868,
+  "registrationNumber": "CC32317",
+  "name": "Harmony Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.harmonychurch.nz",
+  "email": "gideonh@harmonychurch.nz",
+  "address": {
+    "line1": "220 Antigua Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043093342",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HARMONY-CHURCH",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T19:04:24Z"
+}

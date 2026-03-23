@@ -1,0 +1,27 @@
+{
+  "id": 66773,
+  "registrationNumber": "CC53048",
+  "name": "Trinity Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.trinitychurch.org.nz",
+  "email": "derekpapesch@gmail.com",
+  "address": {
+    "line1": "30 Hilltop Road",
+    "line2": " ",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": "9429051030506",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-21T19:45:24Z"
+}

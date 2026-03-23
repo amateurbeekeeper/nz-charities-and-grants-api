@@ -1,0 +1,27 @@
+{
+  "id": 34970,
+  "registrationNumber": "CC49435",
+  "name": "Waikari Health Care Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-04-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waikarihealth.co.nz",
+  "email": "admin@waikarihealth.co.nz",
+  "address": {
+    "line1": "100 Princes Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waikari",
+    "postcode": "7420"
+  },
+  "nzbn": "9429030303577",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T19:29:13Z"
+}

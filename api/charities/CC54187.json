@@ -1,0 +1,27 @@
+{
+  "id": 67873,
+  "registrationNumber": "CC54187",
+  "name": "Books4Tonga",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-01-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.books4tonga.org",
+  "email": "books4tonga@live.com",
+  "address": {
+    "line1": "126 Parsons Street",
+    "line2": " ",
+    "suburb": "Springvale",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Books4Tonga",
+    "twitter": "Books4Tonga"
+  },
+  "lastUpdated": "2026-01-28T08:06:13Z"
+}

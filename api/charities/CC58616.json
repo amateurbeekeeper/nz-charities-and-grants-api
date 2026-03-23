@@ -1,0 +1,27 @@
+{
+  "id": 72228,
+  "registrationNumber": "CC58616",
+  "name": "Art in Nature Arboretum Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-12-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sculpturepark.co.nz",
+  "email": "treasurer@sculpturepark.co.nz",
+  "address": {
+    "line1": "207 Scotsman Valley Road",
+    "line2": " ",
+    "suburb": "Tauwhare",
+    "city": "Hamilton",
+    "postcode": "3287"
+  },
+  "nzbn": "9429048843416",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The Sculpture Park at Waitakaruru Arboretum",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T20:25:52Z"
+}

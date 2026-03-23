@@ -1,0 +1,27 @@
+{
+  "id": 45929,
+  "registrationNumber": "CC33745",
+  "name": "The Blenheim Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@blentrust.co.nz",
+  "address": {
+    "line1": "Youell House",
+    "line2": "1 Hutcheson Street",
+    "suburb": " Mayfield",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429042595410",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-20T19:17:03Z"
+}

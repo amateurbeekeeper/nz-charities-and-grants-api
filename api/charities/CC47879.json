@@ -1,0 +1,27 @@
+{
+  "id": 37250,
+  "registrationNumber": "CC47879",
+  "name": "The Project Janszoon Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-02-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.janszoon.org",
+  "email": "leigh@janszoon.org",
+  "address": {
+    "line1": "Level 1",
+    "line2": "5 William Laurie Place",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ProjectJanszoon",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:41:59Z"
+}

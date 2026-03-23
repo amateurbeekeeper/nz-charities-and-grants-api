@@ -1,0 +1,27 @@
+{
+  "id": 35475,
+  "registrationNumber": "CC47073",
+  "name": "Every Village",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2011-07-21T00:00:00Z",
+  "dateDeregistered": "2014-05-05T00:00:00Z",
+  "website": "http://www.everyvillages.com",
+  "email": "matttzion@gmail.com",
+  "address": {
+    "line1": "PO Box 58",
+    "line2": null,
+    "suburb": "Waikanae",
+    "city": null,
+    "postcode": "5250"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:49:32Z"
+}

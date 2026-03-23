@@ -1,0 +1,27 @@
+{
+  "id": 39752,
+  "registrationNumber": "CC28240",
+  "name": "Nelson Male Voice Choir Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nelsonmalevoicechoir.nz",
+  "email": "brucegee@xtra.co.nz",
+  "address": {
+    "line1": "8 Lighthouse View",
+    "line2": " ",
+    "suburb": "Atawhai",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042752479",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NelsonMaleVoiceChoir/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T01:17:26Z"
+}

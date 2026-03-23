@@ -1,0 +1,27 @@
+{
+  "id": 71295,
+  "registrationNumber": "CC57671",
+  "name": "Aotearoa Africa Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-01-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aaf.org.nz",
+  "email": "rtso002@aucklanduni.ac.nz",
+  "address": {
+    "line1": "208 Richardson Road",
+    "line2": " ",
+    "suburb": "Wesley",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Aotearoa-Africa-Foundation-109128097450085",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T03:00:54Z"
+}

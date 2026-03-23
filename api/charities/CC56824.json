@@ -1,0 +1,27 @@
+{
+  "id": 70461,
+  "registrationNumber": "CC56824",
+  "name": "Totara Springs Christian Centre Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.totarasprings.org.nz",
+  "email": "secretary@totarasprings.org.nz",
+  "address": {
+    "line1": "288 Taihoa North Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Taihoa",
+    "postcode": "3473"
+  },
+  "nzbn": "9429047195660",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/totarasprings/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T07:23:00Z"
+}

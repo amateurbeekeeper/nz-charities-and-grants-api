@@ -1,0 +1,27 @@
+{
+  "id": 34581,
+  "registrationNumber": "CC50944",
+  "name": "Daltons Gym Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-09-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "daltonsgym@gmail.com",
+  "address": {
+    "line1": "59 Hikurangi Street",
+    "line2": " ",
+    "suburb": "Trentham",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429043262021",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/fueltheneed",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:27:34Z"
+}

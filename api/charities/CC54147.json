@@ -1,0 +1,27 @@
+{
+  "id": 67839,
+  "registrationNumber": "CC54147",
+  "name": "Ahikiwi Marae Administration Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-04-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Wendy@northlandca.co.nz",
+  "address": {
+    "line1": "213 Ahikiwi Road",
+    "line2": "RD 3",
+    "suburb": "Kaihu",
+    "city": "Dargaville",
+    "postcode": "0373"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T07:23:30Z"
+}

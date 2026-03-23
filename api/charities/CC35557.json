@@ -1,0 +1,27 @@
+{
+  "id": 59387,
+  "registrationNumber": "CC35557",
+  "name": "Shekinah Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.shekinah.org.nz",
+  "email": "alan@bmsltd.net.nz",
+  "address": {
+    "line1": "19B Cracroft Terrace",
+    "line2": " ",
+    "suburb": "Cashmere",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-17T19:18:45Z"
+}

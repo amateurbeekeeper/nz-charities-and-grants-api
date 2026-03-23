@@ -1,0 +1,27 @@
+{
+  "id": 78317,
+  "registrationNumber": "CC64131",
+  "name": "Te Akau Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-01-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "eric@behaviour.nz",
+  "address": {
+    "line1": "1159 Te Akau Road",
+    "line2": "RD 1",
+    "suburb": "Te Ākau",
+    "city": "Ngaruawahia",
+    "postcode": "3793"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T03:17:27Z"
+}

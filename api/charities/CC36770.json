@@ -1,0 +1,27 @@
+{
+  "id": 65155,
+  "registrationNumber": "CC36770",
+  "name": "Whatever It Takes Trust Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://witservices.co.nz/",
+  "email": "kevinsnee@witservices.co.nz",
+  "address": {
+    "line1": "15 Shakespeare Road",
+    "line2": "Ahuriri",
+    "suburb": "Bluff Hill",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429043054848",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T03:12:00Z"
+}

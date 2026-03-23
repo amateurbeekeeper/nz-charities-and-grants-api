@@ -1,0 +1,27 @@
+{
+  "id": 75875,
+  "registrationNumber": "CC62331",
+  "name": "Pacific Settlement Support Services Charitable Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pacificsettlement.nz",
+  "email": "contact@pacificsettlement.nz",
+  "address": {
+    "line1": "3049 Great North Road",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429053070623",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/pacificsettlementservices",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T23:45:18Z"
+}

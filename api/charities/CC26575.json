@@ -1,0 +1,27 @@
+{
+  "id": 54406,
+  "registrationNumber": "CC26575",
+  "name": "SPAN Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.skillwise.org.nz",
+  "email": "info@skillwise.org.nz",
+  "address": {
+    "line1": "344 Manchester Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042723622",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SkillWiseCHCH/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T18:19:12Z"
+}

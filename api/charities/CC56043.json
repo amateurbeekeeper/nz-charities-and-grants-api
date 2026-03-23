@@ -1,0 +1,27 @@
+{
+  "id": 69699,
+  "registrationNumber": "CC56043",
+  "name": "Tu Wahine Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stella@tuwahine.org.nz",
+  "address": {
+    "line1": "247 Edmonton Road",
+    "line2": " ",
+    "suburb": "Te Atatu South",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429042877318",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T19:49:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42925,
+  "registrationNumber": "CC28040",
+  "name": "Wallacetown Volunteer Fire Brigade ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "trentandbex@gmail.com",
+  "address": {
+    "line1": "37 Dalry Street",
+    "line2": "Wallacetown 9816",
+    "suburb": " ",
+    "city": "Wallacetown",
+    "postcode": "9816"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T18:17:51Z"
+}

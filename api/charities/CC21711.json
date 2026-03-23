@@ -1,0 +1,27 @@
+{
+  "id": 54853,
+  "registrationNumber": "CC21711",
+  "name": "Gideon's Valley Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "contactabrams@gmail.com",
+  "address": {
+    "line1": "237 Warner Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3173"
+  },
+  "nzbn": "9429042628231",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-29T00:10:46Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51574,
+  "registrationNumber": "CC20276",
+  "name": "Parent Aid Kaipara Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-12-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.parentaidnorthwest.org.nz",
+  "email": "manager@parentaidnorthwest.org.nz",
+  "address": {
+    "line1": "1 Porter Crescent",
+    "line2": "Helensville 0800",
+    "suburb": " ",
+    "city": "Helensville",
+    "postcode": "0800"
+  },
+  "nzbn": "9429042990567",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ParentAidNorthWest/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T01:01:37Z"
+}

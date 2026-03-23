@@ -1,0 +1,27 @@
+{
+  "id": 56680,
+  "registrationNumber": "CC40470",
+  "name": "Papamoa Community Patrol Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "papamoa@cpnz.org.nz",
+  "address": {
+    "line1": "41 Santa Barbara Drive",
+    "line2": " ",
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": "9429043285365",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Papamoa Community Patrol",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T04:09:28Z"
+}

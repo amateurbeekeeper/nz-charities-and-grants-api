@@ -1,0 +1,27 @@
+{
+  "id": 71282,
+  "registrationNumber": "CC57655",
+  "name": "Ambulance EMT Patient Transfer Services Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.emt.org.nz",
+  "email": "info@emt.org.nz",
+  "address": {
+    "line1": "110 Colombo Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waiuku",
+    "postcode": "2123"
+  },
+  "nzbn": "9429051320300",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T21:56:17Z"
+}

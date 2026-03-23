@@ -1,0 +1,27 @@
+{
+  "id": 59951,
+  "registrationNumber": "CC27919",
+  "name": "Stagecraft Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sam.perry@brandons.co.nz",
+  "address": {
+    "line1": "22A Ghuznee Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042729068",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T03:40:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 49013,
+  "registrationNumber": "CC33122",
+  "name": "Matauri Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2024-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pat.durham@icloud.com",
+  "address": {
+    "line1": "1609 Matauri Bay Road",
+    "line2": " ",
+    "suburb": "Matauri Bay",
+    "city": "Kaeo",
+    "postcode": "0478"
+  },
+  "nzbn": "9429043089000",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T18:10:29Z"
+}

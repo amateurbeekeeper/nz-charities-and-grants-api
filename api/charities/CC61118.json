@@ -1,0 +1,27 @@
+{
+  "id": 74698,
+  "registrationNumber": "CC61118",
+  "name": "Te Ara Pōtiki Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tearapotiki.com/",
+  "email": "maureen@atasl.co.nz",
+  "address": {
+    "line1": "21 Dairy Farm Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4440"
+  },
+  "nzbn": "9429051122782",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:42:15Z"
+}

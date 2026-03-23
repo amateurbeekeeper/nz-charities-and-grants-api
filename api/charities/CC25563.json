@@ -1,0 +1,27 @@
+{
+  "id": 57969,
+  "registrationNumber": "CC25563",
+  "name": "First Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.firstfoundation.org.nz",
+  "email": "kirk.sargent@firstfoundation.org.nz",
+  "address": {
+    "line1": "Level Two Parenting Place",
+    "line2": " 300 Great South Road",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429043033836",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FirstFoundationNZ",
+    "twitter": "https://www.linkedin.com/company/firstfoundationnz"
+  },
+  "lastUpdated": "2026-01-22T03:20:35Z"
+}

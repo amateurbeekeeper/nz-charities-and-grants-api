@@ -1,0 +1,27 @@
+{
+  "id": 40586,
+  "registrationNumber": "CC23961",
+  "name": "Cromwell Youth  Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cromwellyouthtrust.co.nz",
+  "email": "liana@cromwellyouthtrust.co.nz",
+  "address": {
+    "line1": "3D Murray Terrace",
+    "line2": null,
+    "suburb": null,
+    "city": "Cromwell",
+    "postcode": "9310"
+  },
+  "nzbn": "9429043024155",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/cromwellyouthtrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T02:33:04Z"
+}

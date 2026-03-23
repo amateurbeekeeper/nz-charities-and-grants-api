@@ -1,0 +1,27 @@
+{
+  "id": 33074,
+  "registrationNumber": "CC48543",
+  "name": "Taupo Primary School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-11-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "taupoprimarypta@gmail.com",
+  "address": {
+    "line1": "Tamamutu Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Taupo",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/taupoprimarypta/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-12T19:10:10Z"
+}

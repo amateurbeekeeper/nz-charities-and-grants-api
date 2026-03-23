@@ -1,0 +1,27 @@
+{
+  "id": 78481,
+  "registrationNumber": "CC64287",
+  "name": "Fabry NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://fabrynz.org.nz",
+  "email": "dkleyer@actrix.co.nz",
+  "address": {
+    "line1": "10 Canterbury Place",
+    "line2": null,
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T21:06:28Z"
+}

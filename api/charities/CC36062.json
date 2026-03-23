@@ -1,0 +1,27 @@
+{
+  "id": 44434,
+  "registrationNumber": "CC36062",
+  "name": "Church Property Trustees (Anglican Diocese of Christchurch)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.anglicanlife.org.nz",
+  "email": "cptfinancemanager@anglicanlife.org.nz",
+  "address": {
+    "line1": "95 Tuam Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429048839693",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T02:40:40Z"
+}

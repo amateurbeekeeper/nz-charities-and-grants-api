@@ -1,0 +1,27 @@
+{
+  "id": 36936,
+  "registrationNumber": "CC46419",
+  "name": "MPHS Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-04-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mphscommunity.org/",
+  "email": "kathryn@mphs.org.nz",
+  "address": {
+    "line1": "27 Corban Avenue",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429043229314",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mphscommunity",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T18:03:59Z"
+}

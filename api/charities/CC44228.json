@@ -1,0 +1,27 @@
+{
+  "id": 64203,
+  "registrationNumber": "CC44228",
+  "name": "The Wellington Foodbank Service Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2010-05-16T00:00:00Z",
+  "dateDeregistered": "2014-02-27T00:00:00Z",
+  "website": "https://www.wellingtonfoodbankserviceincorporated.org.nz",
+  "email": "foodbank@vodafone.co.nz",
+  "address": {
+    "line1": "220 Willis Street",
+    "line2": null,
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043190881",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-02-13T23:20:55Z"
+}

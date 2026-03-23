@@ -1,0 +1,27 @@
+{
+  "id": 52863,
+  "registrationNumber": "CC11248",
+  "name": "Dunedin City New Life Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "newlifedunedin.nz",
+  "email": "dunedincitynewlifechurch@gmail.com",
+  "address": {
+    "line1": "48 Stafford Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043171279",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Dunedin City New Life",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-17T19:17:06Z"
+}

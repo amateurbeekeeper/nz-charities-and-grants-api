@@ -1,0 +1,27 @@
+{
+  "id": 61596,
+  "registrationNumber": "CC37219",
+  "name": "Wellington Chinese Sports and Cultural Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wcscc.org.nz",
+  "email": "candtmiddleton@gmail.com",
+  "address": {
+    "line1": "Mt Albert Road",
+    "line2": "Berhampbore",
+    "suburb": "Berhampore",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429042916734",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wcscc.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:36:05Z"
+}

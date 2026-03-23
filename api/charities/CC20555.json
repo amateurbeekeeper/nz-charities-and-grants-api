@@ -1,0 +1,27 @@
+{
+  "id": 53892,
+  "registrationNumber": "CC20555",
+  "name": "The Work Opportunities Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.workopportunities.org.nz",
+  "email": "sue@workopportunities.org.nz",
+  "address": {
+    "line1": "103 Melbourne Street",
+    "line2": " ",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042971436",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T02:47:44Z"
+}

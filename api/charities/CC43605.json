@@ -1,0 +1,27 @@
+{
+  "id": 48814,
+  "registrationNumber": "CC43605",
+  "name": "Onewhero Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.onewherogolf.co.nz",
+  "email": "office@onewherogolf.co.nz",
+  "address": {
+    "line1": "Corner Main And Churchill Roads",
+    "line2": " ",
+    "suburb": "Pukekawa",
+    "city": "Franklin District",
+    "postcode": "2342"
+  },
+  "nzbn": "9429042774426",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-27T22:13:47Z"
+}

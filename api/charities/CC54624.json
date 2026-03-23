@@ -1,0 +1,27 @@
+{
+  "id": 68294,
+  "registrationNumber": "CC54624",
+  "name": "The C3 Church Hutt City",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-06-07T00:00:00Z",
+  "dateDeregistered": "2020-03-31T00:00:00Z",
+  "website": "https://www.c3huttcity.org.nz",
+  "email": "c3huttcity@gmail.com",
+  "address": {
+    "line1": "10 Dunns Street",
+    "line2": " ",
+    "suburb": "Silverstream",
+    "city": "Upper Hutt",
+    "postcode": "5019"
+  },
+  "nzbn": "9429045932243",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/c3huttcity/",
+    "twitter": null
+  },
+  "lastUpdated": "2020-08-12T21:55:46Z"
+}

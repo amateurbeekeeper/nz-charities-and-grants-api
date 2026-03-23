@@ -1,0 +1,27 @@
+{
+  "id": 39550,
+  "registrationNumber": "CC28132",
+  "name": "Tauwhara Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2020-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "arohanui.allen@gmail.com",
+  "address": {
+    "line1": "561 Rakauwahia Road",
+    "line2": "RD 3",
+    "suburb": "Taheke",
+    "city": "Kaikohe",
+    "postcode": "0473"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/133664086733070",
+    "twitter": null
+  },
+  "lastUpdated": "2024-12-08T18:26:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39134,
+  "registrationNumber": "CC22943",
+  "name": "The Australian and New Zealand Intensive Care Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2021-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lisa.murphy@rsmnz.co.nz",
+  "address": {
+    "line1": "Level 2, 62 Highbrook Drive",
+    "line2": " ",
+    "suburb": "East Tāmaki",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429048306966",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-31T19:16:54Z"
+}

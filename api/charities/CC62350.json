@@ -1,0 +1,27 @@
+{
+  "id": 75896,
+  "registrationNumber": "CC62350",
+  "name": "The Christchurch Call Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.christchurchcall.com/",
+  "email": "paul@christchurchcall.org",
+  "address": {
+    "line1": "70 The Terrace",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:29:32Z"
+}

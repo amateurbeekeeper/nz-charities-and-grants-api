@@ -1,0 +1,27 @@
+{
+  "id": 48159,
+  "registrationNumber": "CC30201",
+  "name": "Stuttering Treatment and Research Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stuttering.co.nz",
+  "email": "support@start.org.nz",
+  "address": {
+    "line1": "251 Campbell Road",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042839385",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/stuttering.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-08T19:40:22Z"
+}

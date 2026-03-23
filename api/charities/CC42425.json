@@ -1,0 +1,27 @@
+{
+  "id": 42596,
+  "registrationNumber": "CC42425",
+  "name": "Taranaki Provincial Fire Brigades Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tpfba.co.nz/",
+  "email": "andrew.cotter@fireandemergency.nz",
+  "address": {
+    "line1": "48A Maire Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Inglewood",
+    "postcode": "4330"
+  },
+  "nzbn": "9429043048953",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Taranakiprovincial",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:41:57Z"
+}

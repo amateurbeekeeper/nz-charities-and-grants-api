@@ -1,0 +1,27 @@
+{
+  "id": 70155,
+  "registrationNumber": "CC56514",
+  "name": "Alfons and Marie Blaschke Art Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-12-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.blaschkearttrust.com",
+  "email": "blaschkeants@gmail.com",
+  "address": {
+    "line1": "Flat 5",
+    "line2": "17 Houghton Street",
+    "suburb": "Meadowbank",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "1234567890123",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T01:53:44Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 76200,
+  "registrationNumber": "CC62593",
+  "name": "Te Kapa Haka o Te Rarawa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tekapahakaoterarawa@gmail.com",
+  "address": {
+    "line1": "697 Kaitaia-Awaroa Road",
+    "line2": "RD 1",
+    "suburb": "Ahipara",
+    "city": "Kaitaia",
+    "postcode": "0481"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/625238106098721",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-29T06:09:21Z"
+}

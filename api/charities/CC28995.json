@@ -1,0 +1,27 @@
+{
+  "id": 53816,
+  "registrationNumber": "CC28995",
+  "name": "The New Zealand Charitable Society of Geriatric Medicine",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-07-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bhavesh.lallu@tdhb.org.nz",
+  "address": {
+    "line1": "C/O Dr Bhavesh Lallu, Taranaki Base Hospital",
+    "line2": "Private Bag 2016",
+    "suburb": "Westown",
+    "city": "New Plymouth",
+    "postcode": "4342"
+  },
+  "nzbn": "9429043186402",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:38:47Z"
+}

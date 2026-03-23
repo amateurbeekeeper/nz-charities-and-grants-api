@@ -1,0 +1,27 @@
+{
+  "id": 55702,
+  "registrationNumber": "CC24498",
+  "name": "Blood Cancer NZ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bloodcancer.org.nz",
+  "email": "sophiec@bloodcancer.org.nz",
+  "address": {
+    "line1": "6 Claude Road",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042778035",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/BCNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T02:54:29Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51563,
+  "registrationNumber": "CC21088",
+  "name": "Bishopdale Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bishopdalecommunity.org.nz",
+  "email": "cdw@bishopdalecommunity.org.nz",
+  "address": {
+    "line1": "94 Farrington Avenue",
+    "line2": " ",
+    "suburb": "Bishopdale",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042965954",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/bishopdalecommunitytrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T02:19:32Z"
+}

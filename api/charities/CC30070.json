@@ -1,0 +1,27 @@
+{
+  "id": 47866,
+  "registrationNumber": "CC30070",
+  "name": "CCS Disability Action Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ccsdisabilityaction.org.nz",
+  "email": "irene.wilson@ccsdisabilityaction.org.nz",
+  "address": {
+    "line1": "Flat 3",
+    "line2": "94 Dixon Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042685326",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T23:09:21Z"
+}

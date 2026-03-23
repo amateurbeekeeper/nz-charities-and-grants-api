@@ -1,0 +1,27 @@
+{
+  "id": 45147,
+  "registrationNumber": "CC43358",
+  "name": "Palmerston North Esplanade Scenic Railway Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.esplanaderail.org.nz",
+  "email": "secretary@esplanaderail.org.nz",
+  "address": {
+    "line1": "Park Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042680956",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Trains.NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T00:21:39Z"
+}

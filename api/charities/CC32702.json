@@ -1,0 +1,27 @@
+{
+  "id": 59648,
+  "registrationNumber": "CC32702",
+  "name": "St George's Parish, Te Kuiti",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gregs@cdh.org.nz",
+  "address": {
+    "line1": "24 Seddon Street",
+    "line2": "Te Kuiti 3910",
+    "suburb": "Hamilton East",
+    "city": "Te Kuiti",
+    "postcode": "3910"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:13:13Z"
+}

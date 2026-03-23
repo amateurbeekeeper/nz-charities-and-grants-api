@@ -1,0 +1,27 @@
+{
+  "id": 73658,
+  "registrationNumber": "CC60039",
+  "name": "The Noises Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thenoises.nz/",
+  "email": "rodn@outlook.co.nz",
+  "address": {
+    "line1": "21B Taylor Road",
+    "line2": " ",
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": "9429050353521",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheNoises/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-25T19:20:08Z"
+}

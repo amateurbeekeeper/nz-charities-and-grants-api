@@ -1,0 +1,27 @@
+{
+  "id": 46618,
+  "registrationNumber": "CC33692",
+  "name": "The Village Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thevillagechurch.nz",
+  "email": "kylie@thevillagechurch.nz",
+  "address": {
+    "line1": "10 Martin Lane",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3281"
+  },
+  "nzbn": "9429043165155",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "thevillagechurchnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T19:38:29Z"
+}

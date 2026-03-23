@@ -1,0 +1,27 @@
+{
+  "id": 75952,
+  "registrationNumber": "CC62417",
+  "name": "Rumaki Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-12-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.rumaki.org",
+  "email": "miraka@rumaki.org",
+  "address": {
+    "line1": "4A Waiteti Road",
+    "line2": " ",
+    "suburb": "Ngongotaha",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429051772239",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/rumakicafe",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T18:29:30Z"
+}

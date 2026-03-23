@@ -1,0 +1,27 @@
+{
+  "id": 42319,
+  "registrationNumber": "CC24393",
+  "name": "Auckland Heart Group Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-05-14T00:00:00Z",
+  "dateDeregistered": "2025-03-31T00:00:00Z",
+  "website": null,
+  "email": "david@daviesassociates.co.nz",
+  "address": {
+    "line1": "98 Mountain Road",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043095933",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-10T07:10:23Z"
+}

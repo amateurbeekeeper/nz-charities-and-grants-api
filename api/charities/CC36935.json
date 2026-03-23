@@ -1,0 +1,27 @@
+{
+  "id": 43276,
+  "registrationNumber": "CC36935",
+  "name": "Papamoa Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-12-27T00:00:00Z",
+  "website": null,
+  "email": "papamoa@playcentre.org.nz",
+  "address": {
+    "line1": "301 Dickson Road",
+    "line2": " ",
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-10T06:03:32Z"
+}

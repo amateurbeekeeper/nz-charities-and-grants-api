@@ -1,0 +1,27 @@
+{
+  "id": 67799,
+  "registrationNumber": "CC54109",
+  "name": "Te Whakaruruhau Te Taua Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "joe@futurecuisine.co.nz",
+  "address": {
+    "line1": "163 Lake Road",
+    "line2": " ",
+    "suburb": "Mangakakahi",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429043417070",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-19T18:36:45Z"
+}

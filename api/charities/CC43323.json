@@ -1,0 +1,27 @@
+{
+  "id": 62607,
+  "registrationNumber": "CC43323",
+  "name": "Grace City Church 2009 Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gracecitychurch.org.nz",
+  "email": "lauonline@hotmail.com",
+  "address": {
+    "line1": "12 Morris Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429043208593",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T07:52:18Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54045,
+  "registrationNumber": "CC23687",
+  "name": "Altus Enterprises Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": "2024-07-01T00:00:00Z",
+  "website": "https://www.altusenterprises.co.nz",
+  "email": "jacquelines@willandable.co.nz",
+  "address": {
+    "line1": "246 Puhinui Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429000119283",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-01-20T23:17:53Z"
+}

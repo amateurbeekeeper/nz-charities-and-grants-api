@@ -1,0 +1,27 @@
+{
+  "id": 35007,
+  "registrationNumber": "CC49581",
+  "name": "Zuvuyaland Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-05-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.zuvuyaland.org",
+  "email": "baldevcharlotte@yahoo.com",
+  "address": {
+    "line1": "75 Acacia Heights Drive",
+    "line2": " ",
+    "suburb": "Acacia Bay",
+    "city": "Taupo",
+    "postcode": "3385"
+  },
+  "nzbn": "9429042905073",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T20:29:10Z"
+}

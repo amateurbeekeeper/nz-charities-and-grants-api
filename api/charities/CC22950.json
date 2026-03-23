@@ -1,0 +1,27 @@
+{
+  "id": 54631,
+  "registrationNumber": "CC22950",
+  "name": "Sumner Lifeboat Institution Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sumnerlifeboat.org.nz",
+  "email": "admin@sumnerlifeboat.org.nz",
+  "address": {
+    "line1": "2 Scarborough Road",
+    "line2": " ",
+    "suburb": "Scarborough",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": "9429042837169",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T06:15:04Z"
+}

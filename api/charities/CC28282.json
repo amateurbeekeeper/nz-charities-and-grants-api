@@ -1,0 +1,27 @@
+{
+  "id": 60533,
+  "registrationNumber": "CC28282",
+  "name": "The John Chivers Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "doug_ashby@hotmail.com",
+  "address": {
+    "line1": "C/- 418 St Aubyn Street",
+    "line2": " ",
+    "suburb": "Lynmouth",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Doug Ashby",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-05T23:59:40Z"
+}

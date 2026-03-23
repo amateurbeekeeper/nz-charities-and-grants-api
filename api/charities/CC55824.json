@@ -1,0 +1,27 @@
+{
+  "id": 69474,
+  "registrationNumber": "CC55824",
+  "name": "Shelter Project",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-06-05T00:00:00Z",
+  "dateDeregistered": "2021-02-05T00:00:00Z",
+  "website": "www.shelterproject.org.nz",
+  "email": "jono@shelterproject.org.nz",
+  "address": {
+    "line1": "Level 3, Oxford Building",
+    "line2": "Corner George and Stafford Street",
+    "suburb": "Timaru Central",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429046825360",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/shelterprojectnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2023-11-09T00:12:49Z"
+}

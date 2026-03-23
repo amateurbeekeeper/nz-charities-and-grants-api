@@ -1,0 +1,27 @@
+{
+  "id": 40381,
+  "registrationNumber": "CC22765",
+  "name": "Haemophilia New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.haemophilia.org.nz",
+  "email": "admin@haemophilia.org.nz",
+  "address": {
+    "line1": "44 Victoria Street",
+    "line2": " ",
+    "suburb": "Alicetown",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429042707219",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/haemophiliaNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T20:14:14Z"
+}

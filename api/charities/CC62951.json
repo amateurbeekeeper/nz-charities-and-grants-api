@@ -1,0 +1,27 @@
+{
+  "id": 76873,
+  "registrationNumber": "CC62951",
+  "name": "Samaritan's Purse Australasia - Operation Christmas Child Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://samaritanspurse.org.nz/",
+  "email": "suzanneb@samaritanspurse.org.au",
+  "address": {
+    "line1": "442 Airport Road",
+    "line2": "RD 2",
+    "suburb": "Rukuhia",
+    "city": "Hamilton",
+    "postcode": "3282"
+  },
+  "nzbn": "9429034144398",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/SamaritansPurseANZ",
+    "twitter": "https://twitter.com/SP_ANZ"
+  },
+  "lastUpdated": "2025-11-21T00:11:08Z"
+}

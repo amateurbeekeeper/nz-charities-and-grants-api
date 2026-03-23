@@ -1,0 +1,27 @@
+{
+  "id": 65708,
+  "registrationNumber": "CC51953",
+  "name": "St James Presbyterian Church New Plymouth",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stjames.org.nz",
+  "email": "finance@stjames.org.nz",
+  "address": {
+    "line1": "24 Lawry Street",
+    "line2": " ",
+    "suburb": "Blagdon",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T07:00:56Z"
+}

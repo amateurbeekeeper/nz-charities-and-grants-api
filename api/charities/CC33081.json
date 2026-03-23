@@ -1,0 +1,27 @@
+{
+  "id": 48475,
+  "registrationNumber": "CC33081",
+  "name": "Whangaroa Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "eljon.fitzgerald@gmail.com",
+  "address": {
+    "line1": "12 Lewer Road",
+    "line2": "RD 1",
+    "suburb": "Whangaroa",
+    "city": "Kaeo",
+    "postcode": "0478"
+  },
+  "nzbn": "9429042928584",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-31T08:39:48Z"
+}

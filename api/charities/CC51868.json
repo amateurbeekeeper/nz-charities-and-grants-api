@@ -1,0 +1,27 @@
+{
+  "id": 65622,
+  "registrationNumber": "CC51868",
+  "name": "Lansdowne Presbyterian Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-06-02T00:00:00Z",
+  "dateDeregistered": "2019-12-13T00:00:00Z",
+  "website": null,
+  "email": "donjudith@yahoo.com",
+  "address": {
+    "line1": "1 Totara Street",
+    "line2": " ",
+    "suburb": "Lansdowne",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-12-30T06:02:12Z"
+}

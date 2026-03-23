@@ -1,0 +1,27 @@
+{
+  "id": 67836,
+  "registrationNumber": "CC54153",
+  "name": "Brave Hearts NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-12-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.bravehearts.nz",
+  "email": "support@bravehearts.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "52 Girven Road",
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429043406951",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Brave Hearts NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T21:11:32Z"
+}

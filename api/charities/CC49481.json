@@ -1,0 +1,27 @@
+{
+  "id": 35295,
+  "registrationNumber": "CC49481",
+  "name": "Historic Places Wellington Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-07-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.historicplaceswellington.org",
+  "email": "felicity_wong@icloud.com",
+  "address": {
+    "line1": "68 Harbour View Road",
+    "line2": " ",
+    "suburb": "Northland",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043301430",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/historicplaceswellington",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T21:13:45Z"
+}

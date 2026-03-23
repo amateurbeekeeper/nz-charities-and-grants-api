@@ -1,0 +1,27 @@
+{
+  "id": 52065,
+  "registrationNumber": "CC20196",
+  "name": "Dress for Success Hamilton Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://hamilton.dressforsuccess.org/",
+  "email": "hamilton@dressforsuccess.org",
+  "address": {
+    "line1": "169 London Street",
+    "line2": "Alexandra Street",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043019359",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61569718162607",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T02:52:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41678,
+  "registrationNumber": "CC24194",
+  "name": "Heritage Hokitika Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@heritagehokitika.org.nz",
+  "address": {
+    "line1": "C/O WESTLAND DISTRICT COUNCIL",
+    "line2": "36 Weld Street",
+    "suburb": " ",
+    "city": "Hokitika",
+    "postcode": "7810"
+  },
+  "nzbn": "9429042636434",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/HeritageHokitika",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-28T04:28:24Z"
+}

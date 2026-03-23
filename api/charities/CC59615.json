@@ -1,0 +1,27 @@
+{
+  "id": 73217,
+  "registrationNumber": "CC59615",
+  "name": "Arapaoa Kiwi Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://arapaoakiwi.org.nz/",
+  "email": "steve@arapaoakiwi.org.nz",
+  "address": {
+    "line1": "374 Waikawa Road",
+    "line2": " ",
+    "suburb": "Waikawa",
+    "city": "Picton",
+    "postcode": "7220"
+  },
+  "nzbn": "9429049812350",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Arapaoakiwi",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:31:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40646,
+  "registrationNumber": "CC24239",
+  "name": "Ōtorohanga Kiwi House Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kiwihouse.org.nz",
+  "email": "manager@kiwihouse.org.nz",
+  "address": {
+    "line1": "20 Alex Telfer Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Otorohanga",
+    "postcode": "3900"
+  },
+  "nzbn": "9429047609006",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/OtoKiwiHouse",
+    "twitter": "twitter.com/OtoKiwiHouse"
+  },
+  "lastUpdated": "2025-11-10T05:18:26Z"
+}

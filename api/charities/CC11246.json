@@ -1,0 +1,27 @@
+{
+  "id": 53115,
+  "registrationNumber": "CC11246",
+  "name": "New Zealand School Of Export",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.export.ac.nz",
+  "email": "rom@export.ac.nz",
+  "address": {
+    "line1": "116 Pahiatua Aokautere Road",
+    "line2": "RD 1",
+    "suburb": "Aokautere",
+    "city": "Palmerston North",
+    "postcode": "4471"
+  },
+  "nzbn": "9429043176779",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T02:44:59Z"
+}

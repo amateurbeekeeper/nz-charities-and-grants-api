@@ -1,0 +1,27 @@
+{
+  "id": 37315,
+  "registrationNumber": "CC46722",
+  "name": "Urban Dance Youth Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.urbandance.org.nz",
+  "email": "martinclan@actrix.co.nz",
+  "address": {
+    "line1": "6 Cellar Place",
+    "line2": "The Vines",
+    "suburb": " Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043222308",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Urban Dance",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T21:07:57Z"
+}

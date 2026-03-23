@@ -1,0 +1,27 @@
+{
+  "id": 53680,
+  "registrationNumber": "CC20355",
+  "name": "The Band Aid Box",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-01-03T00:00:00Z",
+  "dateDeregistered": "2013-01-27T00:00:00Z",
+  "website": "www.bandaidbox.com",
+  "email": "agjellyman@xtra.co.nz",
+  "address": {
+    "line1": "48A Dorset Avenue",
+    "line2": null,
+    "suburb": "Westown",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043172337",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T00:51:16Z"
+}

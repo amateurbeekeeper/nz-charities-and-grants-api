@@ -1,0 +1,27 @@
+{
+  "id": 41990,
+  "registrationNumber": "CC25183",
+  "name": "Dayspring Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dayspring.org.nz",
+  "email": "admin@dayspring.org.nz",
+  "address": {
+    "line1": "2 Seabrook Avenue",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "600"
+  },
+  "nzbn": "9429042669142",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Facebook.com/DayspringTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:04:49Z"
+}

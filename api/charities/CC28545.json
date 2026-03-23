@@ -1,0 +1,27 @@
+{
+  "id": 60331,
+  "registrationNumber": "CC28545",
+  "name": "Cancer Society of New Zealand Marlborough Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cancernz.org.nz",
+  "email": "hilaryg@cancersoc.org.nz",
+  "address": {
+    "line1": "76A Maxwell Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/cancersocietymarlborough",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T22:32:53Z"
+}

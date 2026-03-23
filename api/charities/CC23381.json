@@ -1,0 +1,27 @@
+{
+  "id": 52481,
+  "registrationNumber": "CC23381",
+  "name": "Church Resources Ltd",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "williams@smnz.org.nz",
+  "address": {
+    "line1": "Hsws House Care",
+    "line2": "219 Thorndon Quay",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429035191582",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T03:10:54Z"
+}

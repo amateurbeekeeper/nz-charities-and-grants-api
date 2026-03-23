@@ -1,0 +1,27 @@
+{
+  "id": 39018,
+  "registrationNumber": "CC27085",
+  "name": "Manuka Street Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.manukastreet.org.nz",
+  "email": "julieb@msct.org.nz",
+  "address": {
+    "line1": "9 Highview Drive",
+    "line2": null,
+    "suburb": "Wakatu",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429042762133",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:38:09Z"
+}

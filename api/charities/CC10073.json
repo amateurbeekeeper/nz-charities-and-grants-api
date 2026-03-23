@@ -1,0 +1,27 @@
+{
+  "id": 51031,
+  "registrationNumber": "CC10073",
+  "name": "Presbyterian Support New Zealand Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ps.org.nz",
+  "email": "office@ps.org.nz",
+  "address": {
+    "line1": "PO Box 2174",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429043084746",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T01:42:38Z"
+}

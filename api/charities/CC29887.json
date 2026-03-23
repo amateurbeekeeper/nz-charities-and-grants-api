@@ -1,0 +1,27 @@
+{
+  "id": 61244,
+  "registrationNumber": "CC29887",
+  "name": "Kamo Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "andrew.ivey@fireandemergency.nz",
+  "address": {
+    "line1": "Lillian Street",
+    "line2": "Kamo",
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "0141"
+  },
+  "nzbn": "9429052946912",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T18:01:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34196,
+  "registrationNumber": "CC50652",
+  "name": "Beyond NZ Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.beyondnz.org",
+  "email": "info@beyondnz.org",
+  "address": {
+    "line1": "352 Ngatai Rd",
+    "line2": " ",
+    "suburb": "Bellevue",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043282289",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "BeyondNZ"
+  },
+  "lastUpdated": "2025-10-29T20:11:50Z"
+}

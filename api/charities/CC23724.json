@@ -1,0 +1,27 @@
+{
+  "id": 40484,
+  "registrationNumber": "CC23724",
+  "name": "Greymouth Elim Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "marcus.j.tuck@gmail.com",
+  "address": {
+    "line1": "41 Guinness Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": "9429042982678",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Greymouth Elim Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T22:51:41Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 68263,
+  "registrationNumber": "CC54581",
+  "name": "The UnderDogs Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.theunderdogsfoundation.org.nz",
+  "email": "underdogsfoundation@gmail.com",
+  "address": {
+    "line1": "127 Bayer Road",
+    "line2": "RD 1",
+    "suburb": "Puhoi",
+    "city": "Silverdale",
+    "postcode": "0994"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-10T05:02:45Z"
+}

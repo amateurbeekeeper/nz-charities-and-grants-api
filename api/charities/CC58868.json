@@ -1,0 +1,27 @@
+{
+  "id": 72475,
+  "registrationNumber": "CC58868",
+  "name": "LifeStone Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lifestone.co.nz/foundation",
+  "email": "dain@lifestone.co.nz",
+  "address": {
+    "line1": "15 Kolmar Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/LifeStoneNZ ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-05T01:23:01Z"
+}

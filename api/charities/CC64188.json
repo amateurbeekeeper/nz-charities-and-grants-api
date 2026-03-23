@@ -1,0 +1,27 @@
+{
+  "id": 78374,
+  "registrationNumber": "CC64188",
+  "name": "New Zealand Native Orchid Group Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-02-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nativeorchids.co.nz",
+  "email": "billcampbell@xtra.co.nz",
+  "address": {
+    "line1": "7 Ring Terrace",
+    "line2": null,
+    "suburb": "Saint Marys Bay",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/627143372960959",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T23:10:08Z"
+}

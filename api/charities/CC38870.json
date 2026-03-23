@@ -1,0 +1,27 @@
+{
+  "id": 45366,
+  "registrationNumber": "CC38870",
+  "name": "Pax Christi (Aotearoa - New Zealand) Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.paxchristiaotearoa.nz",
+  "email": "phdoherty@kinect.co.nz",
+  "address": {
+    "line1": "Villa 2A",
+    "line2": "Crestwood Village",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429042803973",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/pax.christi.7",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T21:24:02Z"
+}

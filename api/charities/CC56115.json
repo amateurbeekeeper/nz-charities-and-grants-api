@@ -1,0 +1,27 @@
+{
+  "id": 69756,
+  "registrationNumber": "CC56115",
+  "name": "The Living Way Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-12-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thelivingwaychurch.org",
+  "email": "edwin.johnson9@yahoo.co.nz",
+  "address": {
+    "line1": "21A Glenorchy Street",
+    "line2": " ",
+    "suburb": "Glen Eden",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100076976845684",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-19T10:13:55Z"
+}

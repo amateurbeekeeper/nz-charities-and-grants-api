@@ -1,0 +1,27 @@
+{
+  "id": 72006,
+  "registrationNumber": "CC58391",
+  "name": "Faith Life Centre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.faithlifecentre.co.nz",
+  "email": "teao@faithlifecentre.co.nz",
+  "address": {
+    "line1": "15B Anzac Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Morrinsville",
+    "postcode": "3300"
+  },
+  "nzbn": "9429048544122",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Faith Life Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T18:04:49Z"
+}

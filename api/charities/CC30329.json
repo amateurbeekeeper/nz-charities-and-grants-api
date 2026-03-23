@@ -1,0 +1,27 @@
+{
+  "id": 61445,
+  "registrationNumber": "CC30329",
+  "name": "Tikokino Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-23T00:00:00Z",
+  "website": null,
+  "email": "tikokino@playcentre.org.nz",
+  "address": {
+    "line1": "7 Owen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tikokino",
+    "postcode": "4273"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T06:03:38Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 76519,
+  "registrationNumber": "CC62773",
+  "name": "Pacific Vision Aotearoa Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pva.org.nz",
+  "email": "therese@pva.org.nz",
+  "address": {
+    "line1": "4 Roland Hill",
+    "line2": " ",
+    "suburb": "Glen Eden",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": "9429052217746",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "pacificvisionaotearoa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T21:38:19Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75026,
+  "registrationNumber": "CC61454",
+  "name": "Nikāu School Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nikau.school.nz",
+  "email": "office@nikau.school.nz",
+  "address": {
+    "line1": "1349 Ahuroa Road",
+    "line2": "RD 1",
+    "suburb": "Makarau",
+    "city": "Warkworth",
+    "postcode": "0981"
+  },
+  "nzbn": "9429051110871",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T19:00:13Z"
+}

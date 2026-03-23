@@ -1,0 +1,27 @@
+{
+  "id": 59914,
+  "registrationNumber": "CC29237",
+  "name": "Kapiti Uniting Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kapitiunitingparish.org.nz",
+  "email": "kuptreasurer@gmail.com",
+  "address": {
+    "line1": "10 Weka Road",
+    "line2": " ",
+    "suburb": "Raumati Beach",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T19:18:28Z"
+}

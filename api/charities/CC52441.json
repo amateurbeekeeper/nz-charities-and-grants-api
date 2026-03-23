@@ -1,0 +1,27 @@
+{
+  "id": 66173,
+  "registrationNumber": "CC52441",
+  "name": "Papatoetoe Neighbourhood Support NZ",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-07-24T00:00:00Z",
+  "dateDeregistered": "2016-09-30T00:00:00Z",
+  "website": "www.papatoetoens.wix.com/papatoetoe-ns",
+  "email": "papatoetoens@outlook.com",
+  "address": {
+    "line1": "Unit 9",
+    "line2": "77 St George Street",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429043276301",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/PapatoetoeNeighbourhoodSupport/?fref=ts",
+    "twitter": "https://twitter.com/PapatoetoeNS"
+  },
+  "lastUpdated": "2018-01-09T04:25:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 49203,
+  "registrationNumber": "CC40675",
+  "name": "St John Of God Health Care Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sjog.org.au",
+  "email": "leanne.phillips@sjog.org.au",
+  "address": {
+    "line1": "Level 1",
+    "line2": " 556 Wellington Street",
+    "suburb": "Perth",
+    "city": "Western Australia",
+    "postcode": "6000"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T18:03:25Z"
+}

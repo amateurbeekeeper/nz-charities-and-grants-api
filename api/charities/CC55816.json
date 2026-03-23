@@ -1,0 +1,27 @@
+{
+  "id": 69465,
+  "registrationNumber": "CC55816",
+  "name": "The Lower Hutt Delphinium Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-09-06T00:00:00Z",
+  "dateDeregistered": "2025-09-15T00:00:00Z",
+  "website": null,
+  "email": "rachel@sqrl.net",
+  "address": {
+    "line1": "3 Rodney Street",
+    "line2": " ",
+    "suburb": "Waiwhetu",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T04:25:05Z"
+}

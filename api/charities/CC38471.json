@@ -1,0 +1,27 @@
+{
+  "id": 48649,
+  "registrationNumber": "CC38471",
+  "name": "Auckland Geography Teachers Association (AGTA)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2021-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.agta.org.nz",
+  "email": "agtassociation2@gmail.com",
+  "address": {
+    "line1": "31 Alberton Avenue",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/1418805394824621/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-04T02:52:37Z"
+}

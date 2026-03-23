@@ -1,0 +1,27 @@
+{
+  "id": 62278,
+  "registrationNumber": "CC35865",
+  "name": "Masterton Community Patrol",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "watson.cheryl@gmail.com",
+  "address": {
+    "line1": "101 Akura Road",
+    "line2": "RD 8",
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5888"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-16T03:43:16Z"
+}

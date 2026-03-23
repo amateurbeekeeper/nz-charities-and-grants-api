@@ -1,0 +1,27 @@
+{
+  "id": 76444,
+  "registrationNumber": "CC62728",
+  "name": "Christian Schools Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-10-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chris@cst.org.nz",
+  "address": {
+    "line1": "30 Acacia Avenue",
+    "line2": " ",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-10-15T02:53:07Z"
+}

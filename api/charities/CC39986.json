@@ -1,0 +1,27 @@
+{
+  "id": 63857,
+  "registrationNumber": "CC39986",
+  "name": "Youth Southwest Christchurch Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-01-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://yswc.net.nz/",
+  "email": "gerald.bradfield@hopechurch.net.nz",
+  "address": {
+    "line1": "27 Amyes Road",
+    "line2": " ",
+    "suburb": "Hornby",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429043098040",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:29:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50307,
+  "registrationNumber": "CC43911",
+  "name": "The Omokoroa Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-03-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.theomokoroacentre.webs.com",
+  "email": "diane@omokoroaaccounting.co.nz",
+  "address": {
+    "line1": "14 Hamurana Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Omokoroa",
+    "postcode": "3114"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T03:54:57Z"
+}

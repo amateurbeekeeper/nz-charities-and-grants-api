@@ -1,0 +1,27 @@
+{
+  "id": 43563,
+  "registrationNumber": "CC29332",
+  "name": "Collingwood Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gr.miller@xtra.co.nz",
+  "address": {
+    "line1": "Elizabeth Street",
+    "line2": " ",
+    "suburb": "Collingwood",
+    "city": "Golden Bay",
+    "postcode": "7073"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T02:33:01Z"
+}

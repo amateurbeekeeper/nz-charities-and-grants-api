@@ -1,0 +1,27 @@
+{
+  "id": 57407,
+  "registrationNumber": "CC34921",
+  "name": "Acts Churches Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.actschurches.com",
+  "email": "m.hollingsworth@actschurches.com",
+  "address": {
+    "line1": "15 Gladding Place",
+    "line2": " ",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042582151",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T19:51:05Z"
+}

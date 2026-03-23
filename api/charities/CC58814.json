@@ -1,0 +1,27 @@
+{
+  "id": 72423,
+  "registrationNumber": "CC58814",
+  "name": "Te Oriori Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "teorioritrust@gmail.com",
+  "address": {
+    "line1": "33 Rimu Street",
+    "line2": " ",
+    "suburb": "Heidelberg",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": "9429043303076",
+  "financialYearEnd": "8/2",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://m.facebook.com/groups/1643828372684970/?ref=share&mibextid=NSMWBT",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T19:30:29Z"
+}

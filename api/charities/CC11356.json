@@ -1,0 +1,27 @@
+{
+  "id": 51926,
+  "registrationNumber": "CC11356",
+  "name": "The Southern Youth Development Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.syd.org.nz",
+  "email": "chair@syd.org.nz",
+  "address": {
+    "line1": "45 Maori Road",
+    "line2": " ",
+    "suburb": "Belleknowes",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042973836",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/southernyouthdevelopmenttrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T22:49:37Z"
+}

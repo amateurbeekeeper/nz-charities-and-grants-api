@@ -1,0 +1,27 @@
+{
+  "id": 67634,
+  "registrationNumber": "CC53936",
+  "name": "Equippers Tauranga Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-10-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.equipperschurch.com/tauranga",
+  "email": "scott.bourke@equipperschurch.com",
+  "address": {
+    "line1": "65 Chapel Street",
+    "line2": "Tauranga 3110",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043388806",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Equippers Church Tauranga",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T19:29:28Z"
+}

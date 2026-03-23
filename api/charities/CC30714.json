@@ -1,0 +1,27 @@
+{
+  "id": 48975,
+  "registrationNumber": "CC30714",
+  "name": "Equippers Property Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.equipperchurch.com",
+  "email": "property@equipperschurch.com",
+  "address": {
+    "line1": "13-15 Gladding Place",
+    "line2": " ",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429043140725",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:12Z"
+}

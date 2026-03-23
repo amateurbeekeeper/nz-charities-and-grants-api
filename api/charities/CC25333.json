@@ -1,0 +1,27 @@
+{
+  "id": 64958,
+  "registrationNumber": "CC25333",
+  "name": "Bethlehem Institute Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bti.ac.nz",
+  "email": "sharon.labuschagne@cet.org.nz",
+  "address": {
+    "line1": "24 Elder Lane",
+    "line2": " ",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429037850944",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T20:11:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72980,
+  "registrationNumber": "CC59371",
+  "name": "Together Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.togetherchurch.nz",
+  "email": "martind@togetherchurch.nz",
+  "address": {
+    "line1": "8 Amberwood Drive",
+    "line2": " ",
+    "suburb": "Northpark",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429049555981",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/togetherchurch.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T20:38:50Z"
+}

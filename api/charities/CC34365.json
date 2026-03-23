@@ -1,0 +1,27 @@
+{
+  "id": 48647,
+  "registrationNumber": "CC34365",
+  "name": "John Smith Memorial Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kateandlogie@outlook.com",
+  "address": {
+    "line1": "459 Atua Road",
+    "line2": "RD 14",
+    "suburb": "Elsthorpe",
+    "city": "Havelock North",
+    "postcode": "4295"
+  },
+  "nzbn": "9429043017607",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-16T02:12:19Z"
+}

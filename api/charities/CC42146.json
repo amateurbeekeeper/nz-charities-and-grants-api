@@ -1,0 +1,27 @@
+{
+  "id": 63527,
+  "registrationNumber": "CC42146",
+  "name": "Waikato Tramping Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wtc.org.nz",
+  "email": "guydomett@gmail.com",
+  "address": {
+    "line1": "PO Box 685",
+    "line2": "Waikato Mail Centre",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3240"
+  },
+  "nzbn": "9429042890584",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WaikatoTrampingClub/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:26:55Z"
+}

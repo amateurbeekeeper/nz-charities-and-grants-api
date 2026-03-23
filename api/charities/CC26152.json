@@ -1,0 +1,27 @@
+{
+  "id": 42343,
+  "registrationNumber": "CC26152",
+  "name": "Riverton Heritage Museum and Tourist Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tehikoi.co.nz",
+  "email": "helenmccurdyrvtn@gmail.com",
+  "address": {
+    "line1": "172 Palmerston Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Riverton",
+    "postcode": "9822"
+  },
+  "nzbn": "9429042982951",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Hikoi Southern Journey",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:21:17Z"
+}

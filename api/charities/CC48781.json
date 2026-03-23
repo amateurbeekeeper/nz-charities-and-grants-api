@@ -1,0 +1,27 @@
+{
+  "id": 32992,
+  "registrationNumber": "CC48781",
+  "name": "Weedons Cricket Club",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-03-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.weedonscricket.co.nz",
+  "email": "admin@weedonscricket.co.nz",
+  "address": {
+    "line1": "Weedons Domain",
+    "line2": "Maddisons Rd",
+    "suburb": "Weedons",
+    "city": "Christchurch",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Weedons-Rolleston-Junior-Cricket-457027007669572/?ref=bookmarks",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-31T08:49:48Z"
+}

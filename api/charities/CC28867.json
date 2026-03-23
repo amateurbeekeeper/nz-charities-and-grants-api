@@ -1,0 +1,27 @@
+{
+  "id": 54396,
+  "registrationNumber": "CC28867",
+  "name": "Citizens Advice Bureau Te Kuiti Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cab.org.nz",
+  "email": "tekuiti@cab.org.nz",
+  "address": {
+    "line1": "222 Rora Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Kuiti",
+    "postcode": "3910"
+  },
+  "nzbn": "9429042866459",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T18:02:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51422,
+  "registrationNumber": "CC10148",
+  "name": "Allergy New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.allergy.org.nz",
+  "email": "ceo@allergy.org.nz",
+  "address": {
+    "line1": "581 Mount Eden Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042578741",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/allergy.nz/",
+    "twitter": "https://twitter.com/allergynz"
+  },
+  "lastUpdated": "2025-11-13T22:09:13Z"
+}

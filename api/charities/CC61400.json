@@ -1,0 +1,27 @@
+{
+  "id": 74973,
+  "registrationNumber": "CC61400",
+  "name": "Aotearoa Chinese Legal Support Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.acls.org.nz",
+  "email": "info@acls.org.nz",
+  "address": {
+    "line1": "247A Lonely Track Road",
+    "line2": " ",
+    "suburb": "Albany Heights",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429048220972",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-25T00:18:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52843,
+  "registrationNumber": "CC20011",
+  "name": "Hear This Education Aotearoa New Zealand Incorporated ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-11-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hearthiseducation.co.nz",
+  "email": "admin@hearthiseducation.co.nz",
+  "address": {
+    "line1": "23 Devine Drive",
+    "line2": "RD 8",
+    "suburb": "Rolleston",
+    "city": "Christchurch",
+    "postcode": "7678"
+  },
+  "nzbn": "9429042779100",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/hearthiseducation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T00:35:00Z"
+}

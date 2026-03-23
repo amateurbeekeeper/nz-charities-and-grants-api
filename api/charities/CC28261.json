@@ -1,0 +1,27 @@
+{
+  "id": 45192,
+  "registrationNumber": "CC28261",
+  "name": "Omarama Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "arronandvema@xtra.co.nz",
+  "address": {
+    "line1": "18 Chain Hills Highway",
+    "line2": "Omarama 9412",
+    "suburb": "Omarama",
+    "city": "Omarama",
+    "postcode": "9412"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T06:09:35Z"
+}

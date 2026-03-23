@@ -1,0 +1,27 @@
+{
+  "id": 35615,
+  "registrationNumber": "CC45569",
+  "name": "Petone Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-10-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://petonetl.mibase.co.nz/home/index.php",
+  "email": "petonetoylibrary@gmail.com",
+  "address": {
+    "line1": "72 Cuba Street",
+    "line2": " ",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": "9429042804543",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/petonetoylibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T18:19:40Z"
+}

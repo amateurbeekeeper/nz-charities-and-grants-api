@@ -1,0 +1,27 @@
+{
+  "id": 35163,
+  "registrationNumber": "CC49535",
+  "name": "Momentum Waikato Community Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.momentumwaikato.nz",
+  "email": "andrea@momentumwaikato.nz",
+  "address": {
+    "line1": "127 Alexandra Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043246984",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MomentumWaikato/",
+    "twitter": "https://twitter.com/MomentumWaikato"
+  },
+  "lastUpdated": "2026-02-04T00:57:14Z"
+}

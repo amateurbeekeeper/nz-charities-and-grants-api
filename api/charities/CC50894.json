@@ -1,0 +1,27 @@
+{
+  "id": 34457,
+  "registrationNumber": "CC50894",
+  "name": "Eastern Suburbs Gymnastics Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-07-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.esgc.co.nz",
+  "email": "anil@quasar.org.nz",
+  "address": {
+    "line1": "89 Apirana Avenue",
+    "line2": " ",
+    "suburb": "Glen Innes",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042701163",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T21:06:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54429,
+  "registrationNumber": "CC21167",
+  "name": "The SPCA Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "board.secretary@spca.nz",
+  "address": {
+    "line1": "6 Rawiri Place",
+    "line2": " ",
+    "suburb": "Hobsonville",
+    "city": "Auckland",
+    "postcode": "0618"
+  },
+  "nzbn": "9429043033942",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T18:05:40Z"
+}

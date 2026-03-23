@@ -1,0 +1,27 @@
+{
+  "id": 50976,
+  "registrationNumber": "CC42543",
+  "name": "Southern Lakes Multisport Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.southernlakesmultisportclub.com",
+  "email": "randrshields@gmail.com",
+  "address": {
+    "line1": "6 Bradbourne Way",
+    "line2": "RD 1",
+    "suburb": "Lower Shotover",
+    "city": "Queenstown",
+    "postcode": "9371"
+  },
+  "nzbn": "9429042991304",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pg/southernlakesmultisport/about/?ref=page_internal",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T00:28:44Z"
+}

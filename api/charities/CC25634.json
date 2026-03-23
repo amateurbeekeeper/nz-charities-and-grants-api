@@ -1,0 +1,27 @@
+{
+  "id": 42116,
+  "registrationNumber": "CC25634",
+  "name": "The Dunedin Opera Company Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://operaotago.co.nz",
+  "email": "operaotago@gmail.com",
+  "address": {
+    "line1": "17 Cameron Street",
+    "line2": " ",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042664161",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/OperaOtago",
+    "twitter": "Opera Otago (@OperaOtago)"
+  },
+  "lastUpdated": "2026-01-06T04:53:53Z"
+}

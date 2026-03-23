@@ -1,0 +1,27 @@
+{
+  "id": 59411,
+  "registrationNumber": "CC27121",
+  "name": "The Piano: Centre for Music and the Arts",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thepiano.nz",
+  "email": "info@thepiano.nz",
+  "address": {
+    "line1": "156 Armagh Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042869962",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-04T00:19:50Z"
+}

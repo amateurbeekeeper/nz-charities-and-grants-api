@@ -1,0 +1,27 @@
+{
+  "id": 71920,
+  "registrationNumber": "CC58302",
+  "name": "Peak Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-09-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.peakfoundation.org.nz",
+  "email": "adam@peakfoundation.org.nz",
+  "address": {
+    "line1": "1F Lady Ruby Drive",
+    "line2": " ",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-30T21:02:55Z"
+}

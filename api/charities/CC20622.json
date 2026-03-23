@@ -1,0 +1,27 @@
+{
+  "id": 53559,
+  "registrationNumber": "CC20622",
+  "name": "Auckland Rose Society Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.aucklandrosesociety.org.nz",
+  "email": "justakiwi@outlook.com",
+  "address": {
+    "line1": "63 Clea View",
+    "line2": " ",
+    "suburb": "Gulf Harbour",
+    "city": "Whangaparaoa",
+    "postcode": "0930"
+  },
+  "nzbn": "9429042591795",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Auckland Rose Society",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T02:38:09Z"
+}

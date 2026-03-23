@@ -1,0 +1,27 @@
+{
+  "id": 52594,
+  "registrationNumber": "CC10883",
+  "name": "Wellington Pacific Bible College",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pacificbiblecollege-ac-nz.net",
+  "email": "ei.wpbc@gmail.com",
+  "address": {
+    "line1": "PO Box 20032",
+    "line2": "Newtown",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6242"
+  },
+  "nzbn": "9429043168019",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:55:37Z"
+}

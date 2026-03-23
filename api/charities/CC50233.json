@@ -1,0 +1,27 @@
+{
+  "id": 35300,
+  "registrationNumber": "CC50233",
+  "name": "Waiheke Working Sail Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-02-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.waihekeworkingsail.org",
+  "email": "bernard.rhodes@gmail.com",
+  "address": {
+    "line1": "104 Wharf Road",
+    "line2": " ",
+    "suburb": "Ostend",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429043246281",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waiheke Working Sail Charitable Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T00:54:30Z"
+}

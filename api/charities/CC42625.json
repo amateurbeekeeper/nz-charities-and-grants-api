@@ -1,0 +1,27 @@
+{
+  "id": 45669,
+  "registrationNumber": "CC42625",
+  "name": "Golf New Zealand Korowhā Aotearoa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.golf.co.nz",
+  "email": "rob.cooney@golfnz.org",
+  "address": {
+    "line1": "120 Abbotts Way",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429042709411",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T19:03:59Z"
+}

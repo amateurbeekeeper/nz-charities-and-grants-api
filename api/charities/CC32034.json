@@ -1,0 +1,27 @@
+{
+  "id": 60622,
+  "registrationNumber": "CC32034",
+  "name": "Mamaranui Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-06-26T00:00:00Z",
+  "website": null,
+  "email": "mamaranui@playcentre.org.nz",
+  "address": {
+    "line1": "Mamaranui Hall",
+    "line2": "State Highway 12, Mamaranui",
+    "suburb": " ",
+    "city": "Dargaville",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-10T07:17:22Z"
+}

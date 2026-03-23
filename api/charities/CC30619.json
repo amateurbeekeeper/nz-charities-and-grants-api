@@ -1,0 +1,27 @@
+{
+  "id": 48557,
+  "registrationNumber": "CC30619",
+  "name": "The Mapua Community Library",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mapuacommunitylibrary.com",
+  "email": "joan.gdanitz@xtra.co.nz",
+  "address": {
+    "line1": "60 Aranui Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Māpua",
+    "postcode": "7005"
+  },
+  "nzbn": "9429043066285",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Mapua-Community-Library-834220500046947/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T20:09:15Z"
+}

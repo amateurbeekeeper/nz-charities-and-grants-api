@@ -1,0 +1,27 @@
+{
+  "id": 47201,
+  "registrationNumber": "CC44536",
+  "name": "The Lazarus Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "shaughnhanna@gmail.com",
+  "address": {
+    "line1": "14 Barham Place",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429043209842",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:06:55Z"
+}

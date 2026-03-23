@@ -1,0 +1,27 @@
+{
+  "id": 66720,
+  "registrationNumber": "CC52994",
+  "name": "Christchurch Hospital Volunteers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-03-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cdhb.health.nz/christchurchhospitalvolunteers",
+  "email": "kirsten@3in1accounting.co.nz",
+  "address": {
+    "line1": "2 Riccarton Avenue",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043099641",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T21:23:07Z"
+}

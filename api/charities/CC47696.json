@@ -1,0 +1,27 @@
+{
+  "id": 36619,
+  "registrationNumber": "CC47696",
+  "name": "Dyslexia PLUS Whangarei Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-02-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dyslexiaplus.org.nz",
+  "email": "admin@dyslexiaplus.org.nz",
+  "address": {
+    "line1": "37 Bank Street",
+    "line2": " ",
+    "suburb": "Whangārei",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043238286",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DyslexiaPLUSWhangarei",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T23:30:57Z"
+}

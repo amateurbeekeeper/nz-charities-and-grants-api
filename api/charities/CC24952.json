@@ -1,0 +1,27 @@
+{
+  "id": 42428,
+  "registrationNumber": "CC24952",
+  "name": "National Advocacy Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.advocacy.org.nz/",
+  "email": "lisa.parata@advocacy.org.nz",
+  "address": {
+    "line1": "Findex House",
+    "line2": "Level 2, 21-23 Andrews Ave",
+    "suburb": " ",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429043180004",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T18:44:09Z"
+}

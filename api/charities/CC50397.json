@@ -1,0 +1,27 @@
+{
+  "id": 34003,
+  "registrationNumber": "CC50397",
+  "name": "Tasman Hockey Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-03-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "roseyawilson@gmail.com",
+  "address": {
+    "line1": "PO Box 3362",
+    "line2": null,
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7050"
+  },
+  "nzbn": "9429047272590",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T05:34:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40513,
+  "registrationNumber": "CC24767",
+  "name": "The Toy Library Howick and Pakuranga Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.howicktoylibrary.org.nz",
+  "email": "howicktoylibrary@gmail.com",
+  "address": {
+    "line1": "11",
+    "line2": "Vincent Street",
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429042892113",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HowickPakurangaToyLibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:02:37Z"
+}

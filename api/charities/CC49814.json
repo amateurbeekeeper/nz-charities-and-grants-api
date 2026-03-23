@@ -1,0 +1,27 @@
+{
+  "id": 33611,
+  "registrationNumber": "CC49814",
+  "name": "JCRCM Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-09-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.jcrcm.org",
+  "email": "tess.roderique@jcrcm.org",
+  "address": {
+    "line1": "27 Amyes Road",
+    "line2": " ",
+    "suburb": "Hornby",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429043251612",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/jcrcmchurchnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T08:54:38Z"
+}

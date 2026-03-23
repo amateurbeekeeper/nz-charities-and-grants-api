@@ -1,0 +1,27 @@
+{
+  "id": 40152,
+  "registrationNumber": "CC23925",
+  "name": "Trinity Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.trinityhawera.co.nz",
+  "email": "admin@trinityhawera.co.nz",
+  "address": {
+    "line1": "47-61 Puriri Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hawera",
+    "postcode": "4610"
+  },
+  "nzbn": "9429042975984",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T20:16:31Z"
+}

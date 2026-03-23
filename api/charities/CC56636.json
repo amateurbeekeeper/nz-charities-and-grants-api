@@ -1,0 +1,27 @@
+{
+  "id": 70274,
+  "registrationNumber": "CC56636",
+  "name": "Story Church",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-05-09T00:00:00Z",
+  "dateDeregistered": "2023-02-20T00:00:00Z",
+  "website": "https://www.storychurchnz.com",
+  "email": "rwalker207@gmail.com",
+  "address": {
+    "line1": "6 Hazeldean Road",
+    "line2": " ",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/storychurchnz",
+    "twitter": null
+  },
+  "lastUpdated": "2024-04-03T22:45:05Z"
+}

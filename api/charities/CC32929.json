@@ -1,0 +1,27 @@
+{
+  "id": 60444,
+  "registrationNumber": "CC32929",
+  "name": "Olive Stoddard Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tim@timryan.co.nz",
+  "address": {
+    "line1": "132 Selwyn Avenue",
+    "line2": "216 Great South Road",
+    "suburb": "Mission Bay",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:26:40Z"
+}

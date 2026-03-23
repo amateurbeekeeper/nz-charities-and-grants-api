@@ -1,0 +1,27 @@
+{
+  "id": 67219,
+  "registrationNumber": "CC53503",
+  "name": "Youth in Transition Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://youthintransition.org.nz/",
+  "email": "tina@youthintransition.org.nz",
+  "address": {
+    "line1": "Shop 10, 49 Rawhiti Road",
+    "line2": " ",
+    "suburb": "Manly",
+    "city": "Whangaparaoa",
+    "postcode": "0930"
+  },
+  "nzbn": "9429043305346",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzyouthintransition/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T20:03:18Z"
+}

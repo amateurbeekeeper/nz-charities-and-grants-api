@@ -1,0 +1,27 @@
+{
+  "id": 47723,
+  "registrationNumber": "CC30033",
+  "name": "The Malvern School of Music Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@malvernschoolofmusic.kiwi.nz",
+  "address": {
+    "line1": "MRS L MEDER",
+    "line2": "31 Bangor Road",
+    "suburb": " ",
+    "city": "Darfield",
+    "postcode": "7510"
+  },
+  "nzbn": "9429042780861",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Malvern School of Music - NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T21:05:49Z"
+}

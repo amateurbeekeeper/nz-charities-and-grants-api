@@ -1,0 +1,27 @@
+{
+  "id": 55456,
+  "registrationNumber": "CC23809",
+  "name": "Coastguard Tutukaka Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "melanie.jeavons@coastguard.nz",
+  "address": {
+    "line1": "Office 1  Shop 10",
+    "line2": "Marina Road",
+    "suburb": "RD3",
+    "city": "Whangarei",
+    "postcode": "0173"
+  },
+  "nzbn": "9429043134090",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:37:10Z"
+}

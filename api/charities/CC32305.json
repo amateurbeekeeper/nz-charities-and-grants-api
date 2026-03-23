@@ -1,0 +1,27 @@
+{
+  "id": 56572,
+  "registrationNumber": "CC32305",
+  "name": "Transparency International (New Zealand) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.transparency.org.nz",
+  "email": "accounts@transparency.org.nz",
+  "address": {
+    "line1": "PO Box 10123",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429043064069",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TINZ.org/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T18:21:54Z"
+}

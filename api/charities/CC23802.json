@@ -1,0 +1,27 @@
+{
+  "id": 39808,
+  "registrationNumber": "CC23802",
+  "name": "Karunai Illam Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.karunai-illam.org",
+  "email": "sankarramasamy09@gmail.com",
+  "address": {
+    "line1": "52 Gordon Street",
+    "line2": " ",
+    "suburb": "Avalon",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429042977742",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Karunai.Illam.India/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:39:51Z"
+}

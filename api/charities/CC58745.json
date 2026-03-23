@@ -1,0 +1,27 @@
+{
+  "id": 72357,
+  "registrationNumber": "CC58745",
+  "name": "Lakeview Golf and Country Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lakeviewgolf.co.nz",
+  "email": "lakeviewgolf2@gmail.com",
+  "address": {
+    "line1": "704 State Highway 5",
+    "line2": "RD 2",
+    "suburb": "Hamurana",
+    "city": "Rotorua",
+    "postcode": "3072"
+  },
+  "nzbn": "9429043144976",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T00:02:04Z"
+}

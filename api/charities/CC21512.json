@@ -1,0 +1,27 @@
+{
+  "id": 54811,
+  "registrationNumber": "CC21512",
+  "name": "Volunteer Marlborough Charitable Trust Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.volunteermarlborough.org.nz",
+  "email": "mgr@volunteermarlborough.org.nz",
+  "address": {
+    "line1": "67 Weld Street",
+    "line2": " ",
+    "suburb": "Redwoodtown",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429043172108",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/VolunteerMarlborough",
+    "twitter": "https://twitter.com/VolMarl"
+  },
+  "lastUpdated": "2026-01-13T02:09:58Z"
+}

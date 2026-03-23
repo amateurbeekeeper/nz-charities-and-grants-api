@@ -1,0 +1,27 @@
+{
+  "id": 74331,
+  "registrationNumber": "CC60744",
+  "name": "Golden Bay Youth Habitat Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gbwct.org.nz/youth-habitat",
+  "email": "cait@gbwct.org.nz",
+  "address": {
+    "line1": "84 Commercial Street",
+    "line2": "Takaka 7110",
+    "suburb": " ",
+    "city": "Takaka",
+    "postcode": "7110"
+  },
+  "nzbn": "9429050988303",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/theyouthabitat",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T17:23:14Z"
+}

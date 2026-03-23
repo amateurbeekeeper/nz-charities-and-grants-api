@@ -1,0 +1,27 @@
+{
+  "id": 62250,
+  "registrationNumber": "CC42321",
+  "name": "Special Olympics Nelson Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.specialolympicsnelson.org.nz",
+  "email": "wendy.littlejohn@xtra.co.nz",
+  "address": {
+    "line1": "18 Blair Terrace",
+    "line2": null,
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": "9429050191840",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Special Olympics Nelson NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:37:07Z"
+}

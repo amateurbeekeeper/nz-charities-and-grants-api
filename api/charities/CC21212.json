@@ -1,0 +1,27 @@
+{
+  "id": 53723,
+  "registrationNumber": "CC21212",
+  "name": "Weave Hawke's Bay Financial Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "financemanager@weavehb.org.nz",
+  "address": {
+    "line1": "Cnr Morris Spence Avenue And Wycliffe Street",
+    "line2": "Onekawa",
+    "suburb": " ",
+    "city": "Napier",
+    "postcode": "4140"
+  },
+  "nzbn": "9429043129768",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T19:43:37Z"
+}

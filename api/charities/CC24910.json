@@ -1,0 +1,27 @@
+{
+  "id": 56141,
+  "registrationNumber": "CC24910",
+  "name": "Riverton Community Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rivchouse.nz",
+  "email": "Treasurer@rivchouse.nz",
+  "address": {
+    "line1": "37 Napier Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Riverton",
+    "postcode": "9822"
+  },
+  "nzbn": "9429042817017",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/rivchouse",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T03:28:51Z"
+}

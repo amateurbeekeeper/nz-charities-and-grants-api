@@ -1,0 +1,27 @@
+{
+  "id": 78361,
+  "registrationNumber": "CC64174",
+  "name": "Pounamu Dragons Inc",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://pounamudragons.co.nz",
+  "email": "pounamudragons@gmail.com",
+  "address": {
+    "line1": "155A Harewood Road",
+    "line2": null,
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61586592910309",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T23:56:18Z"
+}

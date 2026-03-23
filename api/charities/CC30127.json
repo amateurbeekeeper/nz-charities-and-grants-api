@@ -1,0 +1,27 @@
+{
+  "id": 62065,
+  "registrationNumber": "CC30127",
+  "name": "Pukekawa Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-08-27T00:00:00Z",
+  "dateDeregistered": "2025-09-19T00:00:00Z",
+  "website": null,
+  "email": "pukekawa@playcentre.org.nz",
+  "address": {
+    "line1": "38 Clark and Denize Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Tuakau",
+    "postcode": "2696"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/pukekawaplaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T02:36:58Z"
+}

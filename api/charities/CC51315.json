@@ -1,0 +1,27 @@
+{
+  "id": 34874,
+  "registrationNumber": "CC51315",
+  "name": "Mountain View Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mountainviewchurch.org.nz",
+  "email": "office@mountainviewchurch.org.nz",
+  "address": {
+    "line1": "5 Church Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Aroha",
+    "postcode": "3320"
+  },
+  "nzbn": "9429043269693",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mountainviewchurchnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T02:15:20Z"
+}

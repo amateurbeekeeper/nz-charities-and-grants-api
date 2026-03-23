@@ -1,0 +1,27 @@
+{
+  "id": 71657,
+  "registrationNumber": "CC58035",
+  "name": "RAD BIKES CHARITABLE TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.radbikes.co.nz",
+  "email": "admin@radbikes.co.nz",
+  "address": {
+    "line1": "54 Hawdon Street",
+    "line2": " ",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429043270538",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/radbikes",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T03:41:29Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75887,
+  "registrationNumber": "CC62342",
+  "name": "Sporthub Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-12-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.sporthub.org.nz",
+  "email": "davidyilongguo@gmail.com",
+  "address": {
+    "line1": "44 Portage Road",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429051734053",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/sporthubct",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T09:49:26Z"
+}

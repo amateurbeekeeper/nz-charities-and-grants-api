@@ -1,0 +1,27 @@
+{
+  "id": 33988,
+  "registrationNumber": "CC50291",
+  "name": "Connection City Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "anahinasikalu@yahoo.co.nz",
+  "address": {
+    "line1": "149 Methuen Road",
+    "line2": " ",
+    "suburb": "New Windsor",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429043254569",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "KTCW - Kalofiama Tongan Community Worldwide",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T04:22:34Z"
+}

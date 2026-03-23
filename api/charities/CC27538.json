@@ -1,0 +1,27 @@
+{
+  "id": 54884,
+  "registrationNumber": "CC27538",
+  "name": "Bay of Plenty Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bopeducationtrust.org.nz",
+  "email": "tom@inghammora.co.nz",
+  "address": {
+    "line1": "Suite 4",
+    "line2": "60 Durham Street",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042796428",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-08T01:46:21Z"
+}

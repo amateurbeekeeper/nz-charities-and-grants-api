@@ -1,0 +1,27 @@
+{
+  "id": 46835,
+  "registrationNumber": "CC39923",
+  "name": "Lincoln University Students' Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lusa.org.nz",
+  "email": "Manager@lusa.org.nz",
+  "address": {
+    "line1": "Forbes Building",
+    "line2": "Lincoln University",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "7647"
+  },
+  "nzbn": "9429042660446",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/studentsatlincoln/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T02:41:12Z"
+}

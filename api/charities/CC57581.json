@@ -1,0 +1,27 @@
+{
+  "id": 71210,
+  "registrationNumber": "CC57581",
+  "name": "Urban Ark - Manawa Taiao Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-01-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "urbanark.nz",
+  "email": "paul@urbanark.nz",
+  "address": {
+    "line1": "990 Great North Road",
+    "line2": "Private Bag",
+    "suburb": "Western Springs",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429047912533",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/ManawaTaiao ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T19:36:45Z"
+}

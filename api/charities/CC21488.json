@@ -1,0 +1,27 @@
+{
+  "id": 54840,
+  "registrationNumber": "CC21488",
+  "name": "Generosity New Zealand Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-03-02T00:00:00Z",
+  "dateDeregistered": "2022-02-25T00:00:00Z",
+  "website": "http://www.generosity.org.nz",
+  "email": "brenda@generosity.org.nz",
+  "address": {
+    "line1": "Level 4,114 Lambton Quay",
+    "line2": null,
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042704539",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/GenerosityNewZealand",
+    "twitter": null
+  },
+  "lastUpdated": "2022-02-24T19:30:29Z"
+}

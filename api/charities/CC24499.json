@@ -1,0 +1,27 @@
+{
+  "id": 40034,
+  "registrationNumber": "CC24499",
+  "name": "Accident Support Services NZ",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-05-18T00:00:00Z",
+  "dateDeregistered": "2015-02-02T00:00:00Z",
+  "website": "http://www.assnz.com",
+  "email": "assnz@clear.net.nz",
+  "address": {
+    "line1": "28 Young Street",
+    "line2": null,
+    "suburb": null,
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043078295",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:20:05Z"
+}

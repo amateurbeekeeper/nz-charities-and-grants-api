@@ -1,0 +1,27 @@
+{
+  "id": 49909,
+  "registrationNumber": "CC39907",
+  "name": "Wanaka Tennis Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://clubspark.kiwi/WanakaTennisClub",
+  "email": "wanakatennis@gmail.com",
+  "address": {
+    "line1": "198 Upton Street",
+    "line2": "Wanaka 9305",
+    "suburb": " ",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429042937715",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T22:49:41Z"
+}

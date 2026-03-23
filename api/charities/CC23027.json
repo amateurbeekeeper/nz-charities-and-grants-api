@@ -1,0 +1,27 @@
+{
+  "id": 39432,
+  "registrationNumber": "CC23027",
+  "name": "Cognition Institute",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-04-15T00:00:00Z",
+  "dateDeregistered": "2011-08-02T00:00:00Z",
+  "website": "http://www.cognitioninstitute.org",
+  "email": "icordes@cognition.co.nz",
+  "address": {
+    "line1": "LEVEL 1",
+    "line2": "14 Normanby Road",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429043127573",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:10:17Z"
+}

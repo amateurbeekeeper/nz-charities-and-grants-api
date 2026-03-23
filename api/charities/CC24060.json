@@ -1,0 +1,27 @@
+{
+  "id": 41191,
+  "registrationNumber": "CC24060",
+  "name": "The Clyde Theatre Group Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://clydetheatregroup.co.nz",
+  "email": "carolhaigclyde@gmail.com",
+  "address": {
+    "line1": "22 Albert Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Clyde",
+    "postcode": "9330"
+  },
+  "nzbn": "9429042939689",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ClydeTheatreGroup/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T01:06:41Z"
+}

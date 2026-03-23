@@ -1,0 +1,27 @@
+{
+  "id": 51755,
+  "registrationNumber": "CC20183",
+  "name": "Performing Arts Competitions Association of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-12-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pacanz.co.nz",
+  "email": "admin@pacanz.co.nz",
+  "address": {
+    "line1": "142 Broughton Street",
+    "line2": "Gore 9710",
+    "suburb": " ",
+    "city": "Gore",
+    "postcode": "9710"
+  },
+  "nzbn": "9429042804086",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PACANZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:56:19Z"
+}

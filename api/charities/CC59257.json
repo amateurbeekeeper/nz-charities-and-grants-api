@@ -1,0 +1,27 @@
+{
+  "id": 72864,
+  "registrationNumber": "CC59257",
+  "name": "Nga Ara Ki Tamatea Tipuna Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ngaaratipuna.nz",
+  "email": "admin@ngaaratipuna.nz",
+  "address": {
+    "line1": "1A Kitchener Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waipukurau",
+    "postcode": "4200"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ngā Ara Tipuna",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-06T20:37:29Z"
+}

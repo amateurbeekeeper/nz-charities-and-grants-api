@@ -1,0 +1,27 @@
+{
+  "id": 47680,
+  "registrationNumber": "CC29845",
+  "name": "Dunedin Choral Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.citychoirdunedin.org.nz",
+  "email": "codc.info@gmail.com",
+  "address": {
+    "line1": "44 York Place",
+    "line2": "Moray Place",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042647324",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/codchoir",
+    "twitter": "http://twitter.com/citychoirdn"
+  },
+  "lastUpdated": "2025-10-17T01:50:19Z"
+}

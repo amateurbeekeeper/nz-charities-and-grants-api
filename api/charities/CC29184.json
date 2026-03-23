@@ -1,0 +1,27 @@
+{
+  "id": 40931,
+  "registrationNumber": "CC29184",
+  "name": "The Canterbury Mental Health Education and Resource Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mherc.org.nz",
+  "email": "annette@mherc.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "12 Hazeldean Road",
+    "suburb": "Linwood",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429042924548",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T20:29:20Z"
+}

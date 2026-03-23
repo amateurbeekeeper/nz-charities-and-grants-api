@@ -1,0 +1,27 @@
+{
+  "id": 55840,
+  "registrationNumber": "CC27103",
+  "name": "Auckland Mathematical Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aucklandmaths.org.nz/",
+  "email": "aklmathsassn@gmail.com",
+  "address": {
+    "line1": "82A Oakdale Road",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429042585657",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top/?q=auckland%20mathermatical%20association",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-15T20:09:25Z"
+}

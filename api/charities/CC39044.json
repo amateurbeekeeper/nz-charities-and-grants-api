@@ -1,0 +1,27 @@
+{
+  "id": 56799,
+  "registrationNumber": "CC39044",
+  "name": "The Disabled Citizen's Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dcsinc.org.nz",
+  "email": "chairperson@dcsinc.org.nz",
+  "address": {
+    "line1": "421 - 423 Dominion Road",
+    "line2": " ",
+    "suburb": "Mt Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042776581",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T03:34:35Z"
+}

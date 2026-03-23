@@ -1,0 +1,27 @@
+{
+  "id": 47776,
+  "registrationNumber": "CC37113",
+  "name": "CORE Education Limited ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.core-ed.org",
+  "email": "cathy.mulligan@core-ed.ac.nz",
+  "address": {
+    "line1": "323 Madras Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429036063383",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 36560,
+  "registrationNumber": "CC47295",
+  "name": "Creative Capital Arts Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-01-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ccat.org.nz",
+  "email": "ce@ccat.org.nz",
+  "address": {
+    "line1": "17 Allen Street",
+    "line2": "Level 1",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043149308",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-07T21:58:47Z"
+}

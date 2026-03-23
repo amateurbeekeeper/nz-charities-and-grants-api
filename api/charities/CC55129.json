@@ -1,0 +1,27 @@
+{
+  "id": 68788,
+  "registrationNumber": "CC55129",
+  "name": "NZ Navigator Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nzntrust.org.nz",
+  "email": "info@nzntrust.org.nz",
+  "address": {
+    "line1": "221 Buckley Road",
+    "line2": " ",
+    "suburb": "Southgate",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429046535016",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T18:04:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52825,
+  "registrationNumber": "CC20110",
+  "name": "Karori Arts And Crafts Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-11-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kacc.org.nz",
+  "email": "martyncallister@hotmail.com",
+  "address": {
+    "line1": "7 Beauchamp Street",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429042652342",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KaroriArtsCrafts",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T23:39:04Z"
+}

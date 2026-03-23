@@ -1,0 +1,27 @@
+{
+  "id": 42479,
+  "registrationNumber": "CC25198",
+  "name": "Southland YMCA Education Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": "2021-01-01T00:00:00Z",
+  "website": "http://ymcasouth.org.nz",
+  "email": "vanessa.hughey@ymcasouth.org.nz",
+  "address": {
+    "line1": "77 Tay Street",
+    "line2": "Invercargill 9810",
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429038604652",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/ymcasouth",
+    "twitter": null
+  },
+  "lastUpdated": "2021-07-19T03:12:49Z"
+}

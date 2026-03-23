@@ -1,0 +1,27 @@
+{
+  "id": 53194,
+  "registrationNumber": "CC20042",
+  "name": "Remuera Baptist Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.remuerabaptistkindergarten.co.nz",
+  "email": "admin@rembapkindy.co.nz",
+  "address": {
+    "line1": "643A Remuera Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429042743156",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/remuerabaptistkindergarten",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T02:24:06Z"
+}

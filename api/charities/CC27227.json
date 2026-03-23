@@ -1,0 +1,27 @@
+{
+  "id": 56667,
+  "registrationNumber": "CC27227",
+  "name": "Te Manu Toroa Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.temanutoroa.org.nz",
+  "email": "p.cook@temanutoroa.org.nz",
+  "address": {
+    "line1": "10 Tebbs Lane",
+    "line2": " ",
+    "suburb": "Gate Pa",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042931928",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T18:12:49Z"
+}

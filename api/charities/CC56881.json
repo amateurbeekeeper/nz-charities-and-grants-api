@@ -1,0 +1,27 @@
+{
+  "id": 70511,
+  "registrationNumber": "CC56881",
+  "name": "Health Coalition Aotearoa Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.healthcoalition.org.nz",
+  "email": "f.langdon@healthcoalition.org.nz",
+  "address": {
+    "line1": "22-26 Park Avenue",
+    "line2": " ",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429047486669",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "@HealthCoA"
+  },
+  "lastUpdated": "2026-02-19T03:49:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 57385,
+  "registrationNumber": "CC25838",
+  "name": "Thom Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thommusic.com/index.html",
+  "email": "louis.j.mclennan@pwc.com",
+  "address": {
+    "line1": "level 4 117 St Georges bay Road",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429042939474",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T22:47:20Z"
+}

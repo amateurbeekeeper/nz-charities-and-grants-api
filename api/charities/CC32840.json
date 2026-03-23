@@ -1,0 +1,27 @@
+{
+  "id": 49330,
+  "registrationNumber": "CC32840",
+  "name": "Hawera Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hawerabaptist.org.nz",
+  "email": "office@hawerabaptist.org.nz",
+  "address": {
+    "line1": "6 Surrey Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hawera",
+    "postcode": "4610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Hawera Baptist Church",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T03:49:13Z"
+}

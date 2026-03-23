@@ -1,0 +1,27 @@
+{
+  "id": 53596,
+  "registrationNumber": "CC20664",
+  "name": "Blenheim Elim Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://theelimcentre.com",
+  "email": "sonia@theelimcentre.com",
+  "address": {
+    "line1": "26 Burleigh Road",
+    "line2": " ",
+    "suburb": "Redwoodtown",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429043027057",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Elim Christian Centre Blenheim",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-09T19:24:57Z"
+}

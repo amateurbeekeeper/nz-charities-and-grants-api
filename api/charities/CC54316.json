@@ -1,0 +1,27 @@
+{
+  "id": 67997,
+  "registrationNumber": "CC54316",
+  "name": "The Lucy Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-03-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thelucyfoundation.com",
+  "email": "info@thelucyfoundation.com",
+  "address": {
+    "line1": "703 Wairere Drive",
+    "line2": " ",
+    "suburb": "Chartwell",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429046031945",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thelucyfoundation/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:21:50Z"
+}

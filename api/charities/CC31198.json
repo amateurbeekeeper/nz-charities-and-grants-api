@@ -1,0 +1,27 @@
+{
+  "id": 49554,
+  "registrationNumber": "CC31198",
+  "name": "Waitangi National Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waitangi.org.nz",
+  "email": "bendalton@waitangi.org.nz",
+  "address": {
+    "line1": "Tau Henare Drive",
+    "line2": "Waitangi",
+    "suburb": " ",
+    "city": "Paihia, Bay Of Islands",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T03:43:10Z"
+}

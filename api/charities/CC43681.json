@@ -1,0 +1,27 @@
+{
+  "id": 47079,
+  "registrationNumber": "CC43681",
+  "name": "Access Radio Taranaki Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.accessradiotaranaki.com",
+  "email": "manager@accessradiotaranaki.com",
+  "address": {
+    "line1": "Shop 4, Top Town Cinema Complex",
+    "line2": "119-123 Devon St East",
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043201945",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AccessRadioTaranaki",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-24T07:25:34Z"
+}

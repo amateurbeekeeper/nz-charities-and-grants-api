@@ -1,0 +1,27 @@
+{
+  "id": 67048,
+  "registrationNumber": "CC53332",
+  "name": "St Marks Charitable Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "charles@wmp.co.nz",
+  "address": {
+    "line1": "73 Alfred Street",
+    "line2": "Blenheim 7201",
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429043297078",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T00:43:43Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72080,
+  "registrationNumber": "CC58462",
+  "name": "The Dines Family Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-10-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "melissa@dfct.co.nz",
+  "address": {
+    "line1": "22 Bowden Road",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T19:36:41Z"
+}

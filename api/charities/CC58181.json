@@ -1,0 +1,27 @@
+{
+  "id": 71800,
+  "registrationNumber": "CC58181",
+  "name": "MIOMO Aotearoa Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-09-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.owningit.co",
+  "email": "wee-yeong@owningit.co",
+  "address": {
+    "line1": "2 Sarazen Drive",
+    "line2": " ",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": "9429048403429",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/owningitnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T00:51:13Z"
+}

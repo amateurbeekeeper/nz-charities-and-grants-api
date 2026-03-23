@@ -1,0 +1,27 @@
+{
+  "id": 54770,
+  "registrationNumber": "CC31648",
+  "name": "Wai-Health Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john.tamihere@waiwhanau.com",
+  "address": {
+    "line1": "16 Catherine Street",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429039099013",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:37:07Z"
+}

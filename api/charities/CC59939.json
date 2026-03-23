@@ -1,0 +1,27 @@
+{
+  "id": 73599,
+  "registrationNumber": "CC59939",
+  "name": "Te Atatu Marae Coalition",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teatatumarae.co.nz/",
+  "email": "carolynmakiri@yahoo.co.nz",
+  "address": {
+    "line1": "123 Taikata Road",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/173468129482388",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2025-11-20T02:19:40Z"
+}

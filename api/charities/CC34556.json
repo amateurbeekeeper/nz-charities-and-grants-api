@@ -1,0 +1,27 @@
+{
+  "id": 45509,
+  "registrationNumber": "CC34556",
+  "name": "The Greytown Little Theatre Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.greytownlittletheatre.co.nz",
+  "email": "healys@xtra.co.nz",
+  "address": {
+    "line1": "73 Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greytown",
+    "postcode": "5712"
+  },
+  "nzbn": "9429042713739",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T02:15:20Z"
+}

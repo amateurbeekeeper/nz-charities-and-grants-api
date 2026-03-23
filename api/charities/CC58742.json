@@ -1,0 +1,27 @@
+{
+  "id": 72353,
+  "registrationNumber": "CC58742",
+  "name": "Frankly Productions Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://franklypodcast.co.nz",
+  "email": "contact@franklypodcast.co.nz",
+  "address": {
+    "line1": "290A Ilam Road",
+    "line2": " ",
+    "suburb": "Burnside",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429048697941",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/franklypodcastnz/",
+    "twitter": "https://twitter.com/FranklyPod"
+  },
+  "lastUpdated": "2025-10-16T23:42:53Z"
+}

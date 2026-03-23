@@ -1,0 +1,27 @@
+{
+  "id": 63333,
+  "registrationNumber": "CC43064",
+  "name": "Raukura Moana Seafoods Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tgh.co.nz",
+  "email": "statrec@tgh.co.nz",
+  "address": {
+    "line1": "6 Bryce Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429038140099",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T02:27:54Z"
+}

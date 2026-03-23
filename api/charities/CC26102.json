@@ -1,0 +1,27 @@
+{
+  "id": 39014,
+  "registrationNumber": "CC26102",
+  "name": "The Open Home Foundation Of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ohf.org.nz",
+  "email": "michelle.butcher@ohf.org.nz",
+  "address": {
+    "line1": "Level 1 46-50 Railway Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lower Hutt",
+    "postcode": "5040"
+  },
+  "nzbn": "9429042867579",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T20:37:14Z"
+}

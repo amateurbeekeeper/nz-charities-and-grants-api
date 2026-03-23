@@ -1,0 +1,27 @@
+{
+  "id": 41595,
+  "registrationNumber": "CC24291",
+  "name": "Riccarton Community Church Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rcc.co.nz",
+  "email": "ps@rcc.co.nz",
+  "address": {
+    "line1": "44 Elizabeth Street",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429047796171",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Riccarton Community Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-31T19:43:39Z"
+}

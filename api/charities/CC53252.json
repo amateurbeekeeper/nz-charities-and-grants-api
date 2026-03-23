@@ -1,0 +1,27 @@
+{
+  "id": 66967,
+  "registrationNumber": "CC53252",
+  "name": "North Shore Buddhist Temple",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://northshorebuddhisttemple.com/",
+  "email": "lalweragoda2@gmail.com",
+  "address": {
+    "line1": "25A Merriefield Avenue",
+    "line2": " ",
+    "suburb": "Forrest Hill",
+    "city": "Auckland",
+    "postcode": "0620"
+  },
+  "nzbn": "9429043292073",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Northshorebuddhisttemple/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-20T02:41:08Z"
+}

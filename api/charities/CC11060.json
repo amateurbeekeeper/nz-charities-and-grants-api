@@ -1,0 +1,27 @@
+{
+  "id": 52088,
+  "registrationNumber": "CC11060",
+  "name": "Community Accommodation Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "trustaccounts@swbc.org.nz",
+  "address": {
+    "line1": "244 Lyttelton Street",
+    "line2": " ",
+    "suburb": "Spreydon",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429037652746",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:25:41Z"
+}

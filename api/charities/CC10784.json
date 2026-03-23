@@ -1,0 +1,27 @@
+{
+  "id": 52191,
+  "registrationNumber": "CC10784",
+  "name": "Acorn Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.acornfoundation.org.nz/",
+  "email": "lori@acornfoundation.org.nz",
+  "address": {
+    "line1": "Level 4, South British House",
+    "line2": "35 Grey Street",
+    "suburb": " Tauranga",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043086320",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/AcornFoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T20:33:44Z"
+}

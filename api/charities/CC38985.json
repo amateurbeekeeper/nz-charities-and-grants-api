@@ -1,0 +1,27 @@
+{
+  "id": 39886,
+  "registrationNumber": "CC38985",
+  "name": "Wellington Tramway Museum Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wellingtontrams.org.nz",
+  "email": "treasurer@wellingtontrams.org.nz",
+  "address": {
+    "line1": "Whareroa Road",
+    "line2": "Mackay's Crossing",
+    "suburb": " ",
+    "city": "Paekakariki",
+    "postcode": "5034"
+  },
+  "nzbn": "9429042917816",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Wellington Tramway Museum",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T03:45:32Z"
+}

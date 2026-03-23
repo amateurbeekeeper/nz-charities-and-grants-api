@@ -1,0 +1,27 @@
+{
+  "id": 45197,
+  "registrationNumber": "CC33343",
+  "name": "Kelburn Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-05T00:00:00Z",
+  "website": null,
+  "email": "copresident2@kelburnplaycentre.org.nz",
+  "address": {
+    "line1": "17 Kowhai Road",
+    "line2": " ",
+    "suburb": "Kelburn",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-19T06:03:06Z"
+}

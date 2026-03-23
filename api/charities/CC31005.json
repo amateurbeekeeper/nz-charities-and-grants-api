@@ -1,0 +1,27 @@
+{
+  "id": 58116,
+  "registrationNumber": "CC31005",
+  "name": "Education For Ministry Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.efm.org.nz",
+  "email": "educationforministrynz@outlook.com",
+  "address": {
+    "line1": "62 Herewini Street",
+    "line2": " ",
+    "suburb": "Titahi Bay",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429042991397",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EFMNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-19T19:48:52Z"
+}

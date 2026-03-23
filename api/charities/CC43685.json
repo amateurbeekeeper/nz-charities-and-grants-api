@@ -1,0 +1,27 @@
+{
+  "id": 50811,
+  "registrationNumber": "CC43685",
+  "name": "Thames Bridge Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thames.bridge-club.org",
+  "email": "thamesbridgeclub@gmail.com",
+  "address": {
+    "line1": "401 Brown Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429042847762",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T09:30:02Z"
+}

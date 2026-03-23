@@ -1,0 +1,27 @@
+{
+  "id": 56042,
+  "registrationNumber": "CC22520",
+  "name": "C.L.C Auckland Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lifenz.org",
+  "email": "jeff.wong@lifenz.org",
+  "address": {
+    "line1": "14 Normanby Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042613817",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T02:43:20Z"
+}

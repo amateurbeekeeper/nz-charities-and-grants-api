@@ -1,0 +1,27 @@
+{
+  "id": 56282,
+  "registrationNumber": "CC25866",
+  "name": "New Zealand Masters Swimming Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzmastersswimming.org.nz",
+  "email": "secretarynzms@gmail.com",
+  "address": {
+    "line1": "2 Aberdeen Road",
+    "line2": " ",
+    "suburb": "Campbells Bay",
+    "city": "Auckland",
+    "postcode": "0620"
+  },
+  "nzbn": "9429042711353",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-21T19:26:33Z"
+}

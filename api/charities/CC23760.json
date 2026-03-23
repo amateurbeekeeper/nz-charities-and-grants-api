@@ -1,0 +1,27 @@
+{
+  "id": 40321,
+  "registrationNumber": "CC23760",
+  "name": "Porirua Grand Traverse Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://poriruagrandtraverse.co.nz/",
+  "email": "michael@mdj.co.nz",
+  "address": {
+    "line1": "42 Seaview Road",
+    "line2": " ",
+    "suburb": "Paremata",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429043038749",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PoriruaGrandTraverse",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T06:04:07Z"
+}

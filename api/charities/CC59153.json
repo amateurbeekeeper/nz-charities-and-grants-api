@@ -1,0 +1,27 @@
+{
+  "id": 72751,
+  "registrationNumber": "CC59153",
+  "name": "East Skate Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.eastskate.co.nz",
+  "email": "aaron@eastskate.co.nz",
+  "address": {
+    "line1": "79 Line Road",
+    "line2": " ",
+    "suburb": "Glen Innes",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429048876605",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/eastskate",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T09:31:59Z"
+}

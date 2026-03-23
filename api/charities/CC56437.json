@@ -1,0 +1,27 @@
+{
+  "id": 70074,
+  "registrationNumber": "CC56437",
+  "name": "Patients' and Prisoners' Aid Society",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "michael.ferrari139@gmail.com",
+  "address": {
+    "line1": "26 Bangor Terrace",
+    "line2": " ",
+    "suburb": "Kew",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429047195486",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T18:19:58Z"
+}

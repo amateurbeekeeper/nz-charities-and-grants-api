@@ -1,0 +1,27 @@
+{
+  "id": 32774,
+  "registrationNumber": "CC48603",
+  "name": "Komiti Marae Orakei Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "leeannwahanuipeters@kmot.org.nz",
+  "address": {
+    "line1": "59B Kitemoana Street",
+    "line2": "Orakei",
+    "suburb": "Orakei",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429043197507",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Komiti Marae Ōrākei Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T03:07:58Z"
+}

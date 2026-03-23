@@ -1,0 +1,27 @@
+{
+  "id": 48266,
+  "registrationNumber": "CC35553",
+  "name": "The Anglican Trusts Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.aucklandanglican.org.nz",
+  "email": "sonia.maugham@aucklandanglican.org.nz",
+  "address": {
+    "line1": "12 St Stephens Avenue",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429042849049",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:46Z"
+}

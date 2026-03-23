@@ -1,0 +1,27 @@
+{
+  "id": 66489,
+  "registrationNumber": "CC52754",
+  "name": "Anglican Diocese of Christchurch - Parish of East Christchurch",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stfaiths.co.nz",
+  "email": "david.close@xtra.co.nz",
+  "address": {
+    "line1": "46 Hawke Street",
+    "line2": " ",
+    "suburb": "New Brighton",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/tewakaaroha",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T02:23:37Z"
+}

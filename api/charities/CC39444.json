@@ -1,0 +1,27 @@
+{
+  "id": 47098,
+  "registrationNumber": "CC39444",
+  "name": "Henderson Budget Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.budgeting.org.nz",
+  "email": "tracey@budgeting.org.nz",
+  "address": {
+    "line1": "404 Great North Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429042639145",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Henderson Budgeting",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T02:05:59Z"
+}

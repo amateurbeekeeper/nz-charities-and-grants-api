@@ -1,0 +1,27 @@
+{
+  "id": 72840,
+  "registrationNumber": "CC59239",
+  "name": "Manu Ora Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.manuora.org.nz",
+  "email": "zazu_001@hotmail.com",
+  "address": {
+    "line1": "219 Howick Road",
+    "line2": " ",
+    "suburb": "Witherlea",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429049396775",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T19:19:34Z"
+}

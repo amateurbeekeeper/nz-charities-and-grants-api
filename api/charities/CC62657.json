@@ -1,0 +1,27 @@
+{
+  "id": 76316,
+  "registrationNumber": "CC62657",
+  "name": "Te Kura o ngā Koha",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.allsport.org.nz",
+  "email": "tane.clement@gmail.com",
+  "address": {
+    "line1": "26 Carbine Place",
+    "line2": " ",
+    "suburb": "Sockburn",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429052148965",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aotearoaallsport",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T21:34:55Z"
+}

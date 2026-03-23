@@ -1,0 +1,27 @@
+{
+  "id": 75483,
+  "registrationNumber": "CC61926",
+  "name": "Sailors’ Society New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.iss.org.nz",
+  "email": "issnz@iss.org.nz",
+  "address": {
+    "line1": "42 Knights Road",
+    "line2": " ",
+    "suburb": "Rothesay Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429051614645",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T02:14:07Z"
+}

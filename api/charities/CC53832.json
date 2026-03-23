@@ -1,0 +1,27 @@
+{
+  "id": 67529,
+  "registrationNumber": "CC53832",
+  "name": "Waitakere Auckland Brass inc",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-10-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waitakerebrass.com",
+  "email": "cscaletti40@gmail.com",
+  "address": {
+    "line1": "36 Portage Road",
+    "line2": "326 Sunset Road",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429042888475",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheTrustsWaitakereBrassBand",
+    "twitter": "https://twitter.com/waitakerebrass"
+  },
+  "lastUpdated": "2026-03-21T23:22:30Z"
+}

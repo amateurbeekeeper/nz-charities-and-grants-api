@@ -1,0 +1,27 @@
+{
+  "id": 68509,
+  "registrationNumber": "CC54843",
+  "name": "Coory Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-07-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mike@healthhouse.co.nz",
+  "address": {
+    "line1": "9 Millbrook Drive",
+    "line2": " ",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:20:02Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56801,
+  "registrationNumber": "CC41745",
+  "name": "Artists Open Studios Whanganui Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.openstudios.co.nz",
+  "email": "adrian@papaitigin.co.nz",
+  "address": {
+    "line1": "207 Papaiti Road",
+    "line2": "RD 14",
+    "suburb": "Papaiti",
+    "city": "Whanganui",
+    "postcode": "4584"
+  },
+  "nzbn": "9429043107193",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ArtistsOpenStudiosWhanganui/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T23:10:10Z"
+}

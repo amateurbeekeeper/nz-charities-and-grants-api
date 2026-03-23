@@ -1,0 +1,27 @@
+{
+  "id": 78234,
+  "registrationNumber": "CC64045",
+  "name": "Auckland Metropolitan Choir",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-12-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "singforyoueveryday@gmail.com",
+  "address": {
+    "line1": "94A Ridge Road",
+    "line2": " ",
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T21:08:16Z"
+}

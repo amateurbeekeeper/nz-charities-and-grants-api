@@ -1,0 +1,27 @@
+{
+  "id": 51941,
+  "registrationNumber": "CC11404",
+  "name": "Southland Workers' Educational Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.southlandeducation.org.nz",
+  "email": "wea.south@xtra.co.nz",
+  "address": {
+    "line1": "100 Esk Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042735441",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/southlandeducation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-15T00:30:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 78455,
+  "registrationNumber": "CC64275",
+  "name": "Te Ara-rata Stream Team Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "teararata.stream@gmail.com",
+  "address": {
+    "line1": "17 Elmdon Street",
+    "line2": null,
+    "suburb": "Māngere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/teararatastreamteam/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T03:05:35Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 46278,
+  "registrationNumber": "CC31677",
+  "name": "Urenui Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kingstonz@xtra.co.nz",
+  "address": {
+    "line1": "2 Whakapaki Street",
+    "line2": "Urenui 4375",
+    "suburb": "Urenui",
+    "city": "Urenui",
+    "postcode": "4375"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:58:31Z"
+}

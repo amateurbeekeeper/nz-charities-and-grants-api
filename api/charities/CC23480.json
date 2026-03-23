@@ -1,0 +1,27 @@
+{
+  "id": 58436,
+  "registrationNumber": "CC23480",
+  "name": "Levin Uniting Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.levinuniting.org.nz",
+  "email": "minister@levinuniting.org.nz",
+  "address": {
+    "line1": "87 Oxford Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/LevnUnitingChurch/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:37:09Z"
+}

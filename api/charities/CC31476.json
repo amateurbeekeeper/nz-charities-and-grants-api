@@ -1,0 +1,27 @@
+{
+  "id": 45860,
+  "registrationNumber": "CC31476",
+  "name": "National Park Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2017-04-18T00:00:00Z",
+  "website": null,
+  "email": "info@plateaulodge.co.nz",
+  "address": {
+    "line1": "Corner Carroll Street And MacKenzie Street",
+    "line2": null,
+    "suburb": null,
+    "city": "National Park",
+    "postcode": "3948"
+  },
+  "nzbn": "9429043127146",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-20T04:12:49Z"
+}

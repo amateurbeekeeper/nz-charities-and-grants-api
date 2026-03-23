@@ -1,0 +1,27 @@
+{
+  "id": 69956,
+  "registrationNumber": "CC56320",
+  "name": "Better Life Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-11-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.betterlife.org.nz",
+  "email": "info@betterlife.org.nz",
+  "address": {
+    "line1": "16 Maui Grove",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429047346772",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Better-Life-Foundation-1117004978482142/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:30:53Z"
+}

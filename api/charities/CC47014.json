@@ -1,0 +1,27 @@
+{
+  "id": 37342,
+  "registrationNumber": "CC47014",
+  "name": "NZ-RT12 Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-10-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://confluence.nzrt12.nz/",
+  "email": "nzrt12@hotmail.com",
+  "address": {
+    "line1": "141 Marsh Road",
+    "line2": "Rangiora 7400",
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": "9429051948757",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZRT12/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T18:21:12Z"
+}

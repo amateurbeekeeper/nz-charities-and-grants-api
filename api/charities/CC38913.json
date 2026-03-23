@@ -1,0 +1,27 @@
+{
+  "id": 58149,
+  "registrationNumber": "CC38913",
+  "name": "Marlborough Riding for the Disabled Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://mrda.org.nz",
+  "email": "manager@mrda.org.nz",
+  "address": {
+    "line1": "6 Taylor Pass Road",
+    "line2": "Taylor Pass Road",
+    "suburb": "Witherlea",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429042760399",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Marlborough-Riding-for-the-Disabled-472967042724250/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:12:55Z"
+}

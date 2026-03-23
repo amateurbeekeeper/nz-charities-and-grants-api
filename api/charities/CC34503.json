@@ -1,0 +1,27 @@
+{
+  "id": 42911,
+  "registrationNumber": "CC34503",
+  "name": "Te Iringa Marae",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2011-06-14T00:00:00Z",
+  "website": null,
+  "email": "rmarino@aonl.co.nz",
+  "address": {
+    "line1": "23 The Oval",
+    "line2": null,
+    "suburb": "Paremoremo",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-09-06T22:34:12Z"
+}

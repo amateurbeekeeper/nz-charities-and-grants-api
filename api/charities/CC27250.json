@@ -1,0 +1,27 @@
+{
+  "id": 59497,
+  "registrationNumber": "CC27250",
+  "name": "St Albans Community Preschool Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stalbanspreschool.info/",
+  "email": "suzy@stalbanspreschool.co.nz",
+  "address": {
+    "line1": "3 Thames Street",
+    "line2": " ",
+    "suburb": "Mairehau",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042729181",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T19:21:07Z"
+}

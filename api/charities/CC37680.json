@@ -1,0 +1,27 @@
+{
+  "id": 62170,
+  "registrationNumber": "CC37680",
+  "name": "Te Whariki Manawahine O Hauraki Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://hauraki.refuge.co.nz/",
+  "email": "julianajames@hauraki.refuge.co.nz",
+  "address": {
+    "line1": "Corner Sealey Street and Service Lane 6A",
+    "line2": "Thames 3500",
+    "suburb": " ",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429042825296",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Yes",
+    "twitter": "No"
+  },
+  "lastUpdated": "2026-02-27T19:30:28Z"
+}

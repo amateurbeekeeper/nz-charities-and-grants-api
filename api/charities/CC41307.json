@@ -1,0 +1,27 @@
+{
+  "id": 42706,
+  "registrationNumber": "CC41307",
+  "name": "Taupo Squash Rackets Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tauposquash.co.nz",
+  "email": "info@dpa.co.nz",
+  "address": {
+    "line1": "Ac Baths Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Taupo",
+    "postcode": null
+  },
+  "nzbn": "9429042858539",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tauposquash/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T01:40:27Z"
+}

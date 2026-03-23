@@ -1,0 +1,27 @@
+{
+  "id": 74226,
+  "registrationNumber": "CC60635",
+  "name": "Meta Digital Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "george@candogroup.co",
+  "address": {
+    "line1": "9 Laurence Street",
+    "line2": " ",
+    "suburb": "Manly",
+    "city": "Whangaparaoa",
+    "postcode": "0930"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-17T23:42:57Z"
+}

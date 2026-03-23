@@ -1,0 +1,27 @@
+{
+  "id": 34798,
+  "registrationNumber": "CC51239",
+  "name": "Woodville Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2014-12-09T00:00:00Z",
+  "dateDeregistered": "2025-10-30T00:00:00Z",
+  "website": null,
+  "email": "woodville@playcentre.org.nz",
+  "address": {
+    "line1": "45 Ross Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Woodville",
+    "postcode": "4920"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-14T06:03:58Z"
+}

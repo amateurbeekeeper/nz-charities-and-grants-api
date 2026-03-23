@@ -1,0 +1,27 @@
+{
+  "id": 35469,
+  "registrationNumber": "CC47006",
+  "name": "Te Roopu Waiora Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.teroopuwaiora.nz",
+  "email": "enquiries@teroopuwaiora.nz",
+  "address": {
+    "line1": "29 Hunua Road",
+    "line2": "Papakura 2110",
+    "suburb": "Manukau",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": "9429042997429",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/Te.Roopu.Waiora/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T01:03:29Z"
+}

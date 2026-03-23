@@ -1,0 +1,27 @@
+{
+  "id": 40624,
+  "registrationNumber": "CC38014",
+  "name": "Pine Ridge Archers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pineridgearchers.org.nz",
+  "email": "nevter16@xtra.co.nz",
+  "address": {
+    "line1": "16 Reynard Terrace",
+    "line2": " ",
+    "suburb": "Conifer Grove",
+    "city": "Takanini",
+    "postcode": "2112"
+  },
+  "nzbn": "9429042806769",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-19T08:44:50Z"
+}

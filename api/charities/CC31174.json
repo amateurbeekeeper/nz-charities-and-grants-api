@@ -1,0 +1,27 @@
+{
+  "id": 49608,
+  "registrationNumber": "CC31174",
+  "name": "Kumeu Baptist Church ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kumeubaptist.org.nz",
+  "email": "fursdonsteve@gmail.com",
+  "address": {
+    "line1": "495 State Highway 16",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kumeu",
+    "postcode": "0841"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/Kumeu-Baptist-Church",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-06T05:45:48Z"
+}

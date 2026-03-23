@@ -1,0 +1,27 @@
+{
+  "id": 63199,
+  "registrationNumber": "CC37124",
+  "name": "Multicultural Whangarei Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-01-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://mwhg.org.nz/",
+  "email": "chair@mwhg.org.nz",
+  "address": {
+    "line1": "37 Bank Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043166503",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/multiculturalwhangarei/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T02:55:23Z"
+}

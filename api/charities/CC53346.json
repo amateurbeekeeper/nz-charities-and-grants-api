@@ -1,0 +1,27 @@
+{
+  "id": 67074,
+  "registrationNumber": "CC53346",
+  "name": "Community Wireless Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cwt.net.nz",
+  "email": "mike@dooley.nz",
+  "address": {
+    "line1": "21 Sloane Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Fairlie",
+    "postcode": "7925"
+  },
+  "nzbn": "9429043158997",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/communitywirelesstrust/",
+    "twitter": "https://twitter.com/communiwireless"
+  },
+  "lastUpdated": "2025-10-05T18:54:01Z"
+}

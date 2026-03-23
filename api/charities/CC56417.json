@@ -1,0 +1,27 @@
+{
+  "id": 70059,
+  "registrationNumber": "CC56417",
+  "name": "FAILOA FAMILI",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.failoafamili.org.nz",
+  "email": "naomi@failoafamili.org.nz",
+  "address": {
+    "line1": "59 Druces Road",
+    "line2": " ",
+    "suburb": "Wiri",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429047249943",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/failoafamilicharitabletrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T00:52:35Z"
+}

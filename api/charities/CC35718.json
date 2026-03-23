@@ -1,0 +1,27 @@
+{
+  "id": 62345,
+  "registrationNumber": "CC35718",
+  "name": "Tauranga Film Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-12-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzfilmsociety.org.nz/tauranga.html",
+  "email": "taurangafilmsociety@gmail.com",
+  "address": {
+    "line1": "89 Botanical Road",
+    "line2": " ",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429043175017",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T20:10:07Z"
+}

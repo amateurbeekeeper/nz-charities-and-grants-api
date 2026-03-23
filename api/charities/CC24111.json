@@ -1,0 +1,27 @@
+{
+  "id": 55666,
+  "registrationNumber": "CC24111",
+  "name": "The Douglas Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Gina.Cook@bdo.co.nz",
+  "address": {
+    "line1": "C/- BDO Auckland",
+    "line2": "Level 10, BDO Tower",
+    "suburb": "19 Como Street, Takapuna",
+    "city": "Auckland ",
+    "postcode": "0740"
+  },
+  "nzbn": "9429043092642",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:56:51Z"
+}

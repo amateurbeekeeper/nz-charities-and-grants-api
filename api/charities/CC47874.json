@@ -1,0 +1,27 @@
+{
+  "id": 37653,
+  "registrationNumber": "CC47874",
+  "name": "St.Gregorios Indian Orthodox Church, Hamilton, New Zealand, Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-07-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sgiochamilton.org",
+  "email": "bibin.eappen@gmail.com",
+  "address": {
+    "line1": "8 St Lukes Place",
+    "line2": " ",
+    "suburb": "Bader",
+    "city": "Hamilton",
+    "postcode": "3206"
+  },
+  "nzbn": "9429043216642",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/sgiochamilton/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:53:54Z"
+}

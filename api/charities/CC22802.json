@@ -1,0 +1,27 @@
+{
+  "id": 53250,
+  "registrationNumber": "CC22802",
+  "name": "Composers Association of New Zealand (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.canz.net.nz",
+  "email": "president@canz.net.nz",
+  "address": {
+    "line1": "C/- DR GLENDA KEAM",
+    "line2": "3 Sylvan Valley Avenue",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "604"
+  },
+  "nzbn": "9429042664925",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T09:16:37Z"
+}

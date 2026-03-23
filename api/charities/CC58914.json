@@ -1,0 +1,27 @@
+{
+  "id": 72512,
+  "registrationNumber": "CC58914",
+  "name": "La recre du bout du monde",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://larecre.org.nz/accueil",
+  "email": "elodie.haswell@hotmail.com",
+  "address": {
+    "line1": "12 Jennian Avenue",
+    "line2": " ",
+    "suburb": "Rototuna North",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "La récré du bout du monde ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T20:54:35Z"
+}

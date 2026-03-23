@@ -1,0 +1,27 @@
+{
+  "id": 36555,
+  "registrationNumber": "CC47340",
+  "name": "Banana Boat Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-08-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.bananaboat.org.nz",
+  "email": "bananaboatnz@gmail.com",
+  "address": {
+    "line1": "26 Erima Avenue",
+    "line2": " ",
+    "suburb": "Point England",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "www.fb.me/bananaboatnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T09:22:00Z"
+}

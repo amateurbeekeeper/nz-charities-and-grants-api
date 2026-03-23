@@ -1,0 +1,27 @@
+{
+  "id": 33029,
+  "registrationNumber": "CC49113",
+  "name": "Akarana Marine Sports Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://akarana.co.nz/",
+  "email": "Nicky@amsct.co.nz",
+  "address": {
+    "line1": "The Landing",
+    "line2": "8 - 10 Tamaki Drive",
+    "suburb": "Okahu Bay",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429043318643",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Akarana Marine Sports",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T20:43:25Z"
+}

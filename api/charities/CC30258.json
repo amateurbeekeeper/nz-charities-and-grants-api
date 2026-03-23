@@ -1,0 +1,27 @@
+{
+  "id": 48310,
+  "registrationNumber": "CC30258",
+  "name": "W H Hargreaves Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Frances_Ronwicz@bnz.co.nz",
+  "address": {
+    "line1": "LEVEL 4",
+    "line2": "80 Queen Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:50:14Z"
+}

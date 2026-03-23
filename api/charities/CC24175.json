@@ -1,0 +1,27 @@
+{
+  "id": 40431,
+  "registrationNumber": "CC24175",
+  "name": "Waves Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waves.org.nz",
+  "email": "Amiria@waves.org.nz",
+  "address": {
+    "line1": "PO Box 121450",
+    "line2": " ",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "0650"
+  },
+  "nzbn": "9429042911494",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T01:54:15Z"
+}

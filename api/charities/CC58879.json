@@ -1,0 +1,27 @@
+{
+  "id": 72487,
+  "registrationNumber": "CC58879",
+  "name": "HILLS NZ CHARITABLE TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hillsnz.com",
+  "email": "jordan@hillsnz.com",
+  "address": {
+    "line1": "15B Queen Street",
+    "line2": " ",
+    "suburb": "Wainuiomata",
+    "city": "Lower Hutt",
+    "postcode": "5014"
+  },
+  "nzbn": "9429049299311",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.Facebook.com/hillsnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-30T22:33:14Z"
+}

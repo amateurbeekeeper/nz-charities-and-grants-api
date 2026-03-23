@@ -1,0 +1,27 @@
+{
+  "id": 53518,
+  "registrationNumber": "CC38574",
+  "name": "Estate of John Meehan",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.publictrust.co.nz",
+  "email": "funding@publictrust.co.nz",
+  "address": {
+    "line1": "Public Trust Tower",
+    "line2": "Level 2",
+    "suburb": "22 Willeston Street",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "9/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T03:01:58Z"
+}

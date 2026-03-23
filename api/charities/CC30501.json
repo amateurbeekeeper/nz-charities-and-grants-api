@@ -1,0 +1,27 @@
+{
+  "id": 61040,
+  "registrationNumber": "CC30501",
+  "name": "Te Whatukura Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tewhatukurakapahaka@gmail.com",
+  "address": {
+    "line1": "171B Queen Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": "9429042990307",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T09:04:50Z"
+}

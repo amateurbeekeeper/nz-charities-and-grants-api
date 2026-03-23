@@ -1,0 +1,27 @@
+{
+  "id": 65608,
+  "registrationNumber": "CC51857",
+  "name": "Saint Andrews Presbyterian Church Birkenhead",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sasp.church.org.nz",
+  "email": "birkenheadpresbyterian@gmail.com",
+  "address": {
+    "line1": "172 Hinemoa Street",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T01:14:36Z"
+}

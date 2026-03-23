@@ -1,0 +1,27 @@
+{
+  "id": 78397,
+  "registrationNumber": "CC64210",
+  "name": "North Canterbury Neighbourhood Support Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.neighbourhoodsupport.co.nz",
+  "email": "brent@brentcairns.com",
+  "address": {
+    "line1": "1 Southern Cross Road",
+    "line2": null,
+    "suburb": null,
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NorthCanterburyNeighbourhoodSupport/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T22:12:23Z"
+}

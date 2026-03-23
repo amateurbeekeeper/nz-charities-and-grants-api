@@ -1,0 +1,27 @@
+{
+  "id": 65899,
+  "registrationNumber": "CC52158",
+  "name": "Korean Presbyterian Church of Auckland",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "kpcanz.com",
+  "email": "big-tmt@hanmail.net",
+  "address": {
+    "line1": "22 Edmonton Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T20:02:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51840,
+  "registrationNumber": "CC20187",
+  "name": "ABC Disability Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2007-12-05T00:00:00Z",
+  "dateDeregistered": "2019-11-04T00:00:00Z",
+  "website": "www.matauranga.kiwi.nz",
+  "email": "linda.leishman@gmail.com",
+  "address": {
+    "line1": "123B Mackenzie Avenue",
+    "line2": " ",
+    "suburb": "Woolston",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429043141081",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-12-04T03:13:05Z"
+}

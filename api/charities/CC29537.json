@@ -1,0 +1,27 @@
+{
+  "id": 42973,
+  "registrationNumber": "CC29537",
+  "name": "Wairoa Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "flames@xtra.co.nz",
+  "address": {
+    "line1": "67 Lucknow Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wairoa",
+    "postcode": "4108"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-22T19:51:43Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69492,
+  "registrationNumber": "CC55841",
+  "name": "Whanau First Hamilton",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "whanaufirsthamilton@gmail.com",
+  "address": {
+    "line1": "36 Byron Road",
+    "line2": " ",
+    "suburb": "Enderley",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": "9429046963178",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T03:40:24Z"
+}

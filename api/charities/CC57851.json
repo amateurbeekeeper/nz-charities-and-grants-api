@@ -1,0 +1,27 @@
+{
+  "id": 71478,
+  "registrationNumber": "CC57851",
+  "name": "Omega Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.omegachurch.org.nz",
+  "email": "omegachurchnz@gmail.com",
+  "address": {
+    "line1": "45 Monte Crescent",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lincoln",
+    "postcode": "7608"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Omega Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:32:49Z"
+}

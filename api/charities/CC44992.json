@@ -1,0 +1,27 @@
+{
+  "id": 35992,
+  "registrationNumber": "CC44992",
+  "name": "Mazda Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mazdafoundation.org.nz",
+  "email": "dhodge@mazda.co.nz",
+  "address": {
+    "line1": "7 Westfield Place",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429043140107",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-21T19:28:26Z"
+}

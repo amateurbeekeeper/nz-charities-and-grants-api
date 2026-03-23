@@ -1,0 +1,27 @@
+{
+  "id": 50009,
+  "registrationNumber": "CC33328",
+  "name": "Southern Cross Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.southerncross.co.nz",
+  "email": "healthcaresecretariat@schl.co.nz",
+  "address": {
+    "line1": "Level 14, ANZ Centre",
+    "line2": "23-29 Albert Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042734215",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T00:55:45Z"
+}

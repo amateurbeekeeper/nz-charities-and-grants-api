@@ -1,0 +1,27 @@
+{
+  "id": 72470,
+  "registrationNumber": "CC58863",
+  "name": "Menzshed Omokoroa Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://menzshedomokoroa.org/",
+  "email": "secretary@menzshedomokoroa.org",
+  "address": {
+    "line1": "7 Prole Road",
+    "line2": "RD 2",
+    "suburb": "Ōmokoroa",
+    "city": "Tauranga",
+    "postcode": "3172"
+  },
+  "nzbn": "9429049107135",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T04:41:16Z"
+}

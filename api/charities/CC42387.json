@@ -1,0 +1,27 @@
+{
+  "id": 50783,
+  "registrationNumber": "CC42387",
+  "name": "Springston Netball",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.sporty.co.nz/springstonnetballclub",
+  "email": "Laurajmc7@hotmail.com",
+  "address": {
+    "line1": "157 Goodericks Road",
+    "line2": "RD 4",
+    "suburb": "Lincoln",
+    "city": "Christchurch",
+    "postcode": "7674"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Springston Netball Club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-12T20:11:44Z"
+}

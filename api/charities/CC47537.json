@@ -1,0 +1,27 @@
+{
+  "id": 37956,
+  "registrationNumber": "CC47537",
+  "name": "Transformation Academy Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mac.andrae@transformationacademy.ac.nz",
+  "address": {
+    "line1": "88 College Road",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429043148349",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-12T20:11:57Z"
+}

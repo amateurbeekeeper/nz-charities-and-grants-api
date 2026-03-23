@@ -1,0 +1,27 @@
+{
+  "id": 54715,
+  "registrationNumber": "CC21780",
+  "name": "Poly-Emp Employment & Advisory Service",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://polyemp.org.nz",
+  "email": "mreilly@unitec.ac.nz",
+  "address": {
+    "line1": "Unitec, Carrington road ",
+    "line2": "Building 113 room 3004",
+    "suburb": "Point Chevalier",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042811329",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PolyEmpEmploymentAdvisoryService/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T23:48:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35610,
+  "registrationNumber": "CC44637",
+  "name": "The Gynaecological Cancer Research Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-07-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "peter.sykes@otago.ac.nz",
+  "address": {
+    "line1": "Christchurch Hospital",
+    "line2": "2 Riccarton Avenue",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043195169",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T03:31:41Z"
+}

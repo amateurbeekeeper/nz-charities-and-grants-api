@@ -1,0 +1,27 @@
+{
+  "id": 43459,
+  "registrationNumber": "CC30782",
+  "name": "Korokoro Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-11T00:00:00Z",
+  "website": null,
+  "email": "korokoro@playcentre.org.nz",
+  "address": {
+    "line1": "38 Singers Road",
+    "line2": " ",
+    "suburb": "Korokoro",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T07:24:16Z"
+}

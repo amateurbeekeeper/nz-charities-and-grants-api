@@ -1,0 +1,27 @@
+{
+  "id": 57088,
+  "registrationNumber": "CC25547",
+  "name": "The St Margarets College Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stmargarets.school.nz",
+  "email": "finance@stmargarets.school.nz",
+  "address": {
+    "line1": "12 Winchester Street",
+    "line2": " ",
+    "suburb": "Merivale",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429042847984",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/stmargaretsnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-07T20:08:23Z"
+}

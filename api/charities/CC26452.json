@@ -1,0 +1,27 @@
+{
+  "id": 41511,
+  "registrationNumber": "CC26452",
+  "name": "Royal New Zealand Coastguard Boating Education Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.boatingeducation.org.nz",
+  "email": "philip.harkness@coastguard.nz",
+  "address": {
+    "line1": "165-167 Westhaven Drive",
+    "line2": " ",
+    "suburb": "Westhaven",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429038553325",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T22:40:49Z"
+}

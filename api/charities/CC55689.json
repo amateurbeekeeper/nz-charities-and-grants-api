@@ -1,0 +1,27 @@
+{
+  "id": 69342,
+  "registrationNumber": "CC55689",
+  "name": "Christchurch EnviroHub Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://chchenvirohub.org",
+  "email": "benalder@chchenvirohub.org",
+  "address": {
+    "line1": "180 Avonside Drive",
+    "line2": " ",
+    "suburb": "Avonside",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429046625007",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/christchurchenvirohub/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T20:46:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35126,
+  "registrationNumber": "CC49880",
+  "name": "Auckland Lodge of the Rosicrucian Order AMORC Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-10-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.amorc.org.au",
+  "email": "nzgc@amorc.org.au",
+  "address": {
+    "line1": "1 Coleridge Street",
+    "line2": "Grey Lynn",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429042588535",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/amorcstudents/?ref=page_internal",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T04:35:26Z"
+}

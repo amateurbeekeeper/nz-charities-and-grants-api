@@ -1,0 +1,27 @@
+{
+  "id": 48543,
+  "registrationNumber": "CC33238",
+  "name": "Canterbury Film Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.canterburyfilmsociety.org.nz",
+  "email": "treasurer@canterburyfilmsociety.org.nz",
+  "address": {
+    "line1": "79A Cashmere Road",
+    "line2": " ",
+    "suburb": "Cashmere",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429042605454",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CanterburyFilmSociety",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T03:19:17Z"
+}

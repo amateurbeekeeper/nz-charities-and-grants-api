@@ -1,0 +1,27 @@
+{
+  "id": 45027,
+  "registrationNumber": "CC38635",
+  "name": "Grants Braes School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.grantsbraes.school.nz",
+  "email": "pta@grantsbraes.school.nz",
+  "address": {
+    "line1": "Grants Braes School",
+    "line2": "137 Belford Street",
+    "suburb": "Waverley",
+    "city": "Dunedin",
+    "postcode": "9013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T01:03:46Z"
+}

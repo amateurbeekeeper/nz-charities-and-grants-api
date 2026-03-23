@@ -1,0 +1,27 @@
+{
+  "id": 68915,
+  "registrationNumber": "CC55261",
+  "name": "New Zealand Piping Centre Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nzpipingcentre.org.nz/",
+  "email": "iain@iainblakeley.nz",
+  "address": {
+    "line1": "93 Seaward Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Edendale",
+    "postcode": "9825"
+  },
+  "nzbn": "9429046890207",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61573786992179",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-26T21:30:07Z"
+}

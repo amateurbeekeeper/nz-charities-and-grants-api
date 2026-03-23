@@ -1,0 +1,27 @@
+{
+  "id": 42341,
+  "registrationNumber": "CC25923",
+  "name": "Basketball Development Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzbdt.co.nz/",
+  "email": "bryce.abernethy@nzbreakers.co.nz",
+  "address": {
+    "line1": "7 Atlas Place",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429043112593",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T03:30:03Z"
+}

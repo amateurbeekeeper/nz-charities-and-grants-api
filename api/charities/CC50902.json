@@ -1,0 +1,27 @@
+{
+  "id": 34393,
+  "registrationNumber": "CC50902",
+  "name": "Tumeke Cycle Space Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-08-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tumekecyclespace.org.nz",
+  "email": "hello@tumekecyclespace.org.nz",
+  "address": {
+    "line1": "5 Cabbage Tree Swamp Drive",
+    "line2": " ",
+    "suburb": "Sandringham",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429043226467",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TumekeCycleSpace/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:41Z"
+}

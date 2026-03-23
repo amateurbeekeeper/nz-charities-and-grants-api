@@ -1,0 +1,27 @@
+{
+  "id": 43503,
+  "registrationNumber": "CC31961",
+  "name": "Mokoreta Community First Response",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "brooke@noremac.co.nz",
+  "address": {
+    "line1": "318 Wyndham Station Road",
+    "line2": "RD 2",
+    "suburb": "Mokoreta",
+    "city": "Wyndham",
+    "postcode": "9892"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-25T21:09:24Z"
+}

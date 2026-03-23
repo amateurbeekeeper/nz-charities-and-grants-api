@@ -1,0 +1,27 @@
+{
+  "id": 73500,
+  "registrationNumber": "CC59800",
+  "name": "Popcorn Church Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dennis@shuttleworthca.nz",
+  "address": {
+    "line1": "183 Browns Bay Road",
+    "line2": " ",
+    "suburb": "Browns Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cassius.popcornchurch.3",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T02:20:25Z"
+}

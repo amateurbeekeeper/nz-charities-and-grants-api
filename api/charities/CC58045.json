@@ -1,0 +1,27 @@
+{
+  "id": 71668,
+  "registrationNumber": "CC58045",
+  "name": "Ping An Gong Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-08-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "martina.trustee@gmail.com",
+  "address": {
+    "line1": "PO Box 9094",
+    "line2": "Tower Junction",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8149"
+  },
+  "nzbn": "9429048533751",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T19:31:32Z"
+}

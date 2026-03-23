@@ -1,0 +1,27 @@
+{
+  "id": 75002,
+  "registrationNumber": "CC61429",
+  "name": "Crooked Vege",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-04-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://crookedvege.co.nz",
+  "email": "jonathan.pmines@gmail.com",
+  "address": {
+    "line1": "202 Waitohu Valley Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Otaki",
+    "postcode": "5583"
+  },
+  "nzbn": "9429051169930",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T19:13:30Z"
+}

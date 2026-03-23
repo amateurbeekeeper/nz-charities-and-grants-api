@@ -1,0 +1,27 @@
+{
+  "id": 45455,
+  "registrationNumber": "CC34927",
+  "name": "Hauraki Primary Health Organisation (PHO) Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.haurakipho.org.nz",
+  "email": "maringi.moanaroa@haurakipho.org.nz",
+  "address": {
+    "line1": "106 Sealey Street",
+    "line2": "Thames 3500",
+    "suburb": " ",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429045191459",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Hauraki Primary Health Organisation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T01:10:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42208,
+  "registrationNumber": "CC28329",
+  "name": "ORHT Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "shaun.mcnamara@findex.co.nz",
+  "address": {
+    "line1": "44 York Place",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429037099961",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-21T00:50:17Z"
+}

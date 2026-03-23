@@ -1,0 +1,27 @@
+{
+  "id": 67481,
+  "registrationNumber": "CC53772",
+  "name": "Wellington Rabbit Rescue",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-09-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wellingtonrabbitrescue.org",
+  "email": "info@wellingtonrabbitrescue.org",
+  "address": {
+    "line1": "65B Roseneath Terrace",
+    "line2": " ",
+    "suburb": "Roseneath",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/wellingtonrabbitrescue",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T22:28:37Z"
+}

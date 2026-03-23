@@ -1,0 +1,27 @@
+{
+  "id": 64691,
+  "registrationNumber": "CC42896",
+  "name": "Starfish Social Services Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-11-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.starfishservices.org.nz",
+  "email": "jo@starfishservices.org.nz",
+  "address": {
+    "line1": "79 Firth Street",
+    "line2": "Matamata 3400",
+    "suburb": " ",
+    "city": "Matamata",
+    "postcode": "3400"
+  },
+  "nzbn": "9429043204236",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Starfish Social Services",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T18:13:15Z"
+}

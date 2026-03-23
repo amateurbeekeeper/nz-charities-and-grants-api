@@ -1,0 +1,27 @@
+{
+  "id": 52202,
+  "registrationNumber": "CC10939",
+  "name": "Age Concern New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ageconcern.org.nz",
+  "email": "sally.wilkinson@ageconcern.org.nz",
+  "address": {
+    "line1": "Level 1, Sharp House",
+    "line2": "79 Taranaki St",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043274987",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AgeConcernNewZealand/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T20:44:26Z"
+}

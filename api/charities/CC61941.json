@@ -1,0 +1,27 @@
+{
+  "id": 75494,
+  "registrationNumber": "CC61941",
+  "name": "Rarangi Menz Shed",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rarangimenzshed@gmail.com",
+  "address": {
+    "line1": "71 Pipitea Drive",
+    "line2": "RD 3",
+    "suburb": "Rārangi",
+    "city": "Blenheim",
+    "postcode": "7273"
+  },
+  "nzbn": "9429051956172",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RarangiMenzShed",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-18T20:23:54Z"
+}

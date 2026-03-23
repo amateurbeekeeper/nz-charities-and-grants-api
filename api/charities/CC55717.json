@@ -1,0 +1,27 @@
+{
+  "id": 69366,
+  "registrationNumber": "CC55717",
+  "name": "27Seconds Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.27seconds.co.nz",
+  "email": "alanna@27seconds.co.nz",
+  "address": {
+    "line1": "Flat 8",
+    "line2": "34 Spencer Street",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429046309174",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:41:45Z"
+}

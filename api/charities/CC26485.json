@@ -1,0 +1,27 @@
+{
+  "id": 51252,
+  "registrationNumber": "CC26485",
+  "name": "Pinehaven Progressive Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ppa.org.nz",
+  "email": "treasurer@ppa.org.nz",
+  "address": {
+    "line1": "5A Forest Road",
+    "line2": " ",
+    "suburb": "Pinehaven",
+    "city": "Upper Hutt",
+    "postcode": "5142"
+  },
+  "nzbn": "9429042806691",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pinehaven.progressive.association/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T19:37:18Z"
+}

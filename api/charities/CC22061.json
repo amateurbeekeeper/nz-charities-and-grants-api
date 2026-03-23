@@ -1,0 +1,27 @@
+{
+  "id": 38937,
+  "registrationNumber": "CC22061",
+  "name": "Kawau Emergency Response Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bruce@kawau.nz",
+  "address": {
+    "line1": "Private Bag 916",
+    "line2": "Victoria Street West",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1142"
+  },
+  "nzbn": "9429043034604",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T00:32:10Z"
+}

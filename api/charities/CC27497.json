@@ -1,0 +1,27 @@
+{
+  "id": 58955,
+  "registrationNumber": "CC27497",
+  "name": "The Otago Kidney Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "karen@oks.nz",
+  "address": {
+    "line1": "11 Harcourt Street",
+    "line2": " ",
+    "suburb": "Belleknowes",
+    "city": "Dunedin",
+    "postcode": "9011"
+  },
+  "nzbn": "9429042873808",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/OtagoKidneySociety/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T03:06:36Z"
+}

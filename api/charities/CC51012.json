@@ -1,0 +1,27 @@
+{
+  "id": 65182,
+  "registrationNumber": "CC51012",
+  "name": "New Zealand Book Awards Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-09-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzbookawards.nz",
+  "email": "manager@nzbookawards.org.nz",
+  "address": {
+    "line1": "Level 6 Como Towers",
+    "line2": "19 Como Street",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0740"
+  },
+  "nzbn": "9429043240937",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T01:19:19Z"
+}

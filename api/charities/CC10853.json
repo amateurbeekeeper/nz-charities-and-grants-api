@@ -1,0 +1,27 @@
+{
+  "id": 51862,
+  "registrationNumber": "CC10853",
+  "name": "Wanaka Search and Rescue Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wanakasar.org.nz",
+  "email": "wsar.treasurer@gmail.com",
+  "address": {
+    "line1": "9 Ballantyne Road",
+    "line2": "Wanaka 9305",
+    "suburb": " ",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429043039524",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T20:09:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52630,
+  "registrationNumber": "CC11088",
+  "name": "The Dutch Connection",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.oranjehof.org.nz",
+  "email": "bk2rockconsulting@gmail.com",
+  "address": {
+    "line1": "92 Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Foxton",
+    "postcode": "4814"
+  },
+  "nzbn": "9429043058662",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T01:12:18Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 61277,
+  "registrationNumber": "CC38698",
+  "name": "Hutt Union and Community Health Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://huchs.org.nz",
+  "email": "dina@huchs.org.nz",
+  "address": {
+    "line1": "51 Farmer Crescent",
+    "line2": "51 Farmer Crescent",
+    "suburb": "Taitā",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429042671091",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Huchs  Pomare Petone-Taita",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T02:45:38Z"
+}

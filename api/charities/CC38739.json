@@ -1,0 +1,27 @@
+{
+  "id": 47175,
+  "registrationNumber": "CC38739",
+  "name": "Hunua School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-03-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hunua.school.nz",
+  "email": "traceyhunuapta@gmail.com",
+  "address": {
+    "line1": "Lockwood Road",
+    "line2": "R D 3",
+    "suburb": "Papakura",
+    "city": "Auckland",
+    "postcode": "2583"
+  },
+  "nzbn": "9429053072801",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T02:21:46Z"
+}

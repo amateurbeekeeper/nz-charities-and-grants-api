@@ -1,0 +1,27 @@
+{
+  "id": 34122,
+  "registrationNumber": "CC50601",
+  "name": "Earth Action Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-06-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.earthactiontrust.org.nz",
+  "email": "a.granada@earthactiontrust.org.nz",
+  "address": {
+    "line1": "Flat 10",
+    "line2": "44 Pilkington Road",
+    "suburb": "Panmure",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429043318094",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/earthactiontrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T22:27:47Z"
+}

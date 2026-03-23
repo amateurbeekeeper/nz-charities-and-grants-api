@@ -1,0 +1,27 @@
+{
+  "id": 67282,
+  "registrationNumber": "CC52248",
+  "name": "Te Kuiti Development Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-08-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tekuiti.org.nz",
+  "email": "philandjanene@gmail.com",
+  "address": {
+    "line1": "PO Box 137",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Kuiti",
+    "postcode": "3941"
+  },
+  "nzbn": "9429043226498",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tekuitilegends/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T18:21:28Z"
+}

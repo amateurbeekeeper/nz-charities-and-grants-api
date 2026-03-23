@@ -1,0 +1,27 @@
+{
+  "id": 54117,
+  "registrationNumber": "CC20982",
+  "name": "Maungaraki Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mbc.org.nz",
+  "email": "mbc4church@gmail.com",
+  "address": {
+    "line1": "164 Dowse Drive",
+    "line2": " ",
+    "suburb": "Maungaraki",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T20:13:45Z"
+}

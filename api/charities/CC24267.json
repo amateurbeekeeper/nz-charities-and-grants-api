@@ -1,0 +1,27 @@
+{
+  "id": 41055,
+  "registrationNumber": "CC24267",
+  "name": "Mangere East Family Service Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mefsc.org.nz",
+  "email": "carole@mefsc.org.nz",
+  "address": {
+    "line1": "16-18 Ferguson Street",
+    "line2": " ",
+    "suburb": "Mangere East",
+    "city": "Auckland",
+    "postcode": "2024"
+  },
+  "nzbn": "9429042755951",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@MEFSC",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T01:05:17Z"
+}

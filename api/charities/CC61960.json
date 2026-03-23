@@ -1,0 +1,27 @@
+{
+  "id": 75510,
+  "registrationNumber": "CC61960",
+  "name": "Venture Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ventureco.org.nz",
+  "email": "nick@ventureco.org.nz",
+  "address": {
+    "line1": "30 Meiklejohn Way",
+    "line2": "RD 6",
+    "suburb": "Omaha",
+    "city": "Warkworth",
+    "postcode": "0986"
+  },
+  "nzbn": "9429051498443",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T02:33:00Z"
+}

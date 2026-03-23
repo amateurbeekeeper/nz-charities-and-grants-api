@@ -1,0 +1,27 @@
+{
+  "id": 74817,
+  "registrationNumber": "CC61233",
+  "name": "New Zealand Improvisation Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://improvfest.nz",
+  "email": "jen@improvfest.nz",
+  "address": {
+    "line1": "99 Akaroa Drive",
+    "line2": " ",
+    "suburb": "Maupuia",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429043278664",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://facebook.com/improvfestnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-18T07:39:01Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75360,
+  "registrationNumber": "CC61804",
+  "name": "The Flood Movement ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thefloodmovement.com",
+  "email": "accounts@thefloodmovement.com",
+  "address": {
+    "line1": "101 Hardy Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429051560812",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thefloodmovement/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T18:16:53Z"
+}

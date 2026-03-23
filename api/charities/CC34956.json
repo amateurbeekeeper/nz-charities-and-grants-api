@@ -1,0 +1,27 @@
+{
+  "id": 45580,
+  "registrationNumber": "CC34956",
+  "name": "Hillcrest High School Community Child Care Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hillcrestchildcare.net/",
+  "email": "manager@hhcentre.co.nz",
+  "address": {
+    "line1": "Carrington Avenue (opposite Vesty Avenue)",
+    "line2": " ",
+    "suburb": "Hillcrest",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429042962274",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HillcrestChildcare/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T20:45:00Z"
+}

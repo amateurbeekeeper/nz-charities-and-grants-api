@@ -1,0 +1,27 @@
+{
+  "id": 34705,
+  "registrationNumber": "CC51152",
+  "name": "Dunedin City Jazz Orchestra Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-12-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dunedincjo@gmail.com",
+  "address": {
+    "line1": "81 Spottiswoode Street",
+    "line2": " ",
+    "suburb": "Tainui",
+    "city": "Dunedin",
+    "postcode": "9013"
+  },
+  "nzbn": "9429043288694",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DunedinCityJazzOrchestra/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-27T23:39:17Z"
+}

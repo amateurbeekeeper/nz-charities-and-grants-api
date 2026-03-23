@@ -1,0 +1,27 @@
+{
+  "id": 73373,
+  "registrationNumber": "CC59736",
+  "name": "KiwiOra Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kiwiora.org.nz",
+  "email": "pinkiebiee@gmail.com",
+  "address": {
+    "line1": "1 Elliot Street",
+    "line2": "Papakura 2110",
+    "suburb": "One Tree Hill",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": "9429050771783",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kiwioracommunitytrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-05T00:01:35Z"
+}

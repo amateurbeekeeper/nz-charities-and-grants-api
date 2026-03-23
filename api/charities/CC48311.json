@@ -1,0 +1,27 @@
+{
+  "id": 37721,
+  "registrationNumber": "CC48311",
+  "name": "Bowls Southland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bowlssouthland.co.nz",
+  "email": "office@bowlssouthland.co.nz",
+  "address": {
+    "line1": "148 Bowmont Street",
+    "line2": " ",
+    "suburb": "Appleby",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": "9429042595526",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Bowls Southland ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T20:13:26Z"
+}

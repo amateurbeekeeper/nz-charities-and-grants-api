@@ -1,0 +1,27 @@
+{
+  "id": 39081,
+  "registrationNumber": "CC28736",
+  "name": "Heritage Roses New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.heritageroses.org.nz",
+  "email": "graemeheritagerosesnz@gmail.com",
+  "address": {
+    "line1": "31 Bullock Drive",
+    "line2": " ",
+    "suburb": "Springvale",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429042636519",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Heritage Roses New Zealand Inc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:38:32Z"
+}

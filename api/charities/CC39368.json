@@ -1,0 +1,27 @@
+{
+  "id": 42643,
+  "registrationNumber": "CC39368",
+  "name": "Environment Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.environmentfoundation.org.nz",
+  "email": "manager@environmentfoundation.org.nz",
+  "address": {
+    "line1": "67 Howard Road",
+    "line2": "RD 5",
+    "suburb": "Orere Point",
+    "city": "Papakura",
+    "postcode": "2585"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-18T00:48:42Z"
+}

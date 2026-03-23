@@ -1,0 +1,27 @@
+{
+  "id": 37367,
+  "registrationNumber": "CC46866",
+  "name": "Nazareth Care Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "d.cotter@nazarethcare.com",
+  "address": {
+    "line1": "205 Milton Street",
+    "line2": null,
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429043234011",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T03:27:51Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73827,
+  "registrationNumber": "CC60237",
+  "name": "Ko Wai Au Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kowaiau.co.nz",
+  "email": "georgina.c@kowaiau.co.nz",
+  "address": {
+    "line1": "15 Albert Park Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Awamutu",
+    "postcode": "3800"
+  },
+  "nzbn": "9429050233823",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kowaiautrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:10:04Z"
+}

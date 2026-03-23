@@ -1,0 +1,27 @@
+{
+  "id": 62375,
+  "registrationNumber": "CC35992",
+  "name": "Pleasant Point Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-19T00:00:00Z",
+  "website": null,
+  "email": "pleasantpoint@playcentre.org.nz",
+  "address": {
+    "line1": "8 Harris Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pleasant Point",
+    "postcode": "7903"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pleasantpointplaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T02:36:59Z"
+}

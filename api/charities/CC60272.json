@@ -1,0 +1,27 @@
+{
+  "id": 73863,
+  "registrationNumber": "CC60272",
+  "name": "Ka Uruora Aotearoa Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://kauruora.nz/contact/",
+  "email": "eseebeck@vbw.co.nz",
+  "address": {
+    "line1": "37 Vivian Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kauruora",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:30:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65403,
+  "registrationNumber": "CC51643",
+  "name": "Tamaki Makaurau Maori Hockey Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sporty.co.nz/tamakimakaurauhockey",
+  "email": "hurunuimikaya@icloud.com",
+  "address": {
+    "line1": "33-39 Beresford Street",
+    "line2": " ",
+    "suburb": "Pukekohe",
+    "city": "Auckland",
+    "postcode": "2120"
+  },
+  "nzbn": "9429043274857",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "tamaki makaurau haupoi maori",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T07:14:18Z"
+}

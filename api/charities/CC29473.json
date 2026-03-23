@@ -1,0 +1,27 @@
+{
+  "id": 61123,
+  "registrationNumber": "CC29473",
+  "name": "NZIC Chemical Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nzic.org.nz/",
+  "email": "nzic.office@gmail.com",
+  "address": {
+    "line1": "45 Bengal Drive",
+    "line2": " ",
+    "suburb": "Cashmere",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429043169511",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZInstituteofChemistry",
+    "twitter": "https://twitter.com/_NZIC"
+  },
+  "lastUpdated": "2025-05-18T23:12:16Z"
+}

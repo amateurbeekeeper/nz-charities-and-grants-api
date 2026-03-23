@@ -1,0 +1,27 @@
+{
+  "id": 54201,
+  "registrationNumber": "CC21190",
+  "name": "Bluff Seafarers' Centre Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-02-16T00:00:00Z",
+  "dateDeregistered": "2025-08-01T00:00:00Z",
+  "website": "http://www.iss.org.nz/bluff/",
+  "email": "issnz@iss.org.nz",
+  "address": {
+    "line1": "251 Foreshore Road",
+    "line2": "Island Harbour 9814",
+    "suburb": " ",
+    "city": "Island Harbour",
+    "postcode": "9814"
+  },
+  "nzbn": "9429042598312",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-11T07:10:58Z"
+}

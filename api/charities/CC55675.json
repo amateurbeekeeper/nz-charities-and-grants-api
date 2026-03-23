@@ -1,0 +1,27 @@
+{
+  "id": 69326,
+  "registrationNumber": "CC55675",
+  "name": "Christchurch Vegan Society Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://veganchristchurch.org.nz",
+  "email": "info@veganchristchurch.org.nz",
+  "address": {
+    "line1": "4 Ash Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429046722539",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/VeganChristchurch/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T18:08:17Z"
+}

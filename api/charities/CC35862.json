@@ -1,0 +1,27 @@
+{
+  "id": 39615,
+  "registrationNumber": "CC35862",
+  "name": "Surf Aid International Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.surfaid.org",
+  "email": "compliance@surfaid.org",
+  "address": {
+    "line1": "1D Beach Street",
+    "line2": " ",
+    "suburb": "Fitzroy",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429042961666",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/surfaid/",
+    "twitter": "@surfaid"
+  },
+  "lastUpdated": "2026-01-21T04:07:23Z"
+}

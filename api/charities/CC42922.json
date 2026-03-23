@@ -1,0 +1,27 @@
+{
+  "id": 56793,
+  "registrationNumber": "CC42922",
+  "name": "The Council for International Development Incorporated of Aotearoa/New Zealand/Te Kaunihera mo te Whakapakari Ao Whanui o Aotearoa",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cid.org.nz",
+  "email": "todd.cleaver@cid.org.nz",
+  "address": {
+    "line1": "Floor 5",
+    "line2": "108 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042663676",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CouncilforInternationalDevelopment/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:11:55Z"
+}

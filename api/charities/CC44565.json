@@ -1,0 +1,27 @@
+{
+  "id": 50662,
+  "registrationNumber": "CC44565",
+  "name": "Green Street Early Learning Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.greenst.co.nz",
+  "email": "greenstreet@greenst.co.nz",
+  "address": {
+    "line1": "11 Green Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mosgiel",
+    "postcode": "9024"
+  },
+  "nzbn": "9429042988274",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Green Street Early Learning Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-13T20:05:15Z"
+}

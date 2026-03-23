@@ -1,0 +1,27 @@
+{
+  "id": 40877,
+  "registrationNumber": "CC24228",
+  "name": "One Tree Hill Kindergarten Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.onetreehillkindy.org.nz",
+  "email": "admin@othkindy.co.nz",
+  "address": {
+    "line1": "21 Massey Avenue",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042774372",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T01:18:01Z"
+}

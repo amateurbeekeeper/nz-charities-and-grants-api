@@ -1,0 +1,27 @@
+{
+  "id": 43693,
+  "registrationNumber": "CC32784",
+  "name": "Spencer Park Surf Life Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.spencerparkslsc.org.nz",
+  "email": "treasurer@spencerparkslsc.org.nz",
+  "address": {
+    "line1": "Surf Club Building",
+    "line2": "Heyders Road",
+    "suburb": "Spencerville",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429042726289",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T01:30:33Z"
+}

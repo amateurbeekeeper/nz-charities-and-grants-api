@@ -1,0 +1,27 @@
+{
+  "id": 67793,
+  "registrationNumber": "CC54105",
+  "name": "Tremains Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "blair@gifforddevine.co.nz",
+  "address": {
+    "line1": "Level 1, 6 Albion Street",
+    "line2": " ",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4140"
+  },
+  "nzbn": "9429043311637",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/TremainsCommunityTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:41:35Z"
+}

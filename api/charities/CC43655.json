@@ -1,0 +1,27 @@
+{
+  "id": 42724,
+  "registrationNumber": "CC43655",
+  "name": "The Otago Bridge Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://otagobridgeclub.org.nz",
+  "email": "office@otagobridgeclub.org.nz",
+  "address": {
+    "line1": "100 Otaki Street",
+    "line2": " ",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042873631",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:41:21Z"
+}

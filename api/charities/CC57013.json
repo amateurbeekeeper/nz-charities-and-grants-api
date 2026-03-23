@@ -1,0 +1,27 @@
+{
+  "id": 70641,
+  "registrationNumber": "CC57013",
+  "name": "New Zealand Society for Surgery of the Hand Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nzoa.org.nz",
+  "email": "louise@nzoa.org.nz",
+  "address": {
+    "line1": "39 The Terrace",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T18:22:44Z"
+}

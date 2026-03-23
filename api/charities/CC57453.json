@@ -1,0 +1,27 @@
+{
+  "id": 71087,
+  "registrationNumber": "CC57453",
+  "name": "New Settlers Family and Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nfact.co.nz",
+  "email": "shalini@nfact.co.nz",
+  "address": {
+    "line1": "Yarnton House",
+    "line2": "14 Erson Avenue",
+    "suburb": "Royal Oak",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429047397552",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NFACTNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-31T01:07:44Z"
+}

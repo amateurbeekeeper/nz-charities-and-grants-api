@@ -1,0 +1,27 @@
+{
+  "id": 70806,
+  "registrationNumber": "CC57181",
+  "name": "Auckland Beekeepers Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aucklandbeekeepersclub.org.nz",
+  "email": "treasurer@aucklandbeekeepersclub.org.nz",
+  "address": {
+    "line1": "5 Cabbage Tree Swamp Drive",
+    "line2": " ",
+    "suburb": "Sandringham",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042584797",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Auckland-Beekeepers-Club-282063048530763/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-10T01:19:49Z"
+}

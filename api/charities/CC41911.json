@@ -1,0 +1,27 @@
+{
+  "id": 50824,
+  "registrationNumber": "CC41911",
+  "name": "The Kawakawa Bay-Orere Health Clinic Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-08-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurer@healthclinic.org.nz",
+  "address": {
+    "line1": "22 Kawakawa-Orere Road",
+    "line2": "Kawakawa Bay 2585",
+    "suburb": " ",
+    "city": "Kawakawa Bay",
+    "postcode": "2585"
+  },
+  "nzbn": "9429042777656",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Kawakawa Bay Orere Health Clinic Inc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:38:43Z"
+}

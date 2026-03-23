@@ -1,0 +1,27 @@
+{
+  "id": 71461,
+  "registrationNumber": "CC57834",
+  "name": "Blue Cradle Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.bluecradle.org",
+  "email": "james@bluecradle.org",
+  "address": {
+    "line1": "15 Westholme Street",
+    "line2": " ",
+    "suburb": "Strowan",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429048308519",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "bluecradleNZ",
+    "twitter": "blue_cradle"
+  },
+  "lastUpdated": "2025-11-25T18:45:45Z"
+}

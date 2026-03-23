@@ -1,0 +1,27 @@
+{
+  "id": 74502,
+  "registrationNumber": "CC60920",
+  "name": "No. 3 Roskill Theatre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-01-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@number3.co.nz",
+  "address": {
+    "line1": "1234 Dominion Road",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429048769082",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/no3roskill/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T01:07:28Z"
+}

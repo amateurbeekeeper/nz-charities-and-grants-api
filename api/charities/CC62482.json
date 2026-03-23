@@ -1,0 +1,27 @@
+{
+  "id": 76026,
+  "registrationNumber": "CC62482",
+  "name": "Papamoa Food Hub Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.papfoodhub.org.nz",
+  "email": "admin@papfoodhub.org.nz",
+  "address": {
+    "line1": "42 Piata Street",
+    "line2": "Papamoa 3118",
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/papamoafoodhub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T19:27:24Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51796,
+  "registrationNumber": "CC10637",
+  "name": "McCahon House Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mccahonhouse.org.nz",
+  "email": "mccahon@mccahonhouse.org.nz",
+  "address": {
+    "line1": "LEVEL 1 LOPDELL HOUSE",
+    "line2": "418 Titirangi Road",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429043087822",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/mccahonhouse",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:01:38Z"
+}

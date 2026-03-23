@@ -1,0 +1,27 @@
+{
+  "id": 44436,
+  "registrationNumber": "CC33419",
+  "name": "Sherwood PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta@sherwoodprimary.school.nz",
+  "address": {
+    "line1": "Sherwood Primary School",
+    "line2": "40 Sartors Avenue",
+    "suburb": "Northcross",
+    "city": "Auckland",
+    "postcode": "630"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-31T21:32:46Z"
+}

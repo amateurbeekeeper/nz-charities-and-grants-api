@@ -1,0 +1,27 @@
+{
+  "id": 66585,
+  "registrationNumber": "CC52857",
+  "name": "Ignite Aotearoa Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-11-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ignite.org.nz/",
+  "email": "john.cook@emergeaotearoa.org.nz",
+  "address": {
+    "line1": "8 Kennedy Place",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429033874104",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/igniteaotearoa/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-17T03:24:41Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41373,
+  "registrationNumber": "CC33094",
+  "name": "The Victoria University of Wellington Debating Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.vicdebsoc.org.nz/",
+  "email": "contact@vicdebsoc.org.nz",
+  "address": {
+    "line1": "Student Union Building, Kelburn Parade",
+    "line2": " ",
+    "suburb": "Kelburn",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043041923",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/vicdebsoc/?fref=ts",
+    "twitter": "https://twitter.com/vicdebsoc"
+  },
+  "lastUpdated": "2025-10-10T00:47:32Z"
+}

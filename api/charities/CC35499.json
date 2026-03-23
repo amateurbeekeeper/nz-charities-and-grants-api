@@ -1,0 +1,27 @@
+{
+  "id": 40857,
+  "registrationNumber": "CC35499",
+  "name": "Lifestyle Futures Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jen@interactionz.org.nz",
+  "address": {
+    "line1": "Unit A2, Level 1",
+    "line2": "1 North City Road",
+    "suburb": "Rototuna North",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429033066806",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T21:31:02Z"
+}

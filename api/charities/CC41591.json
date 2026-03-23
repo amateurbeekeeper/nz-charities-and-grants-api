@@ -1,0 +1,27 @@
+{
+  "id": 60901,
+  "registrationNumber": "CC41591",
+  "name": "Waiotahi Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-07-28T00:00:00Z",
+  "dateDeregistered": "2014-06-15T00:00:00Z",
+  "website": null,
+  "email": "waiotahitrust@gmail.com",
+  "address": {
+    "line1": "200a Mary Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429043117628",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:13:56Z"
+}

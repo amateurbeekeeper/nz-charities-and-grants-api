@@ -1,0 +1,27 @@
+{
+  "id": 51731,
+  "registrationNumber": "CC10455",
+  "name": "SENZ Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-06-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.senz.org.nz",
+  "email": "barrett@senz.org.nz",
+  "address": {
+    "line1": "Level 4",
+    "line2": "520 Queen Street",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043023899",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:12Z"
+}

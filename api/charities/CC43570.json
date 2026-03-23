@@ -1,0 +1,27 @@
+{
+  "id": 62624,
+  "registrationNumber": "CC43570",
+  "name": "Potatoes New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "accounts@potatoesnz.co.nz",
+  "address": {
+    "line1": "Level 4",
+    "line2": "20 Ballance Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043213504",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T18:13:46Z"
+}

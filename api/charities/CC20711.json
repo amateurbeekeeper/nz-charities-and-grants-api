@@ -1,0 +1,27 @@
+{
+  "id": 52360,
+  "registrationNumber": "CC20711",
+  "name": "Care  NZ (Est 1954) Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.carenz.co.nz",
+  "email": "accounts@carenz.co.nz",
+  "address": {
+    "line1": "Ground Level, 138 The Terrace",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429037425753",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T19:28:02Z"
+}

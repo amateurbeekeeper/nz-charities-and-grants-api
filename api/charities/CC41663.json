@@ -1,0 +1,27 @@
+{
+  "id": 63314,
+  "registrationNumber": "CC41663",
+  "name": "Mount Maunganui Primary School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-08-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mtprimary.school.nz",
+  "email": "admin@mtprimary.school.nz",
+  "address": {
+    "line1": "Orkney Road",
+    "line2": " ",
+    "suburb": "Mount Maunganui",
+    "city": "Tauranga",
+    "postcode": "3116"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T18:03:40Z"
+}

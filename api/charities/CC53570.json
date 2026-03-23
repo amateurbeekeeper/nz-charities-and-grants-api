@@ -1,0 +1,27 @@
+{
+  "id": 67279,
+  "registrationNumber": "CC53570",
+  "name": "New Zealand Christians in Science",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nzcis.org",
+  "email": "hoggard.n@gmail.com",
+  "address": {
+    "line1": "41 Oliver Street",
+    "line2": " ",
+    "suburb": "Point Chevalier",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429043304141",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-07T03:52:22Z"
+}

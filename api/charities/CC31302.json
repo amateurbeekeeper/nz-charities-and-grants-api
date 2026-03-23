@@ -1,0 +1,27 @@
+{
+  "id": 59878,
+  "registrationNumber": "CC31302",
+  "name": "Kaiwaka School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kaiwaka.school.nz",
+  "email": "Kaiwakapta@gmail.com",
+  "address": {
+    "line1": "33 Kaiwaka-Mangawhai Road",
+    "line2": "RD 5",
+    "suburb": "Kaiwaka",
+    "city": "Wellsford",
+    "postcode": "0975"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T18:06:19Z"
+}

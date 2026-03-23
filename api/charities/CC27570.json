@@ -1,0 +1,27 @@
+{
+  "id": 59758,
+  "registrationNumber": "CC27570",
+  "name": "Christchurch Cadet Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "christchurchcadetswigram.com",
+  "email": "melwood@xtra.co.nz",
+  "address": {
+    "line1": "43 Corsair Drive",
+    "line2": "Wigram",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": null
+  },
+  "nzbn": "9429042610328",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "CHCH Cadet Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-30T23:44:18Z"
+}

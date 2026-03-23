@@ -1,0 +1,27 @@
+{
+  "id": 56627,
+  "registrationNumber": "CC25986",
+  "name": "Parent Aid Waitakere Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": "2024-10-30T00:00:00Z",
+  "website": "http://parentaidwaitakere.co.nz/",
+  "email": "pawcommittee@xtra.co.nz",
+  "address": {
+    "line1": "197 Universal Drive",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429042801894",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/parentsos",
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-10T22:57:46Z"
+}

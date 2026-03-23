@@ -1,0 +1,27 @@
+{
+  "id": 33207,
+  "registrationNumber": "CC48780",
+  "name": "Te Papapa Early Childhood Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-01-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tepapapapreschool.co.nz",
+  "email": "centre.manager@tpps.school.nz",
+  "address": {
+    "line1": "219 Mount Smart Road",
+    "line2": "219 Mount Smart Road",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043260935",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pg/tepapapapreschool/photos/?tab=album&album_id=572368286226036",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T23:02:14Z"
+}

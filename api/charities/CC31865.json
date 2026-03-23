@@ -1,0 +1,27 @@
+{
+  "id": 55899,
+  "registrationNumber": "CC31865",
+  "name": "Southlife Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "calderss@icloud.com",
+  "address": {
+    "line1": "17 Salford Street",
+    "line2": "RD 1",
+    "suburb": "Orepuki",
+    "city": "Riverton",
+    "postcode": "9881"
+  },
+  "nzbn": "9429042799504",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-10T09:11:51Z"
+}

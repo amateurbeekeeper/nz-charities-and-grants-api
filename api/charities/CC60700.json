@@ -1,0 +1,27 @@
+{
+  "id": 74289,
+  "registrationNumber": "CC60700",
+  "name": "The Elephant Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.elephanttrust.org.nz/",
+  "email": "kieu@elephanttrust.org.nz",
+  "address": {
+    "line1": "19A Woodmancote Road",
+    "line2": " ",
+    "suburb": "Khandallah",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429050803095",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kivabullyingpreventionnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-28T01:22:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64117,
+  "registrationNumber": "CC44141",
+  "name": "Cambridge Safer Community Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.safercambridge.co.nz/",
+  "email": "tim@herbertmorton.co.nz",
+  "address": {
+    "line1": "22 Dick Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": "9429043212156",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:20:32Z"
+}

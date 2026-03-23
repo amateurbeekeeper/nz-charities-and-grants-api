@@ -1,0 +1,27 @@
+{
+  "id": 56291,
+  "registrationNumber": "CC22712",
+  "name": "Jubilate Singers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.jubilate.org.nz",
+  "email": "vivienhicks@gmail.com",
+  "address": {
+    "line1": "4 Semaphore Close",
+    "line2": " ",
+    "suburb": "Mount Pleasant",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": "9429042648048",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheJubilateSingers/",
+    "twitter": "-"
+  },
+  "lastUpdated": "2025-07-12T22:24:53Z"
+}

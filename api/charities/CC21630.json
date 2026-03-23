@@ -1,0 +1,27 @@
+{
+  "id": 55602,
+  "registrationNumber": "CC21630",
+  "name": "Beneficiary Advisory Service ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://bas.org.nz",
+  "email": "officemanager@bas.org.nz",
+  "address": {
+    "line1": "213 Lichfield Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042612001",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@BeneficiaryAdvisoryService",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:34:00Z"
+}

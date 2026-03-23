@@ -1,0 +1,27 @@
+{
+  "id": 73248,
+  "registrationNumber": "CC59647",
+  "name": "Te Rau Hihiri",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.terauhihiri.com",
+  "email": "terauhihiri@gmail.com",
+  "address": {
+    "line1": "48A Erris Street",
+    "line2": " ",
+    "suburb": "Johnsonville",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429049865134",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/terauhihiri",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T18:29:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69205,
+  "registrationNumber": "CC55555",
+  "name": "Tindale Marine Research Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-04-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tindaleresearch.org.nz",
+  "email": "stindale@xtra.co.nz",
+  "address": {
+    "line1": "37 Forge Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Silverdale",
+    "postcode": "0932"
+  },
+  "nzbn": "9429046690418",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tindaleresearch/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-15T20:11:37Z"
+}

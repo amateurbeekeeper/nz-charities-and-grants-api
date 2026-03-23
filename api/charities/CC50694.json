@@ -1,0 +1,27 @@
+{
+  "id": 34102,
+  "registrationNumber": "CC50694",
+  "name": "Mountain Biking North Otago Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://groups.google.com/forum/#!forum/mountain-biking-north-otago",
+  "email": "callanbrash@gmail.com",
+  "address": {
+    "line1": "78 Reservoir Road",
+    "line2": " ",
+    "suburb": "Oamaru North",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429043230280",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Mountain-Biking-North-Otago-170710139660483/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T18:52:12Z"
+}

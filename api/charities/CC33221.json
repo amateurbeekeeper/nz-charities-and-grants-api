@@ -1,0 +1,27 @@
+{
+  "id": 45758,
+  "registrationNumber": "CC33221",
+  "name": "Shoreside Theatre Incorporated ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.shoresidetheatre.com",
+  "email": "chair@shoresidetheatre.com",
+  "address": {
+    "line1": "18 Richards Avenue",
+    "line2": " ",
+    "suburb": "Forrest Hill",
+    "city": "Auckland",
+    "postcode": "620"
+  },
+  "nzbn": "9429043017140",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/shoresidetheatre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T23:17:42Z"
+}

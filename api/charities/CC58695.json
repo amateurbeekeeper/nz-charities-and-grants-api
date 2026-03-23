@@ -1,0 +1,27 @@
+{
+  "id": 72308,
+  "registrationNumber": "CC58695",
+  "name": "Ngāti Maiotaki Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ngatimaiotaki@gmail.com",
+  "address": {
+    "line1": "90 Mill Road",
+    "line2": "Otaki 5512",
+    "suburb": "Ōtaki",
+    "city": "Otaki",
+    "postcode": "5512"
+  },
+  "nzbn": "9429048618618",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ngati Maiotaki Hapu (Closed Group membership)",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T01:53:32Z"
+}

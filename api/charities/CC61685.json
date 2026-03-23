@@ -1,0 +1,27 @@
+{
+  "id": 75252,
+  "registrationNumber": "CC61685",
+  "name": "Together Diverse",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-10-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.togetherdiverse.co.nz",
+  "email": "sheshemax@hotmail.com",
+  "address": {
+    "line1": "9 Hamlet Lane",
+    "line2": " ",
+    "suburb": "Heathcote Valley",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/togetherdiverse",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T23:13:46Z"
+}

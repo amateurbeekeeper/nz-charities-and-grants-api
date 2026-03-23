@@ -1,0 +1,27 @@
+{
+  "id": 52595,
+  "registrationNumber": "CC11079",
+  "name": "Tauranga Moana Hearing Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "tmht.co.nz",
+  "email": "info@tmht.co.nz",
+  "address": {
+    "line1": "PO Box 8354",
+    "line2": "Cherrywood",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3145"
+  },
+  "nzbn": "9429042927310",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T02:47:49Z"
+}

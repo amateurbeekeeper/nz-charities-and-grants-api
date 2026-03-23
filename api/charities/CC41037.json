@@ -1,0 +1,27 @@
+{
+  "id": 45545,
+  "registrationNumber": "CC41037",
+  "name": "Bishopric Of Aotearoa Ki Te Tairawhiti",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tepihopatangaotetairawhiti.co.nz",
+  "email": "bardia@tpoa.nz",
+  "address": {
+    "line1": "34 Cobden Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Pihopatanga o te Tairawhiti",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T23:36:47Z"
+}

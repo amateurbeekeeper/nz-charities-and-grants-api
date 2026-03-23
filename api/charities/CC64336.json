@@ -1,0 +1,27 @@
+{
+  "id": 78516,
+  "registrationNumber": "CC64336",
+  "name": "Te Moana a Toi Iwi Maori Partnership Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "graeme@mackenzie-elvin.com",
+  "address": {
+    "line1": "108 Durham Street",
+    "line2": "Tauranga 3110",
+    "suburb": null,
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T00:20:50Z"
+}

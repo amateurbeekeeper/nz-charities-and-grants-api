@@ -1,0 +1,27 @@
+{
+  "id": 65071,
+  "registrationNumber": "CC29693",
+  "name": "Te Reo Irirangi O Te Manuka Tutahi",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sunfm.co.nz",
+  "email": "keng@goldsmithsca.co.nz",
+  "address": {
+    "line1": "10 Louvain Street",
+    "line2": "Whakatane 3120",
+    "suburb": "Whakatane",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429042826989",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T02:29:30Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50655,
+  "registrationNumber": "CC44554",
+  "name": "Pleasant Valley Playgroup",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pleasantvalleyplaygroup@gmail.com",
+  "address": {
+    "line1": "17 Hewlings Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Geraldine",
+    "postcode": "7930"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pleasantvalleyplaygroup/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T07:04:13Z"
+}

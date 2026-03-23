@@ -1,0 +1,27 @@
+{
+  "id": 43532,
+  "registrationNumber": "CC39505",
+  "name": "Candor",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2012-03-19T00:00:00Z",
+  "website": "http://www.candor.org.nz",
+  "email": "candor@xtra.co.nz",
+  "address": {
+    "line1": "87A Kaitangata Crescent",
+    "line2": null,
+    "suburb": "Kelson",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429043127788",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-06-08T01:40:47Z"
+}

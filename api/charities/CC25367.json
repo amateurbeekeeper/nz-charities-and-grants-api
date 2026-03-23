@@ -1,0 +1,27 @@
+{
+  "id": 57340,
+  "registrationNumber": "CC25367",
+  "name": "Save the Children New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.savethechildren.org.nz",
+  "email": "cara.keogh@scnz.org.nz",
+  "address": {
+    "line1": "Level 7",
+    "line2": "108 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042724414",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/savethechildrennz/",
+    "twitter": "https://twitter.com/SaveChildrenNZ"
+  },
+  "lastUpdated": "2026-02-23T01:42:47Z"
+}

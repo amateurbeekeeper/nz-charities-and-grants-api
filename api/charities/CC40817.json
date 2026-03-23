@@ -1,0 +1,27 @@
+{
+  "id": 42755,
+  "registrationNumber": "CC40817",
+  "name": "Wellington Chamber Music Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.sundayconcerts.org.nz ",
+  "email": "huttondavidnz@gmail.com",
+  "address": {
+    "line1": "33 The Esplanade",
+    "line2": " ",
+    "suburb": "Raumati South",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/WellingtonChamberMusic/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-20T18:21:46Z"
+}

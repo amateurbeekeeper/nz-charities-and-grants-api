@@ -1,0 +1,27 @@
+{
+  "id": 32736,
+  "registrationNumber": "CC48331",
+  "name": "Lightstream International Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stephen@lightstream.org.nz",
+  "address": {
+    "line1": "31 Northside Drive",
+    "line2": "71 Hingaia Road",
+    "suburb": "Westgate",
+    "city": "Auckland",
+    "postcode": "0814"
+  },
+  "nzbn": "9429043303656",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:07:28Z"
+}

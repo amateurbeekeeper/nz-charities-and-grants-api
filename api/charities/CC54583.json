@@ -1,0 +1,27 @@
+{
+  "id": 68254,
+  "registrationNumber": "CC54583",
+  "name": "The Rock Vets Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-06-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://pakurangavets.co.nz/charity-work/niue-spaw/",
+  "email": "sashafarr@hotmail.com",
+  "address": {
+    "line1": "7 Johns Lane",
+    "line2": " ",
+    "suburb": "Pakuranga",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429046034748",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "http://www.facebook.com/TheRockVets/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T19:26:32Z"
+}

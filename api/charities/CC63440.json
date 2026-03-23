@@ -1,0 +1,27 @@
+{
+  "id": 77642,
+  "registrationNumber": "CC63440",
+  "name": "TBC Radio Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-10-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tbc.radio",
+  "email": "kiaora@tbc.radio",
+  "address": {
+    "line1": "68 New North Road",
+    "line2": " ",
+    "suburb": "Eden Terrace",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429052301551",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T22:44:30Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 57567,
+  "registrationNumber": "CC40007",
+  "name": "The New Zealand Organ Preservation Trust Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzopt.org.nz",
+  "email": "sulliv.charles@gmail.com",
+  "address": {
+    "line1": "31 Gloucester Street",
+    "line2": " ",
+    "suburb": "Wilton",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429042870524",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T00:19:08Z"
+}

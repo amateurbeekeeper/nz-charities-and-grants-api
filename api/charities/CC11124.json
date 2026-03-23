@@ -1,0 +1,27 @@
+{
+  "id": 51625,
+  "registrationNumber": "CC11124",
+  "name": "Working Together Group",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wtg.org.nz",
+  "email": "amuh009@gmail.com",
+  "address": {
+    "line1": "80C Queenstown Road",
+    "line2": "RD 2",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043168644",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T21:35:23Z"
+}

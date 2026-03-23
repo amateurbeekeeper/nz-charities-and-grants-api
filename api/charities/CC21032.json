@@ -1,0 +1,27 @@
+{
+  "id": 51155,
+  "registrationNumber": "CC21032",
+  "name": "Youthline Auckland Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.youthline.co.nz",
+  "email": "rochellej@youthline.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "2 Owens Road",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043109975",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Youthline.Changing.Lives/",
+    "twitter": "https://x.com/youthline"
+  },
+  "lastUpdated": "2026-03-03T03:26:01Z"
+}

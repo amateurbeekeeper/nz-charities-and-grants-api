@@ -1,0 +1,27 @@
+{
+  "id": 60678,
+  "registrationNumber": "CC26976",
+  "name": "The Amuri Co-Operating Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "turners@amuri.net",
+  "address": {
+    "line1": "403 Lowry Peaks Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Culverden",
+    "postcode": "7391"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/amuricooperatingparish",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:38:06Z"
+}

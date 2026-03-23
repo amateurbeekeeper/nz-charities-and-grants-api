@@ -1,0 +1,27 @@
+{
+  "id": 66495,
+  "registrationNumber": "CC52765",
+  "name": "Te Rarawa Anga Mua Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-12-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.terarawa.iwi.nz",
+  "email": "nadine@terarawa.co.nz",
+  "address": {
+    "line1": "16 Matthews Avenue",
+    "line2": "Kaitaia 0410",
+    "suburb": " ",
+    "city": "Kaitaia",
+    "postcode": "0410"
+  },
+  "nzbn": "9429043271993",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Rarawa Anga Mua",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:33:37Z"
+}

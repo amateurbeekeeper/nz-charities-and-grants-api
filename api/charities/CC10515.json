@@ -1,0 +1,27 @@
+{
+  "id": 51745,
+  "registrationNumber": "CC10515",
+  "name": "Calvary Hospital Southland Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-06-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "finance@calvaryhospinv.co.nz",
+  "address": {
+    "line1": "215 Centre Street",
+    "line2": " ",
+    "suburb": "Heidelberg",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": "9429036557530",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T22:00:49Z"
+}

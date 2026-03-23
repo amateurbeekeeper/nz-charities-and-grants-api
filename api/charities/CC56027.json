@@ -1,0 +1,27 @@
+{
+  "id": 69677,
+  "registrationNumber": "CC56027",
+  "name": "House of Prayer Church of the Nazarene",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "palemataeli@yahoo.com",
+  "address": {
+    "line1": "205 Preston Road",
+    "line2": " ",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61586249945709",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-28T07:34:16Z"
+}

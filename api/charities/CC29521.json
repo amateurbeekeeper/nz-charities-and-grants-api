@@ -1,0 +1,27 @@
+{
+  "id": 65078,
+  "registrationNumber": "CC29521",
+  "name": "Mission Outreach NZ Trust Board",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzmo.org",
+  "email": "neil@nzmo.org",
+  "address": {
+    "line1": "1064 State Highway 29",
+    "line2": "RD 1",
+    "suburb": "Lower Kaimai",
+    "city": "Tauranga",
+    "postcode": "3171"
+  },
+  "nzbn": "9429042747949",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T01:27:39Z"
+}

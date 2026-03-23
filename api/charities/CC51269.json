@@ -1,0 +1,27 @@
+{
+  "id": 34646,
+  "registrationNumber": "CC51269",
+  "name": "Runanga Miners Hall Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-09-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "eric@runangaminershall.org.nz",
+  "address": {
+    "line1": "56 Pitt Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Runanga",
+    "postcode": "7803"
+  },
+  "nzbn": "9429043277100",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/runangahall",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:39Z"
+}

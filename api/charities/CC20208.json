@@ -1,0 +1,27 @@
+{
+  "id": 53190,
+  "registrationNumber": "CC20208",
+  "name": "The Tasman Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tasmangolfclub.com",
+  "email": "teeup@tasmangolfclub.com",
+  "address": {
+    "line1": "128 Cliff Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Upper Moutere",
+    "postcode": "7173"
+  },
+  "nzbn": "9429042832171",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TasmanGolfClub/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T23:07:27Z"
+}

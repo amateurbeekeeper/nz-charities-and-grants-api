@@ -1,0 +1,27 @@
+{
+  "id": 40459,
+  "registrationNumber": "CC37525",
+  "name": "Auckland District Council of Social Services Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2021-01-01T00:00:00Z",
+  "website": "www.adcoss.org.nz",
+  "email": "l.royden@yahoo.co.nz",
+  "address": {
+    "line1": "35 Stafford Road",
+    "line2": "Wellesley Street",
+    "suburb": "Northcote Point",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429042586562",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/adcoss",
+    "twitter": null
+  },
+  "lastUpdated": "2021-05-26T19:28:37Z"
+}

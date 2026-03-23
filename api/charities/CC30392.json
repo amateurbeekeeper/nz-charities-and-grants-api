@@ -1,0 +1,27 @@
+{
+  "id": 48328,
+  "registrationNumber": "CC30392",
+  "name": "North Canterbury Academy Of Music Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ncam.ac.nz",
+  "email": "enquiry@ncam.ac.nz",
+  "address": {
+    "line1": "Rangiora Town Hall",
+    "line2": "High Street",
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7440"
+  },
+  "nzbn": "9429042692720",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "North Canterbury Academy of Music",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T03:18:30Z"
+}

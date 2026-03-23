@@ -1,0 +1,27 @@
+{
+  "id": 67020,
+  "registrationNumber": "CC53303",
+  "name": "Festival of Life",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2016-03-23T00:00:00Z",
+  "dateDeregistered": "2019-03-13T00:00:00Z",
+  "website": "www.festivaloflife.co.nz",
+  "email": "aaron@festivaloflife.co.nz",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "83 Macleans Road",
+    "suburb": "Bucklands Beach",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-03-12T21:52:39Z"
+}

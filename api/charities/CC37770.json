@@ -1,0 +1,27 @@
+{
+  "id": 46327,
+  "registrationNumber": "CC37770",
+  "name": "Waldorf Schools (Bay of Plenty) Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waldorftga.nz",
+  "email": "finance@waldorftga.nz",
+  "address": {
+    "line1": "R364 Welcome Bay Road",
+    "line2": " ",
+    "suburb": "Welcome Bay",
+    "city": "Tauranga",
+    "postcode": "3175"
+  },
+  "nzbn": "9429042956976",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T02:45:04Z"
+}

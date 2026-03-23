@@ -1,0 +1,27 @@
+{
+  "id": 50942,
+  "registrationNumber": "CC42647",
+  "name": "NZTrio Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-10-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nzrio.com",
+  "email": "edward.scorgie@chapmantripp.com",
+  "address": {
+    "line1": "99 Churchill Road",
+    "line2": " ",
+    "suburb": "Murrays Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429043223176",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T00:52:20Z"
+}

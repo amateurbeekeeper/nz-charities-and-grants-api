@@ -1,0 +1,27 @@
+{
+  "id": 74185,
+  "registrationNumber": "CC60605",
+  "name": "Wellington E2E Centre Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-10-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.e2ecentre.org",
+  "email": "carey@e2ecentre.org",
+  "address": {
+    "line1": "PO Box 24248",
+    "line2": "Manners Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6142"
+  },
+  "nzbn": "9429049295559",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T06:27:55Z"
+}

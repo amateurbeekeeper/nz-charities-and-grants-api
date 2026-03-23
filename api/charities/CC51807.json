@@ -1,0 +1,27 @@
+{
+  "id": 65564,
+  "registrationNumber": "CC51807",
+  "name": "Foxton Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "foxton@playcentre.org.nz",
+  "address": {
+    "line1": "18 Hall Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Foxton",
+    "postcode": "4814"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:05:45Z"
+}

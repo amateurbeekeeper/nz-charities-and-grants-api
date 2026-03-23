@@ -1,0 +1,27 @@
+{
+  "id": 67933,
+  "registrationNumber": "CC54252",
+  "name": "New Zealand Rural Leadership Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-02-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ruralleaders.co.nz",
+  "email": "lisarogers@ruralleaders.co.nz",
+  "address": {
+    "line1": "PO Box 85084",
+    "line2": " ",
+    "suburb": "Lincoln University",
+    "city": "Lincoln",
+    "postcode": "7647"
+  },
+  "nzbn": "9429045969782",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T21:26:28Z"
+}

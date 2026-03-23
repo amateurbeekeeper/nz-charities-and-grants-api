@@ -1,0 +1,27 @@
+{
+  "id": 42288,
+  "registrationNumber": "CC36194",
+  "name": "Papakura Budgeting Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.papakurabudgetingservice.com",
+  "email": "jackie@papakurabudgeting.co.nz",
+  "address": {
+    "line1": "59R Wood Street",
+    "line2": "Papakura 2110",
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": "9429042821236",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/papakurabudgetingservice",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T19:50:16Z"
+}

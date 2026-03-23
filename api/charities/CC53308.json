@@ -1,0 +1,27 @@
+{
+  "id": 67028,
+  "registrationNumber": "CC53308",
+  "name": "Kelston Community Hub Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kelstonhub.org.nz",
+  "email": "sae@kelstonhubinc.onmicrosoft.com",
+  "address": {
+    "line1": "68 St Leonards Road",
+    "line2": " ",
+    "suburb": "Kelston",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": "9429043258017",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=kelston%20community%20hub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-03T09:13:01Z"
+}

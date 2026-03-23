@@ -1,0 +1,27 @@
+{
+  "id": 60102,
+  "registrationNumber": "CC30193",
+  "name": "Opunake Rahotu Veterinary Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ORVTrust@gmail.com",
+  "address": {
+    "line1": "65 Ihaia Road",
+    "line2": " ",
+    "suburb": "Ōpunake",
+    "city": "Opunake",
+    "postcode": "4616"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:50:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42025,
+  "registrationNumber": "CC35310",
+  "name": "Rutland Street Chapel Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rutlandstreet.church.net.nz",
+  "email": "accounts@rsc.net.nz",
+  "address": {
+    "line1": "5 Gosset Street",
+    "line2": " ",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429042800293",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:35:54Z"
+}

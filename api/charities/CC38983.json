@@ -1,0 +1,27 @@
+{
+  "id": 63142,
+  "registrationNumber": "CC38983",
+  "name": "Friends of Mauriceville Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.scandinaviantrail.org.nz",
+  "email": "p.christensen@xtra.co.nz",
+  "address": {
+    "line1": "6 Wycliffe Place",
+    "line2": " ",
+    "suburb": "Solway",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429043094226",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Friends of Mauriceville",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T20:34:11Z"
+}

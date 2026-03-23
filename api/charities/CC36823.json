@@ -1,0 +1,27 @@
+{
+  "id": 44982,
+  "registrationNumber": "CC36823",
+  "name": "Papamoa Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.papamoatoylibrary.co.nz",
+  "email": "paptoylibrary@gmail.com",
+  "address": {
+    "line1": "15 Gravatt Road",
+    "line2": " ",
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": "9429043007011",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PapamoaToyLibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2024-11-05T18:10:45Z"
+}

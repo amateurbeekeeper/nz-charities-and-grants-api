@@ -1,0 +1,27 @@
+{
+  "id": 73567,
+  "registrationNumber": "CC59993",
+  "name": "Papuni Boxing Ōtautahi Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pbot.org.nz",
+  "email": "papuni.boxing@gmail.com",
+  "address": {
+    "line1": "18B Clarence Street South",
+    "line2": " ",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429050059577",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PapuniBoxing",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T06:19:24Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 62714,
+  "registrationNumber": "CC43437",
+  "name": "Southern Cross Hospitals Silverdale Partnership Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://healthcare.southerncross.co.nz/",
+  "email": "healthcaresecretariat@schl.co.nz",
+  "address": {
+    "line1": "Level 14, ANZ Centre",
+    "line2": "23-29 Albert Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429031745659",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-12T03:02:28Z"
+}

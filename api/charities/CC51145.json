@@ -1,0 +1,27 @@
+{
+  "id": 34642,
+  "registrationNumber": "CC51145",
+  "name": "Apostolics of Christchurch",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-11-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.upci.co.nz",
+  "email": "bropete51@gmail.com",
+  "address": {
+    "line1": "Unit 2",
+    "line2": "6 Takapu Place",
+    "suburb": "Bromley",
+    "city": "Christchurch",
+    "postcode": "8062"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/oicapostolicofchristchurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T19:36:15Z"
+}

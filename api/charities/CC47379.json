@@ -1,0 +1,27 @@
+{
+  "id": 37805,
+  "registrationNumber": "CC47379",
+  "name": "Porirua Union & Community Health Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-12-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.poriruaunionhealth.co.nz/",
+  "email": "hiueni@puchs.org.nz",
+  "address": {
+    "line1": "221 Bedford Street",
+    "line2": " ",
+    "suburb": "Cannons Creek",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429042814061",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T01:24:25Z"
+}

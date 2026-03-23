@@ -1,0 +1,27 @@
+{
+  "id": 61539,
+  "registrationNumber": "CC35469",
+  "name": "Estate of Daniel Heenan",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "shelley@solomons.co.nz",
+  "address": {
+    "line1": "Level 3",
+    "line2": "1 Bond Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:05:43Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44024,
+  "registrationNumber": "CC38435",
+  "name": "Deanwell Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-05-13T00:00:00Z",
+  "website": null,
+  "email": "elsairenebrown@gmail.com",
+  "address": {
+    "line1": "Deanwell Avenue",
+    "line2": " ",
+    "suburb": " Deanwell",
+    "city": "Hamilton",
+    "postcode": "3206"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-27T07:10:19Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54400,
+  "registrationNumber": "CC21178",
+  "name": "Ipanema Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gil.hardy50@gmail.com",
+  "address": {
+    "line1": "5 Grahame Street",
+    "line2": " ",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": "9429043173372",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:16:44Z"
+}

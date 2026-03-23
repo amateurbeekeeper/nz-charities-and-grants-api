@@ -1,0 +1,27 @@
+{
+  "id": 42258,
+  "registrationNumber": "CC33496",
+  "name": "Kuaotunu Kindergarten Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kuaotunukindergarten.co.nz",
+  "email": "admin@kuaotunukindergarten.co.nz",
+  "address": {
+    "line1": " Irishtown Road",
+    "line2": "RD 2",
+    "suburb": "Kuaotunu",
+    "city": "Whitianga",
+    "postcode": "3592"
+  },
+  "nzbn": "9429043067718",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T18:08:04Z"
+}

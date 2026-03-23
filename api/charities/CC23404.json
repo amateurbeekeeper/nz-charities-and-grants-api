@@ -1,0 +1,27 @@
+{
+  "id": 39359,
+  "registrationNumber": "CC23404",
+  "name": "Hamilton Christian Nightshelter Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tewharekorowai.org.nz",
+  "email": "joanne@hcnt.org.nz",
+  "address": {
+    "line1": "474 Anglesea Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042958581",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HamiltonChristianNightshelter",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:01:57Z"
+}

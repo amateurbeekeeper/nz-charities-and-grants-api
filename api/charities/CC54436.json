@@ -1,0 +1,27 @@
+{
+  "id": 68106,
+  "registrationNumber": "CC54436",
+  "name": "Te Pou Theatre Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tepoutheatre.nz",
+  "email": "amber@tepoutheatre.nz",
+  "address": {
+    "line1": "2 Mt Lebanon Lane",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429046037183",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/TePouTheatre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T18:03:51Z"
+}

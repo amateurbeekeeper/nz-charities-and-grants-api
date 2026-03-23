@@ -1,0 +1,27 @@
+{
+  "id": 42002,
+  "registrationNumber": "CC33773",
+  "name": "The Cooks Gardens Trust Board",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2015-06-23T00:00:00Z",
+  "website": "http://www.cooksgardens.org.nz",
+  "email": "michael.fermor@wanganui.govt.nz",
+  "address": {
+    "line1": "C/- 101 Guyton Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Wanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042854395",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:19:22Z"
+}

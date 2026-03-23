@@ -1,0 +1,27 @@
+{
+  "id": 76230,
+  "registrationNumber": "CC62611",
+  "name": "Poor Paws Cat Rescue",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "anne.costello@farmlands.co.nz",
+  "address": {
+    "line1": "134 Eyredale Road",
+    "line2": "RD 6",
+    "suburb": "Eyrewell",
+    "city": "Rangiora",
+    "postcode": "7476"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "poorpaws cat rescue",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-19T21:44:22Z"
+}

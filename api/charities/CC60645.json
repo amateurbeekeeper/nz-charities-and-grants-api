@@ -1,0 +1,27 @@
+{
+  "id": 74234,
+  "registrationNumber": "CC60645",
+  "name": "Te Karu o Te Ika Poari Hauora Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nicky@tkoti.nz",
+  "address": {
+    "line1": "17 Perry Street",
+    "line2": "Level 1",
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429050673094",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T19:23:41Z"
+}

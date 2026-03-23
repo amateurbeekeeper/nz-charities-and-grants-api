@@ -1,0 +1,27 @@
+{
+  "id": 47119,
+  "registrationNumber": "CC39613",
+  "name": "Sri Om Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://sriom.nz",
+  "email": "ashna@sriom.nz",
+  "address": {
+    "line1": "69 Roseberry Avenue",
+    "line2": "RD 2",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429043045228",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/sriominc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T21:28:08Z"
+}

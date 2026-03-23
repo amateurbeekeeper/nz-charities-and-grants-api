@@ -1,0 +1,27 @@
+{
+  "id": 39185,
+  "registrationNumber": "CC32598",
+  "name": "Habitat For Humanity Central Region Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.habitat.org.nz",
+  "email": "helen.mcauliffe@habitat.org.nz",
+  "address": {
+    "line1": "422 Te Rapa Road",
+    "line2": " ",
+    "suburb": "Te Rapa",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429038554926",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T20:45:59Z"
+}

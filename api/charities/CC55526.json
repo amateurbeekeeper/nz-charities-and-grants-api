@@ -1,0 +1,27 @@
+{
+  "id": 69170,
+  "registrationNumber": "CC55526",
+  "name": "Aspiring Biodiversity Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aspiringbiodiversity.co.nz",
+  "email": "anthony@aps.co.nz",
+  "address": {
+    "line1": "747 Aubrey Road",
+    "line2": "Wanaka 9305",
+    "suburb": "Albert Town",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429046453167",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "aspiring biodiversity trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T20:12:14Z"
+}

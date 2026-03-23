@@ -1,0 +1,27 @@
+{
+  "id": 56401,
+  "registrationNumber": "CC34031",
+  "name": "Dunedin Civic Orchestra Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dso.org.nz",
+  "email": "manager@dso.org.nz",
+  "address": {
+    "line1": "65 Hanover Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042662273",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DunedinSymphonyOrchestra",
+    "twitter": "https://x.com/DunedinSymphony"
+  },
+  "lastUpdated": "2026-02-04T22:23:44Z"
+}

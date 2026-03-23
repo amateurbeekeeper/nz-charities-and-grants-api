@@ -1,0 +1,27 @@
+{
+  "id": 76694,
+  "registrationNumber": "CC62862",
+  "name": "Malaga Sā",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-11-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ruth.tolise@gmail.com",
+  "address": {
+    "line1": "31 Doncaster Terrace",
+    "line2": " ",
+    "suburb": "Ascot Park",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Malaga Sa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:43:31Z"
+}

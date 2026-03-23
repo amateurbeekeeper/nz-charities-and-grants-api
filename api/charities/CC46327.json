@@ -1,0 +1,27 @@
+{
+  "id": 36410,
+  "registrationNumber": "CC46327",
+  "name": "Ako Mātātupu Teach First NZ Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.teachfirstnz.org",
+  "email": "liam@teachfirstnz.org",
+  "address": {
+    "line1": "Studio 274",
+    "line2": "51 Othello Drive",
+    "suburb": "Clover Park",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": "9429043221592",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Ako Mātātupu:Teach First NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-06T20:33:12Z"
+}

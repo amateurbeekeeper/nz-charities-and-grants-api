@@ -1,0 +1,27 @@
+{
+  "id": 75314,
+  "registrationNumber": "CC61753",
+  "name": "Wings Over Wairarapa Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-10-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wings.org.nz/",
+  "email": "brett.w@skca.co.nz",
+  "address": {
+    "line1": "11 Cole Street",
+    "line2": "Masterton 5810",
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wingswairarapa",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:45:55Z"
+}

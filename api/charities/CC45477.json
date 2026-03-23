@@ -1,0 +1,27 @@
+{
+  "id": 38627,
+  "registrationNumber": "CC45477",
+  "name": "Ki Tua o Matariki",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kituaomatariki.org.nz",
+  "email": "zoe.witika-hawke@kituaomatariki.org.nz",
+  "address": {
+    "line1": "PO Box 14034",
+    "line2": " ",
+    "suburb": "Panmure",
+    "city": "Auckland",
+    "postcode": "1741"
+  },
+  "nzbn": "9429043212873",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kituaomatariki",
+    "twitter": "@Kituaomatariki"
+  },
+  "lastUpdated": "2026-03-08T03:26:15Z"
+}

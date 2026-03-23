@@ -1,0 +1,27 @@
+{
+  "id": 66201,
+  "registrationNumber": "CC52472",
+  "name": "Bandquest Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-07-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.bandquest.co.nz",
+  "email": "pbrain@xtra.co.nz",
+  "address": {
+    "line1": "72a Rutherford Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043243594",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Bandquest",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-09T19:20:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38678,
+  "registrationNumber": "CC45582",
+  "name": "Doxa Deo Auckland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-10-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.doxadeo.org/auckland",
+  "email": "mariskammalan@gmail.com",
+  "address": {
+    "line1": "35G Fields Parade",
+    "line2": " ",
+    "suburb": "Oteha",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043182510",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Doxa Deo Christian Church Auckland New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T19:44:32Z"
+}

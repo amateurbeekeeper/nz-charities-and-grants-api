@@ -1,0 +1,27 @@
+{
+  "id": 56203,
+  "registrationNumber": "CC25298",
+  "name": "ICE Funds Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-03T00:00:00Z",
+  "dateDeregistered": "2010-09-14T00:00:00Z",
+  "website": "http://www.theicehouse.co.nz",
+  "email": null,
+  "address": {
+    "line1": "Level 2, The Textile Centre",
+    "line2": "117-125 St Georges Bay Road",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429033908489",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-03-09T23:22:23Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34866,
+  "registrationNumber": "CC51260",
+  "name": "Westside Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-01-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.activatechurch.org.nz",
+  "email": "joshvb@activatechurch.org.nz",
+  "address": {
+    "line1": "13 Watts Road",
+    "line2": " ",
+    "suburb": "Sockburn",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429043267156",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ActivateChristchurch/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T23:12:03Z"
+}

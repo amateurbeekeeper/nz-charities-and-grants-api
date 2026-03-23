@@ -1,0 +1,27 @@
+{
+  "id": 56644,
+  "registrationNumber": "CC25933",
+  "name": "La Vida Youth Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lyt.org.nz",
+  "email": "info@lyt.org.nz",
+  "address": {
+    "line1": "34A Hansons Lane",
+    "line2": " ",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429043224821",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LaVidaYouthTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T21:10:14Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37217,
+  "registrationNumber": "CC47721",
+  "name": "Gutter Kitties",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gutterkitties.co.nz",
+  "email": "danielle@gutterkitties.co.nz",
+  "address": {
+    "line1": "Suite 9",
+    "line2": "667 Whangaparaoa Road",
+    "suburb": "Stanmore Bay",
+    "city": "Whangaparaoa",
+    "postcode": "0932"
+  },
+  "nzbn": "9429043236183",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/gutterkitties",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T18:51:50Z"
+}

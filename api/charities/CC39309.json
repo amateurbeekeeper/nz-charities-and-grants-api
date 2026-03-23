@@ -1,0 +1,27 @@
+{
+  "id": 42606,
+  "registrationNumber": "CC39309",
+  "name": "Camp Lindisfarne Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.lindisfarnecamp.com",
+  "email": "lees@farmside.co.nz",
+  "address": {
+    "line1": "345 Guerins Road",
+    "line2": "RD 14",
+    "suburb": " ",
+    "city": "Cave",
+    "postcode": "7984"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "Lindisfarne Camp",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-20T20:05:22Z"
+}

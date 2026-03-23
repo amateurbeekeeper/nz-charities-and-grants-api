@@ -1,0 +1,27 @@
+{
+  "id": 37012,
+  "registrationNumber": "CC46527",
+  "name": "Southward Museum Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.southwardcarmuseum.co.nz",
+  "email": "john@southwards.co.nz",
+  "address": {
+    "line1": "250 Otaihanga Road",
+    "line2": " ",
+    "suburb": "Otaihanga",
+    "city": "Paraparaumu",
+    "postcode": "5036"
+  },
+  "nzbn": "9429042723462",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Southwardcarmuseum",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T03:52:38Z"
+}

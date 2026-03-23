@@ -1,0 +1,27 @@
+{
+  "id": 54294,
+  "registrationNumber": "CC43263",
+  "name": "Kopi Holdings Ltd",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "levi@kopinga.co.nz",
+  "address": {
+    "line1": "Kopinga Marae",
+    "line2": "Owenga Wharf Road",
+    "suburb": " ",
+    "city": "Chatham Islands",
+    "postcode": null
+  },
+  "nzbn": "9429035825821",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-05T00:42:12Z"
+}

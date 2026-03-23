@@ -1,0 +1,27 @@
+{
+  "id": 73644,
+  "registrationNumber": "CC60038",
+  "name": "Trinity South Christchurch Property Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "davidw@trinitysc.nz",
+  "address": {
+    "line1": "196 Colombo Street",
+    "line2": " ",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429050366231",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T21:45:06Z"
+}

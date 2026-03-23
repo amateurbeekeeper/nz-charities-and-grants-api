@@ -1,0 +1,27 @@
+{
+  "id": 53556,
+  "registrationNumber": "CC22808",
+  "name": "North Shore Centres Of Mutual Aid Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cmans.org.nz",
+  "email": "manager@cmans.org.nz",
+  "address": {
+    "line1": "Community Services Building",
+    "line2": "5-7 The Strand",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "622"
+  },
+  "nzbn": "9429042693192",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NorthShoreCMA",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T01:36:50Z"
+}

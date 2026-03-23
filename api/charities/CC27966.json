@@ -1,0 +1,27 @@
+{
+  "id": 59304,
+  "registrationNumber": "CC27966",
+  "name": "Auckland Museum Institute",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aucklandmuseum.com/your-museum/membership/membership-types/ami",
+  "email": "daniel.pouwels@gmail.com",
+  "address": {
+    "line1": "Auckland Museum",
+    "line2": "Domain Drive, Parnell",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AucklandMuseumInstitute ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T21:19:59Z"
+}

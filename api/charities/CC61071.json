@@ -1,0 +1,27 @@
+{
+  "id": 74655,
+  "registrationNumber": "CC61071",
+  "name": "FIANNA TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-12-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "simon@harding.net.nz",
+  "address": {
+    "line1": "2 Karori Crescent",
+    "line2": " ",
+    "suburb": "Orakei",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-29T01:40:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51588,
+  "registrationNumber": "CC10386",
+  "name": "KidsCan Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kidscan.org.nz",
+  "email": "lorraine@kidscan.org.nz",
+  "address": {
+    "line1": "7 Beatrice Tinsley Crescent",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043149940",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T00:30:50Z"
+}

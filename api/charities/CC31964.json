@@ -1,0 +1,27 @@
+{
+  "id": 49691,
+  "registrationNumber": "CC31964",
+  "name": "Halsey Drive School PTA",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2020-06-30T00:00:00Z",
+  "website": "www.halseydrive.school.nz",
+  "email": "halseydrive.pta@gmail.com",
+  "address": {
+    "line1": "Halsey Drive School",
+    "line2": "106 Halsey Drive",
+    "suburb": "Lynfield",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-10-30T02:20:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 46854,
+  "registrationNumber": "CC40813",
+  "name": "Te Tai Timu Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tetaitimutrust.co.nz/",
+  "email": "zack@tetaitimutrust.org.nz",
+  "address": {
+    "line1": "64 Colin White Road",
+    "line2": " ",
+    "suburb": "Te Hauke",
+    "city": "Ōtāne",
+    "postcode": "4178"
+  },
+  "nzbn": "9429043090938",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tetaitimu/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T18:37:26Z"
+}

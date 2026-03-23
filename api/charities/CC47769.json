@@ -1,0 +1,27 @@
+{
+  "id": 38435,
+  "registrationNumber": "CC47769",
+  "name": "Te Taha Tu Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "maurits@designtribe.co.nz",
+  "address": {
+    "line1": "6A Hamurana Place",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "610"
+  },
+  "nzbn": "9429043222902",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-06T19:21:01Z"
+}

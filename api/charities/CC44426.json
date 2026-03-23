@@ -1,0 +1,27 @@
+{
+  "id": 50710,
+  "registrationNumber": "CC44426",
+  "name": "Takitimu House Te Whare o Takitimu, He Whare Manaaki Tangata",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.takitimuhouse.org.nz",
+  "email": "jessica@tmnt.org.nz",
+  "address": {
+    "line1": "171 Elizabeth Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043210657",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Takitimu House",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T00:20:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 47111,
+  "registrationNumber": "CC39852",
+  "name": "Te Puna o te Matauranga o te Motu-arai-roa",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tepuna1081@gmail.com",
+  "address": {
+    "line1": "Te Puna Whare",
+    "line2": "Donald Bruce Road",
+    "suburb": "Surfdale",
+    "city": "Waiheke Island",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Puna Reo",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-10T08:36:45Z"
+}

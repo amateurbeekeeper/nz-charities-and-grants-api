@@ -1,0 +1,27 @@
+{
+  "id": 66698,
+  "registrationNumber": "CC52970",
+  "name": "Innermost Gardens Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.innermostgardens.org.nz",
+  "email": "innermostgardens@gmail.com",
+  "address": {
+    "line1": "34 Hamilton Road",
+    "line2": " ",
+    "suburb": "Hataitai",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043138784",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/innermostgardens/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T22:21:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72105,
+  "registrationNumber": "CC58486",
+  "name": "Papatoetoe Budgeting & Family Services",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-10-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.papatoebudgeting.org.nz",
+  "email": "comm.budgetingservice@gmail.com",
+  "address": {
+    "line1": "35A St George Street",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429047989924",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "www.pbfs.org.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T03:57:20Z"
+}

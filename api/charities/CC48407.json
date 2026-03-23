@@ -1,0 +1,27 @@
+{
+  "id": 32788,
+  "registrationNumber": "CC48407",
+  "name": "Community Education Trust Auckland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cometauckland.org.nz",
+  "email": "katheren.leitner@cometauckland.org.nz",
+  "address": {
+    "line1": "5/55 ",
+    "line2": "Anzac Ave",
+    "suburb": " Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043303748",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cometakl/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:15:52Z"
+}

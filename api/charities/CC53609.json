@@ -1,0 +1,27 @@
+{
+  "id": 67320,
+  "registrationNumber": "CC53609",
+  "name": "Z Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.zfoundation.co.nz/",
+  "email": "maureen.jacobson@z.co.nz",
+  "address": {
+    "line1": "3 Queens Wharf",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043304189",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T19:27:29Z"
+}

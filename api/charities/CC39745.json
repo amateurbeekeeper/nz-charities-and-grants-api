@@ -1,0 +1,27 @@
+{
+  "id": 49247,
+  "registrationNumber": "CC39745",
+  "name": "The Matua School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta@matua.school.nz",
+  "address": {
+    "line1": "C/- Matua School, Levers Road",
+    "line2": " ",
+    "suburb": "Matua",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-15T08:03:34Z"
+}

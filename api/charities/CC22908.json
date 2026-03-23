@@ -1,0 +1,27 @@
+{
+  "id": 39266,
+  "registrationNumber": "CC22908",
+  "name": "Circuit International",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.circuitinternational.org     ",
+  "email": "brianpatchett@circuitinternational.org",
+  "address": {
+    "line1": "16 Massey Street",
+    "line2": " ",
+    "suburb": "Elderslea",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429043311897",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/circuitinternational/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T02:30:07Z"
+}

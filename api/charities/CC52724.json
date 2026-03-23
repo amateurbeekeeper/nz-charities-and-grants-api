@@ -1,0 +1,27 @@
+{
+  "id": 66460,
+  "registrationNumber": "CC52724",
+  "name": "Cantorum",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cantorum.nz/",
+  "email": "candcnewel@gmail.com",
+  "address": {
+    "line1": "1382 Old North Road",
+    "line2": "RD 2",
+    "suburb": "West Harbour",
+    "city": "Helensville",
+    "postcode": "0875"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Cantorum-491594620989588/timeline",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-16T19:38:58Z"
+}

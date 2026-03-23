@@ -1,0 +1,27 @@
+{
+  "id": 61144,
+  "registrationNumber": "CC33325",
+  "name": "Te Kawau Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-02T00:00:00Z",
+  "website": "https://www.facebook.com/TeKawauPC",
+  "email": "te.kawau@playcentre.org.nz",
+  "address": {
+    "line1": "16 Medway Street",
+    "line2": "Rongotea 4476",
+    "suburb": " ",
+    "city": "Rongotea",
+    "postcode": "4476"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TeKawauPC",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T06:03:36Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34403,
+  "registrationNumber": "CC50713",
+  "name": "Sea Cleaners Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.seacleaners.com",
+  "email": "network@seacleaners.com",
+  "address": {
+    "line1": "9 Easter Parade",
+    "line2": " ",
+    "suburb": "Glen Eden",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": "9429043264988",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "sea cleaners",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T18:03:38Z"
+}

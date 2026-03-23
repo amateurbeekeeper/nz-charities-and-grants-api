@@ -1,0 +1,27 @@
+{
+  "id": 63395,
+  "registrationNumber": "CC42088",
+  "name": "Claddagh Haven Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.claddaghhaven.co.nz",
+  "email": "robsonma@claddaghhaven.co.nz",
+  "address": {
+    "line1": "Unit 6A",
+    "line2": "1 Stark Drive",
+    "suburb": "Wigram",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429042969457",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T18:07:22Z"
+}

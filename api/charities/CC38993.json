@@ -1,0 +1,27 @@
+{
+  "id": 43752,
+  "registrationNumber": "CC38993",
+  "name": "Patuharakeke Te Iwi",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.patuharakeke.maori.nz",
+  "email": "admin@patuharakeke.maori.nz",
+  "address": {
+    "line1": "229 Takahiwai Road",
+    "line2": " ",
+    "suburb": "Takahiwai",
+    "city": "Whangarei",
+    "postcode": "0171"
+  },
+  "nzbn": "9429042803768",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/patuharakeketeiwitrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T09:29:38Z"
+}

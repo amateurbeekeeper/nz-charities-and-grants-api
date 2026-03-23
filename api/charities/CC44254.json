@@ -1,0 +1,27 @@
+{
+  "id": 50487,
+  "registrationNumber": "CC44254",
+  "name": "Omokoroa Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2021-12-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.omokoroatoylibrary.co.nz",
+  "email": "omokoroatoylibrary@gmail.com",
+  "address": {
+    "line1": "334 Omokoroa Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Omokoroa",
+    "postcode": "3172"
+  },
+  "nzbn": "9429043182459",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/omokoroatoylibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T22:37:08Z"
+}

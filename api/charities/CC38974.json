@@ -1,0 +1,27 @@
+{
+  "id": 61339,
+  "registrationNumber": "CC38974",
+  "name": "The New Zealand Institute Trust Board",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2012-07-31T00:00:00Z",
+  "website": "www.nzinstitute.org",
+  "email": "info@nzinstitute.org",
+  "address": {
+    "line1": "LEVEL 3",
+    "line2": "4 Viaduct Harbour Avenue",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043112746",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:57:40Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38728,
+  "registrationNumber": "CC45632",
+  "name": "NZ Gardens Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-10-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gardens.org.nz",
+  "email": "info@gardens.org.nz",
+  "address": {
+    "line1": "18 Weld Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Martinborough",
+    "postcode": "5711"
+  },
+  "nzbn": "9429043021680",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https:/www.facebook.com/pages/New-Zealand-Gardens-Trust/347903565268300",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T02:12:42Z"
+}

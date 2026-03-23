@@ -1,0 +1,27 @@
+{
+  "id": 33461,
+  "registrationNumber": "CC49033",
+  "name": "Complex Care Group Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.complexcaregroup.org.nz",
+  "email": "complexcaregroup@xtra.co.nz",
+  "address": {
+    "line1": "202 Grenada Street",
+    "line2": "Mount Maunganui 3116",
+    "suburb": "Ellerslie",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429043304370",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Facebook/Complex Care Group ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:56:58Z"
+}

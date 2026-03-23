@@ -1,0 +1,27 @@
+{
+  "id": 69898,
+  "registrationNumber": "CC56261",
+  "name": "Music for Dementia",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.musicfordementia.org.nz",
+  "email": "deirdre@musicfordementia.org.nz",
+  "address": {
+    "line1": "1403 Coast Road",
+    "line2": "RD 1",
+    "suburb": "Karitane",
+    "city": "Waikouaiti",
+    "postcode": "9471"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Music-for-Dementia-NZ-100901992191381",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-28T22:46:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71188,
+  "registrationNumber": "CC57563",
+  "name": "Whangarei Cat Rescue Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "vanessa.crosby@wrmk.co.nz",
+  "address": {
+    "line1": "95 Morningside Road",
+    "line2": " ",
+    "suburb": "Morningside",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429047889644",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whangareicatrescue",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T01:34:53Z"
+}

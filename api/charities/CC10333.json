@@ -1,0 +1,27 @@
+{
+  "id": 51427,
+  "registrationNumber": "CC10333",
+  "name": "Auckland International Seafarers' Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-05-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandseafarerscentre.co.nz",
+  "email": "barradale@xtra.co.nz",
+  "address": {
+    "line1": "114 Quay Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042874133",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:15:09Z"
+}

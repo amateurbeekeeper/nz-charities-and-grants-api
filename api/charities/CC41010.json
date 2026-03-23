@@ -1,0 +1,27 @@
+{
+  "id": 42714,
+  "registrationNumber": "CC41010",
+  "name": "Reliance Limited",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-06-22T00:00:00Z",
+  "dateDeregistered": "2012-05-27T00:00:00Z",
+  "website": null,
+  "email": "anne@communitywaikato.org.nz",
+  "address": {
+    "line1": "33 Victoria Street",
+    "line2": null,
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429032222432",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:10:21Z"
+}

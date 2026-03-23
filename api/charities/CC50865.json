@@ -1,0 +1,27 @@
+{
+  "id": 34526,
+  "registrationNumber": "CC50865",
+  "name": "Street Cats South Canterbury",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "streetcats@outlook.co.nz",
+  "address": {
+    "line1": "10 Thomas Street",
+    "line2": " ",
+    "suburb": "West End",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429052907708",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Street-Cats-South-Canterbury-2016-1545449785781091/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-27T19:22:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55583,
+  "registrationNumber": "CC22442",
+  "name": "The Society Of Saint Pius X",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sspx.org.nz",
+  "email": "t.stephens@fsspx.org.nz",
+  "address": {
+    "line1": "88 Alma Road",
+    "line2": " ",
+    "suburb": "Gonville",
+    "city": "Wanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429042885610",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T07:24:05Z"
+}

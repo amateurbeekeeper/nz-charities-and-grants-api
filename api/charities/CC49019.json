@@ -1,0 +1,27 @@
+{
+  "id": 33052,
+  "registrationNumber": "CC49019",
+  "name": "De Paul House Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.depaulhouse.org.nz",
+  "email": "jan@depaulhouse.org.nz",
+  "address": {
+    "line1": "92 Onewa Road",
+    "line2": " ",
+    "suburb": "Northcote Point",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429045948978",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DePaulHouseNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-26T22:36:37Z"
+}

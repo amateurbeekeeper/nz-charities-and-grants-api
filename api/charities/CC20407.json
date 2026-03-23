@@ -1,0 +1,27 @@
+{
+  "id": 53406,
+  "registrationNumber": "CC20407",
+  "name": "Asthma New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.asthma.org.nz",
+  "email": "ce@asthma.org.nz",
+  "address": {
+    "line1": "581 Mount Eden Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042584704",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AsthmaNZ ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T01:11:44Z"
+}

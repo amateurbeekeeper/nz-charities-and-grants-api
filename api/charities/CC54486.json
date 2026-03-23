@@ -1,0 +1,27 @@
+{
+  "id": 68166,
+  "registrationNumber": "CC54486",
+  "name": "New Zealand Pompe Network",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://nzpompe.network",
+  "email": "president@nzpompe.network",
+  "address": {
+    "line1": "585C Norfolk Road",
+    "line2": "RD 1",
+    "suburb": "Upper Plain",
+    "city": "Carterton",
+    "postcode": "5791"
+  },
+  "nzbn": "9429044424985",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzpompe/",
+    "twitter": "https://twitter.com/PompeNowWhat"
+  },
+  "lastUpdated": "2025-09-07T20:03:28Z"
+}

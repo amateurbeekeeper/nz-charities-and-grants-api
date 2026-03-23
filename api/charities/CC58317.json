@@ -1,0 +1,27 @@
+{
+  "id": 71942,
+  "registrationNumber": "CC58317",
+  "name": "Auckland Pilipino Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-10-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "aptauckland@gmail.com",
+  "address": {
+    "line1": "202 Golf Road",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429050881864",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "AUCKLAND PILIPINO TRUST(APT)",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-05T05:02:25Z"
+}

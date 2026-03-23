@@ -1,0 +1,27 @@
+{
+  "id": 49891,
+  "registrationNumber": "CC28537",
+  "name": "Titahi Bay Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Sean.Malone@fireandemergency.nz",
+  "address": {
+    "line1": "5 Te Pene Avenue",
+    "line2": " ",
+    "suburb": "Titahi Bay",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T18:06:09Z"
+}

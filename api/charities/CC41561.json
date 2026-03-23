@@ -1,0 +1,27 @@
+{
+  "id": 44136,
+  "registrationNumber": "CC41561",
+  "name": "South Coast Environment Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sces.org.nz",
+  "email": "education@sces.org.nz",
+  "address": {
+    "line1": "154 Palmerston Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Riverton",
+    "postcode": "9822"
+  },
+  "nzbn": "9429042919414",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Riverton Environment Centre (South Coast Environment Centre)",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:41:05Z"
+}

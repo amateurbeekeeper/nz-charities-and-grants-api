@@ -1,0 +1,27 @@
+{
+  "id": 39199,
+  "registrationNumber": "CC25511",
+  "name": "The New Theatre Initiative Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-08T00:00:00Z",
+  "dateDeregistered": "2015-06-16T00:00:00Z",
+  "website": "http://www.qtheatre.co.nz",
+  "email": "james@qtheatre.co.nz",
+  "address": {
+    "line1": "C/o 305 Queen Street",
+    "line2": null,
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043062980",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:26:42Z"
+}

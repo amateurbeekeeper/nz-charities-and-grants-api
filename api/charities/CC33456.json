@@ -1,0 +1,27 @@
+{
+  "id": 40826,
+  "registrationNumber": "CC33456",
+  "name": "Pacific Paramedical Training Centre Incorporated ",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2020-09-30T00:00:00Z",
+  "website": "http://www.pptc.org.nz",
+  "email": "pptc@pptc.org.nz",
+  "address": {
+    "line1": "Wellington Hospital",
+    "line2": "Riddiford St",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6242"
+  },
+  "nzbn": "9429042791683",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-02-15T03:38:19Z"
+}

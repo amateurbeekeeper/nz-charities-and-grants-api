@@ -1,0 +1,27 @@
+{
+  "id": 54915,
+  "registrationNumber": "CC21640",
+  "name": "Tauranga Arts Festival Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.taurangafestival.co.nz",
+  "email": "info@taurangafestival.co.nz",
+  "address": {
+    "line1": "PO Box 13011",
+    "line2": "Tauranga Central",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3141"
+  },
+  "nzbn": "9429042948681",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/taurangafestival/",
+    "twitter": "www.twitter.com/tgafestival"
+  },
+  "lastUpdated": "2025-09-30T23:11:00Z"
+}

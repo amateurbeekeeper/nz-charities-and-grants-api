@@ -1,0 +1,27 @@
+{
+  "id": 72123,
+  "registrationNumber": "CC58509",
+  "name": "Third-Age Foundation - Te Tumu Ahunga-Toru",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thirdagefoundation.org",
+  "email": "bernie@thirdagefoundation.org",
+  "address": {
+    "line1": "4 Fillbridge Way",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Flourishing as You Age",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-27T05:06:26Z"
+}

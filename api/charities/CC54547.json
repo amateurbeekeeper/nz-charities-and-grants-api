@@ -1,0 +1,27 @@
+{
+  "id": 68221,
+  "registrationNumber": "CC54547",
+  "name": "\"The Teach Club\"",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-06-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mrw180620@gmail.com",
+  "address": {
+    "line1": "RD 1972",
+    "line2": "Te Araroa Rd",
+    "suburb": "RD 1 TikiTiki",
+    "city": "East Coast",
+    "postcode": "4087"
+  },
+  "nzbn": "9429046026071",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T23:58:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56011,
+  "registrationNumber": "CC31930",
+  "name": "Whangaroa Health Services Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whangaroahealth.co.nz",
+  "email": "cinnamon.whitlock@whst.org.nz",
+  "address": {
+    "line1": "180 Omaunu Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Kaeo",
+    "postcode": "479"
+  },
+  "nzbn": "9429042932116",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T20:51:51Z"
+}

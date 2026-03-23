@@ -1,0 +1,27 @@
+{
+  "id": 67435,
+  "registrationNumber": "CC53723",
+  "name": "Church of Confessing Anglicans Aotearoa New Zealand Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-03-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.confessinganglicans.nz",
+  "email": "registrar@confessinganglicans.nz",
+  "address": {
+    "line1": "Suite 3",
+    "line2": "211 Ferry Road",
+    "suburb": "Waltham",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429048255356",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ConfessingAnglicans.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-29T20:03:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42308,
+  "registrationNumber": "CC25792",
+  "name": "High Tech Youth Network",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-11T00:00:00Z",
+  "dateDeregistered": "2019-09-10T00:00:00Z",
+  "website": "http://www.hightechyouth.org",
+  "email": "frank@3sevengroup.com",
+  "address": {
+    "line1": "4 Kingsford Smith Place",
+    "line2": "666 Great South Road",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429043125067",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/hightechyouthnetwork/",
+    "twitter": "@hightechyouth"
+  },
+  "lastUpdated": "2019-09-09T23:56:00Z"
+}

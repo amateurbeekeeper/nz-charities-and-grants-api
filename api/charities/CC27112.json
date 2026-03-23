@@ -1,0 +1,27 @@
+{
+  "id": 42120,
+  "registrationNumber": "CC27112",
+  "name": "Cornwall Park Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cornwallpark.co.nz",
+  "email": "finance@cornwallpark.co.nz",
+  "address": {
+    "line1": "Cornwall Park Trust Board",
+    "line2": "203 Greenlane Road West",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042661757",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T18:44:28Z"
+}

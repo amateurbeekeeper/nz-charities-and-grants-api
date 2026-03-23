@@ -1,0 +1,27 @@
+{
+  "id": 76877,
+  "registrationNumber": "CC62950",
+  "name": "Valley Community Workspace Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.northeastvalley.org/your-community/valley-community-workspace",
+  "email": "valleycommunityworkspace@northeastvalley.org",
+  "address": {
+    "line1": "11 Allen Street",
+    "line2": " ",
+    "suburb": "North East Valley",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ValleyCommunityWorkspace",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:46:19Z"
+}

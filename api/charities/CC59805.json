@@ -1,0 +1,27 @@
+{
+  "id": 73548,
+  "registrationNumber": "CC59805",
+  "name": "Cycling Without Age Napier Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-01-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.cwanapier.nz",
+  "email": "CWA.Napiernz@gmail.com",
+  "address": {
+    "line1": "4 Rutland Place",
+    "line2": " ",
+    "suburb": "Taradale",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": "9429050207015",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@cwa.napiernz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T00:16:55Z"
+}

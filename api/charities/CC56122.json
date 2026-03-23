@@ -1,0 +1,27 @@
+{
+  "id": 69767,
+  "registrationNumber": "CC56122",
+  "name": "Rolleston Toy Library Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.rollestontoylibrary.co.nz",
+  "email": "rollestontoylibrary@gmail.com",
+  "address": {
+    "line1": "25 Jozecom Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rolleston",
+    "postcode": "7614"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RollestonToyLibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-12T20:12:32Z"
+}

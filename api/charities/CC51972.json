@@ -1,0 +1,27 @@
+{
+  "id": 65723,
+  "registrationNumber": "CC51972",
+  "name": "Lawrence Waitahuna Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "waynepam5@xtra.co.nz",
+  "address": {
+    "line1": "580 Lawrence Waitahuna Highway",
+    "line2": "RD 3",
+    "suburb": "Waitahuna",
+    "city": "Lawrence",
+    "postcode": "9593"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:06:18Z"
+}

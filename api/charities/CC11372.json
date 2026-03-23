@@ -1,0 +1,27 @@
+{
+  "id": 51595,
+  "registrationNumber": "CC11372",
+  "name": "CAPS Northland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.jigsawnorth.org.nz",
+  "email": "libby@jigsawnorth.org.nz",
+  "address": {
+    "line1": "25 Otaika Road",
+    "line2": " ",
+    "suburb": "Woodhill",
+    "city": "Whangarei",
+    "postcode": "110"
+  },
+  "nzbn": "9429042603993",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:13:30Z"
+}

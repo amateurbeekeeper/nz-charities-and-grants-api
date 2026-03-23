@@ -1,0 +1,27 @@
+{
+  "id": 50198,
+  "registrationNumber": "CC44213",
+  "name": "Te Whanau Awhi O Selwyn",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.selwyn.school.nz\\WebSpace\\773\\",
+  "email": "sarahannepluck@gmail.com",
+  "address": {
+    "line1": "203-245 Kohimarama Road",
+    "line2": " ",
+    "suburb": "Kohimarama",
+    "city": "Auckland ",
+    "postcode": "1071"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:06:52Z"
+}

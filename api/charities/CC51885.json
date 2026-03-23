@@ -1,0 +1,27 @@
+{
+  "id": 65629,
+  "registrationNumber": "CC51885",
+  "name": "St Heliers Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sthelierscentre.org.nz",
+  "email": "annie.e.gavin@gmail.com",
+  "address": {
+    "line1": "100 St Heliers Bay Road",
+    "line2": " ",
+    "suburb": "St Heliers",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429048053037",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Facebook.com/St Heliers Centre and Facebook.com/St Heliers Church",
+    "twitter": "St Heliers Church"
+  },
+  "lastUpdated": "2025-12-29T03:29:02Z"
+}

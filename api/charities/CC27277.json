@@ -1,0 +1,27 @@
+{
+  "id": 57835,
+  "registrationNumber": "CC27277",
+  "name": "Thames Budget Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thamesbudgetservice.co.nz",
+  "email": "thbuds@gmail.com",
+  "address": {
+    "line1": "415 Pollen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429043074488",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Thames Budget Service",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:01:11Z"
+}

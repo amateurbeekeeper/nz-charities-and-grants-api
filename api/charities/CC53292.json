@@ -1,0 +1,27 @@
+{
+  "id": 67013,
+  "registrationNumber": "CC53292",
+  "name": "Home in Place (New Zealand) Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://homeinplacenz.org/",
+  "email": "JonathanD@homeinplace.org",
+  "address": {
+    "line1": "38A Liverpool Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429041870273",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T00:45:13Z"
+}

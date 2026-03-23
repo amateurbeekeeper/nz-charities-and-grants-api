@@ -1,0 +1,27 @@
+{
+  "id": 50659,
+  "registrationNumber": "CC46325",
+  "name": "Port Nelson Mission to Seafarers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.missiontoseafarers.org/nelson/",
+  "email": "Chris@nelsonanglican.nz",
+  "address": {
+    "line1": "48 Halifax Street",
+    "line2": "Nelson 7010",
+    "suburb": "Port Nelson",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043094615",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T01:04:31Z"
+}

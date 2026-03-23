@@ -1,0 +1,27 @@
+{
+  "id": 50331,
+  "registrationNumber": "CC44226",
+  "name": "Matakana Island Voluntary Rural Fire Force",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://portblakely.com",
+  "email": "sriddall@portblakely.com",
+  "address": {
+    "line1": "2 Tay Street",
+    "line2": "Mount Maunganui 3116",
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T21:04:45Z"
+}

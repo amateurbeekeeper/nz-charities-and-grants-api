@@ -1,0 +1,27 @@
+{
+  "id": 61060,
+  "registrationNumber": "CC37218",
+  "name": "Mission Without Borders (N. Z.)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mwb.org.nz/",
+  "email": "braeburn@mwbi.org",
+  "address": {
+    "line1": "Level 6",
+    "line2": "20 Amersham Way",
+    "suburb": "Manuakau",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042749233",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "MissionWithoutBordersNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:43:17Z"
+}

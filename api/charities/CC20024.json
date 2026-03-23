@@ -1,0 +1,27 @@
+{
+  "id": 53341,
+  "registrationNumber": "CC20024",
+  "name": "Fortune Theatre Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2007-11-07T00:00:00Z",
+  "dateDeregistered": "2018-07-09T00:00:00Z",
+  "website": "http://www.fortunetheatre.co.nz",
+  "email": "fortunetheatre2018@gmail.com",
+  "address": {
+    "line1": "231 Stuart Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042626305",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/fortunetheatre/",
+    "twitter": "https://twitter.com/fortunetheatre"
+  },
+  "lastUpdated": "2018-09-26T00:39:39Z"
+}

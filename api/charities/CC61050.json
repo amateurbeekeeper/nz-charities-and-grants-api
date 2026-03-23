@@ -1,0 +1,27 @@
+{
+  "id": 74633,
+  "registrationNumber": "CC61050",
+  "name": "Prosperity Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.prosperityfoundation.org.nz",
+  "email": "info@prosperityfoundation.org.nz",
+  "address": {
+    "line1": "16 Rowandale Avenue",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T01:30:07Z"
+}

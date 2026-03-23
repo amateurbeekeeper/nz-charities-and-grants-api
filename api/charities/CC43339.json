@@ -1,0 +1,27 @@
+{
+  "id": 62625,
+  "registrationNumber": "CC43339",
+  "name": "Burnside Rowing Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "emrgibson@gmail.com",
+  "address": {
+    "line1": "151 Greers Road",
+    "line2": " ",
+    "suburb": "Burnside",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429043182466",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:59:16Z"
+}

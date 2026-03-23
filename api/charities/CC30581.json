@@ -1,0 +1,27 @@
+{
+  "id": 60161,
+  "registrationNumber": "CC30581",
+  "name": "The Cecilian Singers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cecilians.com",
+  "email": "soolaroo@gmail.com",
+  "address": {
+    "line1": "15A Rue De La Mare",
+    "line2": " ",
+    "suburb": "Parklands",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429042775164",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/ceciliansingers",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T23:50:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 68064,
+  "registrationNumber": "CC54384",
+  "name": "Tātai Ora Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tataiora.nz",
+  "email": "sash@tataiora.nz",
+  "address": {
+    "line1": "Unit 4",
+    "line2": "63 Farm Street",
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429048398213",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/TataiOra/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T04:26:26Z"
+}

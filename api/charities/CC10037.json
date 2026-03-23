@@ -1,0 +1,27 @@
+{
+  "id": 51072,
+  "registrationNumber": "CC10037",
+  "name": "Neuro Connection Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-02-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.neuroconnection.org.nz",
+  "email": "GM@neuroconnection.org.nz",
+  "address": {
+    "line1": "TUI GLEN CENTRE",
+    "line2": "2 Claude Brookes Drive",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "612"
+  },
+  "nzbn": "9429042849360",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/neuroconnectionfoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T01:49:33Z"
+}

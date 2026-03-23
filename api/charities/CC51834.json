@@ -1,0 +1,27 @@
+{
+  "id": 65588,
+  "registrationNumber": "CC51834",
+  "name": "St Andrews Presbyterian Church Gore",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "joylcreighton@gmail.com",
+  "address": {
+    "line1": "2 Devon Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gore",
+    "postcode": "9710"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:01:39Z"
+}

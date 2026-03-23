@@ -1,0 +1,27 @@
+{
+  "id": 54142,
+  "registrationNumber": "CC21030",
+  "name": "Manukau Youth Development Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-02-10T00:00:00Z",
+  "dateDeregistered": "2015-09-28T00:00:00Z",
+  "website": "www.fyd.org.nz",
+  "email": "lisa@ydt.co.nz",
+  "address": {
+    "line1": "YOUTHLINE COMMUNITY HOUSE",
+    "line2": "145 St George Street",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429043171460",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T00:56:04Z"
+}

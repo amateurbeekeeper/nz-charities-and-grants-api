@@ -1,0 +1,27 @@
+{
+  "id": 75411,
+  "registrationNumber": "CC61851",
+  "name": "Rutherford College Kotuku Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-12-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rutherford.school.nz",
+  "email": "curinv@rutherford.school.nz",
+  "address": {
+    "line1": "18 Kotuku Street",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429050781010",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-04T21:54:24Z"
+}

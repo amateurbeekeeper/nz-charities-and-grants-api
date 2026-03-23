@@ -1,0 +1,27 @@
+{
+  "id": 39991,
+  "registrationNumber": "CC28770",
+  "name": "BotanyLife Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.kotahi.org.nz",
+  "email": "manager@kotahi.org.nz",
+  "address": {
+    "line1": "272E Ti Rakau Drive",
+    "line2": " ",
+    "suburb": " East Tamaki",
+    "city": "Auckland",
+    "postcode": "2103"
+  },
+  "nzbn": "9429043155828",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kotahicommunitycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-18T23:18:34Z"
+}

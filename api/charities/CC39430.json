@@ -1,0 +1,27 @@
+{
+  "id": 45584,
+  "registrationNumber": "CC39430",
+  "name": "New Zealand Century Farms Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.centuryfarms.co.nz",
+  "email": "g.c.blackmore@xtra.co.nz",
+  "address": {
+    "line1": "17 Ross Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lawrence",
+    "postcode": "9532"
+  },
+  "nzbn": "9429043151264",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:15:22Z"
+}

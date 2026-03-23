@@ -1,0 +1,27 @@
+{
+  "id": 66486,
+  "registrationNumber": "CC52760",
+  "name": "Te Tawharau o Ngati Pukenga Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-12-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ngatipukenga.com",
+  "email": "tetawharau@ngatipukenga.com",
+  "address": {
+    "line1": "612 Welcome Bay Road",
+    "line2": "RD 5",
+    "suburb": "Welcome Bay",
+    "city": "Tauranga",
+    "postcode": "3175"
+  },
+  "nzbn": "9429043279067",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T22:46:24Z"
+}

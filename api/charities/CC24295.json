@@ -1,0 +1,27 @@
+{
+  "id": 55564,
+  "registrationNumber": "CC24295",
+  "name": "Hospice Kaipara Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "manager@hospicekaipara.org.nz",
+  "address": {
+    "line1": "Kaipara Community Health Services",
+    "line2": "Awakino Road",
+    "suburb": " ",
+    "city": "Dargaville",
+    "postcode": "0310"
+  },
+  "nzbn": "9429042649458",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Hospice Kaipara",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:27:40Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 78507,
+  "registrationNumber": "CC64328",
+  "name": "Te Hā o Kawatiri Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-08-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rehia.mcdonald@teha.nz",
+  "address": {
+    "line1": "37 Peel Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Westport",
+    "postcode": "7825"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tehaokawatiri",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T02:33:58Z"
+}

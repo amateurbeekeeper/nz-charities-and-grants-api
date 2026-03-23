@@ -1,0 +1,27 @@
+{
+  "id": 52629,
+  "registrationNumber": "CC11237",
+  "name": "Weka Pass Railway Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wekapassrailway.co.nz",
+  "email": "secretary@wekapassrailway.co.nz",
+  "address": {
+    "line1": "Glenmark Drive",
+    "line2": " ",
+    "suburb": "Waipara",
+    "city": "North Canterbury",
+    "postcode": "7447"
+  },
+  "nzbn": "9429042911630",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wekapassrailway/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T02:36:50Z"
+}

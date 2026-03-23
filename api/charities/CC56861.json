@@ -1,0 +1,27 @@
+{
+  "id": 70493,
+  "registrationNumber": "CC56861",
+  "name": "Bosco Cadets of Whanganui Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "wanganuiboscocadets@gmail.com",
+  "address": {
+    "line1": "12A York Street",
+    "line2": " ",
+    "suburb": "Gonville",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-01T07:12:47Z"
+}

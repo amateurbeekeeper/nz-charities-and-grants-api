@@ -1,0 +1,27 @@
+{
+  "id": 77771,
+  "registrationNumber": "CC63572",
+  "name": "Breathe Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-01-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.breathetekapo.com",
+  "email": "info@breathetekapo.com",
+  "address": {
+    "line1": "PO Box 182",
+    "line2": null,
+    "suburb": null,
+    "city": "Lake Tekapo",
+    "postcode": "7945"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/p/Breathe-Tekapo-61554551277157/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T22:16:36Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 77956,
+  "registrationNumber": "CC63758",
+  "name": "The Bread Collective",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-09-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://thebreadcollective.co.nz/",
+  "email": "ana@thebreadcollective.co.nz",
+  "address": {
+    "line1": "3f/3 Cheshire Street",
+    "line2": " ",
+    "suburb": "Partnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T19:28:52Z"
+}

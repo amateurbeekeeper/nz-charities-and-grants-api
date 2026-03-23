@@ -1,0 +1,27 @@
+{
+  "id": 39583,
+  "registrationNumber": "CC22210",
+  "name": "Wingspan Birds of Prey Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wingspan.co.nz",
+  "email": "manager@wingspan.co.nz",
+  "address": {
+    "line1": "1334 Paradise Valley Road",
+    "line2": "RD 2",
+    "suburb": "Ngongotaha Valley",
+    "city": "Rotorua",
+    "postcode": "3072"
+  },
+  "nzbn": "9429042920670",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "WingspanNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T18:09:11Z"
+}

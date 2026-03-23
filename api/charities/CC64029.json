@@ -1,0 +1,27 @@
+{
+  "id": 78219,
+  "registrationNumber": "CC64029",
+  "name": "Cromwell Climbing",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-12-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cormwellclimbing.org.nz",
+  "email": "kieranparsons6@gmail.com",
+  "address": {
+    "line1": "22 Schoolhouse Road",
+    "line2": "RD 2",
+    "suburb": "Bannockburn",
+    "city": "Cromwell",
+    "postcode": "9384"
+  },
+  "nzbn": "9429053258144",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100068807711050",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-24T21:06:54Z"
+}

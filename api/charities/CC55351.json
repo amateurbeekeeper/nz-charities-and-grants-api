@@ -1,0 +1,27 @@
+{
+  "id": 69010,
+  "registrationNumber": "CC55351",
+  "name": "LIA Social Solutions",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lia.org.nz",
+  "email": "stuart.ramsay@lia.org.nz",
+  "address": {
+    "line1": "12 High Street",
+    "line2": "21 Putney Way",
+    "suburb": "Ōtāhuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429042934165",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/LIASocialSolutions",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:43:59Z"
+}

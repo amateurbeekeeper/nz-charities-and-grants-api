@@ -1,0 +1,27 @@
+{
+  "id": 40535,
+  "registrationNumber": "CC24236",
+  "name": "North Taranaki Healthcare Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nthealthcare1@xtra.co.nz",
+  "address": {
+    "line1": "28 Queen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waitara",
+    "postcode": "4320"
+  },
+  "nzbn": "9429043006298",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T22:41:13Z"
+}

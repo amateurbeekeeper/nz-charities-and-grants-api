@@ -1,0 +1,27 @@
+{
+  "id": 55733,
+  "registrationNumber": "CC21496",
+  "name": "Hearts & Minds NZ Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.heartsandminds.org.nz",
+  "email": "xiaoying@heartsandminds.org.nz",
+  "address": {
+    "line1": "90 Rosedale Road",
+    "line2": "65 Pearn Crescent",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429042693222",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/heartsandmindsnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T20:32:59Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64469,
+  "registrationNumber": "CC42730",
+  "name": "Ormerod/te Wheke Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2024-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@motw.org.nz",
+  "address": {
+    "line1": "33 Robinson Avenue",
+    "line2": " ",
+    "suburb": "Holdens Bay",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T20:02:35Z"
+}

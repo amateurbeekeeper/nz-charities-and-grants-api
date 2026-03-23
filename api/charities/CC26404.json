@@ -1,0 +1,27 @@
+{
+  "id": 42339,
+  "registrationNumber": "CC26404",
+  "name": "Takapuna Rotary Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.takapunarotary.org.nz",
+  "email": "geoff@pownall.kiwi",
+  "address": {
+    "line1": "Snell Apt 72",
+    "line2": " 11 Commodore Drive",
+    "suburb": "Lynfield",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T18:07:48Z"
+}

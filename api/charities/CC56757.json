@@ -1,0 +1,27 @@
+{
+  "id": 70394,
+  "registrationNumber": "CC56757",
+  "name": "Korimako Vineyard Church Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.korimakovineyard.org",
+  "email": "nick@korimakovineyard.org",
+  "address": {
+    "line1": "39 Waterloo Crescent",
+    "line2": " ",
+    "suburb": "Hokowhitu",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T21:29:40Z"
+}

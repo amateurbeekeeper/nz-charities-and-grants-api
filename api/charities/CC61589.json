@@ -1,0 +1,27 @@
+{
+  "id": 75105,
+  "registrationNumber": "CC61589",
+  "name": "Te Tini o Toi Housing Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ttothousingtrust@gmail.com",
+  "address": {
+    "line1": "17 Killington Crescent",
+    "line2": " ",
+    "suburb": "Māngere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429051398224",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "NA",
+    "twitter": "NA"
+  },
+  "lastUpdated": "2025-02-28T00:06:56Z"
+}

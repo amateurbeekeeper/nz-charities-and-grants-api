@@ -1,0 +1,27 @@
+{
+  "id": 65342,
+  "registrationNumber": "CC51568",
+  "name": "Independent Living Service Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-04-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ilsnz.org",
+  "email": "Karen@ilsnz.org",
+  "address": {
+    "line1": "14 Erson Avenue",
+    "line2": " ",
+    "suburb": "Royal Oak",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043263530",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/DRCAkld",
+    "twitter": "@ILS_NZ "
+  },
+  "lastUpdated": "2025-09-21T22:12:22Z"
+}

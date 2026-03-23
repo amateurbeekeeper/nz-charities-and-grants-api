@@ -1,0 +1,27 @@
+{
+  "id": 37163,
+  "registrationNumber": "CC47561",
+  "name": "Praxis Pacific Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2011-12-01T00:00:00Z",
+  "dateDeregistered": "2025-06-06T00:00:00Z",
+  "website": "http://www.praxis.org.nz",
+  "email": "maureen@praxis.org.nz",
+  "address": {
+    "line1": "138 Wakefield Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043228737",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-25T07:10:56Z"
+}

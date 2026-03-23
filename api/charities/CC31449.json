@@ -1,0 +1,27 @@
+{
+  "id": 58063,
+  "registrationNumber": "CC31449",
+  "name": "The Diocese Of Auckland",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aucklandanglican.org.nz",
+  "email": "sonia.maugham@aucklandanglican.org.nz",
+  "address": {
+    "line1": "12 St Stephens Avenue",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:37Z"
+}

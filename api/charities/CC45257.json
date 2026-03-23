@@ -1,0 +1,27 @@
+{
+  "id": 36113,
+  "registrationNumber": "CC45257",
+  "name": "One Percent Collective Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.onepercentcollective.org",
+  "email": "pat@onepercentcollective.org",
+  "address": {
+    "line1": "PO Box 354",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429043194186",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/onepercentcollective/",
+    "twitter": "https://twitter.com/OnePercentNZ"
+  },
+  "lastUpdated": "2025-09-29T18:23:11Z"
+}

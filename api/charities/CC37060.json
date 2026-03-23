@@ -1,0 +1,27 @@
+{
+  "id": 44787,
+  "registrationNumber": "CC37060",
+  "name": "CSO Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bruce@brirvine.co.nz",
+  "address": {
+    "line1": "167 Heaton Street",
+    "line2": " ",
+    "suburb": "Merivale",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429043007462",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:19:51Z"
+}

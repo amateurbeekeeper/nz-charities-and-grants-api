@@ -1,0 +1,27 @@
+{
+  "id": 47337,
+  "registrationNumber": "CC40016",
+  "name": "Manawatu District Neighbourhood Support Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.neighbourhoodsupportmanawatu.org.nz",
+  "email": "connect@nsm.org.nz",
+  "address": {
+    "line1": "93 Kimbolton Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Feilding",
+    "postcode": "4702"
+  },
+  "nzbn": "9429042992158",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/neighbourhoodsupportmanawatu",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T02:15:38Z"
+}

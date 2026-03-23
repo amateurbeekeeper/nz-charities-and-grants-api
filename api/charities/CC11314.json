@@ -1,0 +1,27 @@
+{
+  "id": 53160,
+  "registrationNumber": "CC11314",
+  "name": "Grace Communion International (New Zealand) Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gci.org.nz",
+  "email": "rex@gci.org.nz",
+  "address": {
+    "line1": "296A Lake Road",
+    "line2": " ",
+    "suburb": "Hauraki",
+    "city": "Auckland",
+    "postcode": "622"
+  },
+  "nzbn": "9429042994190",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GCI-Auckland-193990354121095/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-30T18:53:00Z"
+}

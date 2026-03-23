@@ -1,0 +1,27 @@
+{
+  "id": 37097,
+  "registrationNumber": "CC46847",
+  "name": "Waikato River Authority",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-08-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waikatoriver.org.nz",
+  "email": "kjstephens@kpmg.co.nz",
+  "address": {
+    "line1": "21 Rostrevor Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429052750106",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T01:21:24Z"
+}

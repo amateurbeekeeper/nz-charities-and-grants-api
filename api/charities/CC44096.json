@@ -1,0 +1,27 @@
+{
+  "id": 50370,
+  "registrationNumber": "CC44096",
+  "name": "Miharo Murihiku Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.miharo.co.nz",
+  "email": "tania@miharo.org",
+  "address": {
+    "line1": "28 Don Street",
+    "line2": "Invercargill 9810",
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429043151561",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/murihikumaoripasifikaculturaltrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-05T19:48:40Z"
+}

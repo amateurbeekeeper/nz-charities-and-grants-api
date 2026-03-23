@@ -1,0 +1,27 @@
+{
+  "id": 57421,
+  "registrationNumber": "CC35067",
+  "name": "Equippers Church Wanganui",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2016-04-05T00:00:00Z",
+  "website": "http://www.equipperschurchwanganui.com",
+  "email": "equipperschurch@slingshot.co.nz",
+  "address": {
+    "line1": "172 Glasgow Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Wanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:26:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56345,
+  "registrationNumber": "CC31639",
+  "name": "Destiny Church Christchurch",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.destinychurch.org.nz",
+  "email": "jenny@destinychurch.org.nz",
+  "address": {
+    "line1": "108 Petries Road",
+    "line2": "Woodend 7610",
+    "suburb": "Northwood",
+    "city": "Woodend",
+    "postcode": "7610"
+  },
+  "nzbn": "9429043120321",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "Destiny Church Christchurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T04:22:05Z"
+}

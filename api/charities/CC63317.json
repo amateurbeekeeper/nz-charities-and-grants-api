@@ -1,0 +1,27 @@
+{
+  "id": 77525,
+  "registrationNumber": "CC63317",
+  "name": "Kingdom First Emmanuel",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "salej@delasalle.school.nz",
+  "address": {
+    "line1": "87 Te Irirangi Drive",
+    "line2": null,
+    "suburb": "Clover Park",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T21:43:33Z"
+}

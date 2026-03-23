@@ -1,0 +1,27 @@
+{
+  "id": 39623,
+  "registrationNumber": "CC30327",
+  "name": "The Canterbury Opera Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.canterburyoperafoundation.co.nz",
+  "email": "jrrperry@gmail.com",
+  "address": {
+    "line1": "5A Riverton Terrace",
+    "line2": " ",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429043080830",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T21:45:57Z"
+}

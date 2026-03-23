@@ -1,0 +1,27 @@
+{
+  "id": 65488,
+  "registrationNumber": "CC51719",
+  "name": "Hope Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hopechurch.net.nz",
+  "email": "gerald.bradfield@hopechurch.net.nz",
+  "address": {
+    "line1": "27 Amyes Road",
+    "line2": " ",
+    "suburb": "Hornby",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429051392505",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T21:47:25Z"
+}

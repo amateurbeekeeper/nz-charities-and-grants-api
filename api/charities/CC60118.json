@@ -1,0 +1,27 @@
+{
+  "id": 73740,
+  "registrationNumber": "CC60118",
+  "name": "Trailblazers Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "trailblazers.co.nz",
+  "email": "aotearoa.trailblazers@gmail.com",
+  "address": {
+    "line1": "13 Cameron Street",
+    "line2": " ",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TrailblazersAotearoa",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T04:12:41Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75260,
+  "registrationNumber": "CC61691",
+  "name": "Payve Limited",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2023-07-13T00:00:00Z",
+  "dateDeregistered": "2025-04-23T00:00:00Z",
+  "website": "payve.org",
+  "email": "josh.comrie@gmail.com",
+  "address": {
+    "line1": "22 Bridge View Road",
+    "line2": null,
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T06:03:51Z"
+}

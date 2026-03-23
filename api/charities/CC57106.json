@@ -1,0 +1,27 @@
+{
+  "id": 70735,
+  "registrationNumber": "CC57106",
+  "name": "JackBord Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-06-21T00:00:00Z",
+  "dateDeregistered": "2025-08-29T00:00:00Z",
+  "website": "https://www.jackbordtrust.org",
+  "email": "jack@jackbord.works",
+  "address": {
+    "line1": "6 Ferndale Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waikanae",
+    "postcode": "5036"
+  },
+  "nzbn": "9429047475205",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T07:13:38Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 76320,
+  "registrationNumber": "CC62656",
+  "name": "New Beginnings Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.newbeginningschurchnz.com/",
+  "email": "v.paulski@gmail.com",
+  "address": {
+    "line1": "52A Rogan Street",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T03:50:52Z"
+}

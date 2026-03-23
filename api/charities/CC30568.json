@@ -1,0 +1,27 @@
+{
+  "id": 60229,
+  "registrationNumber": "CC30568",
+  "name": "Takapau Centennial Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "crirons@xtra.co.nz",
+  "address": {
+    "line1": "4374 State Highway 2",
+    "line2": "RD 1",
+    "suburb": "Kumara Junction",
+    "city": "Takapau",
+    "postcode": "4286"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T21:37:48Z"
+}

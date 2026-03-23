@@ -1,0 +1,27 @@
+{
+  "id": 59001,
+  "registrationNumber": "CC28953",
+  "name": "Stratford Camera Club",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "the.barretts.jl.scc@gmail.com",
+  "address": {
+    "line1": "70 Cressida Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Stratford",
+    "postcode": "4332"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T01:07:08Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43370,
+  "registrationNumber": "CC35806",
+  "name": "Royal School of Church Music New Zealand Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://rscmnz.org.nz",
+  "email": "agcity@gmail.com",
+  "address": {
+    "line1": "94 Karapiro Road",
+    "line2": "RD 4",
+    "suburb": "Karapiro",
+    "city": "Cambridge",
+    "postcode": "3496"
+  },
+  "nzbn": "9429042988878",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/rscmnz.org.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T04:19:08Z"
+}

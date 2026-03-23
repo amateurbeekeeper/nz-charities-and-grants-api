@@ -1,0 +1,27 @@
+{
+  "id": 51090,
+  "registrationNumber": "CC10540",
+  "name": "The Youth One Stop Shop Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.yoss.org.nz",
+  "email": "trissel@yoss.org.nz",
+  "address": {
+    "line1": "31 Princess Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042972815",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Youth One Stop Shop (YOSS)",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T01:28:00Z"
+}

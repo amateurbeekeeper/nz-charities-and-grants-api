@@ -1,0 +1,27 @@
+{
+  "id": 42720,
+  "registrationNumber": "CC45861",
+  "name": "Te Tikanga Marae Reservation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2019-10-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ttmarae819@gmail.com",
+  "address": {
+    "line1": "817 Tokorangi Road",
+    "line2": "Halcombe 4779",
+    "suburb": "Halcolmbe",
+    "city": "Halcombe",
+    "postcode": "4779"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T04:37:01Z"
+}

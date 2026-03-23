@@ -1,0 +1,27 @@
+{
+  "id": 44197,
+  "registrationNumber": "CC41177",
+  "name": "International Christian Embassy Jerusalem (New Zealand Branch)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.icej.org",
+  "email": "office@icej.org.nz",
+  "address": {
+    "line1": "82 Penguin Drive",
+    "line2": " ",
+    "suburb": "Murrays Bay",
+    "city": "Auckland",
+    "postcode": "630"
+  },
+  "nzbn": "9429050172788",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:32:10Z"
+}

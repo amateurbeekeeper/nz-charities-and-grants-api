@@ -1,0 +1,27 @@
+{
+  "id": 59631,
+  "registrationNumber": "CC27330",
+  "name": "Waikato Community Broadcasting Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.freefm.org.nz",
+  "email": "john@odonoghue.nz",
+  "address": {
+    "line1": "214 Collingwood Street",
+    "line2": " ",
+    "suburb": "Hamilton Lake",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042883234",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "freefm89",
+    "twitter": "freefm89"
+  },
+  "lastUpdated": "2025-12-02T18:12:56Z"
+}

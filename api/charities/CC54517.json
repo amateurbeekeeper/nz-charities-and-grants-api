@@ -1,0 +1,27 @@
+{
+  "id": 68184,
+  "registrationNumber": "CC54517",
+  "name": "Living Hope Worship Centre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-03-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chan.armstrong@hotmail.com",
+  "address": {
+    "line1": "50 Keeling Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Living Hope Worship Centre NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T02:59:32Z"
+}

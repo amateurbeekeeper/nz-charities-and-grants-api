@@ -1,0 +1,27 @@
+{
+  "id": 52568,
+  "registrationNumber": "CC21678",
+  "name": "Stepping Stone Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stepstone.org.nz",
+  "email": "grantm@stepstone.org.nz",
+  "address": {
+    "line1": "1 Barry Hogan Place",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042732433",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-06T04:07:34Z"
+}

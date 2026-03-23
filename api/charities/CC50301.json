@@ -1,0 +1,27 @@
+{
+  "id": 34024,
+  "registrationNumber": "CC50301",
+  "name": "Te Mana o Kupe Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tmok.org.nz",
+  "email": "michele@tmok.org.nz",
+  "address": {
+    "line1": "Bishop Viard College",
+    "line2": " 20 Kenepuru Drive",
+    "suburb": "Kenepuru",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429043261871",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T00:10:29Z"
+}

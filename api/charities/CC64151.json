@@ -1,0 +1,27 @@
+{
+  "id": 78333,
+  "registrationNumber": "CC64151",
+  "name": "Wellington Puppetry Festival",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-02-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "wellingtonpuppetryfestival@gmail.com",
+  "address": {
+    "line1": "45 Rakau Road",
+    "line2": null,
+    "suburb": "Hataitai",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T03:50:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51864,
+  "registrationNumber": "CC11019",
+  "name": "Ngaire Avenue Bible Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2007-09-04T00:00:00Z",
+  "dateDeregistered": "2023-04-30T00:00:00Z",
+  "website": "https://www.nabc.org.nz",
+  "email": "claireallegro@gmail.com",
+  "address": {
+    "line1": "3 Ngaire Avenue",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-03-17T21:44:05Z"
+}

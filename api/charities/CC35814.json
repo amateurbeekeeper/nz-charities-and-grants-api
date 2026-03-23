@@ -1,0 +1,27 @@
+{
+  "id": 46584,
+  "registrationNumber": "CC35814",
+  "name": "Yoga In Daily Life Society (New Zealand)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.yogaindailylife.org.nz",
+  "email": "djenkins@actrix.co.nz",
+  "address": {
+    "line1": "23 Jessie Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042677482",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T21:32:24Z"
+}

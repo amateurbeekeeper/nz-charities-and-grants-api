@@ -1,0 +1,27 @@
+{
+  "id": 42226,
+  "registrationNumber": "CC34161",
+  "name": "The Trust Tararua",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2023-06-30T00:00:00Z",
+  "website": null,
+  "email": "keryn@bbd.net.nz",
+  "address": {
+    "line1": "43 Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pahiatua",
+    "postcode": "4910"
+  },
+  "nzbn": "9429042774686",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-12-05T06:02:18Z"
+}

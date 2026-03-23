@@ -1,0 +1,27 @@
+{
+  "id": 63683,
+  "registrationNumber": "CC41627",
+  "name": "Tauriko School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tauriko.school.nz",
+  "email": "fionna.spittles@gmail.com",
+  "address": {
+    "line1": "State Highway 29",
+    "line2": "Tauriko",
+    "suburb": "R D 1",
+    "city": "Tauranga",
+    "postcode": "3171"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-05T19:25:48Z"
+}

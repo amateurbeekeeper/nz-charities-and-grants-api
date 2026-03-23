@@ -1,0 +1,27 @@
+{
+  "id": 45558,
+  "registrationNumber": "CC44098",
+  "name": "Pathways To The Future Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://pathwaystrust.co.nz",
+  "email": "David@pathwaystrust.co.nz",
+  "address": {
+    "line1": "Unit 2",
+    "line2": "527A Rosebank Road",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429043172368",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@pathwaystrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T22:36:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54640,
+  "registrationNumber": "CC21535",
+  "name": "Lyall Bay Surf Life Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lyallbayslsc.org.nz",
+  "email": "admin@lyallbayslsc.org.nz",
+  "address": {
+    "line1": "101 Lyall Parade",
+    "line2": " ",
+    "suburb": "Lyall Bay",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429042680789",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Lyall Bay Surf Life Saving Club",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-24T03:41:15Z"
+}

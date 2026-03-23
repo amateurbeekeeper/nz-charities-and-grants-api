@@ -1,0 +1,27 @@
+{
+  "id": 54518,
+  "registrationNumber": "CC21556",
+  "name": "The New Zealand Academy of Highland and National Dancing (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzahnd.org.nz",
+  "email": "admin@nzahnd.org.nz",
+  "address": {
+    "line1": "108A Roberts Line",
+    "line2": " ",
+    "suburb": "Kelvin Grove",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429042788188",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T22:19:47Z"
+}

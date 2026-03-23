@@ -1,0 +1,27 @@
+{
+  "id": 68363,
+  "registrationNumber": "CC54695",
+  "name": "The Kai Kitchen Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-06-01T00:00:00Z",
+  "dateDeregistered": "2023-03-31T00:00:00Z",
+  "website": "https://www.thekaikitchen.co.nz",
+  "email": "greg.rocky@outlook.com",
+  "address": {
+    "line1": "25 Glasgow Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hawera",
+    "postcode": "4610"
+  },
+  "nzbn": "9429047559684",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/TheKaiKitchen/?ref=bookmarks",
+    "twitter": null
+  },
+  "lastUpdated": "2023-05-08T07:02:06Z"
+}

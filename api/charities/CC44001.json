@@ -1,0 +1,27 @@
+{
+  "id": 50420,
+  "registrationNumber": "CC44001",
+  "name": "The Bartercard Foundation",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-04-13T00:00:00Z",
+  "dateDeregistered": "2018-09-10T00:00:00Z",
+  "website": "www.bartercardfoundation.co.nz",
+  "email": "nicky.marsh@bartercard.co.nz",
+  "address": {
+    "line1": "BUILDING 3   LEVEL 3",
+    "line2": "61 Constellation Drive",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429043207084",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-04-08T00:29:28Z"
+}

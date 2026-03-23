@@ -1,0 +1,27 @@
+{
+  "id": 55284,
+  "registrationNumber": "CC23559",
+  "name": "Paekakariki Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ericrodler.pct@gmail.com",
+  "address": {
+    "line1": "Flat 3",
+    "line2": "27 Beach Road",
+    "suburb": "Paekākāriki",
+    "city": "Paekakariki",
+    "postcode": "5034"
+  },
+  "nzbn": "9429043047130",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "St Peters Village Hall, Paekakariki",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:42:20Z"
+}

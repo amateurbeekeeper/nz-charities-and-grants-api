@@ -1,0 +1,27 @@
+{
+  "id": 68690,
+  "registrationNumber": "CC55031",
+  "name": "Kauri Theatre Company Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cheranne@slingshot.co.nz",
+  "address": {
+    "line1": "4 Laburnum Grove",
+    "line2": " ",
+    "suburb": "Maungaraki",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429046242983",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "KAURI Theatre Company",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-04T19:24:45Z"
+}

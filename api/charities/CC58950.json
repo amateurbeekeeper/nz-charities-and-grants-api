@@ -1,0 +1,27 @@
+{
+  "id": 72555,
+  "registrationNumber": "CC58950",
+  "name": "Asian Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "blueity@hotmail.com",
+  "address": {
+    "line1": "27 Wiltshire Place",
+    "line2": " ",
+    "suburb": "Somerville",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "1/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ACTrustNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T04:35:14Z"
+}

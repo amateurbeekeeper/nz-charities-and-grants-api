@@ -1,0 +1,27 @@
+{
+  "id": 33689,
+  "registrationNumber": "CC50122",
+  "name": "Rannerdale Home Care Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2013-12-23T00:00:00Z",
+  "dateDeregistered": "2022-09-30T00:00:00Z",
+  "website": "http://www.rannerdale.co.nz/our-services/home-based-support-services/",
+  "email": "angie@rannerdale.co.nz",
+  "address": {
+    "line1": "Rannerdale War Veterans Home",
+    "line2": "59 Hansons Lane",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429030003217",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-03-28T02:31:09Z"
+}

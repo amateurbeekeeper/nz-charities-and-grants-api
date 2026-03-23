@@ -1,0 +1,27 @@
+{
+  "id": 40960,
+  "registrationNumber": "CC23269",
+  "name": "The Gisborne SPCA Inc",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-04-21T00:00:00Z",
+  "dateDeregistered": "2019-02-28T00:00:00Z",
+  "website": "www.spca.nz",
+  "email": "tony.lemmens@spca.nz",
+  "address": {
+    "line1": "14 Nursery Road",
+    "line2": " ",
+    "suburb": "Matawhero",
+    "city": "Gisborne",
+    "postcode": "4071"
+  },
+  "nzbn": "9429042787501",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-04-08T20:24:01Z"
+}

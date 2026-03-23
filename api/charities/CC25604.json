@@ -1,0 +1,27 @@
+{
+  "id": 41564,
+  "registrationNumber": "CC25604",
+  "name": "Te Potiki National Trust Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.maorimaps.com",
+  "email": "keith@gsm.co.nz",
+  "address": {
+    "line1": "36 Norfolk Street",
+    "line2": " ",
+    "suburb": "Saint Clair",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429033600512",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Māori-Maps-213949235323586/",
+    "twitter": "@maorimaps"
+  },
+  "lastUpdated": "2026-02-18T03:02:08Z"
+}

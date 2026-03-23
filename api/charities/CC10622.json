@@ -1,0 +1,27 @@
+{
+  "id": 51522,
+  "registrationNumber": "CC10622",
+  "name": "Auckland Airport Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandairportcommunitytrust.org.nz",
+  "email": "airporttrust@gmail.com",
+  "address": {
+    "line1": "PO Box 73020",
+    "line2": " ",
+    "suburb": "Auckland Airport",
+    "city": "Auckland",
+    "postcode": "2150"
+  },
+  "nzbn": "9429043133475",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:01:37Z"
+}

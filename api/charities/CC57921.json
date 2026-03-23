@@ -1,0 +1,27 @@
+{
+  "id": 71555,
+  "registrationNumber": "CC57921",
+  "name": "Growing Future Farmers Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.growingfuturefarmers.co.nz",
+  "email": "wendy.paul@growingfuturefarmers.co.nz",
+  "address": {
+    "line1": "PWC Center ",
+    "line2": "Level 3",
+    "suburb": "6 Albion Street",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429047790520",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GFFgrowingfuturefarmers/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T03:56:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 45777,
+  "registrationNumber": "CC33606",
+  "name": "Te Pihopatanga O Aotearoa",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@tpoa.nz",
+  "address": {
+    "line1": "34 Cobden Street",
+    "line2": "Gisborne 4010",
+    "suburb": "Ohinemutu",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042864257",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:18Z"
+}

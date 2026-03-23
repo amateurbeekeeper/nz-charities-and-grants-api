@@ -1,0 +1,27 @@
+{
+  "id": 72792,
+  "registrationNumber": "CC59182",
+  "name": "Food For All",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "styles_mark@hotmail.com",
+  "address": {
+    "line1": "9 Benedict Street",
+    "line2": " ",
+    "suburb": "Aidanfield",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429050614059",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:28:47Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69282,
+  "registrationNumber": "CC55632",
+  "name": "New Migrants Association",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-03-28T00:00:00Z",
+  "dateDeregistered": "2025-02-17T00:00:00Z",
+  "website": "http://www.nzmf.org.nz",
+  "email": "nzmf.dolly@gmail.com",
+  "address": {
+    "line1": "27 Triton Drive",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429046672506",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/NewZealandMulticulturalFoundation/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-05T04:16:16Z"
+}

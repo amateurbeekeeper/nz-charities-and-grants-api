@@ -1,0 +1,27 @@
+{
+  "id": 68551,
+  "registrationNumber": "CC54883",
+  "name": "Papakura Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-11-01T00:00:00Z",
+  "dateDeregistered": "2025-08-15T00:00:00Z",
+  "website": null,
+  "email": "papakura@playcentre.org.nz",
+  "address": {
+    "line1": "15 Opaheke Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-30T07:11:54Z"
+}

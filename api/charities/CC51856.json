@@ -1,0 +1,27 @@
+{
+  "id": 65619,
+  "registrationNumber": "CC51856",
+  "name": "Riversdale Waikaia Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jrfw4@outlook.com",
+  "address": {
+    "line1": "239 Pyramid Siding Road",
+    "line2": "RD 6",
+    "suburb": "Mandeville",
+    "city": "Gore",
+    "postcode": "9776"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:52Z"
+}

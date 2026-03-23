@@ -1,0 +1,27 @@
+{
+  "id": 71537,
+  "registrationNumber": "CC57892",
+  "name": "Just Church Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.justchurch.org.nz",
+  "email": "office@justchurch.org.nz",
+  "address": {
+    "line1": "10 Kiriwai Road",
+    "line2": " ",
+    "suburb": "Paremata",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429048407649",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "JustChurchNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-29T10:01:15Z"
+}

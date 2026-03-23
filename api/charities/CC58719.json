@@ -1,0 +1,27 @@
+{
+  "id": 72311,
+  "registrationNumber": "CC58719",
+  "name": "East Coast Bays Cricket Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "eastcoastbayscricket.co.nz",
+  "email": "ecbayscricket@gmail.com",
+  "address": {
+    "line1": "496 East Coast Road",
+    "line2": " ",
+    "suburb": "Windsor Park",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429042716624",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ecbcricketclub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-10T20:02:24Z"
+}

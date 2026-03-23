@@ -1,0 +1,27 @@
+{
+  "id": 33626,
+  "registrationNumber": "CC50028",
+  "name": "Victoria University of Wellington Law Students' Society (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-11-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.vuwlss.com",
+  "email": "vuwlss@gmail.com",
+  "address": {
+    "line1": "Victoria UniversityFaculty of Law, 15 Lambton Quay",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043217168",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Victoria University of Wellington Law Students' Society",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T08:17:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51772,
+  "registrationNumber": "CC10467",
+  "name": "The Life Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.expressionchurch.nz",
+  "email": "peter.perumalla@expressionchurch.nz",
+  "address": {
+    "line1": "6 Sultan Street",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042585466",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/expressionchurchnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:31:28Z"
+}

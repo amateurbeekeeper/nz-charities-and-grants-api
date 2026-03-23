@@ -1,0 +1,27 @@
+{
+  "id": 37538,
+  "registrationNumber": "CC47597",
+  "name": "Horsewatch NZ",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2012-04-29T00:00:00Z",
+  "dateDeregistered": "2017-04-01T00:00:00Z",
+  "website": "http://www.horsewatchnz.org.nz",
+  "email": "horsewatchnz@xtra.co.nz",
+  "address": {
+    "line1": "295 Mainland Road",
+    "line2": "RD 4",
+    "suburb": "Kaipara Flats",
+    "city": "Warkworth",
+    "postcode": "0984"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/Horsewatch-NZ-234126726699341/?ref=br_rs",
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:53:12Z"
+}

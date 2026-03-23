@@ -1,0 +1,27 @@
+{
+  "id": 73050,
+  "registrationNumber": "CC59445",
+  "name": "Authenticity Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.authenticity.org.nz",
+  "email": "hello@authenticity.org.nz",
+  "address": {
+    "line1": "Unit 404",
+    "line2": "2B Augustus Terrace",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429049309744",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/authenticityaotearoa",
+    "twitter": "https://www.instagram.com/authenticityaotearoa/"
+  },
+  "lastUpdated": "2025-05-06T12:10:02Z"
+}

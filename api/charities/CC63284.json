@@ -1,0 +1,27 @@
+{
+  "id": 77485,
+  "registrationNumber": "CC63284",
+  "name": "Wellness Within NZ",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2025-05-06T00:00:00Z",
+  "dateDeregistered": "2025-06-15T00:00:00Z",
+  "website": null,
+  "email": "wellnesswithin.newzealand@gmail.com",
+  "address": {
+    "line1": "15 The Yardarm",
+    "line2": null,
+    "suburb": "Whitby",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T07:10:25Z"
+}

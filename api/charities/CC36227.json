@@ -1,0 +1,27 @@
+{
+  "id": 65140,
+  "registrationNumber": "CC36227",
+  "name": "The Rotorua Mountain Bike Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.mtbclub.org.nz",
+  "email": "barbarajenks@hotmail.com",
+  "address": {
+    "line1": "4 Walford Drive",
+    "line2": " ",
+    "suburb": "Lynmore",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042980063",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/RotoruaMountainBikeClub",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T22:47:54Z"
+}

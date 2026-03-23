@@ -1,0 +1,27 @@
+{
+  "id": 52126,
+  "registrationNumber": "CC10384",
+  "name": "The Oasis Elim Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.napierelimchurch.com",
+  "email": "oasis.napier@gmail.com",
+  "address": {
+    "line1": "30 Cranby Crescent",
+    "line2": null,
+    "suburb": "Onekawa",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429043002825",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/The.Oasis.Church.Napier",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-08T20:21:35Z"
+}

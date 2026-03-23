@@ -1,0 +1,27 @@
+{
+  "id": 77135,
+  "registrationNumber": "CC63087",
+  "name": "The Manawanui Project",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://manawanuiproject.org/",
+  "email": "furnerwarren@gmail.com",
+  "address": {
+    "line1": "743 Matawherohia Road",
+    "line2": " ",
+    "suburb": "Kaeo",
+    "city": "Kerikeri",
+    "postcode": "0245"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61570555190877",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T20:18:29Z"
+}

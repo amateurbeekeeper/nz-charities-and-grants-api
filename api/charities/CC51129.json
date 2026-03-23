@@ -1,0 +1,27 @@
+{
+  "id": 34645,
+  "registrationNumber": "CC51129",
+  "name": "Otonga School Support Group",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-09-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta@otonga.school.nz",
+  "address": {
+    "line1": "105 Otonga Road",
+    "line2": " ",
+    "suburb": "Springfield",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/OtongaSchoolPTA/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-24T19:35:20Z"
+}

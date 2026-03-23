@@ -1,0 +1,27 @@
+{
+  "id": 41910,
+  "registrationNumber": "CC42833",
+  "name": "The Havelock Community Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.havelock.co.nz",
+  "email": "hcaadmin@havelock.co.nz",
+  "address": {
+    "line1": "61 Main Road",
+    "line2": "Havelock 7100",
+    "suburb": " ",
+    "city": "Havelock",
+    "postcode": "7100"
+  },
+  "nzbn": "9429042777298",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/havelock.co.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T00:27:56Z"
+}

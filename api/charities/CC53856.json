@@ -1,0 +1,27 @@
+{
+  "id": 67555,
+  "registrationNumber": "CC53856",
+  "name": "Pacific Island Law Students Association",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.facebook.com/otagoPILSA",
+  "email": "pilsa.otago@otago.ac.nz",
+  "address": {
+    "line1": "PO Box 56",
+    "line2": " ",
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9054"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T02:45:07Z"
+}

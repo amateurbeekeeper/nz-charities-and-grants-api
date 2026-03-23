@@ -1,0 +1,27 @@
+{
+  "id": 44066,
+  "registrationNumber": "CC36232",
+  "name": "CATAS Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.catas.co.nz",
+  "email": "cameron@catas.co.nz",
+  "address": {
+    "line1": "PO Box 21145",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": "9429034768372",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:15:21Z"
+}

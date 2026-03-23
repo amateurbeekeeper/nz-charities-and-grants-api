@@ -1,0 +1,27 @@
+{
+  "id": 51626,
+  "registrationNumber": "CC23088",
+  "name": "The Touch Compass Dance Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.touchcompass.org.nz",
+  "email": "jon@touchcompass.org.nz",
+  "address": {
+    "line1": "Unit 4G-5G, 43a Linwood Avenue",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042980629",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/touchcompass/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T05:37:38Z"
+}

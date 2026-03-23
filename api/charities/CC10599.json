@@ -1,0 +1,27 @@
+{
+  "id": 51040,
+  "registrationNumber": "CC10599",
+  "name": "Whangarei Anglican Care Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://whgcare.org.nz",
+  "email": "whgcare@whgcare.org.nz",
+  "address": {
+    "line1": "1 Mill Road",
+    "line2": " ",
+    "suburb": "Regent",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429042925484",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/WhangareiAnglicanCareCentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T19:35:34Z"
+}

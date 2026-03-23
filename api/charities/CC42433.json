@@ -1,0 +1,27 @@
+{
+  "id": 62507,
+  "registrationNumber": "CC42433",
+  "name": "Papamoa Surf Life Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.papamoalifeguards.co.nz",
+  "email": "info@papamoalifeguards.co.nz",
+  "address": {
+    "line1": "561 Papamoa Beach Road",
+    "line2": " ",
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": "9429042786153",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/papamoasurflifesavingclub/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T00:22:06Z"
+}

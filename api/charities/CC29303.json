@@ -1,0 +1,27 @@
+{
+  "id": 59503,
+  "registrationNumber": "CC29303",
+  "name": "Canterbury Home Educators Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.che.org.nz",
+  "email": "peter.anovo@che.org.nz",
+  "address": {
+    "line1": "31 Brittan Street",
+    "line2": " ",
+    "suburb": "Linwood",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042601951",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CanterburyHomeEducators",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T07:21:20Z"
+}

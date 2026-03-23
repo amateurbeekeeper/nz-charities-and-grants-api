@@ -1,0 +1,27 @@
+{
+  "id": 41091,
+  "registrationNumber": "CC40180",
+  "name": "Duart House Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.duarthouse.org.nz",
+  "email": "paul.alexander.fisher@gmail.com",
+  "address": {
+    "line1": "7 Tokomaru Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Havelock North",
+    "postcode": "4130"
+  },
+  "nzbn": "9429042646976",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/www.duarthouse.org.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T03:40:52Z"
+}

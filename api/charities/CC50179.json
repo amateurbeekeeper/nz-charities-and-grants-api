@@ -1,0 +1,27 @@
+{
+  "id": 35327,
+  "registrationNumber": "CC50179",
+  "name": "Geyser City Squash Rackets Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.geysercitysquash.com",
+  "email": "president@geysercitysquash.co.nz",
+  "address": {
+    "line1": "17 Depot Street",
+    "line2": " ",
+    "suburb": "Mangakakahi",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429042628101",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GeyserCitySquash",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T03:02:29Z"
+}

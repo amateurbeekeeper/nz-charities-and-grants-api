@@ -1,0 +1,27 @@
+{
+  "id": 46893,
+  "registrationNumber": "CC42531",
+  "name": "The Little Bethlehem Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-10-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.littlebethlehem.info",
+  "email": "colleen.podmore@xtra.co.nz",
+  "address": {
+    "line1": "20 Dover Road",
+    "line2": " ",
+    "suburb": "Saint Andrews",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429043097937",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T09:13:55Z"
+}

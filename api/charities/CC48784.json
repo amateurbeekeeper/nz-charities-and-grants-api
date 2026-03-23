@@ -1,0 +1,27 @@
+{
+  "id": 33044,
+  "registrationNumber": "CC48784",
+  "name": "Maori Association of Social Science Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "simon.barber@otago.ac.nz",
+  "address": {
+    "line1": "Victoria University of Wellington",
+    "line2": "50 Kelburn Parade",
+    "suburb": "Kelburn",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043211388",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Māori-Association-of- Social-Science-MASS-241176579226396/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T00:26:41Z"
+}

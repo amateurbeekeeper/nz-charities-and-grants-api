@@ -1,0 +1,27 @@
+{
+  "id": 40129,
+  "registrationNumber": "CC23732",
+  "name": "Whangarei Heads Community Library Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rd.humphries@xtra.co.nz",
+  "address": {
+    "line1": "22 Norfolk Avenue",
+    "line2": "RD 4",
+    "suburb": "Whangārei Heads",
+    "city": "Whangarei",
+    "postcode": "0174"
+  },
+  "nzbn": "9429043043316",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com.whangareiheadsschoolandcommunitylibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-30T01:13:48Z"
+}

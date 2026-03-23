@@ -1,0 +1,27 @@
+{
+  "id": 48032,
+  "registrationNumber": "CC34144",
+  "name": "Ngati Makino Heritage Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ngatimakino.co.nz",
+  "email": "accountant@gha.co.nz",
+  "address": {
+    "line1": "1256 Arawa Street",
+    "line2": "Rotorua 3010",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429043164240",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ngatimakino/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-30T21:46:26Z"
+}

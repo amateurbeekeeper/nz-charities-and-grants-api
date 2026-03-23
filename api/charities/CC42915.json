@@ -1,0 +1,27 @@
+{
+  "id": 46981,
+  "registrationNumber": "CC42915",
+  "name": "Te Whare Oranga Wairua Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.healthpoint.co.nz/social-services/social/te-whare-oranga-wairua-maori-womens-refuge/",
+  "email": "aleen@twowrefuge.org.nz",
+  "address": {
+    "line1": "80 Tūwharetoa Street",
+    "line2": "Taupo 3330",
+    "suburb": " ",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429042944393",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/twowrefuge ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:32:21Z"
+}

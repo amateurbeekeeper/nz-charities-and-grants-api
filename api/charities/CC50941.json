@@ -1,0 +1,27 @@
+{
+  "id": 34531,
+  "registrationNumber": "CC50941",
+  "name": "New Zealand Double Reed Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzdrs.org.nz",
+  "email": "sam.brough1@hotmail.co.uk",
+  "address": {
+    "line1": "Flat 4",
+    "line2": "193 Kilmore Street",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "New Zealand Double Reed Society",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T20:52:58Z"
+}

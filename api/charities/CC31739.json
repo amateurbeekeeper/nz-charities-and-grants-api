@@ -1,0 +1,27 @@
+{
+  "id": 51236,
+  "registrationNumber": "CC31739",
+  "name": "Artists Alliance Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2020-01-30T00:00:00Z",
+  "website": "http://www.artistsalliance.org.nz",
+  "email": "admin@artistsalliance.org.nz",
+  "address": {
+    "line1": "1B Ponsonby Road",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429042578062",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-01-29T20:11:37Z"
+}

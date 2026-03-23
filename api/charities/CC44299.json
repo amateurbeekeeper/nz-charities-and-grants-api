@@ -1,0 +1,27 @@
+{
+  "id": 50378,
+  "registrationNumber": "CC44299",
+  "name": "Plimmerton Residents' Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.plimmerton.nz",
+  "email": "dongray@actrix.co.nz",
+  "address": {
+    "line1": "46 Taupo Crescent",
+    "line2": " ",
+    "suburb": "Plimmerton",
+    "city": "Porirua",
+    "postcode": "5026"
+  },
+  "nzbn": "9429042807384",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http:/www.facebook.com/plimmertonresidents",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-02T02:37:39Z"
+}

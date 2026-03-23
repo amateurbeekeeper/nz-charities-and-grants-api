@@ -1,0 +1,27 @@
+{
+  "id": 38755,
+  "registrationNumber": "CC45686",
+  "name": "Blenheim Rowing Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2020-10-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "blenheimrowing.co.nz",
+  "email": "blenheimrowing@gmail.com",
+  "address": {
+    "line1": "295 Jones Road",
+    "line2": "RD 3",
+    "suburb": "Grovetown",
+    "city": "Blenheim",
+    "postcode": "7273"
+  },
+  "nzbn": "9429042595366",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Blenheim Rowing Club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T18:21:11Z"
+}

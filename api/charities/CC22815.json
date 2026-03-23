@@ -1,0 +1,27 @@
+{
+  "id": 39632,
+  "registrationNumber": "CC22815",
+  "name": "Lincoln Road Bible Chapel",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://lincolnroad.org.nz",
+  "email": "admin@lincolnroad.org.nz",
+  "address": {
+    "line1": "66-68 Lincoln Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "610"
+  },
+  "nzbn": "9429050884070",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-02T05:13:06Z"
+}

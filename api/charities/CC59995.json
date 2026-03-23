@@ -1,0 +1,27 @@
+{
+  "id": 73347,
+  "registrationNumber": "CC59995",
+  "name": "Avondale Christian Kindergarten Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ackindy.org",
+  "email": "manager@ackindy.org",
+  "address": {
+    "line1": "63A St Georges Road",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429050291830",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T19:53:26Z"
+}

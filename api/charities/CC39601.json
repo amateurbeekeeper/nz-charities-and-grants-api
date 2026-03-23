@@ -1,0 +1,27 @@
+{
+  "id": 62524,
+  "registrationNumber": "CC39601",
+  "name": "Mossburn Preschool",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2024-06-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mossburnplaygroup@gmail.com",
+  "address": {
+    "line1": "9 Holmes Street",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Mossburn",
+    "postcode": "9792"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61553032095835",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T01:58:41Z"
+}

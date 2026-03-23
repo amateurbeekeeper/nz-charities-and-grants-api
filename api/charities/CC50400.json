@@ -1,0 +1,27 @@
+{
+  "id": 34123,
+  "registrationNumber": "CC50400",
+  "name": "Sporting Edge Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wwww.sportingedgetrust.com",
+  "email": "t.edwards@papakurahigh.school.nz",
+  "address": {
+    "line1": "Edgewater College",
+    "line2": "32 Edgewater Drive",
+    "suburb": "Pakuranga",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429043254040",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T06:33:09Z"
+}

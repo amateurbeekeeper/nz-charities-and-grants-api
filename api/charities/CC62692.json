@@ -1,0 +1,27 @@
+{
+  "id": 76381,
+  "registrationNumber": "CC62692",
+  "name": "Kia Hākinakina Wairarapa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://kiahakinakina.co.nz",
+  "email": "gm@kiahakinakina.co.nz",
+  "address": {
+    "line1": "371 Queen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429052411366",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Kia Hākinakina",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T20:06:49Z"
+}

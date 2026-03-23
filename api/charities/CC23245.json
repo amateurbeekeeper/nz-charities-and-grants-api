@@ -1,0 +1,27 @@
+{
+  "id": 39277,
+  "registrationNumber": "CC23245",
+  "name": "Omokoroa Community Church Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.theocc.org.nz",
+  "email": "maureen@theocc.org.nz",
+  "address": {
+    "line1": "139 Hamurana Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Omokoroa",
+    "postcode": "3114"
+  },
+  "nzbn": "9429042973768",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T22:30:18Z"
+}

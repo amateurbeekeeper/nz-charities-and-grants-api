@@ -1,0 +1,27 @@
+{
+  "id": 47341,
+  "registrationNumber": "CC39674",
+  "name": "Wellington Speaking Union Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2019-11-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wellingtonspeakingunion.co.nz",
+  "email": "wellingtonspeakingunion@gmail.com",
+  "address": {
+    "line1": "64 Majoribanks Street",
+    "line2": " ",
+    "suburb": "Mount Victoria",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043182428",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wsudebating",
+    "twitter": null
+  },
+  "lastUpdated": "2025-01-20T01:16:01Z"
+}

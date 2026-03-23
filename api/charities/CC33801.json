@@ -1,0 +1,27 @@
+{
+  "id": 42572,
+  "registrationNumber": "CC33801",
+  "name": "Whangamata Theatre Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "teedfelton@gmail.com",
+  "address": {
+    "line1": "103 Everitt Crescent",
+    "line2": " ",
+    "suburb": "Whangamatā",
+    "city": "Whangamata",
+    "postcode": "3620"
+  },
+  "nzbn": "9429042923763",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:22:12Z"
+}

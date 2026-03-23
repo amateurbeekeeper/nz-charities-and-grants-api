@@ -1,0 +1,27 @@
+{
+  "id": 38171,
+  "registrationNumber": "CC45826",
+  "name": "Mathematical Association Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-12-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cat64@actrix.co.nz",
+  "address": {
+    "line1": "Apartment 1509",
+    "line2": "Proximity Apartments",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042769972",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T03:58:24Z"
+}

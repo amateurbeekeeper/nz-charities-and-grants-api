@@ -1,0 +1,27 @@
+{
+  "id": 73240,
+  "registrationNumber": "CC59639",
+  "name": "Gilgal Pentecostal Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gpcnz.com",
+  "email": "prakashjosephnz@gmail.com",
+  "address": {
+    "line1": "12 Brian Hughes Road",
+    "line2": " ",
+    "suburb": "Wainuiomata",
+    "city": "Lower Hutt",
+    "postcode": "5014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Gilgal Pentecostal Church",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T03:30:40Z"
+}

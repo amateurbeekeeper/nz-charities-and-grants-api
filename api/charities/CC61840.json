@@ -1,0 +1,27 @@
+{
+  "id": 75399,
+  "registrationNumber": "CC61840",
+  "name": "Women’s Shed Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-11-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://womensshedaotearoa.org.nz",
+  "email": "queenstown@womensshedaotearoa.org.nz",
+  "address": {
+    "line1": "38B Boyes Crescent",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Women’s Shed Aotearoa",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-08T06:47:34Z"
+}

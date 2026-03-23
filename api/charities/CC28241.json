@@ -1,0 +1,27 @@
+{
+  "id": 60510,
+  "registrationNumber": "CC28241",
+  "name": "Back-Up New Zealand",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2011-01-20T00:00:00Z",
+  "website": "http://www.backup.org.nz",
+  "email": "admin@backup.org.nz",
+  "address": {
+    "line1": "PO Box 12229",
+    "line2": "Ahuriri",
+    "suburb": "Napier",
+    "city": null,
+    "postcode": "4144"
+  },
+  "nzbn": "9429043016105",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:43:56Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56815,
+  "registrationNumber": "CC35519",
+  "name": "John Ilott Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.johnilottcharitabletrust.co.nz",
+  "email": "jict@rcw.org.nz",
+  "address": {
+    "line1": "PO Box 10243",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429042667520",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:30:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35701,
+  "registrationNumber": "CC44783",
+  "name": "Coastal Rugby Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.coastalrugby.co.nz",
+  "email": "coastalrugbyclub@gmail.com",
+  "address": {
+    "line1": "54 Rahotu Road",
+    "line2": "Rahotu 4681",
+    "suburb": " ",
+    "city": "Rahotu",
+    "postcode": "4681"
+  },
+  "nzbn": "9429043027491",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T03:04:00Z"
+}

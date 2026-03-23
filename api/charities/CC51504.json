@@ -1,0 +1,27 @@
+{
+  "id": 65277,
+  "registrationNumber": "CC51504",
+  "name": "City Presbyterian Church Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-03-17T00:00:00Z",
+  "dateDeregistered": "2024-03-31T00:00:00Z",
+  "website": null,
+  "email": "c.grove@eba-accounting.com",
+  "address": {
+    "line1": "PO Box 8062",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8440"
+  },
+  "nzbn": "9429043278800",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-10-14T06:11:56Z"
+}

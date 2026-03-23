@@ -1,0 +1,27 @@
+{
+  "id": 41582,
+  "registrationNumber": "CC24732",
+  "name": "The Wellington RSA Welfare Trust Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wrsa.org.nz/",
+  "email": "zenetta@wrsa.org.nz",
+  "address": {
+    "line1": "Level 9",
+    "line2": "86 Victoria Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:15:12Z"
+}

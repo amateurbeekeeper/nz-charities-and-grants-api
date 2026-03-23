@@ -1,0 +1,27 @@
+{
+  "id": 33667,
+  "registrationNumber": "CC50220",
+  "name": "Terere Marae Maori Reservation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "arihiatuoro@gmail.com",
+  "address": {
+    "line1": "Terere Pa Road",
+    "line2": "Opotiki 3122",
+    "suburb": " ",
+    "city": "Opotiki",
+    "postcode": "3122"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:34:08Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75372,
+  "registrationNumber": "CC61813",
+  "name": "Christchurch Rocketeers Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.christchurchrocketeers.space",
+  "email": "simon@christchurchrocketeers.space",
+  "address": {
+    "line1": "6 Kate Sheppard Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rolleston",
+    "postcode": "7615"
+  },
+  "nzbn": "9429051565848",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/groups/chchrocketeers",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T19:46:07Z"
+}

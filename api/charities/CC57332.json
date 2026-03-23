@@ -1,0 +1,27 @@
+{
+  "id": 70963,
+  "registrationNumber": "CC57332",
+  "name": "Big Brothers Big Sisters  of Eastern Bay of Plenty",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-11-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bigbrothersbigsisters.org.nz",
+  "email": "whakatane@bigbrothersbigsisters.org.nz",
+  "address": {
+    "line1": "4 Canning Place",
+    "line2": "Whakatane 3120",
+    "suburb": "Whakatāne",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429047581434",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T02:05:02Z"
+}

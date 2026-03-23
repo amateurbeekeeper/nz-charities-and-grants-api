@@ -1,0 +1,27 @@
+{
+  "id": 41912,
+  "registrationNumber": "CC37353",
+  "name": "Kete Ora Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.keteora.nz",
+  "email": "info@keteora.nz",
+  "address": {
+    "line1": "92A Forest Lakes Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Otaki",
+    "postcode": "5583"
+  },
+  "nzbn": "9429042940418",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KeteOraTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T01:08:43Z"
+}

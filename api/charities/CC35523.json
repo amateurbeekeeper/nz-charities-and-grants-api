@@ -1,0 +1,27 @@
+{
+  "id": 43188,
+  "registrationNumber": "CC35523",
+  "name": "Riversdale Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-05-03T00:00:00Z",
+  "website": null,
+  "email": "riversdale@playcentre.org.nz",
+  "address": {
+    "line1": "66 Newcastle Street",
+    "line2": "Riversdale 9776",
+    "suburb": " ",
+    "city": "Riversdale",
+    "postcode": "9776"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:32:28Z"
+}

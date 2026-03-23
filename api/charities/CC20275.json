@@ -1,0 +1,27 @@
+{
+  "id": 54443,
+  "registrationNumber": "CC20275",
+  "name": "Royal New Zealand Returned And Services' Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-12-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rsa.org.nz",
+  "email": "celynb@rsa.org.nz",
+  "address": {
+    "line1": "PO Box 27248",
+    "line2": "Marion Square",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6141"
+  },
+  "nzbn": "9429042709893",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/newzealandrsa/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T06:05:52Z"
+}

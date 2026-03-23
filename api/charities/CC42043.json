@@ -1,0 +1,27 @@
+{
+  "id": 48440,
+  "registrationNumber": "CC42043",
+  "name": "Warkworth Agricultural And Pastoral Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://warkworthshow.co.nz",
+  "email": "secretary@warkworthshow.co.nz",
+  "address": {
+    "line1": "82 Great North Road",
+    "line2": "Warkworth 0910",
+    "suburb": " ",
+    "city": "Warkworth",
+    "postcode": "0910"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "WarkworthAandPLifestyleShow.co.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T18:08:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37676,
+  "registrationNumber": "CC47834",
+  "name": "Life Education Trust 2011 Whangarei",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lifeducation.org.nz",
+  "email": "leynon@summitca.co.nz",
+  "address": {
+    "line1": "C/- Summit",
+    "line2": " LEVEL 2",
+    "suburb": "4 Vinery Lane",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043223428",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-22T01:23:55Z"
+}

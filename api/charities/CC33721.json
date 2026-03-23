@@ -1,0 +1,27 @@
+{
+  "id": 63400,
+  "registrationNumber": "CC33721",
+  "name": "Awakeri Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-11-03T00:00:00Z",
+  "dateDeregistered": "2025-09-22T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/CompanyProfile?Action=View&CompanyProfile_id=130",
+  "email": "awakeri@playcentre.org.nz",
+  "address": {
+    "line1": "C/- Awakeri Playcentre",
+    "line2": "C/o Awakeri School",
+    "suburb": "Main Road, Awakeri, R D 2",
+    "city": "Whakatane",
+    "postcode": "3192"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/awakeriplaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T02:37:01Z"
+}

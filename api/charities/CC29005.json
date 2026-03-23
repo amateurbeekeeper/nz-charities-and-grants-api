@@ -1,0 +1,27 @@
+{
+  "id": 60795,
+  "registrationNumber": "CC29005",
+  "name": "Upper Hutt Child Development Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mcentre.org",
+  "email": "info@mcentre.org",
+  "address": {
+    "line1": "11 Marlborough Street",
+    "line2": " ",
+    "suburb": "Silverstream",
+    "city": "Upper Hutt",
+    "postcode": "5019"
+  },
+  "nzbn": "9429042877820",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:27:10Z"
+}

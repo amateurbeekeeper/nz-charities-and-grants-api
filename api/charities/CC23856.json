@@ -1,0 +1,27 @@
+{
+  "id": 40107,
+  "registrationNumber": "CC23856",
+  "name": "Steiger NZ Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://steiger.org/",
+  "email": "bryce@steiger.org",
+  "address": {
+    "line1": "18 Westwood Street",
+    "line2": " ",
+    "suburb": "Bellevue",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042732358",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/steigertauranga",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-18T22:32:01Z"
+}

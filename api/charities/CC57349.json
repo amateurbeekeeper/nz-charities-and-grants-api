@@ -1,0 +1,27 @@
+{
+  "id": 70980,
+  "registrationNumber": "CC57349",
+  "name": "Psychosynthesis South Pacific Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://psptrust.org.nz",
+  "email": "manager@psptrust.org.nz",
+  "address": {
+    "line1": "871 Tahakopa Valley Road",
+    "line2": "RD 2",
+    "suburb": "Tahakopa",
+    "city": "Owaka",
+    "postcode": "9586"
+  },
+  "nzbn": "9429046204523",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PsychosynthesisSouthPacific/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T18:53:10Z"
+}

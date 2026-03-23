@@ -1,0 +1,27 @@
+{
+  "id": 64427,
+  "registrationNumber": "CC42841",
+  "name": "Down River Kayak Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.drkc.org.nz",
+  "email": "drkc.secretary@gmail.com",
+  "address": {
+    "line1": "500 Mill Road",
+    "line2": "RD 2",
+    "suburb": "Ohoka",
+    "city": "Kaiapoi",
+    "postcode": "7692"
+  },
+  "nzbn": "9429043288229",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Down River Kayak Club",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T05:30:56Z"
+}

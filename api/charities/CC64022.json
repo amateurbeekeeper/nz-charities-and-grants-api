@@ -1,0 +1,27 @@
+{
+  "id": 78216,
+  "registrationNumber": "CC64022",
+  "name": "The New Zealand Primary Health Organisation Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-11-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "raewyn.fowler@thepho.org.nz",
+  "address": {
+    "line1": "75 Customhouse Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T19:23:30Z"
+}

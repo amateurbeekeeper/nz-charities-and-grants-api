@@ -1,0 +1,27 @@
+{
+  "id": 73913,
+  "registrationNumber": "CC60322",
+  "name": "AN NOOR ISLAMIC TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.anit.org.nz",
+  "email": "admin@anit.org.nz",
+  "address": {
+    "line1": "73 Masters Avenue",
+    "line2": " ",
+    "suburb": "Hillcrest",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429050474035",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-06T22:10:49Z"
+}

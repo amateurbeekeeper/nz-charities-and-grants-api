@@ -1,0 +1,27 @@
+{
+  "id": 51773,
+  "registrationNumber": "CC10534",
+  "name": "New Plymouth Positive Ageing Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://positiveageingtrust.org.nz",
+  "email": "archermichael@xtra.co.nz",
+  "address": {
+    "line1": "28 Glen Almond Street",
+    "line2": "New Plymouth 4310",
+    "suburb": "Fitzroy",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043116768",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T20:24:06Z"
+}

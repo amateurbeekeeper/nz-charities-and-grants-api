@@ -1,0 +1,27 @@
+{
+  "id": 62604,
+  "registrationNumber": "CC43318",
+  "name": "Raukawa Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-01-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.raukawa.org.nz",
+  "email": "ngawati.smiler@raukawa.org.nz",
+  "address": {
+    "line1": "1 Raukawa Way",
+    "line2": "Tokoroa 3420",
+    "suburb": " ",
+    "city": "Tokoroa",
+    "postcode": "3420"
+  },
+  "nzbn": "9429043210541",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/raukawacharitable/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T18:22:04Z"
+}

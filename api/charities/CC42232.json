@@ -1,0 +1,27 @@
+{
+  "id": 50915,
+  "registrationNumber": "CC42232",
+  "name": "Taradale Primary School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "PTA@taraprim.school.nz",
+  "address": {
+    "line1": "10 Church Road",
+    "line2": " ",
+    "suburb": "Taradale",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "12/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T21:01:42Z"
+}

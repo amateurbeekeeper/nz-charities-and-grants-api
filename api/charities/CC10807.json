@@ -1,0 +1,27 @@
+{
+  "id": 52492,
+  "registrationNumber": "CC10807",
+  "name": "The Cornerstone New Life Church Invercargill",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.xo.church",
+  "email": "graeme@xo.church",
+  "address": {
+    "line1": "1 Tay Street",
+    "line2": "Invercargill 9810",
+    "suburb": "Central City",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042871811",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/XO-Church",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T00:51:49Z"
+}

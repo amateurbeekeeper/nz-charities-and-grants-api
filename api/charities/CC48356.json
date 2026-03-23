@@ -1,0 +1,27 @@
+{
+  "id": 36656,
+  "registrationNumber": "CC48356",
+  "name": "Kimiora Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-10-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kimiora.nz",
+  "email": "office@kimiora.nz",
+  "address": {
+    "line1": "324 Malfroy Road",
+    "line2": " ",
+    "suburb": "Pomare",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429043232741",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Kimiora Community Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T20:23:40Z"
+}

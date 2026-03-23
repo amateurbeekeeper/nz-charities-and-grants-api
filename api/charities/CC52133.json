@@ -1,0 +1,27 @@
+{
+  "id": 65873,
+  "registrationNumber": "CC52133",
+  "name": "Upper Clutha Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wanakapresbyterian.org.nz",
+  "email": "reidaj54@outlook.co.nz",
+  "address": {
+    "line1": "94 Tenby Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WanakaPresbyterianCommunityChurch",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T03:52:59Z"
+}

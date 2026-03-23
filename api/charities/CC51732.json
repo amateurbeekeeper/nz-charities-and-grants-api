@@ -1,0 +1,27 @@
+{
+  "id": 65498,
+  "registrationNumber": "CC51732",
+  "name": "The Maraeroa Marae Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.maraeroa.maori.nz",
+  "email": "thaowlek.jm@gmail.com",
+  "address": {
+    "line1": "216 Warspite Avenue",
+    "line2": " ",
+    "suburb": "Waitangirua",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429042782186",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T01:54:37Z"
+}

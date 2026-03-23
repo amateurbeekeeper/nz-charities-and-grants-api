@@ -1,0 +1,27 @@
+{
+  "id": 68624,
+  "registrationNumber": "CC54962",
+  "name": "Backcountry Trust (Aotearoa/New Zealand)",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://backcountrytrust.org.nz",
+  "email": "bill@rise.co.nz",
+  "address": {
+    "line1": "3 Collina Terrace",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429046381668",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/1683830791842019",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T02:32:52Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71549,
+  "registrationNumber": "CC57930",
+  "name": "Kaikohe Rural Fire Brigade",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fireandemergency.nz",
+  "email": "Andrew.Crabb@fireandemergency.nz",
+  "address": {
+    "line1": "1B Recreation Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaikohe",
+    "postcode": "0405"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "NA",
+    "twitter": "NA"
+  },
+  "lastUpdated": "2025-09-16T05:29:52Z"
+}

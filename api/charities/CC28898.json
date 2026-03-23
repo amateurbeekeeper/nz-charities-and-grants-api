@@ -1,0 +1,27 @@
+{
+  "id": 60721,
+  "registrationNumber": "CC28898",
+  "name": "Theatre Artists Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pip@perfectlybalanced.nz",
+  "address": {
+    "line1": "1 Taranaki Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042844228",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-29T19:15:29Z"
+}

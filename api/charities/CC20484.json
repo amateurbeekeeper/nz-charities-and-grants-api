@@ -1,0 +1,27 @@
+{
+  "id": 53134,
+  "registrationNumber": "CC20484",
+  "name": "Northern Buller Museum, Granity",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "maylord@xtra.co.nz",
+  "address": {
+    "line1": "54-56 Back Road",
+    "line2": "Granity 7823",
+    "suburb": " ",
+    "city": "Granity",
+    "postcode": "7823"
+  },
+  "nzbn": "9429043171132",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Northern Buller Museum",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T20:23:29Z"
+}

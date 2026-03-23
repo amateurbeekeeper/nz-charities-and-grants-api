@@ -1,0 +1,27 @@
+{
+  "id": 73940,
+  "registrationNumber": "CC60351",
+  "name": "Ramakrishna Vedanta Centre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.vedanta.nz",
+  "email": "tadananda@vedanta.nz",
+  "address": {
+    "line1": "27 Arawa Street",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429050147182",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/VedantaNz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-28T19:06:52Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35448,
+  "registrationNumber": "CC47003",
+  "name": "North Shore Theatre and Arts Trust (The PumpHouse Theatre)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-07-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pumphouse.co.nz",
+  "email": "james@pumphouse.co.nz",
+  "address": {
+    "line1": "Manurere Ave",
+    "line2": "Takapuna",
+    "suburb": " ",
+    "city": "Auckland City",
+    "postcode": "0740"
+  },
+  "nzbn": "9429042789055",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/thepumphouse",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T03:41:23Z"
+}

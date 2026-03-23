@@ -1,0 +1,27 @@
+{
+  "id": 41521,
+  "registrationNumber": "CC35539",
+  "name": "The Conifer Grove Residents' Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hazkel@outlook.co.nz",
+  "address": {
+    "line1": "20 Syntax Place",
+    "line2": " ",
+    "suburb": "Conifer Grove",
+    "city": "Takanini",
+    "postcode": "2112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-04T01:08:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54885,
+  "registrationNumber": "CC21223",
+  "name": "Paeroa Community Support Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@pc.org.nz",
+  "address": {
+    "line1": "2 Mackay Street",
+    "line2": "Paeroa 3600",
+    "suburb": " ",
+    "city": "Paeroa",
+    "postcode": "3600"
+  },
+  "nzbn": "9429042905240",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T18:55:01Z"
+}

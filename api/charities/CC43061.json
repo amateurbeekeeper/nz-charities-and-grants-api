@@ -1,0 +1,27 @@
+{
+  "id": 42894,
+  "registrationNumber": "CC43061",
+  "name": "Otahuhu United Association Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.otahuhusoccer.org.nz",
+  "email": "secretary@otahuhusoccer.org.nz",
+  "address": {
+    "line1": "1-15 Brady Road",
+    "line2": " ",
+    "suburb": "Otahuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429042792154",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.otahuhusoccer.org.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-13T02:32:47Z"
+}

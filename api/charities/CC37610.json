@@ -1,0 +1,27 @@
+{
+  "id": 45230,
+  "registrationNumber": "CC37610",
+  "name": "Moore's Meadow Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2023-12-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "madeline.simpson@gmail.com",
+  "address": {
+    "line1": "124 School Road",
+    "line2": "RD 2",
+    "suburb": "Te Horo",
+    "city": "Otaki",
+    "postcode": "5582"
+  },
+  "nzbn": "9429042765936",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-12T22:27:04Z"
+}

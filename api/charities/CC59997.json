@@ -1,0 +1,27 @@
+{
+  "id": 73417,
+  "registrationNumber": "CC59997",
+  "name": "Centre for Not for Profit Leadership Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lead.org.nz",
+  "email": "sandy@lead.org.nz",
+  "address": {
+    "line1": "8A Northland Street",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "8429042113416",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LEAD.org.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T21:10:55Z"
+}

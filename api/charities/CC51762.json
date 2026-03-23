@@ -1,0 +1,27 @@
+{
+  "id": 65529,
+  "registrationNumber": "CC51762",
+  "name": "Whau the People Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://whauthepeople.com",
+  "email": "kiaora@whauthepeople.com",
+  "address": {
+    "line1": "99 Rosebank Road",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429043271672",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "whauthepeople",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T18:57:01Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71612,
+  "registrationNumber": "CC57989",
+  "name": "New Zealand Food Network Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-05-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzfoodnetwork.org.nz",
+  "email": "Deborah.Manning@nzfoodnetwork.org.nz",
+  "address": {
+    "line1": "B/373A Neilson Street",
+    "line2": " ",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429048150514",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZFoodNetwork",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:30:56Z"
+}

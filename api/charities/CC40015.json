@@ -1,0 +1,27 @@
+{
+  "id": 46822,
+  "registrationNumber": "CC40015",
+  "name": "Rangiora High School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rangiorahigh.school.nz",
+  "email": "rachel@perriams.co.nz",
+  "address": {
+    "line1": "851 Marshmans Road",
+    "line2": "RD 7",
+    "suburb": "Sefton",
+    "city": "Rangiora",
+    "postcode": "7477"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T22:40:02Z"
+}

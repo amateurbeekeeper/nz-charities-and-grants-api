@@ -1,0 +1,27 @@
+{
+  "id": 49883,
+  "registrationNumber": "CC31384",
+  "name": "St Kevins College Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stkevins.school.nz",
+  "email": "crusbatch@stkevins.school.nz",
+  "address": {
+    "line1": "57 Taward Street",
+    "line2": " ",
+    "suburb": "Oamaru North",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429042827986",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-26T23:56:42Z"
+}

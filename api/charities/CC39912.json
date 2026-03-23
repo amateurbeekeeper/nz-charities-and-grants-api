@@ -1,0 +1,27 @@
+{
+  "id": 46700,
+  "registrationNumber": "CC39912",
+  "name": "Agronomy Society Of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2021-10-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.agronomysociety.org.nz",
+  "email": "martinj@hnt.co.nz",
+  "address": {
+    "line1": "133 Collinson Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pirongia",
+    "postcode": "3802"
+  },
+  "nzbn": "9429042576464",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/agronomysocietynz/",
+    "twitter": "https://x.com/nz_agronomy"
+  },
+  "lastUpdated": "2026-03-13T04:13:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 61402,
+  "registrationNumber": "CC30190",
+  "name": "Pukekohe East Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-04-21T00:00:00Z",
+  "website": null,
+  "email": "pukekoheeast@playcentre.org.nz",
+  "address": {
+    "line1": "137 Runciman Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2677"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-05T07:09:14Z"
+}

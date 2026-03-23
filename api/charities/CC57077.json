@@ -1,0 +1,27 @@
+{
+  "id": 70710,
+  "registrationNumber": "CC57077",
+  "name": "Te Tatau o Te Arawa Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tetatau.nz",
+  "email": "kayla@tetatau.nz",
+  "address": {
+    "line1": "1108 Lake Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TeTatauOTeArawa/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T22:15:46Z"
+}

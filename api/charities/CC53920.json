@@ -1,0 +1,27 @@
+{
+  "id": 67612,
+  "registrationNumber": "CC53920",
+  "name": "Safe Surfer",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.safesurfer.co.nz",
+  "email": "rory@safesurfer.co.nz",
+  "address": {
+    "line1": "128B Darraghs Road",
+    "line2": " ",
+    "suburb": "Brookfield",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043353095",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/safesurfers/",
+    "twitter": "@safe_surfer"
+  },
+  "lastUpdated": "2025-10-01T18:45:37Z"
+}

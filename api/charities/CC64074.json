@@ -1,0 +1,27 @@
+{
+  "id": 78264,
+  "registrationNumber": "CC64074",
+  "name": "Kids In Business Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-12-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Kidsinbusinessnz@gmail.com",
+  "address": {
+    "line1": "12 Cockle Place",
+    "line2": "RD 3",
+    "suburb": "Stillwater",
+    "city": "Silverdale",
+    "postcode": "0993"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Kidinbusinessnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T02:29:16Z"
+}

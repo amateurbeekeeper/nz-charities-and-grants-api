@@ -1,0 +1,27 @@
+{
+  "id": 55497,
+  "registrationNumber": "CC28589",
+  "name": "Papakura Marae Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.papakuramarae.co.nz",
+  "email": "tonyk@papakuramarae.co.nz",
+  "address": {
+    "line1": "29 Hunua Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": "9429042822769",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/papakuramarae",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:38:33Z"
+}

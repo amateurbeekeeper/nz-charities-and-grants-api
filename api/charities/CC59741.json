@@ -1,0 +1,27 @@
+{
+  "id": 73369,
+  "registrationNumber": "CC59741",
+  "name": "Te Tira Ahu Pae Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tetiraahupae.ac.nz/",
+  "email": "m.hepi@tetiraahupae.ac.nz",
+  "address": {
+    "line1": "Level 1, Student Centre, Student Services Building",
+    "line2": "Massey University, Tennants Drive, Turitea Campus,",
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4474"
+  },
+  "nzbn": "9429043144327",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T02:00:58Z"
+}

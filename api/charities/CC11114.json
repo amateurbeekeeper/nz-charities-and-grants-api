@@ -1,0 +1,27 @@
+{
+  "id": 52205,
+  "registrationNumber": "CC11114",
+  "name": "The Court Theatre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.courttheatre.org.nz",
+  "email": "Kevin.Fee@courttheatre.org.nz",
+  "address": {
+    "line1": "129 Gloucester Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042854630",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The Court Theatre",
+    "twitter": "The Court Theatre"
+  },
+  "lastUpdated": "2026-01-12T00:13:36Z"
+}

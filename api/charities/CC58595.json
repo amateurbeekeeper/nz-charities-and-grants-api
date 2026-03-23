@@ -1,0 +1,27 @@
+{
+  "id": 72211,
+  "registrationNumber": "CC58595",
+  "name": "Aotearoa Land and Housing Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david.monk@homefoundation.org.nz",
+  "address": {
+    "line1": "1 Kairua Road",
+    "line2": " ",
+    "suburb": "Hornby",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429048860260",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-09T00:30:12Z"
+}

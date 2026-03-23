@@ -1,0 +1,27 @@
+{
+  "id": 39161,
+  "registrationNumber": "CC29350",
+  "name": "Lochiel Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lloyd.kathy@xtra.co.nz",
+  "address": {
+    "line1": "1100 Wilsons Crossing Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Winton",
+    "postcode": "9781"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-18T19:19:00Z"
+}

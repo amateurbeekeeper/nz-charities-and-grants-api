@@ -1,0 +1,27 @@
+{
+  "id": 37332,
+  "registrationNumber": "CC46943",
+  "name": "The Mount Albert Grammar School Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-10-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mags.school.nz/",
+  "email": "peter@thorp.co.nz",
+  "address": {
+    "line1": "Mt Albert Grammar School",
+    "line2": "36 Alberton Avenue",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042751564",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mountalbertgrammar/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T02:04:31Z"
+}

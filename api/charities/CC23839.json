@@ -1,0 +1,27 @@
+{
+  "id": 41545,
+  "registrationNumber": "CC23839",
+  "name": "New Zealand UP Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "administrator@upclub.org.nz",
+  "address": {
+    "line1": "14 Maurice Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lincoln",
+    "postcode": "7608"
+  },
+  "nzbn": "9429043103294",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzupclub/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:37:09Z"
+}

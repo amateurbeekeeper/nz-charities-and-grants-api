@@ -1,0 +1,27 @@
+{
+  "id": 68281,
+  "registrationNumber": "CC54615",
+  "name": "The Puffin Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-06-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dr.kiwi@xtra.co.nz",
+  "address": {
+    "line1": "17 Maungakiekie Avenue",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429045999253",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-17T19:20:06Z"
+}

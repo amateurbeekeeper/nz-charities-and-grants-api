@@ -1,0 +1,27 @@
+{
+  "id": 47102,
+  "registrationNumber": "CC38295",
+  "name": "The Auckland Christian Schools Endowment Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "a.m@outlook.co.nz",
+  "address": {
+    "line1": "50 Kuripaka Crescent",
+    "line2": " ",
+    "suburb": "The Gardens",
+    "city": "Auckland",
+    "postcode": "2105"
+  },
+  "nzbn": "9429043097043",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T07:10:53Z"
+}

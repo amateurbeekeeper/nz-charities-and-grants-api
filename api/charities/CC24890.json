@@ -1,0 +1,27 @@
+{
+  "id": 42392,
+  "registrationNumber": "CC24890",
+  "name": "The Riccarton Bush Trustees",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.riccartonhouse.co.nz",
+  "email": "manager@riccartonhouse.co.nz",
+  "address": {
+    "line1": "16 Kahu Road",
+    "line2": " ",
+    "suburb": "Fendalton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429048092425",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/riccartonhouseandbush",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T19:56:04Z"
+}

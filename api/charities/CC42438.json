@@ -1,0 +1,27 @@
+{
+  "id": 50908,
+  "registrationNumber": "CC42438",
+  "name": "Once Upon An Island Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-10-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://imagined-worlds.net/once-upon-an-island-trust",
+  "email": "tanya@imagined-worlds.net",
+  "address": {
+    "line1": "4 Korora Road",
+    "line2": " ",
+    "suburb": "Oneroa",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/Once-Upon-An-Island-Trust-261648697197862/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T21:15:24Z"
+}

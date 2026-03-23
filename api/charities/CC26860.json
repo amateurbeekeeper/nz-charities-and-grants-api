@@ -1,0 +1,27 @@
+{
+  "id": 54438,
+  "registrationNumber": "CC26860",
+  "name": "RNZWCS LIMITED",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rnzwcs.org",
+  "email": "stuart.batty@rnzwcs.org",
+  "address": {
+    "line1": "C/- MR S J BATTY",
+    "line2": "22 Lochmore Street",
+    "suburb": "Bishopdale",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429035641339",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/rotarynewzealandworldcommunityservice",
+    "twitter": "@rotarynewzeala"
+  },
+  "lastUpdated": "2025-12-03T20:29:28Z"
+}

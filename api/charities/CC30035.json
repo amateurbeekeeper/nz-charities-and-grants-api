@@ -1,0 +1,27 @@
+{
+  "id": 47864,
+  "registrationNumber": "CC30035",
+  "name": "Donaldson Residential Trust ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.donaldsonresidentialtrust.org.nz",
+  "email": "peter.kelly@drtrust.co.nz",
+  "address": {
+    "line1": "34A Brookside Terrace",
+    "line2": " ",
+    "suburb": "Bryndwr",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042667346",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T19:08:42Z"
+}

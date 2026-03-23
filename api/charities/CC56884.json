@@ -1,0 +1,27 @@
+{
+  "id": 70518,
+  "registrationNumber": "CC56884",
+  "name": "Nga Kura a Iwi o Aotearoa Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-04-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kuraaiwi.nz",
+  "email": "accounts@kuraaiwi.nz",
+  "address": {
+    "line1": "10 Caulfield Place",
+    "line2": " ",
+    "suburb": "Nawton",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429043101085",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kuraaiwi",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T05:13:13Z"
+}

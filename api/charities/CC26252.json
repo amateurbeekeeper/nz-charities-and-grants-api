@@ -1,0 +1,27 @@
+{
+  "id": 58544,
+  "registrationNumber": "CC26252",
+  "name": "Motueka District Toy Library",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "motuekadistricttoylibrary@gmail.com",
+  "address": {
+    "line1": "44 Pah Street",
+    "line2": "Motueka 7120",
+    "suburb": " ",
+    "city": "Motueka",
+    "postcode": "7120"
+  },
+  "nzbn": "9429042748618",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MotuekaDistrictToyLibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T02:01:58Z"
+}

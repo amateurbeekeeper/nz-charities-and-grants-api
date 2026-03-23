@@ -1,0 +1,27 @@
+{
+  "id": 70612,
+  "registrationNumber": "CC56981",
+  "name": "Battalion Jiu-Jitsu Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-09-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.battalionjj.com",
+  "email": "greg.seebeck@gmail.com",
+  "address": {
+    "line1": "8 Rainsford Street",
+    "line2": " ",
+    "suburb": "Moturoa",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/battalionjj",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T18:29:38Z"
+}

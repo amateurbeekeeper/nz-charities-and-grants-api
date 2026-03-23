@@ -1,0 +1,27 @@
+{
+  "id": 62038,
+  "registrationNumber": "CC40399",
+  "name": "Nina Busing Kindergarten",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cmka.org.nz",
+  "email": "deana@cmka.org.nz",
+  "address": {
+    "line1": "13A Clevedon Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T00:59:00Z"
+}

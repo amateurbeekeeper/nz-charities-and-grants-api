@@ -1,0 +1,27 @@
+{
+  "id": 47873,
+  "registrationNumber": "CC33827",
+  "name": "Te Rapuora Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2024-12-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fmclconsultancy@gmail.com",
+  "address": {
+    "line1": "5 Waharua Place",
+    "line2": " ",
+    "suburb": "Tawhero",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429043031665",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T01:15:16Z"
+}

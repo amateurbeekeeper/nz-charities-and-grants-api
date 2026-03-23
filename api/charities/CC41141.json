@@ -1,0 +1,27 @@
+{
+  "id": 58556,
+  "registrationNumber": "CC41141",
+  "name": "Hosanna Fellowship Porirua",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hosanna.nz",
+  "email": "admin@hosanna.net.nz",
+  "address": {
+    "line1": "2 Driver Crescent",
+    "line2": "30 Warspite Avenue",
+    "suburb": "Cannons Creek",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/hosannaporirua",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T01:48:13Z"
+}

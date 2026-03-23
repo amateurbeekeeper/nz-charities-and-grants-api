@@ -1,0 +1,27 @@
+{
+  "id": 73978,
+  "registrationNumber": "CC60377",
+  "name": "New Zealand Hague Collective",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.haguecollective.co.nz",
+  "email": "samantha.fill@hotmail.com",
+  "address": {
+    "line1": "7 Montrose Place",
+    "line2": " ",
+    "suburb": "Pyes Pa",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "NZ Hague Collective",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-12T01:49:54Z"
+}

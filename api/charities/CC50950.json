@@ -1,0 +1,27 @@
+{
+  "id": 34629,
+  "registrationNumber": "CC50950",
+  "name": "Ted Manson Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tedmansonfoundation.co.nz",
+  "email": "glen@manson.co.nz",
+  "address": {
+    "line1": "74 St Georges Bay Road",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429043285396",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-10T03:00:39Z"
+}

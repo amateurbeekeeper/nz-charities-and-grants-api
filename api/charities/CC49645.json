@@ -1,0 +1,27 @@
+{
+  "id": 35408,
+  "registrationNumber": "CC49645",
+  "name": "Mothers Milk NZ",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2013-08-09T00:00:00Z",
+  "dateDeregistered": "2025-02-14T00:00:00Z",
+  "website": "https://www.mothersmilknz.org.nz",
+  "email": "mothersmilknz@gmail.com",
+  "address": {
+    "line1": "4 Mayfield Road",
+    "line2": " ",
+    "suburb": "Glenfield",
+    "city": "Auckland",
+    "postcode": "0629"
+  },
+  "nzbn": "9429043251889",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/mothersmilknz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-14T06:08:13Z"
+}

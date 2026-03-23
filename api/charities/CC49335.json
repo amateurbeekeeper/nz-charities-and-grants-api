@@ -1,0 +1,27 @@
+{
+  "id": 35101,
+  "registrationNumber": "CC49335",
+  "name": "Aktive",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aktive.org.nz",
+  "email": "jennah.wootten@aktive.org.nz",
+  "address": {
+    "line1": "17 Antares Place",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043246274",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T02:40:38Z"
+}

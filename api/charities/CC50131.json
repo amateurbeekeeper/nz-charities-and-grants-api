@@ -1,0 +1,27 @@
+{
+  "id": 33566,
+  "registrationNumber": "CC50131",
+  "name": "Algoritmi Educational Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2019-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.algoritmi.org.nz/",
+  "email": "abdul@shefco.co.nz",
+  "address": {
+    "line1": "62 Hillsborough Road",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429047654327",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T20:07:34Z"
+}

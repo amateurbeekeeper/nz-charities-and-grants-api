@@ -1,0 +1,27 @@
+{
+  "id": 35771,
+  "registrationNumber": "CC44798",
+  "name": "The Little People of NZ Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-08-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lpnz.org.nz",
+  "email": "secretary@lpnz.org.nz",
+  "address": {
+    "line1": "PO Box 11056",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1542"
+  },
+  "nzbn": "9429042780342",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T20:38:17Z"
+}

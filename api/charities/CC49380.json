@@ -1,0 +1,27 @@
+{
+  "id": 35069,
+  "registrationNumber": "CC49380",
+  "name": "Whakatu Boxing Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2020-09-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "whakatuboxing@hotmail.com",
+  "address": {
+    "line1": "173 Collingwood Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043244416",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whakatu.boxing",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T00:39:41Z"
+}

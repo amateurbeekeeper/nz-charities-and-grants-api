@@ -1,0 +1,27 @@
+{
+  "id": 75069,
+  "registrationNumber": "CC61498",
+  "name": "High Impact Athletes NZ Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://highimpactathletes.org",
+  "email": "marcus@highimpactathletes.org",
+  "address": {
+    "line1": "30 Bridle Creek Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Raglan",
+    "postcode": "3295"
+  },
+  "nzbn": "9429051241278",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T01:57:04Z"
+}

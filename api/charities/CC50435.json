@@ -1,0 +1,27 @@
+{
+  "id": 34096,
+  "registrationNumber": "CC50435",
+  "name": "Kāwai Rangatahi Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kawai.org.nz",
+  "email": "sarah.millar@kawai.org.nz",
+  "address": {
+    "line1": "Unit 3",
+    "line2": "142 Ferry Road",
+    "suburb": "Waltham",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043254118",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100090096415643",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T21:46:46Z"
+}

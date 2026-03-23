@@ -1,0 +1,27 @@
+{
+  "id": 33339,
+  "registrationNumber": "CC49340",
+  "name": "Resonance Ensemble NZ Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-05-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.resonance.net.nz",
+  "email": "morag_macpherson@hotmail.co.uk",
+  "address": {
+    "line1": "127A Fendalton Road",
+    "line2": " ",
+    "suburb": "Fendalton",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429043246939",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "resonanceensembleNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:24:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70888,
+  "registrationNumber": "CC57264",
+  "name": "Pacific Masters Games Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-07-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pacificmastersgamestrust.com",
+  "email": "pacificmastersgamestrust@gmail.com",
+  "address": {
+    "line1": "45 Hendry Avenue",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429047583412",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Pacific Masters Sports",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T18:14:29Z"
+}

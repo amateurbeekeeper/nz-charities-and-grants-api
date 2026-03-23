@@ -1,0 +1,27 @@
+{
+  "id": 62286,
+  "registrationNumber": "CC41630",
+  "name": "KidzStuff Theatre for Children Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-08-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kidzstufftheatre.co.nz",
+  "email": "kidzstuffnz@gmail.com",
+  "address": {
+    "line1": "TARARUA TRAMPING CLUB",
+    "line2": "4 Moncrieff Street",
+    "suburb": "Mount Victoria",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043004089",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kidzstufftheatre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T00:04:24Z"
+}

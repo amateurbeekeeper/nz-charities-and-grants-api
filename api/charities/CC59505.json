@@ -1,0 +1,27 @@
+{
+  "id": 73107,
+  "registrationNumber": "CC59505",
+  "name": "FLYING KITES",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.flyingkites.org.nz",
+  "email": "Ainsley.darvell@flyingkites.org.nz",
+  "address": {
+    "line1": "19 La Bella Road",
+    "line2": " ",
+    "suburb": "Hobsonville",
+    "city": "Auckland",
+    "postcode": "0616"
+  },
+  "nzbn": "9429049918915",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/flyingkitesnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T23:56:39Z"
+}

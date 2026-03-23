@@ -1,0 +1,27 @@
+{
+  "id": 64483,
+  "registrationNumber": "CC38701",
+  "name": "Church Corner Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-03-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cctoylibrary.org.nz/",
+  "email": "president@cctoylibrary.org.nz",
+  "address": {
+    "line1": "393 Riccarton Road",
+    "line2": " ",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042843740",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/ChurchCornerToyLibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T06:42:29Z"
+}

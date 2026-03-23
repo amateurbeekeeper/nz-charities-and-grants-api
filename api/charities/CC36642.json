@@ -1,0 +1,27 @@
+{
+  "id": 60540,
+  "registrationNumber": "CC36642",
+  "name": "EC-Menz Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ecmenz.org",
+  "email": "stuart@itocl.co.nz",
+  "address": {
+    "line1": "45 Helston Road",
+    "line2": " ",
+    "suburb": "Johnsonville",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429043188048",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T03:22:57Z"
+}

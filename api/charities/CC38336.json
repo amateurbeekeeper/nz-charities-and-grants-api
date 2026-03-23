@@ -1,0 +1,27 @@
+{
+  "id": 62965,
+  "registrationNumber": "CC38336",
+  "name": "Aotearoa Pa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2021-07-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "aotearoapa.co.nz",
+  "email": "chair@aotearoapa.co.nz",
+  "address": {
+    "line1": "6 Victoria Street",
+    "line2": " ",
+    "suburb": "Hāwera",
+    "city": "Hawera",
+    "postcode": "4610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T19:51:30Z"
+}

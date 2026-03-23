@@ -1,0 +1,27 @@
+{
+  "id": 62458,
+  "registrationNumber": "CC39908",
+  "name": "Otago Art Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.otagoartsociety.co.nz",
+  "email": "otagoartsociety@xtra.co.nz",
+  "address": {
+    "line1": "1st Floor, Dunedin Railway Station",
+    "line2": "20-22 Anzac Avenue",
+    "suburb": " Anzac Square",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042792550",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Otago Art Society OAS",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T01:17:26Z"
+}

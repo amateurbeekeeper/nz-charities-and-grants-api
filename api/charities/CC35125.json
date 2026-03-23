@@ -1,0 +1,27 @@
+{
+  "id": 57218,
+  "registrationNumber": "CC35125",
+  "name": "New Zealand Anaesthetic Technicians Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzats.co.nz",
+  "email": "rachael.jones@nzats.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "Central House 26 Brandon Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043021543",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Nzatsinc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T04:56:59Z"
+}

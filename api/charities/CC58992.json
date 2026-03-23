@@ -1,0 +1,27 @@
+{
+  "id": 72595,
+  "registrationNumber": "CC58992",
+  "name": "Calls 4 Charity Limited",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2021-03-16T00:00:00Z",
+  "dateDeregistered": "2025-03-31T00:00:00Z",
+  "website": "https://www.calls4charity.co.nz",
+  "email": "brian@mda.org.nz",
+  "address": {
+    "line1": "74 Grey Street",
+    "line2": "Palmerston North 4410",
+    "suburb": "Penrose",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429048996181",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-23T22:44:50Z"
+}

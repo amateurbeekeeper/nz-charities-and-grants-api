@@ -1,0 +1,27 @@
+{
+  "id": 72025,
+  "registrationNumber": "CC58409",
+  "name": "Wairahi Tracks Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-10-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wairahitracks.nz",
+  "email": "john@catlor.co.nz",
+  "address": {
+    "line1": "25A Lang Road",
+    "line2": "RD 2",
+    "suburb": "Langs Beach",
+    "city": "Waipu",
+    "postcode": "0582"
+  },
+  "nzbn": "9429048450591",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:09:40Z"
+}

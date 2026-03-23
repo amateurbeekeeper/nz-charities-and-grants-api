@@ -1,0 +1,27 @@
+{
+  "id": 61052,
+  "registrationNumber": "CC28910",
+  "name": "Matuku Community Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.matukutheatre.nz",
+  "email": "smallfamilychch@gmail.com",
+  "address": {
+    "line1": "16 Wakefield Avenue",
+    "line2": " ",
+    "suburb": "Sumner",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": "9429042837121",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MatukuTheatre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T18:37:17Z"
+}

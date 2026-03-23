@@ -1,0 +1,27 @@
+{
+  "id": 48986,
+  "registrationNumber": "CC31092",
+  "name": "Belmont Christian Society Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://belmontchurch.org.nz",
+  "email": "admin@belmontchurch.org.nz",
+  "address": {
+    "line1": "357 South Road",
+    "line2": "RD 14",
+    "suburb": "Hāwera",
+    "city": "Hawera",
+    "postcode": "4674"
+  },
+  "nzbn": "9429042594345",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T21:11:44Z"
+}

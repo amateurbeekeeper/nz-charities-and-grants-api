@@ -1,0 +1,27 @@
+{
+  "id": 54735,
+  "registrationNumber": "CC21910",
+  "name": "Manawatu Youth Orchestra Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.manawatuorchestra.org.nz",
+  "email": "gillian.c.gibb@gmail.com",
+  "address": {
+    "line1": "26 Long Melford Road",
+    "line2": " ",
+    "suburb": "Awapuni",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429042753322",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ManawatuSinfonia/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T08:32:26Z"
+}

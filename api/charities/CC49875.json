@@ -1,0 +1,27 @@
+{
+  "id": 35364,
+  "registrationNumber": "CC49875",
+  "name": "Multiples Bay of Plenty",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-10-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.multiplesbop.org.nz",
+  "email": "president@multiplesbop.org.nz",
+  "address": {
+    "line1": "183 Taylor Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Multiples-Bay-of-Plenty-142198485818584/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T17:24:57Z"
+}

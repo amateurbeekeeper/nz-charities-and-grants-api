@@ -1,0 +1,27 @@
+{
+  "id": 45828,
+  "registrationNumber": "CC40068",
+  "name": "Toko Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-11-20T00:00:00Z",
+  "website": "http://www.playcentre.org.nz/",
+  "email": "Clarissadrav@gmail.com",
+  "address": {
+    "line1": "14 Station Road",
+    "line2": "RD 22",
+    "suburb": "Toko",
+    "city": "Stratford",
+    "postcode": "4392"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T06:03:29Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 57953,
+  "registrationNumber": "CC28578",
+  "name": "Pandemonium",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pandemoniumpercussion.com",
+  "email": "info@pandemoniumpercussion.com",
+  "address": {
+    "line1": "16 Corson Avenue",
+    "line2": " ",
+    "suburb": "Beckenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429042929628",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pandemoniumpercussion",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-12T19:09:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55091,
+  "registrationNumber": "CC21974",
+  "name": "Urban Vineyard",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.urbanvineyard.church",
+  "email": "office@urbanvineyard.church",
+  "address": {
+    "line1": "Ground Floor",
+    "line2": "65 Great North Road",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429043121212",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T19:27:41Z"
+}

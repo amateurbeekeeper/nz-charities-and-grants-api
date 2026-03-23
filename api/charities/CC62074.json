@@ -1,0 +1,27 @@
+{
+  "id": 75623,
+  "registrationNumber": "CC62074",
+  "name": "Night Ninjas Inc",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nightninjas.run",
+  "email": "ojacobsohn@gmail.com",
+  "address": {
+    "line1": "37 Syd Grant Crescent",
+    "line2": null,
+    "suburb": " ",
+    "city": "Orewa",
+    "postcode": "0931"
+  },
+  "nzbn": "9429051760601",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nightninjas.run",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-18T20:16:46Z"
+}

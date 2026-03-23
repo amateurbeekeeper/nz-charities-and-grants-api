@@ -1,0 +1,27 @@
+{
+  "id": 53538,
+  "registrationNumber": "CC20693",
+  "name": "Literacy Taupo Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tupolearning.nz",
+  "email": "literacy_taupo@xtra.co.nz",
+  "address": {
+    "line1": "3 Gascoigne Street",
+    "line2": "Taupo 3330",
+    "suburb": " ",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429042969082",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T22:28:23Z"
+}

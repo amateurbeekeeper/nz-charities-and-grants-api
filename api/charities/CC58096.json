@@ -1,0 +1,27 @@
+{
+  "id": 71720,
+  "registrationNumber": "CC58096",
+  "name": "WITCH Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.witchmusictheatre.co.nz",
+  "email": "info@witchmusictheatre.co.nz",
+  "address": {
+    "line1": "48A Owen Street",
+    "line2": " ",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429048437554",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/witchnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:20:26Z"
+}

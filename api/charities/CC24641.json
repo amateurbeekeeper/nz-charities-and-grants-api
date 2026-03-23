@@ -1,0 +1,27 @@
+{
+  "id": 42210,
+  "registrationNumber": "CC24641",
+  "name": "Oxfam Aotearoa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.oxfam.org.nz",
+  "email": "mistral.carson@oxfam.org.nz",
+  "address": {
+    "line1": "LEVEL 1",
+    "line2": "14 West Street",
+    "suburb": "Eden Terrace",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042616870",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/oxfamnz",
+    "twitter": "https://twitter.com/oxfamnz"
+  },
+  "lastUpdated": "2026-03-10T21:46:23Z"
+}

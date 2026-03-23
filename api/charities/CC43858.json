@@ -1,0 +1,27 @@
+{
+  "id": 50202,
+  "registrationNumber": "CC43858",
+  "name": "Ashburton Gymnastics Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurerashgym@gmail.com",
+  "address": {
+    "line1": "9 Argyle Place",
+    "line2": " ",
+    "suburb": "Allenton",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": "9429043096336",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Ashburton-Gymnastics-Club-935370649808898/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:39:27Z"
+}

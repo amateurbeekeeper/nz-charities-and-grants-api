@@ -1,0 +1,27 @@
+{
+  "id": 55657,
+  "registrationNumber": "CC22413",
+  "name": "Harbour Hospice Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.harbourhospice.org.nz",
+  "email": "amanda.fowler@harbourhospice.org.nz",
+  "address": {
+    "line1": "7 Shea Terrace",
+    "line2": " ",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "622"
+  },
+  "nzbn": "9429042694687",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T03:19:20Z"
+}

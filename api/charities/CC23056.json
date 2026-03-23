@@ -1,0 +1,27 @@
+{
+  "id": 39173,
+  "registrationNumber": "CC23056",
+  "name": "Coastguard Kapiti Coast Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.coastguard.co.nz",
+  "email": "president@coastguardkapiti.org.nz",
+  "address": {
+    "line1": "2 Marine Parade",
+    "line2": " ",
+    "suburb": "Paraparaumu Beach",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429043040223",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T22:28:52Z"
+}

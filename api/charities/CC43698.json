@@ -1,0 +1,27 @@
+{
+  "id": 62844,
+  "registrationNumber": "CC43698",
+  "name": "Te Poi Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2010-02-24T00:00:00Z",
+  "dateDeregistered": "2025-07-31T00:00:00Z",
+  "website": null,
+  "email": "te.poi@playcentre.org.nz",
+  "address": {
+    "line1": "EWPA",
+    "line2": "PO Box 231",
+    "suburb": " ",
+    "city": "Putaruru",
+    "postcode": "3443"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T07:11:46Z"
+}

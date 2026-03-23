@@ -1,0 +1,27 @@
+{
+  "id": 50284,
+  "registrationNumber": "CC43833",
+  "name": "Pinnacle House Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pinnaclehousenelson.org.nz",
+  "email": "admin@pinnaclehouse.org.nz",
+  "address": {
+    "line1": "452 Lower Queen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": "9429043210206",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Pinnacle House",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-07T19:19:31Z"
+}

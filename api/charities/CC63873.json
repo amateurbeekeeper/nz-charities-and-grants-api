@@ -1,0 +1,27 @@
+{
+  "id": 78065,
+  "registrationNumber": "CC63873",
+  "name": "Raukumara Pae Maunga",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.raukumara.org.nz/",
+  "email": "shgordon@doc.govt.nz",
+  "address": {
+    "line1": "200 Copenhagen Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Kaha",
+    "postcode": "3199"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KoTeRaukumaraTeNgahere/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T02:48:29Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69903,
+  "registrationNumber": "CC56259",
+  "name": "The Thames White House Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "thameswhitehousetrust@gmail.com",
+  "address": {
+    "line1": "913 Queen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429046788160",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T18:41:36Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65685,
+  "registrationNumber": "CC51937",
+  "name": "St Andrews Mt Maunganui Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mountchurch.org.nz",
+  "email": "accounts@mountchurch.org.nz",
+  "address": {
+    "line1": "3 Macville Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/StAsChurch/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:43:11Z"
+}

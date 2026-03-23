@@ -1,0 +1,27 @@
+{
+  "id": 36536,
+  "registrationNumber": "CC46995",
+  "name": "Bellyful New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bellyful.org.nz",
+  "email": "sheena.revington@bellyful.org.nz",
+  "address": {
+    "line1": "PO Box 745",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429043222483",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BellyfulNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T23:15:04Z"
+}

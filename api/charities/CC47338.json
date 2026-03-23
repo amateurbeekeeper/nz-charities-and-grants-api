@@ -1,0 +1,27 @@
+{
+  "id": 36308,
+  "registrationNumber": "CC47338",
+  "name": "The Well Church Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-02-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://thewellnz.org",
+  "email": "accounts@thewellnz.org",
+  "address": {
+    "line1": "7 Waverley Street",
+    "line2": " ",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429050078523",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T21:16:39Z"
+}

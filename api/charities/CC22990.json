@@ -1,0 +1,27 @@
+{
+  "id": 54911,
+  "registrationNumber": "CC22990",
+  "name": "St Peter's Jacobite Syrian Orthodox Christian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stpeterschurch.org.nz/",
+  "email": "vicar@stpeterschurch.org.nz",
+  "address": {
+    "line1": "15 Culperry Road",
+    "line2": " ",
+    "suburb": "Glendene",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": "9429043111060",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/102067436507853",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:12:46Z"
+}

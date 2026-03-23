@@ -1,0 +1,27 @@
+{
+  "id": 54705,
+  "registrationNumber": "CC21572",
+  "name": "Cobham Street Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://swbc.org.nz",
+  "email": "panderson@swbc.org.nz",
+  "address": {
+    "line1": "244 Lyttleton Street",
+    "line2": " ",
+    "suburb": "Spreydon",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429042667964",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T03:37:41Z"
+}

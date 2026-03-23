@@ -1,0 +1,27 @@
+{
+  "id": 33047,
+  "registrationNumber": "CC48819",
+  "name": "Te Poho o Hinemihi Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-02-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hinemihi316@gmail.com",
+  "address": {
+    "line1": "316 Ruataniwha Road",
+    "line2": "Wairoa 4108",
+    "suburb": " ",
+    "city": "Wairoa",
+    "postcode": "4108"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Poho-o-Hinemihi Marae",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T19:44:42Z"
+}

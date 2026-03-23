@@ -1,0 +1,27 @@
+{
+  "id": 33745,
+  "registrationNumber": "CC49914",
+  "name": "Napier RSA Welfare Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-11-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://clubsnapier.co.nz",
+  "email": "vicepresident@clubsnapier.co.nz",
+  "address": {
+    "line1": "34 Vautier Street",
+    "line2": " ",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429043323470",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-31T19:45:05Z"
+}

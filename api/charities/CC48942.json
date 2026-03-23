@@ -1,0 +1,27 @@
+{
+  "id": 33294,
+  "registrationNumber": "CC48942",
+  "name": "Te Wana Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://tewana.org.nz",
+  "email": "jane@tewana.org.nz",
+  "address": {
+    "line1": "39 The Terrace",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043321650",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:52:23Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51734,
+  "registrationNumber": "CC10522",
+  "name": "The Otago Festival of the Arts Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.artsfestivaldunedin.co.nz",
+  "email": "christine@bbas.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "106 George Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042960799",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/artsfestdunedin",
+    "twitter": "twitter.com/artsfestdunedin"
+  },
+  "lastUpdated": "2025-10-05T18:49:33Z"
+}

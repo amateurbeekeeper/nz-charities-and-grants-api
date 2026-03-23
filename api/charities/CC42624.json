@@ -1,0 +1,27 @@
+{
+  "id": 47082,
+  "registrationNumber": "CC42624",
+  "name": "One 2 One Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-10-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "neil@winfrance.co.nz",
+  "address": {
+    "line1": "PO Box 37077",
+    "line2": " ",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8245"
+  },
+  "nzbn": "9429043198023",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T18:37:39Z"
+}

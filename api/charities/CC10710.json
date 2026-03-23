@@ -1,0 +1,27 @@
+{
+  "id": 51920,
+  "registrationNumber": "CC10710",
+  "name": "Budgeting Services North Canterbury (BSNC)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bsnc.org.nz",
+  "email": "servicemanager@bsnc.org.nz",
+  "address": {
+    "line1": "1 Albert Street",
+    "line2": "Rangiora 7400",
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": "9429050726189",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Budgeting Services North Canterbury",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T06:06:20Z"
+}

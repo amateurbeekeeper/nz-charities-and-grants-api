@@ -1,0 +1,27 @@
+{
+  "id": 45650,
+  "registrationNumber": "CC35251",
+  "name": "Te Hou Ora Whanau Services Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thows.org.nz",
+  "email": "info@thows.org.nz",
+  "address": {
+    "line1": "78 Carroll Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429049080520",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T23:19:26Z"
+}

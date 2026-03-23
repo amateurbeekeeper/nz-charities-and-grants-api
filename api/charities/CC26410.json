@@ -1,0 +1,27 @@
+{
+  "id": 58671,
+  "registrationNumber": "CC26410",
+  "name": "Seaside Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pat.orchard@xtra.co.nz",
+  "address": {
+    "line1": "Seaside Sanctuary",
+    "line2": "92 The Esplanade",
+    "suburb": "Surfdale",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429042797661",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T19:24:18Z"
+}

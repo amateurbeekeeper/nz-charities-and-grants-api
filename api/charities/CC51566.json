@@ -1,0 +1,27 @@
+{
+  "id": 65340,
+  "registrationNumber": "CC51566",
+  "name": "Hearing Association New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hearing.org.nz",
+  "email": "janda@hearing.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "50 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042779209",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@hearing.org.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T19:09:53Z"
+}

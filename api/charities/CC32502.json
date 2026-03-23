@@ -1,0 +1,27 @@
+{
+  "id": 41635,
+  "registrationNumber": "CC32502",
+  "name": "Bread Of Life Christian Church In Christchurch",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bolccc.org",
+  "email": "johnny.lin@bolccc.org",
+  "address": {
+    "line1": "30 Sheffield Crescent",
+    "line2": " ",
+    "suburb": "Burnside",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429043015429",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T02:14:31Z"
+}

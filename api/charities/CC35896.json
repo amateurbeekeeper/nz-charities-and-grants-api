@@ -1,0 +1,27 @@
+{
+  "id": 62434,
+  "registrationNumber": "CC35896",
+  "name": "South Auckland Christian Foodbank",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sacfb.org.nz",
+  "email": "ian@sacfb.org.nz",
+  "address": {
+    "line1": "75 Omana Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429043181926",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T18:03:55Z"
+}

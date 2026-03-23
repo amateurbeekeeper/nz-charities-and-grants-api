@@ -1,0 +1,27 @@
+{
+  "id": 72713,
+  "registrationNumber": "CC59109",
+  "name": "Debtfix Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.debtfix.co.nz",
+  "email": "christine@debtfix.co.nz",
+  "address": {
+    "line1": "20 Florence Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Orewa",
+    "postcode": "0931"
+  },
+  "nzbn": "9429048920131",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/debtfixnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T18:59:10Z"
+}

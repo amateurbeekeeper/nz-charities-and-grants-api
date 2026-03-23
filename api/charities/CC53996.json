@@ -1,0 +1,27 @@
+{
+  "id": 67689,
+  "registrationNumber": "CC53996",
+  "name": "Sticks 'n Stones Incorporated",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2016-12-19T00:00:00Z",
+  "dateDeregistered": "2025-08-06T00:00:00Z",
+  "website": "https://www.sticksnstones.co.nz",
+  "email": "karlas@netsafe.org.nz",
+  "address": {
+    "line1": "Community House, 14-20 Centennial Ave",
+    "line2": null,
+    "suburb": " ",
+    "city": "Alexandra",
+    "postcode": "9320"
+  },
+  "nzbn": "9429045858253",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/nzsticksnstones",
+    "twitter": "@sticksnstonesnz"
+  },
+  "lastUpdated": "2025-08-20T07:17:08Z"
+}

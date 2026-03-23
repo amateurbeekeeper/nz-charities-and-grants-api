@@ -1,0 +1,27 @@
+{
+  "id": 41017,
+  "registrationNumber": "CC27583",
+  "name": "Stand Children's Services Tu Maia Whanau",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://standforchildren.org.nz",
+  "email": "ruben.magallanes@standforchildren.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "230 Thorndon Quay",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429041904121",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:30:05Z"
+}

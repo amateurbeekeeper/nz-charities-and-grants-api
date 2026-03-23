@@ -1,0 +1,27 @@
+{
+  "id": 55306,
+  "registrationNumber": "CC22088",
+  "name": "Motuihe Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.motuihe.org.nz",
+  "email": "michael.wood@simpsongrierson.com",
+  "address": {
+    "line1": "7 Tamaki Drive",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429043064670",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:36:20Z"
+}

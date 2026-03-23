@@ -1,0 +1,27 @@
+{
+  "id": 71688,
+  "registrationNumber": "CC58060",
+  "name": "Lilly Moss Animal Sanctuary",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.lillymoss.co.nz",
+  "email": "jordan.mcconnochie@gmail.com",
+  "address": {
+    "line1": "131 Victoria Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Lilly Moss Animal Sanctuary",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:28:26Z"
+}

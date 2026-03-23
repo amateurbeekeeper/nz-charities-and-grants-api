@@ -1,0 +1,27 @@
+{
+  "id": 55084,
+  "registrationNumber": "CC22004",
+  "name": "Wellington Catholic Homes Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "wchtrust@bourke.net.nz",
+  "address": {
+    "line1": "Darvill Mellors & Co",
+    "line2": " Level 1, 2-12 Allen Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042916536",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-21T02:27:33Z"
+}

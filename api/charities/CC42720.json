@@ -1,0 +1,27 @@
+{
+  "id": 47009,
+  "registrationNumber": "CC42720",
+  "name": "St George's Rowing Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stgeorgesrowing.org.nz",
+  "email": "treasurer@stgeorgesnz.org",
+  "address": {
+    "line1": "102 Kings Road",
+    "line2": "Panmure",
+    "suburb": "Panmure",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042733522",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/stgeorgesrowingclubnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-12T03:24:28Z"
+}

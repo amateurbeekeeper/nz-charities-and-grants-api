@@ -1,0 +1,27 @@
+{
+  "id": 57734,
+  "registrationNumber": "CC37293",
+  "name": "Harbour Sport Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.harboursport.co.nz",
+  "email": "mikeb@harboursport.co.nz",
+  "address": {
+    "line1": "Stadium Drive",
+    "line2": "Albany",
+    "suburb": " ",
+    "city": "North Shore",
+    "postcode": null
+  },
+  "nzbn": "9429042689379",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/harboursport/",
+    "twitter": "https://twitter.com/HarbourSport"
+  },
+  "lastUpdated": "2025-12-18T00:27:42Z"
+}

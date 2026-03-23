@@ -1,0 +1,27 @@
+{
+  "id": 63921,
+  "registrationNumber": "CC39141",
+  "name": "Te Pou Matakana Tuararo Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john.tamihere@waiwhanau.com",
+  "address": {
+    "line1": "6 Pioneer Street",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429038450464",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:20:44Z"
+}

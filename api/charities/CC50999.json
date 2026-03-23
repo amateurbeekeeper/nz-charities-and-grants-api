@@ -1,0 +1,27 @@
+{
+  "id": 34477,
+  "registrationNumber": "CC50999",
+  "name": "Te Arawa Fisheries Properties Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-07-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tearawafisheries.maori.nz",
+  "email": "info@tearawafisheries.maori.nz",
+  "address": {
+    "line1": "1204 Whakaue Street",
+    "line2": "Rotorua 3010",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429030134652",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T23:29:40Z"
+}

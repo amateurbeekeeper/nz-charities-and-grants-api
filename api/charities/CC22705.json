@@ -1,0 +1,27 @@
+{
+  "id": 56123,
+  "registrationNumber": "CC22705",
+  "name": "The Royal New Zealand Society for the Prevention of Cruelty to Animals Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.spca.nz",
+  "email": "jason.copus@spca.nz",
+  "address": {
+    "line1": "6 Rawiri Place",
+    "line2": " ",
+    "suburb": "Hobsonville",
+    "city": "Auckland",
+    "postcode": "0618"
+  },
+  "nzbn": "9429041920213",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T19:33:31Z"
+}

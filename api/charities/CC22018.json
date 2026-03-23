@@ -1,0 +1,27 @@
+{
+  "id": 55258,
+  "registrationNumber": "CC22018",
+  "name": "Life Connection Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "zhen@dqp.tax",
+  "address": {
+    "line1": "27 Jubaea Place",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "610"
+  },
+  "nzbn": "9429043016372",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T22:19:09Z"
+}

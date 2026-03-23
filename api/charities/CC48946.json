@@ -1,0 +1,27 @@
+{
+  "id": 37203,
+  "registrationNumber": "CC48946",
+  "name": "Te Aupouri Iwi Development Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teaupouri.iwi.nz",
+  "email": "tipene@teaupouri.iwi.nz",
+  "address": {
+    "line1": "24 Te Ahu Road",
+    "line2": "RD 4",
+    "suburb": "Te Kao",
+    "city": "Kaitaia",
+    "postcode": "0484"
+  },
+  "nzbn": "9429043234554",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T22:05:35Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34943,
+  "registrationNumber": "CC49267",
+  "name": "Bob Turnbull Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-03-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bobturnbulltrust.co.nz/",
+  "email": "tracy@matakanui.co.nz",
+  "address": {
+    "line1": "59 Swindon Street",
+    "line2": "Ophir 9393",
+    "suburb": " ",
+    "city": "Ophir",
+    "postcode": "9393"
+  },
+  "nzbn": "9429043241910",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T18:12:58Z"
+}

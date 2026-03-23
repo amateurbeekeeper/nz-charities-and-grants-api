@@ -1,0 +1,27 @@
+{
+  "id": 59772,
+  "registrationNumber": "CC30966",
+  "name": "The Presbyterian Church Of Aotearoa New Zealand Presbytery of Auckland St Martins Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "clerk@northpres.org.nz",
+  "address": {
+    "line1": "111 Great South Road",
+    "line2": "7 Harrison Road",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:00:50Z"
+}

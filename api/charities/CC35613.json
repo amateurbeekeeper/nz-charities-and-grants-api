@@ -1,0 +1,27 @@
+{
+  "id": 43356,
+  "registrationNumber": "CC35613",
+  "name": "Te Kāhui Maunga Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2025-10-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chairperson@tekahuimaunga.co.nz",
+  "address": {
+    "line1": "133 Wicksteed Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429043062577",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T02:31:14Z"
+}

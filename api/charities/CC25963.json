@@ -1,0 +1,27 @@
+{
+  "id": 48262,
+  "registrationNumber": "CC25963",
+  "name": "Whangarei Film Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2023-02-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://whangareifilmsociety.org/",
+  "email": "publicity@whangareifilmsociety.org",
+  "address": {
+    "line1": "14 Hassard Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429043108435",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whangareifilmsociety",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T03:27:07Z"
+}

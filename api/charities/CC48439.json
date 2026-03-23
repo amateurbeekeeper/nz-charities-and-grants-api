@@ -1,0 +1,27 @@
+{
+  "id": 37520,
+  "registrationNumber": "CC48439",
+  "name": "Horsham Downs Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-11-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.horshamdownsgolf.co.nz",
+  "email": "admin@horshamdownsgolf.co.nz",
+  "address": {
+    "line1": "1991 River Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3281"
+  },
+  "nzbn": "9429042638261",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:03:38Z"
+}

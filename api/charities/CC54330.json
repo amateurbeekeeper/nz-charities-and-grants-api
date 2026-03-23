@@ -1,0 +1,27 @@
+{
+  "id": 68017,
+  "registrationNumber": "CC54330",
+  "name": "CheckPoint Organisation Ltd",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-04-02T00:00:00Z",
+  "dateDeregistered": "2022-05-01T00:00:00Z",
+  "website": "http://checkpointorg.com",
+  "email": "jennifer@checkpointorg.com",
+  "address": {
+    "line1": "Level 5",
+    "line2": "85 Ghuznee Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429045847561",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "http://facebook.comCheckPointOrganisation",
+    "twitter": "http://twitter.com/CheckPointOrg"
+  },
+  "lastUpdated": "2023-04-11T02:11:19Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43420,
+  "registrationNumber": "CC38376",
+  "name": "City Kids Childcare Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.citykids.org.nz",
+  "email": "accounts@citykids.org.nz",
+  "address": {
+    "line1": "21A Tinakori Road",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042615750",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@citykidswellington",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T22:12:17Z"
+}

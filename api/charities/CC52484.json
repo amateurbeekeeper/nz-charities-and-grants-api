@@ -1,0 +1,27 @@
+{
+  "id": 66210,
+  "registrationNumber": "CC52484",
+  "name": "Thorrington Village Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-08-06T00:00:00Z",
+  "dateDeregistered": "2025-03-03T00:00:00Z",
+  "website": "https://www.archer.org.nz",
+  "email": "office@archer.org.nz",
+  "address": {
+    "line1": "166 Colombo Street",
+    "line2": "Beckenham",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429030044586",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-17T06:09:09Z"
+}

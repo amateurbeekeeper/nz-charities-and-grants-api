@@ -1,0 +1,27 @@
+{
+  "id": 55144,
+  "registrationNumber": "CC30982",
+  "name": "Internet New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.internetnz.nz/",
+  "email": "vikash@internetnz.net.nz",
+  "address": {
+    "line1": "LEVEL 13",
+    "line2": "18 Willis Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043201563",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/InternetNZ",
+    "twitter": "https://twitter.com/InternetNZ"
+  },
+  "lastUpdated": "2025-11-26T01:21:19Z"
+}

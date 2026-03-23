@@ -1,0 +1,27 @@
+{
+  "id": 52539,
+  "registrationNumber": "CC20039",
+  "name": "Zoroastrian Community Trust Of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.zct.co.nz",
+  "email": "zcentre@gmail.com",
+  "address": {
+    "line1": "PO Box 39636",
+    "line2": "Howick",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "2145"
+  },
+  "nzbn": "9429052938337",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/zctnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:17:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35013,
+  "registrationNumber": "CC49251",
+  "name": "The Elta Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.adventureworks.co.nz/",
+  "email": "mark@adventureworks.co.nz",
+  "address": {
+    "line1": "9 Geddes Terrace",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429043244744",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AdventureWorksNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T00:38:04Z"
+}

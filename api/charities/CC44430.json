@@ -1,0 +1,27 @@
+{
+  "id": 50639,
+  "registrationNumber": "CC44430",
+  "name": "Arthur Burns Preschool Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.arthurburns.nz",
+  "email": "seniorteacher@arthurburns.nz",
+  "address": {
+    "line1": "4A Gretna Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mosgiel",
+    "postcode": "9024"
+  },
+  "nzbn": "9429043030323",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Arthur Burns Preschool",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T23:06:58Z"
+}

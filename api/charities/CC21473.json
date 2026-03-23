@@ -1,0 +1,27 @@
+{
+  "id": 55107,
+  "registrationNumber": "CC21473",
+  "name": "The Church In Christchurch Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2019-09-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "churchinchristchurch.org.nz",
+  "email": "churchinchch.trustboard@gmail.com",
+  "address": {
+    "line1": "99 Mathers Road",
+    "line2": " ",
+    "suburb": "Hoon Hay",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429042852087",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T08:26:49Z"
+}

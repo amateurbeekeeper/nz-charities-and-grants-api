@@ -1,0 +1,27 @@
+{
+  "id": 69745,
+  "registrationNumber": "CC56095",
+  "name": "The Stoddart Cottage Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stoddartcottage",
+  "email": "p.j.m.s.bsc@gmail.com",
+  "address": {
+    "line1": "18 Purau Avenue",
+    "line2": "Diamond Harbour 8972",
+    "suburb": " ",
+    "city": "Diamond Harbour",
+    "postcode": "8972"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/stoddartcottage",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T22:45:54Z"
+}

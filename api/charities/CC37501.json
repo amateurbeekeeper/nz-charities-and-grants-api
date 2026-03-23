@@ -1,0 +1,27 @@
+{
+  "id": 64513,
+  "registrationNumber": "CC37501",
+  "name": "Lupton Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "llu@trustmanagement.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "105 Carlton Gore Road",
+    "suburb": "Newmarket",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-23T19:37:37Z"
+}

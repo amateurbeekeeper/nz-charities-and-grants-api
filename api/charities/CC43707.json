@@ -1,0 +1,27 @@
+{
+  "id": 50145,
+  "registrationNumber": "CC43707",
+  "name": "Whanganui Sailing Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sailingwhanganui.co.nz",
+  "email": "treasurer@sailingwhanganui.co.nz",
+  "address": {
+    "line1": "70 Gilberd Street",
+    "line2": " ",
+    "suburb": "Castlecliff",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429042909859",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:41:00Z"
+}

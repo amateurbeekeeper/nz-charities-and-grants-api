@@ -1,0 +1,27 @@
+{
+  "id": 64419,
+  "registrationNumber": "CC42957",
+  "name": "Mount Albert Islamic Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-11-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://mtalbertislamiccentre.org/",
+  "email": "drasmali@gmail.com",
+  "address": {
+    "line1": "6 Margaret Avenue",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T20:59:16Z"
+}

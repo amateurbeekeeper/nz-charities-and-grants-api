@@ -1,0 +1,27 @@
+{
+  "id": 46713,
+  "registrationNumber": "CC42367",
+  "name": "New Zealand Open Source Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://nzoss.nz",
+  "email": "carl.klitscher@gmail.com",
+  "address": {
+    "line1": "78 Campbell Street",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043000395",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "@nzoss"
+  },
+  "lastUpdated": "2025-05-02T08:42:44Z"
+}

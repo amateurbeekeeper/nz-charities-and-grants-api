@@ -1,0 +1,27 @@
+{
+  "id": 40790,
+  "registrationNumber": "CC23558",
+  "name": "New Zealand Care Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kent@p10.co.nz",
+  "address": {
+    "line1": "90 Manukau Road",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042685166",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T02:18:51Z"
+}

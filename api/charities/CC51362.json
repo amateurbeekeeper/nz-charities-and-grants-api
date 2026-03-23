@@ -1,0 +1,27 @@
+{
+  "id": 34888,
+  "registrationNumber": "CC51362",
+  "name": "Southside Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "brett@southsidechurch.org.nz",
+  "address": {
+    "line1": "154 Ohaupo Road",
+    "line2": " ",
+    "suburb": "Melville",
+    "city": "Hamilton",
+    "postcode": "3206"
+  },
+  "nzbn": "9429043272716",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T22:11:44Z"
+}

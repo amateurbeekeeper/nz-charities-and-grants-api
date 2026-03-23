@@ -1,0 +1,27 @@
+{
+  "id": 50949,
+  "registrationNumber": "CC42584",
+  "name": "Tapu-te-Ranga Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-10-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taputerangamarae.org",
+  "email": "paresannyasi@gmail.com",
+  "address": {
+    "line1": "46 Rhine Street",
+    "line2": " ",
+    "suburb": "Island Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429042857754",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/Tapu-Te-Ranga-Marae-135069916676560/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T02:13:21Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52340,
+  "registrationNumber": "CC20673",
+  "name": "The Inner City Women's Group",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.innercitywomensgroup.org.nz",
+  "email": "accounts@icwg.org.nz",
+  "address": {
+    "line1": "47A St George Street",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429042870333",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T18:17:35Z"
+}

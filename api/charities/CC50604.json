@@ -1,0 +1,27 @@
+{
+  "id": 33439,
+  "registrationNumber": "CC50604",
+  "name": "Mangawhai Artists Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mangawhaiartists.org",
+  "email": "finance@mangawhaiartists.co.nz",
+  "address": {
+    "line1": "45 Moir Street",
+    "line2": "Mangawhai 0505",
+    "suburb": " ",
+    "city": "Mangawhai",
+    "postcode": "0505"
+  },
+  "nzbn": "9429043237838",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Mangawhai Artists Inc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-28T09:48:50Z"
+}

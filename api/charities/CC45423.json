@@ -1,0 +1,27 @@
+{
+  "id": 45737,
+  "registrationNumber": "CC45423",
+  "name": "The Dunedin Christadelphian Ecclesia",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-09-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "vuli@xtra.co.nz",
+  "address": {
+    "line1": "38 Holyport Close",
+    "line2": " ",
+    "suburb": "Fairfield",
+    "city": "Dunedin",
+    "postcode": "9018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-03T19:45:21Z"
+}

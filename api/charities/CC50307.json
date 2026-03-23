@@ -1,0 +1,27 @@
+{
+  "id": 34044,
+  "registrationNumber": "CC50307",
+  "name": "CEC Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-02-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.cecanterbury.org",
+  "email": "linda@cecanterbury.org",
+  "address": {
+    "line1": "22 Brougham Street",
+    "line2": "123 Victoria Street",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429043252114",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/ConductiveEducationCanterbury",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 46465,
+  "registrationNumber": "CC31838",
+  "name": "Bay View Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bayviewfirestation@gmail.com",
+  "address": {
+    "line1": "6 Petane Road",
+    "line2": " ",
+    "suburb": "Bay View",
+    "city": "Napier",
+    "postcode": "4104"
+  },
+  "nzbn": "9429043323708",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T19:27:42Z"
+}

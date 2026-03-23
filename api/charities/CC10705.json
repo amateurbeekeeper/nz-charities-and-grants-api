@@ -1,0 +1,27 @@
+{
+  "id": 52225,
+  "registrationNumber": "CC10705",
+  "name": "Auckland Central Budgeting Consultants Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandbudgeting.org.nz",
+  "email": "manager@aucklandbudgeting.org.nz",
+  "address": {
+    "line1": "8 Rocklands Avenue",
+    "line2": "Centre Unit F",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042585169",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aklbudget",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T22:32:28Z"
+}

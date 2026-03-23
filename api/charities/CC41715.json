@@ -1,0 +1,27 @@
+{
+  "id": 48782,
+  "registrationNumber": "CC41715",
+  "name": "Auckland Chinese Medical Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.acma.org.nz",
+  "email": "president@acma.org.nz",
+  "address": {
+    "line1": "PO Box 128012",
+    "line2": "Remuera",
+    "suburb": "Auckland",
+    "city": "Auckland",
+    "postcode": "1541"
+  },
+  "nzbn": "9429042585367",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/ACMASec2021",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T01:46:12Z"
+}

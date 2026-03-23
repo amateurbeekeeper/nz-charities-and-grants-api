@@ -1,0 +1,27 @@
+{
+  "id": 70691,
+  "registrationNumber": "CC57062",
+  "name": "Maui63 Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://maui63.org/",
+  "email": "tane@maui63.org",
+  "address": {
+    "line1": "Suite 1",
+    "line2": "221 Symonds Street",
+    "suburb": "Eden Terrace",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429047575981",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MAUI63NZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:44:25Z"
+}

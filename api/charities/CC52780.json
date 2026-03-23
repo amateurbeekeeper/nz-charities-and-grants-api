@@ -1,0 +1,27 @@
+{
+  "id": 66513,
+  "registrationNumber": "CC52780",
+  "name": "Blue House Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-11-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tracey@marplow.co.nz",
+  "address": {
+    "line1": "176 Rataroa Road",
+    "line2": "Kaeo 0479",
+    "suburb": "Auckland",
+    "city": "Kaeo",
+    "postcode": "0479"
+  },
+  "nzbn": "9429043305643",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:43:22Z"
+}

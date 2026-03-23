@@ -1,0 +1,27 @@
+{
+  "id": 65718,
+  "registrationNumber": "CC51969",
+  "name": "Out of School Music Classes Invercargill",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-10-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.osmc.co.nz",
+  "email": "osmcinv@gmail.com",
+  "address": {
+    "line1": "328 Tweed Street",
+    "line2": " ",
+    "suburb": "Georgetown",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Out of School Music Classes",
+    "twitter": null
+  },
+  "lastUpdated": "2024-10-08T00:13:17Z"
+}

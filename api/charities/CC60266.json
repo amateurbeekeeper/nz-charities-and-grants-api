@@ -1,0 +1,27 @@
+{
+  "id": 73857,
+  "registrationNumber": "CC60266",
+  "name": "Niuvaka Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.niuvaka.org.nz",
+  "email": "dana@niuvaka.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": " 59 Queen Street",
+    "suburb": "Central",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429048508872",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Niuvaka Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T01:50:31Z"
+}

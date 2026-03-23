@@ -1,0 +1,27 @@
+{
+  "id": 53888,
+  "registrationNumber": "CC20505",
+  "name": "The Colin Edwards Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "c.medwards@actrix.co.nz",
+  "address": {
+    "line1": "62 Parua Cemetery Road",
+    "line2": "RD 4",
+    "suburb": "Parua Bay",
+    "city": "Whangarei",
+    "postcode": "0174"
+  },
+  "nzbn": "9429042873310",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T21:31:17Z"
+}

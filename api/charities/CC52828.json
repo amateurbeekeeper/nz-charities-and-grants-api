@@ -1,0 +1,27 @@
+{
+  "id": 66557,
+  "registrationNumber": "CC52828",
+  "name": "Serenity Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-01-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ranjna@jsn.co.nz",
+  "address": {
+    "line1": "Unit 12",
+    "line2": "42 Ormiston Road",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": "9429043275366",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T18:21:45Z"
+}

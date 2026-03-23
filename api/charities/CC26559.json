@@ -1,0 +1,27 @@
+{
+  "id": 57571,
+  "registrationNumber": "CC26559",
+  "name": "The Helensville Railway Station Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.helensvillerail.org.nz",
+  "email": "patsy.scott@xtra.co.nz",
+  "address": {
+    "line1": "2 Railway Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Helensville",
+    "postcode": "0800"
+  },
+  "nzbn": "9429043036790",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/787556258046952/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T21:19:31Z"
+}

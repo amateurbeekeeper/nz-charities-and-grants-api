@@ -1,0 +1,27 @@
+{
+  "id": 37104,
+  "registrationNumber": "CC46694",
+  "name": "AWQAF New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.awqafnz.org",
+  "email": "info@awqafnz.org",
+  "address": {
+    "line1": "200 Kaipara Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2582"
+  },
+  "nzbn": "9429043223008",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100070209953623",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T04:33:21Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33911,
+  "registrationNumber": "CC50286",
+  "name": "The Dutch School Auckland",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-03-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dutchschool.co.nz",
+  "email": "dutchschool@xtra.co.nz",
+  "address": {
+    "line1": "37 John Brian Drive",
+    "line2": "RD 4",
+    "suburb": "Redvale",
+    "city": "Albany",
+    "postcode": "0794"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Nederlandse School Auckland",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T06:08:09Z"
+}

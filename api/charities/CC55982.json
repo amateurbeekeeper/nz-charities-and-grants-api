@@ -1,0 +1,27 @@
+{
+  "id": 69630,
+  "registrationNumber": "CC55982",
+  "name": "Te Whakarongotai Marae",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pania.roberts@gmail.com",
+  "address": {
+    "line1": "12 Akiha Street",
+    "line2": " ",
+    "suburb": "Ōmāpere",
+    "city": "Kaikohe",
+    "postcode": "0473"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Kokohuia Marae",
+    "twitter": "None"
+  },
+  "lastUpdated": "2026-01-08T02:44:11Z"
+}

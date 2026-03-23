@@ -1,0 +1,27 @@
+{
+  "id": 41745,
+  "registrationNumber": "CC37513",
+  "name": "Friends of Wanaka Wastebusters Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wastebusters.co.nz/",
+  "email": "fowwbusters@gmail.com",
+  "address": {
+    "line1": "Corner Ballantyne And Riverbank Roads",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wanaka",
+    "postcode": "9343"
+  },
+  "nzbn": "9429042946519",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T04:04:06Z"
+}

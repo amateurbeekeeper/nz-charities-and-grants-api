@@ -1,0 +1,27 @@
+{
+  "id": 32905,
+  "registrationNumber": "CC48462",
+  "name": "Pioneer Basketball Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-09-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.sporty.co.nz/pioneerbasketballclub",
+  "email": "finance@pioneer.nz.basketball",
+  "address": {
+    "line1": "75 Lyttelton Street",
+    "line2": "Lyttleton",
+    "suburb": "Somerfield",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429043231393",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "www.facebook.com/pioneerbballclub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T18:16:21Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55578,
+  "registrationNumber": "CC22439",
+  "name": "Medical Research Institute Of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.mrinz.ac.nz",
+  "email": "richard.beasley@mrinz.ac.nz",
+  "address": {
+    "line1": "Level 7, CSB Building",
+    "line2": "Wellington Regional Hospital",
+    "suburb": "Riddiford Street",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043146376",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mrinz.ac.nz/",
+    "twitter": "https://x.com/ClinResearchNZ"
+  },
+  "lastUpdated": "2025-06-17T19:25:42Z"
+}

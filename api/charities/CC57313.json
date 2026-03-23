@@ -1,0 +1,27 @@
+{
+  "id": 70956,
+  "registrationNumber": "CC57313",
+  "name": "New Zealand Toy Heritage Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-11-05T00:00:00Z",
+  "dateDeregistered": "2024-11-01T00:00:00Z",
+  "website": "https://www.nzmuseumoftoys.com",
+  "email": "jane@jco-legal.co.nz",
+  "address": {
+    "line1": "10 Dundee Close",
+    "line2": null,
+    "suburb": " ",
+    "city": "Darfield",
+    "postcode": "7510"
+  },
+  "nzbn": "9429047618534",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzmuseumoftoys",
+    "twitter": null
+  },
+  "lastUpdated": "2024-11-13T06:10:57Z"
+}

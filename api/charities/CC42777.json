@@ -1,0 +1,27 @@
+{
+  "id": 47045,
+  "registrationNumber": "CC42777",
+  "name": "Te Kaha O'Te Rangatahi Whanau O Tamaki Makaurau Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-11-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tekaha.co.nz",
+  "email": "phil@taneca.co.nz",
+  "address": {
+    "line1": "Unit 4",
+    "line2": "39 Cavendish Drive",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042860983",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-15T03:17:22Z"
+}

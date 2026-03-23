@@ -1,0 +1,27 @@
+{
+  "id": 44269,
+  "registrationNumber": "CC33088",
+  "name": "Creative Arts Napier | Nga Ringatoi Auaha O Ahuriri Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thecan.co.nz",
+  "email": "admin@thecan.co.nz",
+  "address": {
+    "line1": "16 Byron Street",
+    "line2": "PO Box 1083",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042954644",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/creativeartsnapier/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T20:52:08Z"
+}

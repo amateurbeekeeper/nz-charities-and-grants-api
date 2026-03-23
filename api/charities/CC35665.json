@@ -1,0 +1,27 @@
+{
+  "id": 44443,
+  "registrationNumber": "CC35665",
+  "name": "Association of the Friends of King's College Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kingscollege.school.nz",
+  "email": "j.salmon@kingscollege.school.nz",
+  "address": {
+    "line1": "C/- King's College",
+    "line2": "Golf Avenue",
+    "suburb": "Otahuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429042583523",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-03T21:41:23Z"
+}

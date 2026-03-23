@@ -1,0 +1,27 @@
+{
+  "id": 42532,
+  "registrationNumber": "CC25359",
+  "name": "Ngati Paoa Whanau Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2020-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "m.salmon@beesons.co.nz",
+  "address": {
+    "line1": "93 Church Street",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042695141",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:02:05Z"
+}

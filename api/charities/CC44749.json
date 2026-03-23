@@ -1,0 +1,27 @@
+{
+  "id": 35727,
+  "registrationNumber": "CC44749",
+  "name": "The Michael Cronhelm Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://michaelcronhelmfoundation.org",
+  "email": "cronhelm@yahoo.com",
+  "address": {
+    "line1": "298 Woodland Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Katikati",
+    "postcode": "3170"
+  },
+  "nzbn": "9429043210923",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MichaelCronhelmFoundationTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T22:50:11Z"
+}

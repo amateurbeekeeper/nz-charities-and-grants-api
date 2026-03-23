@@ -1,0 +1,27 @@
+{
+  "id": 37847,
+  "registrationNumber": "CC47852",
+  "name": "Putauaki Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-01-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.putauakitrust.com",
+  "email": "john@putauakitrust.com",
+  "address": {
+    "line1": "2 Tamaoho Drive",
+    "line2": " ",
+    "suburb": "Putauaki",
+    "city": "Kawerau",
+    "postcode": "3192"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-20T20:06:10Z"
+}

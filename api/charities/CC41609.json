@@ -1,0 +1,27 @@
+{
+  "id": 44423,
+  "registrationNumber": "CC41609",
+  "name": "Friends Of Old Fairfield Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.fairfieldnelson.org.nz",
+  "email": "secretary@fairfieldnelson.org.nz",
+  "address": {
+    "line1": "FAIRFIELD HOUSE",
+    "line2": "48 Van Diemen Street",
+    "suburb": "Nelson South",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042700548",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Fairfield-House-157716834271967/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T23:38:44Z"
+}

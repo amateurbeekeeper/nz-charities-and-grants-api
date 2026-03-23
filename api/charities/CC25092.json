@@ -1,0 +1,27 @@
+{
+  "id": 41828,
+  "registrationNumber": "CC25092",
+  "name": "West City Christian Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.churchunlimited.co",
+  "email": "kathy@churchunlimited.co",
+  "address": {
+    "line1": "3 Te Atatu Road",
+    "line2": " ",
+    "suburb": "Glendene",
+    "city": "Auckland",
+    "postcode": "602"
+  },
+  "nzbn": "9429042940258",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T20:16:48Z"
+}

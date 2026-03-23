@@ -1,0 +1,27 @@
+{
+  "id": 75362,
+  "registrationNumber": "CC61799",
+  "name": "Pirongia Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-11-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bevan.mills@fireandemergency.nz",
+  "address": {
+    "line1": "766 Franklin Street",
+    "line2": "Pirongia 3802",
+    "suburb": " ",
+    "city": "Pirongia",
+    "postcode": "3802"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T18:16:15Z"
+}

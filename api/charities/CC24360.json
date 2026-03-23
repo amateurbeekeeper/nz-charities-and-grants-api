@@ -1,0 +1,27 @@
+{
+  "id": 40629,
+  "registrationNumber": "CC24360",
+  "name": "Centrecare Counselling Waimate",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ccwaimate.co.nz",
+  "email": "sam@ccwaimate.co.nz",
+  "address": {
+    "line1": "3 Queen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waimate",
+    "postcode": "7924"
+  },
+  "nzbn": "9429042609551",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Centrecare Waimate",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T18:16:04Z"
+}

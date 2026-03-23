@@ -1,0 +1,27 @@
+{
+  "id": 43825,
+  "registrationNumber": "CC43935",
+  "name": "The Otago Institute Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://otago-institute.org",
+  "email": "brendon.woodford@otago.ac.nz",
+  "address": {
+    "line1": "PO Box 6373",
+    "line2": "Dunedin North",
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9059"
+  },
+  "nzbn": "9429042773818",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T20:20:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 62224,
+  "registrationNumber": "CC42342",
+  "name": "Special Olympics Upper North Island Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chair1@sounit.org",
+  "address": {
+    "line1": "2 Caltra Place",
+    "line2": " ",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2016"
+  },
+  "nzbn": "9429051144463",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T22:22:42Z"
+}

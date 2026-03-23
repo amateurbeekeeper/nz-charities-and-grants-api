@@ -1,0 +1,27 @@
+{
+  "id": 55539,
+  "registrationNumber": "CC22410",
+  "name": "Centre for Fine Woodworking Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cfw.co.nz",
+  "email": "info@cfw.co.nz",
+  "address": {
+    "line1": "465 Wakapuaka Road",
+    "line2": "RD 1",
+    "suburb": "Wakapuaka",
+    "city": "Nelson",
+    "postcode": "7071"
+  },
+  "nzbn": "9429043191352",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/centreforfinewoodworking/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:09:49Z"
+}

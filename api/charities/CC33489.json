@@ -1,0 +1,27 @@
+{
+  "id": 45963,
+  "registrationNumber": "CC33489",
+  "name": "Woodville Gospel Hall",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "krh27@hotmail.com",
+  "address": {
+    "line1": "Ross Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Woodville",
+    "postcode": "4920"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T00:26:08Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71405,
+  "registrationNumber": "CC57777",
+  "name": "Meeanee Playgroup",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-11-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sammie-jo_smaling@hotmail.com",
+  "address": {
+    "line1": "6 Gavin Black Street",
+    "line2": " ",
+    "suburb": "Meeanee",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": "9429048410991",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MeeaneePlaygroup",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-26T06:25:17Z"
+}

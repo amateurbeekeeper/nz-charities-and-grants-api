@@ -1,0 +1,27 @@
+{
+  "id": 34559,
+  "registrationNumber": "CC50910",
+  "name": "The Animal Connection Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2025-02-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@theanimalconnection.org.nz",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "23A Leone Terrace",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429043265237",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/theanimalconnectionnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T20:13:01Z"
+}

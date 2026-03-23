@@ -1,0 +1,27 @@
+{
+  "id": 56724,
+  "registrationNumber": "CC25114",
+  "name": "Tirau Co-operating Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tirauchurch@gmail.com",
+  "address": {
+    "line1": "67 Main Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tirau",
+    "postcode": "3410"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T04:04:46Z"
+}

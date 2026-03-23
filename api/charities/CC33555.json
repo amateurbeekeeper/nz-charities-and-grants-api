@@ -1,0 +1,27 @@
+{
+  "id": 41822,
+  "registrationNumber": "CC33555",
+  "name": "NZ Institute Of Economic Research Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzier.org.nz",
+  "email": "terri.boote@nzier.org.nz",
+  "address": {
+    "line1": "Level 13 Willeston House",
+    "line2": "22-28 Willeston Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042774235",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZ-Institute-of-Economic-Research-Inc-NZIER",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:15:18Z"
+}

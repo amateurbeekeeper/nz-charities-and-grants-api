@@ -1,0 +1,27 @@
+{
+  "id": 78249,
+  "registrationNumber": "CC64060",
+  "name": "Engineers Without Borders New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ewb.org.nz",
+  "email": "janie.o.m.elliott@gmail.com",
+  "address": {
+    "line1": "Unit G01",
+    "line2": "2 Ko Street",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/EWBNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T23:11:00Z"
+}

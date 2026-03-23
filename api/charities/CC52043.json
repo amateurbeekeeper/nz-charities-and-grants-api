@@ -1,0 +1,27 @@
+{
+  "id": 65788,
+  "registrationNumber": "CC52043",
+  "name": "Kiwi Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kiwichurch.org.nz",
+  "email": "d.tempero@xtra.co.nz",
+  "address": {
+    "line1": "75 Hansons Lane",
+    "line2": null,
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T00:56:17Z"
+}

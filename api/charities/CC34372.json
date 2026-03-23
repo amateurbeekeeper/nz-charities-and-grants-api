@@ -1,0 +1,27 @@
+{
+  "id": 40356,
+  "registrationNumber": "CC34372",
+  "name": "STRIVE Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.strive.org.nz",
+  "email": "nerine.k@strive.org.nz",
+  "address": {
+    "line1": "294A Massey Road",
+    "line2": "197 Montgomerie Road",
+    "suburb": "Mangere East",
+    "city": "Auckland",
+    "postcode": "2024"
+  },
+  "nzbn": "9429042835547",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T18:40:33Z"
+}

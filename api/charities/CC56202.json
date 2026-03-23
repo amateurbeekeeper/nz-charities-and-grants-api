@@ -1,0 +1,27 @@
+{
+  "id": 69842,
+  "registrationNumber": "CC56202",
+  "name": "Rotoiti Hub",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nigel@thecalders.net.nz",
+  "address": {
+    "line1": "3177 Korere-Tophouse Road",
+    "line2": "RD 2",
+    "suburb": "St Arnaud",
+    "city": "Nelson",
+    "postcode": "7072"
+  },
+  "nzbn": "9429047041516",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/rotoitihub/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T19:21:29Z"
+}

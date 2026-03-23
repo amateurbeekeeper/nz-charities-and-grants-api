@@ -1,0 +1,27 @@
+{
+  "id": 67951,
+  "registrationNumber": "CC54273",
+  "name": "The Shift Foundation",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2016-12-21T00:00:00Z",
+  "dateDeregistered": "2024-07-01T00:00:00Z",
+  "website": "https://www.shiftnz.org",
+  "email": "fran.mcewen@sportnz.org.nz",
+  "address": {
+    "line1": "131A Rongotai Road",
+    "line2": " ",
+    "suburb": "Kilbirnie",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429043357765",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/shiftfoundationnz/?ref=br_rs",
+    "twitter": null
+  },
+  "lastUpdated": "2024-10-01T06:43:18Z"
+}

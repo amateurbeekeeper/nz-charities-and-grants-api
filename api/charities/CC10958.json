@@ -1,0 +1,27 @@
+{
+  "id": 51472,
+  "registrationNumber": "CC10958",
+  "name": "Bay of Plenty Sailing Academy Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bopsat.com",
+  "email": "rest.rec@gmail.com",
+  "address": {
+    "line1": "8 Seaview Road",
+    "line2": " ",
+    "suburb": "Otumoetai",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043130566",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BoPSATSailing/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-31T19:43:06Z"
+}

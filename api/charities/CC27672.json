@@ -1,0 +1,27 @@
+{
+  "id": 52120,
+  "registrationNumber": "CC27672",
+  "name": "Garden City Model Railroad Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2020-09-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.gcmrc.nz",
+  "email": "gcmrc.secretary@gmail.com",
+  "address": {
+    "line1": "50 Ferrymead Park Drive",
+    "line2": " ",
+    "suburb": "Ferrymead",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429042625353",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/GCMRCNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:26:11Z"
+}

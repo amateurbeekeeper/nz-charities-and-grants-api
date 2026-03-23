@@ -1,0 +1,27 @@
+{
+  "id": 66615,
+  "registrationNumber": "CC52879",
+  "name": "Hillary - Tenzing Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-11-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "brmaharjan@gmail.com",
+  "address": {
+    "line1": "33 Milliken Avenue",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429043304325",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T18:19:33Z"
+}

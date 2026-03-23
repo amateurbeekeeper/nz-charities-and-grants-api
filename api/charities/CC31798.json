@@ -1,0 +1,27 @@
+{
+  "id": 60473,
+  "registrationNumber": "CC31798",
+  "name": "Pacific Trust Otago",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pto.nz",
+  "email": "nimo@pto.nz",
+  "address": {
+    "line1": "16 McBride Street",
+    "line2": " ",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429043101917",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T01:38:08Z"
+}

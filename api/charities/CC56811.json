@@ -1,0 +1,27 @@
+{
+  "id": 70449,
+  "registrationNumber": "CC56811",
+  "name": "Maori Initiatives Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://maoriinitiatives.org",
+  "email": "Steven@maoriinitiatives.org",
+  "address": {
+    "line1": "10 Preston Avenue",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://m.facebook.com/maoriinitiatives",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T20:12:14Z"
+}

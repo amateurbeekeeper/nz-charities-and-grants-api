@@ -1,0 +1,27 @@
+{
+  "id": 39312,
+  "registrationNumber": "CC22235",
+  "name": "Beckenham Community Housing Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bcht200@gmail.com",
+  "address": {
+    "line1": "PO Box 12055",
+    "line2": "Beckenham",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8242"
+  },
+  "nzbn": "9429042972501",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T08:54:33Z"
+}

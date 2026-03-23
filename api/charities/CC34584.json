@@ -1,0 +1,27 @@
+{
+  "id": 42183,
+  "registrationNumber": "CC34584",
+  "name": "Glen Innes Housing Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2024-04-22T00:00:00Z",
+  "website": "http://www. transcending.co.nz/admin/Gihtrust.html",
+  "email": "social_relations@hotmail.co.nz",
+  "address": {
+    "line1": "Flat 19",
+    "line2": "11 Yates Road",
+    "suburb": "Mangere East",
+    "city": "Auckland",
+    "postcode": "2024"
+  },
+  "nzbn": "9429043129966",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-07-10T07:13:15Z"
+}

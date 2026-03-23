@@ -1,0 +1,27 @@
+{
+  "id": 37190,
+  "registrationNumber": "CC47777",
+  "name": "Musica Viva Manawatu Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-02-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http:/www.musicaviva.org.nz",
+  "email": "musicavivamanawatu@gmail.com",
+  "address": {
+    "line1": "139 Cole Road",
+    "line2": "RD 6",
+    "suburb": "Rongotea",
+    "city": "Palmerston North",
+    "postcode": "4476"
+  },
+  "nzbn": "9429042771289",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MusicaVivaManawatu",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:06:08Z"
+}

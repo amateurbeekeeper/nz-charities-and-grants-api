@@ -1,0 +1,27 @@
+{
+  "id": 33219,
+  "registrationNumber": "CC48709",
+  "name": "Solicitors' Benevolent Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-12-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lawsociety.org.nz",
+  "email": "wellington@lawsociety.org.nz",
+  "address": {
+    "line1": "17 Whitmore Street",
+    "line2": " High Court Building, Kate Sheppard entrance",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T21:20:42Z"
+}

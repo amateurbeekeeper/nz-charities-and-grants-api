@@ -1,0 +1,27 @@
+{
+  "id": 69595,
+  "registrationNumber": "CC55943",
+  "name": "Operation Patiki Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzaee.org.nz/providers/operation-patiki",
+  "email": "animcguire@gmail.com",
+  "address": {
+    "line1": "30 Buckingham Street",
+    "line2": " ",
+    "suburb": "Whakatu",
+    "city": "Hastings",
+    "postcode": "4102"
+  },
+  "nzbn": "9429046026088",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Operation Patiki",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T18:56:24Z"
+}

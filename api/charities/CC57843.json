@@ -1,0 +1,27 @@
+{
+  "id": 71464,
+  "registrationNumber": "CC57843",
+  "name": "Motueka Climbing Club",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sportbillywerner@gmail.com",
+  "address": {
+    "line1": "40 Old Wharf Road",
+    "line2": "Motueka 7120",
+    "suburb": " ",
+    "city": "Motueka",
+    "postcode": "7120"
+  },
+  "nzbn": "9429050671229",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/164105215463225/about",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T02:35:17Z"
+}

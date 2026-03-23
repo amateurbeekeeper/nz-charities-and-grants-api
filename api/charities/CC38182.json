@@ -1,0 +1,27 @@
+{
+  "id": 63124,
+  "registrationNumber": "CC38182",
+  "name": "The Auckland Sikh Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "taxconsult@xtra.co.nz",
+  "address": {
+    "line1": "166 Kolmar Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429043073122",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T01:47:21Z"
+}

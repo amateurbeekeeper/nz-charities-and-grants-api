@@ -1,0 +1,27 @@
+{
+  "id": 69208,
+  "registrationNumber": "CC55557",
+  "name": "Biodiversity Hawke's Bay Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.biodiversityhb.org",
+  "email": "info@biodiversityhb.nz",
+  "address": {
+    "line1": "PO Box 246",
+    "line2": " ",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4140"
+  },
+  "nzbn": "9429046744562",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Biodiversity Hawke's Bay",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T23:43:50Z"
+}

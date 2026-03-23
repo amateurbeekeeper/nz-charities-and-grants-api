@@ -1,0 +1,27 @@
+{
+  "id": 76763,
+  "registrationNumber": "CC62892",
+  "name": "MTW Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-12-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mtwchurch@gmail.com",
+  "address": {
+    "line1": "9 Argus Place",
+    "line2": " ",
+    "suburb": "Wairau Valley",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-19T05:47:44Z"
+}

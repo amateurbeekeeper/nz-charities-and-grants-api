@@ -1,0 +1,27 @@
+{
+  "id": 62075,
+  "registrationNumber": "CC35753",
+  "name": "Havelock Commonage",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "murraypaterson@xtra.co.nz",
+  "address": {
+    "line1": "224 Waitahuna West Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Lawrence",
+    "postcode": "9593"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T20:20:44Z"
+}

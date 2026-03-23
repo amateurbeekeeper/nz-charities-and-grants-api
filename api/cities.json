@@ -1,0 +1,4544 @@
+{
+  "cities": [
+    {
+      "city": "Auckland",
+      "count": 10616
+    },
+    {
+      "city": "Christchurch",
+      "count": 3609
+    },
+    {
+      "city": "Wellington",
+      "count": 3196
+    },
+    {
+      "city": "Hamilton",
+      "count": 1567
+    },
+    {
+      "city": "Dunedin",
+      "count": 1186
+    },
+    {
+      "city": "Lower Hutt",
+      "count": 983
+    },
+    {
+      "city": "Tauranga",
+      "count": 960
+    },
+    {
+      "city": "Unknown",
+      "count": 839
+    },
+    {
+      "city": "Palmerston North",
+      "count": 776
+    },
+    {
+      "city": "Rotorua",
+      "count": 686
+    },
+    {
+      "city": "New Plymouth",
+      "count": 576
+    },
+    {
+      "city": "Invercargill",
+      "count": 563
+    },
+    {
+      "city": "Napier",
+      "count": 554
+    },
+    {
+      "city": "Whangarei",
+      "count": 552
+    },
+    {
+      "city": "Nelson",
+      "count": 551
+    },
+    {
+      "city": "Hastings",
+      "count": 523
+    },
+    {
+      "city": "Gisborne",
+      "count": 439
+    },
+    {
+      "city": "Porirua",
+      "count": 438
+    },
+    {
+      "city": "Blenheim",
+      "count": 320
+    },
+    {
+      "city": "Timaru",
+      "count": 317
+    },
+    {
+      "city": "Masterton",
+      "count": 313
+    },
+    {
+      "city": "Whanganui",
+      "count": 296
+    },
+    {
+      "city": "Papakura",
+      "count": 278
+    },
+    {
+      "city": "Upper Hutt",
+      "count": 267
+    },
+    {
+      "city": "Whakatane",
+      "count": 260
+    },
+    {
+      "city": "Ashburton",
+      "count": 258
+    },
+    {
+      "city": "Wanganui",
+      "count": 246
+    },
+    {
+      "city": "Paraparaumu",
+      "count": 240
+    },
+    {
+      "city": "Taupo",
+      "count": 225
+    },
+    {
+      "city": "Queenstown",
+      "count": 207
+    },
+    {
+      "city": "Oamaru",
+      "count": 206
+    },
+    {
+      "city": "Wanaka",
+      "count": 192
+    },
+    {
+      "city": "Levin",
+      "count": 191
+    },
+    {
+      "city": "Cambridge",
+      "count": 190
+    },
+    {
+      "city": "Kaitaia",
+      "count": 187
+    },
+    {
+      "city": "Pukekohe",
+      "count": 184
+    },
+    {
+      "city": "Feilding",
+      "count": 178
+    },
+    {
+      "city": "Te Awamutu",
+      "count": 162
+    },
+    {
+      "city": "Rangiora",
+      "count": 153
+    },
+    {
+      "city": "Warkworth",
+      "count": 153
+    },
+    {
+      "city": "Gore",
+      "count": 151
+    },
+    {
+      "city": "Havelock North",
+      "count": 145
+    },
+    {
+      "city": "Kerikeri",
+      "count": 142
+    },
+    {
+      "city": "Richmond",
+      "count": 142
+    },
+    {
+      "city": "Thames",
+      "count": 133
+    },
+    {
+      "city": "Alexandra",
+      "count": 133
+    },
+    {
+      "city": "Hawera",
+      "count": 129
+    },
+    {
+      "city": "Mount Maunganui",
+      "count": 128
+    },
+    {
+      "city": "Waikanae",
+      "count": 128
+    },
+    {
+      "city": "Kaikohe",
+      "count": 125
+    },
+    {
+      "city": "Greymouth",
+      "count": 124
+    },
+    {
+      "city": "Te Puke",
+      "count": 124
+    },
+    {
+      "city": "Waiheke Island",
+      "count": 110
+    },
+    {
+      "city": "Dargaville",
+      "count": 108
+    },
+    {
+      "city": "Motueka",
+      "count": 107
+    },
+    {
+      "city": "Opotiki",
+      "count": 104
+    },
+    {
+      "city": "Whangaparaoa",
+      "count": 104
+    },
+    {
+      "city": "Carterton",
+      "count": 103
+    },
+    {
+      "city": "Dannevirke",
+      "count": 103
+    },
+    {
+      "city": "Mosgiel",
+      "count": 102
+    },
+    {
+      "city": "Otaki",
+      "count": 102
+    },
+    {
+      "city": "Tokoroa",
+      "count": 101
+    },
+    {
+      "city": "Papamoa",
+      "count": 100
+    },
+    {
+      "city": "Wairoa",
+      "count": 97
+    },
+    {
+      "city": "Matamata",
+      "count": 96
+    },
+    {
+      "city": "Morrinsville",
+      "count": 96
+    },
+    {
+      "city": "Takaka",
+      "count": 93
+    },
+    {
+      "city": "Balclutha",
+      "count": 91
+    },
+    {
+      "city": "Whitianga",
+      "count": 90
+    },
+    {
+      "city": "Westport",
+      "count": 87
+    },
+    {
+      "city": "Stratford",
+      "count": 86
+    },
+    {
+      "city": "Raglan",
+      "count": 86
+    },
+    {
+      "city": "Cromwell",
+      "count": 85
+    },
+    {
+      "city": "Taumarunui",
+      "count": 85
+    },
+    {
+      "city": "Orewa",
+      "count": 84
+    },
+    {
+      "city": "Marton",
+      "count": 83
+    },
+    {
+      "city": "Waimate",
+      "count": 81
+    },
+    {
+      "city": "Waipukurau",
+      "count": 80
+    },
+    {
+      "city": "Takanini",
+      "count": 80
+    },
+    {
+      "city": "Waiuku",
+      "count": 78
+    },
+    {
+      "city": "Kawerau",
+      "count": 78
+    },
+    {
+      "city": "Silverdale",
+      "count": 76
+    },
+    {
+      "city": "Te Kuiti",
+      "count": 76
+    },
+    {
+      "city": "Kaiapoi",
+      "count": 75
+    },
+    {
+      "city": "Turangi",
+      "count": 75
+    },
+    {
+      "city": "Picton",
+      "count": 74
+    },
+    {
+      "city": "Katikati",
+      "count": 73
+    },
+    {
+      "city": "Waihi",
+      "count": 71
+    },
+    {
+      "city": "Lincoln",
+      "count": 66
+    },
+    {
+      "city": "Huntly",
+      "count": 65
+    },
+    {
+      "city": "Foxton",
+      "count": 64
+    },
+    {
+      "city": "Geraldine",
+      "count": 62
+    },
+    {
+      "city": "Helensville",
+      "count": 61
+    },
+    {
+      "city": "Rolleston",
+      "count": 61
+    },
+    {
+      "city": "Coromandel",
+      "count": 61
+    },
+    {
+      "city": "Ngaruawahia",
+      "count": 60
+    },
+    {
+      "city": "Kaikoura",
+      "count": 59
+    },
+    {
+      "city": "Paeroa",
+      "count": 59
+    },
+    {
+      "city": "Lyttelton",
+      "count": 58
+    },
+    {
+      "city": "Te Aroha",
+      "count": 56
+    },
+    {
+      "city": "Auckland ",
+      "count": 56
+    },
+    {
+      "city": "Kumeu",
+      "count": 55
+    },
+    {
+      "city": "Waitara",
+      "count": 55
+    },
+    {
+      "city": "Pahiatua",
+      "count": 54
+    },
+    {
+      "city": "Te Anau",
+      "count": 54
+    },
+    {
+      "city": "Hokitika",
+      "count": 53
+    },
+    {
+      "city": "Tuakau",
+      "count": 52
+    },
+    {
+      "city": "Wellsford",
+      "count": 50
+    },
+    {
+      "city": "Inglewood",
+      "count": 50
+    },
+    {
+      "city": "Christchurch ",
+      "count": 50
+    },
+    {
+      "city": "Temuka",
+      "count": 49
+    },
+    {
+      "city": "Putaruru",
+      "count": 49
+    },
+    {
+      "city": "Darfield",
+      "count": 47
+    },
+    {
+      "city": "Taihape",
+      "count": 46
+    },
+    {
+      "city": "Akaroa",
+      "count": 45
+    },
+    {
+      "city": "Featherston",
+      "count": 45
+    },
+    {
+      "city": "Port Chalmers",
+      "count": 44
+    },
+    {
+      "city": "Mangawhai",
+      "count": 44
+    },
+    {
+      "city": "NO DETAILS PROVIDED",
+      "count": 44
+    },
+    {
+      "city": "Whangamata",
+      "count": 43
+    },
+    {
+      "city": "Amberley",
+      "count": 43
+    },
+    {
+      "city": "Milton",
+      "count": 42
+    },
+    {
+      "city": "Otorohanga",
+      "count": 42
+    },
+    {
+      "city": "Winton",
+      "count": 41
+    },
+    {
+      "city": "Riverton",
+      "count": 41
+    },
+    {
+      "city": "Leeston",
+      "count": 41
+    },
+    {
+      "city": "Albany",
+      "count": 41
+    },
+    {
+      "city": "Wakefield",
+      "count": 40
+    },
+    {
+      "city": "Kamo",
+      "count": 39
+    },
+    {
+      "city": "Waipu",
+      "count": 38
+    },
+    {
+      "city": "Oxford",
+      "count": 37
+    },
+    {
+      "city": "Kaeo",
+      "count": 37
+    },
+    {
+      "city": "Russell",
+      "count": 36
+    },
+    {
+      "city": "Pokeno",
+      "count": 36
+    },
+    {
+      "city": "Greytown",
+      "count": 35
+    },
+    {
+      "city": "Hikurangi",
+      "count": 35
+    },
+    {
+      "city": "Upper Moutere",
+      "count": 34
+    },
+    {
+      "city": "Kawakawa",
+      "count": 34
+    },
+    {
+      "city": "Chatham Islands",
+      "count": 33
+    },
+    {
+      "city": "Martinborough",
+      "count": 33
+    },
+    {
+      "city": "Red Beach",
+      "count": 33
+    },
+    {
+      "city": "Drury",
+      "count": 33
+    },
+    {
+      "city": "Raetihi",
+      "count": 32
+    },
+    {
+      "city": "Northland",
+      "count": 32
+    },
+    {
+      "city": "Waipawa",
+      "count": 30
+    },
+    {
+      "city": "Ashhurst",
+      "count": 29
+    },
+    {
+      "city": "Methven",
+      "count": 29
+    },
+    {
+      "city": "Ohakune",
+      "count": 29
+    },
+    {
+      "city": "Twizel",
+      "count": 28
+    },
+    {
+      "city": "Otautau",
+      "count": 28
+    },
+    {
+      "city": "Reefton",
+      "count": 27
+    },
+    {
+      "city": "Fairlie",
+      "count": 27
+    },
+    {
+      "city": "Ruatoria",
+      "count": 27
+    },
+    {
+      "city": "Maungaturoto",
+      "count": 27
+    },
+    {
+      "city": "Murupara",
+      "count": 27
+    },
+    {
+      "city": "Wyndham",
+      "count": 26
+    },
+    {
+      "city": "Te Kauwhata",
+      "count": 26
+    },
+    {
+      "city": "Woodville",
+      "count": 26
+    },
+    {
+      "city": "Arrowtown",
+      "count": 26
+    },
+    {
+      "city": "Waikouaiti",
+      "count": 26
+    },
+    {
+      "city": "Paekakariki",
+      "count": 25
+    },
+    {
+      "city": "Tolaga Bay",
+      "count": 25
+    },
+    {
+      "city": "Eltham",
+      "count": 25
+    },
+    {
+      "city": "Wellington ",
+      "count": 25
+    },
+    {
+      "city": "Taupiri",
+      "count": 25
+    },
+    {
+      "city": "Opunake",
+      "count": 25
+    },
+    {
+      "city": "Tairua",
+      "count": 24
+    },
+    {
+      "city": "Snells Beach",
+      "count": 24
+    },
+    {
+      "city": "Whangārei",
+      "count": 24
+    },
+    {
+      "city": "Waihi Beach",
+      "count": 24
+    },
+    {
+      "city": "Paihia",
+      "count": 23
+    },
+    {
+      "city": "Lawrence",
+      "count": 23
+    },
+    {
+      "city": "Waimauku",
+      "count": 23
+    },
+    {
+      "city": "Roxburgh",
+      "count": 23
+    },
+    {
+      "city": "Great Barrier Island",
+      "count": 23
+    },
+    {
+      "city": "Ranfurly",
+      "count": 22
+    },
+    {
+      "city": "Lumsden",
+      "count": 22
+    },
+    {
+      "city": "Paparoa",
+      "count": 22
+    },
+    {
+      "city": "Taneatua",
+      "count": 22
+    },
+    {
+      "city": "Rakaia",
+      "count": 22
+    },
+    {
+      "city": "Ngatea",
+      "count": 22
+    },
+    {
+      "city": "Omokoroa",
+      "count": 22
+    },
+    {
+      "city": "Prebbleton",
+      "count": 21
+    },
+    {
+      "city": "Patea",
+      "count": 21
+    },
+    {
+      "city": "Taupō",
+      "count": 21
+    },
+    {
+      "city": "Ohaupo",
+      "count": 21
+    },
+    {
+      "city": "Tapanui",
+      "count": 20
+    },
+    {
+      "city": "Waitati",
+      "count": 20
+    },
+    {
+      "city": "Otane",
+      "count": 20
+    },
+    {
+      "city": "Bluff",
+      "count": 20
+    },
+    {
+      "city": "Ohope",
+      "count": 19
+    },
+    {
+      "city": "Owaka",
+      "count": 19
+    },
+    {
+      "city": "Taranaki",
+      "count": 19
+    },
+    {
+      "city": "Te Karaka",
+      "count": 19
+    },
+    {
+      "city": "Renwick",
+      "count": 19
+    },
+    {
+      "city": "Mapua",
+      "count": 19
+    },
+    {
+      "city": "Pauanui",
+      "count": 19
+    },
+    {
+      "city": "Okaihau",
+      "count": 19
+    },
+    {
+      "city": "Eketahuna",
+      "count": 19
+    },
+    {
+      "city": "Outram",
+      "count": 19
+    },
+    {
+      "city": "Palmerston",
+      "count": 19
+    },
+    {
+      "city": "Riverhead",
+      "count": 18
+    },
+    {
+      "city": "Hanmer Springs",
+      "count": 18
+    },
+    {
+      "city": "Clyde",
+      "count": 18
+    },
+    {
+      "city": "Tuatapere",
+      "count": 18
+    },
+    {
+      "city": "Mangakino",
+      "count": 18
+    },
+    {
+      "city": "Tirau",
+      "count": 18
+    },
+    {
+      "city": "Hawkes Bay",
+      "count": 17
+    },
+    {
+      "city": "Waverley",
+      "count": 17
+    },
+    {
+      "city": "Manaia",
+      "count": 17
+    },
+    {
+      "city": "Moerewa",
+      "count": 17
+    },
+    {
+      "city": "Awanui",
+      "count": 17
+    },
+    {
+      "city": "Bulls",
+      "count": 17
+    },
+    {
+      "city": "Stewart Island",
+      "count": 17
+    },
+    {
+      "city": "Takapau",
+      "count": 17
+    },
+    {
+      "city": "Kohukohu",
+      "count": 16
+    },
+    {
+      "city": "Pleasant Point",
+      "count": 16
+    },
+    {
+      "city": "Pirongia",
+      "count": 16
+    },
+    {
+      "city": "Murchison",
+      "count": 16
+    },
+    {
+      "city": "Tokomaru Bay",
+      "count": 16
+    },
+    {
+      "city": "Brightwater",
+      "count": 15
+    },
+    {
+      "city": "Cheviot",
+      "count": 15
+    },
+    {
+      "city": "Ruawai",
+      "count": 15
+    },
+    {
+      "city": "Tikitiki",
+      "count": 15
+    },
+    {
+      "city": "Hunterville",
+      "count": 15
+    },
+    {
+      "city": "Diamond Harbour",
+      "count": 15
+    },
+    {
+      "city": "Ruakaka",
+      "count": 14
+    },
+    {
+      "city": "Karamea",
+      "count": 14
+    },
+    {
+      "city": "Mangonui",
+      "count": 14
+    },
+    {
+      "city": "Kurow",
+      "count": 14
+    },
+    {
+      "city": "Runanga",
+      "count": 14
+    },
+    {
+      "city": "Rawene",
+      "count": 14
+    },
+    {
+      "city": "One Tree Point",
+      "count": 14
+    },
+    {
+      "city": "Oakura",
+      "count": 14
+    },
+    {
+      "city": "North Shore City",
+      "count": 14
+    },
+    {
+      "city": "Clive",
+      "count": 13
+    },
+    {
+      "city": "Reporoa",
+      "count": 13
+    },
+    {
+      "city": "Bombay",
+      "count": 13
+    },
+    {
+      "city": "Tai Tapu",
+      "count": 13
+    },
+    {
+      "city": "Edgecumbe",
+      "count": 13
+    },
+    {
+      "city": "Havelock",
+      "count": 13
+    },
+    {
+      "city": "Whakatāne",
+      "count": 13
+    },
+    {
+      "city": "Kaiwaka",
+      "count": 13
+    },
+    {
+      "city": "Henderson",
+      "count": 12
+    },
+    {
+      "city": "Mataura",
+      "count": 12
+    },
+    {
+      "city": "Collingwood",
+      "count": 12
+    },
+    {
+      "city": "Matakana",
+      "count": 12
+    },
+    {
+      "city": "Manukau",
+      "count": 12
+    },
+    {
+      "city": "Urenui",
+      "count": 12
+    },
+    {
+      "city": "Shannon",
+      "count": 12
+    },
+    {
+      "city": "Piopio",
+      "count": 11
+    },
+    {
+      "city": "Kaukapakapa",
+      "count": 11
+    },
+    {
+      "city": "Hawarden",
+      "count": 11
+    },
+    {
+      "city": "Oropi",
+      "count": 11
+    },
+    {
+      "city": "Pukerua Bay",
+      "count": 11
+    },
+    {
+      "city": "Pongaroa",
+      "count": 11
+    },
+    {
+      "city": "Riversdale",
+      "count": 11
+    },
+    {
+      "city": "Kimbolton",
+      "count": 11
+    },
+    {
+      "city": "Matata",
+      "count": 11
+    },
+    {
+      "city": "Tokanui",
+      "count": 11
+    },
+    {
+      "city": "New Lynn",
+      "count": 11
+    },
+    {
+      "city": "Hāwera",
+      "count": 10
+    },
+    {
+      "city": "Woodend",
+      "count": 10
+    },
+    {
+      "city": "Pegasus",
+      "count": 10
+    },
+    {
+      "city": "Kawhia",
+      "count": 10
+    },
+    {
+      "city": "Omakau",
+      "count": 10
+    },
+    {
+      "city": "Mossburn",
+      "count": 10
+    },
+    {
+      "city": "Canterbury",
+      "count": 10
+    },
+    {
+      "city": "Te Kaha",
+      "count": 10
+    },
+    {
+      "city": "Blackball",
+      "count": 10
+    },
+    {
+      "city": "Owhango",
+      "count": 10
+    },
+    {
+      "city": "Clinton",
+      "count": 10
+    },
+    {
+      "city": "Rongotea",
+      "count": 10
+    },
+    {
+      "city": "Little River",
+      "count": 9
+    },
+    {
+      "city": "Edendale",
+      "count": 9
+    },
+    {
+      "city": "Cust",
+      "count": 9
+    },
+    {
+      "city": "Southbridge",
+      "count": 9
+    },
+    {
+      "city": "Waimana",
+      "count": 9
+    },
+    {
+      "city": "AUCKLAND",
+      "count": 9
+    },
+    {
+      "city": "Wellington CBD",
+      "count": 9
+    },
+    {
+      "city": "Wānaka",
+      "count": 9
+    },
+    {
+      "city": "Southland",
+      "count": 9
+    },
+    {
+      "city": "Lake Tekapo",
+      "count": 9
+    },
+    {
+      "city": "Sanson",
+      "count": 9
+    },
+    {
+      "city": "Wainui",
+      "count": 9
+    },
+    {
+      "city": "Glenorchy",
+      "count": 9
+    },
+    {
+      "city": "West Melton",
+      "count": 9
+    },
+    {
+      "city": "Middlemarch",
+      "count": 9
+    },
+    {
+      "city": "Tākaka",
+      "count": 9
+    },
+    {
+      "city": "Great Barrier Island (aotea Island)",
+      "count": 9
+    },
+    {
+      "city": "Australia",
+      "count": 8
+    },
+    {
+      "city": "Whakamarama",
+      "count": 8
+    },
+    {
+      "city": "Dipton",
+      "count": 8
+    },
+    {
+      "city": "Clarks Beach",
+      "count": 8
+    },
+    {
+      "city": "Manutuke",
+      "count": 8
+    },
+    {
+      "city": "Waikari",
+      "count": 8
+    },
+    {
+      "city": "Ongaonga",
+      "count": 8
+    },
+    {
+      "city": "Waikato",
+      "count": 8
+    },
+    {
+      "city": "Manurewa",
+      "count": 8
+    },
+    {
+      "city": "Springfield",
+      "count": 8
+    },
+    {
+      "city": "Matakohe",
+      "count": 8
+    },
+    {
+      "city": "Piha",
+      "count": 8
+    },
+    {
+      "city": "Onewhero",
+      "count": 8
+    },
+    {
+      "city": "Rai Valley",
+      "count": 8
+    },
+    {
+      "city": "Leigh",
+      "count": 8
+    },
+    {
+      "city": "Nuhaka",
+      "count": 8
+    },
+    {
+      "city": "Seddon",
+      "count": 8
+    },
+    {
+      "city": "Haruru",
+      "count": 7
+    },
+    {
+      "city": "Te Araroa",
+      "count": 7
+    },
+    {
+      "city": "Porangahau",
+      "count": 7
+    },
+    {
+      "city": "Ōpōtiki",
+      "count": 7
+    },
+    {
+      "city": "Hamilton ",
+      "count": 7
+    },
+    {
+      "city": "Waharoa",
+      "count": 7
+    },
+    {
+      "city": "Otago",
+      "count": 7
+    },
+    {
+      "city": "Waitakere",
+      "count": 7
+    },
+    {
+      "city": "Opua",
+      "count": 7
+    },
+    {
+      "city": "Paengaroa",
+      "count": 7
+    },
+    {
+      "city": "Kaitangata",
+      "count": 7
+    },
+    {
+      "city": "Te Kopuru",
+      "count": 7
+    },
+    {
+      "city": "Auckland Central",
+      "count": 7
+    },
+    {
+      "city": "Dairy Flat",
+      "count": 7
+    },
+    {
+      "city": "Springston",
+      "count": 7
+    },
+    {
+      "city": "Ohai",
+      "count": 7
+    },
+    {
+      "city": "Clevedon",
+      "count": 7
+    },
+    {
+      "city": "Ward",
+      "count": 7
+    },
+    {
+      "city": "Granity",
+      "count": 7
+    },
+    {
+      "city": "Waiau",
+      "count": 7
+    },
+    {
+      "city": "Howick",
+      "count": 6
+    },
+    {
+      "city": "Cable Bay",
+      "count": 6
+    },
+    {
+      "city": "Whangaparāoa",
+      "count": 6
+    },
+    {
+      "city": "Central Hawkes Bay",
+      "count": 6
+    },
+    {
+      "city": "Coopers Beach",
+      "count": 6
+    },
+    {
+      "city": "Whangarei ",
+      "count": 6
+    },
+    {
+      "city": "Manukau City",
+      "count": 6
+    },
+    {
+      "city": "Auckland City",
+      "count": 6
+    },
+    {
+      "city": "Waipapa",
+      "count": 6
+    },
+    {
+      "city": "Manapouri",
+      "count": 6
+    },
+    {
+      "city": "Waimarama",
+      "count": 6
+    },
+    {
+      "city": "Nightcaps",
+      "count": 6
+    },
+    {
+      "city": "Dunedin ",
+      "count": 6
+    },
+    {
+      "city": "Parua Bay",
+      "count": 6
+    },
+    {
+      "city": "Chatham Island",
+      "count": 6
+    },
+    {
+      "city": "Haumoana",
+      "count": 6
+    },
+    {
+      "city": "North Canterbury",
+      "count": 6
+    },
+    {
+      "city": "Tikokino",
+      "count": 6
+    },
+    {
+      "city": "Waitakere City",
+      "count": 6
+    },
+    {
+      "city": "Waikaia",
+      "count": 6
+    },
+    {
+      "city": "Pukeatua",
+      "count": 6
+    },
+    {
+      "city": "Hororata",
+      "count": 6
+    },
+    {
+      "city": "Ross",
+      "count": 6
+    },
+    {
+      "city": "Oturehua",
+      "count": 6
+    },
+    {
+      "city": "Jacks Point",
+      "count": 6
+    },
+    {
+      "city": "Wairau Valley",
+      "count": 5
+    },
+    {
+      "city": "Manakau",
+      "count": 5
+    },
+    {
+      "city": "Blenheim ",
+      "count": 5
+    },
+    {
+      "city": "Auckland CBD",
+      "count": 5
+    },
+    {
+      "city": "CHRISTCHURCH",
+      "count": 5
+    },
+    {
+      "city": "Omapere",
+      "count": 5
+    },
+    {
+      "city": "Athol",
+      "count": 5
+    },
+    {
+      "city": "Hunua",
+      "count": 5
+    },
+    {
+      "city": "Upper Hutt ",
+      "count": 5
+    },
+    {
+      "city": "Balfour",
+      "count": 5
+    },
+    {
+      "city": "Minginui",
+      "count": 5
+    },
+    {
+      "city": "Loburn",
+      "count": 5
+    },
+    {
+      "city": "Raupunga",
+      "count": 5
+    },
+    {
+      "city": "Coalgate",
+      "count": 5
+    },
+    {
+      "city": "South Westland",
+      "count": 5
+    },
+    {
+      "city": "Atiamuri",
+      "count": 5
+    },
+    {
+      "city": "Taipa",
+      "count": 5
+    },
+    {
+      "city": "Norsewood",
+      "count": 5
+    },
+    {
+      "city": "Okato",
+      "count": 5
+    },
+    {
+      "city": "Mangaweka",
+      "count": 5
+    },
+    {
+      "city": "Wallacetown",
+      "count": 5
+    },
+    {
+      "city": "Tangimoana",
+      "count": 5
+    },
+    {
+      "city": "Aria",
+      "count": 5
+    },
+    {
+      "city": "Naseby",
+      "count": 5
+    },
+    {
+      "city": "Mokau",
+      "count": 5
+    },
+    {
+      "city": "Kaponga",
+      "count": 5
+    },
+    {
+      "city": "National Park",
+      "count": 5
+    },
+    {
+      "city": "Mamaku",
+      "count": 5
+    },
+    {
+      "city": "Kawakawa Bay",
+      "count": 5
+    },
+    {
+      "city": "Ngunguru",
+      "count": 5
+    },
+    {
+      "city": "Sheffield",
+      "count": 5
+    },
+    {
+      "city": "Aongatete",
+      "count": 5
+    },
+    {
+      "city": "Waitomo",
+      "count": 4
+    },
+    {
+      "city": "Karitane",
+      "count": 4
+    },
+    {
+      "city": "Palmerston North ",
+      "count": 4
+    },
+    {
+      "city": "Coatesville",
+      "count": 4
+    },
+    {
+      "city": "Te Kūiti",
+      "count": 4
+    },
+    {
+      "city": "Mahia",
+      "count": 4
+    },
+    {
+      "city": "Sefton",
+      "count": 4
+    },
+    {
+      "city": "Taupaki",
+      "count": 4
+    },
+    {
+      "city": "Marlborough",
+      "count": 4
+    },
+    {
+      "city": "Waikuku Beach",
+      "count": 4
+    },
+    {
+      "city": "Karikari Peninsula",
+      "count": 4
+    },
+    {
+      "city": "Taupo ",
+      "count": 4
+    },
+    {
+      "city": "Puhoi",
+      "count": 4
+    },
+    {
+      "city": "Moana",
+      "count": 4
+    },
+    {
+      "city": "Omanawa",
+      "count": 4
+    },
+    {
+      "city": "Maungakaramea",
+      "count": 4
+    },
+    {
+      "city": "Spring Creek",
+      "count": 4
+    },
+    {
+      "city": "Dunsandel",
+      "count": 4
+    },
+    {
+      "city": "Opononi",
+      "count": 4
+    },
+    {
+      "city": "Governors Bay",
+      "count": 4
+    },
+    {
+      "city": "North Otago",
+      "count": 4
+    },
+    {
+      "city": "Lake Hawea",
+      "count": 4
+    },
+    {
+      "city": "West Eyreton",
+      "count": 4
+    },
+    {
+      "city": "Mangōnui",
+      "count": 4
+    },
+    {
+      "city": "Waiouru",
+      "count": 4
+    },
+    {
+      "city": "Ruatahuna",
+      "count": 4
+    },
+    {
+      "city": "Kumara",
+      "count": 4
+    },
+    {
+      "city": "Ahaura",
+      "count": 4
+    },
+    {
+      "city": "Ohura",
+      "count": 4
+    },
+    {
+      "city": "Muriwai",
+      "count": 4
+    },
+    {
+      "city": "Kapiti",
+      "count": 4
+    },
+    {
+      "city": "Maramarua",
+      "count": 4
+    },
+    {
+      "city": "Tekapo",
+      "count": 4
+    },
+    {
+      "city": "Putāruru",
+      "count": 4
+    },
+    {
+      "city": "Rotorua ",
+      "count": 4
+    },
+    {
+      "city": "Dobson",
+      "count": 4
+    },
+    {
+      "city": "Moeraki",
+      "count": 4
+    },
+    {
+      "city": "Rotoiti Forest",
+      "count": 4
+    },
+    {
+      "city": "Culverden",
+      "count": 4
+    },
+    {
+      "city": "French Pass",
+      "count": 4
+    },
+    {
+      "city": "Onerahi",
+      "count": 4
+    },
+    {
+      "city": "Kaikōura",
+      "count": 4
+    },
+    {
+      "city": "Te Kao",
+      "count": 3
+    },
+    {
+      "city": "Poukawa",
+      "count": 3
+    },
+    {
+      "city": "Duvauchelle",
+      "count": 3
+    },
+    {
+      "city": "Porirua ",
+      "count": 3
+    },
+    {
+      "city": "Karori",
+      "count": 3
+    },
+    {
+      "city": "Glentunnel",
+      "count": 3
+    },
+    {
+      "city": "Tangiteroria",
+      "count": 3
+    },
+    {
+      "city": "North Shore",
+      "count": 3
+    },
+    {
+      "city": "Fox Glacier",
+      "count": 3
+    },
+    {
+      "city": "Tarras",
+      "count": 3
+    },
+    {
+      "city": "South Canterbury",
+      "count": 3
+    },
+    {
+      "city": "Whitford",
+      "count": 3
+    },
+    {
+      "city": "Ōkaihau",
+      "count": 3
+    },
+    {
+      "city": "Waitotara",
+      "count": 3
+    },
+    {
+      "city": "Patumahoe",
+      "count": 3
+    },
+    {
+      "city": "Maraekakaho",
+      "count": 3
+    },
+    {
+      "city": "Karaka",
+      "count": 3
+    },
+    {
+      "city": "Te Puna",
+      "count": 3
+    },
+    {
+      "city": "Foxton Beach",
+      "count": 3
+    },
+    {
+      "city": "Whangarei Heads",
+      "count": 3
+    },
+    {
+      "city": "Ohau",
+      "count": 3
+    },
+    {
+      "city": "Awatuna",
+      "count": 3
+    },
+    {
+      "city": "Tahawai",
+      "count": 3
+    },
+    {
+      "city": "Walton",
+      "count": 3
+    },
+    {
+      "city": "Waipiro",
+      "count": 3
+    },
+    {
+      "city": "Winchester",
+      "count": 3
+    },
+    {
+      "city": "Waipara",
+      "count": 3
+    },
+    {
+      "city": "South Head",
+      "count": 3
+    },
+    {
+      "city": "Halcombe",
+      "count": 3
+    },
+    {
+      "city": "Northland ",
+      "count": 3
+    },
+    {
+      "city": "Brunswick",
+      "count": 3
+    },
+    {
+      "city": "Waihola",
+      "count": 3
+    },
+    {
+      "city": "Burnham",
+      "count": 3
+    },
+    {
+      "city": "Mt Maunganui",
+      "count": 3
+    },
+    {
+      "city": "Kapiti Coast",
+      "count": 3
+    },
+    {
+      "city": "Hamurana",
+      "count": 3
+    },
+    {
+      "city": "Wainuiomata",
+      "count": 3
+    },
+    {
+      "city": "Pukenui",
+      "count": 3
+    },
+    {
+      "city": "Port Waikato",
+      "count": 3
+    },
+    {
+      "city": "Hicks Bay",
+      "count": 3
+    },
+    {
+      "city": "Broadwood",
+      "count": 3
+    },
+    {
+      "city": "Donnellys Crossing",
+      "count": 3
+    },
+    {
+      "city": "Ongarue",
+      "count": 3
+    },
+    {
+      "city": "Tūrangi",
+      "count": 3
+    },
+    {
+      "city": "Cooks Beach",
+      "count": 3
+    },
+    {
+      "city": "Te Teko",
+      "count": 3
+    },
+    {
+      "city": "Ratana",
+      "count": 3
+    },
+    {
+      "city": "Franklin",
+      "count": 3
+    },
+    {
+      "city": "Haast",
+      "count": 3
+    },
+    {
+      "city": "Apiti",
+      "count": 3
+    },
+    {
+      "city": "Panguru",
+      "count": 3
+    },
+    {
+      "city": "Omarama",
+      "count": 3
+    },
+    {
+      "city": "Waitoa",
+      "count": 3
+    },
+    {
+      "city": "Kingston",
+      "count": 3
+    },
+    {
+      "city": "Matiere",
+      "count": 3
+    },
+    {
+      "city": "Otematata",
+      "count": 3
+    },
+    {
+      "city": "Hikuai",
+      "count": 3
+    },
+    {
+      "city": "Ōtaki",
+      "count": 3
+    },
+    {
+      "city": "Poroti",
+      "count": 3
+    },
+    {
+      "city": "Parakai",
+      "count": 3
+    },
+    {
+      "city": "Banks Peninsula",
+      "count": 3
+    },
+    {
+      "city": "Ohoka",
+      "count": 3
+    },
+    {
+      "city": "Fielding",
+      "count": 3
+    },
+    {
+      "city": "Horotiu",
+      "count": 3
+    },
+    {
+      "city": "New Zealand",
+      "count": 3
+    },
+    {
+      "city": "Rotherham",
+      "count": 3
+    },
+    {
+      "city": "Kirwee",
+      "count": 3
+    },
+    {
+      "city": "Okarito",
+      "count": 3
+    },
+    {
+      "city": "Te One ",
+      "count": 3
+    },
+    {
+      "city": "Mahurangi East",
+      "count": 3
+    },
+    {
+      "city": "Elsthorpe",
+      "count": 3
+    },
+    {
+      "city": "Ōpunake",
+      "count": 3
+    },
+    {
+      "city": "Himatangi Beach",
+      "count": 3
+    },
+    {
+      "city": "Tauranga ",
+      "count": 3
+    },
+    {
+      "city": "Tutukaka",
+      "count": 2
+    },
+    {
+      "city": "Hutt City",
+      "count": 2
+    },
+    {
+      "city": "St Arnaud",
+      "count": 2
+    },
+    {
+      "city": "Dalefield",
+      "count": 2
+    },
+    {
+      "city": "St Andrews",
+      "count": 2
+    },
+    {
+      "city": "Koputaroa",
+      "count": 2
+    },
+    {
+      "city": "Ahipara",
+      "count": 2
+    },
+    {
+      "city": "Mangatawhiri",
+      "count": 2
+    },
+    {
+      "city": "Gisborne ",
+      "count": 2
+    },
+    {
+      "city": "Hampden",
+      "count": 2
+    },
+    {
+      "city": "Turangi ",
+      "count": 2
+    },
+    {
+      "city": "Queenstown ",
+      "count": 2
+    },
+    {
+      "city": "Luggate",
+      "count": 2
+    },
+    {
+      "city": "Millers Flat",
+      "count": 2
+    },
+    {
+      "city": "Eskdale",
+      "count": 2
+    },
+    {
+      "city": "Mount Somers",
+      "count": 2
+    },
+    {
+      "city": "Seddonville",
+      "count": 2
+    },
+    {
+      "city": "Te Kohanga",
+      "count": 2
+    },
+    {
+      "city": "Rahotu",
+      "count": 2
+    },
+    {
+      "city": "Whangamatā",
+      "count": 2
+    },
+    {
+      "city": "Glen Massey",
+      "count": 2
+    },
+    {
+      "city": "Mercer",
+      "count": 2
+    },
+    {
+      "city": "Great Barrier Island (Aotea Island)",
+      "count": 2
+    },
+    {
+      "city": "Gladstone",
+      "count": 2
+    },
+    {
+      "city": "King Country",
+      "count": 2
+    },
+    {
+      "city": "Oparau",
+      "count": 2
+    },
+    {
+      "city": "Duntroon",
+      "count": 2
+    },
+    {
+      "city": "Hahei",
+      "count": 2
+    },
+    {
+      "city": "Flemington",
+      "count": 2
+    },
+    {
+      "city": "Arthur's Pass National Park",
+      "count": 2
+    },
+    {
+      "city": "Whangaruru",
+      "count": 2
+    },
+    {
+      "city": "Ōmarama",
+      "count": 2
+    },
+    {
+      "city": "North Canterbury ",
+      "count": 2
+    },
+    {
+      "city": "Egmont Village",
+      "count": 2
+    },
+    {
+      "city": "Pollok",
+      "count": 2
+    },
+    {
+      "city": "DARGAVILLE",
+      "count": 2
+    },
+    {
+      "city": "wellington",
+      "count": 2
+    },
+    {
+      "city": "Fordell",
+      "count": 2
+    },
+    {
+      "city": "Tongariro",
+      "count": 2
+    },
+    {
+      "city": "Waimatā",
+      "count": 2
+    },
+    {
+      "city": "Tasman",
+      "count": 2
+    },
+    {
+      "city": "Albury",
+      "count": 2
+    },
+    {
+      "city": "Raukawa",
+      "count": 2
+    },
+    {
+      "city": "Turua",
+      "count": 2
+    },
+    {
+      "city": "Whangaroa Harbour",
+      "count": 2
+    },
+    {
+      "city": "Lake Ohau",
+      "count": 2
+    },
+    {
+      "city": "HAMILTON",
+      "count": 2
+    },
+    {
+      "city": "Central Otago",
+      "count": 2
+    },
+    {
+      "city": "Cave",
+      "count": 2
+    },
+    {
+      "city": "Pukerau",
+      "count": 2
+    },
+    {
+      "city": "Tokomaru",
+      "count": 2
+    },
+    {
+      "city": "Matawai",
+      "count": 2
+    },
+    {
+      "city": "Hokianga",
+      "count": 2
+    },
+    {
+      "city": "Golden Bay",
+      "count": 2
+    },
+    {
+      "city": "Lower Hutt ",
+      "count": 2
+    },
+    {
+      "city": "Whiritoa",
+      "count": 2
+    },
+    {
+      "city": "Waiwera",
+      "count": 2
+    },
+    {
+      "city": "Ashburton ",
+      "count": 2
+    },
+    {
+      "city": "Bunnythorpe",
+      "count": 2
+    },
+    {
+      "city": "Tuamarina",
+      "count": 2
+    },
+    {
+      "city": "Kaiaua",
+      "count": 2
+    },
+    {
+      "city": "Pukehina",
+      "count": 2
+    },
+    {
+      "city": "Ōtāne",
+      "count": 2
+    },
+    {
+      "city": "Point Wells",
+      "count": 2
+    },
+    {
+      "city": "Kai Iwi",
+      "count": 2
+    },
+    {
+      "city": "Naike",
+      "count": 2
+    },
+    {
+      "city": "Waitetuna",
+      "count": 2
+    },
+    {
+      "city": "Lyttleton",
+      "count": 2
+    },
+    {
+      "city": "Hillsborough",
+      "count": 2
+    },
+    {
+      "city": "Te Kōpuru",
+      "count": 2
+    },
+    {
+      "city": "Paihia, Bay Of Islands",
+      "count": 2
+    },
+    {
+      "city": "Tuai",
+      "count": 2
+    },
+    {
+      "city": "Saint Andrews",
+      "count": 2
+    },
+    {
+      "city": "Pauanui Beach",
+      "count": 2
+    },
+    {
+      "city": "Kauri",
+      "count": 2
+    },
+    {
+      "city": "Herbertville",
+      "count": 2
+    },
+    {
+      "city": "Waimahaka",
+      "count": 2
+    },
+    {
+      "city": "Omata",
+      "count": 2
+    },
+    {
+      "city": "Bay of Plenty",
+      "count": 2
+    },
+    {
+      "city": "Hector",
+      "count": 2
+    },
+    {
+      "city": "Tata Beach",
+      "count": 2
+    },
+    {
+      "city": "Lake Coleridge",
+      "count": 2
+    },
+    {
+      "city": "Ngakawau",
+      "count": 2
+    },
+    {
+      "city": "Dome Valley",
+      "count": 2
+    },
+    {
+      "city": "Pungarehu",
+      "count": 2
+    },
+    {
+      "city": "Ohinewai",
+      "count": 2
+    },
+    {
+      "city": "Maketu",
+      "count": 2
+    },
+    {
+      "city": "Maungatapere",
+      "count": 2
+    },
+    {
+      "city": "Mid Canterbury",
+      "count": 2
+    },
+    {
+      "city": "Pawarenga",
+      "count": 2
+    },
+    {
+      "city": "Kawakawa ",
+      "count": 2
+    },
+    {
+      "city": "Colville",
+      "count": 2
+    },
+    {
+      "city": "Southburn",
+      "count": 2
+    },
+    {
+      "city": "Tamaterau",
+      "count": 2
+    },
+    {
+      "city": "Mount Pisa",
+      "count": 2
+    },
+    {
+      "city": "Harihari",
+      "count": 2
+    },
+    {
+      "city": "Kairanga",
+      "count": 2
+    },
+    {
+      "city": "South Otago",
+      "count": 2
+    },
+    {
+      "city": "Te Puia Springs",
+      "count": 2
+    },
+    {
+      "city": "Makarau",
+      "count": 2
+    },
+    {
+      "city": "Ruatapu",
+      "count": 2
+    },
+    {
+      "city": "Lower Hutt, Wellington",
+      "count": 2
+    },
+    {
+      "city": "Marahau",
+      "count": 2
+    },
+    {
+      "city": "Kaka Point",
+      "count": 2
+    },
+    {
+      "city": "Tiniroto",
+      "count": 2
+    },
+    {
+      "city": "Tapawera",
+      "count": 2
+    },
+    {
+      "city": "Christchuch",
+      "count": 2
+    },
+    {
+      "city": "Pōrangahau",
+      "count": 2
+    },
+    {
+      "city": "Patearoa",
+      "count": 2
+    },
+    {
+      "city": "Frasertown",
+      "count": 2
+    },
+    {
+      "city": "Nukuhou",
+      "count": 2
+    },
+    {
+      "city": "Waikato ",
+      "count": 2
+    },
+    {
+      "city": "Ngapuke",
+      "count": 2
+    },
+    {
+      "city": "Lake Hāwea",
+      "count": 2
+    },
+    {
+      "city": "Franz Josef Glacier",
+      "count": 2
+    },
+    {
+      "city": "Aorangi",
+      "count": 2
+    },
+    {
+      "city": "Glorit",
+      "count": 2
+    },
+    {
+      "city": "Lake Hayes",
+      "count": 2
+    },
+    {
+      "city": "Ōmokoroa",
+      "count": 2
+    },
+    {
+      "city": "Brooklyn",
+      "count": 2
+    },
+    {
+      "city": "Nūhaka",
+      "count": 2
+    },
+    {
+      "city": "Ferry Landing",
+      "count": 2
+    },
+    {
+      "city": "Baylys Beach",
+      "count": 2
+    },
+    {
+      "city": "Pareora",
+      "count": 2
+    },
+    {
+      "city": "Ngāruawāhia",
+      "count": 2
+    },
+    {
+      "city": "3015",
+      "count": 1
+    },
+    {
+      "city": "RD 3 Drury",
+      "count": 1
+    },
+    {
+      "city": "nelson",
+      "count": 1
+    },
+    {
+      "city": "Carterton ",
+      "count": 1
+    },
+    {
+      "city": "WHANGAPARAOA",
+      "count": 1
+    },
+    {
+      "city": "MOTUEKA",
+      "count": 1
+    },
+    {
+      "city": "Papawai",
+      "count": 1
+    },
+    {
+      "city": "Vienna, Austria",
+      "count": 1
+    },
+    {
+      "city": "Brydone",
+      "count": 1
+    },
+    {
+      "city": "NEW PLYMOUTH",
+      "count": 1
+    },
+    {
+      "city": "Waiotahe Valley",
+      "count": 1
+    },
+    {
+      "city": "Glenbrook",
+      "count": 1
+    },
+    {
+      "city": "KAWERAU",
+      "count": 1
+    },
+    {
+      "city": "Patutahi",
+      "count": 1
+    },
+    {
+      "city": "WAITARA",
+      "count": 1
+    },
+    {
+      "city": "RAETIHI",
+      "count": 1
+    },
+    {
+      "city": "WYNDHAM",
+      "count": 1
+    },
+    {
+      "city": "Waitangi",
+      "count": 1
+    },
+    {
+      "city": "Noirth Shore Ciuty",
+      "count": 1
+    },
+    {
+      "city": "Ngatimoti",
+      "count": 1
+    },
+    {
+      "city": "Balcutha ",
+      "count": 1
+    },
+    {
+      "city": "TAIHAPE",
+      "count": 1
+    },
+    {
+      "city": "Whangapoua",
+      "count": 1
+    },
+    {
+      "city": "Hunterville ",
+      "count": 1
+    },
+    {
+      "city": "Tinui",
+      "count": 1
+    },
+    {
+      "city": "Leeston ",
+      "count": 1
+    },
+    {
+      "city": "Fiordland National Park",
+      "count": 1
+    },
+    {
+      "city": "Pukemiro",
+      "count": 1
+    },
+    {
+      "city": "Kerikeri ",
+      "count": 1
+    },
+    {
+      "city": "OAMARU",
+      "count": 1
+    },
+    {
+      "city": "Taringamotu",
+      "count": 1
+    },
+    {
+      "city": "Waituna West",
+      "count": 1
+    },
+    {
+      "city": "Sydney",
+      "count": 1
+    },
+    {
+      "city": "Ophir",
+      "count": 1
+    },
+    {
+      "city": "Lower HUtt",
+      "count": 1
+    },
+    {
+      "city": "Awatere Valley",
+      "count": 1
+    },
+    {
+      "city": "South Island",
+      "count": 1
+    },
+    {
+      "city": "TAURANGA",
+      "count": 1
+    },
+    {
+      "city": "White Rock",
+      "count": 1
+    },
+    {
+      "city": "Queensland, Australia",
+      "count": 1
+    },
+    {
+      "city": "California USA",
+      "count": 1
+    },
+    {
+      "city": "Whangateau",
+      "count": 1
+    },
+    {
+      "city": "Whanganui River",
+      "count": 1
+    },
+    {
+      "city": "Pukehou Central Hb",
+      "count": 1
+    },
+    {
+      "city": "Whareama",
+      "count": 1
+    },
+    {
+      "city": "Kawerua",
+      "count": 1
+    },
+    {
+      "city": "Matarau",
+      "count": 1
+    },
+    {
+      "city": "RIVERTON",
+      "count": 1
+    },
+    {
+      "city": "Waitakere City ",
+      "count": 1
+    },
+    {
+      "city": "Golden Bay ",
+      "count": 1
+    },
+    {
+      "city": "Ngataki",
+      "count": 1
+    },
+    {
+      "city": "Kutarere",
+      "count": 1
+    },
+    {
+      "city": "Wanaka ",
+      "count": 1
+    },
+    {
+      "city": "Hamilton East",
+      "count": 1
+    },
+    {
+      "city": "Great Barrier Island ",
+      "count": 1
+    },
+    {
+      "city": "Kūaotunu",
+      "count": 1
+    },
+    {
+      "city": "Warea",
+      "count": 1
+    },
+    {
+      "city": "Maruia",
+      "count": 1
+    },
+    {
+      "city": "Winiata Taihape",
+      "count": 1
+    },
+    {
+      "city": "Mātāwai",
+      "count": 1
+    },
+    {
+      "city": "Whatatutu",
+      "count": 1
+    },
+    {
+      "city": "State Highway 38",
+      "count": 1
+    },
+    {
+      "city": "Kopu",
+      "count": 1
+    },
+    {
+      "city": "gore",
+      "count": 1
+    },
+    {
+      "city": "Charleston",
+      "count": 1
+    },
+    {
+      "city": "Takahue",
+      "count": 1
+    },
+    {
+      "city": ".",
+      "count": 1
+    },
+    {
+      "city": "Crosselles Harbour",
+      "count": 1
+    },
+    {
+      "city": "Paeroa ",
+      "count": 1
+    },
+    {
+      "city": "Fernhill",
+      "count": 1
+    },
+    {
+      "city": "No Address",
+      "count": 1
+    },
+    {
+      "city": "Rarangi",
+      "count": 1
+    },
+    {
+      "city": " Havelock North",
+      "count": 1
+    },
+    {
+      "city": "Ngaio",
+      "count": 1
+    },
+    {
+      "city": "Bay Of Islands",
+      "count": 1
+    },
+    {
+      "city": "Tolaga Bay ",
+      "count": 1
+    },
+    {
+      "city": "Whareora",
+      "count": 1
+    },
+    {
+      "city": "Ruatoki ",
+      "count": 1
+    },
+    {
+      "city": "Wellington South",
+      "count": 1
+    },
+    {
+      "city": "Hawea Flat",
+      "count": 1
+    },
+    {
+      "city": "Whatawhata",
+      "count": 1
+    },
+    {
+      "city": "Aratapu",
+      "count": 1
+    },
+    {
+      "city": "Upokongaro",
+      "count": 1
+    },
+    {
+      "city": "Wharepapa South",
+      "count": 1
+    },
+    {
+      "city": "Pātea",
+      "count": 1
+    },
+    {
+      "city": "Otara, Auckland",
+      "count": 1
+    },
+    {
+      "city": "South Hokianga",
+      "count": 1
+    },
+    {
+      "city": "Rotherham ",
+      "count": 1
+    },
+    {
+      "city": "Moerewa ",
+      "count": 1
+    },
+    {
+      "city": "Kairakau",
+      "count": 1
+    },
+    {
+      "city": "Kaeo Northland",
+      "count": 1
+    },
+    {
+      "city": "Ohaeawai",
+      "count": 1
+    },
+    {
+      "city": "Brighton",
+      "count": 1
+    },
+    {
+      "city": "Mihi",
+      "count": 1
+    },
+    {
+      "city": "Ōtorohanga",
+      "count": 1
+    },
+    {
+      "city": "Kaimai Mamaku Conservation Park",
+      "count": 1
+    },
+    {
+      "city": "Manutūkē",
+      "count": 1
+    },
+    {
+      "city": "Horopito",
+      "count": 1
+    },
+    {
+      "city": "Riversdale Beach",
+      "count": 1
+    },
+    {
+      "city": "Te Puke ",
+      "count": 1
+    },
+    {
+      "city": "Newstead",
+      "count": 1
+    },
+    {
+      "city": "Whangaroa",
+      "count": 1
+    },
+    {
+      "city": "Ruapuna",
+      "count": 1
+    },
+    {
+      "city": "Waerengaokuri",
+      "count": 1
+    },
+    {
+      "city": "Putere",
+      "count": 1
+    },
+    {
+      "city": "Tasmania",
+      "count": 1
+    },
+    {
+      "city": "Ngatea Thames",
+      "count": 1
+    },
+    {
+      "city": "Ferniehurst",
+      "count": 1
+    },
+    {
+      "city": "Franz Josef",
+      "count": 1
+    },
+    {
+      "city": "Rd1 Tuakau",
+      "count": 1
+    },
+    {
+      "city": "Otamarakau",
+      "count": 1
+    },
+    {
+      "city": "Pongakawa",
+      "count": 1
+    },
+    {
+      "city": "Lower Kaimai",
+      "count": 1
+    },
+    {
+      "city": "Māhia",
+      "count": 1
+    },
+    {
+      "city": "Ruakituri",
+      "count": 1
+    },
+    {
+      "city": "Milford",
+      "count": 1
+    },
+    {
+      "city": "Canterbury ",
+      "count": 1
+    },
+    {
+      "city": "Ranfurly, Otago",
+      "count": 1
+    },
+    {
+      "city": "Okoki",
+      "count": 1
+    },
+    {
+      "city": "Thames ",
+      "count": 1
+    },
+    {
+      "city": "Ruawai ",
+      "count": 1
+    },
+    {
+      "city": "Te Mata",
+      "count": 1
+    },
+    {
+      "city": "Kumeroa",
+      "count": 1
+    },
+    {
+      "city": "Cambridge ",
+      "count": 1
+    },
+    {
+      "city": "Paraparaumu Beach",
+      "count": 1
+    },
+    {
+      "city": "Totara Flat",
+      "count": 1
+    },
+    {
+      "city": "Karamea 7864",
+      "count": 1
+    },
+    {
+      "city": "Orini",
+      "count": 1
+    },
+    {
+      "city": "Te Waewae",
+      "count": 1
+    },
+    {
+      "city": "Tōrere",
+      "count": 1
+    },
+    {
+      "city": "Waddington",
+      "count": 1
+    },
+    {
+      "city": "Mimi",
+      "count": 1
+    },
+    {
+      "city": "Karangahake",
+      "count": 1
+    },
+    {
+      "city": "Port Waikato, RD 5, Tuakau",
+      "count": 1
+    },
+    {
+      "city": "Dannevirke ",
+      "count": 1
+    },
+    {
+      "city": "Melbourne",
+      "count": 1
+    },
+    {
+      "city": "Maihiihi",
+      "count": 1
+    },
+    {
+      "city": "Greta Valley",
+      "count": 1
+    },
+    {
+      "city": "Mahoenui",
+      "count": 1
+    },
+    {
+      "city": "Grey Lynn",
+      "count": 1
+    },
+    {
+      "city": "Via Dargaville",
+      "count": 1
+    },
+    {
+      "city": "Glenavy",
+      "count": 1
+    },
+    {
+      "city": "Coopers Creek",
+      "count": 1
+    },
+    {
+      "city": "Brisbane, Australia",
+      "count": 1
+    },
+    {
+      "city": "Norsewood ",
+      "count": 1
+    },
+    {
+      "city": "Mangatāwhiri",
+      "count": 1
+    },
+    {
+      "city": "Sth Auckland",
+      "count": 1
+    },
+    {
+      "city": "South Auckland",
+      "count": 1
+    },
+    {
+      "city": "Rockville",
+      "count": 1
+    },
+    {
+      "city": "Lauriston",
+      "count": 1
+    },
+    {
+      "city": "Ohakune ",
+      "count": 1
+    },
+    {
+      "city": "Manaia ",
+      "count": 1
+    },
+    {
+      "city": "Lower Hutt City",
+      "count": 1
+    },
+    {
+      "city": "Wharehine",
+      "count": 1
+    },
+    {
+      "city": "Punakaiki",
+      "count": 1
+    },
+    {
+      "city": "Darfield ",
+      "count": 1
+    },
+    {
+      "city": "Waerenga",
+      "count": 1
+    },
+    {
+      "city": "Kurow ",
+      "count": 1
+    },
+    {
+      "city": "Clinton ",
+      "count": 1
+    },
+    {
+      "city": "Lepperton ",
+      "count": 1
+    },
+    {
+      "city": "Waitati ",
+      "count": 1
+    },
+    {
+      "city": "Wairarapa ",
+      "count": 1
+    },
+    {
+      "city": "Reefton ",
+      "count": 1
+    },
+    {
+      "city": "Turakina",
+      "count": 1
+    },
+    {
+      "city": "Whangerei",
+      "count": 1
+    },
+    {
+      "city": "Waimakariri",
+      "count": 1
+    },
+    {
+      "city": "North of Wellsford",
+      "count": 1
+    },
+    {
+      "city": "Ikamatua",
+      "count": 1
+    },
+    {
+      "city": "Waimangaroa",
+      "count": 1
+    },
+    {
+      "city": "Ashley",
+      "count": 1
+    },
+    {
+      "city": "Devonport",
+      "count": 1
+    },
+    {
+      "city": "Limehills",
+      "count": 1
+    },
+    {
+      "city": "Waipapakauri",
+      "count": 1
+    },
+    {
+      "city": "Colac Bay",
+      "count": 1
+    },
+    {
+      "city": "Woodbourne, Blenheim",
+      "count": 1
+    },
+    {
+      "city": "via Rotorua",
+      "count": 1
+    },
+    {
+      "city": "Maraenui",
+      "count": 1
+    },
+    {
+      "city": "Ngakuru",
+      "count": 1
+    },
+    {
+      "city": "Redan",
+      "count": 1
+    },
+    {
+      "city": "Lake Okataina",
+      "count": 1
+    },
+    {
+      "city": "Calgary, AB, Canada",
+      "count": 1
+    },
+    {
+      "city": "Northshore",
+      "count": 1
+    },
+    {
+      "city": "Hurleyville",
+      "count": 1
+    },
+    {
+      "city": "Newcastle West, Australia",
+      "count": 1
+    },
+    {
+      "city": "Swannanoa",
+      "count": 1
+    },
+    {
+      "city": "Te Kauwhata ",
+      "count": 1
+    },
+    {
+      "city": "Waihua",
+      "count": 1
+    },
+    {
+      "city": "Te Atatu South",
+      "count": 1
+    },
+    {
+      "city": "Whanagarei ",
+      "count": 1
+    },
+    {
+      "city": "Ohope ",
+      "count": 1
+    },
+    {
+      "city": "Dargaville ",
+      "count": 1
+    },
+    {
+      "city": "Raukokore",
+      "count": 1
+    },
+    {
+      "city": "San Francisco  California  94109  United States",
+      "count": 1
+    },
+    {
+      "city": "Feilding ",
+      "count": 1
+    },
+    {
+      "city": "Pouto",
+      "count": 1
+    },
+    {
+      "city": "Whangarei County ",
+      "count": 1
+    },
+    {
+      "city": "Masterton ",
+      "count": 1
+    },
+    {
+      "city": "Waipiro Bay",
+      "count": 1
+    },
+    {
+      "city": "Lincoln ",
+      "count": 1
+    },
+    {
+      "city": "NSW, Australia",
+      "count": 1
+    },
+    {
+      "city": "Pelorus Sound",
+      "count": 1
+    },
+    {
+      "city": "Māpua",
+      "count": 1
+    },
+    {
+      "city": "Lyttleton ",
+      "count": 1
+    },
+    {
+      "city": "Franklin District",
+      "count": 1
+    },
+    {
+      "city": "Tauranga,",
+      "count": 1
+    },
+    {
+      "city": "NewPlymouth",
+      "count": 1
+    },
+    {
+      "city": "Nelson ",
+      "count": 1
+    },
+    {
+      "city": "Te Rāpaki-O-Te Rakiwhakaputa",
+      "count": 1
+    },
+    {
+      "city": "HUNTLY",
+      "count": 1
+    },
+    {
+      "city": "Mangere",
+      "count": 1
+    },
+    {
+      "city": "Lake Rotoma",
+      "count": 1
+    },
+    {
+      "city": "Hari Hari",
+      "count": 1
+    },
+    {
+      "city": "Pokuru",
+      "count": 1
+    },
+    {
+      "city": "Ngahere",
+      "count": 1
+    },
+    {
+      "city": "Western Australia",
+      "count": 1
+    },
+    {
+      "city": "Rd2 Waihi",
+      "count": 1
+    },
+    {
+      "city": "Puketapu",
+      "count": 1
+    },
+    {
+      "city": " Stratford",
+      "count": 1
+    },
+    {
+      "city": "Buller",
+      "count": 1
+    },
+    {
+      "city": "RD 2, Lumsden",
+      "count": 1
+    },
+    {
+      "city": "Oamaru ",
+      "count": 1
+    },
+    {
+      "city": "Parnell",
+      "count": 1
+    },
+    {
+      "city": "Kaiwera",
+      "count": 1
+    },
+    {
+      "city": "Manawatu",
+      "count": 1
+    },
+    {
+      "city": "Port Nelson",
+      "count": 1
+    },
+    {
+      "city": "Kaipara",
+      "count": 1
+    },
+    {
+      "city": "Hangatiki",
+      "count": 1
+    },
+    {
+      "city": "Lake Roxburgh Village",
+      "count": 1
+    },
+    {
+      "city": "KERIKERI",
+      "count": 1
+    },
+    {
+      "city": "Titoki",
+      "count": 1
+    },
+    {
+      "city": "Mt Ruapehu",
+      "count": 1
+    },
+    {
+      "city": "Longbush",
+      "count": 1
+    },
+    {
+      "city": "Pigeon Bay",
+      "count": 1
+    },
+    {
+      "city": "Waihou",
+      "count": 1
+    },
+    {
+      "city": "Cook Islands",
+      "count": 1
+    },
+    {
+      "city": "Lake Brunner",
+      "count": 1
+    },
+    {
+      "city": "Weber",
+      "count": 1
+    },
+    {
+      "city": "Piako",
+      "count": 1
+    },
+    {
+      "city": "Auckland, New Zealand",
+      "count": 1
+    },
+    {
+      "city": "Otatara",
+      "count": 1
+    },
+    {
+      "city": "Auckland 1140",
+      "count": 1
+    },
+    {
+      "city": "Waitakere ",
+      "count": 1
+    },
+    {
+      "city": "Redwood Valley",
+      "count": 1
+    },
+    {
+      "city": "MASTERTON",
+      "count": 1
+    },
+    {
+      "city": "Waikeria",
+      "count": 1
+    },
+    {
+      "city": "Matahi",
+      "count": 1
+    },
+    {
+      "city": "DETAILS NOT PROVIDED",
+      "count": 1
+    },
+    {
+      "city": "Mount Cook",
+      "count": 1
+    },
+    {
+      "city": "Whatkatane",
+      "count": 1
+    },
+    {
+      "city": "Lincoln University, Lincoln",
+      "count": 1
+    },
+    {
+      "city": "Hibiscus Coast",
+      "count": 1
+    },
+    {
+      "city": "N/A",
+      "count": 1
+    },
+    {
+      "city": "Kuratau",
+      "count": 1
+    },
+    {
+      "city": "Masterton RD3",
+      "count": 1
+    },
+    {
+      "city": "Clifton",
+      "count": 1
+    },
+    {
+      "city": "Kaikora",
+      "count": 1
+    },
+    {
+      "city": "KAIWAKA",
+      "count": 1
+    },
+    {
+      "city": "NA",
+      "count": 1
+    },
+    {
+      "city": "n/a",
+      "count": 1
+    },
+    {
+      "city": "Wairarapa",
+      "count": 1
+    },
+    {
+      "city": "Hunter",
+      "count": 1
+    },
+    {
+      "city": "ROTORUA",
+      "count": 1
+    },
+    {
+      "city": "Parawera",
+      "count": 1
+    },
+    {
+      "city": "Raumati Beach",
+      "count": 1
+    },
+    {
+      "city": "Okuku",
+      "count": 1
+    },
+    {
+      "city": "Whananaki",
+      "count": 1
+    },
+    {
+      "city": "Island Harbour",
+      "count": 1
+    },
+    {
+      "city": "Armagh",
+      "count": 1
+    },
+    {
+      "city": "Nelson Lakes National Park",
+      "count": 1
+    },
+    {
+      "city": "TOKOROA",
+      "count": 1
+    },
+    {
+      "city": "Rodney",
+      "count": 1
+    },
+    {
+      "city": "Takou Bay",
+      "count": 1
+    },
+    {
+      "city": "Burkes Pass",
+      "count": 1
+    },
+    {
+      "city": "Greenlane",
+      "count": 1
+    },
+    {
+      "city": "Teviot",
+      "count": 1
+    },
+    {
+      "city": "North Hokianga",
+      "count": 1
+    },
+    {
+      "city": "RD2 Wairoa",
+      "count": 1
+    },
+    {
+      "city": "Miranda",
+      "count": 1
+    },
+    {
+      "city": "Awhitu",
+      "count": 1
+    },
+    {
+      "city": "South Taranaki",
+      "count": 1
+    },
+    {
+      "city": "Paraparaumu 5032",
+      "count": 1
+    },
+    {
+      "city": "Raumati South",
+      "count": 1
+    },
+    {
+      "city": "North Shore Ity",
+      "count": 1
+    },
+    {
+      "city": "Mayfield",
+      "count": 1
+    },
+    {
+      "city": "Arapohue",
+      "count": 1
+    },
+    {
+      "city": "Doyleston",
+      "count": 1
+    },
+    {
+      "city": "Harbour City Tower",
+      "count": 1
+    },
+    {
+      "city": " Auckland",
+      "count": 1
+    },
+    {
+      "city": "Rd 1 Rangiora",
+      "count": 1
+    },
+    {
+      "city": "Palmerston north",
+      "count": 1
+    },
+    {
+      "city": "Mt Maunganui ",
+      "count": 1
+    },
+    {
+      "city": "Hampton Downs",
+      "count": 1
+    },
+    {
+      "city": "Hukerenui",
+      "count": 1
+    },
+    {
+      "city": "Tauwhareparae",
+      "count": 1
+    },
+    {
+      "city": "Eureka",
+      "count": 1
+    },
+    {
+      "city": "Wellingtron ",
+      "count": 1
+    },
+    {
+      "city": "Bay Of Plenty",
+      "count": 1
+    },
+    {
+      "city": "Takapuna",
+      "count": 1
+    },
+    {
+      "city": "Waimārama",
+      "count": 1
+    },
+    {
+      "city": "Waimate North",
+      "count": 1
+    },
+    {
+      "city": "National Park Village",
+      "count": 1
+    },
+    {
+      "city": "Waitoki",
+      "count": 1
+    },
+    {
+      "city": "Thames Valley",
+      "count": 1
+    },
+    {
+      "city": "Te Awanga",
+      "count": 1
+    },
+    {
+      "city": "Kennedy Bay",
+      "count": 1
+    },
+    {
+      "city": "Via Pokeno",
+      "count": 1
+    },
+    {
+      "city": "Horowhenua",
+      "count": 1
+    },
+    {
+      "city": "Marlborough Sounds",
+      "count": 1
+    },
+    {
+      "city": "Earnscleugh",
+      "count": 1
+    },
+    {
+      "city": "Waitangi Chatham Islands",
+      "count": 1
+    },
+    {
+      "city": "Richmond Downs",
+      "count": 1
+    },
+    {
+      "city": "Rere",
+      "count": 1
+    },
+    {
+      "city": "Greymouth ",
+      "count": 1
+    },
+    {
+      "city": "Whakatu",
+      "count": 1
+    },
+    {
+      "city": "Rangipo",
+      "count": 1
+    },
+    {
+      "city": "Ashwick Flat",
+      "count": 1
+    },
+    {
+      "city": "Confidential",
+      "count": 1
+    },
+    {
+      "city": "Hawkes Bay ",
+      "count": 1
+    },
+    {
+      "city": "Edgecume",
+      "count": 1
+    },
+    {
+      "city": "Norfolk",
+      "count": 1
+    },
+    {
+      "city": "Pohangina",
+      "count": 1
+    },
+    {
+      "city": "Christchurch Hospital",
+      "count": 1
+    },
+    {
+      "city": "Helensville ",
+      "count": 1
+    },
+    {
+      "city": "Thornbury",
+      "count": 1
+    },
+    {
+      "city": "Rotoiti",
+      "count": 1
+    },
+    {
+      "city": "Karamu",
+      "count": 1
+    },
+    {
+      "city": "Waitara Taranaki",
+      "count": 1
+    },
+    {
+      "city": "Dunedin North",
+      "count": 1
+    },
+    {
+      "city": "Patetonga",
+      "count": 1
+    },
+    {
+      "city": "Linkwater",
+      "count": 1
+    },
+    {
+      "city": "Henley ",
+      "count": 1
+    },
+    {
+      "city": "Otaua",
+      "count": 1
+    },
+    {
+      "city": "Chrischurch",
+      "count": 1
+    },
+    {
+      "city": "East Coast ",
+      "count": 1
+    },
+    {
+      "city": "Sth Hokianga ",
+      "count": 1
+    },
+    {
+      "city": "Tongariro National Park",
+      "count": 1
+    },
+    {
+      "city": "Leithfield",
+      "count": 1
+    },
+    {
+      "city": "Roxburgh Otago",
+      "count": 1
+    },
+    {
+      "city": "Ben Ohau",
+      "count": 1
+    },
+    {
+      "city": "Wairoa HB",
+      "count": 1
+    },
+    {
+      "city": "Ahikiwi",
+      "count": 1
+    },
+    {
+      "city": "Onekaka",
+      "count": 1
+    },
+    {
+      "city": "N/a",
+      "count": 1
+    },
+    {
+      "city": "Via Rotorua",
+      "count": 1
+    },
+    {
+      "city": "Tapora",
+      "count": 1
+    },
+    {
+      "city": "Totere",
+      "count": 1
+    },
+    {
+      "city": "Te Atatu Peninsula",
+      "count": 1
+    },
+    {
+      "city": "Kennington",
+      "count": 1
+    },
+    {
+      "city": "Pikowai",
+      "count": 1
+    },
+    {
+      "city": "Wharekahika (Hicks Bay)",
+      "count": 1
+    },
+    {
+      "city": "Rotoaira",
+      "count": 1
+    },
+    {
+      "city": "Waihopai Valley",
+      "count": 1
+    },
+    {
+      "city": "Whanganui ",
+      "count": 1
+    },
+    {
+      "city": "Ardmore",
+      "count": 1
+    },
+    {
+      "city": " Methven",
+      "count": 1
+    },
+    {
+      "city": "Te Kuiti ",
+      "count": 1
+    },
+    {
+      "city": "Omahu",
+      "count": 1
+    },
+    {
+      "city": "California ",
+      "count": 1
+    },
+    {
+      "city": " Porirua",
+      "count": 1
+    },
+    {
+      "city": "Kaingaroa",
+      "count": 1
+    },
+    {
+      "city": "Moutoa",
+      "count": 1
+    },
+    {
+      "city": "Ruatoki",
+      "count": 1
+    },
+    {
+      "city": "England",
+      "count": 1
+    },
+    {
+      "city": "Te Horo",
+      "count": 1
+    },
+    {
+      "city": "Tahuna",
+      "count": 1
+    },
+    {
+      "city": "Kereru",
+      "count": 1
+    },
+    {
+      "city": "Kumeū",
+      "count": 1
+    },
+    {
+      "city": "christchurch",
+      "count": 1
+    },
+    {
+      "city": "Macraes Flat",
+      "count": 1
+    },
+    {
+      "city": "Arthurs Pass",
+      "count": 1
+    },
+    {
+      "city": "Whanagrei",
+      "count": 1
+    },
+    {
+      "city": "Boyle River",
+      "count": 1
+    },
+    {
+      "city": "Whangara",
+      "count": 1
+    },
+    {
+      "city": "Ararua",
+      "count": 1
+    },
+    {
+      "city": "Parakao",
+      "count": 1
+    },
+    {
+      "city": "Pukekohe ",
+      "count": 1
+    },
+    {
+      "city": "Paerata",
+      "count": 1
+    },
+    {
+      "city": "Mount Peel",
+      "count": 1
+    },
+    {
+      "city": "Waiotira",
+      "count": 1
+    },
+    {
+      "city": "Woodlands",
+      "count": 1
+    },
+    {
+      "city": "Urewera National Park",
+      "count": 1
+    },
+    {
+      "city": "Auckland\t",
+      "count": 1
+    },
+    {
+      "city": "Minignui",
+      "count": 1
+    },
+    {
+      "city": "Clydevale",
+      "count": 1
+    },
+    {
+      "city": "Rangoria",
+      "count": 1
+    },
+    {
+      "city": "Thorpe",
+      "count": 1
+    },
+    {
+      "city": "Inch Valley",
+      "count": 1
+    },
+    {
+      "city": "Lake Matahina",
+      "count": 1
+    },
+    {
+      "city": "Tamahere",
+      "count": 1
+    },
+    {
+      "city": "Benneydale",
+      "count": 1
+    },
+    {
+      "city": "Waikite Valley",
+      "count": 1
+    },
+    {
+      "city": "RAI VALLEY",
+      "count": 1
+    },
+    {
+      "city": "Clarkville",
+      "count": 1
+    },
+    {
+      "city": "Barrytown",
+      "count": 1
+    },
+    {
+      "city": "PATEA",
+      "count": 1
+    },
+    {
+      "city": "Blenhneim",
+      "count": 1
+    },
+    {
+      "city": "Kohupatiki",
+      "count": 1
+    },
+    {
+      "city": "Riverhills QLD Australia",
+      "count": 1
+    },
+    {
+      "city": "auckland",
+      "count": 1
+    },
+    {
+      "city": "TAURANGA ",
+      "count": 1
+    },
+    {
+      "city": "Porirua, New Zealand",
+      "count": 1
+    },
+    {
+      "city": "Ballarat, Victoria, Australia",
+      "count": 1
+    },
+    {
+      "city": "Levin ",
+      "count": 1
+    },
+    {
+      "city": "Ohawe",
+      "count": 1
+    },
+    {
+      "city": "Dipton West",
+      "count": 1
+    },
+    {
+      "city": "Tangoio",
+      "count": 1
+    },
+    {
+      "city": "Omana",
+      "count": 1
+    },
+    {
+      "city": " Kaitaia",
+      "count": 1
+    },
+    {
+      "city": "East Coast",
+      "count": 1
+    },
+    {
+      "city": "Rangihaeata",
+      "count": 1
+    },
+    {
+      "city": "Illinois [USA Temporary COVID-19 Int'l address]",
+      "count": 1
+    },
+    {
+      "city": "South Wairarapa",
+      "count": 1
+    },
+    {
+      "city": "Atarau",
+      "count": 1
+    },
+    {
+      "city": "Mahau Sound",
+      "count": 1
+    },
+    {
+      "city": "Orere Point",
+      "count": 1
+    },
+    {
+      "city": "Tiraumea",
+      "count": 1
+    },
+    {
+      "city": "Opotiki ",
+      "count": 1
+    },
+    {
+      "city": "Peria",
+      "count": 1
+    },
+    {
+      "city": "Southbridge ",
+      "count": 1
+    },
+    {
+      "city": "Ruatangata West",
+      "count": 1
+    },
+    {
+      "city": "Dorie",
+      "count": 1
+    },
+    {
+      "city": "Lower Huttt",
+      "count": 1
+    },
+    {
+      "city": "Waituhi",
+      "count": 1
+    },
+    {
+      "city": "Rotoorangi",
+      "count": 1
+    },
+    {
+      "city": "Clutha",
+      "count": 1
+    },
+    {
+      "city": "Papatoetoe",
+      "count": 1
+    },
+    {
+      "city": "Welington",
+      "count": 1
+    },
+    {
+      "city": "Aukcland",
+      "count": 1
+    },
+    {
+      "city": "Lower Portobello",
+      "count": 1
+    },
+    {
+      "city": "Far North",
+      "count": 1
+    },
+    {
+      "city": "Waitahanui",
+      "count": 1
+    },
+    {
+      "city": "Waihaha",
+      "count": 1
+    },
+    {
+      "city": "Omaio",
+      "count": 1
+    },
+    {
+      "city": "Karekare",
+      "count": 1
+    },
+    {
+      "city": "Albert Town",
+      "count": 1
+    },
+    {
+      "city": "Hunlty",
+      "count": 1
+    },
+    {
+      "city": "Tīnui",
+      "count": 1
+    },
+    {
+      "city": "Taihoa",
+      "count": 1
+    },
+    {
+      "city": "Te Haroto",
+      "count": 1
+    },
+    {
+      "city": "Taheke",
+      "count": 1
+    },
+    {
+      "city": "Cape Runaway",
+      "count": 1
+    },
+    {
+      "city": "NAPIER",
+      "count": 1
+    },
+    {
+      "city": "Te Hapua",
+      "count": 1
+    },
+    {
+      "city": "Waimā",
+      "count": 1
+    },
+    {
+      "city": "OPOTIKI",
+      "count": 1
+    },
+    {
+      "city": "WELLINGTON",
+      "count": 1
+    },
+    {
+      "city": "Oaonui",
+      "count": 1
+    },
+    {
+      "city": "Tokaanu",
+      "count": 1
+    },
+    {
+      "city": "TWIZEL",
+      "count": 1
+    },
+    {
+      "city": "Opito Bay",
+      "count": 1
+    },
+    {
+      "city": "Tākaka Hill",
+      "count": 1
+    },
+    {
+      "city": "New Plymouth ",
+      "count": 1
+    },
+    {
+      "city": "Lower Moutere",
+      "count": 1
+    },
+    {
+      "city": "Pukehou",
+      "count": 1
+    },
+    {
+      "city": "Pohara",
+      "count": 1
+    },
+    {
+      "city": "NSW Australia",
+      "count": 1
+    },
+    {
+      "city": "Tuahiwi",
+      "count": 1
+    },
+    {
+      "city": "Koru",
+      "count": 1
+    },
+    {
+      "city": "Virgin Flat",
+      "count": 1
+    },
+    {
+      "city": "Fairlight",
+      "count": 1
+    },
+    {
+      "city": "Drift Bay",
+      "count": 1
+    },
+    {
+      "city": "Brixton",
+      "count": 1
+    },
+    {
+      "city": "Riwaka",
+      "count": 1
+    },
+    {
+      "city": "Te Hauke",
+      "count": 1
+    },
+    {
+      "city": "Christchurch Central ",
+      "count": 1
+    },
+    {
+      "city": "Knobby Range",
+      "count": 1
+    },
+    {
+      "city": "Maungatautari",
+      "count": 1
+    },
+    {
+      "city": "Manurewa East ",
+      "count": 1
+    },
+    {
+      "city": "Pohuehue",
+      "count": 1
+    },
+    {
+      "city": "Oue",
+      "count": 1
+    },
+    {
+      "city": "Auckland Central 1010",
+      "count": 1
+    },
+    {
+      "city": "Kaiteriteri",
+      "count": 1
+    },
+    {
+      "city": "Waimamaku",
+      "count": 1
+    },
+    {
+      "city": "Tirohia",
+      "count": 1
+    },
+    {
+      "city": "Whakatane ",
+      "count": 1
+    },
+    {
+      "city": "Langs Beach",
+      "count": 1
+    },
+    {
+      "city": "Fairdown",
+      "count": 1
+    },
+    {
+      "city": "Otakou",
+      "count": 1
+    },
+    {
+      "city": "AUCKLAND ",
+      "count": 1
+    },
+    {
+      "city": "Stirling",
+      "count": 1
+    },
+    {
+      "city": "Wellington Central",
+      "count": 1
+    },
+    {
+      "city": "Mount Creighton",
+      "count": 1
+    },
+    {
+      "city": "East Takaka",
+      "count": 1
+    },
+    {
+      "city": "Ashburton.",
+      "count": 1
+    },
+    {
+      "city": "Ruatahuna ",
+      "count": 1
+    },
+    {
+      "city": "Waipatu",
+      "count": 1
+    },
+    {
+      "city": "Chatham Islands ",
+      "count": 1
+    },
+    {
+      "city": "Te Kowhai",
+      "count": 1
+    },
+    {
+      "city": "Te Houka",
+      "count": 1
+    },
+    {
+      "city": "Oreti Beach",
+      "count": 1
+    },
+    {
+      "city": "Makarewa",
+      "count": 1
+    },
+    {
+      "city": "Arthurs Point",
+      "count": 1
+    },
+    {
+      "city": "Tāneatua",
+      "count": 1
+    },
+    {
+      "city": "AUCKALND",
+      "count": 1
+    },
+    {
+      "city": "Great Mercury Island (ahuahu)",
+      "count": 1
+    },
+    {
+      "city": "Haruru Falls",
+      "count": 1
+    },
+    {
+      "city": "Awakeri",
+      "count": 1
+    },
+    {
+      "city": "Matakana Island",
+      "count": 1
+    },
+    {
+      "city": "Chirstchurch",
+      "count": 1
+    },
+    {
+      "city": "Whakamārama",
+      "count": 1
+    },
+    {
+      "city": "Ōpotiki",
+      "count": 1
+    },
+    {
+      "city": "St. Arnaud",
+      "count": 1
+    },
+    {
+      "city": "Glen Oroua",
+      "count": 1
+    },
+    {
+      "city": "Bay of Islands",
+      "count": 1
+    },
+    {
+      "city": "NSW ",
+      "count": 1
+    },
+    {
+      "city": "Tarata",
+      "count": 1
+    },
+    {
+      "city": "Tutira",
+      "count": 1
+    },
+    {
+      "city": "GISBORNE",
+      "count": 1
+    },
+    {
+      "city": "Ruakākā",
+      "count": 1
+    },
+    {
+      "city": "Arthur's Pass",
+      "count": 1
+    }
+  ]
+}

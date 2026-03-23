@@ -1,0 +1,27 @@
+{
+  "id": 68164,
+  "registrationNumber": "CC54494",
+  "name": "Southland Secondary School Sport",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.southlandschoolsport.org.nz",
+  "email": "info@southlandschoolsport.org.nz",
+  "address": {
+    "line1": "PO Box 6154",
+    "line2": "Invercargill North",
+    "suburb": "Windsor",
+    "city": "Invercargill",
+    "postcode": "9841"
+  },
+  "nzbn": "9429051423476",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Southland  Secondary School Sport",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T22:30:44Z"
+}

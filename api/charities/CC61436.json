@@ -1,0 +1,27 @@
+{
+  "id": 75010,
+  "registrationNumber": "CC61436",
+  "name": "Ōtepoti Futures Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.futurestrust.co.nz",
+  "email": "hello@futurestrust.co.nz",
+  "address": {
+    "line1": "60 Russell Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429051292614",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:54:44Z"
+}

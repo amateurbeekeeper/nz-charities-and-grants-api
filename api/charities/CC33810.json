@@ -1,0 +1,27 @@
+{
+  "id": 61249,
+  "registrationNumber": "CC33810",
+  "name": "U3A Whanganui Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.u3awhanganui.co.nz",
+  "email": "u3awhanganui.secretary@gmail.com",
+  "address": {
+    "line1": "6 Kakaho Drive",
+    "line2": " ",
+    "suburb": "Tawhero",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429043131754",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T23:42:06Z"
+}

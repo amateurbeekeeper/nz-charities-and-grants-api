@@ -1,0 +1,27 @@
+{
+  "id": 48191,
+  "registrationNumber": "CC39257",
+  "name": "B'Nai B'Rith Auckland No. 2345 Trust Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mike@silverman.nz",
+  "address": {
+    "line1": "Apartment 601",
+    "line2": "10 Auburn Street",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:28:50Z"
+}

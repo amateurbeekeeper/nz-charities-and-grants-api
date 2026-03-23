@@ -1,0 +1,27 @@
+{
+  "id": 64726,
+  "registrationNumber": "CC43028",
+  "name": "Wanganui Reading Association",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-12-01T00:00:00Z",
+  "dateDeregistered": "2014-11-13T00:00:00Z",
+  "website": "http://www.nzra.org.nz",
+  "email": "goconnor@welearn.school.nz",
+  "address": {
+    "line1": "211 Mosston Road",
+    "line2": null,
+    "suburb": "Westmere",
+    "city": "Wanganui",
+    "postcode": "4501"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:22:41Z"
+}

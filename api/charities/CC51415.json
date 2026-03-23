@@ -1,0 +1,27 @@
+{
+  "id": 65193,
+  "registrationNumber": "CC51415",
+  "name": "The Association of Public Library Managers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.publiclibraries.org.nz",
+  "email": "mandy.henk@publiclibraries.org.nz",
+  "address": {
+    "line1": "8 Cleveland Street",
+    "line2": " ",
+    "suburb": "Brooklyn",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043181681",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LibrariesNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T21:20:03Z"
+}

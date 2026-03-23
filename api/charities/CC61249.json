@@ -1,0 +1,27 @@
+{
+  "id": 74828,
+  "registrationNumber": "CC61249",
+  "name": "Uplift In Kind Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.upliftinkind.com",
+  "email": "tony@upliftinkind.com",
+  "address": {
+    "line1": "51 Glendevon Place",
+    "line2": " ",
+    "suburb": "Vauxhall",
+    "city": "Dunedin",
+    "postcode": "9013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/UpliftInKind",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T22:04:31Z"
+}

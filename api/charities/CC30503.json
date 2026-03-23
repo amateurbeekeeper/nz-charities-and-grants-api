@@ -1,0 +1,27 @@
+{
+  "id": 58001,
+  "registrationNumber": "CC30503",
+  "name": "Oscar at Oaklands Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "accounts@oscaroaklands.co.nz",
+  "address": {
+    "line1": "37 Cunningham Place",
+    "line2": "Cunningham Place, Oaklands",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429042980605",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T00:26:14Z"
+}

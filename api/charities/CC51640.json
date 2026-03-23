@@ -1,0 +1,27 @@
+{
+  "id": 65404,
+  "registrationNumber": "CC51640",
+  "name": "Te Hokowhitu Atu Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "htakurua@gmail.com",
+  "address": {
+    "line1": "85 Woodman Drive",
+    "line2": " ",
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": "9429043161317",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T21:18:18Z"
+}

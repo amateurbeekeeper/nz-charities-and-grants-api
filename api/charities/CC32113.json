@@ -1,0 +1,27 @@
+{
+  "id": 48737,
+  "registrationNumber": "CC32113",
+  "name": "Nelson Bays Primary Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nbph.org.nz",
+  "email": "info@nbph.org.nz",
+  "address": {
+    "line1": "281 Queen Street",
+    "line2": "Richmond 7020",
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": "9429043074952",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/NelsonBaysPrimaryHealth",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T22:51:01Z"
+}

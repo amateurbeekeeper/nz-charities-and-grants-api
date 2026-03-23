@@ -1,0 +1,27 @@
+{
+  "id": 58938,
+  "registrationNumber": "CC30083",
+  "name": "The Wellington Regional Folk Foundation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wellingtonfolkfestival.org.nz",
+  "email": "info@wellingtonfolkfestival.org.nz",
+  "address": {
+    "line1": "25 Queen Street",
+    "line2": "69-71 Abel Tasman Street",
+    "suburb": "Mount Victoria",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042976042",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Wellyfest/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T07:31:54Z"
+}

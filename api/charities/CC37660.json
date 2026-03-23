@@ -1,0 +1,27 @@
+{
+  "id": 44571,
+  "registrationNumber": "CC37660",
+  "name": "Te Rau Matatini",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2018-12-01T00:00:00Z",
+  "website": "http://www.teraumatatini.com",
+  "email": "cecilia.kim@teraumatatini.com",
+  "address": {
+    "line1": "22 Kaiwharawhara Road",
+    "line2": "39 The Terrace",
+    "suburb": "Kaiwharawhara",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429043019649",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "http://www.facebook.com/TeRauMatatiniLtd/",
+    "twitter": "http://twitter.com/teraumatatini"
+  },
+  "lastUpdated": "2018-12-06T18:51:46Z"
+}

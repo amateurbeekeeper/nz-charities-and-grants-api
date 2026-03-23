@@ -1,0 +1,27 @@
+{
+  "id": 55253,
+  "registrationNumber": "CC22835",
+  "name": "Kindergarten NZ Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kinz.org.nz",
+  "email": "CEO@aka.org.nz",
+  "address": {
+    "line1": "80 Greys Avenue",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429037811136",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T20:30:21Z"
+}

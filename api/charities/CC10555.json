@@ -1,0 +1,27 @@
+{
+  "id": 51724,
+  "registrationNumber": "CC10555",
+  "name": "Auckland Marine Rescue Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.amrct.co.nz/",
+  "email": "karen@executiveoffice.co.nz",
+  "address": {
+    "line1": "3 Solent Street",
+    "line2": " ",
+    "suburb": "Mechanics Bay",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042588627",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-05T19:25:26Z"
+}

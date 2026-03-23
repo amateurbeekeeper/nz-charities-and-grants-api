@@ -1,0 +1,27 @@
+{
+  "id": 48399,
+  "registrationNumber": "CC31006",
+  "name": "Centre Stage Taupo Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.centrestagetaupo.co.nz",
+  "email": "president@centrestagetaupo.co.nz",
+  "address": {
+    "line1": "2 Matai Street",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Taupo",
+    "postcode": "3378"
+  },
+  "nzbn": "9429042609636",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CentreStageTaupo/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-28T04:06:19Z"
+}

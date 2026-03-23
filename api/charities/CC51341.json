@@ -1,0 +1,27 @@
+{
+  "id": 34877,
+  "registrationNumber": "CC51341",
+  "name": "Lifegate Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lifegate.org.nz",
+  "email": "kevin@lifegate.org.nz",
+  "address": {
+    "line1": "6 Mamaku Street",
+    "line2": "Inglewood 4330",
+    "suburb": " ",
+    "city": "Inglewood",
+    "postcode": "4330"
+  },
+  "nzbn": "9429043271276",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Lifegate Church Inglewood",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T22:00:49Z"
+}

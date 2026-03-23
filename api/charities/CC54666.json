@@ -1,0 +1,27 @@
+{
+  "id": 68330,
+  "registrationNumber": "CC54666",
+  "name": "Marlborough Pacific Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-09-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.marlboroughpacifictrust.co.nz",
+  "email": "office@marlboroughpacifictrust.co.nz",
+  "address": {
+    "line1": "18 Pitchill Street",
+    "line2": " ",
+    "suburb": "Mayfield",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429043234912",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T18:33:51Z"
+}

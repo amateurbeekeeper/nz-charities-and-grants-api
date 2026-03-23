@@ -1,0 +1,27 @@
+{
+  "id": 62219,
+  "registrationNumber": "CC35860",
+  "name": "Flow Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.flowfoundation.org.nz/",
+  "email": "tom@flowfoundation.org.nz",
+  "address": {
+    "line1": "228 Newell Road",
+    "line2": "RD 3",
+    "suburb": "Tamahere",
+    "city": "Hamilton",
+    "postcode": "3283"
+  },
+  "nzbn": "9429049748994",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/flowfoundationnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T21:40:25Z"
+}

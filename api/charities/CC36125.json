@@ -1,0 +1,27 @@
+{
+  "id": 39500,
+  "registrationNumber": "CC36125",
+  "name": "Te Kupenga Hauora - Ahuriri",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tkh.org.nz",
+  "email": "nathan.harrington@tkh.org.nz",
+  "address": {
+    "line1": "5 Sale Street",
+    "line2": " ",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042929932",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T21:52:34Z"
+}

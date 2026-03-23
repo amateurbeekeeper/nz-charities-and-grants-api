@@ -1,0 +1,27 @@
+{
+  "id": 36546,
+  "registrationNumber": "CC47149",
+  "name": "Ko te Tuara Totara o Fordlands Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2019-11-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fordlands.co.nz",
+  "email": "manager@fordlands.co.nz",
+  "address": {
+    "line1": "48 Bellingham Crescent",
+    "line2": " ",
+    "suburb": "Fordlands",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429043093397",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-18T22:27:08Z"
+}

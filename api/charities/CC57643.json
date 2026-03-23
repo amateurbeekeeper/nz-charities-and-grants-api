@@ -1,0 +1,27 @@
+{
+  "id": 71269,
+  "registrationNumber": "CC57643",
+  "name": "Eastgate Christian Centre Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.eastgatecc.org.nz",
+  "email": "garyc@eastgatecc.org.nz",
+  "address": {
+    "line1": "5 Ben Lomond Crescent",
+    "line2": " ",
+    "suburb": "Pakuranga Heights",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429047871212",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T02:51:53Z"
+}

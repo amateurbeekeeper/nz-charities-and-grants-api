@@ -1,0 +1,27 @@
+{
+  "id": 49540,
+  "registrationNumber": "CC33685",
+  "name": "Ripia Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ripiamarae.com",
+  "email": "chairperson.ripiamarae@gmail.com",
+  "address": {
+    "line1": "1627 Pouto Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Kopuru",
+    "postcode": "0391"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ripiamarae",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T20:43:01Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64098,
+  "registrationNumber": "CC44406",
+  "name": "Silver Fern Motorsport Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.silverfernmotorsport.com",
+  "email": "marie.person@silverfernmotorsport.com",
+  "address": {
+    "line1": "9 Beach Road",
+    "line2": "RD 1",
+    "suburb": "Glenbrook",
+    "city": "Waiuku",
+    "postcode": "2681"
+  },
+  "nzbn": "9429043196319",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T22:06:10Z"
+}

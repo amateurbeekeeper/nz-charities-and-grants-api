@@ -1,0 +1,27 @@
+{
+  "id": 48749,
+  "registrationNumber": "CC31173",
+  "name": "Te Rongo A Tahu Maori Reserve",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "heyitsmejoey@gmail.com",
+  "address": {
+    "line1": "Te Rongo A Tahu Marae Reserve",
+    "line2": "Paulsens Stock Route",
+    "suburb": "Takapau",
+    "city": "Central Hawkes Bay",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/terongoatahu/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T22:53:38Z"
+}

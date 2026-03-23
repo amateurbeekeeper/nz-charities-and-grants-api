@@ -1,0 +1,27 @@
+{
+  "id": 71373,
+  "registrationNumber": "CC57745",
+  "name": "Te Mihi Atua",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kingdom.nz",
+  "email": "temihiatua@gmail.com",
+  "address": {
+    "line1": "104 Te Aroha Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paeroa",
+    "postcode": "3673"
+  },
+  "nzbn": "9429048001618",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-10T20:02:33Z"
+}

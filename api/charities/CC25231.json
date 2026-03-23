@@ -1,0 +1,27 @@
+{
+  "id": 56044,
+  "registrationNumber": "CC25231",
+  "name": "Familial Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.familialtrust.org",
+  "email": "marisa@familialtrust.org",
+  "address": {
+    "line1": "6 Wilsons Road South",
+    "line2": " ",
+    "suburb": "Saint Martins",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429043075775",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Familialtrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:12:42Z"
+}

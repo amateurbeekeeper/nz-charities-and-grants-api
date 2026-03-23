@@ -1,0 +1,27 @@
+{
+  "id": 67083,
+  "registrationNumber": "CC53360",
+  "name": "Birthright Canterbury Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.birthrightcanterbury.org.nz",
+  "email": "manager@birthrightchch.org.nz",
+  "address": {
+    "line1": "1A Harewood Road",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429043305223",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Birthright Canterbury",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T04:32:46Z"
+}

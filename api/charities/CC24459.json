@@ -1,0 +1,27 @@
+{
+  "id": 56494,
+  "registrationNumber": "CC24459",
+  "name": "Habitat for Humanity Northern Region Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.habitat.org.nz/northern",
+  "email": "lorene.neilson@habitat.org.nz",
+  "address": {
+    "line1": "8 Ormiston Road",
+    "line2": " ",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": "9429038570148",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HabitatNorthern",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T20:10:21Z"
+}

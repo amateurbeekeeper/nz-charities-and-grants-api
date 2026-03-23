@@ -1,0 +1,27 @@
+{
+  "id": 72337,
+  "registrationNumber": "CC58727",
+  "name": "Pride in Health",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-01-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.prideinhealth.org.nz",
+  "email": "ari@prideinhealth.org.nz",
+  "address": {
+    "line1": "57 Lorna Street",
+    "line2": " ",
+    "suburb": "Lynmouth",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429048871259",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://business.facebook.com/PrideInHealth/?ref=page_internal",
+    "twitter": "https://twitter.com/prideinhealth1?lang=en"
+  },
+  "lastUpdated": "2024-12-04T04:05:15Z"
+}

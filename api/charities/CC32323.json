@@ -1,0 +1,27 @@
+{
+  "id": 42912,
+  "registrationNumber": "CC32323",
+  "name": "Franklin Parents Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.parentscentre.org.nz/franklin/",
+  "email": "franklin@parentscentre.org.nz",
+  "address": {
+    "line1": "22 John Street",
+    "line2": "Pukekohe 2120",
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429042714729",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/FranklinParentsCentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-02T19:17:22Z"
+}

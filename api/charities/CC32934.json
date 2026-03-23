@@ -1,0 +1,27 @@
+{
+  "id": 44089,
+  "registrationNumber": "CC32934",
+  "name": "The Brook (Waimarama) Sanctuary Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.brooksanctuary.org.nz",
+  "email": "chris.mccormack@brooksanctuary.org.nz",
+  "address": {
+    "line1": "651 Brook Street",
+    "line2": " ",
+    "suburb": "The Brook",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043119721",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thebrooksanctuary/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T22:21:16Z"
+}

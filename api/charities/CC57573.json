@@ -1,0 +1,27 @@
+{
+  "id": 71201,
+  "registrationNumber": "CC57573",
+  "name": "Friends of Regional Parks (Auckland) Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.forparks.org.nz",
+  "email": "bronwen.turner@forparks.org.nz",
+  "address": {
+    "line1": "137 Cornwallis Road",
+    "line2": " ",
+    "suburb": "Cornwallis",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429043235735",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FORparks",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T21:59:40Z"
+}

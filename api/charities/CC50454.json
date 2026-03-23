@@ -1,0 +1,27 @@
+{
+  "id": 33320,
+  "registrationNumber": "CC50454",
+  "name": "Heritage Taranaki Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-11-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://heritagetaranaki.com",
+  "email": "rob.green@heritagetaranaki.com",
+  "address": {
+    "line1": "23A Port View Crescent",
+    "line2": " ",
+    "suburb": "Moturoa",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043237142",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Heritage Taranaki Incorporated",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:53:28Z"
+}

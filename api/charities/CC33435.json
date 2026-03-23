@@ -1,0 +1,27 @@
+{
+  "id": 45483,
+  "registrationNumber": "CC33435",
+  "name": "Riversdale Promotions Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "riversdalecommunityhouse@xtra.co.nz",
+  "address": {
+    "line1": "131 Budge Street",
+    "line2": " ",
+    "suburb": "Riversdale",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429042824909",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/riversdalehouse/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T02:45:59Z"
+}

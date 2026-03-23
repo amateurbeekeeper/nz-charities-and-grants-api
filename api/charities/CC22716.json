@@ -1,0 +1,27 @@
+{
+  "id": 56317,
+  "registrationNumber": "CC22716",
+  "name": "Community Law Canterbury Te Ture Whanui O Waitaha",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.canlaw.org.nz",
+  "email": "Lawrence.Kimberley@canlaw.org.nz",
+  "address": {
+    "line1": "198 Montreal Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429052773051",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Community Law Canterbury",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T03:39:30Z"
+}

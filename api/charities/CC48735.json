@@ -1,0 +1,27 @@
+{
+  "id": 33246,
+  "registrationNumber": "CC48735",
+  "name": "James Orphan Care International",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2012-12-20T00:00:00Z",
+  "dateDeregistered": "2020-12-31T00:00:00Z",
+  "website": "www.jamesorphancare.org",
+  "email": "jamesorphancare@gmail.com",
+  "address": {
+    "line1": "12 Sunnybrooke Close",
+    "line2": " ",
+    "suburb": "Welcome Bay",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "jamesorphancare",
+    "twitter": null
+  },
+  "lastUpdated": "2021-01-07T01:52:21Z"
+}

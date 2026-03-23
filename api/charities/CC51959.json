@@ -1,0 +1,27 @@
+{
+  "id": 65700,
+  "registrationNumber": "CC51959",
+  "name": "Illuminate Church Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-06-18T00:00:00Z",
+  "dateDeregistered": "2019-02-13T00:00:00Z",
+  "website": "https://www.illuminate.org.nz",
+  "email": "andrew@illuminate.org.nz",
+  "address": {
+    "line1": "Flat 4",
+    "line2": "9A Melandra Road",
+    "suburb": "Stanmore Bay",
+    "city": "Whangaparaoa",
+    "postcode": "0932"
+  },
+  "nzbn": "9429043274512",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-08-29T20:36:23Z"
+}

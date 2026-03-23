@@ -1,0 +1,27 @@
+{
+  "id": 57383,
+  "registrationNumber": "CC34796",
+  "name": "Highbury Community House Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.highburyhouse.org.nz",
+  "email": "secretary@highburyhouse.org.nz",
+  "address": {
+    "line1": "110 Hinemoa Street",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "626"
+  },
+  "nzbn": "9429042640059",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/highburyhousenz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T02:41:02Z"
+}

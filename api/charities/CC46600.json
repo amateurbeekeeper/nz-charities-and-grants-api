@@ -1,0 +1,27 @@
+{
+  "id": 36929,
+  "registrationNumber": "CC46600",
+  "name": "Tawa Home and School Committee",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tawa.school.nz/home-and-school",
+  "email": "homeandschool@tawa.school.nz",
+  "address": {
+    "line1": "Tawa School",
+    "line2": "6 Oxford Street",
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-10T03:46:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56117,
+  "registrationNumber": "CC22764",
+  "name": "MS West Coast Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mspdwestcoast@gmail.com",
+  "address": {
+    "line1": "26 Mackay Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": "9429043017904",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MSWestCoastIncorporated/?ref=aymt_homepage_panel",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T02:04:17Z"
+}

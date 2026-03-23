@@ -1,0 +1,27 @@
+{
+  "id": 66327,
+  "registrationNumber": "CC52599",
+  "name": "Cape Coast Community Patrol",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-10-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gracat1815@gmail.com",
+  "address": {
+    "line1": "Villa 67",
+    "line2": "Summerset Palms",
+    "suburb": "Awatoto",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429043324477",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Cape Coast Community Patrol",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-06T19:16:02Z"
+}

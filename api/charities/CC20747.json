@@ -1,0 +1,27 @@
+{
+  "id": 41147,
+  "registrationNumber": "CC20747",
+  "name": "Citizens Advice Bureau Gisborne Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cab.org.nz/gisborne",
+  "email": "gisborne@cab.org.nz",
+  "address": {
+    "line1": "124A Bright Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042629542",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Gisborne cab",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T04:51:13Z"
+}

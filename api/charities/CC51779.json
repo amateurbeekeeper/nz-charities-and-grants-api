@@ -1,0 +1,27 @@
+{
+  "id": 65545,
+  "registrationNumber": "CC51779",
+  "name": "Christchurch Busmenz Shed Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.canterbury bus museum.com",
+  "email": "chchbusmuseum@gmail.com",
+  "address": {
+    "line1": "171 Westminster Street",
+    "line2": " ",
+    "suburb": "Mairehau",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429043278978",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ferrymeadheritagebuses",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T19:29:25Z"
+}

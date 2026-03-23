@@ -1,0 +1,27 @@
+{
+  "id": 38020,
+  "registrationNumber": "CC47906",
+  "name": "North Auckland Animal Rescue Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dogrescue@xtra.co.nz",
+  "address": {
+    "line1": "153 Riverside Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429043325696",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/North-Auckland-Dog-Rescue-256228854407000/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-02T02:52:07Z"
+}

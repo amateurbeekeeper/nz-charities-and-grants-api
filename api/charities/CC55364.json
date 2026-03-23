@@ -1,0 +1,27 @@
+{
+  "id": 69023,
+  "registrationNumber": "CC55364",
+  "name": "The Ngati Paoa Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-02-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ngatipaoatrustboard.co.nz",
+  "email": "nptb@ngatipaoatrustboard.co.nz",
+  "address": {
+    "line1": "49 Harrisville Road",
+    "line2": "Tuakau 2121",
+    "suburb": "East Tamaki",
+    "city": "Tuakau",
+    "postcode": "2121"
+  },
+  "nzbn": "9429043043309",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T19:57:59Z"
+}

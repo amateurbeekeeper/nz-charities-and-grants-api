@@ -1,0 +1,27 @@
+{
+  "id": 72426,
+  "registrationNumber": "CC58824",
+  "name": "Te Kotahi o Te Tauihu Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kotahitehoe.org.nz",
+  "email": "accounts@kotahitehoe.org.nz",
+  "address": {
+    "line1": "2 Cargill Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": "9429049004557",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/TeKotahioTeTauihu",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T20:09:04Z"
+}

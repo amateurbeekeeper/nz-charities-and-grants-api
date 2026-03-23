@@ -1,0 +1,27 @@
+{
+  "id": 40338,
+  "registrationNumber": "CC24999",
+  "name": "CNSST Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cnsst.org.nz",
+  "email": "management@cnsst.org.nz",
+  "address": {
+    "line1": "15 Clifton Court",
+    "line2": " ",
+    "suburb": "Panmure",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042968092",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T22:45:37Z"
+}

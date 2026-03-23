@@ -1,0 +1,27 @@
+{
+  "id": 70657,
+  "registrationNumber": "CC57027",
+  "name": "Education Benevolent Society Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://healthcareplus.org.nz/",
+  "email": "john@healthcareplus.org.nz",
+  "address": {
+    "line1": "Level 5",
+    "line2": " 50 Manners Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042622048",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T22:55:01Z"
+}

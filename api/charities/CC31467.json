@@ -1,0 +1,27 @@
+{
+  "id": 42802,
+  "registrationNumber": "CC31467",
+  "name": "Equippers Network International",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bruce.monk@equipperschurch.com",
+  "address": {
+    "line1": "Unit 303",
+    "line2": "1 Bluegrey Avenue",
+    "suburb": "Stonefields",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042907275",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-20T19:16:59Z"
+}

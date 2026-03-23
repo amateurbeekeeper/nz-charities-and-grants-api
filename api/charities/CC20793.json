@@ -1,0 +1,27 @@
+{
+  "id": 53613,
+  "registrationNumber": "CC20793",
+  "name": "The Wesley Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chris@wesleycollegetrust.co.nz",
+  "address": {
+    "line1": "801 Paerata Road",
+    "line2": " ",
+    "suburb": "Paerata",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429043042364",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T01:05:49Z"
+}

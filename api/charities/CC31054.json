@@ -1,0 +1,27 @@
+{
+  "id": 57547,
+  "registrationNumber": "CC31054",
+  "name": "Koru Care Charitable Trust New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.korucare.co.nz",
+  "email": "sandie.korucare@xtra.co.nz",
+  "address": {
+    "line1": "21 Nixon Street",
+    "line2": "105 Great South Road",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429042655046",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Koru Care NZ",
+    "twitter": "@KoruCareNZ"
+  },
+  "lastUpdated": "2025-09-28T18:54:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56887,
+  "registrationNumber": "CC34808",
+  "name": "Society of St Vincent De Paul Christchurch Area Council",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2024-10-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.svdp.org.nz",
+  "email": "admin@svdp.org.nz",
+  "address": {
+    "line1": "Floor 1",
+    "line2": "35 Victoria Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042740971",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T23:46:00Z"
+}

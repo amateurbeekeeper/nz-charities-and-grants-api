@@ -1,0 +1,27 @@
+{
+  "id": 70566,
+  "registrationNumber": "CC56939",
+  "name": "Nourish Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nourishtrust.org",
+  "email": "gabe@nourishtrust.org",
+  "address": {
+    "line1": "18C Buccaneer Place",
+    "line2": " ",
+    "suburb": "Grenada Village",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NourishatChristmas/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T20:56:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65734,
+  "registrationNumber": "CC51983",
+  "name": "Child Abuse Prevention Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.capf.org.nz/",
+  "email": "theresa@capf.org.nz",
+  "address": {
+    "line1": "9B Battle Place",
+    "line2": " ",
+    "suburb": "Glenfield",
+    "city": "Auckland",
+    "postcode": "0629"
+  },
+  "nzbn": "9429043325719",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CAPF.ORG.NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-19T01:39:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 47231,
+  "registrationNumber": "CC41688",
+  "name": "Disabled Surfers Association of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-08-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "disabledsurfers.co.nz",
+  "email": "dirkrjansen@gmail.com",
+  "address": {
+    "line1": "15 Warner Park Avenue",
+    "line2": " ",
+    "suburb": "Laingholm",
+    "city": "Auckland",
+    "postcode": "604"
+  },
+  "nzbn": "9429043184217",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/145024133928",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-07T23:43:33Z"
+}

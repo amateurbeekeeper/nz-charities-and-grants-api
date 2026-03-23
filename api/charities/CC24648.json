@@ -1,0 +1,27 @@
+{
+  "id": 55108,
+  "registrationNumber": "CC24648",
+  "name": "Maori Women's Welfare League Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mwwl.org.nz",
+  "email": "cheree.ratapu-foster@mwwl.org.nz",
+  "address": {
+    "line1": "24 Burnell Avenue",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042683155",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mwwlorg/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T02:57:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75308,
+  "registrationNumber": "CC61756",
+  "name": "The Food Hub Collective Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dave.saunders@aroadvisers.com",
+  "address": {
+    "line1": "37 Wilkinson Road",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429047749955",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/papatoetoefoodhub/about/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:54:55Z"
+}

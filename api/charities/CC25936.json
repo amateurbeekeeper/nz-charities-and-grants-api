@@ -1,0 +1,27 @@
+{
+  "id": 58294,
+  "registrationNumber": "CC25936",
+  "name": "Sustaining Hawke's Bay Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sustainablehb.org.nz",
+  "email": "grant@sustainablehb.org.nz",
+  "address": {
+    "line1": "108 Stoneycroft Street",
+    "line2": " ",
+    "suburb": "Camberley",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429042945826",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/SustainableHB/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T21:15:55Z"
+}

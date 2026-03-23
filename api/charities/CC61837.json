@@ -1,0 +1,27 @@
+{
+  "id": 75393,
+  "registrationNumber": "CC61837",
+  "name": "Auckland City of Music Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://aucklandcityofmusic.nz",
+  "email": "mark@aucklandcityofmusic.nz",
+  "address": {
+    "line1": "18 Karaka Street",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429051462611",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-15T19:29:07Z"
+}

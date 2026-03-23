@@ -1,0 +1,27 @@
+{
+  "id": 45991,
+  "registrationNumber": "CC46020",
+  "name": "Ngatapa Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2018-11-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rebecca.pepere@gmail.com",
+  "address": {
+    "line1": "33 Totangi Road",
+    "line2": "RD 2",
+    "suburb": "Ngātapa",
+    "city": "Gisborne",
+    "postcode": "4072"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ngatapa Marae ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T01:36:20Z"
+}

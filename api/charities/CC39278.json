@@ -1,0 +1,27 @@
+{
+  "id": 46200,
+  "registrationNumber": "CC39278",
+  "name": "The Whanganui Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.whanganuitrust.com",
+  "email": "admin@pkfdoyles.co.nz",
+  "address": {
+    "line1": "PO Box 641",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4541"
+  },
+  "nzbn": "9429042910527",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-08T22:49:30Z"
+}

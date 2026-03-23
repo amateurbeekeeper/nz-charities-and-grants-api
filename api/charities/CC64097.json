@@ -1,0 +1,27 @@
+{
+  "id": 78285,
+  "registrationNumber": "CC64097",
+  "name": "Dunedin Children's Choir",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-01-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dunedinchildrenschoir.co.nz",
+  "email": "dunedinchildrenschoir@gmail.com",
+  "address": {
+    "line1": "93A Main Road",
+    "line2": null,
+    "suburb": "Fairfield",
+    "city": "Dunedin",
+    "postcode": "9018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/dunedinchildrenschoir",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T03:44:29Z"
+}

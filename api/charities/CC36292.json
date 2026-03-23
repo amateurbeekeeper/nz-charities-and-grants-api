@@ -1,0 +1,27 @@
+{
+  "id": 42103,
+  "registrationNumber": "CC36292",
+  "name": "Stepping Out Hauraki Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.steppingouthauraki.org.nz ",
+  "email": "Manager@SteppingOutHauraki.org.nz",
+  "address": {
+    "line1": "100 Sealey Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429042732419",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T20:44:22Z"
+}

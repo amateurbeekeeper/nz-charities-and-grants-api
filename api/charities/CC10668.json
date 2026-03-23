@@ -1,0 +1,27 @@
+{
+  "id": 52432,
+  "registrationNumber": "CC10668",
+  "name": "Multiples Otago Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.multiplesotago.org.nz",
+  "email": "treasurer.multiplesotago@gmail.com",
+  "address": {
+    "line1": "181 Elgin Road",
+    "line2": " ",
+    "suburb": "Maryhill",
+    "city": "Dunedin",
+    "postcode": "9011"
+  },
+  "nzbn": "9429042905011",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "multiplesotago",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T07:30:14Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 47901,
+  "registrationNumber": "CC30377",
+  "name": "Moriah Kindergarten Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.moriahkindergarten.org.nz",
+  "email": "office@moriahkindergarten.org.nz",
+  "address": {
+    "line1": "80 Webb Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042770800",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-16T19:27:57Z"
+}

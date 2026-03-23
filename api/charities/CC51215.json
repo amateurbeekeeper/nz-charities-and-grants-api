@@ -1,0 +1,27 @@
+{
+  "id": 34528,
+  "registrationNumber": "CC51215",
+  "name": "Marist Messenger Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2014-11-25T00:00:00Z",
+  "dateDeregistered": "2023-12-31T00:00:00Z",
+  "website": "maristmessenger.co.nz",
+  "email": "smith@smnz.org.nz",
+  "address": {
+    "line1": "78 Hobson Street",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429041492833",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-02-08T06:02:09Z"
+}

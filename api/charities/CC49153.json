@@ -1,0 +1,27 @@
+{
+  "id": 32735,
+  "registrationNumber": "CC49153",
+  "name": "LEARNING ENVIRONMENTS NEW ZEALAND",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nz@learningenvironments.org.au",
+  "address": {
+    "line1": "2 Marston Street",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429043321407",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "@LENewZealand"
+  },
+  "lastUpdated": "2026-01-19T15:55:34Z"
+}

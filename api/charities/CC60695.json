@@ -1,0 +1,27 @@
+{
+  "id": 74281,
+  "registrationNumber": "CC60695",
+  "name": "Pound Paws Rescue",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.poundpawsrescue.org.nz",
+  "email": "poundpawhelp@gmail.com",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/poundpawsrescue/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T01:00:24Z"
+}

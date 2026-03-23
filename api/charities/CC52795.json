@@ -1,0 +1,27 @@
+{
+  "id": 66528,
+  "registrationNumber": "CC52795",
+  "name": "The Kiwi Kids Charity",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-11-02T00:00:00Z",
+  "dateDeregistered": "2015-03-10T00:00:00Z",
+  "website": "https://www.kiwikidscharity.org.nz",
+  "email": "dana@kiwikidscharity.org.nz",
+  "address": {
+    "line1": "17 Lagoon Way",
+    "line2": " ",
+    "suburb": "West Harbour",
+    "city": "Auckland",
+    "postcode": "0618"
+  },
+  "nzbn": "9429043264704",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KiwiKidsCharity",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T20:41:11Z"
+}

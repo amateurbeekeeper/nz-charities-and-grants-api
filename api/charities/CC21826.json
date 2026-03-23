@@ -1,0 +1,27 @@
+{
+  "id": 55044,
+  "registrationNumber": "CC21826",
+  "name": "St Patrick's Welfare Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pberry@berryco.co.nz",
+  "address": {
+    "line1": "C/- BERRY & CO",
+    "line2": "20 Eden Street",
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429042797173",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-22T19:41:36Z"
+}

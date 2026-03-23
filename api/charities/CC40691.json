@@ -1,0 +1,27 @@
+{
+  "id": 64947,
+  "registrationNumber": "CC40691",
+  "name": "The Mangere Market Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mangeremarkets.co.nz",
+  "email": "richard.barge@mhrt.org.nz",
+  "address": {
+    "line1": "34 Mangere Town Square",
+    "line2": " ",
+    "suburb": "Māngere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429042755852",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:01:17Z"
+}

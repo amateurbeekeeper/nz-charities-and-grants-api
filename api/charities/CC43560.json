@@ -1,0 +1,27 @@
+{
+  "id": 62799,
+  "registrationNumber": "CC43560",
+  "name": "The Lyttelton Arts Factory Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.laf.co.nz",
+  "email": "helen@goodbooks.co.nz",
+  "address": {
+    "line1": "24C Medina Crescent",
+    "line2": " ",
+    "suburb": "Parklands",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429043216468",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@LytteltonArtsFactory ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T01:53:48Z"
+}

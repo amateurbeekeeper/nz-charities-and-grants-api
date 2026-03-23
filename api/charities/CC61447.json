@@ -1,0 +1,27 @@
+{
+  "id": 75022,
+  "registrationNumber": "CC61447",
+  "name": "Sonnar Foundation Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sonnarlibrary.org/",
+  "email": "jarek.beksa@gmail.com",
+  "address": {
+    "line1": "18 Liverpool Street",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429051324896",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T08:26:47Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48602,
+  "registrationNumber": "CC30759",
+  "name": "Paparoa Street School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta@paparoastreet.school.nz",
+  "address": {
+    "line1": "120 C/- Paparoa Street",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PaparoaStreetSchoolPTA/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:30:29Z"
+}

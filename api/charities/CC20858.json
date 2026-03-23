@@ -1,0 +1,27 @@
+{
+  "id": 54146,
+  "registrationNumber": "CC20858",
+  "name": "New Plymouth Little Theatre Society Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2021-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.littletheatre.co.nz",
+  "email": "secretary@littletheatre.co.nz",
+  "address": {
+    "line1": "29 Aubrey Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042685005",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nplittletheatre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:13:47Z"
+}

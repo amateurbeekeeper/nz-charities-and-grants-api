@@ -1,0 +1,27 @@
+{
+  "id": 54467,
+  "registrationNumber": "CC21256",
+  "name": "Surf Life Saving Northern Region Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lifesaving.org.nz",
+  "email": "kenneth.lim@surflifesaving.org.nz",
+  "address": {
+    "line1": "3 Solent Street",
+    "line2": " ",
+    "suburb": "Mechanics Bay",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042691709",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T18:20:44Z"
+}

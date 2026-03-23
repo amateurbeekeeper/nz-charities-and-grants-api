@@ -1,0 +1,27 @@
+{
+  "id": 65934,
+  "registrationNumber": "CC52194",
+  "name": "Voice Ministries",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.voiceministries.org.nz/",
+  "email": "cardena316@gmail.com",
+  "address": {
+    "line1": "311 Great South Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429043257461",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/VoiceMinistriesNZ?mibextid=LQQJ4d",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T18:14:03Z"
+}

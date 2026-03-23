@@ -1,0 +1,27 @@
+{
+  "id": 52003,
+  "registrationNumber": "CC10827",
+  "name": "Epilepsy Foundation Of New Zealand Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2007-08-13T00:00:00Z",
+  "dateDeregistered": "2020-09-21T00:00:00Z",
+  "website": "http://epilepsyfoundation.org.nz",
+  "email": "support@epilepsyfoundation.org.nz",
+  "address": {
+    "line1": "Building B",
+    "line2": "4 Pacific Rise",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429042699736",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-04-28T06:13:38Z"
+}

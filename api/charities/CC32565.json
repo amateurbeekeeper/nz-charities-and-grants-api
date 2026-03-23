@@ -1,0 +1,27 @@
+{
+  "id": 41372,
+  "registrationNumber": "CC32565",
+  "name": "Insight Learning Academy",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2010-06-23T00:00:00Z",
+  "website": "http://insight.ac.nz",
+  "email": "martyn@gracelands.org.nz",
+  "address": {
+    "line1": "Level 3",
+    "line2": "155-159 Victoria Street",
+    "suburb": null,
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:11:18Z"
+}

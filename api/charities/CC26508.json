@@ -1,0 +1,27 @@
+{
+  "id": 58698,
+  "registrationNumber": "CC26508",
+  "name": "Palmerston North Performing Arts Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pncc.govt.nz",
+  "email": "governance@pncc.govt.nz",
+  "address": {
+    "line1": "C/- Palmerston North City Council",
+    "line2": "Civic Administration Building",
+    "suburb": "The Square",
+    "city": "Palmerston North",
+    "postcode": null
+  },
+  "nzbn": "9429042967378",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T03:03:56Z"
+}

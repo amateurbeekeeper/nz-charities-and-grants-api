@@ -1,0 +1,27 @@
+{
+  "id": 42038,
+  "registrationNumber": "CC25506",
+  "name": "Discovery Elim Christian Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.discoveryelim.org.nz",
+  "email": "rachel.lesicki@discoveryelim.org.nz",
+  "address": {
+    "line1": "148 Major Drive",
+    "line2": " ",
+    "suburb": "Kelson",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429043128990",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:53:28Z"
+}

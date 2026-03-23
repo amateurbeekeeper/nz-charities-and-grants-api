@@ -1,0 +1,27 @@
+{
+  "id": 33976,
+  "registrationNumber": "CC51122",
+  "name": "Auckland University Boat Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-11-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "aubcexecutive@gmail.com",
+  "address": {
+    "line1": "[AUBC - Campus Life] The University of Auckland",
+    "line2": "Student Central, 34 Princes St, Building 311",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043248735",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aubcforthewin/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T23:40:53Z"
+}

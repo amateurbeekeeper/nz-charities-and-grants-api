@@ -1,0 +1,27 @@
+{
+  "id": 46211,
+  "registrationNumber": "CC33527",
+  "name": "Wellington Youth Orchestra Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wyos.org.nz/",
+  "email": "grant@crowley.co.nz",
+  "address": {
+    "line1": "76 Hatton Street",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429042833802",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:35:53Z"
+}

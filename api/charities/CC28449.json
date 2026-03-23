@@ -1,0 +1,27 @@
+{
+  "id": 58275,
+  "registrationNumber": "CC28449",
+  "name": "Waikare Golf Club Te Kauwhata (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waikaregolfclub.co.nz",
+  "email": "manager@waikaregolfclub.co.nz",
+  "address": {
+    "line1": "66 Waerenga Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Kauwhata",
+    "postcode": "3710"
+  },
+  "nzbn": "9429042881025",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waikare-Golf-Club-Te-Kauwhata",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T20:32:01Z"
+}

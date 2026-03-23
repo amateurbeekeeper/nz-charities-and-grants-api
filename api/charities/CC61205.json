@@ -1,0 +1,27 @@
+{
+  "id": 74787,
+  "registrationNumber": "CC61205",
+  "name": "GANNA Research Network",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ganna-nz.org/",
+  "email": "pritikagoulstone@gmail.com",
+  "address": {
+    "line1": "111 Derwent Street",
+    "line2": " ",
+    "suburb": "Island Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429051562250",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/gannanz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T01:13:02Z"
+}

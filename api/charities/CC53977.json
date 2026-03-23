@@ -1,0 +1,27 @@
+{
+  "id": 67672,
+  "registrationNumber": "CC53977",
+  "name": "A Star is Born",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-12-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.astarisborn.nz",
+  "email": "info.starnz@gmail.com",
+  "address": {
+    "line1": "8 Mcintosh Road",
+    "line2": " ",
+    "suburb": "Brighton",
+    "city": "Dunedin",
+    "postcode": "9035"
+  },
+  "nzbn": "9429043311293",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/astarisbornotago/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-29T05:42:02Z"
+}

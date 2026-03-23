@@ -1,0 +1,27 @@
+{
+  "id": 77272,
+  "registrationNumber": "CC63154",
+  "name": "Safura International Learning Academy",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.safuraacademy.org.nz",
+  "email": "admin@safuraacademy.org.nz",
+  "address": {
+    "line1": "27A Forbes Road",
+    "line2": " ",
+    "suburb": "Favona",
+    "city": "Auckland",
+    "postcode": "2024"
+  },
+  "nzbn": "9429052397004",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T04:35:32Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 77736,
+  "registrationNumber": "CC63537",
+  "name": "Ohu Taiao",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-07-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ohutaiao.com",
+  "email": "acole@post.harvard.edu",
+  "address": {
+    "line1": "40 Union Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Hāwera",
+    "postcode": "4610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/ohutaiao/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-21T04:01:43Z"
+}

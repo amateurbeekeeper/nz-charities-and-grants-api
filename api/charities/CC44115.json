@@ -1,0 +1,27 @@
+{
+  "id": 64104,
+  "registrationNumber": "CC44115",
+  "name": "Whanganui Repertory Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wanganuirepertory.co.nz",
+  "email": "deebrough11@gmail.com",
+  "address": {
+    "line1": "4 Ridgway Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042908357",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Wanganui Repertory Theatre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T03:31:35Z"
+}

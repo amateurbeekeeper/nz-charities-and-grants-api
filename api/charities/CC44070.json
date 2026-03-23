@@ -1,0 +1,27 @@
+{
+  "id": 64060,
+  "registrationNumber": "CC44070",
+  "name": "Montessori At Otari Preschool Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://otaripreschool.school.nz",
+  "email": "evaprowse@gmail.com",
+  "address": {
+    "line1": "166 Wilton Road",
+    "line2": " ",
+    "suburb": "Wilton",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429042839859",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T00:00:40Z"
+}

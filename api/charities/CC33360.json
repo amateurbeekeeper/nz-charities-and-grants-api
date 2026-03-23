@@ -1,0 +1,27 @@
+{
+  "id": 45089,
+  "registrationNumber": "CC33360",
+  "name": "Auckland Badminton Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aklbadminton.com",
+  "email": "accounts@aklbadminton.com",
+  "address": {
+    "line1": "BADMINTON STADIUM",
+    "line2": "99 Gillies Avenue",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042584742",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/aklbadminton/",
+    "twitter": "www.twitter.com/aklbadminton"
+  },
+  "lastUpdated": "2026-03-20T01:29:50Z"
+}

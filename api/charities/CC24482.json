@@ -1,0 +1,27 @@
+{
+  "id": 54742,
+  "registrationNumber": "CC24482",
+  "name": "The Blue Door Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thebluedoor.nz",
+  "email": "info@thebluedoor.co.nz",
+  "address": {
+    "line1": "46 Seymour Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429042988847",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheBlueDoorInc/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T20:27:21Z"
+}

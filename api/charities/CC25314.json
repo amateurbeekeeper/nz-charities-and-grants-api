@@ -1,0 +1,27 @@
+{
+  "id": 42516,
+  "registrationNumber": "CC25314",
+  "name": "Coastguard South Canterbury Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "southcanterbury.president@coastguard.nz",
+  "address": {
+    "line1": "11 Unwin Road",
+    "line2": " ",
+    "suburb": "Timaru Port",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429042729556",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T18:19:07Z"
+}

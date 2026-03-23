@@ -1,0 +1,27 @@
+{
+  "id": 64265,
+  "registrationNumber": "CC39864",
+  "name": "Mad Ave Community",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.madave.co.nz",
+  "email": "ngaraiti@gmail.com",
+  "address": {
+    "line1": "111 Apirana Avenue",
+    "line2": " ",
+    "suburb": "Glen Innes",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429043067763",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T04:47:51Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41195,
+  "registrationNumber": "CC23592",
+  "name": "RBC Ministries New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://ourdailybread.org/",
+  "email": "jessie.than@odb.org",
+  "address": {
+    "line1": "10A Cebel Place",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429043065875",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ourdailybread",
+    "twitter": "https://x.com/ourdailybread"
+  },
+  "lastUpdated": "2025-10-12T22:27:49Z"
+}

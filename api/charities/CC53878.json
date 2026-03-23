@@ -1,0 +1,27 @@
+{
+  "id": 67572,
+  "registrationNumber": "CC53878",
+  "name": "The Loons Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.theloons.org.nz",
+  "email": "thea@theamickellservices.co.nz",
+  "address": {
+    "line1": "16 Canterbury Street",
+    "line2": "Lyttelton 8082",
+    "suburb": " ",
+    "city": "Lyttelton",
+    "postcode": "8082"
+  },
+  "nzbn": "9429042922803",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-25T19:36:17Z"
+}

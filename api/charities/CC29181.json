@@ -1,0 +1,27 @@
+{
+  "id": 60812,
+  "registrationNumber": "CC29181",
+  "name": "Rotorua Parents Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://rotorua.parentscentre.org.nz/",
+  "email": "rotorua@parentscentre.org.nz",
+  "address": {
+    "line1": "1306-1312 Amohia Street",
+    "line2": "Rotorua 3010",
+    "suburb": "Pukehangi",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042825227",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/RotoruaParentsCentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2023-10-31T18:51:09Z"
+}

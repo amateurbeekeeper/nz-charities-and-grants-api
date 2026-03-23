@@ -1,0 +1,27 @@
+{
+  "id": 51165,
+  "registrationNumber": "CC10134",
+  "name": "Whenua Iti Trust Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.whenuaiti.org.nz",
+  "email": "info@whenuaiti.org.nz",
+  "address": {
+    "line1": "375 Main Road Lower Moutere",
+    "line2": "RD 2",
+    "suburb": "Lower Moutere",
+    "city": "Upper Moutere",
+    "postcode": "7175"
+  },
+  "nzbn": "9429042902799",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WhenuaItiOutdoors/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T00:39:02Z"
+}

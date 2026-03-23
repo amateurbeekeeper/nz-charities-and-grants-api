@@ -1,0 +1,27 @@
+{
+  "id": 44740,
+  "registrationNumber": "CC35666",
+  "name": "UCB International Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david@AllanCA.nz",
+  "address": {
+    "line1": "51 Fitzwilliam Drive",
+    "line2": " ",
+    "suburb": "Torbay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429039592606",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T18:40:45Z"
+}

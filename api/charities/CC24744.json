@@ -1,0 +1,27 @@
+{
+  "id": 55231,
+  "registrationNumber": "CC24744",
+  "name": "Belfast Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gtcc@pgtrust.co.nz",
+  "address": {
+    "line1": "Level 23, 191 Queen Street",
+    "line2": " ",
+    "suburb": "Auckland",
+    "city": "Auckland CBD",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T18:49:45Z"
+}

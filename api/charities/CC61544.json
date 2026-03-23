@@ -1,0 +1,27 @@
+{
+  "id": 75116,
+  "registrationNumber": "CC61544",
+  "name": "The Talmid Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "anthony@anthonyharris.co.nz",
+  "address": {
+    "line1": "90B Halifax Street East",
+    "line2": " ",
+    "suburb": "The Wood",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429051412395",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T20:03:23Z"
+}

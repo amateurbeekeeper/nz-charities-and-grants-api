@@ -1,0 +1,27 @@
+{
+  "id": 39013,
+  "registrationNumber": "CC22121",
+  "name": "Bible Society In New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.biblesociety.org.nz",
+  "email": "neels@biblesociety.org.nz",
+  "address": {
+    "line1": "6A Kellow Place",
+    "line2": " ",
+    "suburb": "Wiri",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042592884",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T19:14:58Z"
+}

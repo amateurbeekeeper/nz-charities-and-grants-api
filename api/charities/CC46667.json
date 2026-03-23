@@ -1,0 +1,27 @@
+{
+  "id": 37304,
+  "registrationNumber": "CC46667",
+  "name": "Bay Bush Action Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-06-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.baybushaction.org.nz",
+  "email": "baybushaction@gmail.com",
+  "address": {
+    "line1": "195 Puketona Road",
+    "line2": "Paihia 0204",
+    "suburb": " ",
+    "city": "Paihia",
+    "postcode": "0204"
+  },
+  "nzbn": "9429043223138",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/baybushaction",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T19:45:34Z"
+}

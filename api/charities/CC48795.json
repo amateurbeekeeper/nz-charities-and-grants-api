@@ -1,0 +1,27 @@
+{
+  "id": 36653,
+  "registrationNumber": "CC48795",
+  "name": "Tairua Surf Life Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-10-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tairuaslsc.org.nz/",
+  "email": "rossm@fclnz.com",
+  "address": {
+    "line1": "38 Paku Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tairua",
+    "postcode": "3508"
+  },
+  "nzbn": "9429043030248",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Tairuaslsc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T22:53:25Z"
+}

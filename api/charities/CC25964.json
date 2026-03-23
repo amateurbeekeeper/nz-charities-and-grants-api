@@ -1,0 +1,27 @@
+{
+  "id": 57548,
+  "registrationNumber": "CC25964",
+  "name": "Whitiora Bible Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wbchurch.co.nz",
+  "email": "jkjmcarson@gmail.com",
+  "address": {
+    "line1": "24 Abbotsford Street",
+    "line2": " ",
+    "suburb": "Whitiora",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T18:45:34Z"
+}

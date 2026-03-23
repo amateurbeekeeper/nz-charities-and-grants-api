@@ -1,0 +1,27 @@
+{
+  "id": 39564,
+  "registrationNumber": "CC20861",
+  "name": "Citizens Advice Bureau Te Aroha Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tearoha@cab.org.nz",
+  "address": {
+    "line1": "137 Whitaker Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Aroha",
+    "postcode": "3320"
+  },
+  "nzbn": "9429042836056",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "CAB Te Aroha",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T22:49:11Z"
+}

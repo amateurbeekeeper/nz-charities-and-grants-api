@@ -1,0 +1,27 @@
+{
+  "id": 44178,
+  "registrationNumber": "CC37798",
+  "name": "Baycrest Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.baycrestvillage.co.nz",
+  "email": "tim@baycrestvillage.co.nz",
+  "address": {
+    "line1": "Walbrook Road",
+    "line2": " ",
+    "suburb": "Manly",
+    "city": "Whangaparaoa",
+    "postcode": "0930"
+  },
+  "nzbn": "9429042596707",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T00:35:28Z"
+}

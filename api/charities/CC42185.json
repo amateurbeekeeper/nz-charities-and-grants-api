@@ -1,0 +1,27 @@
+{
+  "id": 50835,
+  "registrationNumber": "CC42185",
+  "name": "Ocean Aware",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-09-09T00:00:00Z",
+  "dateDeregistered": "2012-05-24T00:00:00Z",
+  "website": "http://www.oceanaware.info",
+  "email": "silverstar@oceanaware.info",
+  "address": {
+    "line1": "19 Valley Road",
+    "line2": null,
+    "suburb": "Omiha",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-07-07T03:26:47Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43178,
+  "registrationNumber": "CC33834",
+  "name": "Manawatu Multiples",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "manawatu.multiples@gmail.com",
+  "address": {
+    "line1": "49 Fitzherbert East Road",
+    "line2": "RD 1",
+    "suburb": "Aokautere",
+    "city": "Palmerston North",
+    "postcode": "4471"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T06:45:43Z"
+}

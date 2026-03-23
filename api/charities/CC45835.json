@@ -1,0 +1,27 @@
+{
+  "id": 38192,
+  "registrationNumber": "CC45835",
+  "name": "Ōtaki Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-12-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.otakitoylibrary.mibase.co.nz",
+  "email": "toylibraryotaki@gmail.com",
+  "address": {
+    "line1": "69 Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Otaki",
+    "postcode": "5512"
+  },
+  "nzbn": "9429042819158",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/OtakiToyLibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T08:04:55Z"
+}

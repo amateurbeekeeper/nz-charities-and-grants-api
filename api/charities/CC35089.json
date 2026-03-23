@@ -1,0 +1,27 @@
+{
+  "id": 44605,
+  "registrationNumber": "CC35089",
+  "name": "Taranaki Health Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.taranakihealthfoundation.org.nz",
+  "email": "gm@thf.org.nz",
+  "address": {
+    "line1": "19 Constance Street",
+    "line2": "New Plymouth 4310",
+    "suburb": "Waiwhakaiho",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429042947073",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/taranakihealthfoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T20:11:46Z"
+}

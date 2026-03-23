@@ -1,0 +1,27 @@
+{
+  "id": 70304,
+  "registrationNumber": "CC56666",
+  "name": "New Zealand Mini-Football Federation",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-02-04T00:00:00Z",
+  "dateDeregistered": "2024-09-20T00:00:00Z",
+  "website": "https://www.nzminifootball.co.nz",
+  "email": "scott.whitaker@duncancotterill.com",
+  "address": {
+    "line1": "148 Victoria Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-10-07T06:12:38Z"
+}

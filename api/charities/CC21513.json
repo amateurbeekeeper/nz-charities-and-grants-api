@@ -1,0 +1,27 @@
+{
+  "id": 54661,
+  "registrationNumber": "CC21513",
+  "name": "Ascension Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ascensionchurch.org.nz",
+  "email": "ascensionchurch.inv@gmail.com",
+  "address": {
+    "line1": "150 Don Street",
+    "line2": "Invercargill 9810",
+    "suburb": "Georgetown",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042959892",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:42:05Z"
+}

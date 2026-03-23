@@ -1,0 +1,27 @@
+{
+  "id": 45936,
+  "registrationNumber": "CC34974",
+  "name": "The Pink Pilates Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2011-05-15T00:00:00Z",
+  "website": "http://www.pinkpilates.co.nz",
+  "email": "loujames@xtra.co.nz",
+  "address": {
+    "line1": "11-13 Falcon Street",
+    "line2": null,
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429043147748",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:26:00Z"
+}

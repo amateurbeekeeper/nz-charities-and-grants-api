@@ -1,0 +1,27 @@
+{
+  "id": 60177,
+  "registrationNumber": "CC27930",
+  "name": "Nga Uri O Te Ngahere Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngaheretoa.co.nz",
+  "email": "ngaheretrust@xtra.co.nz",
+  "address": {
+    "line1": "11 Epsom Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429043111893",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T18:21:25Z"
+}

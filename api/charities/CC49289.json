@@ -1,0 +1,27 @@
+{
+  "id": 34994,
+  "registrationNumber": "CC49289",
+  "name": "Pregnancy Choice",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pregnancychoice.org.nz",
+  "email": "mabel@pregnancychoice.org.nz",
+  "address": {
+    "line1": "174 Eleventh Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429048114394",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PregnancyChoiceCentreTauranga/?ref=bookmarks",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T02:19:48Z"
+}

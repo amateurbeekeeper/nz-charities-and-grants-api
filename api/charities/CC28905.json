@@ -1,0 +1,27 @@
+{
+  "id": 49229,
+  "registrationNumber": "CC28905",
+  "name": "Twizel Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Bruce.Mincham@fireandemergency.nz",
+  "address": {
+    "line1": "17 Mackenzie Drive",
+    "line2": "Twizel 7901",
+    "suburb": " ",
+    "city": "Twizel",
+    "postcode": "7901"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-18T19:19:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64039,
+  "registrationNumber": "CC43387",
+  "name": "Forrest Hill School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "di.hutton@outlook.co.nz",
+  "address": {
+    "line1": "Forrest Hill School",
+    "line2": "50 Forrest Hill Road",
+    "suburb": "Forrest Hill",
+    "city": "Auckland",
+    "postcode": "620"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T00:37:38Z"
+}

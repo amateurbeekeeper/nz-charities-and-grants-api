@@ -1,0 +1,27 @@
+{
+  "id": 70022,
+  "registrationNumber": "CC56380",
+  "name": "Quality Education Services Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-11-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.qes.org.nz",
+  "email": "jeff.wong@lifenz.org",
+  "address": {
+    "line1": "59 Tidal Road",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:56Z"
+}

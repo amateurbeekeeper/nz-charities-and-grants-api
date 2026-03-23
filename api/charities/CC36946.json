@@ -1,0 +1,27 @@
+{
+  "id": 43312,
+  "registrationNumber": "CC36946",
+  "name": "Welcome Bay Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-05T00:00:00Z",
+  "website": "http://www.playcentre.org.nz",
+  "email": "welcomebay@playcentre.org.nz",
+  "address": {
+    "line1": "333 Welcome Bay Road",
+    "line2": " ",
+    "suburb": "Welcome Bay",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Welcome Bay Playcentre Public",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-19T07:14:11Z"
+}

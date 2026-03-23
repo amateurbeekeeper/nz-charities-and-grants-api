@@ -1,0 +1,27 @@
+{
+  "id": 72345,
+  "registrationNumber": "CC58732",
+  "name": "Kia Kotahi Ako Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "kiakotahi.org",
+  "email": "andrew@thelearnerfirst.com",
+  "address": {
+    "line1": "Saltworks",
+    "line2": " 4 Ash Street",
+    "suburb": "Central City",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429049056716",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:09:37Z"
+}

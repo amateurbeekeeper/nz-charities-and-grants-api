@@ -1,0 +1,27 @@
+{
+  "id": 71130,
+  "registrationNumber": "CC57501",
+  "name": "Whangamata Harbour Care Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whangamataharbourcare.com",
+  "email": "harbourcarechair@gmail.com",
+  "address": {
+    "line1": "207 Tukere Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whangamata",
+    "postcode": "3620"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:03:59Z"
+}

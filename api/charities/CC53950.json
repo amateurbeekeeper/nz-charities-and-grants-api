@@ -1,0 +1,27 @@
+{
+  "id": 67649,
+  "registrationNumber": "CC53950",
+  "name": "Preach the Word Baptist Church",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2016-11-29T00:00:00Z",
+  "dateDeregistered": "2021-03-31T00:00:00Z",
+  "website": "preachthewordbaptist.org",
+  "email": "info@preachthewordbaptist.org",
+  "address": {
+    "line1": "7 Kempthorne Place",
+    "line2": " ",
+    "suburb": "Wakari",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/PreachTheWordBaptist",
+    "twitter": null
+  },
+  "lastUpdated": "2021-10-12T19:56:24Z"
+}

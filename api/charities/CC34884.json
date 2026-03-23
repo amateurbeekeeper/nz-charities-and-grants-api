@@ -1,0 +1,27 @@
+{
+  "id": 45447,
+  "registrationNumber": "CC34884",
+  "name": "Carterton School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ptasecretary@carterton.school.nz",
+  "address": {
+    "line1": "Holloway Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Carterton",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T22:04:23Z"
+}

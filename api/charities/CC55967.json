@@ -1,0 +1,27 @@
+{
+  "id": 69615,
+  "registrationNumber": "CC55967",
+  "name": "OpenLaw NZ Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.openlaw.nz",
+  "email": "andrew@openlaw.nz",
+  "address": {
+    "line1": "9 Hunt Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429046918826",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T08:44:49Z"
+}

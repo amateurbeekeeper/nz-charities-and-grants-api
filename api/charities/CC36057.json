@@ -1,0 +1,27 @@
+{
+  "id": 62166,
+  "registrationNumber": "CC36057",
+  "name": "Christian City Church Dunedin",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-12-15T00:00:00Z",
+  "dateDeregistered": "2015-06-16T00:00:00Z",
+  "website": "http://www.c3churchdunedin.com",
+  "email": "c3dunedin@gmail.com",
+  "address": {
+    "line1": "22 Vogel Street",
+    "line2": null,
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:32:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52866,
+  "registrationNumber": "CC10985",
+  "name": "The University Of Auckland Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.uoafoundation.org.nz",
+  "email": "p.cunningham@auckland.ac.nz",
+  "address": {
+    "line1": "Old Choral Hall",
+    "line2": "7 Symonds Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042982005",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T04:19:47Z"
+}

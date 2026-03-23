@@ -1,0 +1,27 @@
+{
+  "id": 66752,
+  "registrationNumber": "CC53025",
+  "name": "Tuahine Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2022-03-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "teringahuia@gmail.com",
+  "address": {
+    "line1": "PO Box 821",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3040"
+  },
+  "nzbn": "9429043219674",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T07:08:20Z"
+}

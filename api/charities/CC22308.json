@@ -1,0 +1,27 @@
+{
+  "id": 55283,
+  "registrationNumber": "CC22308",
+  "name": "Totara Farm Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.totarafarmtrust.co.nz",
+  "email": "bernadette@totarafarmtrust.co.nz",
+  "address": {
+    "line1": "842 Kingseat Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2580"
+  },
+  "nzbn": "9429042892076",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-23T00:39:20Z"
+}

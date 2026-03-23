@@ -1,0 +1,27 @@
+{
+  "id": 74553,
+  "registrationNumber": "CC60972",
+  "name": "Wellington Ice Hockey Association Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-02-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wiha.nz",
+  "email": "general.manager@wiha.nz",
+  "address": {
+    "line1": "23 Collett Street",
+    "line2": " ",
+    "suburb": "Naenae",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429047072411",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wellingtonicehockeyassociation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T07:05:08Z"
+}

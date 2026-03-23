@@ -1,0 +1,27 @@
+{
+  "id": 43012,
+  "registrationNumber": "CC34294",
+  "name": "Matawai Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mahungastn@gmail.com",
+  "address": {
+    "line1": "16 Raumati Street",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Matawai",
+    "postcode": "4075"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T01:07:10Z"
+}

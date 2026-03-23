@@ -1,0 +1,27 @@
+{
+  "id": 51812,
+  "registrationNumber": "CC20125",
+  "name": "The Waikato Agricultural & Pastoral Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-11-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waikatoaandp.co.nz",
+  "email": "thewaikatoshowmanager@outlook.com",
+  "address": {
+    "line1": "800 Heaphy Terrace",
+    "line2": " ",
+    "suburb": "Claudelands",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": "9429043112876",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WaikatoAandP",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T00:29:42Z"
+}

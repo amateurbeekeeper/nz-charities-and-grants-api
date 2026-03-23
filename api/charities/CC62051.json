@@ -1,0 +1,27 @@
+{
+  "id": 75603,
+  "registrationNumber": "CC62051",
+  "name": "Paekakariki Housing Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-11-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.paekakarikihousingtrust.org/",
+  "email": "paekakarikihousingtrust@gmail.com",
+  "address": {
+    "line1": "99 Tilley Road",
+    "line2": " ",
+    "suburb": "Paekākāriki",
+    "city": "Paekakariki",
+    "postcode": "5034"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100067751393322&mibextid=9R9pXO",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T18:08:00Z"
+}

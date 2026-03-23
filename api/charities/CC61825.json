@@ -1,0 +1,27 @@
+{
+  "id": 75386,
+  "registrationNumber": "CC61825",
+  "name": "iMaori Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-11-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wttmaori.nz/",
+  "email": "Danny@tuwharetoa.co.nz",
+  "address": {
+    "line1": "74 Kaimanawa Street",
+    "line2": "Taupō 3330",
+    "suburb": " ",
+    "city": "Taupō",
+    "postcode": "3330"
+  },
+  "nzbn": "9429031459464",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61550277124530",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T23:46:49Z"
+}

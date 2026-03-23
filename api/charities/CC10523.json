@@ -1,0 +1,27 @@
+{
+  "id": 51680,
+  "registrationNumber": "CC10523",
+  "name": "Community Christian Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john@skiltons.nz",
+  "address": {
+    "line1": "21 Matai Street",
+    "line2": " ",
+    "suburb": "Woburn",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429042616979",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T08:04:39Z"
+}

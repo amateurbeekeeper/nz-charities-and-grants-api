@@ -1,0 +1,27 @@
+{
+  "id": 68210,
+  "registrationNumber": "CC54480",
+  "name": "DIGITS CHARITABLE TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.digits.org.nz",
+  "email": "pat@digits.org.nz",
+  "address": {
+    "line1": "7 Hartwell Drive",
+    "line2": "RD 10",
+    "suburb": "Kelvin Grove",
+    "city": "Palmerston North",
+    "postcode": "4470"
+  },
+  "nzbn": "9429045988431",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/digitspn",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:19:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55310,
+  "registrationNumber": "CC29044",
+  "name": "Central Lakes Family Services Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.clfs.co.nz",
+  "email": "tina@clfs.co.nz",
+  "address": {
+    "line1": "16b McBride St",
+    "line2": " ",
+    "suburb": " Frankton",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429043023745",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "centrallakesfamily services",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T01:43:24Z"
+}

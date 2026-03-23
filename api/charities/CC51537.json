@@ -1,0 +1,27 @@
+{
+  "id": 65312,
+  "registrationNumber": "CC51537",
+  "name": "Mairehau Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2022-12-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nessat1957@gmail.com",
+  "address": {
+    "line1": "42A Kensington Avenue",
+    "line2": " ",
+    "suburb": "Mairehau",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042761815",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Mairehau Library Inc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T23:16:21Z"
+}

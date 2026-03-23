@@ -1,0 +1,27 @@
+{
+  "id": 55244,
+  "registrationNumber": "CC25365",
+  "name": "Birthright New Zealand Inc",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-04T00:00:00Z",
+  "dateDeregistered": "2016-12-31T00:00:00Z",
+  "website": "www.birthright.org.nz",
+  "email": "ceo@birthright.org.nz",
+  "address": {
+    "line1": "Level 4",
+    "line2": "204 Thorndon Quay",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042597537",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:25:41Z"
+}

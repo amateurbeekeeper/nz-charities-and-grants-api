@@ -1,0 +1,27 @@
+{
+  "id": 39624,
+  "registrationNumber": "CC27980",
+  "name": "Sowers International  New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sowersinternational.org",
+  "email": "murray.suisted@sowersinternational.org",
+  "address": {
+    "line1": "25 Bowen Street",
+    "line2": "Cambridge 3434",
+    "suburb": "Bethlehem",
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": "9429042723592",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T23:23:38Z"
+}

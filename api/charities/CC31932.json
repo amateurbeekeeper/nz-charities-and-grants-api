@@ -1,0 +1,27 @@
+{
+  "id": 60329,
+  "registrationNumber": "CC31932",
+  "name": "NorthSport Academy Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.northsportacademy.org.nz",
+  "email": "phamblyn@autmillennium.org.nz",
+  "address": {
+    "line1": "17 Antares Place",
+    "line2": "17 Antares Place",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429038057014",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T20:59:18Z"
+}

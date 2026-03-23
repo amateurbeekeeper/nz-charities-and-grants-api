@@ -1,0 +1,27 @@
+{
+  "id": 37460,
+  "registrationNumber": "CC47625",
+  "name": "Linton Park Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.lintonpark.co.nz",
+  "email": "manager@lintonpark.co.nz",
+  "address": {
+    "line1": "16 Kamahi Place",
+    "line2": " ",
+    "suburb": "Pukehangi",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429043220274",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/lintonparkcommunity",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T23:39:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50564,
+  "registrationNumber": "CC44523",
+  "name": "Kids At Play Childcare Centre Inc.",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.kidsatplay.org.nz",
+  "email": "admin@kidsatplay.org.nz",
+  "address": {
+    "line1": "6 Bellwood Avenue",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042912378",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T22:36:20Z"
+}

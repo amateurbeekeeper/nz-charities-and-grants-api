@@ -1,0 +1,27 @@
+{
+  "id": 53075,
+  "registrationNumber": "CC20448",
+  "name": "Oamaru Trade Aid Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-01-10T00:00:00Z",
+  "dateDeregistered": "2025-06-30T00:00:00Z",
+  "website": "http://www.tradeaid.org.nz",
+  "email": "joanne.palmer@tradeaid.org.nz",
+  "address": {
+    "line1": "169 Thames Street",
+    "line2": "Oamaru 9400",
+    "suburb": "Dallington",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429042976639",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T07:13:46Z"
+}

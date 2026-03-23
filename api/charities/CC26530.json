@@ -1,0 +1,27 @@
+{
+  "id": 58467,
+  "registrationNumber": "CC26530",
+  "name": "Southern Group Training Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.apprenticeships.net",
+  "email": "brendan@apprenticeships.net",
+  "address": {
+    "line1": "55 Gala Street",
+    "line2": " ",
+    "suburb": "Avenal",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042960294",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Southern Group Training Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T02:25:08Z"
+}

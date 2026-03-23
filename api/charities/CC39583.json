@@ -1,0 +1,27 @@
+{
+  "id": 44980,
+  "registrationNumber": "CC39583",
+  "name": "Mackenzie College Parent Teachers Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "mackcollege.school.nz",
+  "email": "mackcollege.pta@gmail.com",
+  "address": {
+    "line1": "25 Kirke Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Fairlie",
+    "postcode": "7925"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://facebook.com/mackenziecollege",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T04:20:15Z"
+}

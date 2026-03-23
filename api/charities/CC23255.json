@@ -1,0 +1,27 @@
+{
+  "id": 55143,
+  "registrationNumber": "CC23255",
+  "name": "Lifestyle Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.interactionz.org.nz",
+  "email": "jen@interactionz.org.nz",
+  "address": {
+    "line1": "Unit A2, Level 1",
+    "line2": " 1 North City Road",
+    "suburb": "Rototuna North",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429043127719",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Interactionz1967",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T04:37:13Z"
+}

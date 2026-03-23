@@ -1,0 +1,27 @@
+{
+  "id": 71009,
+  "registrationNumber": "CC57383",
+  "name": "The Christchurch Aunties",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.chchaunties.org.nz",
+  "email": "bernie@chchaunties.org.nz",
+  "address": {
+    "line1": "3/19 Nga Mahi Road",
+    "line2": " ",
+    "suburb": "Sockburn",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429047714670",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/christchurchaunties/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T02:20:15Z"
+}

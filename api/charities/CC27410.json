@@ -1,0 +1,27 @@
+{
+  "id": 57764,
+  "registrationNumber": "CC27410",
+  "name": "Orphans Aid International Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.orphansaidinternational.org",
+  "email": "sue@orphansaidinternational.org",
+  "address": {
+    "line1": "38 Birmingham Drive",
+    "line2": "1092 Frankton Road",
+    "suburb": "Middleton",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429043044382",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Orphans.Aid.International/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:38:06Z"
+}

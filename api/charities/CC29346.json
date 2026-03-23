@@ -1,0 +1,27 @@
+{
+  "id": 51901,
+  "registrationNumber": "CC29346",
+  "name": "Hutt Valley Youth Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.vibe.org.nz",
+  "email": "alanie.thomson@vibe.org.nz",
+  "address": {
+    "line1": "119 Queens Drive",
+    "line2": " ",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429042924494",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/VIBEYouthHealthService",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T02:31:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40978,
+  "registrationNumber": "CC23165",
+  "name": "Ambury Park Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.amburyparkcentre.org.nz",
+  "email": "kevin.maloney@thepointgroup.co.nz",
+  "address": {
+    "line1": "66 Wellesley Road",
+    "line2": " ",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429042574446",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AmburyPark/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T06:02:21Z"
+}

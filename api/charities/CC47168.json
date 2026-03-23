@@ -1,0 +1,27 @@
+{
+  "id": 35478,
+  "registrationNumber": "CC47168",
+  "name": "Ponsonby Baptist  Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ponsonbybaptist.org.nz",
+  "email": "treasurer@ponsonbybaptist.org.nz",
+  "address": {
+    "line1": "43 Jervois Road",
+    "line2": " ",
+    "suburb": "Ponsonby",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:41:59Z"
+}

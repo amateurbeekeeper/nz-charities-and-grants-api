@@ -1,0 +1,27 @@
+{
+  "id": 69276,
+  "registrationNumber": "CC55619",
+  "name": "Veterinary Council of New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-03-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.vetcouncil.org.nz",
+  "email": "iain.mclachlan@vetcouncil.org.nz",
+  "address": {
+    "line1": "Level 6",
+    "line2": "45 Johnston Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429048332897",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-11-12T18:38:29Z"
+}

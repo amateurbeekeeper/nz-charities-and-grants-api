@@ -1,0 +1,27 @@
+{
+  "id": 35693,
+  "registrationNumber": "CC44708",
+  "name": "The Mackenzie Alpine Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-07-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pete.marg@xtra.co.nz",
+  "address": {
+    "line1": "7 D'Archiac Drive",
+    "line2": "Lake Tekapo 7987",
+    "suburb": "Lake Tekapo",
+    "city": "Lake Tekapo",
+    "postcode": "7987"
+  },
+  "nzbn": "9429043072545",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Mackenzie Alpine Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-06T02:31:48Z"
+}

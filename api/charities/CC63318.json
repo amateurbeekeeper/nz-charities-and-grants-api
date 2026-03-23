@@ -1,0 +1,27 @@
+{
+  "id": 77519,
+  "registrationNumber": "CC63318",
+  "name": "TAAL New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Sanjay.datt@icloud.com",
+  "address": {
+    "line1": "Flat 5G",
+    "line2": "10 Crown Lynn Place",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-25T00:45:43Z"
+}

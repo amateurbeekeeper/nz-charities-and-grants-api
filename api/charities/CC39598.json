@@ -1,0 +1,27 @@
+{
+  "id": 57490,
+  "registrationNumber": "CC39598",
+  "name": "Nelson Civic Choir Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nelsoncivicchoir.com/",
+  "email": "chair@nelsoncivicchoir.com",
+  "address": {
+    "line1": "48 Nile Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043131907",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/people/Nelson-Civic-Choir/100064654873236/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T01:29:48Z"
+}

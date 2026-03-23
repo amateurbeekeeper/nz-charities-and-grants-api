@@ -1,0 +1,27 @@
+{
+  "id": 43931,
+  "registrationNumber": "CC35336",
+  "name": "Auckland Grammar Rowing Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.agsrowing.co.nz/",
+  "email": "agrctreasurer@gmail.com",
+  "address": {
+    "line1": "22 Armein Road",
+    "line2": " ",
+    "suburb": "Panmure",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042587040",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/agsrow/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T08:48:40Z"
+}

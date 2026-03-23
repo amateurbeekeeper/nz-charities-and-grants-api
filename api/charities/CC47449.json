@@ -1,0 +1,27 @@
+{
+  "id": 38490,
+  "registrationNumber": "CC47449",
+  "name": "Northland Search and Rescue Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.searchandrescue.co.nz",
+  "email": "pete23hotrod@gmail.com",
+  "address": {
+    "line1": "c/- City Motorhomes & Caravans",
+    "line2": "8 South End Avenue",
+    "suburb": " Raumanga",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429053085375",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/landsarnorthland/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T21:23:02Z"
+}

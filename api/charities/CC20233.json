@@ -1,0 +1,27 @@
+{
+  "id": 53230,
+  "registrationNumber": "CC20233",
+  "name": "Hutt Valley Heart Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bobrowell@xtra.co.nz",
+  "address": {
+    "line1": "141 Kings Crescent",
+    "line2": " ",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429042870128",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Hutt-Valley-Heart-Trust-1755354827859221/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-02T00:23:40Z"
+}

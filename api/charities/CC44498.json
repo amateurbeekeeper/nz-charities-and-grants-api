@@ -1,0 +1,27 @@
+{
+  "id": 50587,
+  "registrationNumber": "CC44498",
+  "name": "Matamata Animal Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david@jswap.co.nz",
+  "address": {
+    "line1": "5378 SH 29",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3472"
+  },
+  "nzbn": "9429042766926",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-19T19:26:22Z"
+}

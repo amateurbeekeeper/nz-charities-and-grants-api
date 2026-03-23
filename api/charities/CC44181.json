@@ -1,0 +1,27 @@
+{
+  "id": 64141,
+  "registrationNumber": "CC44181",
+  "name": "The Pouto Marine Hall Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2020-11-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.poutocampground.co.nz",
+  "email": "poutomarinehall@hotmail.com",
+  "address": {
+    "line1": "6577 Pouto Road",
+    "line2": "RD 1",
+    "suburb": "Pouto",
+    "city": "Te Kopuru",
+    "postcode": "0391"
+  },
+  "nzbn": "9429042944379",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Pouto Marine Hall Campground",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:01:22Z"
+}

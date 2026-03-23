@@ -1,0 +1,27 @@
+{
+  "id": 58588,
+  "registrationNumber": "CC35785",
+  "name": "Maori Television Services",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.maoritelevision.com",
+  "email": "sumeet.bhanot@whakaatamaori.co.nz",
+  "address": {
+    "line1": "433 East Tamaki Road",
+    "line2": " ",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429041911396",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T23:02:18Z"
+}

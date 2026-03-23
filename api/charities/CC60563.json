@@ -1,0 +1,27 @@
+{
+  "id": 74155,
+  "registrationNumber": "CC60563",
+  "name": "Whau Pasifika Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whaupasifika.nz",
+  "email": "connect@whaupasifika.nz",
+  "address": {
+    "line1": "50a Rosebank Road",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429048814034",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/whaupasifika/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T02:03:37Z"
+}

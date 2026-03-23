@@ -1,0 +1,27 @@
+{
+  "id": 33183,
+  "registrationNumber": "CC49344",
+  "name": "NZ Mountain Film Festival Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-06-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mountainfilm.nz",
+  "email": "mark.sedon@xtra.co.nz",
+  "address": {
+    "line1": "17 Drake Place",
+    "line2": "RD 2",
+    "suburb": "Lake Hawea",
+    "city": "Wanaka",
+    "postcode": "9382"
+  },
+  "nzbn": "9429043326099",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NewZealandMountainFilmFestival",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-07T21:50:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 61104,
+  "registrationNumber": "CC34638",
+  "name": "Bethlehem Pottery Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://bethlehempottery.com",
+  "email": "bpctreasury@gmail.com",
+  "address": {
+    "line1": "13 Bethlehem Road",
+    "line2": " ",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042592648",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Bethlehem Pottery Club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:14:02Z"
+}

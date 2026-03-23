@@ -1,0 +1,27 @@
+{
+  "id": 53370,
+  "registrationNumber": "CC25397",
+  "name": "Evenzts New Zealand 2004 Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kwt.org.nz",
+  "email": "admin@kwt.org.nz",
+  "address": {
+    "line1": "12 Marram Way",
+    "line2": "RD 1",
+    "suburb": "Peka Peka",
+    "city": "Waikanae",
+    "postcode": "5391"
+  },
+  "nzbn": "9429043115655",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kapitiwomenstri/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-07T03:12:47Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63118,
+  "registrationNumber": "CC39030",
+  "name": "Squash Auckland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.squashauckland.org.nz",
+  "email": "gm@squashauckland.org.nz",
+  "address": {
+    "line1": "17 Antares Place",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429042590460",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/squashak/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T19:20:00Z"
+}

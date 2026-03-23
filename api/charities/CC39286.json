@@ -1,0 +1,27 @@
+{
+  "id": 60025,
+  "registrationNumber": "CC39286",
+  "name": "Napier Pilot City Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.napierpilotcity.co.nz",
+  "email": "alwyn@abcorban.co.nz",
+  "address": {
+    "line1": "18 Clyde Road",
+    "line2": " ",
+    "suburb": "Bluff Hill",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042926351",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Napier Pilot City https://www.facebook.com/napierpilotcity/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T07:32:44Z"
+}

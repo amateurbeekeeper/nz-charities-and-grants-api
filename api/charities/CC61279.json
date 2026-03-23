@@ -1,0 +1,27 @@
+{
+  "id": 74856,
+  "registrationNumber": "CC61279",
+  "name": "MtSS Home and School",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mtss.school.nz",
+  "email": "homeandschool@mtss.school.nz",
+  "address": {
+    "line1": "78 Ashburton Gorge Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mount Somers",
+    "postcode": "7771"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-12T02:17:43Z"
+}

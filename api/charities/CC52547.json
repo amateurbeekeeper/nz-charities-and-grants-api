@@ -1,0 +1,27 @@
+{
+  "id": 66276,
+  "registrationNumber": "CC52547",
+  "name": "Māia Health Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://maiahealth.org.nz",
+  "email": "michael.flatman@maiahealth.org.nz",
+  "address": {
+    "line1": "32 Oxford Terrace",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429046060648",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/maiahealth",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T18:04:11Z"
+}

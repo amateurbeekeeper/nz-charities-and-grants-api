@@ -1,0 +1,27 @@
+{
+  "id": 71978,
+  "registrationNumber": "CC58360",
+  "name": "Billy Graham Evangelistic Association",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-10-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://billygraham.org.au/",
+  "email": "Suzanneb@samaritanspurse.org.au",
+  "address": {
+    "line1": "13 Binney Road",
+    "line2": " ",
+    "suburb": "Kings Park",
+    "city": "NSW Australia",
+    "postcode": "2148"
+  },
+  "nzbn": "9429048669153",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T23:58:09Z"
+}

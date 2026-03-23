@@ -1,0 +1,27 @@
+{
+  "id": 33343,
+  "registrationNumber": "CC49425",
+  "name": "JSM Help",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-08-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "JSMHelp@gmail.com",
+  "address": {
+    "line1": "170 Wangapeka West Bank Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Wakefield",
+    "postcode": "7096"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-03T02:27:49Z"
+}

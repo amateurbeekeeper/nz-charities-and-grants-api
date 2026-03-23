@@ -1,0 +1,27 @@
+{
+  "id": 54681,
+  "registrationNumber": "CC20413",
+  "name": "Whangarei Central Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whangareicbc.org.nz",
+  "email": "admin@whangareicbc.org.nz",
+  "address": {
+    "line1": "202 Bank Street",
+    "line2": " ",
+    "suburb": "Regent",
+    "city": "Whangārei",
+    "postcode": "0112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whangareicbc/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T01:54:22Z"
+}

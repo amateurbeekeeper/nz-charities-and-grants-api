@@ -1,0 +1,27 @@
+{
+  "id": 36306,
+  "registrationNumber": "CC47345",
+  "name": "Te Mapou Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2024-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "margherewini@gmail.com",
+  "address": {
+    "line1": "2004 SH 30",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3192"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Mapou Marae ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T22:45:31Z"
+}

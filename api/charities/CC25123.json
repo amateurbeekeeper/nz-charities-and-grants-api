@@ -1,0 +1,27 @@
+{
+  "id": 57205,
+  "registrationNumber": "CC25123",
+  "name": "St Anselm's Union Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stanselms.org.nz",
+  "email": "treasurer@stanselms.org.nz",
+  "address": {
+    "line1": "30 Makara Road",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T03:08:26Z"
+}

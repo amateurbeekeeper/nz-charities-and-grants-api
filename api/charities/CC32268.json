@@ -1,0 +1,27 @@
+{
+  "id": 48108,
+  "registrationNumber": "CC32268",
+  "name": "Nelson Marlborough Rescue Helicopter Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.helirescue.co.nz",
+  "email": "john.rollston@findex.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "204 Hardy Street",
+    "suburb": "Nelson",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042752530",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/Nelson Marlborough Rescue Helicopter Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:58:31Z"
+}

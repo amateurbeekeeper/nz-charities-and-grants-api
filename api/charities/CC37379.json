@@ -1,0 +1,27 @@
+{
+  "id": 63431,
+  "registrationNumber": "CC37379",
+  "name": "The NZ Federation of Young Farmers Clubs Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.youngfarmers.co.nz",
+  "email": "claire.clement@youngfarmers.co.nz",
+  "address": {
+    "line1": "185 Kirk Road",
+    "line2": " ",
+    "suburb": "Templeton",
+    "city": "Christchurch",
+    "postcode": "7678"
+  },
+  "nzbn": "9429042785415",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T02:01:06Z"
+}

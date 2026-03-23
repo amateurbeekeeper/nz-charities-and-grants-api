@@ -1,0 +1,27 @@
+{
+  "id": 34384,
+  "registrationNumber": "CC50631",
+  "name": "Hollyford Conservation Trust - Te Roopu Manaaki O Whakatipu Waitai",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hollyfordconservationtrust.org.nz",
+  "email": "hollyfordconservationtrust@gmail.com",
+  "address": {
+    "line1": "Martins Bay",
+    "line2": null,
+    "suburb": " ",
+    "city": "Fiordland National Park",
+    "postcode": null
+  },
+  "nzbn": "9429043261468",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://m.facebook.com/Hollyfordconservationtrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-20T20:06:26Z"
+}

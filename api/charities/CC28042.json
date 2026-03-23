@@ -1,0 +1,27 @@
+{
+  "id": 60056,
+  "registrationNumber": "CC28042",
+  "name": "Avonside Early Childhood Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.avonsidekids.co.nz",
+  "email": "office@avonsidekids.co.nz",
+  "address": {
+    "line1": "43 Woodham Road",
+    "line2": " ",
+    "suburb": "Linwood",
+    "city": "Christchurch",
+    "postcode": "8062"
+  },
+  "nzbn": "9429042989677",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T00:30:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65272,
+  "registrationNumber": "CC51501",
+  "name": "TGH Farms and Forestry Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Statrec@tgh.co.nz",
+  "address": {
+    "line1": "6 Bryce Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429041533574",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T02:07:34Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43481,
+  "registrationNumber": "CC31992",
+  "name": "Huia Settlers Museum Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.huiamuseum.org.nz",
+  "email": "info@huiamuseum.org.nz",
+  "address": {
+    "line1": "1251 Huia Road",
+    "line2": " ",
+    "suburb": "Huia",
+    "city": "Auckland",
+    "postcode": "604"
+  },
+  "nzbn": "9429043137893",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100057040977279",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-28T00:19:04Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 76535,
+  "registrationNumber": "CC62776",
+  "name": "Te Wā The Space",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tewathespace.co.nz",
+  "email": "gladdibern@gmail.com",
+  "address": {
+    "line1": "74 Hawdon Street",
+    "line2": " ",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429052301247",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-01T20:39:15Z"
+}

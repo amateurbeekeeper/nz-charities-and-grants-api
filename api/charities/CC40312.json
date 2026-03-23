@@ -1,0 +1,27 @@
+{
+  "id": 49644,
+  "registrationNumber": "CC40312",
+  "name": "Brainwave Trust Aotearoa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.brainwave.org.nz",
+  "email": "CEO@brainwave.org.nz",
+  "address": {
+    "line1": "PO Box 55206",
+    "line2": "Eastridge",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1146"
+  },
+  "nzbn": "9429043123803",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/BrainwaveTrust",
+    "twitter": "twitter.com/BrainwaveTrust"
+  },
+  "lastUpdated": "2026-03-06T00:11:59Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39559,
+  "registrationNumber": "CC41042",
+  "name": "Hamilton Christian Schools Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "operations@hcsinc.nz",
+  "address": {
+    "line1": "1 Micah Place",
+    "line2": " ",
+    "suburb": "Rototuna North",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429042712435",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-14T22:55:53Z"
+}

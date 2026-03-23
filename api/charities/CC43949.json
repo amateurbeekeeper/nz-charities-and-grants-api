@@ -1,0 +1,27 @@
+{
+  "id": 45871,
+  "registrationNumber": "CC43949",
+  "name": "The Whangarei Music Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://whangareimusic.org.nz/",
+  "email": "agilbert1000@gmail.com",
+  "address": {
+    "line1": "12C Pah Road",
+    "line2": " ",
+    "suburb": "Onerahi",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429042892311",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "whangarei music society",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T18:57:18Z"
+}

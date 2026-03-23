@@ -1,0 +1,27 @@
+{
+  "id": 51185,
+  "registrationNumber": "CC11007",
+  "name": "Amped4Life Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.amped4life.net.nz",
+  "email": "pat@amped4life.net.nz",
+  "address": {
+    "line1": "156 Waikite Road",
+    "line2": "RD 5",
+    "suburb": "Welcome Bay",
+    "city": "Tauranga",
+    "postcode": "3175"
+  },
+  "nzbn": "9429043005826",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "amped4life",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T22:32:24Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66807,
+  "registrationNumber": "CC53092",
+  "name": "Effective Altruism NZ Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-02-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://effectivealtruism.nz/eanzct/",
+  "email": "david@betterworld.nz",
+  "address": {
+    "line1": "2C Handley Avenue",
+    "line2": " ",
+    "suburb": "Narrow Neck",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": "9429043315505",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T20:06:45Z"
+}

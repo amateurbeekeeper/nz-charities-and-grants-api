@@ -1,0 +1,27 @@
+{
+  "id": 46035,
+  "registrationNumber": "CC33514",
+  "name": "Taranaki Hockey Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.taranakihockey.org.nz",
+  "email": "finance@taranakihockey.org.nz",
+  "address": {
+    "line1": "1 Elliot Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Inglewood",
+    "postcode": "4330"
+  },
+  "nzbn": "9429042844501",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Taranaki Hockey Federation ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T01:22:06Z"
+}

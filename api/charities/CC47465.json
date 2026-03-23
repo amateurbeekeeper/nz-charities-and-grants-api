@@ -1,0 +1,27 @@
+{
+  "id": 38881,
+  "registrationNumber": "CC47465",
+  "name": "Ausa Outdoor Shakespeare Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2012-03-20T00:00:00Z",
+  "dateDeregistered": "2020-08-20T00:00:00Z",
+  "website": "www.shakespeare.ac.nz",
+  "email": "admin@shakespeare.ac.nz",
+  "address": {
+    "line1": "C/- AUSA",
+    "line2": "4 Alfred Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043214853",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-09-08T01:33:32Z"
+}

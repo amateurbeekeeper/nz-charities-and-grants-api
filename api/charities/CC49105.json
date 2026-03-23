@@ -1,0 +1,27 @@
+{
+  "id": 33429,
+  "registrationNumber": "CC49105",
+  "name": "Te Anau Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jshanks@pggwrightson.co.nz",
+  "address": {
+    "line1": "30 Luxmore Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Anau",
+    "postcode": "9600"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T19:57:28Z"
+}

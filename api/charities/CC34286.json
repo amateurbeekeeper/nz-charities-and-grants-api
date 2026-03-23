@@ -1,0 +1,27 @@
+{
+  "id": 41549,
+  "registrationNumber": "CC34286",
+  "name": "Young Women's Christian Association of Aotearoa-New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ywca.org.nz",
+  "email": "aaminahghani@gmail.com",
+  "address": {
+    "line1": "22 Strowan Avenue",
+    "line2": null,
+    "suburb": "Fairfield",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": "9429043213696",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/YWCA-of-Aotearoa-New-Zealand-109017730239",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T04:09:09Z"
+}

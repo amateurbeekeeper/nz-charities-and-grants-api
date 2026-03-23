@@ -1,0 +1,27 @@
+{
+  "id": 56581,
+  "registrationNumber": "CC30232",
+  "name": "The Public Health Association of New Zealand (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pha.org.nz",
+  "email": "cadence.kaumoana@pha.org.nz",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429042868903",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "phanewzealand",
+    "twitter": "phanewzealand"
+  },
+  "lastUpdated": "2025-12-21T21:24:32Z"
+}

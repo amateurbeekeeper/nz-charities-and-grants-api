@@ -1,0 +1,27 @@
+{
+  "id": 57420,
+  "registrationNumber": "CC35071",
+  "name": "Vision Church Christchurch North",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2016-04-05T00:00:00Z",
+  "website": "http://www.visionchurchnorth.org.nz",
+  "email": null,
+  "address": {
+    "line1": "344 Manchester Street",
+    "line2": null,
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:26:18Z"
+}

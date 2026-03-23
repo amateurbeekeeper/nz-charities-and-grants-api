@@ -1,0 +1,27 @@
+{
+  "id": 75914,
+  "registrationNumber": "CC62370",
+  "name": "The Mana Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-01-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.manahealth.co.nz",
+  "email": "info@manahealth.co.nz",
+  "address": {
+    "line1": "7 Ruskin Street",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T17:27:59Z"
+}

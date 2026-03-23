@@ -1,0 +1,27 @@
+{
+  "id": 73996,
+  "registrationNumber": "CC60405",
+  "name": "Zero Waste Otaki Inc",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://zerowasteotaki.nz/",
+  "email": "graham@breakerbay.co.nz",
+  "address": {
+    "line1": "179 Waerenga Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Otaki",
+    "postcode": "5512"
+  },
+  "nzbn": "9429049981780",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/zerowasteotaki.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T18:22:07Z"
+}

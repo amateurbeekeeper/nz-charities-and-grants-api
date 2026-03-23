@@ -1,0 +1,27 @@
+{
+  "id": 53422,
+  "registrationNumber": "CC21022",
+  "name": "Toroa Preservation Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.steamferrytoroa.com",
+  "email": "rtmgbrown@xtra.co.nz",
+  "address": {
+    "line1": "2 Selwood Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429042981497",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Facebook.com/steamferrytoroa",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T07:05:52Z"
+}

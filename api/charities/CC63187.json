@@ -1,0 +1,27 @@
+{
+  "id": 77324,
+  "registrationNumber": "CC63187",
+  "name": "Migrant Learning Hub",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://migrantlearninghub.org/",
+  "email": "samuel.geetika@gmail.com",
+  "address": {
+    "line1": "3B Naylor Street",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429052774010",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/migrantlearninghub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T00:02:09Z"
+}

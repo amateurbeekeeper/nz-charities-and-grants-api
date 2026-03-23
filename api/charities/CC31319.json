@@ -1,0 +1,27 @@
+{
+  "id": 57429,
+  "registrationNumber": "CC31319",
+  "name": "Glenview Community Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.glenviewcommunitycentre.co.nz",
+  "email": "office@glenview.nz",
+  "address": {
+    "line1": "12 Tomin Road",
+    "line2": " ",
+    "suburb": "Glenview",
+    "city": "Hamilton",
+    "postcode": "3206"
+  },
+  "nzbn": "9429042974130",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/glenviewcommunitycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T23:28:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 68138,
+  "registrationNumber": "CC54462",
+  "name": "Madrasahtul Islamiyah NZ Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://madrasahtul-islamiyah.co.nz",
+  "email": "accounts@madrasahtul-islamiyah.co.nz",
+  "address": {
+    "line1": "7-11 Queens Drive",
+    "line2": " ",
+    "suburb": "Kilbirnie",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429045941108",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/madrasahtulislamiyah",
+    "twitter": "https://twitter.com/Madrasah_Islam?s=08"
+  },
+  "lastUpdated": "2025-11-02T20:14:56Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69116,
+  "registrationNumber": "CC55457",
+  "name": "Ngati Koroki Kahukura Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@korokikahukura.co.nz",
+  "address": {
+    "line1": "1121 Maungatautari Road",
+    "line2": "RD 2",
+    "suburb": "Maungatautari",
+    "city": "Cambridge",
+    "postcode": "3494"
+  },
+  "nzbn": "9429043190171",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T02:09:52Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56250,
+  "registrationNumber": "CC30943",
+  "name": "Samaritans of Horowhenua Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.samaritans.org.nz",
+  "email": "levin@samaritans.org.nz",
+  "address": {
+    "line1": "Kent Street",
+    "line2": "Levin 5510",
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": "9429042739920",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T23:13:20Z"
+}

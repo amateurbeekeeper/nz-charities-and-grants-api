@@ -1,0 +1,27 @@
+{
+  "id": 51768,
+  "registrationNumber": "CC20301",
+  "name": "Life Education Trust Heartland Otago Southland ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.heartland.org.nz",
+  "email": "heartland@lifeedtrust.org.nz",
+  "address": {
+    "line1": "PO Box 267",
+    "line2": null,
+    "suburb": " ",
+    "city": "Alexandra",
+    "postcode": "9340"
+  },
+  "nzbn": "9429042931119",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HeartlandLifeEd",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T22:07:25Z"
+}

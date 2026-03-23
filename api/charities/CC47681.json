@@ -1,0 +1,27 @@
+{
+  "id": 37146,
+  "registrationNumber": "CC47681",
+  "name": "P.A.W.S Animal Shelter",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-11-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lucielangley@yahoo.co.nz",
+  "address": {
+    "line1": "112 Halcombe Road",
+    "line2": "RD 5",
+    "suburb": " ",
+    "city": "Feilding",
+    "postcode": "4775"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/P.A.W.S.animalshelter/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:31:51Z"
+}

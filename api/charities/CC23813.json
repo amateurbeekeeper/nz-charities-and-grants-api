@@ -1,0 +1,27 @@
+{
+  "id": 57479,
+  "registrationNumber": "CC23813",
+  "name": "St John's Golden Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "goldenchurch@whangarei.org.nz",
+  "address": {
+    "line1": "149 Kamo Road",
+    "line2": "Kensington",
+    "suburb": "Kensington",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:04:35Z"
+}

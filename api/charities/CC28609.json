@@ -1,0 +1,27 @@
+{
+  "id": 43986,
+  "registrationNumber": "CC28609",
+  "name": "Silverstream Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.fireandemergency.nz",
+  "email": "kylesherson@gmail.com",
+  "address": {
+    "line1": "43 Kiln Street",
+    "line2": " ",
+    "suburb": "Silverstream",
+    "city": "Upper Hutt",
+    "postcode": "5019"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://facebook.com/silverstreamvolunteerfire",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:01:41Z"
+}

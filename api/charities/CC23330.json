@@ -1,0 +1,27 @@
+{
+  "id": 52376,
+  "registrationNumber": "CC23330",
+  "name": "New Plymouth Branch of The Theosophical Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://theosophy.nz/centres/new-plymouth",
+  "email": "tsnewplymouth@gmail.com",
+  "address": {
+    "line1": "30 Hine Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/TheosophyNP/ ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T02:02:33Z"
+}

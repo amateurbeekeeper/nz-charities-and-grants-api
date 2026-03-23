@@ -1,0 +1,27 @@
+{
+  "id": 49496,
+  "registrationNumber": "CC32005",
+  "name": "Community Approach Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.communityapproach.co.nz",
+  "email": "director@communityapproach.co.nz",
+  "address": {
+    "line1": "504 Richardson Road",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429042616900",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T00:01:36Z"
+}

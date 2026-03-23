@@ -1,0 +1,27 @@
+{
+  "id": 57506,
+  "registrationNumber": "CC28265",
+  "name": "The Asia Pacific Discipleship Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.asiapacificdt.org.nz",
+  "email": "Bryan.Johnson@asiapacificdt.org.nz",
+  "address": {
+    "line1": "297A Church Street",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043049646",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-08T03:19:28Z"
+}

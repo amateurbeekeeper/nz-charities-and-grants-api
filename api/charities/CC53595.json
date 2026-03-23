@@ -1,0 +1,27 @@
+{
+  "id": 67308,
+  "registrationNumber": "CC53595",
+  "name": "Wairarapa Whanau Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "matt@bishopstrust.com",
+  "address": {
+    "line1": "18 Eccleston Hill",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043307135",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T22:53:55Z"
+}

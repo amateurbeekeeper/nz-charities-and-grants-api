@@ -1,0 +1,27 @@
+{
+  "id": 57587,
+  "registrationNumber": "CC29957",
+  "name": "Mana Little Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://manalittletheatre.org.nz/",
+  "email": "mlttreasury@gmail.com",
+  "address": {
+    "line1": "9b Sunset Parade",
+    "line2": " ",
+    "suburb": "Plimmerton",
+    "city": "Porirua",
+    "postcode": "5026"
+  },
+  "nzbn": "9429042760870",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@manalittletheatre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T07:45:52Z"
+}

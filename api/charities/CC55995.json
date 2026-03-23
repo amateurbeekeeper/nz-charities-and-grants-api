@@ -1,0 +1,27 @@
+{
+  "id": 69643,
+  "registrationNumber": "CC55995",
+  "name": "New Zealand Brain Tumour Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzbtt.com/",
+  "email": "chris@medlicotts.co.nz",
+  "address": {
+    "line1": "3 Crawford Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429046656360",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:15:16Z"
+}

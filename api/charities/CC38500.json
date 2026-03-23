@@ -1,0 +1,27 @@
+{
+  "id": 40911,
+  "registrationNumber": "CC38500",
+  "name": "Manawa Karioi Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.manawakarioi.nz",
+  "email": "livesey.chris@gmail.com",
+  "address": {
+    "line1": "155 Washington Avenue",
+    "line2": " ",
+    "suburb": "Brooklyn",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429042758877",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T07:20:41Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 60669,
+  "registrationNumber": "CC28572",
+  "name": "Kaikoura Gospel Assembly",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "clematisgrove@xtra.co.nz",
+  "address": {
+    "line1": "Clematis Grove",
+    "line2": "184 Blue Duck Valley, R D 1",
+    "suburb": " ",
+    "city": "Kaikoura",
+    "postcode": "7371"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-10T21:46:13Z"
+}

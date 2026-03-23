@@ -1,0 +1,27 @@
+{
+  "id": 62130,
+  "registrationNumber": "CC34655",
+  "name": "Pukekohe Christian School Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-11-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pcschool.co.nz",
+  "email": "louise.marais@pcschool.co.nz",
+  "address": {
+    "line1": "82 Yates Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2677"
+  },
+  "nzbn": "9429042950967",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:30:51Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 57531,
+  "registrationNumber": "CC25313",
+  "name": "Queenspark Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.qct.org.nz",
+  "email": "treasurer@parklands.org.nz",
+  "address": {
+    "line1": "180 Queenspark Drive",
+    "line2": " ",
+    "suburb": "Parklands",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429042610878",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T22:28:41Z"
+}

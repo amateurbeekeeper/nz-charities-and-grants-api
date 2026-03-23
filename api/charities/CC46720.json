@@ -1,0 +1,27 @@
+{
+  "id": 37108,
+  "registrationNumber": "CC46720",
+  "name": "Trinity Lands Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.trinitylands.co.nz",
+  "email": "wendyi@trinitylands.co.nz",
+  "address": {
+    "line1": "10 Neal Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Putaruru",
+    "postcode": "3411"
+  },
+  "nzbn": "9429031201070",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:15:37Z"
+}

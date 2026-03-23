@@ -1,0 +1,27 @@
+{
+  "id": 46016,
+  "registrationNumber": "CC36700",
+  "name": "New Zealand Epilepsy Assist Dogs Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzepilepsyassistdogs.org.nz",
+  "email": "nzedogs@gmail.com",
+  "address": {
+    "line1": "PO Box 32196",
+    "line2": " ",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0744"
+  },
+  "nzbn": "9429042995357",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@NZepilepsyassistdogs ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T00:35:22Z"
+}

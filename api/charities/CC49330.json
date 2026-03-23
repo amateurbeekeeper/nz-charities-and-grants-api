@@ -1,0 +1,27 @@
+{
+  "id": 35109,
+  "registrationNumber": "CC49330",
+  "name": "The Waitaki Summer Music Camp Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waitakimusic.org.nz",
+  "email": "waitakimusic@gmail.com",
+  "address": {
+    "line1": "81 Spottiswoode Street",
+    "line2": " ",
+    "suburb": "Tainui",
+    "city": "Dunedin",
+    "postcode": "9013"
+  },
+  "nzbn": "9429043244294",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-19T19:26:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52310,
+  "registrationNumber": "CC10588",
+  "name": "Sailability Auckland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sailabilityauckland.org.nz",
+  "email": "paul.webber@wedgewoodwhite.com",
+  "address": {
+    "line1": "29 Yeovil Road",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429042820383",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T21:41:36Z"
+}

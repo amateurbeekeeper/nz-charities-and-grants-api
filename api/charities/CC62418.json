@@ -1,0 +1,27 @@
+{
+  "id": 75969,
+  "registrationNumber": "CC62418",
+  "name": "For This City",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "susanna.mclaren@xtra.co.nz",
+  "address": {
+    "line1": "Unit 7",
+    "line2": "35 Rata Street",
+    "suburb": "Naenae",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:40:43Z"
+}

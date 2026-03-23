@@ -1,0 +1,27 @@
+{
+  "id": 65711,
+  "registrationNumber": "CC51963",
+  "name": "Otara Pacific Islanders Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "margieapa@icloud.com",
+  "address": {
+    "line1": "7-13 Ferguson Road",
+    "line2": "Otara",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "2159"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/989389835187028",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T01:39:05Z"
+}

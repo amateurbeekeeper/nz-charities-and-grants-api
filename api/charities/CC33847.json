@@ -1,0 +1,27 @@
+{
+  "id": 42967,
+  "registrationNumber": "CC33847",
+  "name": "Museum of Aviation (Kapiti) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.kapitiaviationmuseum.nz",
+  "email": "wilson@otaihanga.co.nz",
+  "address": {
+    "line1": "227 Kapiti Road",
+    "line2": "Paraparaumu 5032",
+    "suburb": "Kapiti Road",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429043025763",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-12T03:26:40Z"
+}

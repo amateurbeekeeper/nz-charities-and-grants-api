@@ -1,0 +1,27 @@
+{
+  "id": 66472,
+  "registrationNumber": "CC52738",
+  "name": "WAITAKERE COLLEGE FOUNDATION",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-11-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wcf.nz",
+  "email": "info@wcf.nz",
+  "address": {
+    "line1": "42-60 Rathgar Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429043313310",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/waitakerecollegefoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T00:23:52Z"
+}

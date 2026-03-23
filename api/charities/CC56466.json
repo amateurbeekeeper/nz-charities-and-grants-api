@@ -1,0 +1,27 @@
+{
+  "id": 70107,
+  "registrationNumber": "CC56466",
+  "name": "Porirua RSA \"Poppy Fund\" Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.poriruarsa.co.nz",
+  "email": "rkbuilders1@xtra.co.nz",
+  "address": {
+    "line1": "5-7 McKillop Street",
+    "line2": " ",
+    "suburb": "Ranui",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "poriruarsa.co.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T18:54:29Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56131,
+  "registrationNumber": "CC22653",
+  "name": "Waikato Diocesan School Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.waikatodiocesan.school.nz",
+  "email": "rstoddart@wdsg.school.nz",
+  "address": {
+    "line1": "660 River Road",
+    "line2": " ",
+    "suburb": "Chartwell",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429043211838",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:13:43Z"
+}

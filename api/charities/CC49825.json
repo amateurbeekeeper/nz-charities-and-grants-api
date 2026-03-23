@@ -1,0 +1,27 @@
+{
+  "id": 35103,
+  "registrationNumber": "CC49825",
+  "name": "Epicentre Governing Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2024-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kevin.alder@epicentre.org.nz",
+  "address": {
+    "line1": "142A Kamahi Street",
+    "line2": " ",
+    "suburb": "Stokes Valley",
+    "city": "Lower Hutt",
+    "postcode": "5019"
+  },
+  "nzbn": "9429043189342",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T22:17:59Z"
+}

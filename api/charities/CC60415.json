@@ -1,0 +1,27 @@
+{
+  "id": 74001,
+  "registrationNumber": "CC60415",
+  "name": "The Waipu Caledonian Society Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waipuhighlandgames.co.nz",
+  "email": "Treasurer@wcs.org.nz",
+  "address": {
+    "line1": "Waipu Caledonian Society",
+    "line2": "St Mary's Road",
+    "suburb": " ",
+    "city": "Waipu",
+    "postcode": "0582"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Waipuhiglandgames",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T01:55:13Z"
+}

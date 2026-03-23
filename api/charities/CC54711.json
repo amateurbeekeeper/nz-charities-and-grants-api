@@ -1,0 +1,27 @@
+{
+  "id": 68376,
+  "registrationNumber": "CC54711",
+  "name": "Step Changers Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-08-03T00:00:00Z",
+  "dateDeregistered": "2021-08-31T00:00:00Z",
+  "website": "stepchangers.org",
+  "email": "rosie@stepchangers.org",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "115 Upland Road",
+    "suburb": "Kelburn",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/stepchangers/",
+    "twitter": null
+  },
+  "lastUpdated": "2021-09-15T22:40:58Z"
+}

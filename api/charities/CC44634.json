@@ -1,0 +1,27 @@
+{
+  "id": 50654,
+  "registrationNumber": "CC44634",
+  "name": "Tiptree Cottage Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-07-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "peter@thearthouse.co.nz",
+  "address": {
+    "line1": "63 Savills Road",
+    "line2": "RD 6",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "7676"
+  },
+  "nzbn": "9429048856379",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/tiptreecottage",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-15T21:34:27Z"
+}

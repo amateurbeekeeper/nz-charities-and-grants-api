@@ -1,0 +1,27 @@
+{
+  "id": 66287,
+  "registrationNumber": "CC52558",
+  "name": "Observatory Village Care Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-11-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.observatoryvillage.nz",
+  "email": "village@observatoryvillage.nz",
+  "address": {
+    "line1": "21 Stoke Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429042015918",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:43:23Z"
+}

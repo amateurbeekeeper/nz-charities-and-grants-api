@@ -1,0 +1,27 @@
+{
+  "id": 70960,
+  "registrationNumber": "CC57334",
+  "name": "Halswell Community Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.halswellcommunitychurch.co.nz/",
+  "email": "polly.coxNZ@gmail.com",
+  "address": {
+    "line1": "77 Murphys Road",
+    "line2": " ",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/halswellcommunitychurch77",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T19:29:47Z"
+}

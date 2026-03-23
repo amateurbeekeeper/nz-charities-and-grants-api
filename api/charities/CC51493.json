@@ -1,0 +1,27 @@
+{
+  "id": 65269,
+  "registrationNumber": "CC51493",
+  "name": "TGH Hotels Investment Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Statrec@tgh.co.nz",
+  "address": {
+    "line1": "6 Bryce Street",
+    "line2": "Hamilton 3244",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429041525968",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T02:16:22Z"
+}

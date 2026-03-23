@@ -1,0 +1,27 @@
+{
+  "id": 74139,
+  "registrationNumber": "CC60550",
+  "name": "Ka Uruora Te Tauihu Housing Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://kauruora.nz/",
+  "email": "eseebeck@vbw.co.nz",
+  "address": {
+    "line1": "74 Waimea Road",
+    "line2": " ",
+    "suburb": "Nelson South",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kauruora",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T04:42:45Z"
+}

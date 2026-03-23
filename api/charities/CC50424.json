@@ -1,0 +1,27 @@
+{
+  "id": 34127,
+  "registrationNumber": "CC50424",
+  "name": "Furever Homes NZ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.facebook.com/fureverhomesnz",
+  "email": "lisa@jacksonsmith.co.nz",
+  "address": {
+    "line1": "102 Spey Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/fureverhomesnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T19:23:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65933,
+  "registrationNumber": "CC52198",
+  "name": "Christian Assembly of Auckland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-08-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "christianassemblyauckland@gmail.com",
+  "address": {
+    "line1": "Suite 1",
+    "line2": "100 Alexander Crescent",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": "9429043249855",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:21:12Z"
+}

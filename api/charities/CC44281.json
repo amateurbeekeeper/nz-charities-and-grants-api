@@ -1,0 +1,27 @@
+{
+  "id": 50507,
+  "registrationNumber": "CC44281",
+  "name": "Blenheim City C3 Church Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.c3blenheim.nz",
+  "email": "c3blenheim@gmail.com",
+  "address": {
+    "line1": "6 Moana Heights",
+    "line2": " ",
+    "suburb": "Waikawa",
+    "city": "Picton",
+    "postcode": "7220"
+  },
+  "nzbn": "9429043209132",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "C3 Church Blenheim",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T02:20:27Z"
+}

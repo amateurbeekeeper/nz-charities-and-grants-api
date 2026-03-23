@@ -1,0 +1,27 @@
+{
+  "id": 64580,
+  "registrationNumber": "CC37683",
+  "name": "New Zealand Wind Energy Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.windenergy.org.nz",
+  "email": "Kevin@nzwea.org.nz",
+  "address": {
+    "line1": "PO Box 21",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429043028108",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T23:29:47Z"
+}

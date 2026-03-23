@@ -1,0 +1,27 @@
+{
+  "id": 46470,
+  "registrationNumber": "CC40076",
+  "name": "Rahotu Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-14T00:00:00Z",
+  "website": "http://www.playcentre.org.nz/",
+  "email": "sanne.vanderzee@hotmail.com",
+  "address": {
+    "line1": "Surf Highway 45",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rahotu",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T07:15:28Z"
+}

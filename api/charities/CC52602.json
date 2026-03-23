@@ -1,0 +1,27 @@
+{
+  "id": 66334,
+  "registrationNumber": "CC52602",
+  "name": "Inner Wheel New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-11-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.innerwheel.org.nz",
+  "email": "treasurer@iwnz.org.nz",
+  "address": {
+    "line1": "1819 Waihue Road",
+    "line2": "RD 2",
+    "suburb": "Mamaranui",
+    "city": "Dargaville",
+    "postcode": "0372"
+  },
+  "nzbn": "9429043271689",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Inner Wheel New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T22:50:33Z"
+}

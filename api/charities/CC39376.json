@@ -1,0 +1,27 @@
+{
+  "id": 62101,
+  "registrationNumber": "CC39376",
+  "name": "The Ngati Toarangatira Ki Wairau Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chairperson@kiwairau.nz",
+  "address": {
+    "line1": "2650 State Highway 1",
+    "line2": "Blenheim 7201",
+    "suburb": "Grovetown",
+    "city": "Blenheim",
+    "postcode": "7202"
+  },
+  "nzbn": "9429042687580",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T03:21:15Z"
+}

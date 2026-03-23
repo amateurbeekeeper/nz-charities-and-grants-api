@@ -1,0 +1,27 @@
+{
+  "id": 64435,
+  "registrationNumber": "CC42882",
+  "name": "Wurld Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-11-18T00:00:00Z",
+  "dateDeregistered": "2015-02-02T00:00:00Z",
+  "website": "http://www.wurld.org.nz",
+  "email": "jared@wurld.org.nz",
+  "address": {
+    "line1": "91 Tindalls Bay Road",
+    "line2": null,
+    "suburb": "Tindalls Beach",
+    "city": "Whangaparaoa",
+    "postcode": "930"
+  },
+  "nzbn": "9429043200177",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:21:56Z"
+}

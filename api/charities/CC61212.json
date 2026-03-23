@@ -1,0 +1,27 @@
+{
+  "id": 74793,
+  "registrationNumber": "CC61212",
+  "name": "Lawrence Community Toy Library ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hayley.paul@gmail.com",
+  "address": {
+    "line1": "62 Whitehaven Street",
+    "line2": "Lawrence 9532",
+    "suburb": "Waitahuna",
+    "city": "Lawrence",
+    "postcode": "9532"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/lawrencetoylibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T19:12:35Z"
+}

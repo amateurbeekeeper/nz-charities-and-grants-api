@@ -1,0 +1,27 @@
+{
+  "id": 62195,
+  "registrationNumber": "CC30607",
+  "name": "Porangahau Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "porangahau@playcentre.org.nz",
+  "address": {
+    "line1": "53 Keppel Street",
+    "line2": "Pōrangahau 4291",
+    "suburb": " ",
+    "city": "Pōrangahau",
+    "postcode": "4291"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:09:13Z"
+}

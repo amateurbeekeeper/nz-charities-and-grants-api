@@ -1,0 +1,27 @@
+{
+  "id": 56774,
+  "registrationNumber": "CC22276",
+  "name": "New Zealand Paraplegic and Physically Disabled Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://paraloan.org.nz",
+  "email": "paraloan@xtra.co.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "48 Lismore Street",
+    "suburb": "Waltham",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042705505",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T18:40:09Z"
+}

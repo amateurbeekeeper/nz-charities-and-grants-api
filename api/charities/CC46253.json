@@ -1,0 +1,27 @@
+{
+  "id": 38109,
+  "registrationNumber": "CC46253",
+  "name": "Greerton Marist Recreation and Community Sports Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-02-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.greertonmaristnz.org.nz",
+  "email": "talorduncan@kpmg.co.nz",
+  "address": {
+    "line1": "90 Oropi Road",
+    "line2": " ",
+    "suburb": "Greerton",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042628965",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/greertonmaristnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T21:32:34Z"
+}

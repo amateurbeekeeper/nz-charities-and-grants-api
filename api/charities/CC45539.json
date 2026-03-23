@@ -1,0 +1,27 @@
+{
+  "id": 35933,
+  "registrationNumber": "CC45539",
+  "name": "The Otago University Medical Students' Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-10-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://oumsa.org/",
+  "email": "treasurer@oumsa.org",
+  "address": {
+    "line1": "PO Box 913",
+    "line2": null,
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9054"
+  },
+  "nzbn": "9429043118946",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/otagouniversitymedicalstudentsassociation/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T23:46:05Z"
+}

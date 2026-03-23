@@ -1,0 +1,27 @@
+{
+  "id": 61389,
+  "registrationNumber": "CC34126",
+  "name": "Body Positive - New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bodypositive.org.nz",
+  "email": "office@bodypositive.org.nz",
+  "address": {
+    "line1": "1/3 Poynton Terrace ",
+    "line2": " ",
+    "suburb": "Newton",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042598503",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/bodypositiveinc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-01-16T18:25:53Z"
+}

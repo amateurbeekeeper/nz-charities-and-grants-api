@@ -1,0 +1,27 @@
+{
+  "id": 66922,
+  "registrationNumber": "CC53205",
+  "name": "Transform Aotearoa Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.transformaotearoa.org.nz",
+  "email": "finance@transformaotearoa.org.nz",
+  "address": {
+    "line1": "32 Tirau Street",
+    "line2": "Putaruru 3411",
+    "suburb": " ",
+    "city": "Putaruru",
+    "postcode": "3411"
+  },
+  "nzbn": "9429043295838",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/transformaotearoa/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T22:36:47Z"
+}

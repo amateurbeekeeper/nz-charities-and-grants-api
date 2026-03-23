@@ -1,0 +1,27 @@
+{
+  "id": 55304,
+  "registrationNumber": "CC23366",
+  "name": "Milton Primary Home And School Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://milton.school.nz",
+  "email": "homeandschool@milton.school.nz",
+  "address": {
+    "line1": "CORONATION COURT",
+    "line2": "PO Box 73",
+    "suburb": " ",
+    "city": "Milton",
+    "postcode": "9241"
+  },
+  "nzbn": "9429043058228",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T19:27:50Z"
+}

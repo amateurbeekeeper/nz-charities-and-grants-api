@@ -1,0 +1,27 @@
+{
+  "id": 36539,
+  "registrationNumber": "CC47919",
+  "name": "GYMNASTICS NEW ZEALAND INCORPORATED",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-07-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gymnasticsnz.com/",
+  "email": "amy.booth@gymnasticsnz.com",
+  "address": {
+    "line1": "LEVEL2",
+    "line2": "6 Arawa Street",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042707189",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Gymnastics New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T00:38:12Z"
+}

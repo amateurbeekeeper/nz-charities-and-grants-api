@@ -1,0 +1,27 @@
+{
+  "id": 60224,
+  "registrationNumber": "CC27803",
+  "name": "Avon Toy Library Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2018-06-19T00:00:00Z",
+  "website": null,
+  "email": "thedarnells@gmail.com",
+  "address": {
+    "line1": "900 Avonside Drive",
+    "line2": "Avonside",
+    "suburb": null,
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429042588757",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-06-15T04:43:51Z"
+}

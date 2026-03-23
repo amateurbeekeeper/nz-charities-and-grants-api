@@ -1,0 +1,27 @@
+{
+  "id": 55867,
+  "registrationNumber": "CC22064",
+  "name": "Living Streets Aotearoa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.livingstreets.org.nz",
+  "email": "tjonescan@gmail.com",
+  "address": {
+    "line1": "87 Ellice Street",
+    "line2": " ",
+    "suburb": "Mount Victoria",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043019465",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZLivingStreets/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T06:48:49Z"
+}

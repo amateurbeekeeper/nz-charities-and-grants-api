@@ -1,0 +1,27 @@
+{
+  "id": 59827,
+  "registrationNumber": "CC28467",
+  "name": "The Aetherius Society",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aetherius.org.nz",
+  "email": "tanya@aetherius.org.nz",
+  "address": {
+    "line1": "269 Hinemoa Street",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "626"
+  },
+  "nzbn": "9429042572572",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AetheriusAuckland/ ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-30T19:16:02Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52582,
+  "registrationNumber": "CC22897",
+  "name": "Great Barrier Island Environmental Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gbiet.org",
+  "email": "contact.gbiet@gmail.com",
+  "address": {
+    "line1": "64 Mason Road",
+    "line2": "RD 1",
+    "suburb": "Great Barrier Island (aotea Island)",
+    "city": "Great Barrier Island",
+    "postcode": "0991"
+  },
+  "nzbn": "9429043022861",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "GreatBarrierIslandEnvironmentalTrust",
+    "twitter": "@GreatBarrierIslandEnvironmentTrust"
+  },
+  "lastUpdated": "2025-10-23T01:51:29Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 49074,
+  "registrationNumber": "CC32631",
+  "name": "City East Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.revivechurch.nz",
+  "email": "trust@revivechristchurch.org.nz",
+  "address": {
+    "line1": "110 - 118 Shortland Street",
+    "line2": " ",
+    "suburb": "Wainoni",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429042605959",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T06:15:03Z"
+}

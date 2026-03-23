@@ -1,0 +1,27 @@
+{
+  "id": 74340,
+  "registrationNumber": "CC60751",
+  "name": "Kaikoura Dark Sky Trust ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://kaikourasdarksky.nz",
+  "email": "kaikouradarksky@gmail.com",
+  "address": {
+    "line1": "96 West End",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaikōura",
+    "postcode": "7300"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DarkSkyKaikoura",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T06:55:19Z"
+}

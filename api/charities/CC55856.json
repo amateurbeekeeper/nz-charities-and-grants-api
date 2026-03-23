@@ -1,0 +1,27 @@
+{
+  "id": 69504,
+  "registrationNumber": "CC55856",
+  "name": "Reformed Church of Rangiora",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://rcr.org.nz",
+  "email": "treasurer@rcr.org.nz",
+  "address": {
+    "line1": "22 Rowse Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": "9429046656346",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:28:11Z"
+}

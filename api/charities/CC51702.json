@@ -1,0 +1,27 @@
+{
+  "id": 65463,
+  "registrationNumber": "CC51702",
+  "name": "Otautahi Creative Spaces Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-04-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://otautahicreativespaces.org.nz/",
+  "email": "kim@otautahicreativespaces.org.nz",
+  "address": {
+    "line1": "39 Nursery Road",
+    "line2": " ",
+    "suburb": "Phillipstown",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043275083",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ocstrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-14T19:23:20Z"
+}

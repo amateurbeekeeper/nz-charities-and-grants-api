@@ -1,0 +1,27 @@
+{
+  "id": 75602,
+  "registrationNumber": "CC62052",
+  "name": "New Zealand Assessment Institute Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-03-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzai.org.nz/",
+  "email": "m.absolum@evaluate.co.nz",
+  "address": {
+    "line1": "38 Beach Street",
+    "line2": "RD 2",
+    "suburb": "Sandspit",
+    "city": "Warkworth",
+    "postcode": "0982"
+  },
+  "nzbn": "9429051719708",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T19:00:13Z"
+}

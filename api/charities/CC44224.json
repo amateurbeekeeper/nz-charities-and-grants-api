@@ -1,0 +1,27 @@
+{
+  "id": 64192,
+  "registrationNumber": "CC44224",
+  "name": "WellSouth Primary Health Network",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wellsouth.org.nz",
+  "email": "AskFinance@wellsouth.org.nz",
+  "address": {
+    "line1": "Floor 1",
+    "line2": "333 Princes Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043213610",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T18:02:12Z"
+}

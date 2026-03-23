@@ -1,0 +1,27 @@
+{
+  "id": 69811,
+  "registrationNumber": "CC56165",
+  "name": "West Auckland Youth Development Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://westcityboxing.nz/",
+  "email": "matt@westcityboxing.nz",
+  "address": {
+    "line1": "Shop 5 - 333 Great North Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429047921108",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100067403972278",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T18:52:38Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48679,
+  "registrationNumber": "CC40473",
+  "name": "Southland Asthma Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "michael.walsh2@anz.com",
+  "address": {
+    "line1": "260 Lorne Dacre Road",
+    "line2": "RD 6",
+    "suburb": "Lorneville",
+    "city": "Invercargill",
+    "postcode": "9876"
+  },
+  "nzbn": "9429042725787",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Michael Walsh",
+    "twitter": "Michael Walsh"
+  },
+  "lastUpdated": "2025-10-23T02:24:54Z"
+}

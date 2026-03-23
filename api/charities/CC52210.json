@@ -1,0 +1,27 @@
+{
+  "id": 65951,
+  "registrationNumber": "CC52210",
+  "name": "Collingwood Health Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chantelle.warwick@xtra.co.nz",
+  "address": {
+    "line1": "50 Ruataniwha Drive",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Collingwood",
+    "postcode": "7073"
+  },
+  "nzbn": "9429043256662",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T03:38:39Z"
+}

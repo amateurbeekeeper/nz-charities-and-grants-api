@@ -1,0 +1,27 @@
+{
+  "id": 73460,
+  "registrationNumber": "CC59782",
+  "name": "O'Connor Family Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "simon@oconnorfoundation.co.nz",
+  "address": {
+    "line1": "Apartment 903",
+    "line2": "1 Market Lane",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-27T19:22:40Z"
+}

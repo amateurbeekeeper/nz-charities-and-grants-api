@@ -1,0 +1,27 @@
+{
+  "id": 46050,
+  "registrationNumber": "CC35431",
+  "name": "Opawa Lawn Tennis Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://clubspark.kiwi/opawalawntennisclub",
+  "email": "treasurer@opawatennis.org.nz",
+  "address": {
+    "line1": "16 Locarno Street",
+    "line2": " ",
+    "suburb": "Opawa",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429042775980",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T21:39:15Z"
+}

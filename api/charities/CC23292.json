@@ -1,0 +1,27 @@
+{
+  "id": 39771,
+  "registrationNumber": "CC23292",
+  "name": "The Mana Retreat Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.manaretreat.com",
+  "email": "finances@manaretreat.com",
+  "address": {
+    "line1": "608 Manaia Road",
+    "line2": "RD 1",
+    "suburb": "Manaia",
+    "city": "Coromandel",
+    "postcode": "3581"
+  },
+  "nzbn": "9429042780892",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/manaretreat",
+    "twitter": "https://twitter.com/manaretreat"
+  },
+  "lastUpdated": "2025-09-14T19:55:19Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50831,
+  "registrationNumber": "CC41929",
+  "name": "Nelson Central School Community Group",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-08-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nelsoncentral.school.nz",
+  "email": "scgtreasurer@nelsoncentral.school.nz",
+  "address": {
+    "line1": "70 Nile Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-28T21:29:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65756,
+  "registrationNumber": "CC52006",
+  "name": "Babystart Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.babystart.co.nz",
+  "email": "philip@babystart.co.nz",
+  "address": {
+    "line1": "6 Kingsford Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429043276240",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/babystartnz",
+    "twitter": "www.twitter.com/babystartnz"
+  },
+  "lastUpdated": "2025-09-30T19:08:11Z"
+}

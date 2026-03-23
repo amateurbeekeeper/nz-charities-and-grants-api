@@ -1,0 +1,27 @@
+{
+  "id": 74575,
+  "registrationNumber": "CC60994",
+  "name": "BANYUHAY AOTEAROA CHARITABLE TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.banyuhayaotearoa.org/",
+  "email": "Lois@banyuhayaotearoa.org",
+  "address": {
+    "line1": "25 Hair Street",
+    "line2": " ",
+    "suburb": "Wainuiomata",
+    "city": "Lower Hutt",
+    "postcode": "5014"
+  },
+  "nzbn": "9429050833412",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BanyuhayAotearoa",
+    "twitter": "@BanyuhayNZ"
+  },
+  "lastUpdated": "2026-01-07T07:26:36Z"
+}

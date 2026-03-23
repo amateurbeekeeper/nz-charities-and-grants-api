@@ -1,0 +1,27 @@
+{
+  "id": 42930,
+  "registrationNumber": "CC37238",
+  "name": "The Steve Crosby Memorial Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2011-07-10T00:00:00Z",
+  "website": null,
+  "email": "kcrosby@slingshot.co.nz",
+  "address": {
+    "line1": "68B Salisbury Road",
+    "line2": null,
+    "suburb": "Awapuni",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:46:23Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74641,
+  "registrationNumber": "CC61061",
+  "name": "Adhikaar Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.adhikaaraotearoa.co.nz",
+  "email": "vinod.bal@adhikaaraotearoa.co.nz",
+  "address": {
+    "line1": "Flat 7",
+    "line2": "28 Hobson Street",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429048918817",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/adhikaaraotearoa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T19:59:10Z"
+}

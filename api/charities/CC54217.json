@@ -1,0 +1,27 @@
+{
+  "id": 67910,
+  "registrationNumber": "CC54217",
+  "name": "Bay Conservation Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-02-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://bayconservation.nz",
+  "email": "secretary@bayconservation.nz",
+  "address": {
+    "line1": "55 Golf Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429043312559",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@bayconservation",
+    "twitter": "@bayconservation"
+  },
+  "lastUpdated": "2026-03-17T23:32:17Z"
+}

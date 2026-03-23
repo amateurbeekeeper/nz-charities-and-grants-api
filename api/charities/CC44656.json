@@ -1,0 +1,27 @@
+{
+  "id": 35571,
+  "registrationNumber": "CC44656",
+  "name": "Kairology Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kairology.com",
+  "email": "ian@kairology.com",
+  "address": {
+    "line1": "6 Jessie Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mapua",
+    "postcode": "7005"
+  },
+  "nzbn": "9429043209248",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:59:52Z"
+}

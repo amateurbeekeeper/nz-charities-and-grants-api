@@ -1,0 +1,27 @@
+{
+  "id": 72967,
+  "registrationNumber": "CC59365",
+  "name": "Science Kiwis Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sciencekiwis.org",
+  "email": "amanda@sciencekiwis.org",
+  "address": {
+    "line1": "22 High Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429049318968",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/ScienceKiwis/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-10-14T16:45:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75827,
+  "registrationNumber": "CC62282",
+  "name": "Breathing Space Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.breathingspace.org.nz",
+  "email": "asha@breathingspace.org.nz",
+  "address": {
+    "line1": "Suite 1, 20A Link Drive",
+    "line2": null,
+    "suburb": "Wairau Valley",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429051788223",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T03:37:44Z"
+}

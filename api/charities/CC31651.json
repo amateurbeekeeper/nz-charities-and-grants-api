@@ -1,0 +1,27 @@
+{
+  "id": 54776,
+  "registrationNumber": "CC31651",
+  "name": "Whanau Tahi Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@waiwhanau.com",
+  "address": {
+    "line1": "13 Edsel Street",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429038983368",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:38:44Z"
+}

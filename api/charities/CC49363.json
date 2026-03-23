@@ -1,0 +1,27 @@
+{
+  "id": 34915,
+  "registrationNumber": "CC49363",
+  "name": "Friends of the Globe Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.globetheatre.org.nz",
+  "email": "treasurer@globetheatre.org.nz",
+  "address": {
+    "line1": "104 London Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042702757",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/globetheatredunedin",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T08:42:04Z"
+}

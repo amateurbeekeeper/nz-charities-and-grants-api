@@ -1,0 +1,27 @@
+{
+  "id": 69313,
+  "registrationNumber": "CC55665",
+  "name": "Manawatu Alley Cat Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.manawatualleycattrust.org.nz",
+  "email": "admin@manawatualleycattrust.org.nz",
+  "address": {
+    "line1": "15 Highbury Avenue",
+    "line2": null,
+    "suburb": "Highbury",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Manawatu-Alley-Cat-Trust-183454205349356/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T19:29:31Z"
+}

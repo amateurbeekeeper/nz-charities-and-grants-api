@@ -1,0 +1,27 @@
+{
+  "id": 38808,
+  "registrationNumber": "CC48248",
+  "name": "New Zealand Deerstalkers' Association (North Canterbury Branch) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-09-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nzdacanterbury.org/",
+  "email": "northcanterbury@deerstalkers.org.nz",
+  "address": {
+    "line1": "599 McLeans Island Road",
+    "line2": "Lincoln 7608",
+    "suburb": "McLeans Island",
+    "city": "Christchurch",
+    "postcode": "7676"
+  },
+  "nzbn": "9429042676829",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NCNZDA/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:10:40Z"
+}

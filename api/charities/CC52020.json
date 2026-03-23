@@ -1,0 +1,27 @@
+{
+  "id": 65769,
+  "registrationNumber": "CC52020",
+  "name": "Environment Hubs Aotearoa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.environmenthubs.nz",
+  "email": "eo@environmenthubs.nz",
+  "address": {
+    "line1": "117 Bridge Road",
+    "line2": "RD 7",
+    "suburb": " ",
+    "city": "Pahiatua",
+    "postcode": "4987"
+  },
+  "nzbn": "9429043273164",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EnvironmentHubsAotearoa",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-05T05:09:12Z"
+}

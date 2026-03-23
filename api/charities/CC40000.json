@@ -1,0 +1,27 @@
+{
+  "id": 64319,
+  "registrationNumber": "CC40000",
+  "name": "Churchill Park School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.churchillpark.school.nz",
+  "email": "kirstydinsdale@hotmail.com",
+  "address": {
+    "line1": "41 Kinsale Avenue",
+    "line2": " ",
+    "suburb": "Glendowie",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T00:20:26Z"
+}

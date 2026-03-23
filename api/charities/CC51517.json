@@ -1,0 +1,27 @@
+{
+  "id": 65291,
+  "registrationNumber": "CC51517",
+  "name": "Wanganui Grace Presbyterian Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-04-02T00:00:00Z",
+  "dateDeregistered": "2018-11-15T00:00:00Z",
+  "website": null,
+  "email": "nocharityemail@dia.govt.nz",
+  "address": {
+    "line1": "90 Gonville Avenue",
+    "line2": null,
+    "suburb": "Gonville",
+    "city": "Wanganui",
+    "postcode": "4501"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-11-14T21:51:57Z"
+}

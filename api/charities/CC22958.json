@@ -1,0 +1,27 @@
+{
+  "id": 54734,
+  "registrationNumber": "CC22958",
+  "name": "Whangarei Camera Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://whgcameraclub.org.nz",
+  "email": "rosetan@xtra.co.nz",
+  "address": {
+    "line1": "280 Harris Road",
+    "line2": "RD 5",
+    "suburb": "Glenbervie",
+    "city": "Whangarei",
+    "postcode": "0175"
+  },
+  "nzbn": "9429042926832",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Whangarei Camera Club",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T00:24:33Z"
+}

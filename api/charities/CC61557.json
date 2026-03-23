@@ -1,0 +1,27 @@
+{
+  "id": 75123,
+  "registrationNumber": "CC61557",
+  "name": "Quality Events Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "joe@touchnz.co.nz",
+  "address": {
+    "line1": "Unit 3",
+    "line2": "517 Mount Wellington Highway",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429051387815",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T20:03:09Z"
+}

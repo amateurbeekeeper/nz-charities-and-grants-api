@@ -1,0 +1,27 @@
+{
+  "id": 58074,
+  "registrationNumber": "CC27241",
+  "name": "John F Kennedy Memorial Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.fulbright.org.nz",
+  "email": "accounts@fulbright.org.nz",
+  "address": {
+    "line1": "26 The Terrace",
+    "line2": "120 Featherston Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-20T19:16:29Z"
+}

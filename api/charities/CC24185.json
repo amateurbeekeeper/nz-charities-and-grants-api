@@ -1,0 +1,27 @@
+{
+  "id": 53936,
+  "registrationNumber": "CC24185",
+  "name": "Greymouth District Uniting Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "greymouthuniting.nz",
+  "email": "helen_mcmillan@xtra.co.nz",
+  "address": {
+    "line1": "203 Tainui Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T20:22:36Z"
+}

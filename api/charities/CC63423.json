@@ -1,0 +1,27 @@
+{
+  "id": 77628,
+  "registrationNumber": "CC63423",
+  "name": "Living Waters International Christian Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.livingwaterschurch.org.nz/",
+  "email": "prasath.jayakaran@gmail.com",
+  "address": {
+    "line1": "1 St Andrew Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/lwicc.dunedin",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-02T04:03:13Z"
+}

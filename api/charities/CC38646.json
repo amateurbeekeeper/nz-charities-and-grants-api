@@ -1,0 +1,27 @@
+{
+  "id": 63376,
+  "registrationNumber": "CC38646",
+  "name": "Yaldhurst School Tōtara Tūkaha PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta@yaldhurst.school.nz",
+  "address": {
+    "line1": "48 School Road",
+    "line2": "RD 6",
+    "suburb": "Yaldhurst",
+    "city": "Christchurch",
+    "postcode": "7676"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/YMSPTA/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T00:26:39Z"
+}

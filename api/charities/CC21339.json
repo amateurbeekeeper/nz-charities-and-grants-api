@@ -1,0 +1,27 @@
+{
+  "id": 54975,
+  "registrationNumber": "CC21339",
+  "name": "Hundred Acre Preschool Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hundredacrepreschool.co.nz",
+  "email": "hundredacrepreschool@xtra.co.nz",
+  "address": {
+    "line1": "98 Heads Road",
+    "line2": " ",
+    "suburb": "Gonville",
+    "city": "Wanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429042908302",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Hundred Acre Preschool",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T01:41:15Z"
+}

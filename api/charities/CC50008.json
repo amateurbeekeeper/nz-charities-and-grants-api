@@ -1,0 +1,27 @@
+{
+  "id": 33228,
+  "registrationNumber": "CC50008",
+  "name": "Auckland Malayali Samajam Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-08-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandmalayalisamajam.org.nz",
+  "email": "Secretary@aucklandmalayalisamajam.org.nz",
+  "address": {
+    "line1": "PO Box 24526",
+    "line2": " ",
+    "suburb": "Royal Oak",
+    "city": "Auckland",
+    "postcode": "1345"
+  },
+  "nzbn": "9429043256112",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Auckland-Malayali-Samajam-Incorporated-284206978416009/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T21:31:12Z"
+}

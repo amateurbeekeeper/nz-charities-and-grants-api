@@ -1,0 +1,27 @@
+{
+  "id": 36324,
+  "registrationNumber": "CC46218",
+  "name": "Arai Te Uru Kokiri Centre Charitable  Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-02-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kokiricentre.co.nz",
+  "email": "manager@kokiricentre.co.nz",
+  "address": {
+    "line1": "PO Box 5720",
+    "line2": null,
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9054"
+  },
+  "nzbn": "9429043096152",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kokiricentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T23:16:47Z"
+}

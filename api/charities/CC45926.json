@@ -1,0 +1,27 @@
+{
+  "id": 38213,
+  "registrationNumber": "CC45926",
+  "name": "The Greenlea Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-12-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "james@egan.co.nz",
+  "address": {
+    "line1": "247 Kahikatea Drive",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043216079",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T01:42:39Z"
+}

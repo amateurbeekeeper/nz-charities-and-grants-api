@@ -1,0 +1,27 @@
+{
+  "id": 65127,
+  "registrationNumber": "CC35470",
+  "name": "Taranaki Community Rugby Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tcrt.co.nz/",
+  "email": "Paul.Petrowski@unlimit.co.nz",
+  "address": {
+    "line1": "C/- Paul Petrowski Velocite Ltd",
+    "line2": "Level 7, 54 Gill Street",
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043092765",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:14:01Z"
+}

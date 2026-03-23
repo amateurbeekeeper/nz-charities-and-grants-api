@@ -1,0 +1,27 @@
+{
+  "id": 35966,
+  "registrationNumber": "CC45388",
+  "name": "Waiheke Island Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-09-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waiheketoylibrary.co.nz",
+  "email": "david.sandi@shillington.co.nz",
+  "address": {
+    "line1": "4-6 Hamilton Road",
+    "line2": " ",
+    "suburb": "Surfdale",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429043074198",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WaihekeToyLibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T08:10:36Z"
+}

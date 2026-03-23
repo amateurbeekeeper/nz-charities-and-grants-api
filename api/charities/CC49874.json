@@ -1,0 +1,27 @@
+{
+  "id": 36304,
+  "registrationNumber": "CC49874",
+  "name": "Wai Ora Marae Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-10-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "waioramarae@gmail.com",
+  "address": {
+    "line1": "5284 Far North Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ngataki",
+    "postcode": "0484"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waiora Marae, Ngataki",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T18:13:19Z"
+}

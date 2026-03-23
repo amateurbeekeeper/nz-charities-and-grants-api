@@ -1,0 +1,27 @@
+{
+  "id": 49949,
+  "registrationNumber": "CC27972",
+  "name": "Inglewood Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cam.gillespie@xtra.co.nz",
+  "address": {
+    "line1": "37 Richmond Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Inglewood",
+    "postcode": "4330"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T02:01:22Z"
+}

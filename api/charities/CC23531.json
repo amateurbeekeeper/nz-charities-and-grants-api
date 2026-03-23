@@ -1,0 +1,27 @@
+{
+  "id": 41013,
+  "registrationNumber": "CC23531",
+  "name": "Waitaki Resource Recovery Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://resourcewaitaki.co.nz",
+  "email": "Trish@resourcewaitaki.co.nz",
+  "address": {
+    "line1": "42 Chelmer Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429043022830",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T19:18:16Z"
+}

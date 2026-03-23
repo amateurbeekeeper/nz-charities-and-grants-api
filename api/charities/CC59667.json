@@ -1,0 +1,27 @@
+{
+  "id": 73267,
+  "registrationNumber": "CC59667",
+  "name": "PKF New Zealand Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cathy.boyd@pkf.co.nz",
+  "address": {
+    "line1": "51 Flower Street",
+    "line2": " ",
+    "suburb": "Fairfield",
+    "city": "Dunedin",
+    "postcode": "9018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pkfnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T21:06:08Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52636,
+  "registrationNumber": "CC11317",
+  "name": "Volunteer South Trust | Kaitūao o te Taitonga",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.volunteersouth.org.nz",
+  "email": "sarah@volunteersouth.org.nz",
+  "address": {
+    "line1": "Dunedin Community House",
+    "line2": " 43 Princes Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042714354",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/VolunteerSouth",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T19:34:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43271,
+  "registrationNumber": "CC35531",
+  "name": "Waihopai Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-23T00:00:00Z",
+  "website": "www.playcentre.org.nz",
+  "email": "waihopai@playcentre.org.nz",
+  "address": {
+    "line1": "98 Layard Street",
+    "line2": " ",
+    "suburb": "Windsor",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "waihopai playcentre",
+    "twitter": "Amy Rosario"
+  },
+  "lastUpdated": "2025-11-06T06:03:35Z"
+}

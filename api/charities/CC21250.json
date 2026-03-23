@@ -1,0 +1,27 @@
+{
+  "id": 54236,
+  "registrationNumber": "CC21250",
+  "name": "The Sir George Elliot Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.elliottrust.org.nz/",
+  "email": "sharon.cornwell@martellimckegg.co.nz",
+  "address": {
+    "line1": "Martelli McKegg Lawyers",
+    "line2": "Level 20, 188 Quay Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042888673",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:42:05Z"
+}

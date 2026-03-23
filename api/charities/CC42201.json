@@ -1,0 +1,27 @@
+{
+  "id": 50881,
+  "registrationNumber": "CC42201",
+  "name": "Auckland Arya Samaj Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aryasamajnz.org",
+  "email": "sudish.kumar.aasi@gmail.com",
+  "address": {
+    "line1": "32 Glasgow Avenue",
+    "line2": "32 Glasgow Avenue",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042584643",
+  "financialYearEnd": "13/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T03:59:59Z"
+}

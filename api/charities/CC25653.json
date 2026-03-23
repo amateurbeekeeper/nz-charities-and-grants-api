@@ -1,0 +1,27 @@
+{
+  "id": 41914,
+  "registrationNumber": "CC25653",
+  "name": "Alzheimers Otago Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://alzheimersotago.org.nz",
+  "email": "manager@alzheimersotago.org.nz",
+  "address": {
+    "line1": "Burns House ",
+    "line2": " 10 George Street ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042576075",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/alzheimersotago",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T00:42:16Z"
+}

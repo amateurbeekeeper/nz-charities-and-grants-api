@@ -1,0 +1,27 @@
+{
+  "id": 54284,
+  "registrationNumber": "CC21333",
+  "name": "The Gifted Education Centre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-02-24T00:00:00Z",
+  "dateDeregistered": "2017-11-30T00:00:00Z",
+  "website": "http://www.giftededucation.org.nz",
+  "email": "aliisabob@orcon.net.nz",
+  "address": {
+    "line1": "9 Croydon Road",
+    "line2": null,
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "600"
+  },
+  "nzbn": "9429042976066",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-06-13T00:54:13Z"
+}

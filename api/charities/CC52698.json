@@ -1,0 +1,27 @@
+{
+  "id": 66428,
+  "registrationNumber": "CC52698",
+  "name": "Anglican Diocese of Christchurch - Parish of Riccarton-Spreydon",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "russellgoodbrand@me.com",
+  "address": {
+    "line1": "50 Lincoln Road",
+    "line2": " ",
+    "suburb": "Hillmorton",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-31T19:45:04Z"
+}

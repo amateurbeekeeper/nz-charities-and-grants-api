@@ -1,0 +1,27 @@
+{
+  "id": 42324,
+  "registrationNumber": "CC24934",
+  "name": "Putāruru Gospel Chapel",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.putarurugospelchapel.com",
+  "email": "ajxbie@farmside.co.nz",
+  "address": {
+    "line1": "86 Kensington Street",
+    "line2": " ",
+    "suburb": "Putāruru",
+    "city": "Putaruru",
+    "postcode": "3411"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-10T19:35:08Z"
+}

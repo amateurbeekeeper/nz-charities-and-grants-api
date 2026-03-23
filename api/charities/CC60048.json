@@ -1,0 +1,27 @@
+{
+  "id": 73657,
+  "registrationNumber": "CC60048",
+  "name": "Te Kāhui Manu Tītī Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pip@whiriateao.com",
+  "address": {
+    "line1": "2 Fox Street",
+    "line2": " ",
+    "suburb": "Avenal",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429050344291",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T00:45:14Z"
+}

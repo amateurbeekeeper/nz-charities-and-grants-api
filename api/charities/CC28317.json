@@ -1,0 +1,27 @@
+{
+  "id": 49149,
+  "registrationNumber": "CC28317",
+  "name": "Darfield Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Joost.kepers@fireandemergency.nz",
+  "address": {
+    "line1": "21 North Terrace",
+    "line2": null,
+    "suburb": " ",
+    "city": "Darfield",
+    "postcode": "7510"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-16T19:07:19Z"
+}

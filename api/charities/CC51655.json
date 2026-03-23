@@ -1,0 +1,27 @@
+{
+  "id": 65420,
+  "registrationNumber": "CC51655",
+  "name": "Tapanui Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurercotw@gmail.com",
+  "address": {
+    "line1": "11 Sussex Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tapanui",
+    "postcode": "9522"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T21:02:36Z"
+}

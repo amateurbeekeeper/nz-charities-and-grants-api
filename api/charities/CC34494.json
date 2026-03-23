@@ -1,0 +1,27 @@
+{
+  "id": 49674,
+  "registrationNumber": "CC34494",
+  "name": "Whitianga Volunteer Coastguard Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.whitiangacoastguard.co.nz",
+  "email": "info@whitiangacoastguard.co.nz",
+  "address": {
+    "line1": "86C Albert Street",
+    "line2": "Whitianga 3510",
+    "suburb": "Whitianga",
+    "city": "Whitianga",
+    "postcode": "3510"
+  },
+  "nzbn": "9429042904533",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Coastguard Whitianga",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T21:41:30Z"
+}

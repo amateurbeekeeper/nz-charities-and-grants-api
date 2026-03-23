@@ -1,0 +1,27 @@
+{
+  "id": 66635,
+  "registrationNumber": "CC52909",
+  "name": "Food Finders Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-12-21T00:00:00Z",
+  "dateDeregistered": "2016-04-17T00:00:00Z",
+  "website": "www.foodfinders.nz",
+  "email": "foodfinders.newzealand@gmail.com",
+  "address": {
+    "line1": "27A Hoskins Road",
+    "line2": "RD5",
+    "suburb": "Matapihi",
+    "city": "Tauranga",
+    "postcode": "3175"
+  },
+  "nzbn": "9429043295302",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T04:28:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48413,
+  "registrationNumber": "CC30615",
+  "name": "Akaroa Community Arts Council",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://akaroaarts.co.nz",
+  "email": "katluper@gmail.com",
+  "address": {
+    "line1": "37 Rue Balguerie",
+    "line2": null,
+    "suburb": " ",
+    "city": "Akaroa",
+    "postcode": "7520"
+  },
+  "nzbn": "9429043186174",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AkaroaCommunityArtsCouncil/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T05:13:08Z"
+}

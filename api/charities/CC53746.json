@@ -1,0 +1,27 @@
+{
+  "id": 67456,
+  "registrationNumber": "CC53746",
+  "name": "Te Riu O Waiapu Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chair.teriuowaiapu@gmail.com",
+  "address": {
+    "line1": "25 Rangitukia Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Tikitiki",
+    "postcode": "4087"
+  },
+  "nzbn": "9429046987044",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Waiapu/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T04:21:59Z"
+}

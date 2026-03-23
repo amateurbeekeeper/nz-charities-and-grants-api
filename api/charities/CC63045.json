@@ -1,0 +1,27 @@
+{
+  "id": 77055,
+  "registrationNumber": "CC63045",
+  "name": "Selwyn Sings Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.selwynsings.org.nz/",
+  "email": "caelanpthomas@gmail.com",
+  "address": {
+    "line1": "16 Cressida Close",
+    "line2": null,
+    "suburb": null,
+    "city": "Rolleston",
+    "postcode": "7614"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T18:47:43Z"
+}

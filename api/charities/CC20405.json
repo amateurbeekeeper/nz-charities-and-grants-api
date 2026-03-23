@@ -1,0 +1,27 @@
+{
+  "id": 53662,
+  "registrationNumber": "CC20405",
+  "name": "Colville Junction Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.colvillejunction.co.nz/",
+  "email": "manager@colvillejunction.co.nz",
+  "address": {
+    "line1": "2311 Colville Road",
+    "line2": "RD4",
+    "suburb": " ",
+    "city": "Coromandel",
+    "postcode": "3584"
+  },
+  "nzbn": "9429042956068",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ColvilleJunction",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:30:51Z"
+}

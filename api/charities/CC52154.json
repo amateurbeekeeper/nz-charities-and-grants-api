@@ -1,0 +1,27 @@
+{
+  "id": 65891,
+  "registrationNumber": "CC52154",
+  "name": "Mana o te Tangata Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-07-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.manaotetangata.org.nz",
+  "email": "leilani@manaotetangata.org.nz",
+  "address": {
+    "line1": "601A Featherston Street",
+    "line2": " ",
+    "suburb": "Roslyn",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429043269174",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T04:09:47Z"
+}

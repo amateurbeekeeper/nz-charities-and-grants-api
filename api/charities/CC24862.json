@@ -1,0 +1,27 @@
+{
+  "id": 40530,
+  "registrationNumber": "CC24862",
+  "name": "The Potter's House Christian Church Hamilton",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.thepottershousehamiltonnz.com",
+  "email": "hamilton.cfm@xtra.co.nz",
+  "address": {
+    "line1": "46 Silva Crescent",
+    "line2": " ",
+    "suburb": "Riverlea",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:52:54Z"
+}

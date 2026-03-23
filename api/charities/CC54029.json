@@ -1,0 +1,27 @@
+{
+  "id": 67722,
+  "registrationNumber": "CC54029",
+  "name": "Mastering Mountains Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.masteringmountains.org.nz",
+  "email": "nick@masteringmountains.org.nz",
+  "address": {
+    "line1": "Unit 6",
+    "line2": "555 Manchester Street",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429043273713",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/masteringmountains",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T21:37:39Z"
+}

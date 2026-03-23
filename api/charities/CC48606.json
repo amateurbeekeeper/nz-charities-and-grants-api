@@ -1,0 +1,27 @@
+{
+  "id": 32838,
+  "registrationNumber": "CC48606",
+  "name": "Ngaio School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngaio.school.nz/about/parent-teacher-association",
+  "email": "pta@ngaio.school.nz",
+  "address": {
+    "line1": "Ngaio School",
+    "line2": "Abbot Street",
+    "suburb": "Ngaio",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ngaio School PTA",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-03T19:21:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67415,
+  "registrationNumber": "CC53705",
+  "name": "Elder Care Volunteers",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.eldercarevolunteers.org.nz",
+  "email": "info@eldercarevolunteers.org.nz",
+  "address": {
+    "line1": "9B Warborough Avenue",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429051971892",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/eldercarevolunteers",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-21T19:48:51Z"
+}

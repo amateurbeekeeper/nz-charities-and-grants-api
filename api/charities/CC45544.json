@@ -1,0 +1,27 @@
+{
+  "id": 38638,
+  "registrationNumber": "CC45544",
+  "name": "St Andrews Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-10-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jenny.sharp@xtra.co.nz",
+  "address": {
+    "line1": "34 Heath Street",
+    "line2": " ",
+    "suburb": "Saint Andrews",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:10:03Z"
+}

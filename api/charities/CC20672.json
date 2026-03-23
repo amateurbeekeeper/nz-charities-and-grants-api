@@ -1,0 +1,27 @@
+{
+  "id": 54183,
+  "registrationNumber": "CC20672",
+  "name": "Netherville Retirement Village Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nethervillevillage@xtra.co.nz",
+  "address": {
+    "line1": "4 Admiral Crescent",
+    "line2": " ",
+    "suburb": "Flagstaff",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429042677604",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T21:29:08Z"
+}

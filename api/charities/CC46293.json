@@ -1,0 +1,27 @@
+{
+  "id": 50549,
+  "registrationNumber": "CC46293",
+  "name": "The Wigram Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@wigramcap.com",
+  "address": {
+    "line1": "Plaza Level",
+    "line2": "AIG Building, 41 Shortland Streeet",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T05:25:16Z"
+}

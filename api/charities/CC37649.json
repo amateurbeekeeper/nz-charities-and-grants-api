@@ -1,0 +1,27 @@
+{
+  "id": 54820,
+  "registrationNumber": "CC37649",
+  "name": "Youth Hostels Association Of New Zealand Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-07-21T00:00:00Z",
+  "website": "http://www.yha.co.nz",
+  "email": "chris.sperring@yha.co.nz",
+  "address": {
+    "line1": "21 Joyce Crescent",
+    "line2": " ",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042928065",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/YHANewZealand",
+    "twitter": "https://twitter.com/yhanewzealand"
+  },
+  "lastUpdated": "2025-08-06T07:10:56Z"
+}

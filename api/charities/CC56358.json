@@ -1,0 +1,27 @@
+{
+  "id": 69994,
+  "registrationNumber": "CC56358",
+  "name": "The King's Trust Aotearoa New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-11-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kingstrust.org.nz",
+  "email": "rod.baxter@kingstrust.org.nz",
+  "address": {
+    "line1": "Level 37, PWC Tower",
+    "line2": "15 Customs St West",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429046959720",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "kingstrustnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T02:04:02Z"
+}

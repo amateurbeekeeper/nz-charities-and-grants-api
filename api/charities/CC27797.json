@@ -1,0 +1,27 @@
+{
+  "id": 60164,
+  "registrationNumber": "CC27797",
+  "name": "Hosanna Korean Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nzhosanna@gmail.com",
+  "address": {
+    "line1": "100C Axtens Road",
+    "line2": "RD 1",
+    "suburb": "Mangatawhiri",
+    "city": "Auckland",
+    "postcode": "2675"
+  },
+  "nzbn": "9429043046638",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:04:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33176,
+  "registrationNumber": "CC49769",
+  "name": "ALLIANCE FRANCAISE DE HAMILTON INCORPORATED",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-10-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.afhamilton.org.nz",
+  "email": "alliancefrancaisehamilton@gmail.com",
+  "address": {
+    "line1": "Suite 4",
+    "line2": "Reid House, 114 Alexandra St",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043209538",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/AF.Hamilton.NZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T02:11:34Z"
+}

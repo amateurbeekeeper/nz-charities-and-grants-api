@@ -1,0 +1,27 @@
+{
+  "id": 49740,
+  "registrationNumber": "CC40418",
+  "name": "Seatoun Association Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sporty.co.nz/seatounafc",
+  "email": "admin@seatounafc.co.nz",
+  "address": {
+    "line1": "Ludlam Street",
+    "line2": " ",
+    "suburb": "Seatoun",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429042740551",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SeatounAFC",
+    "twitter": "@SeatounAFC"
+  },
+  "lastUpdated": "2025-05-18T20:15:33Z"
+}

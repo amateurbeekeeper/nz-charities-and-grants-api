@@ -1,0 +1,27 @@
+{
+  "id": 53001,
+  "registrationNumber": "CC26938",
+  "name": "Tokoroa Arts Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bev.westbrooke@gmail.com",
+  "address": {
+    "line1": "C/-",
+    "line2": "76 Arthur Street",
+    "suburb": " ",
+    "city": "Tokoroa",
+    "postcode": "3420"
+  },
+  "nzbn": "9429042892496",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T04:15:09Z"
+}

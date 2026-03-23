@@ -1,0 +1,27 @@
+{
+  "id": 44916,
+  "registrationNumber": "CC41879",
+  "name": "NZ Chinese Mission Church Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzcmc.org.nz",
+  "email": "magafei@protonmail.com",
+  "address": {
+    "line1": "161 Trafalgar Street",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042791355",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzcmc/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-14T21:56:23Z"
+}

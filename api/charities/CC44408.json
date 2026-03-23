@@ -1,0 +1,27 @@
+{
+  "id": 50650,
+  "registrationNumber": "CC44408",
+  "name": "New Hope Chinese Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jiedengnz@hotmail.com",
+  "address": {
+    "line1": "35 Namata Road",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042925750",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-16T02:04:40Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67661,
+  "registrationNumber": "CC53966",
+  "name": "International Baptist Church Central",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-12-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ibccentral.nz",
+  "email": "erwin.ibc@xtra.co.nz",
+  "address": {
+    "line1": "540E Mount Albert Road",
+    "line2": " Three Kings Plaza ",
+    "suburb": "Three Kings",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429046075765",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "International Baptist Church Central ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T18:20:26Z"
+}

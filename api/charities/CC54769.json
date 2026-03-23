@@ -1,0 +1,27 @@
+{
+  "id": 68441,
+  "registrationNumber": "CC54769",
+  "name": "Love Soup Whangarei",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-09-08T00:00:00Z",
+  "dateDeregistered": "2020-10-07T00:00:00Z",
+  "website": "https://lovesoup.org.nz",
+  "email": "lovesoupnz@gmail.com",
+  "address": {
+    "line1": "22 Park Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hikurangi",
+    "postcode": "0114"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/soupkitchenwhangarei",
+    "twitter": null
+  },
+  "lastUpdated": "2020-10-23T02:07:23Z"
+}

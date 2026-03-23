@@ -1,0 +1,27 @@
+{
+  "id": 51542,
+  "registrationNumber": "CC22175",
+  "name": "The Youth and Cultural Development Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ycd.co.nz",
+  "email": "fredw@ycd.co.nz",
+  "address": {
+    "line1": "301 Cashel Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042971573",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Y.C.D.",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T18:28:31Z"
+}

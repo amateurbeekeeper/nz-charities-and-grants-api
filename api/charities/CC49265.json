@@ -1,0 +1,27 @@
+{
+  "id": 35053,
+  "registrationNumber": "CC49265",
+  "name": "West City Music Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.westcitymusic.org.nz",
+  "email": "secretary@westcitymusic.org.nz",
+  "address": {
+    "line1": "786 South Titirangi Road",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429042909019",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/westcityband",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T02:35:30Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72643,
+  "registrationNumber": "CC59036",
+  "name": "Central Football Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-04-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "johnm@centralfootball.co.nz",
+  "address": {
+    "line1": "46 Clyde Jeffery Drive",
+    "line2": "Hawkes Bay Mail Centre",
+    "suburb": "Poraiti",
+    "city": "Napier",
+    "postcode": "4182"
+  },
+  "nzbn": "9429048869720",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T00:26:33Z"
+}

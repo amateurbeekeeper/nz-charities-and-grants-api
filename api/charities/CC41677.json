@@ -1,0 +1,27 @@
+{
+  "id": 63290,
+  "registrationNumber": "CC41677",
+  "name": "Manurewa Crimewatch Patrol Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-08-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.crimewatchpatrols.nz/manurewa-crime-watch-patrol",
+  "email": "toa@xtra.co.nz",
+  "address": {
+    "line1": "14 Halver Road",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": "9429043141456",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/manurewacrimewatchpatrol",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:45:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 47181,
+  "registrationNumber": "CC38744",
+  "name": "Hearts Aflame Catholic Summer School",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-03-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.heartsaflame.org.nz",
+  "email": "finance@heartsaflame.org.nz",
+  "address": {
+    "line1": "12 Ranginui Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaiapoi",
+    "postcode": "7630"
+  },
+  "nzbn": "9429049505863",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:31:09Z"
+}

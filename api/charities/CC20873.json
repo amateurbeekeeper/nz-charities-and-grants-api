@@ -1,0 +1,27 @@
+{
+  "id": 55131,
+  "registrationNumber": "CC20873",
+  "name": "The Hamilton Methodist Social Services Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hmss.org.nz",
+  "email": "aroha.blossom@gmail.com",
+  "address": {
+    "line1": "62 London Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043050956",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/Methodist-City-Action-1142049765885340",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T22:11:17Z"
+}

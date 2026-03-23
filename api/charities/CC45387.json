@@ -1,0 +1,27 @@
+{
+  "id": 36207,
+  "registrationNumber": "CC45387",
+  "name": "North City Country Music Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-09-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "northcitycountrymusicclub@gmail.com",
+  "address": {
+    "line1": "13 Moult Street",
+    "line2": " ",
+    "suburb": "Titahi Bay",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429043207107",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T03:06:19Z"
+}

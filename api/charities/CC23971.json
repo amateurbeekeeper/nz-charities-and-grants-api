@@ -1,0 +1,27 @@
+{
+  "id": 40942,
+  "registrationNumber": "CC23971",
+  "name": "Tauranga Community Housing Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "tcht.co",
+  "email": "tracyr@tcht.org.nz",
+  "address": {
+    "line1": "40 Second Avenue",
+    "line2": "Tauranga 3110",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043107254",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T23:18:19Z"
+}

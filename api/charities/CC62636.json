@@ -1,0 +1,27 @@
+{
+  "id": 76277,
+  "registrationNumber": "CC62636",
+  "name": "Woodlands Grace Presbyterian Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://woodlandschurch.co.nz",
+  "email": "lamont.rhys@gmail.com",
+  "address": {
+    "line1": "145 Bainfield Road",
+    "line2": " ",
+    "suburb": "Waikiwi",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/woodlandschurchnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-19T20:47:40Z"
+}

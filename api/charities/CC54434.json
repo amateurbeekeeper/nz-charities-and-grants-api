@@ -1,0 +1,27 @@
+{
+  "id": 68107,
+  "registrationNumber": "CC54434",
+  "name": "Te Ao Āpōpō",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-03-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sophocrat@gmail.com",
+  "address": {
+    "line1": "Flat 3",
+    "line2": "65 Highbury Road",
+    "suburb": "Highbury",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043255993",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-08T20:57:59Z"
+}

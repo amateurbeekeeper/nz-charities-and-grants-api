@@ -1,0 +1,27 @@
+{
+  "id": 69452,
+  "registrationNumber": "CC55803",
+  "name": "Sikh Aware",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-06-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sikhaware.org.nz",
+  "email": "harpreetsingh.nzl@gmail.com",
+  "address": {
+    "line1": "25A Arrowsmith Drive",
+    "line2": " ",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": "9429046814173",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "fb.me/sikhawarenz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T21:48:29Z"
+}

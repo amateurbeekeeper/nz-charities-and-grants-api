@@ -1,0 +1,27 @@
+{
+  "id": 42048,
+  "registrationNumber": "CC35223",
+  "name": "Marlborough Community Law Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www,commlawmarlb.org.nz",
+  "email": "Stephanie@commlawmarlb.org.nz",
+  "address": {
+    "line1": "1 Market Street",
+    "line2": "Blenheim 7201",
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429042987710",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T01:48:27Z"
+}

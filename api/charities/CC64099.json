@@ -1,0 +1,27 @@
+{
+  "id": 78295,
+  "registrationNumber": "CC64099",
+  "name": "Twin Oaks Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-11-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tuhi@icloud.com",
+  "address": {
+    "line1": "3A Epworth Avenue",
+    "line2": " ",
+    "suburb": "Royal Oak",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T22:38:24Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44001,
+  "registrationNumber": "CC28780",
+  "name": "Kerikeri Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "les.wasson@fireandemergency.nz",
+  "address": {
+    "line1": "5 Cobham Road",
+    "line2": "Kerikeri 0230",
+    "suburb": "Kerikeri",
+    "city": "Kerikeri",
+    "postcode": "0230"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T23:14:43Z"
+}

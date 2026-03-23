@@ -1,0 +1,27 @@
+{
+  "id": 46269,
+  "registrationNumber": "CC33830",
+  "name": "Canterbury Caledonian Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.canterburycaledonian.org.nz/",
+  "email": "jmcewan@canterburycaledonian.org.nz",
+  "address": {
+    "line1": "5 Michelle Road",
+    "line2": null,
+    "suburb": "Wigram",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429042602958",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T09:43:33Z"
+}

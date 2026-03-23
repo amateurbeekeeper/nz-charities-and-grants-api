@@ -1,0 +1,27 @@
+{
+  "id": 44725,
+  "registrationNumber": "CC30585",
+  "name": "Aria Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-01T00:00:00Z",
+  "website": null,
+  "email": "aria@playcentre.org.nz",
+  "address": {
+    "line1": "4 Barclay Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Aria",
+    "postcode": "3979"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T02:49:42Z"
+}

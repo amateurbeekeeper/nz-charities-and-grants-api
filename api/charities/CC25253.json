@@ -1,0 +1,27 @@
+{
+  "id": 42222,
+  "registrationNumber": "CC25253",
+  "name": "The Ginosko Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "marknikki4@hotmail.com",
+  "address": {
+    "line1": "287 Oceanbeach Road",
+    "line2": " ",
+    "suburb": " ",
+    "city": "Mt Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429043138692",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T21:20:46Z"
+}

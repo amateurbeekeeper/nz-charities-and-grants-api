@@ -1,0 +1,27 @@
+{
+  "id": 66194,
+  "registrationNumber": "CC52463",
+  "name": "Feilding Menzshed",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "secretary.feildingshed@gmail.com",
+  "address": {
+    "line1": "10b Marlborough Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Feilding",
+    "postcode": "4702"
+  },
+  "nzbn": "9429043313785",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-26T03:50:33Z"
+}

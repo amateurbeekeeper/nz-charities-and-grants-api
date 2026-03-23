@@ -1,0 +1,27 @@
+{
+  "id": 51190,
+  "registrationNumber": "CC10149",
+  "name": "The Family Space Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thefamilyspace.org.nz/",
+  "email": "matt@microtax.co.nz",
+  "address": {
+    "line1": "33 Park Road",
+    "line2": " ",
+    "suburb": "Miramar",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429043144532",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheFamilySpace",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-22T19:41:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50592,
+  "registrationNumber": "CC46030",
+  "name": "New Zealand Society of Gastroenterology Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-01-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzsg.org.nz",
+  "email": "office@nzsg.org.nz",
+  "address": {
+    "line1": "26 Brandon Street",
+    "line2": "99 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042688846",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "@gastronz"
+  },
+  "lastUpdated": "2026-02-20T02:03:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53003,
+  "registrationNumber": "CC20067",
+  "name": "Palmerston North Community Patrol Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pncp.org.nz",
+  "email": "chris.dennis@xtra.co.nz",
+  "address": {
+    "line1": "CENTRAL POLICE STATION",
+    "line2": "410 Church Street",
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429043171910",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T23:43:22Z"
+}

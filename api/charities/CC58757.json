@@ -1,0 +1,27 @@
+{
+  "id": 72379,
+  "registrationNumber": "CC58757",
+  "name": "Robert Bartley Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://bartleyfoundation.org",
+  "email": "info@bartleyfoundation.org",
+  "address": {
+    "line1": "53 Gilberd Street",
+    "line2": " ",
+    "suburb": "Castlecliff",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429048996365",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BartleyFoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:28:39Z"
+}

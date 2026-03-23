@@ -1,0 +1,27 @@
+{
+  "id": 51276,
+  "registrationNumber": "CC23677",
+  "name": "Hospice Eastern Bay of Plenty ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hospiceebop.org.nz",
+  "email": "bryce@hospiceebop.org.nz",
+  "address": {
+    "line1": "39 Goulstone Road",
+    "line2": "Whakatane 3120",
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429042617105",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/HospiceEBOP",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T02:55:07Z"
+}

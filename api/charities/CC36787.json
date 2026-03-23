@@ -1,0 +1,27 @@
+{
+  "id": 63210,
+  "registrationNumber": "CC36787",
+  "name": "Te Aroha Arts Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-01-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tearohaartscentre@gmail.com",
+  "address": {
+    "line1": "14 Hanna Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Aroha",
+    "postcode": "3320"
+  },
+  "nzbn": "9429042835998",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Aroha Arts Centre & Domain Gallery",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T02:01:14Z"
+}

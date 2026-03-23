@@ -1,0 +1,27 @@
+{
+  "id": 66432,
+  "registrationNumber": "CC52700",
+  "name": "Mount Eden Village People",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-10-21T00:00:00Z",
+  "dateDeregistered": "2018-04-30T00:00:00Z",
+  "website": "www.mountedenvillagepeople.co.nz",
+  "email": "gailbatten@yahoo.com",
+  "address": {
+    "line1": "PO Box 67007",
+    "line2": "Mount Eden",
+    "suburb": null,
+    "city": "Auckland",
+    "postcode": "1349"
+  },
+  "nzbn": "9429043189397",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-06-13T00:35:41Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 58714,
+  "registrationNumber": "CC27500",
+  "name": "Millennium Trust",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2010-09-02T00:00:00Z",
+  "website": "http://www.kickstart.org.nz",
+  "email": "kickstart@xtra.co.nz",
+  "address": {
+    "line1": "18 Alberta Road",
+    "line2": null,
+    "suburb": "Glen Avon",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429042608264",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:38:51Z"
+}

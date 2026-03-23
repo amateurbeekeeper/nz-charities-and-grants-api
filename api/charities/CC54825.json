@@ -1,0 +1,27 @@
+{
+  "id": 68491,
+  "registrationNumber": "CC54825",
+  "name": "Waikato Farmers Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-10-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://waikatofarmerstrust.org.nz/",
+  "email": "admin@wft.org.nz",
+  "address": {
+    "line1": "Level 3",
+    "line2": "169 London Street",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429046228581",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waikatofarmerstrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:15:20Z"
+}

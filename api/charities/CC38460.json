@@ -1,0 +1,27 @@
+{
+  "id": 43363,
+  "registrationNumber": "CC38460",
+  "name": "Pehiaweri Maori Church and Marae Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pehiawerimarae.com",
+  "email": "info.pehiawerimarae@gmail.com",
+  "address": {
+    "line1": "99 Ngunguru Road",
+    "line2": null,
+    "suburb": "Glenbervie",
+    "city": "Whangārei",
+    "postcode": "0173"
+  },
+  "nzbn": "9429042802228",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pehiaweri.marae",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T22:59:15Z"
+}

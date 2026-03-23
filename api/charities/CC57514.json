@@ -1,0 +1,27 @@
+{
+  "id": 71139,
+  "registrationNumber": "CC57514",
+  "name": "The Cake Detective Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.thecakedetective.org.nz",
+  "email": "laura@thecakedetective.com",
+  "address": {
+    "line1": "70 Rostrevor Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429047762343",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/thecakedetective",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-07T01:14:21Z"
+}

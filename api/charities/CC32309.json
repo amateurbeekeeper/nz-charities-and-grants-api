@@ -1,0 +1,27 @@
+{
+  "id": 43558,
+  "registrationNumber": "CC32309",
+  "name": "Fiordland Museum Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fiordlandaccounting@farmside.co.nz",
+  "address": {
+    "line1": "31B Ramparts Road, ",
+    "line2": "R.D. 1",
+    "suburb": " ",
+    "city": "Te Anau",
+    "postcode": "9679"
+  },
+  "nzbn": "9429042973799",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-23T00:10:28Z"
+}

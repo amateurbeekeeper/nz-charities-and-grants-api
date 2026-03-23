@@ -1,0 +1,27 @@
+{
+  "id": 34691,
+  "registrationNumber": "CC51095",
+  "name": "The Kauri Project",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2014-10-01T00:00:00Z",
+  "dateDeregistered": "2024-10-30T00:00:00Z",
+  "website": "https://www.thekauriproject.org",
+  "email": "kauri@thekauriproject.org",
+  "address": {
+    "line1": "Flat 4",
+    "line2": "57 Hepburn Street",
+    "suburb": "Freemans Bay",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429043288403",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/thekauriproject/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-12-08T06:07:46Z"
+}

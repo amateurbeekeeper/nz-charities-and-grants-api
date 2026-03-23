@@ -1,0 +1,27 @@
+{
+  "id": 71573,
+  "registrationNumber": "CC57953",
+  "name": "Project Bruce Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.projectbruce.org",
+  "email": "brucecommunities@gmail.com",
+  "address": {
+    "line1": "61 Union Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Milton",
+    "postcode": "9220"
+  },
+  "nzbn": "9429047878426",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@BruceCommunities",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T01:24:18Z"
+}

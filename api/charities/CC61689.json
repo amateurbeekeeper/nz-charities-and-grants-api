@@ -1,0 +1,27 @@
+{
+  "id": 75255,
+  "registrationNumber": "CC61689",
+  "name": "Wellington School of Tai Chi Chuan Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taichi.net.nz/",
+  "email": "keithmcewing@gmail.com",
+  "address": {
+    "line1": "119 Montgomery Avenue",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429051225186",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/169510593091946",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T18:11:59Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 46950,
+  "registrationNumber": "CC42622",
+  "name": "Halswell Union Parish",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-10-19T00:00:00Z",
+  "dateDeregistered": "2010-06-20T00:00:00Z",
+  "website": null,
+  "email": null,
+  "address": {
+    "line1": "438 Halswell Road",
+    "line2": null,
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:20:02Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65714,
+  "registrationNumber": "CC51965",
+  "name": "Kawerau Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "vickieholland@hotmail.com",
+  "address": {
+    "line1": "50 Onslow Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kawerau",
+    "postcode": "3127"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/kawerau.presbyterian.church/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T23:02:54Z"
+}

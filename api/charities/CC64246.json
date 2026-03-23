@@ -1,0 +1,27 @@
+{
+  "id": 78432,
+  "registrationNumber": "CC64246",
+  "name": "University of Canterbury Women in Tech Society",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ucwitsoc@gmail.com",
+  "address": {
+    "line1": "20 Kirkwood Avenue",
+    "line2": null,
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T22:01:51Z"
+}

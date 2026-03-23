@@ -1,0 +1,27 @@
+{
+  "id": 55280,
+  "registrationNumber": "CC22371",
+  "name": "Hastings Group, Riding For The Disabled Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rdahastings.org.nz",
+  "email": "office@rdahastings.org.nz",
+  "address": {
+    "line1": "Hastings Group RDA",
+    "line2": "699 Murdoch Road East",
+    "suburb": "Akina",
+    "city": "Hastings",
+    "postcode": "4156"
+  },
+  "nzbn": "9429042816607",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HastingsRDA/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T03:43:35Z"
+}

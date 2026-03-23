@@ -1,0 +1,27 @@
+{
+  "id": 41630,
+  "registrationNumber": "CC24292",
+  "name": "Greerton Bible Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gbc.org.nz",
+  "email": "leroy_anne@xtra.co.nz",
+  "address": {
+    "line1": "56 Chadwick Road",
+    "line2": " ",
+    "suburb": "Greerton",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-27T02:11:49Z"
+}

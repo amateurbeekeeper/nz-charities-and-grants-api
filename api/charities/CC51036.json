@@ -1,0 +1,27 @@
+{
+  "id": 34648,
+  "registrationNumber": "CC51036",
+  "name": "Kiwi Harvest Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kiwiharvest.org.nz",
+  "email": "deborah@kiwiharvest.org.nz",
+  "address": {
+    "line1": "70 Business Parade South",
+    "line2": "Highbrook",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429041356791",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KiwiHarvest/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T21:01:46Z"
+}

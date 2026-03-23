@@ -1,0 +1,27 @@
+{
+  "id": 35569,
+  "registrationNumber": "CC44595",
+  "name": "Tamaki Ki Raro Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-07-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.strive.org.nz",
+  "email": "ceo@strive.org.nz",
+  "address": {
+    "line1": "Unit 16",
+    "line2": "34 Miro Road",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429043209552",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T22:59:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 32608,
+  "registrationNumber": "CC50812",
+  "name": "New Zealand Tango Festival Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-12-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nztangofestival.co.nz",
+  "email": "kjersti@nztangofestival.co.nz",
+  "address": {
+    "line1": "127A Abel Smith Street",
+    "line2": " ",
+    "suburb": "Aro Valley",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043240272",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZtangofestival/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-31T09:14:25Z"
+}

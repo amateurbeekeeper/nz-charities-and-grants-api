@@ -1,0 +1,27 @@
+{
+  "id": 48778,
+  "registrationNumber": "CC39902",
+  "name": "The Nelson Railway Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nelsonrailwaysociety.co.nz",
+  "email": "nelsonrailway@gmail.com",
+  "address": {
+    "line1": "87 Atawhai Drive",
+    "line2": " ",
+    "suburb": "The Wood",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042857112",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Nelson Railway Society Founders Park",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:55:37Z"
+}

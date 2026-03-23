@@ -1,0 +1,27 @@
+{
+  "id": 75838,
+  "registrationNumber": "CC62293",
+  "name": "Private Animal Rehoming",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-12-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.private-animal-rehoming.co.nz",
+  "email": "info.janinebowen@gmail.com",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "212 Ulster Street",
+    "suburb": "Whitiora",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": null,
+  "financialYearEnd": "18/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-18T22:56:34Z"
+}

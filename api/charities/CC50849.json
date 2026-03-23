@@ -1,0 +1,27 @@
+{
+  "id": 34474,
+  "registrationNumber": "CC50849",
+  "name": "Otago Rural Fire Authority",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2014-08-13T00:00:00Z",
+  "dateDeregistered": "2017-06-30T00:00:00Z",
+  "website": "www.otagoruralfire.org.nz",
+  "email": "michele.lindsay@fireandemergency.nz",
+  "address": {
+    "line1": "85 Castle Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T04:14:47Z"
+}

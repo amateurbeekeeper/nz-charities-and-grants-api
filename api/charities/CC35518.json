@@ -1,0 +1,27 @@
+{
+  "id": 45072,
+  "registrationNumber": "CC35518",
+  "name": "Timaru Senior Citizens Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ageconcernsc.org.nz/",
+  "email": "manager@ageconcernsc.org.nz",
+  "address": {
+    "line1": "27 Strathallan Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429042974956",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TimaruSeniorCitizens",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-16T09:38:28Z"
+}

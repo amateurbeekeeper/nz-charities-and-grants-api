@@ -1,0 +1,27 @@
+{
+  "id": 62564,
+  "registrationNumber": "CC43195",
+  "name": "New Zealand Spinal Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-12-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzspinaltrust.org.nz",
+  "email": "anita.hamilton@nzspinaltrust.org.nz",
+  "address": {
+    "line1": "300 Burwood Road",
+    "line2": "Burwood Hospital",
+    "suburb": "Burwood",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429043208364",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZSpinalTrust2023",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T19:02:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55130,
+  "registrationNumber": "CC22093",
+  "name": "Te Puna Oranga Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tepunaoranga.co.nz",
+  "email": "billiejean@tepunaoranga.co.nz",
+  "address": {
+    "line1": "687 Worcester Street",
+    "line2": "City East",
+    "suburb": "Linwood",
+    "city": "Christchurch",
+    "postcode": "8062"
+  },
+  "nzbn": "9429042841647",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TePunaOranga",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T07:08:51Z"
+}

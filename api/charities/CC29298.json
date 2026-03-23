@@ -1,0 +1,27 @@
+{
+  "id": 42024,
+  "registrationNumber": "CC29298",
+  "name": "North Harbour Ostomy Society",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2026-01-01T00:00:00Z",
+  "website": null,
+  "email": "nhos@hotmail.co.nz",
+  "address": {
+    "line1": "PO Box 34535",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "0746"
+  },
+  "nzbn": "9429042689270",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T06:03:56Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41972,
+  "registrationNumber": "CC33120",
+  "name": "Herb Federation of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.herbs.org.nz",
+  "email": "herbfednz@gmail.com",
+  "address": {
+    "line1": "PO Box 198",
+    "line2": null,
+    "suburb": " ",
+    "city": "Inglewood",
+    "postcode": "4347"
+  },
+  "nzbn": "9429042640769",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/HerbFederationNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T07:55:43Z"
+}

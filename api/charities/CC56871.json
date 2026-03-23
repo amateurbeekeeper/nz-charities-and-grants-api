@@ -1,0 +1,27 @@
+{
+  "id": 70506,
+  "registrationNumber": "CC56871",
+  "name": "North West Arts Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.muriwaiartistscollective.com",
+  "email": "nwartsnz@gmail.com",
+  "address": {
+    "line1": "371 Motutara Road",
+    "line2": "Muriwai 0881",
+    "suburb": "Muriwai",
+    "city": "Muriwai",
+    "postcode": "0881"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/muriwaiopenstudios",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T22:13:34Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67691,
+  "registrationNumber": "CC53995",
+  "name": "Warkworth Golf Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-12-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.warkworthgolfclub.co.nz",
+  "email": "secretary@warkworthgolfclub.co.nz",
+  "address": {
+    "line1": "4 Golf Road",
+    "line2": "Warkworth 0985",
+    "suburb": " ",
+    "city": "Warkworth",
+    "postcode": "0985"
+  },
+  "nzbn": "9429042914785",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T03:13:25Z"
+}

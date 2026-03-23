@@ -1,0 +1,27 @@
+{
+  "id": 78351,
+  "registrationNumber": "CC64166",
+  "name": "Auckland City Basketball",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://aucklandcitybasketball.co.nz/",
+  "email": "moana@acb.nz",
+  "address": {
+    "line1": "18A Titchener Street",
+    "line2": null,
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aucklandcitybasketball",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T02:15:16Z"
+}

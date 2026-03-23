@@ -1,0 +1,27 @@
+{
+  "id": 69034,
+  "registrationNumber": "CC55378",
+  "name": "PUPS Animal Shelter",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-05-02T00:00:00Z",
+  "dateDeregistered": "2021-02-05T00:00:00Z",
+  "website": null,
+  "email": "pupsanimalshelter@hotmail.com",
+  "address": {
+    "line1": "163 South Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Feilding",
+    "postcode": "4702"
+  },
+  "nzbn": "0000000000000",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-02-04T19:26:07Z"
+}

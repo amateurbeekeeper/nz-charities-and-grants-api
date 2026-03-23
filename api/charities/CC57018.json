@@ -1,0 +1,27 @@
+{
+  "id": 70650,
+  "registrationNumber": "CC57018",
+  "name": "Mercy Vineyard Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-07-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mercyvineyard.nz/",
+  "email": "sharon@mercyvineyard.nz",
+  "address": {
+    "line1": "9 Dalry Street",
+    "line2": null,
+    "suburb": "Mornington",
+    "city": "Dunedin",
+    "postcode": "9011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MercyVineyardDunedin/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-17T19:27:27Z"
+}

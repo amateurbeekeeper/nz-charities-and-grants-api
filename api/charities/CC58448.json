@@ -1,0 +1,27 @@
+{
+  "id": 72066,
+  "registrationNumber": "CC58448",
+  "name": "K9 Search Medical Detection",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-10-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pete@k9searchmd.co.nz",
+  "address": {
+    "line1": "312 Cheltenham Cross Road",
+    "line2": "RD 9",
+    "suburb": "Beaconsfield",
+    "city": "Feilding",
+    "postcode": "4779"
+  },
+  "nzbn": "9429048645324",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/K9SEARCHMedicalDetection",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T00:22:03Z"
+}

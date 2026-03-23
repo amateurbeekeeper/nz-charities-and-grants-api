@@ -1,0 +1,27 @@
+{
+  "id": 64299,
+  "registrationNumber": "CC40876",
+  "name": "Te Kowhai Print Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tkpt.org",
+  "email": "hamish@tkpt.org",
+  "address": {
+    "line1": "TE KOWHAI PRINT TRUST",
+    "line2": "21 Selwyn Avenue",
+    "suburb": "Avenues",
+    "city": "Whangarei",
+    "postcode": "110"
+  },
+  "nzbn": "9429043038794",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/tekawhipt",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T20:38:58Z"
+}

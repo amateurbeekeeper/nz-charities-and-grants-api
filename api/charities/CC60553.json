@@ -1,0 +1,27 @@
+{
+  "id": 74142,
+  "registrationNumber": "CC60553",
+  "name": "The Mārahau Environmental Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "brendan@abeltasman.com",
+  "address": {
+    "line1": "8 Franklin Street",
+    "line2": "RD 2",
+    "suburb": "Marahau",
+    "city": "Motueka",
+    "postcode": "7197"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:16:33Z"
+}

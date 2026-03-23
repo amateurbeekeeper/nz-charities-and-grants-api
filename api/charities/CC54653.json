@@ -1,0 +1,27 @@
+{
+  "id": 68323,
+  "registrationNumber": "CC54653",
+  "name": "The Genetic Rescue Foundation",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-06-08T00:00:00Z",
+  "dateDeregistered": "2023-02-22T00:00:00Z",
+  "website": "https://www.geneticrescue.org.nz",
+  "email": "matiu@geneticrescue.org.nz",
+  "address": {
+    "line1": "282 Moreton Road",
+    "line2": "RD 2",
+    "suburb": "Parkvale",
+    "city": "Carterton",
+    "postcode": "5792"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/geneticrescue",
+    "twitter": "twitter.com/GeneticRescue"
+  },
+  "lastUpdated": "2023-05-31T05:52:33Z"
+}

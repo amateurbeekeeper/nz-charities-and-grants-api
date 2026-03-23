@@ -1,0 +1,27 @@
+{
+  "id": 44592,
+  "registrationNumber": "CC34285",
+  "name": "Tongan Wesleyan Church of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "amipalu@hotmail.com",
+  "address": {
+    "line1": "31 Huia Road",
+    "line2": " ",
+    "suburb": "Otahuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429043113606",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T18:21:52Z"
+}

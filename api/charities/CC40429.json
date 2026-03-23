@@ -1,0 +1,27 @@
+{
+  "id": 60283,
+  "registrationNumber": "CC40429",
+  "name": "Te Pahou Marae",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jjonesturipa@gmail.com",
+  "address": {
+    "line1": "34 Tuaraki Road",
+    "line2": "Manutuke 4072",
+    "suburb": " ",
+    "city": "Manutuke",
+    "postcode": "4072"
+  },
+  "nzbn": "9429051187958",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-10T19:41:36Z"
+}

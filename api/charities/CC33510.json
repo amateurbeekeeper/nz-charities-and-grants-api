@@ -1,0 +1,27 @@
+{
+  "id": 41159,
+  "registrationNumber": "CC33510",
+  "name": "Shoreline Youth Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fuseyouth.net/",
+  "email": "hello@shorelineyouth.co.nz",
+  "address": {
+    "line1": "48 Taupata Street",
+    "line2": " ",
+    "suburb": "Redcliffs",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": "9429043071920",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FuseSumner/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T07:41:24Z"
+}

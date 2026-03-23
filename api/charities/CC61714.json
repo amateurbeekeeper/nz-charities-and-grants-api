@@ -1,0 +1,27 @@
+{
+  "id": 75278,
+  "registrationNumber": "CC61714",
+  "name": "Fresh Anointing International Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://freshanointing.org.nz/",
+  "email": "freshanointingchurchnz@gmail.com",
+  "address": {
+    "line1": "22 Mardyke Street",
+    "line2": " ",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429051522575",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61554851766554",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-15T03:47:16Z"
+}

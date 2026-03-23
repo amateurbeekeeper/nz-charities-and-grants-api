@@ -1,0 +1,27 @@
+{
+  "id": 60606,
+  "registrationNumber": "CC28388",
+  "name": "Pahaoa Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "maiacalcott@outlook.co.nz",
+  "address": {
+    "line1": "7323B State Highway 35",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Kaha",
+    "postcode": "3199"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-17T09:57:01Z"
+}

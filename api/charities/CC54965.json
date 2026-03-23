@@ -1,0 +1,27 @@
+{
+  "id": 68625,
+  "registrationNumber": "CC54965",
+  "name": "New Zealand Memorial Museum Trust - Le Quesnoy",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nzliberationmuseum.com/",
+  "email": "info@nzwmm.org.nz",
+  "address": {
+    "line1": "Level 27, 88 Shortland Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T09:37:15Z"
+}

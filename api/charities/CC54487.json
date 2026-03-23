@@ -1,0 +1,27 @@
+{
+  "id": 68160,
+  "registrationNumber": "CC54487",
+  "name": "Joan Neilson Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "michael.hockly@gazeburt.co.nz",
+  "address": {
+    "line1": "Offices of Gaze Burt",
+    "line2": "Level 1, 44 Corinthian Drive",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429046052414",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T19:45:13Z"
+}

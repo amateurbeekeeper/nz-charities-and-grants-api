@@ -1,0 +1,27 @@
+{
+  "id": 40902,
+  "registrationNumber": "CC24164",
+  "name": "Pirongia Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pirongiagolfclub.co.nz",
+  "email": "pirongiagolf21@gmail.com",
+  "address": {
+    "line1": "31 Kakaramea Road",
+    "line2": " ",
+    "suburb": "Pirongia",
+    "city": "Pirongia",
+    "postcode": "3844"
+  },
+  "nzbn": "9429042810803",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T23:08:31Z"
+}

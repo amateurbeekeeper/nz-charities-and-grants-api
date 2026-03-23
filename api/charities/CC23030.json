@@ -1,0 +1,27 @@
+{
+  "id": 55042,
+  "registrationNumber": "CC23030",
+  "name": "New Progress Enterprises",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.progresstohealth.org.nz",
+  "email": "karen@progresstohealth.org.nz",
+  "address": {
+    "line1": "931 Victoria Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043147434",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/empowering.journeys/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T19:35:47Z"
+}

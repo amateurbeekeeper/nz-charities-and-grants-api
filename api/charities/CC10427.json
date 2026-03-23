@@ -1,0 +1,27 @@
+{
+  "id": 51193,
+  "registrationNumber": "CC10427",
+  "name": "Te Whare Ngakau Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "te_whare_ngakau@xtra.co.nz",
+  "address": {
+    "line1": "4 Kildare Street",
+    "line2": " ",
+    "suburb": "Belfast",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429042970330",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T19:57:07Z"
+}

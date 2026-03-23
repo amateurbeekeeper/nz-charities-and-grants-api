@@ -1,0 +1,27 @@
+{
+  "id": 36412,
+  "registrationNumber": "CC46220",
+  "name": "Manaiakalani Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-02-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.manaiakalani.org",
+  "email": "neil.porteous@manaiakalani.org",
+  "address": {
+    "line1": "172 West Tamaki Road",
+    "line2": "Cnr Elstree Ave and Taniwha St ",
+    "suburb": "Glen Innes",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429043226177",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T23:02:07Z"
+}

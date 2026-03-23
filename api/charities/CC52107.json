@@ -1,0 +1,27 @@
+{
+  "id": 65844,
+  "registrationNumber": "CC52107",
+  "name": "The University of Auckland Formula SAE Team Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.fsae.co.nz",
+  "email": "finance@fsae.co.nz",
+  "address": {
+    "line1": "The University of Auckland - Newmarket Campus",
+    "line2": "314-390 Khyber Pass Road",
+    "suburb": "Newmarket",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429043048502",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/UoAfsae",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T00:41:06Z"
+}

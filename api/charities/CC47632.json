@@ -1,0 +1,27 @@
+{
+  "id": 37133,
+  "registrationNumber": "CC47632",
+  "name": "TOA Pacific Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.toapacific.org.nz/",
+  "email": "malia@toapacific.org.nz",
+  "address": {
+    "line1": "214 Great South Road",
+    "line2": " ",
+    "suburb": "Otahuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429043013166",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "admin@toapacific.org.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T19:40:46Z"
+}

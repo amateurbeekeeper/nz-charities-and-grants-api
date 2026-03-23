@@ -1,0 +1,27 @@
+{
+  "id": 52457,
+  "registrationNumber": "CC38103",
+  "name": "Muriwai Volunteer Lifeguard Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.muriwaisurf.org.nz",
+  "email": "administrator@muriwaisurf.org.nz",
+  "address": {
+    "line1": "100 Jack Butt Lane",
+    "line2": "Muriwai Beach",
+    "suburb": "Rd  1 Waimauku",
+    "city": "Auckland",
+    "postcode": "0881"
+  },
+  "nzbn": "9429042766353",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T22:11:19Z"
+}

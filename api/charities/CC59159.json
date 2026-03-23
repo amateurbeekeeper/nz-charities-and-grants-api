@@ -1,0 +1,27 @@
+{
+  "id": 72765,
+  "registrationNumber": "CC59159",
+  "name": "HF Radio Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://hfradio.nz",
+  "email": "peter@hfradio.nz",
+  "address": {
+    "line1": "40 Cameo Grove",
+    "line2": " ",
+    "suburb": "Marshland",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429049441024",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hfradio.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T00:55:30Z"
+}

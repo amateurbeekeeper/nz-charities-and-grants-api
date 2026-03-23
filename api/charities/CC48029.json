@@ -1,0 +1,27 @@
+{
+  "id": 37714,
+  "registrationNumber": "CC48029",
+  "name": "Pauanui Community Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jmissen@xtra.co.nz",
+  "address": {
+    "line1": "23 Centreway",
+    "line2": "Pauanui 3579",
+    "suburb": "Jubilee Drive",
+    "city": "Pauanui",
+    "postcode": "3579"
+  },
+  "nzbn": "9429043100491",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@libraryatpauanui",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-10T02:19:06Z"
+}

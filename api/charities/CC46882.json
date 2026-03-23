@@ -1,0 +1,27 @@
+{
+  "id": 37495,
+  "registrationNumber": "CC46882",
+  "name": "Gap Filler Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-06-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gapfiller.org.nz",
+  "email": "kate@gapfiller.org.nz",
+  "address": {
+    "line1": "180 Avonside Drive",
+    "line2": "RD 1",
+    "suburb": "Avonside",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429043146956",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/gapfiller",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:41:10Z"
+}

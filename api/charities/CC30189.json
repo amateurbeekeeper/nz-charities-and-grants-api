@@ -1,0 +1,27 @@
+{
+  "id": 62063,
+  "registrationNumber": "CC30189",
+  "name": "Te Kauwhata Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-10T00:00:00Z",
+  "website": null,
+  "email": "nicorlimited@gmail.com",
+  "address": {
+    "line1": "40 Mahi Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Kauwhata",
+    "postcode": "3710"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Te-Kauwhata-Playcentre-187042065514847/about/?ref=page_internal",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T07:14:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55118,
+  "registrationNumber": "CC21346",
+  "name": "The Interchurch Council For Hospital Chaplaincy",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ichc.org.nz",
+  "email": "manager@ichc.org.nz",
+  "address": {
+    "line1": "186 Willis Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042905660",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HospitalChaplaincyAotearoa#",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T20:55:59Z"
+}

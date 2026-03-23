@@ -1,0 +1,27 @@
+{
+  "id": 45896,
+  "registrationNumber": "CC42528",
+  "name": "Kaihere School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2023-09-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta.kaihere@gmail.com",
+  "address": {
+    "line1": "1115B State Highway 27",
+    "line2": "RD 3",
+    "suburb": "Kaihere",
+    "city": "Morrinsville",
+    "postcode": "3373"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T20:33:48Z"
+}

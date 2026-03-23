@@ -1,0 +1,27 @@
+{
+  "id": 65594,
+  "registrationNumber": "CC51830",
+  "name": "Kaikoura Ocean Research Institute Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kori.org.nz",
+  "email": "korisecretary@gmail.com",
+  "address": {
+    "line1": "757A Mt Fyffe Road",
+    "line2": "RD 1",
+    "suburb": "Kaikoura Flat",
+    "city": "Kaikoura",
+    "postcode": "7371"
+  },
+  "nzbn": "9429043323333",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kaikourakori",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T22:02:47Z"
+}

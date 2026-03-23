@@ -1,0 +1,27 @@
+{
+  "id": 53095,
+  "registrationNumber": "CC20582",
+  "name": "Te Taiwhenua O Heretaunga Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ttoh.iwi.nz",
+  "email": "Catherine.Sheridan@ttoh.iwi.nz",
+  "address": {
+    "line1": "821 Orchard Road",
+    "line2": " ",
+    "suburb": "Camberley",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429042829942",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T06:09:31Z"
+}

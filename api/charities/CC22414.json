@@ -1,0 +1,27 @@
+{
+  "id": 55811,
+  "registrationNumber": "CC22414",
+  "name": "Western Bay Of Plenty Disability Support Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "supporttrust.org.nz",
+  "email": "coordinator.wbop.dst@gmail.com",
+  "address": {
+    "line1": "1 Waiawa Lane",
+    "line2": " ",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043030392",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "WBOP DST",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T23:57:35Z"
+}

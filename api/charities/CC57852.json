@@ -1,0 +1,27 @@
+{
+  "id": 71477,
+  "registrationNumber": "CC57852",
+  "name": "Koutu Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2020-05-05T00:00:00Z",
+  "dateDeregistered": "2025-06-28T00:00:00Z",
+  "website": null,
+  "email": "koutu@playcentre.org.nz",
+  "address": {
+    "line1": "35 Taharangi Street",
+    "line2": " ",
+    "suburb": "Koutu",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/koutuplaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-12T07:08:01Z"
+}

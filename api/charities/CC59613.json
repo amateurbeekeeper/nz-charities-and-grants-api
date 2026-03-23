@@ -1,0 +1,27 @@
+{
+  "id": 73216,
+  "registrationNumber": "CC59613",
+  "name": "Matarau 7 Maori Reservation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "wood_peka@hotmail.com",
+  "address": {
+    "line1": "3 Duke Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Awanui",
+    "postcode": "0486"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T01:48:19Z"
+}

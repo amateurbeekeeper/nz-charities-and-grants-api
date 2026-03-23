@@ -1,0 +1,27 @@
+{
+  "id": 78211,
+  "registrationNumber": "CC64015",
+  "name": "Wai-414 Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "John.Tamihere@waiwhanau.com",
+  "address": {
+    "line1": "6/8 Pioneer Street",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T21:31:43Z"
+}

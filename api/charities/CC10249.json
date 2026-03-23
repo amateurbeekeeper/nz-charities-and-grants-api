@@ -1,0 +1,27 @@
+{
+  "id": 50987,
+  "registrationNumber": "CC10249",
+  "name": "Laidlaw College Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.laidlaw.ac.nz",
+  "email": "aofficer@laidlaw.ac.nz",
+  "address": {
+    "line1": "3 Smythe Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429042592846",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T04:32:41Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67050,
+  "registrationNumber": "CC53337",
+  "name": "Al-Ameen Islamic Development New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-04-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://alameen.org.nz",
+  "email": "info@alameen.org.nz",
+  "address": {
+    "line1": "64 Kenmore Street",
+    "line2": " ",
+    "suburb": "Newlands",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429043305407",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/alameen.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T02:37:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38228,
+  "registrationNumber": "CC46023",
+  "name": "St Paul's Swimming Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-01-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.stpaulsswimclub.co.nz",
+  "email": "v.taylor@windowslive.com",
+  "address": {
+    "line1": "77 Hukanui Road",
+    "line2": " ",
+    "suburb": "Chartwell",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429043192953",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "stpaulsswimclub.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:33:26Z"
+}

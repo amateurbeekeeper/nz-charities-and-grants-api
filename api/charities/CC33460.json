@@ -1,0 +1,27 @@
+{
+  "id": 53205,
+  "registrationNumber": "CC33460",
+  "name": "Waitakere Health Link Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waitakerehealthlink.org.nz",
+  "email": "office@waitakerehealthlink.org.nz",
+  "address": {
+    "line1": "Ground Floor, Healthwest Building",
+    "line2": "Waitakere Hospital",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0650"
+  },
+  "nzbn": "9429043064281",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://web.facebook.com/waitakerehealthlinkinc/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T18:03:44Z"
+}

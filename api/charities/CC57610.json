@@ -1,0 +1,27 @@
+{
+  "id": 71235,
+  "registrationNumber": "CC57610",
+  "name": "Reporoa Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2020-02-17T00:00:00Z",
+  "dateDeregistered": "2025-07-02T00:00:00Z",
+  "website": "playcentre.org.nz",
+  "email": "reporoa@playcentre.org.nz",
+  "address": {
+    "line1": "20 Massey Road",
+    "line2": "Reporoa 3083",
+    "suburb": " ",
+    "city": "Reporoa",
+    "postcode": "3083"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T03:57:00Z"
+}

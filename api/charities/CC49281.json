@@ -1,0 +1,27 @@
+{
+  "id": 37930,
+  "registrationNumber": "CC49281",
+  "name": "Wellington Classic Yacht Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wcyt.org.nz",
+  "email": "gavin.pascoe@gmail.com",
+  "address": {
+    "line1": "Shed 1",
+    "line2": "Clyde Quay",
+    "suburb": " Oriental Bay",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/wgtnclassic/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:15Z"
+}

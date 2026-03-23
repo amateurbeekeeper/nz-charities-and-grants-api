@@ -1,0 +1,27 @@
+{
+  "id": 55252,
+  "registrationNumber": "CC21483",
+  "name": "Ngā Tamariki Puāwai o Tāmaki | Auckland Kindergarten Association",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aka.org.nz",
+  "email": "CEO@aka.org.nz",
+  "address": {
+    "line1": "80 Greys Avenue",
+    "line2": "385 Queen Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042588412",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:45:35Z"
+}

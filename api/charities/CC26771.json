@@ -1,0 +1,27 @@
+{
+  "id": 55825,
+  "registrationNumber": "CC26771",
+  "name": "Lynfield College Community Childcare Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lynfieldcollegechildcare.co.nz",
+  "email": "lynfieldcollegechildcare@xtra.co.nz",
+  "address": {
+    "line1": "100 Boundary Road",
+    "line2": " ",
+    "suburb": "Blockhouse Bay",
+    "city": "Auckland",
+    "postcode": "600"
+  },
+  "nzbn": "9429042680840",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T02:24:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69436,
+  "registrationNumber": "CC55784",
+  "name": "The Oamaru Local Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-06-18T00:00:00Z",
+  "dateDeregistered": "2025-11-03T00:00:00Z",
+  "website": null,
+  "email": "gmunro@berryco.co.nz",
+  "address": {
+    "line1": "20 Eden Street",
+    "line2": "Oamaru 9400",
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429046830623",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T06:03:27Z"
+}

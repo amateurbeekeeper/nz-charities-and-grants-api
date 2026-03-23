@@ -1,0 +1,27 @@
+{
+  "id": 50481,
+  "registrationNumber": "CC44060",
+  "name": "New Zealand Jain Sangh Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzjainsangh.org",
+  "email": "info@nzjainsangh.org",
+  "address": {
+    "line1": "5 McGowan Street",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T19:25:59Z"
+}

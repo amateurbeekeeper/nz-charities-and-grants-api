@@ -1,0 +1,27 @@
+{
+  "id": 46414,
+  "registrationNumber": "CC35412",
+  "name": "West Coast Penguin Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.westcoastpenguintrust.org.nz/",
+  "email": "info@westcoastpenguintrust.org.nz",
+  "address": {
+    "line1": "2 Mandl Rise",
+    "line2": null,
+    "suburb": "Seaview",
+    "city": "Hokitika",
+    "postcode": "7882"
+  },
+  "nzbn": "9429043162109",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/bluepenguintrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T20:44:34Z"
+}

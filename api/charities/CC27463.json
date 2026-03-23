@@ -1,0 +1,27 @@
+{
+  "id": 52489,
+  "registrationNumber": "CC27463",
+  "name": "Auckland Police Pipe Band Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.appb.nz",
+  "email": "appipeband@gmail.com",
+  "address": {
+    "line1": "28 Sulphur Beach Road",
+    "line2": " ",
+    "suburb": "Northcote Point",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429042868323",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T09:07:00Z"
+}

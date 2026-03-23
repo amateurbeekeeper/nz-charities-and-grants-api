@@ -1,0 +1,27 @@
+{
+  "id": 66824,
+  "registrationNumber": "CC53102",
+  "name": "Northern United Sports Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-12-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.northernunitedfootball.com",
+  "email": "Treasurer@nusc.org.nz",
+  "address": {
+    "line1": "7 Caversham Drive",
+    "line2": " ",
+    "suburb": "Rototuna",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429043130955",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/1027658900619111/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T23:11:29Z"
+}

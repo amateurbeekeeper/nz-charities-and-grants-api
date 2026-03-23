@@ -1,0 +1,27 @@
+{
+  "id": 63878,
+  "registrationNumber": "CC45400",
+  "name": "New Zealand Homeopathic Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-09-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.homeopathy.nz",
+  "email": "president@homeopathy.ac.nz",
+  "address": {
+    "line1": "320 Mount Eden Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042675433",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-16T19:49:51Z"
+}

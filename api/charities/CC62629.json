@@ -1,0 +1,27 @@
+{
+  "id": 76264,
+  "registrationNumber": "CC62629",
+  "name": "Community Church of Otangarei",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "miric25@yahoo.com",
+  "address": {
+    "line1": "104 Dip Road",
+    "line2": "RD 6",
+    "suburb": "Te Kamo",
+    "city": "Whangarei",
+    "postcode": "0176"
+  },
+  "nzbn": "9429050697267",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Community Church of Otangarei",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-31T00:50:29Z"
+}

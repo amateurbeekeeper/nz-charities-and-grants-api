@@ -1,0 +1,27 @@
+{
+  "id": 53144,
+  "registrationNumber": "CC21115",
+  "name": "Kumarani Productions Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.circuskumarani.co.nz",
+  "email": "admin@circuskumarani.co.nz",
+  "address": {
+    "line1": "15 Onslow Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Dargaville",
+    "postcode": "0310"
+  },
+  "nzbn": "9429043123902",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/circus.kumarani",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-28T04:35:58Z"
+}

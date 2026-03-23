@@ -1,0 +1,27 @@
+{
+  "id": 41633,
+  "registrationNumber": "CC40081",
+  "name": "Oasis Network Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.oasisnetwork.org.nz",
+  "email": "manager@oasisnetwork.org.nz",
+  "address": {
+    "line1": "Level 1, Woburn House",
+    "line2": "40-44 Bloomfield Terrace",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429043056903",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:17:58Z"
+}

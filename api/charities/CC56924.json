@@ -1,0 +1,27 @@
+{
+  "id": 70559,
+  "registrationNumber": "CC56924",
+  "name": "Ellie's Canine Rescue & Rehome",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.elliesk9rescue.co.nz",
+  "email": "elliesk9rescue@gmail.com",
+  "address": {
+    "line1": "14 Robertson Street",
+    "line2": " ",
+    "suburb": "Elderslea",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429049409086",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/elliescaninerescueandrehome",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:08:59Z"
+}

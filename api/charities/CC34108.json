@@ -1,0 +1,27 @@
+{
+  "id": 41421,
+  "registrationNumber": "CC34108",
+  "name": "The Waiheke Resources Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wrt.org.nz",
+  "email": "mike@wrt.org.nz",
+  "address": {
+    "line1": "1A Mako Street",
+    "line2": " ",
+    "suburb": "Oneroa",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429042952435",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waihekeresourcestrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T00:55:48Z"
+}

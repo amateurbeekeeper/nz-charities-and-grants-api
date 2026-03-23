@@ -1,0 +1,27 @@
+{
+  "id": 53660,
+  "registrationNumber": "CC20404",
+  "name": "Roxburgh District Medical Services Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@roxmedtrust.nz",
+  "address": {
+    "line1": "65 Scotland Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Roxburgh",
+    "postcode": "9500"
+  },
+  "nzbn": "9429042799405",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:36:10Z"
+}

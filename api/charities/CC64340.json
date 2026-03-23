@@ -1,0 +1,27 @@
+{
+  "id": 78523,
+  "registrationNumber": "CC64340",
+  "name": "The Arts Centre Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "liz@ms-group.nz",
+  "address": {
+    "line1": "169 Flaxmill Drive",
+    "line2": "RD 3",
+    "suburb": "Rārangi",
+    "city": "Blenheim",
+    "postcode": "7273"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T23:34:44Z"
+}

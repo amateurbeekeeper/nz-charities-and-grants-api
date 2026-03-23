@@ -1,0 +1,27 @@
+{
+  "id": 53812,
+  "registrationNumber": "CC29353",
+  "name": "The Village Theatre Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.villagetheatre.org.nz",
+  "email": "movies@villagetheatre.org.nz",
+  "address": {
+    "line1": "32 Commercial Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Takaka",
+    "postcode": "7110"
+  },
+  "nzbn": "9429042889038",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/takaka.theatre/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T03:08:16Z"
+}

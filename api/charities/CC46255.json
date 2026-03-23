@@ -1,0 +1,27 @@
+{
+  "id": 36824,
+  "registrationNumber": "CC46255",
+  "name": "St Mary's Catholic School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-02-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta@stmarystga.school.nz",
+  "address": {
+    "line1": "11 Thirteenth Avenue",
+    "line2": " ",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:03:13Z"
+}

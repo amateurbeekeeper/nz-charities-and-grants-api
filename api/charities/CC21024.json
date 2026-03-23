@@ -1,0 +1,27 @@
+{
+  "id": 54165,
+  "registrationNumber": "CC21024",
+  "name": "Renaissance Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "aadya@xtra.co.nz",
+  "address": {
+    "line1": "17 Mayfair Place",
+    "line2": " ",
+    "suburb": "Glen Innes",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042734925",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T03:51:19Z"
+}

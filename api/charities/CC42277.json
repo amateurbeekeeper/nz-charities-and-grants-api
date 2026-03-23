@@ -1,0 +1,27 @@
+{
+  "id": 50904,
+  "registrationNumber": "CC42277",
+  "name": "Ora Toa PHO Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "christian.katene@ngatitoa.iwi.nz",
+  "address": {
+    "line1": "26 Ngatitoa Street",
+    "line2": " ",
+    "suburb": "Takapuwahia",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429033396521",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-15T20:26:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55846,
+  "registrationNumber": "CC21706",
+  "name": "Saint John's College Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sjctb.co.nz",
+  "email": "grant@tumanako.nz",
+  "address": {
+    "line1": "202-210 St Johns Road",
+    "line2": "Parnell",
+    "suburb": "Saint Johns",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042820567",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:09:51Z"
+}

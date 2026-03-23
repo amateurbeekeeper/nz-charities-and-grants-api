@@ -1,0 +1,27 @@
+{
+  "id": 66514,
+  "registrationNumber": "CC52781",
+  "name": "Brain Injury NZ Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-11-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.brain-injury.nz/",
+  "email": "john.skelton@brain-injury.org.nz",
+  "address": {
+    "line1": "26 Kaye Road",
+    "line2": "RD 5",
+    "suburb": "Pataua North",
+    "city": "Whangarei",
+    "postcode": "0175"
+  },
+  "nzbn": "9429043267262",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T21:43:36Z"
+}

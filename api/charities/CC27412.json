@@ -1,0 +1,27 @@
+{
+  "id": 40590,
+  "registrationNumber": "CC27412",
+  "name": "Hospice New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hospice.org.nz",
+  "email": "wayne@hospice.org.nz",
+  "address": {
+    "line1": "93 Cuba Street",
+    "line2": "Level 6",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042639565",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hospicenz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T01:21:36Z"
+}

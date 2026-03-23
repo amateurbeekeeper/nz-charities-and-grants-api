@@ -1,0 +1,27 @@
+{
+  "id": 72978,
+  "registrationNumber": "CC59377",
+  "name": "Tū Mātau Ora",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tumatauora.org",
+  "email": "matauora@gmail.com",
+  "address": {
+    "line1": "6 Innes Way",
+    "line2": " ",
+    "suburb": "Newlands",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429050797981",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "facebook.com/TUMATAUORA",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T01:07:55Z"
+}

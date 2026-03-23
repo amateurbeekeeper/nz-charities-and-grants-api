@@ -1,0 +1,27 @@
+{
+  "id": 66436,
+  "registrationNumber": "CC52697",
+  "name": "Cat Rescue Dunedin Charitable Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.catrescuedunedin.org.nz",
+  "email": "catrescuedunedin@gmail.com",
+  "address": {
+    "line1": "324A South Road",
+    "line2": " ",
+    "suburb": "Caversham",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429043273393",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/catrescuedunedin/",
+    "twitter": "https://twitter.com/CatDunedin"
+  },
+  "lastUpdated": "2025-10-05T18:54:01Z"
+}

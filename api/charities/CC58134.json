@@ -1,0 +1,27 @@
+{
+  "id": 71751,
+  "registrationNumber": "CC58134",
+  "name": "Applause Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.applause.charity/",
+  "email": "aroha@applause.charity",
+  "address": {
+    "line1": "38 Mana View Road",
+    "line2": " ",
+    "suburb": "Paremata",
+    "city": "Porirua",
+    "postcode": "5026"
+  },
+  "nzbn": "9429048299626",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/applausecharity",
+    "twitter": "https://twitter.com/applausecharity"
+  },
+  "lastUpdated": "2026-03-13T02:24:17Z"
+}

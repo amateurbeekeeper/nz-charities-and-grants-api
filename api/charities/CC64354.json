@@ -1,0 +1,27 @@
+{
+  "id": 78540,
+  "registrationNumber": "CC64354",
+  "name": "Hands of help",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://hoh.org.nz/",
+  "email": "hohdunedin@gmail.com",
+  "address": {
+    "line1": "PO Box 10017",
+    "line2": "Halfway Bush",
+    "suburb": "Wakari",
+    "city": "Dunedin",
+    "postcode": "9042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T22:14:26Z"
+}

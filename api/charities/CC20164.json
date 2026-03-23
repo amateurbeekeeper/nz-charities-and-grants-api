@@ -1,0 +1,27 @@
+{
+  "id": 53329,
+  "registrationNumber": "CC20164",
+  "name": "The Ernest Duncan Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "funding@publictrust.co.nz",
+  "address": {
+    "line1": "Level 2, 22 Willeston St",
+    "line2": "Public Trust",
+    "suburb": "Wellington",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T20:20:52Z"
+}

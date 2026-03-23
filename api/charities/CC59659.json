@@ -1,0 +1,27 @@
+{
+  "id": 73260,
+  "registrationNumber": "CC59659",
+  "name": "Avondale Christian Fellowship",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cpawatson@xtra.co.nz",
+  "address": {
+    "line1": "42 Laingholm Drive",
+    "line2": " ",
+    "suburb": "Laingholm",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "1230340336163",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T05:42:56Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66762,
+  "registrationNumber": "CC53031",
+  "name": "Foxton Beach Community Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.fbcc.org.nz",
+  "email": "president@fbcc.org.nz",
+  "address": {
+    "line1": "108 Seabury Avenue",
+    "line2": " ",
+    "suburb": "Foxton Beach",
+    "city": "Foxton",
+    "postcode": "4815"
+  },
+  "nzbn": "9429042719366",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Foxton Beach Community Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T02:55:23Z"
+}

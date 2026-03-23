@@ -1,0 +1,27 @@
+{
+  "id": 61398,
+  "registrationNumber": "CC38828",
+  "name": "Bombay Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-17T00:00:00Z",
+  "website": null,
+  "email": "kirstymcv@gmail.com",
+  "address": {
+    "line1": "33 Paparata Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Bombay",
+    "postcode": "2675"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BombayPlaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T02:36:54Z"
+}

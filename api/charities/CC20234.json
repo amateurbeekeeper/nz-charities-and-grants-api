@@ -1,0 +1,27 @@
+{
+  "id": 52550,
+  "registrationNumber": "CC20234",
+  "name": "Magyar Millennium Park (Hungarian Garden) Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.magyarmillenniumpark.nz",
+  "email": "magyarmillenniumpark@gmail.com",
+  "address": {
+    "line1": "37 Abbott Street",
+    "line2": " ",
+    "suburb": "Ngaio",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429043127726",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "magyarmillenniumpark.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T00:22:58Z"
+}

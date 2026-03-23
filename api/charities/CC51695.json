@@ -1,0 +1,27 @@
+{
+  "id": 65462,
+  "registrationNumber": "CC51695",
+  "name": "The Glenorchy Marketplace",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-04-01T00:00:00Z",
+  "dateDeregistered": "2023-03-29T00:00:00Z",
+  "website": "https://www.theheadwaters.co.nz",
+  "email": "kylie@theheadwaters.co.nz",
+  "address": {
+    "line1": "64 Oban Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Glenorchy",
+    "postcode": "9350"
+  },
+  "nzbn": "9429041547762",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/mrswoollysgeneralstore/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-02-27T04:03:20Z"
+}

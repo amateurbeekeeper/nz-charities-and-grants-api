@@ -1,0 +1,27 @@
+{
+  "id": 51096,
+  "registrationNumber": "CC10025",
+  "name": "Well Women and Family Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-02-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wellwomenandfamily.co.nz",
+  "email": "practicemanager@wons.org.nz",
+  "address": {
+    "line1": "Flat 14 Ground",
+    "line2": "49 Sainsbury Road",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042990017",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T23:49:55Z"
+}

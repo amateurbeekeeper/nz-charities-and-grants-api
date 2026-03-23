@@ -1,0 +1,27 @@
+{
+  "id": 59505,
+  "registrationNumber": "CC38764",
+  "name": "Christchurch Boys' Choir Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2020-11-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.christchurchboyschoir.co.nz",
+  "email": "chairperson@christchurchboyschoir.co.nz",
+  "address": {
+    "line1": "108 Dyers Pass Road",
+    "line2": " ",
+    "suburb": "Cashmere",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429043000524",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ChristchurchBoysChoir/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T04:01:52Z"
+}

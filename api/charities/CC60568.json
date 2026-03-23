@@ -1,0 +1,27 @@
+{
+  "id": 74159,
+  "registrationNumber": "CC60568",
+  "name": "Wingspan Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wingspan.org.nz",
+  "email": "kelly.olsen@wingspan.org.nz",
+  "address": {
+    "line1": "60-64 Upper Queen Street",
+    "line2": " ",
+    "suburb": "Eden Terrace",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429051336899",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/wearewingspan",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2025-10-28T18:35:22Z"
+}

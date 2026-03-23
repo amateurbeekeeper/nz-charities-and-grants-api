@@ -1,0 +1,27 @@
+{
+  "id": 35983,
+  "registrationNumber": "CC45448",
+  "name": "Cambridge Community House Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.camcomhouse.org.nz",
+  "email": "mike@flowcfo.co.nz",
+  "address": {
+    "line1": "193 Shakespeare Street",
+    "line2": " ",
+    "suburb": "Leamington",
+    "city": "Cambridge",
+    "postcode": "3432"
+  },
+  "nzbn": "9429042601821",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CambridgeCommunityHouse",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T02:56:50Z"
+}

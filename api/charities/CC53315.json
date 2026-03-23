@@ -1,0 +1,27 @@
+{
+  "id": 67043,
+  "registrationNumber": "CC53315",
+  "name": "Adarsh Satsang Ramayan Mandali Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.asrm.org.nz",
+  "email": "president@asrm.org.nz",
+  "address": {
+    "line1": "143 Harbourside Drive",
+    "line2": "Karaka 2113",
+    "suburb": "Henderson",
+    "city": "Karaka",
+    "postcode": "2113"
+  },
+  "nzbn": "9429043094950",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/adarshsatsangmandali/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-17T22:32:07Z"
+}

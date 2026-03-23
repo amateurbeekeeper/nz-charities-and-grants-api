@@ -1,0 +1,27 @@
+{
+  "id": 46107,
+  "registrationNumber": "CC30273",
+  "name": "Awanui Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.playcentre.org.nz",
+  "email": "Awanui@playcentre.org.nz",
+  "address": {
+    "line1": "172 State Highway 1",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Awanui",
+    "postcode": "0486"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/awanuiplaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T21:19:45Z"
+}

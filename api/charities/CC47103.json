@@ -1,0 +1,27 @@
+{
+  "id": 36521,
+  "registrationNumber": "CC47103",
+  "name": "Dunedin Parents Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.dunedinparents.co.nz",
+  "email": "dunedinpctreasurer@gmail.com",
+  "address": {
+    "line1": "155 Kenmure Road",
+    "line2": " ",
+    "suburb": "Kenmure",
+    "city": "Dunedin",
+    "postcode": "9011"
+  },
+  "nzbn": "9429042664215",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dunedinparentscentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T10:19:27Z"
+}

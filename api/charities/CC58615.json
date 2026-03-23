@@ -1,0 +1,27 @@
+{
+  "id": 72232,
+  "registrationNumber": "CC58615",
+  "name": "Grow Space Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "growspace.org.nz",
+  "email": "foodlab.akl@gmail.com",
+  "address": {
+    "line1": "34 Walters Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429048463171",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/growspace.akl",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T04:46:15Z"
+}

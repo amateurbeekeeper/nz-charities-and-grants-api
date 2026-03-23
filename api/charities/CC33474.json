@@ -1,0 +1,27 @@
+{
+  "id": 46069,
+  "registrationNumber": "CC33474",
+  "name": "Deep Wells Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2013-02-27T00:00:00Z",
+  "website": "http://www.deepwells.co.nz",
+  "email": "admin@deepwells.co.nz",
+  "address": {
+    "line1": "PO Box 25220",
+    "line2": "Victoria Street",
+    "suburb": "Christchurch",
+    "city": null,
+    "postcode": "8144"
+  },
+  "nzbn": "9429042930334",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:17:18Z"
+}

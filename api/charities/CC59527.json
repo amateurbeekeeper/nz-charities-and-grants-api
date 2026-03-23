@@ -1,0 +1,27 @@
+{
+  "id": 73131,
+  "registrationNumber": "CC59527",
+  "name": "Pacific Island Food Revolution Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pacificislandfoodrevolution.com",
+  "email": "robert@pacificislandfoodrevolution.com",
+  "address": {
+    "line1": "68-76 Taharoto Road",
+    "line2": "50 Customhouse Quay",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429049424812",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PacificIslandFoodRevolution/",
+    "twitter": "https://twitter.com/IslandFoodRev"
+  },
+  "lastUpdated": "2026-01-29T20:22:25Z"
+}

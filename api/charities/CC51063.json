@@ -1,0 +1,27 @@
+{
+  "id": 34350,
+  "registrationNumber": "CC51063",
+  "name": "Ngati Porou Surf Life Saving Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-09-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ngatiporousls@gmail.com",
+  "address": {
+    "line1": "103 Fox Street",
+    "line2": " ",
+    "suburb": "Whataupoko",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429043253968",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Ngati Porou Surf Life Saving",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T02:36:14Z"
+}

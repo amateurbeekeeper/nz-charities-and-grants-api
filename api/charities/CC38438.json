@@ -1,0 +1,27 @@
+{
+  "id": 61703,
+  "registrationNumber": "CC38438",
+  "name": "Leamington Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "leamington@playcentre.org.nz",
+  "address": {
+    "line1": "Cnr Thompson St and Burn St",
+    "line2": " ",
+    "suburb": "Leamington",
+    "city": "Cambridge",
+    "postcode": "3450"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:06:58Z"
+}

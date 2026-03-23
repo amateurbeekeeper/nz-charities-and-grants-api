@@ -1,0 +1,27 @@
+{
+  "id": 75795,
+  "registrationNumber": "CC62254",
+  "name": "Deaf Way New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-12-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.deafway.co.nz",
+  "email": "info@deafway.co.nz",
+  "address": {
+    "line1": "21 Kittiwake Drive",
+    "line2": " ",
+    "suburb": "Schnapper Rock",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429051794217",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61568586470164#",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T21:00:02Z"
+}

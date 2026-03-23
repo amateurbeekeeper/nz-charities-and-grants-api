@@ -1,0 +1,27 @@
+{
+  "id": 78044,
+  "registrationNumber": "CC63848",
+  "name": "Isaac International College",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-10-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mike61225@gmail.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "12 Laidlaw Way",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T04:53:49Z"
+}

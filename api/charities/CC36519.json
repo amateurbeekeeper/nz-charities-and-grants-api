@@ -1,0 +1,27 @@
+{
+  "id": 50039,
+  "registrationNumber": "CC36519",
+  "name": "YouthTRAIN",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-01-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.youthtrain.com",
+  "email": "murray@youthtrain.com",
+  "address": {
+    "line1": "2 Boronia Court",
+    "line2": " ",
+    "suburb": "Milson",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429043033447",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-08T01:28:28Z"
+}

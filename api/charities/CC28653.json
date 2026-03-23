@@ -1,0 +1,27 @@
+{
+  "id": 49502,
+  "registrationNumber": "CC28653",
+  "name": "Edendale Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "deborah.paterson@fireandemergency.nz",
+  "address": {
+    "line1": "42 Seaward Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Edendale",
+    "postcode": "9825"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:31:42Z"
+}

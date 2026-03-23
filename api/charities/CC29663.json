@@ -1,0 +1,27 @@
+{
+  "id": 59339,
+  "registrationNumber": "CC29663",
+  "name": "Power Zone Nelson Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.elimnelson.nz/powerzonenelson",
+  "email": "finance@elimnelson.nz",
+  "address": {
+    "line1": "625 Main Road Stoke",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429043164431",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T03:38:57Z"
+}

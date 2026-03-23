@@ -1,0 +1,27 @@
+{
+  "id": 78239,
+  "registrationNumber": "CC64053",
+  "name": "North Shore Rotary Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "geoff@pownall.kiwi",
+  "address": {
+    "line1": "Snell Apt F2, 11 Commodore Drive",
+    "line2": " ",
+    "suburb": "Lynfield",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T04:05:51Z"
+}

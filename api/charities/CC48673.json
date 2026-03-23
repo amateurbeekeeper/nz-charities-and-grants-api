@@ -1,0 +1,27 @@
+{
+  "id": 38429,
+  "registrationNumber": "CC48673",
+  "name": "The Bio Dynamic Farming & Gardening Association in New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-09-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.biodynamic.org.nz",
+  "email": "operations@biodynamic.org.nz",
+  "address": {
+    "line1": "33 Tates Court",
+    "line2": " ",
+    "suburb": "Gulf Harbour",
+    "city": "Whangaparaoa",
+    "postcode": "0930"
+  },
+  "nzbn": "9429042871873",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "BiodynamicsNewZealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T00:56:47Z"
+}

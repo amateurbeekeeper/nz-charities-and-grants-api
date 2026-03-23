@@ -1,0 +1,27 @@
+{
+  "id": 33049,
+  "registrationNumber": "CC48531",
+  "name": "InsideOUT Kōaro",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-10-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.insideout.org.nz",
+  "email": "hello@insideout.org.nz",
+  "address": {
+    "line1": "Level 3, Anvil House",
+    "line2": "138 Wakefield Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043326136",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://facebook.com/insideoutkoaro",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T05:51:44Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42485,
+  "registrationNumber": "CC39035",
+  "name": "Kite Rapu I Te Ora Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2023-10-20T00:00:00Z",
+  "dateDeregistered": "2026-01-10T00:00:00Z",
+  "website": null,
+  "email": "teowai26@slingshot.co.nz",
+  "address": {
+    "line1": "150 Ford Street",
+    "line2": " ",
+    "suburb": "Ōpōtiki",
+    "city": "Opotiki",
+    "postcode": "3122"
+  },
+  "nzbn": "9429042637363",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-31T06:03:52Z"
+}

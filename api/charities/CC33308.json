@@ -1,0 +1,27 @@
+{
+  "id": 39107,
+  "registrationNumber": "CC33308",
+  "name": "Waipu Cove Surf Life-Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://waipucoveslsc.org.nz",
+  "email": "waipucovesls.accts@gmail.com",
+  "address": {
+    "line1": "901 Cove Road",
+    "line2": "Waipu 0582",
+    "suburb": "Waipu",
+    "city": "Waipu",
+    "postcode": "0582"
+  },
+  "nzbn": "9429042897972",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "WaipuCoveSLSC",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T22:43:59Z"
+}

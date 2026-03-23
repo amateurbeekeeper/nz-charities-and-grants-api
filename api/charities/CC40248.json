@@ -1,0 +1,27 @@
+{
+  "id": 64241,
+  "registrationNumber": "CC40248",
+  "name": "The Lifewise Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lifewise.org.nz",
+  "email": "sarahm@apt.org.nz",
+  "address": {
+    "line1": "Floor 2",
+    "line2": "124 Vincent Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043095490",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T18:19:52Z"
+}

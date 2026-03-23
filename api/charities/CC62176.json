@@ -1,0 +1,27 @@
+{
+  "id": 75728,
+  "registrationNumber": "CC62176",
+  "name": "Selah Community Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2024-02-12T00:00:00Z",
+  "dateDeregistered": "2025-03-31T00:00:00Z",
+  "website": "https://www.selahchurch.org",
+  "email": "kieren@selahchurch.org",
+  "address": {
+    "line1": "8 King Street",
+    "line2": "Waiuku 2123",
+    "suburb": " ",
+    "city": "Waiuku",
+    "postcode": "2123"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "SelahChurchNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T07:13:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 60553,
+  "registrationNumber": "CC36436",
+  "name": "The Electrical Training Company Limited",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2023-12-01T00:00:00Z",
+  "website": "http://www.etco.co.nz",
+  "email": "jenny.gibbs@scgnz.org",
+  "address": {
+    "line1": "596-600 Great South Road",
+    "line2": "666 Great South Road",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429039149039",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ETCO-The-Electrical-Training-Company-173450349336518/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-04T00:09:12Z"
+}

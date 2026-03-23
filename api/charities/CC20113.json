@@ -1,0 +1,27 @@
+{
+  "id": 52932,
+  "registrationNumber": "CC20113",
+  "name": "The North Taranaki Neighbourhood Support Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ewatch.org.nz",
+  "email": "admin@ewatch.org.nz",
+  "address": {
+    "line1": "WESTOWN POLICE STATION",
+    "line2": "54 Tukapa Street",
+    "suburb": "Westown",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042785262",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NorthTaranakiNeighbourhoodSupport/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:56:05Z"
+}

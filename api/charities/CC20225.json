@@ -1,0 +1,27 @@
+{
+  "id": 53383,
+  "registrationNumber": "CC20225",
+  "name": "Citizens Advice Bureau Hamilton Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cab.org.nz",
+  "email": "treasurer.hamilton@cab.org.nz",
+  "address": {
+    "line1": "55 Victoria Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042717140",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T18:03:26Z"
+}

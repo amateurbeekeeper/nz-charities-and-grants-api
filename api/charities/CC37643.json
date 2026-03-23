@@ -1,0 +1,27 @@
+{
+  "id": 48690,
+  "registrationNumber": "CC37643",
+  "name": "The Cardiac Society Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cardiacsociety.org.nz",
+  "email": "info@cardiacsociety.org.nz",
+  "address": {
+    "line1": "119A Sefton Street",
+    "line2": " ",
+    "suburb": "Wadestown",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429042987789",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "https://twitter.com/CSANZ_NZ"
+  },
+  "lastUpdated": "2025-11-04T18:28:42Z"
+}

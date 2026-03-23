@@ -1,0 +1,27 @@
+{
+  "id": 68883,
+  "registrationNumber": "CC55226",
+  "name": "New Zealand Astrobiology Network Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.astrobiology.nz",
+  "email": "haritina@astrobiology.nz",
+  "address": {
+    "line1": "15 Charles Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Carterton",
+    "postcode": "5713"
+  },
+  "nzbn": "9429045897757",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZastrobiology/",
+    "twitter": "https://twitter.com/NZAstrobiology"
+  },
+  "lastUpdated": "2025-12-15T05:25:21Z"
+}

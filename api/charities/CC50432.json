@@ -1,0 +1,27 @@
+{
+  "id": 34160,
+  "registrationNumber": "CC50432",
+  "name": "Te Ropu O Tuhoronuku Independent Mandated Authority",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tuhoronuku.com",
+  "email": "janelle.beazley@xtra.co.nz",
+  "address": {
+    "line1": "12B Warwick Place",
+    "line2": " ",
+    "suburb": "Raumanga",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043282036",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T03:02:29Z"
+}

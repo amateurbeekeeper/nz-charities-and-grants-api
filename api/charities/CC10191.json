@@ -1,0 +1,27 @@
+{
+  "id": 51100,
+  "registrationNumber": "CC10191",
+  "name": "Rainbow Connection Childcare Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rainbow@thamesbaptist.org.nz",
+  "address": {
+    "line1": "305 Mary Street",
+    "line2": "Thames 3500",
+    "suburb": " ",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429043032624",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T18:39:56Z"
+}

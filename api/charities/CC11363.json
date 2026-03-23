@@ -1,0 +1,27 @@
+{
+  "id": 52700,
+  "registrationNumber": "CC11363",
+  "name": "Waihi Beach Life Guard Services Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waihibeachlifeguards.co.nz",
+  "email": "info@waihibeachlifeguards.co.nz",
+  "address": {
+    "line1": "2 Beach Road",
+    "line2": "Waihi Beach 3611",
+    "suburb": " ",
+    "city": "Waihi Beach",
+    "postcode": "3611"
+  },
+  "nzbn": "9429042899488",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waihi Beach Surf Lifesaving Club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T02:19:29Z"
+}

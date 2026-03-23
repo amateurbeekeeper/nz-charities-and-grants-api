@@ -1,0 +1,27 @@
+{
+  "id": 53071,
+  "registrationNumber": "CC20430",
+  "name": "Masterton Trade Aid Society Inc",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-01-09T00:00:00Z",
+  "dateDeregistered": "2025-12-31T00:00:00Z",
+  "website": "http://www.tradeaid.org.nz",
+  "email": "joanne.palmer@tradeaid.org.nz",
+  "address": {
+    "line1": "98 Queen Street",
+    "line2": "Masterton 5810",
+    "suburb": "Dallington",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429042765363",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T06:04:30Z"
+}

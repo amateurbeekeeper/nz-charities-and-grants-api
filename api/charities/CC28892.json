@@ -1,0 +1,27 @@
+{
+  "id": 40277,
+  "registrationNumber": "CC28892",
+  "name": "Asia New Zealand Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.asianz.org.nz",
+  "email": "ssoma@asianz.org.nz",
+  "address": {
+    "line1": "LEVEL 16   FUJITSU TOWER",
+    "line2": "141 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429041900987",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/asianewzealandfoundation/",
+    "twitter": "https://twitter.com/asianewzealand"
+  },
+  "lastUpdated": "2025-12-03T19:18:29Z"
+}

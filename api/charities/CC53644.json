@@ -1,0 +1,27 @@
+{
+  "id": 67358,
+  "registrationNumber": "CC53644",
+  "name": "WHC NZ TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.worldharvestchurch.nz",
+  "email": "andrewrobertson.nz@me.com",
+  "address": {
+    "line1": "Suite 1",
+    "line2": "93 Ellice Road",
+    "suburb": "Wairau Valley",
+    "city": "Auckland",
+    "postcode": "0629"
+  },
+  "nzbn": "9429043307760",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/worldharvestchurch.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T00:43:16Z"
+}

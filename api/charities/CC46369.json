@@ -1,0 +1,27 @@
+{
+  "id": 36893,
+  "registrationNumber": "CC46369",
+  "name": "The Sage Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-03-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tom@financialadvisors.co.nz",
+  "address": {
+    "line1": "Flat 3",
+    "line2": "95 Kohimarama Road",
+    "suburb": "Kohimarama",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-15T20:11:08Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41365,
+  "registrationNumber": "CC23570",
+  "name": "Alzheimer's Society Tauranga Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.alzheimers.org.nz/tauranga",
+  "email": "manager.tauranga@alzheimers.org.nz",
+  "address": {
+    "line1": "116 Thirteenth Avenue",
+    "line2": " ",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042576068",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/alzheimerstga/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T21:42:26Z"
+}

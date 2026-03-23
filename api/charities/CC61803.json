@@ -1,0 +1,27 @@
+{
+  "id": 75359,
+  "registrationNumber": "CC61803",
+  "name": "Open Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.openchurch.nz",
+  "email": "nzlife2020@gmail.com",
+  "address": {
+    "line1": "553 Karangahape Road",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T14:55:29Z"
+}

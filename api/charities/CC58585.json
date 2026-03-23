@@ -1,0 +1,27 @@
+{
+  "id": 72200,
+  "registrationNumber": "CC58585",
+  "name": "Ngā Pou Mana Tangata Whenua Allied Health Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-01-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ngapoumana.org",
+  "email": "gareth@ngapoumana.org.nz",
+  "address": {
+    "line1": "27 Piripono Crescent",
+    "line2": null,
+    "suburb": null,
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429043195879",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ngapoumana",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:39:02Z"
+}

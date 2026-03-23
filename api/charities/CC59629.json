@@ -1,0 +1,27 @@
+{
+  "id": 73232,
+  "registrationNumber": "CC59629",
+  "name": "Lakes Football Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lakesfc.com/",
+  "email": "stu@sageaccounting.co.nz",
+  "address": {
+    "line1": "1105 Arawa Street",
+    "line2": "Rotorua 3010",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429047592872",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T18:02:33Z"
+}

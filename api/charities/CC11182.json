@@ -1,0 +1,27 @@
+{
+  "id": 52951,
+  "registrationNumber": "CC11182",
+  "name": "Presbyterian Support Central",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.psc.org.nz",
+  "email": "joe.asghar@psc.org.nz",
+  "address": {
+    "line1": "1 Prosser Street",
+    "line2": " ",
+    "suburb": "Elsdon",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429042808657",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T22:49:20Z"
+}

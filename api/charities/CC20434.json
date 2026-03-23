@@ -1,0 +1,27 @@
+{
+  "id": 53772,
+  "registrationNumber": "CC20434",
+  "name": "Child Cancer Foundation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.childcancer.org.nz",
+  "email": "lgoss@childcancer.org.nz",
+  "address": {
+    "line1": "110 Symonds Street",
+    "line2": " ",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042615361",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "ChildCancerFoundationNZ",
+    "twitter": "childcancerfoundation"
+  },
+  "lastUpdated": "2026-03-04T01:59:10Z"
+}

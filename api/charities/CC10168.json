@@ -1,0 +1,27 @@
+{
+  "id": 51274,
+  "registrationNumber": "CC10168",
+  "name": "The Spectrum Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.spectrumfoundation.co.nz",
+  "email": "annette.bisacre@spectrumfoundation.org.nz",
+  "address": {
+    "line1": "205 Great South Road",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042724971",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T04:03:09Z"
+}

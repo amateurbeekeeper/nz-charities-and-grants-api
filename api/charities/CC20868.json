@@ -1,0 +1,27 @@
+{
+  "id": 54213,
+  "registrationNumber": "CC20868",
+  "name": "Dutch Village Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.onsdorp.co.nz",
+  "email": "karin.verbeek@onsdorp.co.nz",
+  "address": {
+    "line1": "36 McLeod Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "612"
+  },
+  "nzbn": "9429042720997",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T19:33:55Z"
+}

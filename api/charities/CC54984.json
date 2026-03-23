@@ -1,0 +1,27 @@
+{
+  "id": 68648,
+  "registrationNumber": "CC54984",
+  "name": "Hukerenui School PTA",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hukerenuipta@gmail.com",
+  "address": {
+    "line1": "9 Crows Nest Road",
+    "line2": "RD 2",
+    "suburb": "Hukerenui",
+    "city": "Hikurangi",
+    "postcode": "0182"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T23:47:52Z"
+}

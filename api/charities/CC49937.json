@@ -1,0 +1,27 @@
+{
+  "id": 33701,
+  "registrationNumber": "CC49937",
+  "name": "Ignited Hearts Ministries",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-10-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ignitefaithcentre.com/about-1",
+  "email": "theuns@ignitefaithcentre.com",
+  "address": {
+    "line1": "5 Link Crescent",
+    "line2": " ",
+    "suburb": "Stanmore Bay",
+    "city": "Whangaparaoa",
+    "postcode": "0932"
+  },
+  "nzbn": "9429043252589",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/IgnitedHeartsMinistries",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T23:18:55Z"
+}

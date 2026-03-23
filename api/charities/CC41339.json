@@ -1,0 +1,27 @@
+{
+  "id": 63565,
+  "registrationNumber": "CC41339",
+  "name": "Bay Oval Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-07-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bayoval.co.nz",
+  "email": "kelvin@bayoval.co.nz",
+  "address": {
+    "line1": "40 Kawaka Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429043203659",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-12T00:25:55Z"
+}

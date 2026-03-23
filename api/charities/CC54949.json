@@ -1,0 +1,27 @@
+{
+  "id": 68608,
+  "registrationNumber": "CC54949",
+  "name": "Care for Families",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "care4families.org",
+  "email": "c.f.f.trust@live.com",
+  "address": {
+    "line1": "Suite 1",
+    "line2": "23 Bute Road",
+    "suburb": "Browns Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/careforfamilies",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:45:37Z"
+}

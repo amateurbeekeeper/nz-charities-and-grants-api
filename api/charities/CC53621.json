@@ -1,0 +1,27 @@
+{
+  "id": 67332,
+  "registrationNumber": "CC53621",
+  "name": "The Zimbelstern Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-07-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@zimbelsternfoundation.com",
+  "address": {
+    "line1": "144 Barnard Street",
+    "line2": " ",
+    "suburb": "Wadestown",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429047496040",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@zimbelsternfoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-19T21:31:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38734,
+  "registrationNumber": "CC45747",
+  "name": "Recovery First Foundation",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-11-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.recoveryfirst.co.nz",
+  "email": "info@recoveryfirst.co.nz",
+  "address": {
+    "line1": "28-30 Constellation Drive",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043211432",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T23:12:15Z"
+}

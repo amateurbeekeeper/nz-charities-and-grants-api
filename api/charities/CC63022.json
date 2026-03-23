@@ -1,0 +1,27 @@
+{
+  "id": 77008,
+  "registrationNumber": "CC63022",
+  "name": "Men Making Miles",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://menmakingmiles.org/",
+  "email": "menmakingmiles@gmail.com",
+  "address": {
+    "line1": "21 Eclipse Terrace",
+    "line2": " ",
+    "suburb": "Welcome Bay",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100065102438290",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-05T03:21:04Z"
+}

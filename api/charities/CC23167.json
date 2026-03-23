@@ -1,0 +1,27 @@
+{
+  "id": 55682,
+  "registrationNumber": "CC23167",
+  "name": "Scots College Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.scotscollege.school.nz",
+  "email": "marina.cook@scotscollege.school.nz",
+  "address": {
+    "line1": "38 Monorgan Road",
+    "line2": " ",
+    "suburb": "Strathmore Park",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429042740278",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T23:33:34Z"
+}

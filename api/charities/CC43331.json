@@ -1,0 +1,27 @@
+{
+  "id": 62641,
+  "registrationNumber": "CC43331",
+  "name": "Starfish Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.starfishfoundation.co.nz",
+  "email": "p.stevenson@xtra.co.nz",
+  "address": {
+    "line1": "83 Shelly Beach Road",
+    "line2": " ",
+    "suburb": "Saint Marys Bay",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T20:01:45Z"
+}

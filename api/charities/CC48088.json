@@ -1,0 +1,27 @@
+{
+  "id": 36609,
+  "registrationNumber": "CC48088",
+  "name": "Family of God Ministry",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sam@glca.co.nz",
+  "address": {
+    "line1": "Suite 5",
+    "line2": "100 Alexander Crescent",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T01:35:41Z"
+}

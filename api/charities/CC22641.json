@@ -1,0 +1,27 @@
+{
+  "id": 56411,
+  "registrationNumber": "CC22641",
+  "name": "Coastguard Queenstown Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.coastguard.nz/our-story/about-us/find-your-local/queenstown",
+  "email": "john.quinn@coastguard.nz",
+  "address": {
+    "line1": "Coastguard Queenstown",
+    "line2": "Frankton Marina",
+    "suburb": "Sugar Lane, Frankton",
+    "city": "Queenstown",
+    "postcode": "9349"
+  },
+  "nzbn": "9429043137657",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CoastguardQueenstown",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:28:55Z"
+}

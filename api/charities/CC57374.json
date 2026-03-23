@@ -1,0 +1,27 @@
+{
+  "id": 71005,
+  "registrationNumber": "CC57374",
+  "name": "Compost Club Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-01-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://communitycompost.co.nz/",
+  "email": "compostclubnelson@gmail.com",
+  "address": {
+    "line1": "Flat 11",
+    "line2": "155 Nile Street",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429047401945",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/compostclubnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T20:07:37Z"
+}

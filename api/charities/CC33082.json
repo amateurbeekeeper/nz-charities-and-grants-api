@@ -1,0 +1,27 @@
+{
+  "id": 56646,
+  "registrationNumber": "CC33082",
+  "name": "Catholic Education Services Board",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandcatholic.org.nz/catholic-schools/",
+  "email": "anne@cda.org.nz",
+  "address": {
+    "line1": "30 New Street",
+    "line2": " ",
+    "suburb": "Saint Marys Bay",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-08T19:23:38Z"
+}

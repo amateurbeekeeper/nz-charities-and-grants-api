@@ -1,0 +1,27 @@
+{
+  "id": 45528,
+  "registrationNumber": "CC34199",
+  "name": "Te Wananga Takiura O Nga Kura Kaupapa Maori O Aotearoa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.twt.ac.nz",
+  "email": "ttrw@twt.ac.nz",
+  "address": {
+    "line1": "120 Asquith Avenue",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042842170",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:28:32Z"
+}

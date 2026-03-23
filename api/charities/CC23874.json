@@ -1,0 +1,27 @@
+{
+  "id": 41762,
+  "registrationNumber": "CC23874",
+  "name": "Sir Peter Blake Charity Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.blakenz.org",
+  "email": "sue@blakenz.org",
+  "address": {
+    "line1": "Top floor",
+    "line2": "175 Quay Street, Viaduct Harbour",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429033958736",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/blakenewzealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T21:24:10Z"
+}

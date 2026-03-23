@@ -1,0 +1,27 @@
+{
+  "id": 68679,
+  "registrationNumber": "CC55018",
+  "name": "EduTech Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.edutechnepal.org",
+  "email": "mikejchisholm@gmail.com",
+  "address": {
+    "line1": "Unit 101, 35 Whiteleigh Avenue",
+    "line2": " ",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429046231093",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/edutechnepalfoundation",
+    "twitter": "https://twitter.com/EduTech_Nepal"
+  },
+  "lastUpdated": "2025-10-16T01:39:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66122,
+  "registrationNumber": "CC52388",
+  "name": "Timaru Bible Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tbbc.nz",
+  "email": "withingtondavid@hotmail.com",
+  "address": {
+    "line1": "PO Box 250",
+    "line2": null,
+    "suburb": " ",
+    "city": "Timaru",
+    "postcode": "7940"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/timarubiblebaptistchurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T09:05:55Z"
+}

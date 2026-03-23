@@ -1,0 +1,27 @@
+{
+  "id": 57279,
+  "registrationNumber": "CC27151",
+  "name": "The Angus Family Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gtcc@pgtrust.co.nz",
+  "address": {
+    "line1": "C/o Perpetual Guardian",
+    "line2": "Level 8, 191 Queen Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T18:28:51Z"
+}

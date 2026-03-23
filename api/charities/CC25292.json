@@ -1,0 +1,27 @@
+{
+  "id": 41938,
+  "registrationNumber": "CC25292",
+  "name": "Whangamata Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whangamatabaptist.org.nz",
+  "email": "whangabaptist@outlook.com",
+  "address": {
+    "line1": "301 Port Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whangamata",
+    "postcode": "3620"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T18:28:24Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 32966,
+  "registrationNumber": "CC48736",
+  "name": "Kelly Tarlton's Marine Wildlife Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-09-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kellytarltons.co.nz",
+  "email": "daniel.henderson@kellytarltons.co.nz",
+  "address": {
+    "line1": "23 Tamaki Drive",
+    "line2": " ",
+    "suburb": "Orakei",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KTsMarineWildlifeTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T08:05:19Z"
+}

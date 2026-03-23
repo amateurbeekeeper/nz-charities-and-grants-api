@@ -1,0 +1,27 @@
+{
+  "id": 40660,
+  "registrationNumber": "CC23159",
+  "name": "Akoranga Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.akorangatrust.co.nz",
+  "email": "admin@pkfdoyles.co.nz",
+  "address": {
+    "line1": "32 Taupo Quay",
+    "line2": "Whanganui 4500",
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042575382",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T01:45:30Z"
+}

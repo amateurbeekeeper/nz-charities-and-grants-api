@@ -1,0 +1,27 @@
+{
+  "id": 44156,
+  "registrationNumber": "CC34336",
+  "name": "Tikokino School Home And School",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "homeandschool@tikokino.school.nz",
+  "address": {
+    "line1": "43 Owen Street",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Tikokino",
+    "postcode": "4273"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-20T19:17:03Z"
+}

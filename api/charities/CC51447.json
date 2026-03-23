@@ -1,0 +1,27 @@
+{
+  "id": 65224,
+  "registrationNumber": "CC51447",
+  "name": "St Andrews College Parent Teacher Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-02-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stac.school.nz",
+  "email": "stacpta@stac.school.nz",
+  "address": {
+    "line1": "347 Papanui Road",
+    "line2": " ",
+    "suburb": "Strowan",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429042731931",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T23:02:10Z"
+}

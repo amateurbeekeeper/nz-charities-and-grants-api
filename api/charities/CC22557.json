@@ -1,0 +1,27 @@
+{
+  "id": 54436,
+  "registrationNumber": "CC22557",
+  "name": "One Love",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "beladasi@gmail.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "744 Cameron Road",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429047602618",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "theonelovecharity",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T01:27:49Z"
+}

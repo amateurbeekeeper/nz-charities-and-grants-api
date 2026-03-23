@@ -1,0 +1,27 @@
+{
+  "id": 33028,
+  "registrationNumber": "CC48510",
+  "name": "Wanaka Concert Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wanakaconcertsociety.org.nz",
+  "email": "deans@alpinebiz.co.nz",
+  "address": {
+    "line1": "3 Sunrise Bay Drive",
+    "line2": "Wanaka 9305",
+    "suburb": "Wānaka",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429042914419",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T22:19:18Z"
+}

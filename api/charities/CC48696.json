@@ -1,0 +1,27 @@
+{
+  "id": 37155,
+  "registrationNumber": "CC48696",
+  "name": "Avondale Community Gardeners",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.facebook.com/avondalecommunitygardeners",
+  "email": "avondalecommunitygardener@gmail.com",
+  "address": {
+    "line1": "61 Riversdale Road",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429043195527",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "www.facebook.com/avondalecommunitygardeners",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T04:24:09Z"
+}

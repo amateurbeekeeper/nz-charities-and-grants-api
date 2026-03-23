@@ -1,0 +1,27 @@
+{
+  "id": 62952,
+  "registrationNumber": "CC41109",
+  "name": "I-CAR New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.i-car.co.nz",
+  "email": "adrienne@i-car.co.nz",
+  "address": {
+    "line1": "Unit 5",
+    "line2": "197 Montgomerie Road",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429042644156",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T19:12:55Z"
+}

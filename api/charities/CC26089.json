@@ -1,0 +1,27 @@
+{
+  "id": 58470,
+  "registrationNumber": "CC26089",
+  "name": "Waiuku Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waiukutoylibrary.org.nz",
+  "email": "waiukutoylib@gmail.com",
+  "address": {
+    "line1": "Pollok Cottage",
+    "line2": "George Doherty Green, Tamakae Reserve",
+    "suburb": " ",
+    "city": "Waiuku",
+    "postcode": "2123"
+  },
+  "nzbn": "9429043022076",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/waiukutoylibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-28T00:15:40Z"
+}

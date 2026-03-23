@@ -1,0 +1,27 @@
+{
+  "id": 33469,
+  "registrationNumber": "CC51232",
+  "name": "Movement Art Practice Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-11-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.movementartpractice.org",
+  "email": "info@movementartpractice.org",
+  "address": {
+    "line1": "26 Hurley Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429041013847",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MovementArtPractice/",
+    "twitter": "https://twitter.com/map_newzealand"
+  },
+  "lastUpdated": "2025-08-12T19:10:08Z"
+}

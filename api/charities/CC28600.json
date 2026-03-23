@@ -1,0 +1,27 @@
+{
+  "id": 39990,
+  "registrationNumber": "CC28600",
+  "name": "Inspire Property Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david@rtca.co.nz",
+  "address": {
+    "line1": "28b William Pickering Drive",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T23:00:18Z"
+}

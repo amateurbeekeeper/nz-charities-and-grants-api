@@ -1,0 +1,27 @@
+{
+  "id": 61689,
+  "registrationNumber": "CC35684",
+  "name": "New Zealand Continence Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.continence.org.nz",
+  "email": "louise@continence.org.nz",
+  "address": {
+    "line1": "PO Box 300129",
+    "line2": " ",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0752"
+  },
+  "nzbn": "9429042706205",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/continencenewzealand/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:43:19Z"
+}

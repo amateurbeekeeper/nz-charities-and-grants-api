@@ -1,0 +1,27 @@
+{
+  "id": 47199,
+  "registrationNumber": "CC44476",
+  "name": "Templeton Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.templetongc.co.nz",
+  "email": "manager@templetongc.co.nz",
+  "address": {
+    "line1": "273 Pound Road",
+    "line2": "RD 6",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "7676"
+  },
+  "nzbn": "9429042862994",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T19:06:13Z"
+}

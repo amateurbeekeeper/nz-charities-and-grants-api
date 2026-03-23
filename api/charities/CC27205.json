@@ -1,0 +1,27 @@
+{
+  "id": 42433,
+  "registrationNumber": "CC27205",
+  "name": "Te Runanga-o-Turanganui-a-Kiwa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.trotak.iwi.nz",
+  "email": "sativa@trotak.iwi.nz",
+  "address": {
+    "line1": "31 Lowe Street",
+    "line2": "Gisborne 4010",
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042850991",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T03:37:14Z"
+}

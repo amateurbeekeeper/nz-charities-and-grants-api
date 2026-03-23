@@ -1,0 +1,27 @@
+{
+  "id": 42958,
+  "registrationNumber": "CC40620",
+  "name": "Te Whare Punanga Korero Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hiria@tepunangaora.co.nz",
+  "address": {
+    "line1": "36 Maratahu Street",
+    "line2": " ",
+    "suburb": "Westown",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042827771",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Punanga Ora",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T00:50:19Z"
+}

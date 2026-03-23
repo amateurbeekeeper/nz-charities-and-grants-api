@@ -1,0 +1,27 @@
+{
+  "id": 62884,
+  "registrationNumber": "CC39982",
+  "name": "Elsthorpe Community Playgroup",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "elsthorpeplaygroup@gmail.com",
+  "address": {
+    "line1": "Kenderdine Road",
+    "line2": " ",
+    "suburb": "Elsthorpe",
+    "city": "Hawkes Bay",
+    "postcode": "4277"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:40:55Z"
+}

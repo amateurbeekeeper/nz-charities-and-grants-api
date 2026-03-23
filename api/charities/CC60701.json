@@ -1,0 +1,27 @@
+{
+  "id": 74287,
+  "registrationNumber": "CC60701",
+  "name": "Heritage Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://heritagefoundation.co.nz/",
+  "email": "info@heritagefoundation.co.nz",
+  "address": {
+    "line1": "2A King Edward Avenue",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429050635504",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T18:41:51Z"
+}

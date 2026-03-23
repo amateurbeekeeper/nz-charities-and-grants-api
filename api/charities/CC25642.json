@@ -1,0 +1,27 @@
+{
+  "id": 57972,
+  "registrationNumber": "CC25642",
+  "name": "Gisborne Hostel Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-10T00:00:00Z",
+  "dateDeregistered": "2015-02-10T00:00:00Z",
+  "website": null,
+  "email": "gis.hostel@xtra.co.nz",
+  "address": {
+    "line1": "30 Desmond Road",
+    "line2": null,
+    "suburb": "Te Hapara",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042940845",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-10-06T22:46:59Z"
+}

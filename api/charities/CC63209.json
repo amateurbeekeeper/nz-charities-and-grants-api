@@ -1,0 +1,27 @@
+{
+  "id": 77371,
+  "registrationNumber": "CC63209",
+  "name": "Whakamana Ora Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whakamanaora.org.nz",
+  "email": "moodleylen2@gmail.com",
+  "address": {
+    "line1": "60 Finlayson Avenue",
+    "line2": " ",
+    "suburb": "Clendon Park",
+    "city": "Auckland",
+    "postcode": "2103"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whakamanaora ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-14T06:16:02Z"
+}

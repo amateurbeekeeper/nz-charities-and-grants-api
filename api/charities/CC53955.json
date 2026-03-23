@@ -1,0 +1,27 @@
+{
+  "id": 67650,
+  "registrationNumber": "CC53955",
+  "name": "New Zealand Womens Christian Temperance Union Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wctu.org.nz",
+  "email": "mcanultyj@icloud.com",
+  "address": {
+    "line1": "33B Manse Road",
+    "line2": " ",
+    "suburb": "Pahurehure",
+    "city": "Papakura",
+    "postcode": "2113"
+  },
+  "nzbn": "9429042692331",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-05T19:48:57Z"
+}

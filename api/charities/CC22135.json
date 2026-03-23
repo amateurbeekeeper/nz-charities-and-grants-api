@@ -1,0 +1,27 @@
+{
+  "id": 53455,
+  "registrationNumber": "CC22135",
+  "name": "Community Media Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "loadershane@gmail.com",
+  "address": {
+    "line1": "Room 23",
+    "line2": "Trades Hall 126 Vivian Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042617204",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:39:51Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40925,
+  "registrationNumber": "CC23176",
+  "name": "College House",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.collegehouse.org.nz",
+  "email": "Bursar@collegehouse.org.nz",
+  "address": {
+    "line1": "100 Waimairi Road",
+    "line2": " ",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042668114",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-28T19:37:41Z"
+}

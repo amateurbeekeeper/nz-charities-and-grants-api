@@ -1,0 +1,27 @@
+{
+  "id": 42507,
+  "registrationNumber": "CC24630",
+  "name": "Boathouse Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@theboathousenelson.co.nz",
+  "address": {
+    "line1": "326 Wakefield Quay",
+    "line2": " ",
+    "suburb": "Stepneyville",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043071319",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T03:08:47Z"
+}

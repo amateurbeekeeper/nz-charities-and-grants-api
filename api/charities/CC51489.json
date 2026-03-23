@@ -1,0 +1,27 @@
+{
+  "id": 65258,
+  "registrationNumber": "CC51489",
+  "name": "Pasifika Futures Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pasifikafutures.co.nz",
+  "email": "jerry@pmagroup.co.nz",
+  "address": {
+    "line1": "7A Pacific Rise",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429041106280",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/Pasifika-Futures-214664125370582/",
+    "twitter": "https://twitter.com/pasifikafutures"
+  },
+  "lastUpdated": "2025-08-26T11:39:18Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 32852,
+  "registrationNumber": "CC48842",
+  "name": "Figure.NZ Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-02-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://figure.nz",
+  "email": "ngapera.riley@figure.nz",
+  "address": {
+    "line1": "9541/17B Farnham Street",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429043321988",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FigureNZ",
+    "twitter": "@FigureNZ"
+  },
+  "lastUpdated": "2025-12-11T21:15:54Z"
+}

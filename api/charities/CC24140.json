@@ -1,0 +1,27 @@
+{
+  "id": 41181,
+  "registrationNumber": "CC24140",
+  "name": "New Zealand Institute Of Community Health Care",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nursemaude.org.nz",
+  "email": "frank.chyr@nursemaude.org.nz",
+  "address": {
+    "line1": "24 McDougall Avenue",
+    "line2": " ",
+    "suburb": "Saint Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T21:04:05Z"
+}

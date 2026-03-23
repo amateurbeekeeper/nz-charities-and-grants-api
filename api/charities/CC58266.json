@@ -1,0 +1,27 @@
+{
+  "id": 71880,
+  "registrationNumber": "CC58266",
+  "name": "Mā Te Huruhuru Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-09-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mahera.maihi@mth.org.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "17A Ryan Place",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429046726032",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Mā-Te-Huruhuru-103535811515778",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T04:34:19Z"
+}

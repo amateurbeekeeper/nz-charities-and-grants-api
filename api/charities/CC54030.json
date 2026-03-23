@@ -1,0 +1,27 @@
+{
+  "id": 67731,
+  "registrationNumber": "CC54030",
+  "name": "Bird Rescue Whakatane Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-09-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "whakatanebirdrescue@gmail.com",
+  "address": {
+    "line1": "35 Quay Street",
+    "line2": null,
+    "suburb": "Whakatāne",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429043314201",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Bird-Rescue-Whakatane-Trust-1865325543508571/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T20:19:54Z"
+}

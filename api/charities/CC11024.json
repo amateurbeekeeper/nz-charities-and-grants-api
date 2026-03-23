@@ -1,0 +1,27 @@
+{
+  "id": 52111,
+  "registrationNumber": "CC11024",
+  "name": "Hospice Mid-Northland Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hospicemn.org.nz/",
+  "email": "admin@hospicemn.org.nz",
+  "address": {
+    "line1": "464 Kerikeri Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "0293"
+  },
+  "nzbn": "9429042639558",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:52Z"
+}

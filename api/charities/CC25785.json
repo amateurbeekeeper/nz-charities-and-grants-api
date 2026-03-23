@@ -1,0 +1,27 @@
+{
+  "id": 58055,
+  "registrationNumber": "CC25785",
+  "name": "Waiuku Christian Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.revivechurchwaiuku.org",
+  "email": "pastor@revivechurchwaiuku.org",
+  "address": {
+    "line1": "3 James Bright Lane",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waiuku",
+    "postcode": "2123"
+  },
+  "nzbn": "9429042910138",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Revive Waiuku Church",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T01:57:32Z"
+}

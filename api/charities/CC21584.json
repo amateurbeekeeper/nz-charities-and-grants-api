@@ -1,0 +1,27 @@
+{
+  "id": 54844,
+  "registrationNumber": "CC21584",
+  "name": "Te Kura Trust Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tekuratrust.org.nz",
+  "email": "adele.ainger@aingertomlin.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "136 Ilam Road",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042860440",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-28T19:05:22Z"
+}

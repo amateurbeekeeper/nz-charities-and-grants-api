@@ -1,0 +1,27 @@
+{
+  "id": 66991,
+  "registrationNumber": "CC53273",
+  "name": "Jerusalem Church Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jerusalemchurchnz@yahoo.com",
+  "address": {
+    "line1": "Suite 20",
+    "line2": "16 Lambie Drive",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429043310586",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Jerusalem Church New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-22T03:39:14Z"
+}

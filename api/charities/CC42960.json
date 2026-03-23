@@ -1,0 +1,27 @@
+{
+  "id": 64746,
+  "registrationNumber": "CC42960",
+  "name": "Newtown Community and Cultural Centre 2009 Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-11-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.newtowncommunity.org.nz/",
+  "email": "info@newtowncommunity.org.nz",
+  "address": {
+    "line1": "1 Colombo Street",
+    "line2": " ",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043281855",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/newtown.community.centre/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T20:52:23Z"
+}

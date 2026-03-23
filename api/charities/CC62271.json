@@ -1,0 +1,27 @@
+{
+  "id": 75819,
+  "registrationNumber": "CC62271",
+  "name": "Pacific Cup Sports Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-02-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://pacificcuptouch.com",
+  "email": "harleykwall@gmail.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "134 Mount Wellington Highway",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429049175721",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/pacificcuptouch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-29T20:03:28Z"
+}

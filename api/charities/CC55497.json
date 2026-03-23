@@ -1,0 +1,27 @@
+{
+  "id": 69151,
+  "registrationNumber": "CC55497",
+  "name": "Caring Crew NZ",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-07-03T00:00:00Z",
+  "dateDeregistered": "2022-06-16T00:00:00Z",
+  "website": "https://www.caringcrewnz.co.nz",
+  "email": "info@caringcrewnz.co.nz",
+  "address": {
+    "line1": "937 East Coast Road",
+    "line2": " ",
+    "suburb": "Torbay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "caringcrewnz",
+    "twitter": null
+  },
+  "lastUpdated": "2022-07-04T02:45:31Z"
+}

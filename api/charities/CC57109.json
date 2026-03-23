@@ -1,0 +1,27 @@
+{
+  "id": 70742,
+  "registrationNumber": "CC57109",
+  "name": "church@onetwosix",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lynette@onetwosix.nz",
+  "address": {
+    "line1": "126 Point Chevalier Road",
+    "line2": " ",
+    "suburb": "Point Chevalier",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ChurchOneTwoSix/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T22:42:55Z"
+}

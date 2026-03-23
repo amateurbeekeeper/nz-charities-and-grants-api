@@ -1,0 +1,27 @@
+{
+  "id": 42733,
+  "registrationNumber": "CC40762",
+  "name": "Tup Radford Inter-Collegiate Yachting Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.triya.co.nz",
+  "email": "finance@scotscollege.school.nz",
+  "address": {
+    "line1": "Scots College",
+    "line2": "Monorgan Road",
+    "suburb": "Strathmore",
+    "city": "Wellington",
+    "postcode": "6243"
+  },
+  "nzbn": "9429043101610",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T18:03:38Z"
+}

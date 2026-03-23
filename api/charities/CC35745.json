@@ -1,0 +1,27 @@
+{
+  "id": 49234,
+  "registrationNumber": "CC35745",
+  "name": "Ohai Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2019-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "yvonne.frew@fireandemergency.nz",
+  "address": {
+    "line1": "61 Birchwood Road",
+    "line2": "Ohai 9635",
+    "suburb": " ",
+    "city": "Ohai",
+    "postcode": "9635"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T07:43:35Z"
+}

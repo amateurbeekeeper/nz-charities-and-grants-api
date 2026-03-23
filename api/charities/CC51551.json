@@ -1,0 +1,27 @@
+{
+  "id": 65333,
+  "registrationNumber": "CC51551",
+  "name": "Kerikeri Mens Shed Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gaffer@slingshot.co.nz",
+  "address": {
+    "line1": "28 Kapiro Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "0294"
+  },
+  "nzbn": "9429043290765",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "kkmensshed@gmail.com",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T19:34:23Z"
+}

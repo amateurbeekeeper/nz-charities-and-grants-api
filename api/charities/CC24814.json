@@ -1,0 +1,27 @@
+{
+  "id": 54554,
+  "registrationNumber": "CC24814",
+  "name": "Auckland Coastguard Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandcoastguard.org.nz",
+  "email": "paul.psaila@aci.org.nz",
+  "address": {
+    "line1": "3 Solent Street",
+    "line2": " ",
+    "suburb": "Mechanics Bay",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043125371",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/coastguardakl/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T23:23:30Z"
+}

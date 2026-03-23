@@ -1,0 +1,27 @@
+{
+  "id": 54037,
+  "registrationNumber": "CC20648",
+  "name": "A.D.H.D. Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.adhd.org.nz",
+  "email": "Board-Secretary@adhd.org.nz",
+  "address": {
+    "line1": "37 Santa Ana Drive",
+    "line2": " ",
+    "suburb": "Dannemora",
+    "city": "Auckland",
+    "postcode": "2016"
+  },
+  "nzbn": "9429042572176",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "ADHDNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T04:18:13Z"
+}

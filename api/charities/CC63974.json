@@ -1,0 +1,27 @@
+{
+  "id": 78167,
+  "registrationNumber": "CC63974",
+  "name": "Te Ariroa Evolutions Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teariroa.co.nz",
+  "email": "alex@teariroa.co.nz",
+  "address": {
+    "line1": "41 Buchanan Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Ōpōtiki",
+    "postcode": "3122"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/teariroaevolutions",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T22:50:39Z"
+}

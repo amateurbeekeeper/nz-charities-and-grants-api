@@ -1,0 +1,27 @@
+{
+  "id": 64352,
+  "registrationNumber": "CC40226",
+  "name": "Hockey Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hockeynz.co.nz; www.hockeyfoundationnz.co.nz",
+  "email": "accounts@hockeynz.co.nz",
+  "address": {
+    "line1": "159 Bush Road",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043101351",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T22:29:08Z"
+}

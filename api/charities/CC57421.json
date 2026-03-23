@@ -1,0 +1,27 @@
+{
+  "id": 71054,
+  "registrationNumber": "CC57421",
+  "name": "Hastings Christian Assembly",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "graeme@audithb.nz",
+  "address": {
+    "line1": "620 St Aubyn Street West",
+    "line2": " ",
+    "suburb": "Saint Leonards",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T04:43:51Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51074,
+  "registrationNumber": "CC10057",
+  "name": "Estate of Charles Rooking Carter",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "funding@publictrust.co.nz",
+  "address": {
+    "line1": "Public Trust Tower",
+    "line2": "Level 2",
+    "suburb": "22 Willeston Street",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042606161",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-27T19:06:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54426,
+  "registrationNumber": "CC24460",
+  "name": "Ranui Action Project Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ranui.org.nz",
+  "email": "jolene@ranui.org.nz",
+  "address": {
+    "line1": "476 Swanson Road",
+    "line2": " ",
+    "suburb": "Ranui",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429043017263",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/ranuiactionproject/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:50:34Z"
+}

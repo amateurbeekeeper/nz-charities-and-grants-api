@@ -1,0 +1,27 @@
+{
+  "id": 68163,
+  "registrationNumber": "CC54490",
+  "name": "Koha Kai Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kohakai.co.nz",
+  "email": "janice@kohakai.co.nz",
+  "address": {
+    "line1": "25 Gala Street",
+    "line2": " 5 The Crescent",
+    "suburb": "Avenal",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429043313396",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/kohakai/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T02:04:45Z"
+}

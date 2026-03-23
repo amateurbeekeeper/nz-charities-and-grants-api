@@ -1,0 +1,27 @@
+{
+  "id": 74255,
+  "registrationNumber": "CC60674",
+  "name": "Cubbin Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-10-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cubbin.co.nz",
+  "email": "hannah@cubbin.co.nz",
+  "address": {
+    "line1": "37 Yellowstone Crescent",
+    "line2": " ",
+    "suburb": "Burwood",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429050909551",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Www.facebook.com/cubbintheatre ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T19:28:38Z"
+}

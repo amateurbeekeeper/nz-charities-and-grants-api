@@ -1,0 +1,27 @@
+{
+  "id": 42365,
+  "registrationNumber": "CC40357",
+  "name": "Arohanui Hospice Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.arohanuihospice.org.nz",
+  "email": "clare.r@arohanuihospice.org.nz",
+  "address": {
+    "line1": "1 Heretaunga Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429043048472",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-30T22:49:37Z"
+}

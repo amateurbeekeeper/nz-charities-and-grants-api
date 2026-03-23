@@ -1,0 +1,27 @@
+{
+  "id": 74055,
+  "registrationNumber": "CC60468",
+  "name": "Thrive Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "thrivecommunitytrust@gmail.com",
+  "address": {
+    "line1": "50 Bryson Road",
+    "line2": "RD 9",
+    "suburb": "Otatara",
+    "city": "Invercargill",
+    "postcode": "9879"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ThriveCommunityTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-18T21:17:01Z"
+}

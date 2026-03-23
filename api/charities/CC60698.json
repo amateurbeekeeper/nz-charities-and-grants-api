@@ -1,0 +1,27 @@
+{
+  "id": 74290,
+  "registrationNumber": "CC60698",
+  "name": "MAU Development Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tau@mauwai.org",
+  "address": {
+    "line1": "41 Boundary Road",
+    "line2": " ",
+    "suburb": "Clover Park",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": "9429048397124",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T19:37:20Z"
+}

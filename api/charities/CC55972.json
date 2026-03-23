@@ -1,0 +1,27 @@
+{
+  "id": 69616,
+  "registrationNumber": "CC55972",
+  "name": "Western Hills Holdings Limited",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-08-03T00:00:00Z",
+  "dateDeregistered": "2024-11-30T00:00:00Z",
+  "website": "http://www.sm.org.nz",
+  "email": "williams@smnz.org.nz",
+  "address": {
+    "line1": "Floor G",
+    "line2": "219 Thorndon Quay",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429046934741",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-24T07:08:10Z"
+}

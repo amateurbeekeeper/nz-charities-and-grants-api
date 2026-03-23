@@ -1,0 +1,27 @@
+{
+  "id": 53050,
+  "registrationNumber": "CC11233",
+  "name": "Hikuai District Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tairuarivertrail.org.nz/",
+  "email": "HikuaiDistrictTrust@gmail.com",
+  "address": {
+    "line1": "PO Box 8",
+    "line2": "Pauanui Beach",
+    "suburb": " ",
+    "city": "Pauanui",
+    "postcode": "3546"
+  },
+  "nzbn": "9429043056057",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-07T20:58:37Z"
+}

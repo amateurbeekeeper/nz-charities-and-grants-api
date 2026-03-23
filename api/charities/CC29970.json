@@ -1,0 +1,27 @@
+{
+  "id": 55056,
+  "registrationNumber": "CC29970",
+  "name": "Te Manaaki Nga Tamariki Te Kohanga Reo",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "whanau@k10c037.kohanga.ac.nz",
+  "address": {
+    "line1": "217A South Road",
+    "line2": " ",
+    "suburb": "Caversham",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-08T21:15:29Z"
+}

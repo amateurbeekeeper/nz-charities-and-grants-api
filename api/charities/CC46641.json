@@ -1,0 +1,27 @@
+{
+  "id": 62421,
+  "registrationNumber": "CC46641",
+  "name": "Te Runanga O Ngati Rehia Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ngatirehia.co.nz/",
+  "email": "whati@ngatirehia.co.nz",
+  "address": {
+    "line1": "2 Aranga Road",
+    "line2": "Kerikeri 0230",
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "0230"
+  },
+  "nzbn": "9429043013050",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TeRunangaoNgatiRehia/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T19:19:09Z"
+}

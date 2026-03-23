@@ -1,0 +1,27 @@
+{
+  "id": 61075,
+  "registrationNumber": "CC29487",
+  "name": "The Kapiti Waldorf Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tera.school.nz",
+  "email": "doris.zuur@gmail.com",
+  "address": {
+    "line1": "Te Ra School",
+    "line2": "89 Poplar Avenue",
+    "suburb": "Raumati South",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429042651901",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T18:07:29Z"
+}

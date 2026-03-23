@@ -1,0 +1,27 @@
+{
+  "id": 62537,
+  "registrationNumber": "CC37673",
+  "name": "Whaanau Resource Centre O Pukekohe Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whanauresourcecentre.org.nz",
+  "email": "info@whaanauresourcecentre.org.nz",
+  "address": {
+    "line1": "17 McNally Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429043017171",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/WhanauResourceCentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T00:43:46Z"
+}

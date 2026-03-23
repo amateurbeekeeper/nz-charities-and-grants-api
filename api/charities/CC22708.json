@@ -1,0 +1,27 @@
+{
+  "id": 56519,
+  "registrationNumber": "CC22708",
+  "name": "Christchurch Early Intervention Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.championcentre.org.nz",
+  "email": "deb.nind@championcentre.org.nz",
+  "address": {
+    "line1": "300 Burwood Road",
+    "line2": " Burwood Hospital",
+    "suburb": "Burwood",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429042611424",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheChampionCentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T03:45:41Z"
+}

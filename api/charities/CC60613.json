@@ -1,0 +1,27 @@
+{
+  "id": 74214,
+  "registrationNumber": "CC60613",
+  "name": "Abbey Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "emmah@brophyknight.co.nz",
+  "address": {
+    "line1": "27 Cooneys Drive",
+    "line2": " ",
+    "suburb": "Matua",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T21:14:48Z"
+}

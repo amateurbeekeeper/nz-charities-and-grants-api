@@ -1,0 +1,27 @@
+{
+  "id": 65544,
+  "registrationNumber": "CC51775",
+  "name": "Ramp Up Ministries Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rampuptrust@gmail.com",
+  "address": {
+    "line1": "17 Talbot Road",
+    "line2": " ",
+    "suburb": "Northwood",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429043249121",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/rampupministries/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-25T02:33:05Z"
+}

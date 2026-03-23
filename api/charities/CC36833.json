@@ -1,0 +1,27 @@
+{
+  "id": 58239,
+  "registrationNumber": "CC36833",
+  "name": "The Rainbow New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rainbownzcharitabletrust.org.nz",
+  "email": "gurv@rainbownzcharitabletrust.org.nz",
+  "address": {
+    "line1": "PO Box 147663",
+    "line2": " ",
+    "suburb": "Ponsonby",
+    "city": "Auckland",
+    "postcode": "1144"
+  },
+  "nzbn": "9429042961352",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T22:58:31Z"
+}

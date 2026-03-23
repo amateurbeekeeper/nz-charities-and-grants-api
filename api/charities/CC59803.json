@@ -1,0 +1,27 @@
+{
+  "id": 73511,
+  "registrationNumber": "CC59803",
+  "name": "Live Better (Cultural Centre Trust)",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-01-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://livebetternz.org",
+  "email": "info@livebetter.org.nz",
+  "address": {
+    "line1": "Unit 3",
+    "line2": "11 Gazeley Avenue",
+    "suburb": "Silverdale",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429050170302",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LiveBetterNewZealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-06T23:30:00Z"
+}

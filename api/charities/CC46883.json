@@ -1,0 +1,27 @@
+{
+  "id": 37131,
+  "registrationNumber": "CC46883",
+  "name": "Otago Hockey Association (1990) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.oha.org.nz",
+  "email": "admin@oha.org.nz",
+  "address": {
+    "line1": "65 Harbour Terrace",
+    "line2": " ",
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042775430",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Otago Hockey Association",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-24T22:20:06Z"
+}

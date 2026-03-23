@@ -1,0 +1,27 @@
+{
+  "id": 63027,
+  "registrationNumber": "CC39951",
+  "name": "Karori Kids Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.karorikids.org.nz",
+  "email": "info@karorikids.org.nz",
+  "address": {
+    "line1": "29 Campbell Street",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429042616894",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T23:11:51Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75423,
+  "registrationNumber": "CC61862",
+  "name": "Better Public Media Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2015-04-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.betterpublicmedia.org.nz",
+  "email": "myles@betterpublicmedia.org.nz",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429043256013",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BetterPublicMedia",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T21:26:34Z"
+}

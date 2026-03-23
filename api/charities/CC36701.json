@@ -1,0 +1,27 @@
+{
+  "id": 65096,
+  "registrationNumber": "CC36701",
+  "name": "The Ohariu Valley Hall Company Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "leigh@metalcon.co.nz",
+  "address": {
+    "line1": "429 Ohariu Valley Road",
+    "line2": " ",
+    "suburb": "Ohariu",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429037759513",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-06T19:14:41Z"
+}

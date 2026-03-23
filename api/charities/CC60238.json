@@ -1,0 +1,27 @@
+{
+  "id": 73833,
+  "registrationNumber": "CC60238",
+  "name": "Simurgh Music School Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "simurgh.nz",
+  "email": "esmail.fathi@gmail.com",
+  "address": {
+    "line1": "33 Manor Place",
+    "line2": " ",
+    "suburb": "Bryndwr",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429050368433",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/simurghmusicschool/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T20:14:24Z"
+}

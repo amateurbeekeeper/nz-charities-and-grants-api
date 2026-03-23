@@ -1,0 +1,27 @@
+{
+  "id": 45770,
+  "registrationNumber": "CC34114",
+  "name": "Arawai Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2020-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.arawai.co.nz",
+  "email": "peter@arawai.co.nz",
+  "address": {
+    "line1": "4554B State Highway 10",
+    "line2": "RD 3",
+    "suburb": "Lake Ohia",
+    "city": "Kaitaia",
+    "postcode": "0483"
+  },
+  "nzbn": "9429037020316",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T08:18:05Z"
+}

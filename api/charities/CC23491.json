@@ -1,0 +1,27 @@
+{
+  "id": 40153,
+  "registrationNumber": "CC23491",
+  "name": "Mayfield Community Swimming Pool Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ddelgets@gmail.com",
+  "address": {
+    "line1": "2098 Arundel Rakaia Gorge Road",
+    "line2": "RD 8",
+    "suburb": "Mayfield",
+    "city": "Ashburton",
+    "postcode": "7778"
+  },
+  "nzbn": "9429043047383",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T03:01:30Z"
+}

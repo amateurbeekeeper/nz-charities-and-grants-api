@@ -1,0 +1,27 @@
+{
+  "id": 67181,
+  "registrationNumber": "CC53469",
+  "name": "Prosper Northland Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "scott.kennedy@bdo.co.nz",
+  "address": {
+    "line1": "15 Porowini Avenue",
+    "line2": "Whangarei 0110",
+    "suburb": "Morningside",
+    "city": "Whangārei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043287093",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T22:36:39Z"
+}

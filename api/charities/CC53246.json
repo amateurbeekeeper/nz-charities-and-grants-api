@@ -1,0 +1,27 @@
+{
+  "id": 66965,
+  "registrationNumber": "CC53246",
+  "name": "Abortion Providers Group Aotearoa New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://apganz.org.nz",
+  "email": "admin@apganz.org.nz",
+  "address": {
+    "line1": "Te Mahoe Unit,Level 3,Wellington Regional Hospital",
+    "line2": "49 Riddiford St",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043271139",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T00:40:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38021,
+  "registrationNumber": "CC48726",
+  "name": "The New Zealand Howard League for Penal Reform Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-01-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzhowardleague.org.nz",
+  "email": "katherine.platt@tag.nz",
+  "address": {
+    "line1": "C/- Russell McVeagh",
+    "line2": "Level 30, Vero Centre",
+    "suburb": "48 Shortland St",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043228652",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:03:36Z"
+}

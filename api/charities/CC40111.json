@@ -1,0 +1,27 @@
+{
+  "id": 62268,
+  "registrationNumber": "CC40111",
+  "name": "Friends Of Outram School",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-05-17T00:00:00Z",
+  "dateDeregistered": "2013-11-25T00:00:00Z",
+  "website": "http://www.outram.school.nz",
+  "email": "fos@outram.school.nz",
+  "address": {
+    "line1": "1 Beaumaris Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Outram",
+    "postcode": "9019"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-04-30T11:38:44Z"
+}

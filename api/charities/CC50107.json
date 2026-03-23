@@ -1,0 +1,27 @@
+{
+  "id": 33784,
+  "registrationNumber": "CC50107",
+  "name": "Prima Volta Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-12-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.primavolta.nz",
+  "email": "anna@findingvoices.org",
+  "address": {
+    "line1": "49 Tennyson Street",
+    "line2": " ",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429043309290",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ProjectPrimaVolta/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T03:12:21Z"
+}

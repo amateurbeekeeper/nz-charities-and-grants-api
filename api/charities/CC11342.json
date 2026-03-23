@@ -1,0 +1,27 @@
+{
+  "id": 52129,
+  "registrationNumber": "CC11342",
+  "name": "Play It Strange Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.playitstrange.org.nz",
+  "email": "stephanie@playitstrange.org.nz",
+  "address": {
+    "line1": "181 Grafton Road",
+    "line2": " ",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043102723",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/playitstrange/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T07:15:11Z"
+}

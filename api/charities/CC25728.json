@@ -1,0 +1,27 @@
+{
+  "id": 55735,
+  "registrationNumber": "CC25728",
+  "name": "Naku Enei Tamariki Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.net-inc.org.nz",
+  "email": "cheryl@kokiri-hauora.org.nz",
+  "address": {
+    "line1": "7 Barnes Street",
+    "line2": " ",
+    "suburb": "Seaview",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429042772941",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T21:31:06Z"
+}

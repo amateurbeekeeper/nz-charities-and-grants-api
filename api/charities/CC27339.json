@@ -1,0 +1,27 @@
+{
+  "id": 58190,
+  "registrationNumber": "CC27339",
+  "name": "New Zealand Plant Conservation Network Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzpcn.org.nz",
+  "email": "billcampbell@xtra.co.nz",
+  "address": {
+    "line1": "73 Stratford Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cable Bay",
+    "postcode": "0420"
+  },
+  "nzbn": "9429042998846",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZPCN/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:02:19Z"
+}

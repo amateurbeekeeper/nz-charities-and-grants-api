@@ -1,0 +1,27 @@
+{
+  "id": 52198,
+  "registrationNumber": "CC36134",
+  "name": "Christchurch Junior Cricket Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cjca.org.nz",
+  "email": "gm@cjca.org.nz",
+  "address": {
+    "line1": "57 Riccarton Avenue",
+    "line2": "Merivale",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043135813",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ChristchurchJuniorCricket/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T23:10:05Z"
+}

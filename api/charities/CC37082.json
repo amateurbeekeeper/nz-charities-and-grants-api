@@ -1,0 +1,27 @@
+{
+  "id": 59356,
+  "registrationNumber": "CC37082",
+  "name": "Stanley Brook Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "eann.steele@gmail.com",
+  "address": {
+    "line1": "C/o 19 Upper Stanley Brook Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Wakefield",
+    "postcode": "7096"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:25:48Z"
+}

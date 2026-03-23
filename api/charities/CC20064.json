@@ -1,0 +1,27 @@
+{
+  "id": 56212,
+  "registrationNumber": "CC20064",
+  "name": "NBC Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nbc.org.nz",
+  "email": "crfsharrison@gmail.com",
+  "address": {
+    "line1": "67 Eban Avenue",
+    "line2": " ",
+    "suburb": "Hillcrest",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429043161942",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-19T19:25:08Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75886,
+  "registrationNumber": "CC62339",
+  "name": "BIKES4GOOD LIMITED",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-11-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.bikes4good.co.nz",
+  "email": "amos@better.co.nz",
+  "address": {
+    "line1": "Unit 14",
+    "line2": "987 Ferry Road",
+    "suburb": "Ferrymead",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429051665647",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Bikes4Good.Charity",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:10:53Z"
+}

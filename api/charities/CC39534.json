@@ -1,0 +1,27 @@
+{
+  "id": 58113,
+  "registrationNumber": "CC39534",
+  "name": "Te Aitanga a Mahaki Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://mahaki.iwi.nz",
+  "email": "mahakitrustoffice@gmail.com",
+  "address": {
+    "line1": "Nga Wai E rua Building",
+    "line2": "Lowe Street",
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042837923",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Aitanga a Mahaki",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T22:24:48Z"
+}

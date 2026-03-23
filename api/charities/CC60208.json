@@ -1,0 +1,27 @@
+{
+  "id": 73758,
+  "registrationNumber": "CC60208",
+  "name": "Whanganui Kai Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whanganuikaihub.org",
+  "email": "wohnjilson@gmail.com",
+  "address": {
+    "line1": "267 St Hill Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429050385270",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whanganuikaihub",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T01:17:36Z"
+}

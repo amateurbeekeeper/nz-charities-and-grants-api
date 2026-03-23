@@ -1,0 +1,27 @@
+{
+  "id": 42293,
+  "registrationNumber": "CC26019",
+  "name": "Tautoko Services",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tautoko.org.nz",
+  "email": "mike@options.org.nz",
+  "address": {
+    "line1": "31 Princess Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042906568",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T01:15:14Z"
+}

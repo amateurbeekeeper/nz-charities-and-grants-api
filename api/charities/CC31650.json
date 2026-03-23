@@ -1,0 +1,27 @@
+{
+  "id": 54772,
+  "registrationNumber": "CC31650",
+  "name": "Waipareira Investments Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@waiwhanau.com",
+  "address": {
+    "line1": "6 Pioneer Street",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429039099297",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T20:52:02Z"
+}

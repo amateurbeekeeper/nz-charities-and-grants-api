@@ -1,0 +1,27 @@
+{
+  "id": 40483,
+  "registrationNumber": "CC35395",
+  "name": "Elizabeth Street Chapel Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thestreet.org.nz",
+  "email": "sam.lienert@thestreet.org.nz",
+  "address": {
+    "line1": "21 Hania Street",
+    "line2": " ",
+    "suburb": "Mount Victoria",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042715979",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:04Z"
+}

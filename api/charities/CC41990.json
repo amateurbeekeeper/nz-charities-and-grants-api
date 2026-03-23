@@ -1,0 +1,27 @@
+{
+  "id": 48564,
+  "registrationNumber": "CC41990",
+  "name": "Mairangi Bay Play Centre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mairangibay@playcentre.org.nz",
+  "address": {
+    "line1": "112 Kowhai Road",
+    "line2": " ",
+    "suburb": "Campbells Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429042757009",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:07:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44090,
+  "registrationNumber": "CC33160",
+  "name": "The Friends Of The Gallery Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-06-30T00:00:00Z",
+  "website": "https://www.artgallery.org.nz",
+  "email": "jandsspeirs@xtra.co.nz",
+  "address": {
+    "line1": "PO Box 13255",
+    "line2": "Tauranga Central",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3141"
+  },
+  "nzbn": "9429042953401",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Friends-of-the-Tauranga-Art-Gallery-542843505888611/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-27T20:48:35Z"
+}

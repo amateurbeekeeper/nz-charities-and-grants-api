@@ -1,0 +1,27 @@
+{
+  "id": 70701,
+  "registrationNumber": "CC57068",
+  "name": "Common",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-09-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://commonequal.com/",
+  "email": "hello@commonequal.com",
+  "address": {
+    "line1": "8 Cargill Street",
+    "line2": " ",
+    "suburb": "Eden Terrace",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/common.equal",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T01:51:19Z"
+}

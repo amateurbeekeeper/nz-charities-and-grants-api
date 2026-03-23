@@ -1,0 +1,27 @@
+{
+  "id": 63200,
+  "registrationNumber": "CC36795",
+  "name": "Community Of Refuge Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-01-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cort.org.nz",
+  "email": "stephen@cort.org.nz",
+  "address": {
+    "line1": "Level 3, 60-64 Upper Queen St",
+    "line2": " ",
+    "suburb": "Eden Terrace",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042663287",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T21:15:14Z"
+}

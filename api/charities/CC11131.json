@@ -1,0 +1,27 @@
+{
+  "id": 52189,
+  "registrationNumber": "CC11131",
+  "name": "Active Arts Taupo Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurer.activeartstaupo@gmail.com",
+  "address": {
+    "line1": "5 Redoubt Street",
+    "line2": " ",
+    "suburb": "Taupō",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429042978367",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@ActiveArtsTaupo",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T02:16:50Z"
+}

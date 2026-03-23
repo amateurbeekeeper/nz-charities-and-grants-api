@@ -1,0 +1,27 @@
+{
+  "id": 40728,
+  "registrationNumber": "CC23789",
+  "name": "Life Skills for Life",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lsfl.org.nz",
+  "email": "accountant@gha.co.nz",
+  "address": {
+    "line1": "34 Unsworth Road",
+    "line2": "RD 7",
+    "suburb": " ",
+    "city": "Hamurana",
+    "postcode": "3097"
+  },
+  "nzbn": "9429043174355",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:26:04Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52607,
+  "registrationNumber": "CC20231",
+  "name": "Tennis Auckland Region Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tennisauckland.co.nz",
+  "email": "taadmin@tennisauckland.co.nz",
+  "address": {
+    "line1": "1 Tennis Lane",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042590699",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tennisauckland",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T18:44:09Z"
+}

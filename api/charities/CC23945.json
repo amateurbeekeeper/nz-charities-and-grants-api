@@ -1,0 +1,27 @@
+{
+  "id": 40562,
+  "registrationNumber": "CC23945",
+  "name": "Shakespeare Globe Centre New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sgcnz.org.nz",
+  "email": "dawn@sgcnz.org.nz",
+  "address": {
+    "line1": "Level 1, SGCNZ Office",
+    "line2": "Toi Poneke:Wellington Arts Centre",
+    "suburb": "65-69 Abel Smith Street",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043054855",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Shakespeare Globe Centre New Zealand",
+    "twitter": "@sgcnz"
+  },
+  "lastUpdated": "2025-06-16T19:07:24Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 78127,
+  "registrationNumber": "CC63932",
+  "name": "The Christian Culture Mission Center",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "0171016@hanmail.net",
+  "address": {
+    "line1": "47 Pearn Crescent",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T20:20:38Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34432,
+  "registrationNumber": "CC50970",
+  "name": "School Kit Educational Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.schoolkit.co.nz",
+  "email": "emma@schoolkit.co.nz",
+  "address": {
+    "line1": "14 Garden Place",
+    "line2": "586 Victoria Street",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043259106",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T20:36:22Z"
+}

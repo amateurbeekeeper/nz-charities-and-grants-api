@@ -1,0 +1,27 @@
+{
+  "id": 44009,
+  "registrationNumber": "CC28595",
+  "name": "Clutha Valley Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nathancraig@live.co.uk",
+  "address": {
+    "line1": "65 Allangrange Road",
+    "line2": "RD 4",
+    "suburb": "Greenfield",
+    "city": "Balclutha",
+    "postcode": "9274"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T08:15:00Z"
+}

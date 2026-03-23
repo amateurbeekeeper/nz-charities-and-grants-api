@@ -1,0 +1,27 @@
+{
+  "id": 43078,
+  "registrationNumber": "CC35841",
+  "name": "The Catholic Discipleship College Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cdc.ac.nz",
+  "email": "info@cdc.ac.nz",
+  "address": {
+    "line1": "57 John Street",
+    "line2": "Pukekohe 2120",
+    "suburb": "Takapuna",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429043185825",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cdcnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T19:13:07Z"
+}

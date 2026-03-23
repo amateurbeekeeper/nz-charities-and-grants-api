@@ -1,0 +1,27 @@
+{
+  "id": 64081,
+  "registrationNumber": "CC44131",
+  "name": "Auckland Central Christadelphian Ecclesia",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gavin@longstaffe.net",
+  "address": {
+    "line1": "C/O 80 Park Rise",
+    "line2": " ",
+    "suburb": "Campbells Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-02T03:22:05Z"
+}

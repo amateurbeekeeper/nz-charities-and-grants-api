@@ -1,0 +1,27 @@
+{
+  "id": 66260,
+  "registrationNumber": "CC52532",
+  "name": "Wairoa Rock Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "waikaremoana@slingshot.co.nz",
+  "address": {
+    "line1": "3 Haig Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wairoa",
+    "postcode": "4108"
+  },
+  "nzbn": "9429043253210",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:43:24Z"
+}

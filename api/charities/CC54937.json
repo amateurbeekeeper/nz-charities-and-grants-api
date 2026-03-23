@@ -1,0 +1,27 @@
+{
+  "id": 68597,
+  "registrationNumber": "CC54937",
+  "name": "Massey Matters Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.masseymatters.org.nz",
+  "email": "manager@masseymatters.org.nz",
+  "address": {
+    "line1": "385 Don Buck Road",
+    "line2": " ",
+    "suburb": "Massey",
+    "city": "Auckland",
+    "postcode": "0614"
+  },
+  "nzbn": "9429043218837",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "massey matters",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T21:51:47Z"
+}

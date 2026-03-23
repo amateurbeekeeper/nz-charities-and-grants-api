@@ -1,0 +1,27 @@
+{
+  "id": 46127,
+  "registrationNumber": "CC36195",
+  "name": "West Harbour Congregational Christian And Missionary Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "alesanaeti@xtra.co.nz",
+  "address": {
+    "line1": "14 St Catherine Crescent",
+    "line2": " ",
+    "suburb": "West Harbour",
+    "city": "Auckland",
+    "postcode": "618"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:58:46Z"
+}

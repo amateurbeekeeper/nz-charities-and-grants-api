@@ -1,0 +1,27 @@
+{
+  "id": 50417,
+  "registrationNumber": "CC44033",
+  "name": "Bethel Living Christian Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kwasi@windowslive.com",
+  "address": {
+    "line1": "Flat 4",
+    "line2": "26 Tennessee Avenue",
+    "suburb": "Mangere East",
+    "city": "Auckland",
+    "postcode": "2024"
+  },
+  "nzbn": "9429043210312",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:31:48Z"
+}

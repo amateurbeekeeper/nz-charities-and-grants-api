@@ -1,0 +1,27 @@
+{
+  "id": 67613,
+  "registrationNumber": "CC53918",
+  "name": "NZ VETERINARY TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzva.org.nz",
+  "email": "kevin.anderson@vets.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "44 Victoria Street",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043296743",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-07T19:11:21Z"
+}

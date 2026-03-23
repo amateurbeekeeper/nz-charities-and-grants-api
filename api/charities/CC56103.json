@@ -1,0 +1,27 @@
+{
+  "id": 69742,
+  "registrationNumber": "CC56103",
+  "name": "Matamata Country Music Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.matamatacmc.co.nz",
+  "email": "Treasurer@matamatacmc.co.nz",
+  "address": {
+    "line1": "58 Waharoa Road West",
+    "line2": null,
+    "suburb": " ",
+    "city": "Matamata",
+    "postcode": "3400"
+  },
+  "nzbn": "9429042768326",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/matamatacountrymusicclub/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:39:33Z"
+}

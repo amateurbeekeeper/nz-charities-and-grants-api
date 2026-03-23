@@ -1,0 +1,27 @@
+{
+  "id": 65388,
+  "registrationNumber": "CC51629",
+  "name": "The Iron Bridge Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ironbridgefoundation.co.nz",
+  "email": "pam@ironbridge.co.nz",
+  "address": {
+    "line1": "119 Wrights Road",
+    "line2": " ",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:08:10Z"
+}

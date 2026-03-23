@@ -1,0 +1,27 @@
+{
+  "id": 50446,
+  "registrationNumber": "CC44092",
+  "name": "Kerikeri Sports Complex Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kerikerisportscomplex.co.nz",
+  "email": "info@kerikerisportscomplex.co.nz",
+  "address": {
+    "line1": "71 Waipapa Road",
+    "line2": " ",
+    "suburb": "Kerikeri",
+    "city": "Kerikeri",
+    "postcode": "245"
+  },
+  "nzbn": "9429043205691",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:23:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56186,
+  "registrationNumber": "CC21840",
+  "name": "NZCEO Finance Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzceo.org.nz",
+  "email": "k.shore@nzceo.org.nz",
+  "address": {
+    "line1": "Mercy Centre",
+    "line2": "15 Guildford Terrace",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429035527879",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T05:24:54Z"
+}

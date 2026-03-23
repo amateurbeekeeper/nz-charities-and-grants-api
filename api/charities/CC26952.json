@@ -1,0 +1,27 @@
+{
+  "id": 60753,
+  "registrationNumber": "CC26952",
+  "name": "Wiri Samoan Assembly Of God",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2019-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bethelchurch@xtra.co.nz",
+  "address": {
+    "line1": "6 Hayman Street",
+    "line2": "Otara",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": "9429042920922",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T19:10:45Z"
+}

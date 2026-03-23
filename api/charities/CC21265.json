@@ -1,0 +1,27 @@
+{
+  "id": 54457,
+  "registrationNumber": "CC21265",
+  "name": "True Colours Children's Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.truecolours.org.nz",
+  "email": "heidi@truecolours.org.nz",
+  "address": {
+    "line1": "16 Joffre Street",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043114788",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/truecoloursnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T04:07:58Z"
+}

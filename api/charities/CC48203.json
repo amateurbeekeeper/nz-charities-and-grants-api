@@ -1,0 +1,27 @@
+{
+  "id": 38489,
+  "registrationNumber": "CC48203",
+  "name": "Selwyn Netball Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-07-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sporty.co.nz/selwynnetball",
+  "email": "Treasurer@selwynnetball.com",
+  "address": {
+    "line1": "North Belt",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lincoln",
+    "postcode": null
+  },
+  "nzbn": "9429042660507",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/selwynnetball",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T21:57:03Z"
+}

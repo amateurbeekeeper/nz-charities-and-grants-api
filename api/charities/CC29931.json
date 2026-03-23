@@ -1,0 +1,27 @@
+{
+  "id": 47616,
+  "registrationNumber": "CC29931",
+  "name": "Tawa Community Patrol",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tawacp.org.nz",
+  "email": "001aaronj@gmail.com",
+  "address": {
+    "line1": "5 Cambridge Street",
+    "line2": " ",
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": "9429043183562",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/tawacommunitypatrol",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T04:44:29Z"
+}

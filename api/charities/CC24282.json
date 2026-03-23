@@ -1,0 +1,27 @@
+{
+  "id": 40509,
+  "registrationNumber": "CC24282",
+  "name": "Standards and Monitoring Services Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sams.org.nz",
+  "email": "delia@sams.org.nz",
+  "address": {
+    "line1": "Level 2, Findex House ",
+    "line2": "57 Willis Street  Te Aro",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042731856",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T18:15:37Z"
+}

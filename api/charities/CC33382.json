@@ -1,0 +1,27 @@
+{
+  "id": 45881,
+  "registrationNumber": "CC33382",
+  "name": "The Porirua Little Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://porirualittletheatre.co.nz",
+  "email": "russ.flo@xtra.co.nz",
+  "address": {
+    "line1": "4 Balmerino Grove",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waikanae",
+    "postcode": "5036"
+  },
+  "nzbn": "9429042812982",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T09:04:27Z"
+}

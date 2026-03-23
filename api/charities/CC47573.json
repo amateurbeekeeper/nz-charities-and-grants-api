@@ -1,0 +1,27 @@
+{
+  "id": 38845,
+  "registrationNumber": "CC47573",
+  "name": "All Nations ABA Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jamerson.nz@hotmail.com",
+  "address": {
+    "line1": "48B Dunbarton Street",
+    "line2": " ",
+    "suburb": "Redwood",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/allnationsabachurchnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T19:18:13Z"
+}

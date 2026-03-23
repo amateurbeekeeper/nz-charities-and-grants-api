@@ -1,0 +1,27 @@
+{
+  "id": 48367,
+  "registrationNumber": "CC30617",
+  "name": "Cancer Society of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cancernz.org.nz",
+  "email": "admin@cancer.org.nz",
+  "address": {
+    "line1": "Level 13, Ranchhod Tower",
+    "line2": "39 The Terrace",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": null
+  },
+  "nzbn": "9429042855873",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cancersocietyofnewzealand",
+    "twitter": "@NZCancerSo"
+  },
+  "lastUpdated": "2026-03-05T20:32:31Z"
+}

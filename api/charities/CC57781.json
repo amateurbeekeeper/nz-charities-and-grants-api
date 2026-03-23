@@ -1,0 +1,27 @@
+{
+  "id": 71408,
+  "registrationNumber": "CC57781",
+  "name": "Rodney Animal Rescue Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-04-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://rodneyanimalrescue.org",
+  "email": "alice@rodneyanimalrescue.org",
+  "address": {
+    "line1": "119 Blackbridge Road",
+    "line2": "RD 4",
+    "suburb": "Dairy Flat",
+    "city": "Albany",
+    "postcode": "0794"
+  },
+  "nzbn": "9429048696098",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/299263311519609/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T02:57:43Z"
+}

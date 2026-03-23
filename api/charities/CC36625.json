@@ -1,0 +1,27 @@
+{
+  "id": 62865,
+  "registrationNumber": "CC36625",
+  "name": "The Lions Club of Silverstream Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-01-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "johncathadam@xtra.co.nz",
+  "address": {
+    "line1": "7A Marlborough Street",
+    "line2": " ",
+    "suburb": "Silverstream",
+    "city": "Upper Hutt",
+    "postcode": "5019"
+  },
+  "nzbn": "9429043165766",
+  "financialYearEnd": "10/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SilverstreamLions",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T23:55:46Z"
+}

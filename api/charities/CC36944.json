@@ -1,0 +1,27 @@
+{
+  "id": 43289,
+  "registrationNumber": "CC36944",
+  "name": "Te Puke Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-07-30T00:00:00Z",
+  "website": "https://www.playcentre.org.nz",
+  "email": "te.puke@playcentre.org.nz",
+  "address": {
+    "line1": "Stock Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Puke",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-14T07:11:10Z"
+}

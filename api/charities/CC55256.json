@@ -1,0 +1,27 @@
+{
+  "id": 68908,
+  "registrationNumber": "CC55256",
+  "name": "The Helen Clark Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://helenclark.foundation/",
+  "email": "geoff@aylmer.co.nz",
+  "address": {
+    "line1": "WO Building",
+    "line2": "56 Wakefield Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429046602633",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@helenclarkfoundation",
+    "twitter": "https://twitter.com/HelenClarkFound?lang=en"
+  },
+  "lastUpdated": "2026-03-20T03:44:29Z"
+}

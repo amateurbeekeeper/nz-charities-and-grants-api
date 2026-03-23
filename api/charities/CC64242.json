@@ -1,0 +1,27 @@
+{
+  "id": 78424,
+  "registrationNumber": "CC64242",
+  "name": "Community Care Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jess.white@communitycare.org.nz",
+  "address": {
+    "line1": "602 Great South Road",
+    "line2": null,
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T01:07:39Z"
+}

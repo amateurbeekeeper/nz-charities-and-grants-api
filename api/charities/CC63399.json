@@ -1,0 +1,27 @@
+{
+  "id": 77599,
+  "registrationNumber": "CC63399",
+  "name": "Enderby Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-12-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "patrickcstrange@gmail.com",
+  "address": {
+    "line1": "752A Matapouri Road",
+    "line2": " ",
+    "suburb": "Matapouri",
+    "city": "Whangārei",
+    "postcode": "0173"
+  },
+  "nzbn": "9429052541254",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T22:52:04Z"
+}

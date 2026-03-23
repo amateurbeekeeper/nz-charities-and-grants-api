@@ -1,0 +1,27 @@
+{
+  "id": 74110,
+  "registrationNumber": "CC60519",
+  "name": "Grace Presbyterian Church Hamilton",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://gracehamilton.nz/",
+  "email": "info@gracehamilton.nz",
+  "address": {
+    "line1": "46 Holland Road",
+    "line2": " ",
+    "suburb": "Fairfield",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GraceChurchHamilton",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:40:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34608,
+  "registrationNumber": "CC50964",
+  "name": "NetNZ Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.netnz.org",
+  "email": "ken@netnz.org",
+  "address": {
+    "line1": "42A St Leonards Drive",
+    "line2": " ",
+    "suburb": "Saint Leonards",
+    "city": "Dunedin",
+    "postcode": "9022"
+  },
+  "nzbn": "9429043257966",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/netnz1",
+    "twitter": "@NetNZ1"
+  },
+  "lastUpdated": "2026-01-01T06:15:07Z"
+}

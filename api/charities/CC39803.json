@@ -1,0 +1,27 @@
+{
+  "id": 53890,
+  "registrationNumber": "CC39803",
+  "name": "West Coast Women's Refuge Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://refugewestcoast.org.nz",
+  "email": "Manager@refugewestcoast.org.nz",
+  "address": {
+    "line1": "135 High Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": "9429042912217",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/westcoastwomensrefuge/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T02:01:00Z"
+}

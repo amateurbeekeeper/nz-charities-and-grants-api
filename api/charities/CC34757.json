@@ -1,0 +1,27 @@
+{
+  "id": 60541,
+  "registrationNumber": "CC34757",
+  "name": "Coastguard Kaipara Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.coastguardkaipara.org.nz",
+  "email": "treasurer@coastguardkaipara.org.nz",
+  "address": {
+    "line1": "85 Springs Road",
+    "line2": " ",
+    "suburb": "Parakai",
+    "city": "Helensville",
+    "postcode": "0830"
+  },
+  "nzbn": "9429042649519",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CoastguardKaipara/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T02:27:54Z"
+}

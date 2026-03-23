@@ -1,0 +1,27 @@
+{
+  "id": 74555,
+  "registrationNumber": "CC60973",
+  "name": "Jolly Good Chaps",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-02-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.jollygoodchaps.co.nz",
+  "email": "glenn.fulcher@outlook.co.nz",
+  "address": {
+    "line1": "30 Ossian Street",
+    "line2": " ",
+    "suburb": "Ahuriri",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429051007621",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100075788449999",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:57:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70767,
+  "registrationNumber": "CC57128",
+  "name": "Atawhai Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-10-01T00:00:00Z",
+  "dateDeregistered": "2025-08-18T00:00:00Z",
+  "website": "playcentre.org.nz",
+  "email": "atawhai@playcentre.org.nz",
+  "address": {
+    "line1": "655 Atawhai Crescent",
+    "line2": " ",
+    "suburb": "Atawhai",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Atawhai-Playcentre-497365870274402/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:32:26Z"
+}

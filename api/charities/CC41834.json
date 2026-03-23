@@ -1,0 +1,27 @@
+{
+  "id": 44100,
+  "registrationNumber": "CC41834",
+  "name": "Rakiura Hunter Camps Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rhct.org.nz/",
+  "email": "wtd243@gmail.com",
+  "address": {
+    "line1": "9 Pipiri Street",
+    "line2": "Pegasus 7612",
+    "suburb": " ",
+    "city": "Pegasus",
+    "postcode": "7612"
+  },
+  "nzbn": "9429043073405",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Rakiura Hunter Camp Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:02:24Z"
+}

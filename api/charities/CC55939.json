@@ -1,0 +1,27 @@
+{
+  "id": 69587,
+  "registrationNumber": "CC55939",
+  "name": "Aotearoa Youth Leadership Institute",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ayli.org.nz",
+  "email": "benj@ayli.org.nz",
+  "address": {
+    "line1": "Flat 3",
+    "line2": "416 Mount Albert Road",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429043284290",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/youthleadersnz",
+    "twitter": "twitter.com/youthleadersnz"
+  },
+  "lastUpdated": "2025-09-30T09:25:16Z"
+}

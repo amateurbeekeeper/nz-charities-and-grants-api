@@ -1,0 +1,27 @@
+{
+  "id": 65775,
+  "registrationNumber": "CC52032",
+  "name": "St James' (Niuean) Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kpcniue.co.nz",
+  "email": "jo.vilipalmer@gmail.com",
+  "address": {
+    "line1": "2 Sidlaw Street",
+    "line2": " ",
+    "suburb": "Strathmore Park",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Kilbirnie Presbyterian Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:29:36Z"
+}

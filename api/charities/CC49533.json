@@ -1,0 +1,27 @@
+{
+  "id": 35188,
+  "registrationNumber": "CC49533",
+  "name": "Predator Free New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.predatorfreenz.org",
+  "email": "margaret@predatorfreenz.org",
+  "address": {
+    "line1": "32 Blair Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043245703",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PFNewZealand/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T18:21:14Z"
+}

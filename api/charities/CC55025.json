@@ -1,0 +1,27 @@
+{
+  "id": 68686,
+  "registrationNumber": "CC55025",
+  "name": "City of Dunedin Pipe Band Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-12-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.codpb.org.nz",
+  "email": "president@codpb.org.nz",
+  "address": {
+    "line1": "39 Serpentine Avenue",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042615835",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CODPBNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T04:05:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34166,
+  "registrationNumber": "CC50682",
+  "name": "Sefton Volunteer Rural Fire Force",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "secretary.sefton@fireandemergency.nz",
+  "address": {
+    "line1": "14C Newnham Street",
+    "line2": "Rangiora 7400",
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T00:13:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42373,
+  "registrationNumber": "CC33458",
+  "name": "Estate of Grace Edith Meliora Kay",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gtcc@pgtrust.co.nz",
+  "address": {
+    "line1": "C/O Perpetual Guardian",
+    "line2": "Level 8, 191 Queen Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T18:13:15Z"
+}

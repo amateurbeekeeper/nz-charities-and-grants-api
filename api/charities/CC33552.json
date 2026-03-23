@@ -1,0 +1,27 @@
+{
+  "id": 40532,
+  "registrationNumber": "CC33552",
+  "name": "Lincoln Road Bible Chapel Childcare and Kindergarten Centre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": " http://www.kindy.lrchildcare.org.nz/",
+  "email": "officemanager@lrchildcare.org.nz",
+  "address": {
+    "line1": "66-68 Lincoln Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "610"
+  },
+  "nzbn": "9429042654186",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LincolnRoadChildcare/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T20:41:55Z"
+}

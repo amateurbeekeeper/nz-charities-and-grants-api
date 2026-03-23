@@ -1,0 +1,27 @@
+{
+  "id": 72799,
+  "registrationNumber": "CC59191",
+  "name": "Tafatolu Pasifika Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sione03@hotmail.com",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "40 Heathdale Crescent",
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T21:45:33Z"
+}

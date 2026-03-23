@@ -1,0 +1,27 @@
+{
+  "id": 49899,
+  "registrationNumber": "CC37586",
+  "name": "Afghan Association of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.afghanistan.org.nz",
+  "email": "Secretary@afghanistan.org.nz",
+  "address": {
+    "line1": "18 Edgewood Way",
+    "line2": "Mount Roskill",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429043069330",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/media.aanz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T00:44:18Z"
+}

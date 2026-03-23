@@ -1,0 +1,27 @@
+{
+  "id": 70659,
+  "registrationNumber": "CC57025",
+  "name": "She Sharp",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.shesharp.org.nz",
+  "email": "mahsa.mohaghegh@gmail.com",
+  "address": {
+    "line1": "12 Basra Drive",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429047458970",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/shesharpnz",
+    "twitter": "@shesharp_nz"
+  },
+  "lastUpdated": "2025-12-26T07:49:42Z"
+}

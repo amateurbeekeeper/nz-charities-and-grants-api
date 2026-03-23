@@ -1,0 +1,27 @@
+{
+  "id": 32603,
+  "registrationNumber": "CC48104",
+  "name": "The Edith Collier Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hayden@beltonsmith.co.nz",
+  "address": {
+    "line1": "BELTON, SMITH & ASSOCIATES LTD",
+    "line2": "PO Box 4386",
+    "suburb": " ",
+    "city": "Wanganui",
+    "postcode": "4541"
+  },
+  "nzbn": "9429042778790",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T19:57:36Z"
+}

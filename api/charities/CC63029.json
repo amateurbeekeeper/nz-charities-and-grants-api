@@ -1,0 +1,27 @@
+{
+  "id": 77022,
+  "registrationNumber": "CC63029",
+  "name": "CCS DISABILITY ACTION",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ccsdisabilityaction.org.nz",
+  "email": "Melissa.smith@ccsdisabilityaction.org.nz",
+  "address": {
+    "line1": "Level 3, 94 Dixon Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington ",
+    "postcode": "6011"
+  },
+  "nzbn": "9429052543777",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://facebook.com/CCSDisabilityAction",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T01:59:47Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54790,
+  "registrationNumber": "CC31653",
+  "name": "Housing for Social Benefits Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@waiwhanau.com",
+  "address": {
+    "line1": "6 Pioneer Street",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429039035691",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T22:18:18Z"
+}

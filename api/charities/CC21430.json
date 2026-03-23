@@ -1,0 +1,27 @@
+{
+  "id": 55503,
+  "registrationNumber": "CC21430",
+  "name": "Masterton Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.mcclife.co.nz",
+  "email": "finance@mcclife.co.nz",
+  "address": {
+    "line1": "117 Ngaumutawa Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429042942542",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MastertonCommunityChurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:03:35Z"
+}

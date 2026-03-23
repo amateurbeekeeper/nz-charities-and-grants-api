@@ -1,0 +1,27 @@
+{
+  "id": 37041,
+  "registrationNumber": "CC46559",
+  "name": "The Amici Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.amicitrust.co.nz",
+  "email": "trish@amicitrust.org.nz",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "12 Astoria Place",
+    "suburb": "Northpark",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429043226313",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The Amici Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T02:51:00Z"
+}

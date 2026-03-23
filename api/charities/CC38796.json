@@ -1,0 +1,27 @@
+{
+  "id": 63832,
+  "registrationNumber": "CC38796",
+  "name": "The Royal Society of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://royalsociety.org.nz/",
+  "email": "james.henry@royalsociety.org.nz",
+  "address": {
+    "line1": "11 Turnbull Street",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429047573628",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RoyalSocietyNZ",
+    "twitter": "https://twitter.com/royalsocietynz"
+  },
+  "lastUpdated": "2026-02-24T01:19:22Z"
+}

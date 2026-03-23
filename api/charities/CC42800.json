@@ -1,0 +1,27 @@
+{
+  "id": 46157,
+  "registrationNumber": "CC42800",
+  "name": "St Paul's Collegians Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://community.stpauls.school.nz/",
+  "email": "collegians@stpauls.school.nz",
+  "address": {
+    "line1": "77 Hukanui Road",
+    "line2": " ",
+    "suburb": "Chartwell",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429042831495",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/stpaulscollegiate/?ref=bookmarks",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T20:45:22Z"
+}

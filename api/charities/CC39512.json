@@ -1,0 +1,27 @@
+{
+  "id": 47229,
+  "registrationNumber": "CC39512",
+  "name": "Auckland Challenge Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aucklandchallenge.org.nz",
+  "email": "kathryn@aucklandchallenge.org.nz",
+  "address": {
+    "line1": "10 Connaught Street",
+    "line2": " ",
+    "suburb": "Blockhouse Bay",
+    "city": "Auckland",
+    "postcode": "600"
+  },
+  "nzbn": "9429043093588",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aucklandchallenge/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T22:03:58Z"
+}

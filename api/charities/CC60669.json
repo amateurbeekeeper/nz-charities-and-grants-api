@@ -1,0 +1,27 @@
+{
+  "id": 74263,
+  "registrationNumber": "CC60669",
+  "name": "Te Ao Matauranga Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "vivbeaz@gmail.com",
+  "address": {
+    "line1": "13 Freehold Lane",
+    "line2": " ",
+    "suburb": "Kamo",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429043307043",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T22:52:51Z"
+}

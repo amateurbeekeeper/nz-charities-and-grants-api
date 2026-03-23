@@ -1,0 +1,27 @@
+{
+  "id": 60078,
+  "registrationNumber": "CC29460",
+  "name": "Animal Protection Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.theblacksheep.org.nz",
+  "email": "k8_pussycat@yahoo.com",
+  "address": {
+    "line1": "162 Riddiford Street",
+    "line2": " ",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043140411",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Black-Sheep-Animal-Sanctuary-Otaki-168073479885928/?ref",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T18:10:46Z"
+}

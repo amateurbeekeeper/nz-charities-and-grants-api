@@ -1,0 +1,27 @@
+{
+  "id": 69333,
+  "registrationNumber": "CC55687",
+  "name": "Basket of Bread & Fish Ltd",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pq.emails@gmail.com",
+  "address": {
+    "line1": "202 Moffat Road",
+    "line2": " ",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429046742919",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T07:38:48Z"
+}

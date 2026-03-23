@@ -1,0 +1,27 @@
+{
+  "id": 58344,
+  "registrationNumber": "CC42374",
+  "name": "Waikato Enterprise Agency",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-07-14T00:00:00Z",
+  "website": "http://www.huntly.co.nz",
+  "email": "kim@waikatodistrict.co.nz",
+  "address": {
+    "line1": "98 Kimihia Road",
+    "line2": null,
+    "suburb": null,
+    "city": "Huntly",
+    "postcode": "3700"
+  },
+  "nzbn": "9429042883340",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-28T07:11:24Z"
+}

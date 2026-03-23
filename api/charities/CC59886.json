@@ -1,0 +1,27 @@
+{
+  "id": 73412,
+  "registrationNumber": "CC59886",
+  "name": "TGTB Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tgtb.org.nz",
+  "email": "gary@tgtb.org.nz",
+  "address": {
+    "line1": "11 Mayfair Place",
+    "line2": " ",
+    "suburb": "Glen Innes",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429043394210",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/bradleylanenz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T20:55:51Z"
+}

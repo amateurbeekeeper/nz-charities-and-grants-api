@@ -1,0 +1,27 @@
+{
+  "id": 58075,
+  "registrationNumber": "CC25724",
+  "name": "The Connections Education and Development Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "connect@earthlight.co.nz",
+  "address": {
+    "line1": "231 Middleton Road",
+    "line2": " ",
+    "suburb": "Corstorphine",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042854340",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/connectionscentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:53:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65421,
+  "registrationNumber": "CC51657",
+  "name": "Taranaki Neurodiversity Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.theheadoffice.org.nz",
+  "email": "connecting@theheadoffice.org.nz",
+  "address": {
+    "line1": "155 Devon Street East",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043290468",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T08:14:18Z"
+}

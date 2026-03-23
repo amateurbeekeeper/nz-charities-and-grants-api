@@ -1,0 +1,27 @@
+{
+  "id": 48471,
+  "registrationNumber": "CC32206",
+  "name": "New Zealand Association of General Surgeons Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzags.co.nz",
+  "email": "michele@nzags.co.nz",
+  "address": {
+    "line1": "8 Kent Terrace",
+    "line2": " ",
+    "suburb": "Mount Victoria",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042678816",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61573088844299",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-07T19:09:54Z"
+}

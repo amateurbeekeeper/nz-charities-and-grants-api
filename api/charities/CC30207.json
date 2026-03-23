@@ -1,0 +1,27 @@
+{
+  "id": 57237,
+  "registrationNumber": "CC30207",
+  "name": "New Zealand Rheumatology Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.rheumatology.org.nz",
+  "email": "secretary@rheumatology.org.nz",
+  "address": {
+    "line1": "Department of Rheumatology, Christchurch Hospital",
+    "line2": "2 Riccarton Avenue",
+    "suburb": "Christchurch Central City",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042870821",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T21:11:05Z"
+}

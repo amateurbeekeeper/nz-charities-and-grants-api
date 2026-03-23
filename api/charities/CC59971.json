@@ -1,0 +1,27 @@
+{
+  "id": 73556,
+  "registrationNumber": "CC59971",
+  "name": "Christchurch Rabbit Rescue",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-02-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.crr.org.nz/",
+  "email": "info@crr.org.nz",
+  "address": {
+    "line1": "PO Box 16483",
+    "line2": " ",
+    "suburb": "Hornby",
+    "city": "Christchurch",
+    "postcode": "8441"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/christchurchrabbitrescue",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T19:36:31Z"
+}

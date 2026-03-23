@@ -1,0 +1,27 @@
+{
+  "id": 37181,
+  "registrationNumber": "CC47848",
+  "name": "Bay of Plenty Pipes and Drums Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-06-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://boppd.co.nz",
+  "email": "contact@boppd.co.nz",
+  "address": {
+    "line1": "14 Stafford Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waihi",
+    "postcode": "3610"
+  },
+  "nzbn": "9429043230853",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BayOfPlentyPipesAndDrums",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T03:01:13Z"
+}

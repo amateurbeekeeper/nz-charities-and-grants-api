@@ -1,0 +1,27 @@
+{
+  "id": 77111,
+  "registrationNumber": "CC63069",
+  "name": "Aparima Riverton Trails Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "aparimartt@gmail.com",
+  "address": {
+    "line1": "234 Rocks Highway",
+    "line2": null,
+    "suburb": "Riverton/aparima",
+    "city": "Riverton",
+    "postcode": "9822"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-02T21:10:08Z"
+}

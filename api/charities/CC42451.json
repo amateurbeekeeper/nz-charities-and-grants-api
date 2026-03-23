@@ -1,0 +1,27 @@
+{
+  "id": 64666,
+  "registrationNumber": "CC42451",
+  "name": "Kapiti Brass Band",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rvmetcalfe@icloud.com",
+  "address": {
+    "line1": "28 David Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waikanae",
+    "postcode": "5036"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/KapitiBrass/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T02:34:35Z"
+}

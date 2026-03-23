@@ -1,0 +1,27 @@
+{
+  "id": 47649,
+  "registrationNumber": "CC30368",
+  "name": "Dargaville Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-06-16T00:00:00Z",
+  "website": null,
+  "email": "dargaville@playcentre.org.nz",
+  "address": {
+    "line1": "7 Ranfurly Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Dargaville",
+    "postcode": "0310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T07:33:02Z"
+}

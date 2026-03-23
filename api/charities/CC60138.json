@@ -1,0 +1,27 @@
+{
+  "id": 73781,
+  "registrationNumber": "CC60138",
+  "name": "We Help U",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wehelpu.co.nz",
+  "email": "steve@wehelpu.co.nz",
+  "address": {
+    "line1": "34 Matapana Road",
+    "line2": " ",
+    "suburb": "Palm Beach",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429050567102",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T13:34:44Z"
+}

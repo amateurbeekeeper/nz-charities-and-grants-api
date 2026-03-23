@@ -1,0 +1,27 @@
+{
+  "id": 61008,
+  "registrationNumber": "CC30097",
+  "name": "Parafed Otago Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.parafedotago.com",
+  "email": "secretary@parafedotago.co.nz",
+  "address": {
+    "line1": "Sargood Centre",
+    "line2": "40 Logan Park Drive",
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9058"
+  },
+  "nzbn": "9429042800217",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T01:57:56Z"
+}

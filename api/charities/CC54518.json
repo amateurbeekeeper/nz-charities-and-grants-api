@@ -1,0 +1,27 @@
+{
+  "id": 68191,
+  "registrationNumber": "CC54518",
+  "name": "Encounter Centre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://encountercentre.org & encountercentre.com",
+  "email": "craig@encounterministries.org.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "1 Fairwater Road",
+    "suburb": null,
+    "city": "Warkworth",
+    "postcode": "0910"
+  },
+  "nzbn": "9429045999277",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T09:23:07Z"
+}

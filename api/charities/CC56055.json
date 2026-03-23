@@ -1,0 +1,27 @@
+{
+  "id": 69691,
+  "registrationNumber": "CC56055",
+  "name": "Everybody Eats Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://everybodyeats.nz",
+  "email": "amy@everybodyeats.nz",
+  "address": {
+    "line1": "306 Onehunga Mall",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429046674937",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/everybodyeatsnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T05:15:43Z"
+}

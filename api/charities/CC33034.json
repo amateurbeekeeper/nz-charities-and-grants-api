@@ -1,0 +1,27 @@
+{
+  "id": 49830,
+  "registrationNumber": "CC33034",
+  "name": "Frankton Rotary Trust Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.franktonrotary.org.nz",
+  "email": "iansrotary@gmail.com",
+  "address": {
+    "line1": "7 Ebony Court",
+    "line2": " ",
+    "suburb": "Rototuna North",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429042905189",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RotaryFranktonTeRapa/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T22:50:15Z"
+}

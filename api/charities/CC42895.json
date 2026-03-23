@@ -1,0 +1,27 @@
+{
+  "id": 60358,
+  "registrationNumber": "CC42895",
+  "name": "Social Service Providers Aotearoa Children, Family Community (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sspa.org.nz",
+  "email": "ceo@sspa.org.nz",
+  "address": {
+    "line1": "192 Tinakori Road",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043004171",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SocialServiceProvidersAotearoa/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T03:23:40Z"
+}

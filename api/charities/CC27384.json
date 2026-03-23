@@ -1,0 +1,27 @@
+{
+  "id": 59702,
+  "registrationNumber": "CC27384",
+  "name": "Grace Vineyard Christian Fellowship",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.grace.org.nz",
+  "email": "casey.williams@grace.org.nz",
+  "address": {
+    "line1": "150 Ferry Road",
+    "line2": " ",
+    "suburb": "Waltham",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042970262",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T21:12:29Z"
+}

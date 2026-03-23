@@ -1,0 +1,27 @@
+{
+  "id": 69140,
+  "registrationNumber": "CC55480",
+  "name": "Tui Pā Marae",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tuipa.tearoha@gmail.com",
+  "address": {
+    "line1": "57 Tui Pa Road",
+    "line2": "Te Aroha 3392",
+    "suburb": " ",
+    "city": "Te Aroha",
+    "postcode": "3392"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Tui Pa Marae Te Aroha",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T15:26:56Z"
+}

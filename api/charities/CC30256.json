@@ -1,0 +1,27 @@
+{
+  "id": 49595,
+  "registrationNumber": "CC30256",
+  "name": "Morningside Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-09T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/morningside",
+  "email": "trixh_897@hotmail.com",
+  "address": {
+    "line1": "1A School Road",
+    "line2": " ",
+    "suburb": "Morningside",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T07:18:36Z"
+}

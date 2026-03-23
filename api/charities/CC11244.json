@@ -1,0 +1,27 @@
+{
+  "id": 51615,
+  "registrationNumber": "CC11244",
+  "name": "People First New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.peoplefirst.org.nz",
+  "email": "cindyjohns@peoplefirst.org.nz",
+  "address": {
+    "line1": "Level 5",
+    "line2": "175 Victoria Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042983835",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/peoplefirstnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T00:35:58Z"
+}

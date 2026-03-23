@@ -1,0 +1,27 @@
+{
+  "id": 54108,
+  "registrationNumber": "CC22926",
+  "name": "Sarona Community Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-04-13T00:00:00Z",
+  "dateDeregistered": "2023-05-05T00:00:00Z",
+  "website": "https://sarona.org.nz",
+  "email": "manager@sarona.org.nz",
+  "address": {
+    "line1": "26 Cedars Street",
+    "line2": " ",
+    "suburb": "Hoon Hay",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429042724247",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-05-19T07:07:53Z"
+}

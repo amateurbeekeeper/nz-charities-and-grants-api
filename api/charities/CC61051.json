@@ -1,0 +1,27 @@
+{
+  "id": 74634,
+  "registrationNumber": "CC61051",
+  "name": "Peninsula Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-01-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "pct.co.nz",
+  "email": "michael.j.ewing@gmail.com",
+  "address": {
+    "line1": "17 Ridgedale Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Silverdale",
+    "postcode": "0932"
+  },
+  "nzbn": "9429050427048",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T19:00:20Z"
+}

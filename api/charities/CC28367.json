@@ -1,0 +1,27 @@
+{
+  "id": 59676,
+  "registrationNumber": "CC28367",
+  "name": "Wellington Youth Sailing Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://youthyachtingscheme.org.nz/",
+  "email": "wyst.treasurer@rpnyc.org.nz",
+  "address": {
+    "line1": "115 Oriental Parade",
+    "line2": " ",
+    "suburb": "Oriental Bay",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043060115",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-26T20:04:47Z"
+}

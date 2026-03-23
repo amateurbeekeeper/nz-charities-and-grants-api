@@ -1,0 +1,27 @@
+{
+  "id": 42334,
+  "registrationNumber": "CC24487",
+  "name": "Stage Challenge Foundation",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-05-18T00:00:00Z",
+  "dateDeregistered": "2019-12-30T00:00:00Z",
+  "website": "http://www.stagechallenge.co.nz",
+  "email": "hsjoquist@stagechallenge.co.nz",
+  "address": {
+    "line1": "Ford Building",
+    "line2": " 86 Highbrook Drive",
+    "suburb": "Highbrook",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429043001132",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-01-14T06:00:59Z"
+}

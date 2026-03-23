@@ -1,0 +1,27 @@
+{
+  "id": 76751,
+  "registrationNumber": "CC62893",
+  "name": "Lapita People",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-10-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "katrianasua171@gmail.com",
+  "address": {
+    "line1": "15 Benita Place",
+    "line2": " ",
+    "suburb": "Sunnyvale",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T20:51:21Z"
+}

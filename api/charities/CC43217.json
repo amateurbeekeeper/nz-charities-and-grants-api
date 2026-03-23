@@ -1,0 +1,27 @@
+{
+  "id": 60963,
+  "registrationNumber": "CC43217",
+  "name": "Friends Of Glenmark Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "friendsofglenmarkchurch.org.nz",
+  "email": "munz5@xtra.co.nz",
+  "address": {
+    "line1": "433 Glenmark Drive",
+    "line2": "RD 3",
+    "suburb": "Waipara",
+    "city": "Amberley",
+    "postcode": "7483"
+  },
+  "nzbn": "9429042700333",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Friends of Glenmark Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-25T19:35:37Z"
+}

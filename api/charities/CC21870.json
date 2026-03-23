@@ -1,0 +1,27 @@
+{
+  "id": 56429,
+  "registrationNumber": "CC21870",
+  "name": "Cancer Society Of New Zealand Hawke's Bay Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cancernz.org.nz",
+  "email": "chris.franklyn@cancercd.org.nz",
+  "address": {
+    "line1": "801 Francis Hicks Avenue",
+    "line2": "Hastings 4122",
+    "suburb": "Raureka",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429042712046",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CancerSocietyHB/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T03:31:38Z"
+}

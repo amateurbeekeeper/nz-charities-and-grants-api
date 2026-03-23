@@ -1,0 +1,27 @@
+{
+  "id": 65807,
+  "registrationNumber": "CC52065",
+  "name": "Cosy Homes Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cosyhomes.org.nz",
+  "email": "manager@housingalliance.nz",
+  "address": {
+    "line1": "Regus Office Space, Office 136",
+    "line2": "218 George Street ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043271849",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/cosyhomesnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T20:56:52Z"
+}

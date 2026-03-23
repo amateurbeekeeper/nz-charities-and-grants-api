@@ -1,0 +1,27 @@
+{
+  "id": 33311,
+  "registrationNumber": "CC48996",
+  "name": "Taranaki Land Search and Rescue Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-02-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taranaki-landsar.org.nz",
+  "email": "treasurer@taranakilandsar.org.nz",
+  "address": {
+    "line1": "30A Redwood Crescent",
+    "line2": " ",
+    "suburb": "Hurdon",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429046536228",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:45:58Z"
+}

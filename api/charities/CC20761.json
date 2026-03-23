@@ -1,0 +1,27 @@
+{
+  "id": 53363,
+  "registrationNumber": "CC20761",
+  "name": "The Society Of Mary General New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sm.org.nz",
+  "email": "williams@smnz.org.nz",
+  "address": {
+    "line1": "219 Thorndon Quay",
+    "line2": "219 Thorndon Quay",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042943921",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T21:09:34Z"
+}

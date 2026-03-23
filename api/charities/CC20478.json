@@ -1,0 +1,27 @@
+{
+  "id": 53461,
+  "registrationNumber": "CC20478",
+  "name": "Christian Broadcasting Association Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cba.org.nz",
+  "email": "erin@cba.org.nz",
+  "address": {
+    "line1": "231 Dominion Road",
+    "line2": null,
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042610984",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "CBA - Christian Broadcasting Association",
+    "twitter": "CBA Trust"
+  },
+  "lastUpdated": "2026-02-26T20:31:50Z"
+}

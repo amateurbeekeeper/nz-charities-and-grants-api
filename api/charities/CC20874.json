@@ -1,0 +1,27 @@
+{
+  "id": 53912,
+  "registrationNumber": "CC20874",
+  "name": "Complex Chronic Illness Support Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ccisupport.org.nz",
+  "email": "ceo@ccisupport.org.nz",
+  "address": {
+    "line1": "43 Welcome Bay Road",
+    "line2": " ",
+    "suburb": "Welcome Bay",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042591948",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mecfsbop",
+    "twitter": "https://x.com/CCISupportNZ"
+  },
+  "lastUpdated": "2025-09-30T19:03:27Z"
+}

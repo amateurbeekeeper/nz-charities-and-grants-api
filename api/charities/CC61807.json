@@ -1,0 +1,27 @@
+{
+  "id": 75368,
+  "registrationNumber": "CC61807",
+  "name": "The Meke Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "leviarmstrong@patunz.com",
+  "address": {
+    "line1": "113 Hunter Drive",
+    "line2": null,
+    "suburb": "Awatoto",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T01:35:49Z"
+}

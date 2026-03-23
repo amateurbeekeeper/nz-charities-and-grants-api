@@ -1,0 +1,27 @@
+{
+  "id": 66555,
+  "registrationNumber": "CC52816",
+  "name": "North Harbour Community Patrol",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-12-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.northharbourcommunitypatrol.org.nz",
+  "email": "nhcommunitypatrol@gmail.com",
+  "address": {
+    "line1": "52 Parkway Drive",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043260089",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/northharbourcommunitypatrol/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T07:35:15Z"
+}

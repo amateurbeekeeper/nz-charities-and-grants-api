@@ -1,0 +1,27 @@
+{
+  "id": 53646,
+  "registrationNumber": "CC21579",
+  "name": "Te Mauri Tau Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "putahi@mauritau.org.nz",
+  "address": {
+    "line1": "20 Cornwall Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Raglan",
+    "postcode": "3295"
+  },
+  "nzbn": "9429042958178",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-03T19:43:47Z"
+}

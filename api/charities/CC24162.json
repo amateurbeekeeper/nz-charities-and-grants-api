@@ -1,0 +1,27 @@
+{
+  "id": 41179,
+  "registrationNumber": "CC24162",
+  "name": "SCAPE Public Art Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.scapepublicart.org.nz",
+  "email": "rachel@scapepublicart.org.nz",
+  "address": {
+    "line1": "301 Montreal Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429043064366",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SCAPEPublicArt/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T23:52:15Z"
+}

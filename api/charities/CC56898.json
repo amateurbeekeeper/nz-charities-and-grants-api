@@ -1,0 +1,27 @@
+{
+  "id": 70530,
+  "registrationNumber": "CC56898",
+  "name": "Hawke's Bay Maori Tourism Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hawkesbaymaoritourism.com",
+  "email": "ketia1amh@gmail.com",
+  "address": {
+    "line1": "170A Waghorne Street",
+    "line2": " ",
+    "suburb": "Ahuriri",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429043364107",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hawkesbaymaoritourism",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T22:54:50Z"
+}

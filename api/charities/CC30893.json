@@ -1,0 +1,27 @@
+{
+  "id": 49314,
+  "registrationNumber": "CC30893",
+  "name": "The Paulownia Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://paulowniatrust.org.nz",
+  "email": "gm@paulowniatrust.org.nz",
+  "address": {
+    "line1": "534C Ferry Road",
+    "line2": " ",
+    "suburb": "Woolston",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429042923121",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T19:34:40Z"
+}

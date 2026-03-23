@@ -1,0 +1,27 @@
+{
+  "id": 63088,
+  "registrationNumber": "CC37993",
+  "name": "The New Zealand Robotics Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kiwibots.co.nz",
+  "email": "michellem@kiwibots.co.nz",
+  "address": {
+    "line1": "137 James Line",
+    "line2": " ",
+    "suburb": "Kelvin Grove",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429043092901",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/kiwibots",
+    "twitter": "@kiwibots"
+  },
+  "lastUpdated": "2025-09-21T19:59:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34324,
+  "registrationNumber": "CC50571",
+  "name": "New Zealand Flying Doctor Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2014-05-27T00:00:00Z",
+  "dateDeregistered": "2017-06-30T00:00:00Z",
+  "website": "https://www.nzflyingdoctors.co.nz",
+  "email": "rachael@airrescue.co.nz",
+  "address": {
+    "line1": "800C Pound Road",
+    "line2": "Harewood Aviation Park",
+    "suburb": "McLeans Island",
+    "city": "Christchurch",
+    "postcode": "7676"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-03-23T02:23:39Z"
+}

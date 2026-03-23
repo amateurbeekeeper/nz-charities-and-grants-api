@@ -1,0 +1,27 @@
+{
+  "id": 56021,
+  "registrationNumber": "CC23662",
+  "name": "Archer Villages Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.archer.org.nz",
+  "email": "office@archer.org.nz",
+  "address": {
+    "line1": "166 Colombo Street",
+    "line2": null,
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429033224534",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:16:46Z"
+}

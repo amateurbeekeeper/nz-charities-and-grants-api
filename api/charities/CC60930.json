@@ -1,0 +1,27 @@
+{
+  "id": 74512,
+  "registrationNumber": "CC60930",
+  "name": "Ngā Puna Reo o Aotearoa Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-12-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kahuipunareo@gmail.com",
+  "address": {
+    "line1": "14 Aurora Terrace",
+    "line2": " ",
+    "suburb": "Hillcrest",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429050963485",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T02:23:46Z"
+}

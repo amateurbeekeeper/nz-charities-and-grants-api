@@ -1,0 +1,27 @@
+{
+  "id": 45087,
+  "registrationNumber": "CC41156",
+  "name": "Te Ao Marama Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tami.co.nz",
+  "email": "office@tami.maori.nz",
+  "address": {
+    "line1": "98 Yarrow Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429043009206",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/Te-Ao-Marama-INC",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T18:18:05Z"
+}

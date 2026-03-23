@@ -1,0 +1,27 @@
+{
+  "id": 52171,
+  "registrationNumber": "CC10423",
+  "name": "The Maritime Museum Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.maritimemuseumfoundation.com",
+  "email": "caroline.nelson@maritimemuseum.co.nz",
+  "address": {
+    "line1": "c/- New Zealand Maritime Museum",
+    "line2": "Cnr Quay & Hobson Streets",
+    "suburb": "Viaduct Harbour",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043146444",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-10T19:59:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70984,
+  "registrationNumber": "CC57353",
+  "name": "Lincoln University Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-11-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lincoln.ac.nz/About-Lincoln/Lincoln-University-Foundation/?sti=1",
+  "email": "foundation@lincoln.ac.nz",
+  "address": {
+    "line1": "161 Cossars Road",
+    "line2": "RD 2",
+    "suburb": "Tai Tapu",
+    "city": "Christchurch",
+    "postcode": "7672"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T05:31:38Z"
+}

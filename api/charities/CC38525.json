@@ -1,0 +1,27 @@
+{
+  "id": 45236,
+  "registrationNumber": "CC38525",
+  "name": "Houghton Valley Home And School Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "homeandschooltreasurer@houghton.school.nz",
+  "address": {
+    "line1": "110 Houghton Bay Road",
+    "line2": " ",
+    "suburb": "Houghton Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-20T01:17:19Z"
+}

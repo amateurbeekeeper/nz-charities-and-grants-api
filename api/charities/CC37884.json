@@ -1,0 +1,27 @@
+{
+  "id": 58339,
+  "registrationNumber": "CC37884",
+  "name": "Dominican Sisters Of Wanganui",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.opsisters.org.nz",
+  "email": "sdc.accounts@opsisters.org.nz",
+  "address": {
+    "line1": "16 York Street",
+    "line2": "12B York Street",
+    "suburb": "Gonville",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429043322121",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T20:56:54Z"
+}

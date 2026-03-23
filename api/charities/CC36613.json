@@ -1,0 +1,27 @@
+{
+  "id": 64961,
+  "registrationNumber": "CC36613",
+  "name": "The University Of Waikato Research Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "harperke@waikato.ac.nz",
+  "address": {
+    "line1": "B BLOCK",
+    "line2": "5 Hillcrest Road",
+    "suburb": "Hillcrest",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:15:16Z"
+}

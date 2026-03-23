@@ -1,0 +1,27 @@
+{
+  "id": 52381,
+  "registrationNumber": "CC20079",
+  "name": "Doris Innes House Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "schristie@diocesan.school.nz",
+  "address": {
+    "line1": "Private Bag 99939",
+    "line2": "Newmarket",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1149"
+  },
+  "nzbn": "9429042986447",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T20:52:04Z"
+}

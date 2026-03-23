@@ -1,0 +1,27 @@
+{
+  "id": 42299,
+  "registrationNumber": "CC24591",
+  "name": "Tuapeka Health Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "allana@tuapekahealth.nz",
+  "address": {
+    "line1": "43 Whitehaven Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lawrence",
+    "postcode": "9532"
+  },
+  "nzbn": "9429043024414",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:29:27Z"
+}

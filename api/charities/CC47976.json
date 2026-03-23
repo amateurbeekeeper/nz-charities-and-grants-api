@@ -1,0 +1,27 @@
+{
+  "id": 37797,
+  "registrationNumber": "CC47976",
+  "name": "Save The Kiwi Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.savethekiwi.nz",
+  "email": "michelle@savethekiwi.nz",
+  "address": {
+    "line1": "72 Taharoto Road",
+    "line2": " ",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429043233014",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/savethekiwinz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T22:48:18Z"
+}

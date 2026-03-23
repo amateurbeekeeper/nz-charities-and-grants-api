@@ -1,0 +1,27 @@
+{
+  "id": 70502,
+  "registrationNumber": "CC56868",
+  "name": "Anglican Diocese of Christchurch-Parish of Linwood-Aranui",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.linwood-aranuianglicanparish.com",
+  "email": "anne.adrian@xtra.co.nz",
+  "address": {
+    "line1": "1 Carnarvon Street",
+    "line2": " ",
+    "suburb": "Linwood",
+    "city": "Christchurch",
+    "postcode": "8062"
+  },
+  "nzbn": "9429051276829",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-08T20:18:12Z"
+}

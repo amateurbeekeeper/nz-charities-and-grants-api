@@ -1,0 +1,27 @@
+{
+  "id": 50112,
+  "registrationNumber": "CC43742",
+  "name": "Fruit of the Pacific",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fruitofthepacific.org",
+  "email": "kylie.fop@gmail.com",
+  "address": {
+    "line1": "761D State Highway 2 West",
+    "line2": "RD 4",
+    "suburb": "Pikowai",
+    "city": "Whakatane",
+    "postcode": "3194"
+  },
+  "nzbn": "9429043197415",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/FruitOfThePacific/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T06:39:28Z"
+}

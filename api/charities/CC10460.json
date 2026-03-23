@@ -1,0 +1,27 @@
+{
+  "id": 51752,
+  "registrationNumber": "CC10460",
+  "name": "Jolt Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.joltdance.co.nz",
+  "email": "rachel.tully@joltdance.co.nz",
+  "address": {
+    "line1": "44 Norwood Street",
+    "line2": "Christchurch 8140",
+    "suburb": "Beckenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429043178100",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/Jolt-Dance-134526436642242/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T21:58:33Z"
+}

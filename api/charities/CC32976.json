@@ -1,0 +1,27 @@
+{
+  "id": 42853,
+  "registrationNumber": "CC32976",
+  "name": "Ohau Community Hall Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2022-10-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ohau-hall.org.nz",
+  "email": "secretary@ohau-hall.org.nz",
+  "address": {
+    "line1": "14 Muhunoa West Road",
+    "line2": "RD 20",
+    "suburb": "Ohau",
+    "city": "Levin",
+    "postcode": "5570"
+  },
+  "nzbn": "9429042816089",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T21:43:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70832,
+  "registrationNumber": "CC57203",
+  "name": "Te Hiku O Te Ika Marae",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-07-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tehapuamarae.nz",
+  "email": "acc.tehapua@gmail.com",
+  "address": {
+    "line1": "17 Waharua Road",
+    "line2": "Te Hapua 0484",
+    "suburb": " ",
+    "city": "Te Hapua",
+    "postcode": "0484"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "te hiku o te ika marae - te hapua (ko te reo mihi te whare nui).",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-02T19:34:09Z"
+}

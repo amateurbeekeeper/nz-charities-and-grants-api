@@ -1,0 +1,27 @@
+{
+  "id": 48270,
+  "registrationNumber": "CC30254",
+  "name": "Southland Competitions Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.southlandcomps.org.nz",
+  "email": "admin@southlandcomps.org.nz",
+  "address": {
+    "line1": "114 Marama Avenue North",
+    "line2": " ",
+    "suburb": "Otatara",
+    "city": "Invercargill",
+    "postcode": "9879"
+  },
+  "nzbn": "9429042727019",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-27T19:39:45Z"
+}

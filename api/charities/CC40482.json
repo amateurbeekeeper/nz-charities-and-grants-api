@@ -1,0 +1,27 @@
+{
+  "id": 47671,
+  "registrationNumber": "CC40482",
+  "name": "The Otago University Childcare Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.otago.ac.nz/services/childcare",
+  "email": "ouca.manager@otago.ac.nz",
+  "address": {
+    "line1": "551 Castle Street North ",
+    "line2": " ",
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042796831",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-01T02:41:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72458,
+  "registrationNumber": "CC58850",
+  "name": "International Network for Governmental Science Advice Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ingsa.org",
+  "email": "kristiann.allen@auckland.ac.nz",
+  "address": {
+    "line1": "Rm 508, Building 207, The University of Auckland",
+    "line2": "18 Symonds St",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429048907965",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "twitter.com/INGSciAdvice"
+  },
+  "lastUpdated": "2026-03-23T01:47:18Z"
+}

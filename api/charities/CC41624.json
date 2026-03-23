@@ -1,0 +1,27 @@
+{
+  "id": 64337,
+  "registrationNumber": "CC41624",
+  "name": "McQueens Valley Mountainbike Club Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-07-30T00:00:00Z",
+  "dateDeregistered": "2025-02-01T00:00:00Z",
+  "website": null,
+  "email": "havenmtb@gmail.com",
+  "address": {
+    "line1": "524 Mcqueens Valley Rd",
+    "line2": "Rd2, Motukarara",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "7672"
+  },
+  "nzbn": "9429043141500",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T20:27:31Z"
+}

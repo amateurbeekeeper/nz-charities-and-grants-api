@@ -1,0 +1,27 @@
+{
+  "id": 41103,
+  "registrationNumber": "CC32259",
+  "name": "Kapiti Community Health Group Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2012-05-15T00:00:00Z",
+  "website": "http://www.kapitihealth.org.nz",
+  "email": "susan@kapitihealth.org.nz",
+  "address": {
+    "line1": "Kapiti Health Centre",
+    "line2": "Warrimoo Street",
+    "suburb": null,
+    "city": "Paraparaumu",
+    "postcode": "5254"
+  },
+  "nzbn": "9429042943709",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T21:12:46Z"
+}

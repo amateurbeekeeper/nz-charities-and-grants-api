@@ -1,0 +1,27 @@
+{
+  "id": 68072,
+  "registrationNumber": "CC54393",
+  "name": "Inspire Aotearoa Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.inspireineducation.co.nz",
+  "email": "adriana@adaptac.co.nz",
+  "address": {
+    "line1": "Level One",
+    "line2": "8 Porter Drive",
+    "suburb": " ",
+    "city": "Havelock North",
+    "postcode": "4130"
+  },
+  "nzbn": "9429045962530",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/inspireineducation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T18:52:32Z"
+}

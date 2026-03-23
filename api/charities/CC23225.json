@@ -1,0 +1,27 @@
+{
+  "id": 39501,
+  "registrationNumber": "CC23225",
+  "name": "Central Emergency Communications Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-04-20T00:00:00Z",
+  "dateDeregistered": "2021-04-15T00:00:00Z",
+  "website": "https://www.stjohn.org.nz",
+  "email": "gary.thomass@stjohn.org.nz",
+  "address": {
+    "line1": "St John Ambulance Headquarters",
+    "line2": "2 Harrison Road",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429035091547",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-12-14T23:50:36Z"
+}

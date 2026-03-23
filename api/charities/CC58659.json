@@ -1,0 +1,27 @@
+{
+  "id": 72270,
+  "registrationNumber": "CC58659",
+  "name": "KŌ Kollective Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ko-kollective.nz",
+  "email": "shannon.hanrahan@gmail.com",
+  "address": {
+    "line1": "44A Goring Street",
+    "line2": "Opotiki 3122",
+    "suburb": " ",
+    "city": "Opotiki",
+    "postcode": "3122"
+  },
+  "nzbn": "9429047818552",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Ko.kollective.trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:45:07Z"
+}

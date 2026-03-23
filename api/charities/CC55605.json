@@ -1,0 +1,27 @@
+{
+  "id": 69253,
+  "registrationNumber": "CC55605",
+  "name": "Otakiri Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-02-06T00:00:00Z",
+  "dateDeregistered": "2025-08-20T00:00:00Z",
+  "website": null,
+  "email": "otakiri@playcentre.org.nz",
+  "address": {
+    "line1": "583 Otakiri Road",
+    "line2": " ",
+    "suburb": "Otakiri",
+    "city": "Whakatāne",
+    "postcode": "3193"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "otakiri playcentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T07:13:28Z"
+}

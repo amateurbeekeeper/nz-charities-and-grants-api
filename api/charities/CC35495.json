@@ -1,0 +1,27 @@
+{
+  "id": 46395,
+  "registrationNumber": "CC35495",
+  "name": "Premier Dairy Goats New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.premierdairygoats.co.nz",
+  "email": "premierdairygoats@gmail.com",
+  "address": {
+    "line1": "468 Te Moana Road",
+    "line2": "RD 21",
+    "suburb": "Pleasant Valley",
+    "city": "Geraldine",
+    "postcode": "7991"
+  },
+  "nzbn": "9429043056002",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T00:12:53Z"
+}

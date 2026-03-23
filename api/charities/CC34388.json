@@ -1,0 +1,27 @@
+{
+  "id": 45429,
+  "registrationNumber": "CC34388",
+  "name": "Ashburton Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-04T00:00:00Z",
+  "website": "www.playcentre.org.nz",
+  "email": "ashburton@playcentre.org.nz",
+  "address": {
+    "line1": "45 Park Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ashburton Play centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-18T07:13:55Z"
+}

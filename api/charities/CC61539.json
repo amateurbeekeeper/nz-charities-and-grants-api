@@ -1,0 +1,27 @@
+{
+  "id": 75110,
+  "registrationNumber": "CC61539",
+  "name": "Auckland Mataatua Society Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "finance.mataatua@gmail.com",
+  "address": {
+    "line1": "17 Killington Crescent",
+    "line2": " ",
+    "suburb": "Māngere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NgatiAwakiTamaki",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T05:56:16Z"
+}

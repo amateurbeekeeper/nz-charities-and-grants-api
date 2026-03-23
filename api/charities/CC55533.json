@@ -1,0 +1,27 @@
+{
+  "id": 69181,
+  "registrationNumber": "CC55533",
+  "name": "It Takes A Village Hub (NZ)",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.itav.org.nz",
+  "email": "dani.petterd@itav.org.nz",
+  "address": {
+    "line1": "133 Brighton Mall",
+    "line2": " ",
+    "suburb": "New Brighton",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429048016360",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "It Takes A Village Hub, Canterbury, NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T23:11:35Z"
+}

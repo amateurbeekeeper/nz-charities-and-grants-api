@@ -1,0 +1,27 @@
+{
+  "id": 33496,
+  "registrationNumber": "CC49653",
+  "name": "Whangarei Youth Space Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-08-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.youthspace.co.nz",
+  "email": "Helen@youthspace.co.nz",
+  "address": {
+    "line1": "Cafler Park",
+    "line2": "Water Street",
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043255696",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/WhangareiYS/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T21:43:00Z"
+}

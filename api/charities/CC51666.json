@@ -1,0 +1,27 @@
+{
+  "id": 65428,
+  "registrationNumber": "CC51666",
+  "name": "Clarence Street Theatre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-04-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.clarencesttheatre.co.nz",
+  "email": "leean@chlca.nz",
+  "address": {
+    "line1": "69 Clarence Street",
+    "line2": " ",
+    "suburb": "Hamilton Lake",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043266883",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/clarencesttheatre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-16T03:21:37Z"
+}

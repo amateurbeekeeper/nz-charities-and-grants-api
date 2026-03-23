@@ -1,0 +1,27 @@
+{
+  "id": 46664,
+  "registrationNumber": "CC40636",
+  "name": "The North Shore Camerata Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.camerata.co.nz",
+  "email": "president@camerata.co.nz",
+  "address": {
+    "line1": "29 Pompallier Terrace",
+    "line2": " ",
+    "suburb": "Ponsonby",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429043133840",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cameratachamber/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T23:39:40Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 77873,
+  "registrationNumber": "CC63674",
+  "name": "Life After The Line N.Z",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-08-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lifeafterthelinenz.com",
+  "email": "connordunmill@gmail.com",
+  "address": {
+    "line1": "145 Te Korari Street",
+    "line2": null,
+    "suburb": "Marshland",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429052769733",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T06:07:08Z"
+}

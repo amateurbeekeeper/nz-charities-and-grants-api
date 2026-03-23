@@ -1,0 +1,27 @@
+{
+  "id": 40805,
+  "registrationNumber": "CC34234",
+  "name": "Hope Christian Church No.2",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hamilton.5@xtra.co.nz",
+  "address": {
+    "line1": "51 Beach Road",
+    "line2": "Richmond 7020",
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T23:34:55Z"
+}

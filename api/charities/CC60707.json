@@ -1,0 +1,27 @@
+{
+  "id": 74297,
+  "registrationNumber": "CC60707",
+  "name": "Lighthouse Church Tutukaka",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lighthousetutukaka.co.nz",
+  "email": "finance@lighthousechurch.nz",
+  "address": {
+    "line1": "1879 Ngunguru Road",
+    "line2": "Ngunguru 0173",
+    "suburb": "Ngunguru",
+    "city": "Ngunguru",
+    "postcode": "0173"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tlctutukaka/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T19:00:14Z"
+}

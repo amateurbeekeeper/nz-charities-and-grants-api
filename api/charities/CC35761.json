@@ -1,0 +1,27 @@
+{
+  "id": 55486,
+  "registrationNumber": "CC35761",
+  "name": "Maungakiekie Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.maungakiekiegolf.co.nz",
+  "email": "gm@maungakiekiegolf.co.nz",
+  "address": {
+    "line1": "5 Anita Avenue",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429042771630",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-31T22:40:04Z"
+}

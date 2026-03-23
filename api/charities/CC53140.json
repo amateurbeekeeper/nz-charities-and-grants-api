@@ -1,0 +1,27 @@
+{
+  "id": 66911,
+  "registrationNumber": "CC53140",
+  "name": "St Theresa Parish",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.plimmertoncatholic.org.nz",
+  "email": "twypych@outlook.co.nz",
+  "address": {
+    "line1": "210 St Andrews Rd",
+    "line2": " ",
+    "suburb": "Cambourne",
+    "city": "Porirua",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:54:03Z"
+}

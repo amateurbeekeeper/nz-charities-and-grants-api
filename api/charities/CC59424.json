@@ -1,0 +1,27 @@
+{
+  "id": 73030,
+  "registrationNumber": "CC59424",
+  "name": "KnowYourStuffNZ Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://knowyourstuff.nz/",
+  "email": "caseys@knowyourstuff.nz",
+  "address": {
+    "line1": "701 Papaiti Road",
+    "line2": "RD 14",
+    "suburb": "Papaiti",
+    "city": "Whanganui",
+    "postcode": "4584"
+  },
+  "nzbn": "9429049516142",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KnowYourStuffNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T18:20:38Z"
+}

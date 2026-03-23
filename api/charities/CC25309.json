@@ -1,0 +1,27 @@
+{
+  "id": 39993,
+  "registrationNumber": "CC25309",
+  "name": "Matamata Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.matamatabaptist.org",
+  "email": "accounts@matamatabaptist.org",
+  "address": {
+    "line1": "MATAMATA BAPTIST CHURCH",
+    "line2": "26 Tower Road",
+    "suburb": " ",
+    "city": "Matamata",
+    "postcode": "3400"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/matamatabaptist/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T19:47:23Z"
+}

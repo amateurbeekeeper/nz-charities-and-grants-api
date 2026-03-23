@@ -1,0 +1,27 @@
+{
+  "id": 75276,
+  "registrationNumber": "CC61716",
+  "name": "Outflow Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://outflow.charity/",
+  "email": "ash@outflow.charity",
+  "address": {
+    "line1": "95 Taipari Street",
+    "line2": " ",
+    "suburb": "Maungatapu",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429051504960",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T00:34:21Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65461,
+  "registrationNumber": "CC51694",
+  "name": "Glenorchy Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.glenorchycommunitytrust.co.nz",
+  "email": "pferris@xtra.co.nz",
+  "address": {
+    "line1": "c/- MacTodd Lawyers",
+    "line2": "11-17 Church Street",
+    "suburb": "Queenstown",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429043287529",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-14T19:22:27Z"
+}

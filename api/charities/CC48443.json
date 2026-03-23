@@ -1,0 +1,27 @@
+{
+  "id": 32616,
+  "registrationNumber": "CC48443",
+  "name": "Tatum Scout Memorial Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-11-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.scouts.nz",
+  "email": "oliver.mander@gmail.com",
+  "address": {
+    "line1": "1 Kaiwharawhara Road",
+    "line2": " ",
+    "suburb": "Kaiwharawhara",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T08:31:17Z"
+}

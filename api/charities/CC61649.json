@@ -1,0 +1,27 @@
+{
+  "id": 75221,
+  "registrationNumber": "CC61649",
+  "name": "Cedar Hub Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cedarhub.org.nz",
+  "email": "amanda@cedarhub.org.nz",
+  "address": {
+    "line1": "6 Mansels Road",
+    "line2": " ",
+    "suburb": "Greerton",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429051336905",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "CEDAR - Place for change",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T21:33:36Z"
+}

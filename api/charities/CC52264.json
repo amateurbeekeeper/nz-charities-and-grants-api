@@ -1,0 +1,27 @@
+{
+  "id": 66000,
+  "registrationNumber": "CC52264",
+  "name": "Bridgeway Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2019-11-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "bridgewayhb.com",
+  "email": "dwalker356@aol.com",
+  "address": {
+    "line1": "8 Grant Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Havelock North",
+    "postcode": "4130"
+  },
+  "nzbn": "9429043067268",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@bridgewaybaptist",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T19:42:37Z"
+}

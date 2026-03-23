@@ -1,0 +1,27 @@
+{
+  "id": 53390,
+  "registrationNumber": "CC20634",
+  "name": "Ponsonby Community Centre Inc",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-01-24T00:00:00Z",
+  "dateDeregistered": "2024-12-31T00:00:00Z",
+  "website": "http://www.ponsonbycommunity.org.nz",
+  "email": "info@ponsonbycommunity.org.nz",
+  "address": {
+    "line1": "20 Ponsonby Terrace",
+    "line2": " ",
+    "suburb": "Ponsonby",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429042808060",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@ponsonbycommunity",
+    "twitter": "@ponsonbycommun1"
+  },
+  "lastUpdated": "2026-01-30T06:03:57Z"
+}

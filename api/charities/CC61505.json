@@ -1,0 +1,27 @@
+{
+  "id": 75074,
+  "registrationNumber": "CC61505",
+  "name": "Te Matarau a Māui Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tematarau.co.nz",
+  "email": "jesse@tematarau.co.nz",
+  "address": {
+    "line1": "Te Whare Māori ",
+    "line2": "139 Featherston Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429050806249",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T00:40:24Z"
+}

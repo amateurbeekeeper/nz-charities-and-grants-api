@@ -1,0 +1,27 @@
+{
+  "id": 36667,
+  "registrationNumber": "CC48204",
+  "name": "Newtown Ethical Lending Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ethical-lending.nz",
+  "email": "admin@ethical-lending.nz",
+  "address": {
+    "line1": "Flat 15",
+    "line2": "36 Dee Street",
+    "suburb": "Island Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ethical.lending",
+    "twitter": "ethical_lending"
+  },
+  "lastUpdated": "2025-09-17T04:43:34Z"
+}

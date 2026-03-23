@@ -1,0 +1,27 @@
+{
+  "id": 51968,
+  "registrationNumber": "CC10741",
+  "name": "Shalom Court Auckland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.shalomcourt.co.nz",
+  "email": "operations@shalomcourt.co.nz",
+  "address": {
+    "line1": "169A St Johns Road",
+    "line2": " ",
+    "suburb": "Saint Johns",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042586906",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "ShalomCourt",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T23:25:41Z"
+}

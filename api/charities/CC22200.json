@@ -1,0 +1,27 @@
+{
+  "id": 57118,
+  "registrationNumber": "CC22200",
+  "name": "Far North Search and Rescue Organisation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurer@fnsar.org.nz",
+  "address": {
+    "line1": "Far North SAR",
+    "line2": "P.O.Box 720 ",
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "0245"
+  },
+  "nzbn": "9429042717669",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/fnsar.org.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-05T00:39:57Z"
+}

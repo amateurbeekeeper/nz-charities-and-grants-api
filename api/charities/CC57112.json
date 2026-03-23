@@ -1,0 +1,27 @@
+{
+  "id": 70749,
+  "registrationNumber": "CC57112",
+  "name": "Summer Shakespeare Tauranga Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-11-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pascal@pascaltibbits.co.nz",
+  "address": {
+    "line1": "139F Snodgrass Road",
+    "line2": "RD 4",
+    "suburb": "Te Puna",
+    "city": "Tauranga",
+    "postcode": "3174"
+  },
+  "nzbn": "9429047714878",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "nil",
+    "twitter": "nil"
+  },
+  "lastUpdated": "2026-02-02T20:10:23Z"
+}

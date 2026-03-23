@@ -1,0 +1,27 @@
+{
+  "id": 71450,
+  "registrationNumber": "CC57826",
+  "name": "Country Retreat Animal Sanctuary",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2020-02-07T00:00:00Z",
+  "dateDeregistered": "2025-03-31T00:00:00Z",
+  "website": null,
+  "email": "countryretreatanimalsanctuary@gmail.com",
+  "address": {
+    "line1": "2 Cowan Bay Road",
+    "line2": "RD 3",
+    "suburb": "Pohuehue",
+    "city": "Warkworth",
+    "postcode": "0983"
+  },
+  "nzbn": "9429047924000",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Country-Retreat-Animal-Sanctuary-101064491484814",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T01:46:20Z"
+}

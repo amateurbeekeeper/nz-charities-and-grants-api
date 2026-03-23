@@ -1,0 +1,27 @@
+{
+  "id": 50924,
+  "registrationNumber": "CC42222",
+  "name": "St Patricks School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stpatsmstn.school.nz",
+  "email": "pta@stpatsmstn.school.nz",
+  "address": {
+    "line1": "PO Box 2021",
+    "line2": " ",
+    "suburb": "Kuripuni",
+    "city": "Masterton",
+    "postcode": "5842"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/stpatsmstn/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T00:49:57Z"
+}

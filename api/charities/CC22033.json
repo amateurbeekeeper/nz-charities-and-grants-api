@@ -1,0 +1,27 @@
+{
+  "id": 54983,
+  "registrationNumber": "CC22033",
+  "name": "Auckland Cat Rescue Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-03-19T00:00:00Z",
+  "dateDeregistered": "2009-07-12T00:00:00Z",
+  "website": "http://www.aucklandcatrescue.org",
+  "email": "rochellethorne@gmail.com",
+  "address": {
+    "line1": "41 Saxon Street",
+    "line2": null,
+    "suburb": "Waterview",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429043041978",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:03:09Z"
+}

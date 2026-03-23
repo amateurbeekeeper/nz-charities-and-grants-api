@@ -1,0 +1,27 @@
+{
+  "id": 77508,
+  "registrationNumber": "CC63305",
+  "name": "So Fresh",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "sofresh.org.nz",
+  "email": "Lukeparker001@hotmail.com",
+  "address": {
+    "line1": "66 Baker Street",
+    "line2": " ",
+    "suburb": "New Brighton",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429052482465",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T02:48:09Z"
+}

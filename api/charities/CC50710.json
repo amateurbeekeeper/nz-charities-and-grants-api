@@ -1,0 +1,27 @@
+{
+  "id": 34234,
+  "registrationNumber": "CC50710",
+  "name": "Te Arawa Ki Tai Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.takt.org.nz",
+  "email": "raewyn@takt.org.nz",
+  "address": {
+    "line1": "48 Spencer Avenue",
+    "line2": "RD 9",
+    "suburb": "Maketu",
+    "city": "Te Puke",
+    "postcode": "3189"
+  },
+  "nzbn": "9429043254576",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T18:11:22Z"
+}

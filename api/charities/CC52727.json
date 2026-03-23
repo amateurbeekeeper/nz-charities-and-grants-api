@@ -1,0 +1,27 @@
+{
+  "id": 66463,
+  "registrationNumber": "CC52727",
+  "name": "One Taupo Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nicola@taupowinterfestival.co.nz",
+  "address": {
+    "line1": "77 Titiraupenga Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429043291755",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Taupo Arts Festival",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T21:16:16Z"
+}

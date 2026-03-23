@@ -1,0 +1,27 @@
+{
+  "id": 77917,
+  "registrationNumber": "CC63721",
+  "name": "BCITO Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "phil.brosnan@cgf.org.nz",
+  "address": {
+    "line1": "148 Victoria Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T20:56:40Z"
+}

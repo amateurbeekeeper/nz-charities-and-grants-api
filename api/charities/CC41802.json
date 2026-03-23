@@ -1,0 +1,27 @@
+{
+  "id": 46845,
+  "registrationNumber": "CC41802",
+  "name": "Hooper's Inlet Hall",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-08-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "scc@cityfirewood.nz",
+  "address": {
+    "line1": "78 Cape Saunders Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9077"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T19:56:21Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 77556,
+  "registrationNumber": "CC63352",
+  "name": "Neighbourhood Support Western Bay of Plenty",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wbopns.org.nz",
+  "email": "info@wbopns.org.nz",
+  "address": {
+    "line1": "1 Margaret Road",
+    "line2": " ",
+    "suburb": "Bellevue",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NS.Tauranga.WBOP",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-11T23:24:39Z"
+}

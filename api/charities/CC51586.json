@@ -1,0 +1,27 @@
+{
+  "id": 65363,
+  "registrationNumber": "CC51586",
+  "name": "North Avon Presbyterian Church Congregation",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-04-20T00:00:00Z",
+  "dateDeregistered": "2021-03-31T00:00:00Z",
+  "website": null,
+  "email": "a.cooke@xtra.co.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "23 Studholme Street",
+    "suburb": "Somerfield",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-04-13T20:25:37Z"
+}

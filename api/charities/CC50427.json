@@ -1,0 +1,27 @@
+{
+  "id": 33693,
+  "registrationNumber": "CC50427",
+  "name": "Tasman Community Trust Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-12-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tctrust.org.nz/",
+  "email": "nat@tctrust.org.nz",
+  "address": {
+    "line1": "6 Williams Road",
+    "line2": "RD 1",
+    "suburb": "Tasman",
+    "city": "Upper Moutere",
+    "postcode": "7173"
+  },
+  "nzbn": "9429043248193",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T08:55:38Z"
+}

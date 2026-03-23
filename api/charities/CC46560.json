@@ -1,0 +1,27 @@
+{
+  "id": 37084,
+  "registrationNumber": "CC46560",
+  "name": "Te Tahi Youth Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tetahiyouth.org.nz",
+  "email": "lyndsey@tetahiyouth.org.nz",
+  "address": {
+    "line1": "The Loft, Eastgate Mall",
+    "line2": "20 Buckleys Road",
+    "suburb": "Linwood",
+    "city": "Christchurch",
+    "postcode": "8062"
+  },
+  "nzbn": "9429043193080",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T03:17:55Z"
+}

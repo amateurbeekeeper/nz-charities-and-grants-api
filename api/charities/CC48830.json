@@ -1,0 +1,27 @@
+{
+  "id": 32622,
+  "registrationNumber": "CC48830",
+  "name": "Waitakere Indian Association",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wia.kiwi",
+  "email": "waitakereindian@gmail.com",
+  "address": {
+    "line1": "399 Don Buck Road",
+    "line2": " ",
+    "suburb": "Massey",
+    "city": "Auckland",
+    "postcode": "0614"
+  },
+  "nzbn": "9429042965428",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/WaitakereIndianAssociation/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T02:47:09Z"
+}

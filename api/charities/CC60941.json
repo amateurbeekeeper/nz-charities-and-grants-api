@@ -1,0 +1,27 @@
+{
+  "id": 74526,
+  "registrationNumber": "CC60941",
+  "name": "Te Hauora o Ninihi Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-02-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tehauoraoninihi@gmail.com",
+  "address": {
+    "line1": "415 Ninihi Road",
+    "line2": "RD 3",
+    "suburb": "Otaua",
+    "city": "Kaikohe",
+    "postcode": "0473"
+  },
+  "nzbn": "9429050771721",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61557846927385",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T02:04:43Z"
+}

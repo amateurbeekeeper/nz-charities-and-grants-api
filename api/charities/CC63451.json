@@ -1,0 +1,27 @@
+{
+  "id": 77651,
+  "registrationNumber": "CC63451",
+  "name": "South Sea Evangelical Church, New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "secretary.ssecnz@gmail.com",
+  "address": {
+    "line1": "2C Edmund Hillary Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": "9429052629655",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "South Sea Evangelical Church NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-01T08:18:54Z"
+}

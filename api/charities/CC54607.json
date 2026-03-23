@@ -1,0 +1,27 @@
+{
+  "id": 68277,
+  "registrationNumber": "CC54607",
+  "name": "TRUST MYRIVR",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-06-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.trustmyrivr.org.nz",
+  "email": "robert@trustmyrivr.org.nz",
+  "address": {
+    "line1": "7 Hall Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429043308675",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MyRivr/",
+    "twitter": "https://twitter.com/MyRivr?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+  },
+  "lastUpdated": "2026-03-02T00:23:23Z"
+}

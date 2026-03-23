@@ -1,0 +1,27 @@
+{
+  "id": 61631,
+  "registrationNumber": "CC35887",
+  "name": "Friends of Northcote School",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-12-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.northcoteprimary.school.nz",
+  "email": "fons@northcoteprimary.school.nz",
+  "address": {
+    "line1": "2 Lake Road",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "627"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T20:02:47Z"
+}

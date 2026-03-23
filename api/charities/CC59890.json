@@ -1,0 +1,27 @@
+{
+  "id": 73425,
+  "registrationNumber": "CC59890",
+  "name": "Tairawhiti Adventure Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-02-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "amy@blackfig.co.nz",
+  "address": {
+    "line1": "62 Douglas Street",
+    "line2": " ",
+    "suburb": "Okitu",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "tairawhitiadventuretrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T01:30:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 49816,
+  "registrationNumber": "CC40186",
+  "name": "Central Christian and Missionary Alliance Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ccma.org.nz",
+  "email": "adaleungyt@hotmail.com",
+  "address": {
+    "line1": "25 Rockfield Road",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzccma",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T17:12:42Z"
+}

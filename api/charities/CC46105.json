@@ -1,0 +1,27 @@
+{
+  "id": 36341,
+  "registrationNumber": "CC46105",
+  "name": "Christchurch Marathon Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-02-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.christchurchmarathon.co.nz",
+  "email": "adele.ainger@aingertomlin.co.nz",
+  "address": {
+    "line1": "136 Ilam Road",
+    "line2": " ",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429031416863",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T00:42:25Z"
+}

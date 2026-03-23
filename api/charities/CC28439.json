@@ -1,0 +1,27 @@
+{
+  "id": 60519,
+  "registrationNumber": "CC28439",
+  "name": "Port Waikato School Camp Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.portwaikatoschoolcamp.co.nz",
+  "email": "portwaikatoschoolcamp@gmail.com",
+  "address": {
+    "line1": "68 Port Waikato-Waikaretu Road",
+    "line2": "Port Waikato 2695",
+    "suburb": " ",
+    "city": "Port Waikato",
+    "postcode": "2695"
+  },
+  "nzbn": "9429042807131",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T18:12:59Z"
+}

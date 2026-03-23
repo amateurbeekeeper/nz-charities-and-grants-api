@@ -1,0 +1,27 @@
+{
+  "id": 74432,
+  "registrationNumber": "CC60849",
+  "name": "Clan Matheson New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.clanmatheson.org.nz",
+  "email": "trust@clanmatheson.org.nz",
+  "address": {
+    "line1": "29 Highland Crescent",
+    "line2": " ",
+    "suburb": "Wadestown",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429050807970",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/groups/ClanMathesonNewZealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-07T22:09:12Z"
+}

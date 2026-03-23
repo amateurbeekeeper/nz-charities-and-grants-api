@@ -1,0 +1,27 @@
+{
+  "id": 68456,
+  "registrationNumber": "CC53050",
+  "name": "All Churches Insurance Bureau Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "peterv@methodist.org.nz",
+  "address": {
+    "line1": "50 Langdons Road",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429036497263",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T18:08:14Z"
+}

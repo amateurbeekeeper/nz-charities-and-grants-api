@@ -1,0 +1,27 @@
+{
+  "id": 53871,
+  "registrationNumber": "CC24188",
+  "name": "Waikato Anglican College Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stpauls.school.nz",
+  "email": "p.welham@stpauls.school.nz",
+  "address": {
+    "line1": "77 Hukanui Road",
+    "line2": " ",
+    "suburb": "Chartwell",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429042880561",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:10Z"
+}

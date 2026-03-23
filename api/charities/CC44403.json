@@ -1,0 +1,27 @@
+{
+  "id": 50645,
+  "registrationNumber": "CC44403",
+  "name": "The FamilyLife Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.familylife.nz",
+  "email": "wynand@familylife.nz",
+  "address": {
+    "line1": "2B William Pickering Drive",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043318407",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "FamilyLife NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:29:28Z"
+}

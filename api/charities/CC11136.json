@@ -1,0 +1,27 @@
+{
+  "id": 52272,
+  "registrationNumber": "CC11136",
+  "name": "Bayview Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "p.welham@stpauls.school.nz",
+  "address": {
+    "line1": "Private Bag 3069",
+    "line2": "Hamilton Mail Centre",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3240"
+  },
+  "nzbn": null,
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T18:32:43Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43447,
+  "registrationNumber": "CC30797",
+  "name": "Pinehaven Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-16T00:00:00Z",
+  "website": null,
+  "email": "pinehaven@playcentre.org.nz",
+  "address": {
+    "line1": "5C Forest Road",
+    "line2": " ",
+    "suburb": "Pinehaven",
+    "city": "Upper Hutt",
+    "postcode": "5019"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-30T07:11:58Z"
+}

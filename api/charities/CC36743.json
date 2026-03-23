@@ -1,0 +1,27 @@
+{
+  "id": 64922,
+  "registrationNumber": "CC36743",
+  "name": "New Zealand Lactation Consultants Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzlca.org.nz",
+  "email": "treasurer@nzlca.org.nz",
+  "address": {
+    "line1": "7 Barbary Close",
+    "line2": " ",
+    "suburb": "Wharewaka",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429042682745",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZLactation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T22:52:56Z"
+}

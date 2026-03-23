@@ -1,0 +1,27 @@
+{
+  "id": 43453,
+  "registrationNumber": "CC33447",
+  "name": "Northland Christian Camps Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.marsdenbay.co.nz/",
+  "email": "secretary@marsdenbay.co.nz",
+  "address": {
+    "line1": "89A One Tree Point Road",
+    "line2": "One Tree Point 0118",
+    "suburb": "Maunu",
+    "city": "One Tree Point",
+    "postcode": "0118"
+  },
+  "nzbn": "9429043109630",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T08:28:57Z"
+}

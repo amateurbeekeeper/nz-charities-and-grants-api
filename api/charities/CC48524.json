@@ -1,0 +1,27 @@
+{
+  "id": 37792,
+  "registrationNumber": "CC48524",
+  "name": "The Collaborative for Research and Training in Youth Health and Development",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-04-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.collaborative.org.nz",
+  "email": "sue@collaborative.org.nz",
+  "address": {
+    "line1": "109 Salisbury Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429043123704",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheCollaborativeTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T00:26:44Z"
+}

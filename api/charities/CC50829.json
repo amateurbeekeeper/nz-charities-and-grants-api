@@ -1,0 +1,27 @@
+{
+  "id": 34509,
+  "registrationNumber": "CC50829",
+  "name": "Taranaki Retreat Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://taranakiretreat.org.nz",
+  "email": "jamie@taranakiretreat.org.nz",
+  "address": {
+    "line1": "17 Nobs Line",
+    "line2": " ",
+    "suburb": "Strandon",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429043256570",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/TaranakiRetreat",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:07:40Z"
+}

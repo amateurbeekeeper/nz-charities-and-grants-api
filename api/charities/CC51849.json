@@ -1,0 +1,27 @@
+{
+  "id": 65600,
+  "registrationNumber": "CC51849",
+  "name": "New Zealand Multiple Sclerosis Research Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.msresearch.org.nz",
+  "email": "pmwood.ca@gmail.com",
+  "address": {
+    "line1": "80 Fitzgerald Avenue",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043276653",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZMSResearchTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T20:29:35Z"
+}

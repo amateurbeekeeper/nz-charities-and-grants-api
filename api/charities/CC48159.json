@@ -1,0 +1,27 @@
+{
+  "id": 32642,
+  "registrationNumber": "CC48159",
+  "name": "Northern Community Family Service",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.northerncommunityfamilyservice.co.nz",
+  "email": "seniorclan@gmail.com",
+  "address": {
+    "line1": "43 Hobson Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "230"
+  },
+  "nzbn": "9429042998594",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Northern Community Family Service",
+    "twitter": null
+  },
+  "lastUpdated": "2024-10-29T18:17:50Z"
+}

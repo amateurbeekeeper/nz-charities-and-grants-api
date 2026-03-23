@@ -1,0 +1,27 @@
+{
+  "id": 51336,
+  "registrationNumber": "CC10159",
+  "name": "Estate Esther Gracie",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-04-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gtcc@pgtrust.co.nz",
+  "address": {
+    "line1": "Suite 23",
+    "line2": "191 Queen Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-17T04:06:19Z"
+}

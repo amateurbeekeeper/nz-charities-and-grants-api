@@ -1,0 +1,27 @@
+{
+  "id": 71375,
+  "registrationNumber": "CC57750",
+  "name": "Tamariki Book Festival",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tamarikibookfest.wordpress.com",
+  "email": "robinne@robinneweiss.com",
+  "address": {
+    "line1": "1731 Hoskyns Road",
+    "line2": "Kirwee 7571",
+    "suburb": "Spreydon",
+    "city": "Kirwee",
+    "postcode": "7571"
+  },
+  "nzbn": "9429047925625",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tamarikibookfest",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T21:18:56Z"
+}

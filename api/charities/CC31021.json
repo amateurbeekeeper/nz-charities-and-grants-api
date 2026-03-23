@@ -1,0 +1,27 @@
+{
+  "id": 57364,
+  "registrationNumber": "CC31021",
+  "name": "The Auckland Sailors Home Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pamandrichardwilson@gmail.com",
+  "address": {
+    "line1": "16 Gore Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T01:30:01Z"
+}

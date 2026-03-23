@@ -1,0 +1,27 @@
+{
+  "id": 69294,
+  "registrationNumber": "CC55643",
+  "name": "BBBS Auckland",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://bigbrothersbigsistersauckland.org.nz",
+  "email": "drew.ewan@bigbrothersbigsisters.org.nz",
+  "address": {
+    "line1": "300 Great South Road",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429046830654",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BigbrothersbigsistersAuckland/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T18:08:14Z"
+}

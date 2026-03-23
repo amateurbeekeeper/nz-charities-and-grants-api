@@ -1,0 +1,27 @@
+{
+  "id": 58524,
+  "registrationNumber": "CC23485",
+  "name": "St Albans Uniting Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stalbansuniting.org.nz",
+  "email": "billdelaney@xtra.co.nz",
+  "address": {
+    "line1": "36 Nancy Avenue",
+    "line2": " ",
+    "suburb": "Mairehau",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T18:15:14Z"
+}

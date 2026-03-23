@@ -1,0 +1,27 @@
+{
+  "id": 37764,
+  "registrationNumber": "CC48386",
+  "name": "Environmental White Water Park Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-10-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.whitehotwater.com",
+  "email": "john@actiongroup.net.nz",
+  "address": {
+    "line1": "71 Heretaunga Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429043001064",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EWWPT/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T19:26:31Z"
+}

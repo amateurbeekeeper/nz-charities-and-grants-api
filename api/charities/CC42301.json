@@ -1,0 +1,27 @@
+{
+  "id": 50961,
+  "registrationNumber": "CC42301",
+  "name": "Phoenix Science Fiction Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.phoenix.sf.org.nz",
+  "email": "littenz@gmail.com",
+  "address": {
+    "line1": "PO Box 13574",
+    "line2": "Johnsonville",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6440"
+  },
+  "nzbn": "9429042804895",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:44:39Z"
+}

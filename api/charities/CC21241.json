@@ -1,0 +1,27 @@
+{
+  "id": 54360,
+  "registrationNumber": "CC21241",
+  "name": "Northcote Baptist Christian Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mcavaney@xtra.co.nz",
+  "address": {
+    "line1": "87 Eban Avenue",
+    "line2": " ",
+    "suburb": "Hillcrest",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429042672739",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T03:50:50Z"
+}

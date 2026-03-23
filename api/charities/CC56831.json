@@ -1,0 +1,27 @@
+{
+  "id": 70469,
+  "registrationNumber": "CC56831",
+  "name": "Matai Medical Research Institute",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.matai.org.nz",
+  "email": "j.lepper@matai.org.nz",
+  "address": {
+    "line1": "466 Childers Road",
+    "line2": "Gisborne 4010",
+    "suburb": "Te Hāpara",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429047484412",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MataiResearch",
+    "twitter": "https://twitter.com/matairesearch"
+  },
+  "lastUpdated": "2026-01-29T23:04:51Z"
+}

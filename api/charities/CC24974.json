@@ -1,0 +1,27 @@
+{
+  "id": 56787,
+  "registrationNumber": "CC24974",
+  "name": "Natural Fertility New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.naturalfertility.co.nz",
+  "email": "admin@naturalfertility.co.nz",
+  "address": {
+    "line1": "63 Bourke Street",
+    "line2": " ",
+    "suburb": "Windsor",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042683445",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T02:08:09Z"
+}

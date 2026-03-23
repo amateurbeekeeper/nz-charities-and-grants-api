@@ -1,0 +1,27 @@
+{
+  "id": 36251,
+  "registrationNumber": "CC44514",
+  "name": "New Zealand Timber Design Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.timberdesign.org.nz",
+  "email": "lisao@holmesgroup.com",
+  "address": {
+    "line1": "40 Taranaki Street",
+    "line2": "Level 6 NEC House",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042960133",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "New Zealand Timber Design Society",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T23:00:34Z"
+}

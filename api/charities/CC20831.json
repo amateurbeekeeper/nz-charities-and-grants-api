@@ -1,0 +1,27 @@
+{
+  "id": 55017,
+  "registrationNumber": "CC20831",
+  "name": "Citizens Advice Bureau Auckland City Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin.cabac@cab.org.nz",
+  "address": {
+    "line1": "156 Kepa Road",
+    "line2": " ",
+    "suburb": "Orakei",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429042618133",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Citizens-Advice-Bureau-Auckland-City-101560355348166",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T00:19:46Z"
+}

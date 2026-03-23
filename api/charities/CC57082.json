@@ -1,0 +1,27 @@
+{
+  "id": 70714,
+  "registrationNumber": "CC57082",
+  "name": "Housing Solutions Pasefika Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@peninatrust.org.nz",
+  "address": {
+    "line1": "186 Russell Road",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T03:27:39Z"
+}

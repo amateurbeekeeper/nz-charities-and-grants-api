@@ -1,0 +1,27 @@
+{
+  "id": 50702,
+  "registrationNumber": "CC45411",
+  "name": "Karaka Sports Park Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stephen@msbca.co.nz",
+  "address": {
+    "line1": "42 Birch Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Karaka",
+    "postcode": "2580"
+  },
+  "nzbn": "9429043209163",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T02:11:01Z"
+}

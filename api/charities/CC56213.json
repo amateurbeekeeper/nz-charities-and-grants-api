@@ -1,0 +1,27 @@
+{
+  "id": 69854,
+  "registrationNumber": "CC56213",
+  "name": "The Pukehou Bus Group",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.pukehou.school.nz",
+  "email": "simon@ludlowfarms.co.nz",
+  "address": {
+    "line1": "174 State Highway 2",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Otane",
+    "postcode": "4276"
+  },
+  "nzbn": "9429047192621",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pukehou.school/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:54:20Z"
+}

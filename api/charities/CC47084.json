@@ -1,0 +1,27 @@
+{
+  "id": 35500,
+  "registrationNumber": "CC47084",
+  "name": "The South Canterbury Drama League Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-07-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dramaleague.org.nz",
+  "email": "manager@dramaleague.org.nz",
+  "address": {
+    "line1": "198 Church Street",
+    "line2": " ",
+    "suburb": "West End",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429042727927",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SCDramaLeague",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T03:33:00Z"
+}

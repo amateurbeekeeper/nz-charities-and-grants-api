@@ -1,0 +1,27 @@
+{
+  "id": 50203,
+  "registrationNumber": "CC44249",
+  "name": "Wanganui Jazz Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wanganuijazzclub.org",
+  "email": "dljmcneill@gmail.com",
+  "address": {
+    "line1": "63 Wikitoria Road",
+    "line2": " ",
+    "suburb": "Putiki",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429043125012",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Wanganui Jazz Club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-26T19:16:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38195,
+  "registrationNumber": "CC45834",
+  "name": "Touch Canterbury Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-12-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.touchcanterbury.co.nz",
+  "email": "shane@touchcanterbury.co.nz",
+  "address": {
+    "line1": "18 March Place",
+    "line2": " ",
+    "suburb": "Belfast",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429042604792",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/touchcanterbury/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:41:47Z"
+}

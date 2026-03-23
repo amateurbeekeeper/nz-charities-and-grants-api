@@ -1,0 +1,27 @@
+{
+  "id": 36084,
+  "registrationNumber": "CC45295",
+  "name": "Factory Fiction Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-09-09T00:00:00Z",
+  "dateDeregistered": "2011-09-04T00:00:00Z",
+  "website": "http://www.factoryfiction.com",
+  "email": "mike@factoryfiction.com",
+  "address": {
+    "line1": "C/- William Buck",
+    "line2": "Level 8, 203 Queen Street",
+    "suburb": null,
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:36:46Z"
+}

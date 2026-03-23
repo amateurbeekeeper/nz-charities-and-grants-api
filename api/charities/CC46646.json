@@ -1,0 +1,27 @@
+{
+  "id": 64021,
+  "registrationNumber": "CC46646",
+  "name": "Manaia Volunteer Rural Fire Force",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "alamein.brown@fireandemergency.nz",
+  "address": {
+    "line1": "60 Goldfields Road",
+    "line2": "RD 1",
+    "suburb": "Manaia",
+    "city": "Coromandel",
+    "postcode": "3581"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Manaia FENZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:41:59Z"
+}

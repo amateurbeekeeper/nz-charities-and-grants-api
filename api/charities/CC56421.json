@@ -1,0 +1,27 @@
+{
+  "id": 70060,
+  "registrationNumber": "CC56421",
+  "name": "Fighting the Mind",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-03-12T00:00:00Z",
+  "dateDeregistered": "2022-03-15T00:00:00Z",
+  "website": "https://www.fightingthemind.org",
+  "email": "fightingthemindnz@gmail.com",
+  "address": {
+    "line1": "491A Waitakere Road",
+    "line2": " ",
+    "suburb": "Taupaki",
+    "city": "Auckland",
+    "postcode": "0782"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "facebook.com/fightingthemind",
+    "twitter": null
+  },
+  "lastUpdated": "2022-03-14T20:49:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70254,
+  "registrationNumber": "CC56619",
+  "name": "The Little Miracles Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-04-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.littlemiraclestrust.org.nz",
+  "email": "sarah@lmt.org.nz",
+  "address": {
+    "line1": "NICU Auckland City Hospital",
+    "line2": " 2-20 Park Road",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043289783",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook/littlemiraclestrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T03:04:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50627,
+  "registrationNumber": "CC45775",
+  "name": "Waiatuhi Marae Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-11-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "freddyrayc@gmail.com",
+  "address": {
+    "line1": "1444 Hamurana Road",
+    "line2": "RD 4",
+    "suburb": "Mourea",
+    "city": "Rotorua",
+    "postcode": "3074"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-09-20T04:02:51Z"
+}

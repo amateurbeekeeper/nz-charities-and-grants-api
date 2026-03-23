@@ -1,0 +1,27 @@
+{
+  "id": 64609,
+  "registrationNumber": "CC37410",
+  "name": "Lake Ōkāreka Volunteer Fire Brigade Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lakeokarekafire.co.nz",
+  "email": "kierin.oppatt@fireandemergency.nz",
+  "address": {
+    "line1": "1 Acacia Road",
+    "line2": "Okareka Loop Road",
+    "suburb": "Lake Okareka",
+    "city": "Rotorua",
+    "postcode": "3076"
+  },
+  "nzbn": "9429042657033",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/OkarekaFireBrigade",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T03:04:22Z"
+}

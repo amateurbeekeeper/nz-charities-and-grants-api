@@ -1,0 +1,27 @@
+{
+  "id": 44730,
+  "registrationNumber": "CC30605",
+  "name": "Wharepuhunga Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-07-31T00:00:00Z",
+  "website": null,
+  "email": "denise.ponk@googlemail.com",
+  "address": {
+    "line1": "743 Wharepuhunga Road",
+    "line2": "RD 3",
+    "suburb": "Waikeria",
+    "city": "Te Awamutu",
+    "postcode": "3873"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T07:21:27Z"
+}

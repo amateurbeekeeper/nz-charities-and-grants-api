@@ -1,0 +1,27 @@
+{
+  "id": 78119,
+  "registrationNumber": "CC63928",
+  "name": "The Pet Food Bank Plus",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-11-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "karenbrechelt@gmail.com",
+  "address": {
+    "line1": "21D Garnet Drive",
+    "line2": " ",
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": "9429053248442",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T20:17:02Z"
+}

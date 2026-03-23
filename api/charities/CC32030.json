@@ -1,0 +1,27 @@
+{
+  "id": 48204,
+  "registrationNumber": "CC32030",
+  "name": "Waipu Playcentre ",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-01T00:00:00Z",
+  "website": null,
+  "email": "waipu@playcentre.org.nz",
+  "address": {
+    "line1": "28 St Marys Road",
+    "line2": "Waipu 0510",
+    "suburb": " ",
+    "city": "Waipu",
+    "postcode": "0510"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T21:06:31Z"
+}

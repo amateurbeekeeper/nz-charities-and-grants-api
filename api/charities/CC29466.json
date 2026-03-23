@@ -1,0 +1,27 @@
+{
+  "id": 57597,
+  "registrationNumber": "CC29466",
+  "name": "Dynomites Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://dynomites.org.nz/",
+  "email": "president@dynomites.org.nz",
+  "address": {
+    "line1": "1 Plateau Road",
+    "line2": " ",
+    "suburb": "Te Marua",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429043019007",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DynomitesSportClimbingClub/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T02:50:37Z"
+}

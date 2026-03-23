@@ -1,0 +1,27 @@
+{
+  "id": 78236,
+  "registrationNumber": "CC64048",
+  "name": "Te Mana Rangatahi Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-12-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "valleyhawksbasketball@hotmail.com",
+  "address": {
+    "line1": "5 Fraser Colman Grove",
+    "line2": null,
+    "suburb": "Wainuiomata",
+    "city": "Lower Hutt",
+    "postcode": "5014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T22:33:32Z"
+}

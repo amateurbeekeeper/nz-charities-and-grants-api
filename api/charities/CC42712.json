@@ -1,0 +1,27 @@
+{
+  "id": 50951,
+  "registrationNumber": "CC42712",
+  "name": "Nelson Tasman Cycle Trails Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.heartofbiking.org.nz",
+  "email": "admin@heartofbiking.org.nz",
+  "address": {
+    "line1": "Flat 3",
+    "line2": "7 Brooklands Way",
+    "suburb": "Atawhai",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043189120",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T00:09:49Z"
+}

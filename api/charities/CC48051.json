@@ -1,0 +1,27 @@
+{
+  "id": 38811,
+  "registrationNumber": "CC48051",
+  "name": "Hopeworks Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hopeworks.org.nz",
+  "email": "kate@hopeworks.org.nz",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "261 Riddell Road",
+    "suburb": "Glendowie",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429043237692",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-10-15T18:37:27Z"
+}

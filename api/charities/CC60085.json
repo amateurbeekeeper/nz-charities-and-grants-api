@@ -1,0 +1,27 @@
+{
+  "id": 73326,
+  "registrationNumber": "CC60085",
+  "name": "Road II Redemption Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-02-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@road2redemption.org.nz",
+  "address": {
+    "line1": "120 Tuahiwi Road",
+    "line2": "RD 1",
+    "suburb": "Tuahiwi",
+    "city": "Kaiapoi",
+    "postcode": "7691"
+  },
+  "nzbn": "9429050433124",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100063463239763",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-08T23:07:22Z"
+}

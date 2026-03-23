@@ -1,0 +1,27 @@
+{
+  "id": 70548,
+  "registrationNumber": "CC56916",
+  "name": "The Potter's House Christian Church - Napier",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pottershousenapier.com",
+  "email": "pottershousenapier@gmail.com",
+  "address": {
+    "line1": "27 Skerrett Crescent",
+    "line2": null,
+    "suburb": "Tamatea",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T06:21:23Z"
+}

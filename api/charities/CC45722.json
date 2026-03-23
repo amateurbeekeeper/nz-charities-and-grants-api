@@ -1,0 +1,27 @@
+{
+  "id": 38630,
+  "registrationNumber": "CC45722",
+  "name": "The Pukekura Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-12-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "manager@pukekuratrust.org.nz",
+  "address": {
+    "line1": "1 Caleb Place",
+    "line2": " ",
+    "suburb": "Helensburgh",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": "9429043211302",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T02:44:21Z"
+}

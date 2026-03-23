@@ -1,0 +1,27 @@
+{
+  "id": 75530,
+  "registrationNumber": "CC61976",
+  "name": "Homeopathy New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "homeopathy.nz",
+  "email": "info@homeopathy.nz",
+  "address": {
+    "line1": "315 Twilight Road",
+    "line2": "RD 1",
+    "suburb": "Brookby",
+    "city": "Manurewa",
+    "postcode": "2576"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "NZ Homoeopathic Society",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T01:21:11Z"
+}

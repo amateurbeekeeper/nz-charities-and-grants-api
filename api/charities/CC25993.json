@@ -1,0 +1,27 @@
+{
+  "id": 58417,
+  "registrationNumber": "CC25993",
+  "name": "U3A Tauranga Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.u3atauranga.kiwi.nz",
+  "email": "president@u3atauranga.kiwi.nz",
+  "address": {
+    "line1": "PO Box 14453",
+    "line2": "Tauranga Central",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3141"
+  },
+  "nzbn": "9429042930389",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-19T04:06:02Z"
+}

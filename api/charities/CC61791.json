@@ -1,0 +1,27 @@
+{
+  "id": 75355,
+  "registrationNumber": "CC61791",
+  "name": "The Big Bake Up",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://thebigbakeup.com",
+  "email": "thebigbakeup@gmail.com",
+  "address": {
+    "line1": "4A Pigeon Valley Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wakefield",
+    "postcode": "7025"
+  },
+  "nzbn": "9429051597474",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thebigbakeup",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T05:56:00Z"
+}

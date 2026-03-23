@@ -1,0 +1,27 @@
+{
+  "id": 73994,
+  "registrationNumber": "CC60406",
+  "name": "One World Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.perfectlyimperfect.org.nz",
+  "email": "wendy@perfectlyimperfect.org.nz",
+  "address": {
+    "line1": "22 Montclair Rise",
+    "line2": " ",
+    "suburb": "Browns Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/perfectlyimperfectsnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T19:00:25Z"
+}

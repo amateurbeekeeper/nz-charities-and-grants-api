@@ -1,0 +1,27 @@
+{
+  "id": 62321,
+  "registrationNumber": "CC40984",
+  "name": "Chatham Islands Electricity Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.chathams.co.nz",
+  "email": "accounts@cietrust.co.nz",
+  "address": {
+    "line1": "Owenga Road",
+    "line2": "Waitangi",
+    "suburb": " ",
+    "city": "Chatham Islands",
+    "postcode": null
+  },
+  "nzbn": "9429039071460",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T21:04:50Z"
+}

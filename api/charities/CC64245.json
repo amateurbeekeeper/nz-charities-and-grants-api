@@ -1,0 +1,27 @@
+{
+  "id": 78435,
+  "registrationNumber": "CC64245",
+  "name": "Whaikaha Basketball Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Whaikahabasketball@gmail.com",
+  "address": {
+    "line1": "7 Whanake Street",
+    "line2": null,
+    "suburb": "Titahi Bay",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429052424038",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WhaikahaBasketballTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T22:25:51Z"
+}

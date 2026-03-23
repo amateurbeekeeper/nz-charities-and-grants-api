@@ -1,0 +1,27 @@
+{
+  "id": 70766,
+  "registrationNumber": "CC57127",
+  "name": "Howick Playcentre Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-09-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.playcentre.org.nz",
+  "email": "howick@playcentre.org.nz",
+  "address": {
+    "line1": "98 Nelson Street",
+    "line2": " ",
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/howickplaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T23:38:38Z"
+}

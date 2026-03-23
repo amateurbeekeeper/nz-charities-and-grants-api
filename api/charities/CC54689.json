@@ -1,0 +1,27 @@
+{
+  "id": 68353,
+  "registrationNumber": "CC54689",
+  "name": "Roskill Together Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.roskilltogether.org.nz",
+  "email": "eve@roskilltogether.org.nz",
+  "address": {
+    "line1": "422 Mount Albert Road",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429043309337",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RoskillTogether/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T03:01:20Z"
+}

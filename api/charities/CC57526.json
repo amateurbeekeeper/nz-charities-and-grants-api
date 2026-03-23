@@ -1,0 +1,27 @@
+{
+  "id": 71152,
+  "registrationNumber": "CC57526",
+  "name": "Mokihi Reforestation Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mokihi.co.nz",
+  "email": "blair@mokihi.co.nz",
+  "address": {
+    "line1": "319 Felton Road",
+    "line2": "RD 2",
+    "suburb": "Bannockburn",
+    "city": "Cromwell",
+    "postcode": "9384"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MokihiTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T00:42:28Z"
+}

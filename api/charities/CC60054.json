@@ -1,0 +1,27 @@
+{
+  "id": 73693,
+  "registrationNumber": "CC60054",
+  "name": "Their Voice NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ferotton@gmail.com",
+  "address": {
+    "line1": "36 Pitt Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Runanga",
+    "postcode": "7803"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/theirvoicenz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-26T01:50:14Z"
+}

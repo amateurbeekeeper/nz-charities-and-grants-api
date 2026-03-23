@@ -1,0 +1,27 @@
+{
+  "id": 59789,
+  "registrationNumber": "CC33689",
+  "name": "East City Wesleyan Church Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ecw.org.nz",
+  "email": "ecwfinance@ecw.org.nz",
+  "address": {
+    "line1": "219 Burswood Drive",
+    "line2": " ",
+    "suburb": "Burswood",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429047888067",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T19:22:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75158,
+  "registrationNumber": "CC61616",
+  "name": "Northwest Vineyard",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.northwestvineyard.org.nz",
+  "email": "april@northwestvineyard.org.nz",
+  "address": {
+    "line1": "34 Pamu Road",
+    "line2": " ",
+    "suburb": "Whenuapai",
+    "city": "Auckland",
+    "postcode": "0618"
+  },
+  "nzbn": null,
+  "financialYearEnd": "1/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/northwestvineyard",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T21:50:11Z"
+}

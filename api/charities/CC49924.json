@@ -1,0 +1,27 @@
+{
+  "id": 35438,
+  "registrationNumber": "CC49924",
+  "name": "Te Kura Awhio Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-11-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bev.kingithomas@gmail.com",
+  "address": {
+    "line1": "14 Lancelot Place",
+    "line2": " ",
+    "suburb": "Glenfield",
+    "city": "Auckland",
+    "postcode": "0629"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/awhio",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T07:41:36Z"
+}

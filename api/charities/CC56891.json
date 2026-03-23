@@ -1,0 +1,27 @@
+{
+  "id": 70523,
+  "registrationNumber": "CC56891",
+  "name": "Institute of Managers and Leaders Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://managersandleaders.com.au/",
+  "email": "company.secretary@managersandleaders.com.au",
+  "address": {
+    "line1": "The Generator",
+    "line2": "11 Britomart Place",
+    "suburb": " Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429047090552",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-31T19:45:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41573,
+  "registrationNumber": "CC40759",
+  "name": "Musical Theatre Oamaru Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mto.org.nz",
+  "email": "secretary@mto.org.nz",
+  "address": {
+    "line1": "59 Humber Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429042796992",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T21:38:15Z"
+}

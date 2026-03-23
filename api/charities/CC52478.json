@@ -1,0 +1,27 @@
+{
+  "id": 66208,
+  "registrationNumber": "CC52478",
+  "name": "Governors Bay Jetty Restoration Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.savethejetty.org",
+  "email": "savethejetty@gmail.com",
+  "address": {
+    "line1": "21 Jetty Road",
+    "line2": "Governors Bay 8971",
+    "suburb": "Christchurch Central",
+    "city": "Governors Bay",
+    "postcode": "8971"
+  },
+  "nzbn": "9429043294879",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/savethejetty/",
+    "twitter": "https://twitter.com/savethejetty"
+  },
+  "lastUpdated": "2025-09-28T18:57:19Z"
+}

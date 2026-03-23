@@ -1,0 +1,27 @@
+{
+  "id": 72693,
+  "registrationNumber": "CC59083",
+  "name": "New Zealand Sikh Youth",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://sikhyouth.nz",
+  "email": "jagbir@sikhyouth.nz",
+  "address": {
+    "line1": "120 Princes Street",
+    "line2": " ",
+    "suburb": "Otahuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429049703948",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/nzsikhyouth",
+    "twitter": "twitter.com/nzsikhyouth"
+  },
+  "lastUpdated": "2026-02-12T23:10:47Z"
+}

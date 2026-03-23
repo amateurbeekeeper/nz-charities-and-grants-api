@@ -1,0 +1,27 @@
+{
+  "id": 57224,
+  "registrationNumber": "CC29614",
+  "name": "Makaton New Zealand/Aotearoa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.makaton.org.nz",
+  "email": "MakatonNZA@outlook.com",
+  "address": {
+    "line1": "66 Carter Road",
+    "line2": " ",
+    "suburb": "Oratia",
+    "city": "Auckland",
+    "postcode": "604"
+  },
+  "nzbn": "9429042762867",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Makaton New Zealand / Aotearoa Charitable Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:38:44Z"
+}

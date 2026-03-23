@@ -1,0 +1,27 @@
+{
+  "id": 58532,
+  "registrationNumber": "CC37006",
+  "name": "Aongatete Forest Restoration Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-01-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "aongateteforest.org",
+  "email": "secretary@aongateteforest.org",
+  "address": {
+    "line1": "2771A State Highway 2",
+    "line2": "RD 2",
+    "suburb": "Aongatete",
+    "city": "Katikati",
+    "postcode": "3178"
+  },
+  "nzbn": "9429043038848",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@aongatete",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T21:18:48Z"
+}

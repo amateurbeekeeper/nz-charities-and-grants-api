@@ -1,0 +1,27 @@
+{
+  "id": 71273,
+  "registrationNumber": "CC57645",
+  "name": "Mapu Maia Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-12-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mapumaia.nz",
+  "email": "aung.maung@mapumaia.nz",
+  "address": {
+    "line1": "15 Jack Conway Avenue",
+    "line2": " ",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042290704",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T14:45:18Z"
+}

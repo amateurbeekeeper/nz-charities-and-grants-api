@@ -1,0 +1,27 @@
+{
+  "id": 70202,
+  "registrationNumber": "CC56563",
+  "name": "Lifeboat Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "maro.vania@gmail.com",
+  "address": {
+    "line1": "932 East Coast Road",
+    "line2": " ",
+    "suburb": "Northcross",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429047072428",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/1903012926488316/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-15T03:43:25Z"
+}

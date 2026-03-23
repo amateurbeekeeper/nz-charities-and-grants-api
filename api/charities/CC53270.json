@@ -1,0 +1,27 @@
+{
+  "id": 66985,
+  "registrationNumber": "CC53270",
+  "name": "Arts Integrated Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://artsintegrated.co.nz/",
+  "email": "sallythomas58@gmail.com",
+  "address": {
+    "line1": "20B Stratford Street",
+    "line2": " ",
+    "suburb": "Merivale",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429049855586",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/artsintegratedchch/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T01:49:54Z"
+}

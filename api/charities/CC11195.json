@@ -1,0 +1,27 @@
+{
+  "id": 52961,
+  "registrationNumber": "CC11195",
+  "name": "Enjoy Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.enjoy.org.nz",
+  "email": "tendai@enjoy.org.nz",
+  "address": {
+    "line1": "Shop 211 ",
+    "line2": "Left Bank",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043064687",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/enjoycontemporaryartspace/",
+    "twitter": "https://twitter.com/EnjoyWellington"
+  },
+  "lastUpdated": "2026-03-16T22:33:23Z"
+}

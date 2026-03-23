@@ -1,0 +1,27 @@
+{
+  "id": 69978,
+  "registrationNumber": "CC56330",
+  "name": "Aikido Nelson Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aikidonelson.nz",
+  "email": "cornbaum@gmail.com",
+  "address": {
+    "line1": "63 Tahunanui Drive",
+    "line2": null,
+    "suburb": "Tahunanui",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429043419500",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Aikido Nelson",
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-24T20:07:48Z"
+}

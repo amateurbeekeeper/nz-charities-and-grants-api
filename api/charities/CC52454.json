@@ -1,0 +1,27 @@
+{
+  "id": 66187,
+  "registrationNumber": "CC52454",
+  "name": "Salam Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-07-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://http:www.salammasjid.co.nz",
+  "email": "salamtrust@yahoo.co.nz",
+  "address": {
+    "line1": "3 Akatea Road",
+    "line2": " ",
+    "suburb": "Glendene",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": "9429043282944",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:27:47Z"
+}

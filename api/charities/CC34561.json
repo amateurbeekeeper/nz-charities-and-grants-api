@@ -1,0 +1,27 @@
+{
+  "id": 46332,
+  "registrationNumber": "CC34561",
+  "name": "Waitaki Community Recreation Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sporty.co.nz/waitakicrc",
+  "email": "admin@waitakicrc.co.nz",
+  "address": {
+    "line1": "45 Orwell Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429042993452",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Waitaki-Community-Recreation-Centre-126022194079787/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T18:23:46Z"
+}

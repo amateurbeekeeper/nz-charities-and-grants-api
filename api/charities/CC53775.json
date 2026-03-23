@@ -1,0 +1,27 @@
+{
+  "id": 67484,
+  "registrationNumber": "CC53775",
+  "name": "The Cause Collective",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thecausecollective.org.nz",
+  "email": "banson.y@thecausecollective.org.nz",
+  "address": {
+    "line1": "15 Earl Richardson Avenue",
+    "line2": " ",
+    "suburb": "Wiri",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429043313532",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "@AllianceCommunityInitiatives",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T23:40:15Z"
+}

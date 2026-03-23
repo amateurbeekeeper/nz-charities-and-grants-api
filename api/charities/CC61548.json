@@ -1,0 +1,27 @@
+{
+  "id": 75117,
+  "registrationNumber": "CC61548",
+  "name": "Haven Respite",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "haven4respite@gmail.com",
+  "address": {
+    "line1": "92 Witako Street",
+    "line2": " ",
+    "suburb": "Epuni",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429052551956",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T03:17:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41044,
+  "registrationNumber": "CC37591",
+  "name": "Potaka Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tina19@gmail.com",
+  "address": {
+    "line1": "7157 Te Araroa Road",
+    "line2": "Hicks Bay 3199",
+    "suburb": "Potaka ",
+    "city": "Hicks Bay",
+    "postcode": "3199"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Potaka Marae - Te Whanau a Tapaeururangi",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T03:07:59Z"
+}

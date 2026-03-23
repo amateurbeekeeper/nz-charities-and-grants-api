@@ -1,0 +1,27 @@
+{
+  "id": 34111,
+  "registrationNumber": "CC50458",
+  "name": "The Jones Family Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "derek@dandjfamily.com",
+  "address": {
+    "line1": "33 Rahiri Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429043261857",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-06T19:15:46Z"
+}

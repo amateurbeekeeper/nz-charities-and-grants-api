@@ -1,0 +1,27 @@
+{
+  "id": 66322,
+  "registrationNumber": "CC52593",
+  "name": "Knox Presbyterian Church - Dannevirke",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-11-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://knoxdannevirke.nz",
+  "email": "office@knoxdannevirke.nz",
+  "address": {
+    "line1": "16 Swinburn Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Dannevirke",
+    "postcode": "4930"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T19:19:34Z"
+}

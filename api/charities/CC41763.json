@@ -1,0 +1,27 @@
+{
+  "id": 39646,
+  "registrationNumber": "CC41763",
+  "name": "Surf Life Saving Kariaotahi Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kariaotahi.org.nz",
+  "email": "secretary@kariaotahi.org.nz",
+  "address": {
+    "line1": "Kariaotahi Beach",
+    "line2": "End Of Kariaotahi Rd",
+    "suburb": "Waiuku",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429042652250",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://.facebook.com/kariaotahi/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T22:45:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73934,
+  "registrationNumber": "CC60341",
+  "name": "Whānau a Te Atua",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://whaanau-a-te-atua.com",
+  "email": "tui@whaanau-a-te-atua.com",
+  "address": {
+    "line1": "84 Vardon Road",
+    "line2": " ",
+    "suburb": "Saint Andrews",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429050828951",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:22:35Z"
+}

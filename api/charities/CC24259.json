@@ -1,0 +1,27 @@
+{
+  "id": 55625,
+  "registrationNumber": "CC24259",
+  "name": "Awhitu Peninsula Landcare Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.awhitu.org.nz",
+  "email": "admin@awhitu.org.nz",
+  "address": {
+    "line1": "2610 Awhitu Road",
+    "line2": "RD 4",
+    "suburb": " ",
+    "city": "Awhitu",
+    "postcode": "2684"
+  },
+  "nzbn": "9429042589341",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AwhituLandcare/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T18:58:11Z"
+}

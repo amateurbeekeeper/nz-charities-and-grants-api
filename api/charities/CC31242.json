@@ -1,0 +1,27 @@
+{
+  "id": 48477,
+  "registrationNumber": "CC31242",
+  "name": "Grace Presbyterian Church Gore-Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mike@mwca.co.nz",
+  "address": {
+    "line1": "8 Albany Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gore",
+    "postcode": "9710"
+  },
+  "nzbn": "9429043017973",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T18:40:51Z"
+}

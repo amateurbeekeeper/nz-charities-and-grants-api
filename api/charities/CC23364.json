@@ -1,0 +1,27 @@
+{
+  "id": 55293,
+  "registrationNumber": "CC23364",
+  "name": "Christ Church Preservation Society (Inc)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.christ-church.org.nz",
+  "email": "jgstevens@outlook.com",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "65 Old Karori Road",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429042612148",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Christ Church Taita",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T19:10:01Z"
+}

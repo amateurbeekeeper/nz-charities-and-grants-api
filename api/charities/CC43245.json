@@ -1,0 +1,27 @@
+{
+  "id": 61880,
+  "registrationNumber": "CC43245",
+  "name": "Rainbow Wellington Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rainbowwellington.org.nz",
+  "email": "sam@rainbowwellington.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "50 Customhouse Quay",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043008629",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/rainbowwgtn/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:52:04Z"
+}

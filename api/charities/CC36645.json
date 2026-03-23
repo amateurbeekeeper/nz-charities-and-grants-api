@@ -1,0 +1,27 @@
+{
+  "id": 45352,
+  "registrationNumber": "CC36645",
+  "name": "Saint Marys Cooperating Parish of Glen Innes",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "st.mary.gi@gmail.com",
+  "address": {
+    "line1": "132 Taniwha Street",
+    "line2": " ",
+    "suburb": "Glen Innes",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429051728366",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T23:26:01Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48245,
+  "registrationNumber": "CC30335",
+  "name": "Christian Schools Association of Queenstown",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rob.stewart@mckenzieandco.co.nz",
+  "address": {
+    "line1": "14 Yewlett Crescent",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429042619178",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T04:37:27Z"
+}

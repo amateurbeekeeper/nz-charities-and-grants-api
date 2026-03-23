@@ -1,0 +1,27 @@
+{
+  "id": 39868,
+  "registrationNumber": "CC24871",
+  "name": "Citizens Advice Bureau Wairoa Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-05-25T00:00:00Z",
+  "dateDeregistered": "2022-06-30T00:00:00Z",
+  "website": "www.cab.org.nz",
+  "email": "wairoa@cab.org.nz",
+  "address": {
+    "line1": "208 Marine Parade",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wairoa",
+    "postcode": "4108"
+  },
+  "nzbn": "9429042884507",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/citizensadvicenz",
+    "twitter": null
+  },
+  "lastUpdated": "2022-10-02T20:35:36Z"
+}

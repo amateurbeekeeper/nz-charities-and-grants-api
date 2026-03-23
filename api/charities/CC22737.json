@@ -1,0 +1,27 @@
+{
+  "id": 53915,
+  "registrationNumber": "CC22737",
+  "name": "The New Zealand Baptist Missionary Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.arotahi.org.nz/",
+  "email": "Alan@arotahi.org.nz",
+  "address": {
+    "line1": "1-7 Marewa Road",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042679332",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://facebook.com/arotahi.org",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:00:52Z"
+}

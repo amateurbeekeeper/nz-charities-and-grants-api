@@ -1,0 +1,27 @@
+{
+  "id": 68602,
+  "registrationNumber": "CC54942",
+  "name": "Riccarton Players Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-08-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.riccartonplayers.co.nz",
+  "email": "Lauren@riccartonplayers.co.nz",
+  "address": {
+    "line1": "30 Carlyle Street",
+    "line2": " ",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429042734055",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@riccartonPlayersinc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-21T10:37:51Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37145,
+  "registrationNumber": "CC49551",
+  "name": "Southland Rural Support Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-07-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rural-support.org.nz/Regions/South-Island/Southland",
+  "email": "fiona.comer@ruralsupport.org.nz",
+  "address": {
+    "line1": "481 Flora Road East",
+    "line2": "RD 6",
+    "suburb": "Makarewa",
+    "city": "Invercargill",
+    "postcode": "9876"
+  },
+  "nzbn": "9429043092000",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/SouthlandRST",
+    "twitter": "@SupportRural"
+  },
+  "lastUpdated": "2025-05-15T23:12:33Z"
+}

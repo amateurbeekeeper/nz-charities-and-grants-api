@@ -1,0 +1,27 @@
+{
+  "id": 65728,
+  "registrationNumber": "CC51976",
+  "name": "St Martins Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stmartins.org.nz",
+  "email": "cfitchett@netaccess.co.nz",
+  "address": {
+    "line1": "43 St Martins Road",
+    "line2": " ",
+    "suburb": "Saint Martins",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T06:08:09Z"
+}

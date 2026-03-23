@@ -1,0 +1,27 @@
+{
+  "id": 69600,
+  "registrationNumber": "CC55949",
+  "name": "Federation of Primary Health Aotearoa New Zealand Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-11-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.pcha.nz",
+  "email": "michael.stirling@mmpo.org.nz",
+  "address": {
+    "line1": "376 Manchester Street",
+    "line2": "Edgeware",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429046799401",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T05:58:52Z"
+}

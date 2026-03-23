@@ -1,0 +1,27 @@
+{
+  "id": 36543,
+  "registrationNumber": "CC47031",
+  "name": "Coastal Taranaki Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.coastalcare.co.nz",
+  "email": "info@coastalcare.co.nz",
+  "address": {
+    "line1": "26 Napier Street",
+    "line2": "Opunake 4616",
+    "suburb": " ",
+    "city": "Opunake",
+    "postcode": "4616"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-20T23:06:23Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34498,
+  "registrationNumber": "CC50855",
+  "name": "ADC Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-07-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.adc.org.nz",
+  "email": "info@adc.org.nz",
+  "address": {
+    "line1": "21F Bell Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429043264889",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/adcmicrofinance",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T09:01:19Z"
+}

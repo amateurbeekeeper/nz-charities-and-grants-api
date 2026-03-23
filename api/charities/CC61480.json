@@ -1,0 +1,27 @@
+{
+  "id": 75049,
+  "registrationNumber": "CC61480",
+  "name": "Three Kings School PTA",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://threekings.school.nz/parent-teacher-association/",
+  "email": "nicola.eka@threekings.school.nz",
+  "address": {
+    "line1": "944 Mount Eden Road",
+    "line2": " ",
+    "suburb": "Three Kings",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-19T19:50:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53311,
+  "registrationNumber": "CC11466",
+  "name": "Jesus Is Lord Church New Zealand Inc",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://jilnz.org/",
+  "email": "admin@jilnz.org",
+  "address": {
+    "line1": "22 Tod Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lincoln",
+    "postcode": "7608"
+  },
+  "nzbn": "9429043072606",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T23:06:16Z"
+}

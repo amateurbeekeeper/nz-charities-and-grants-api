@@ -1,0 +1,27 @@
+{
+  "id": 75083,
+  "registrationNumber": "CC61511",
+  "name": "Loaves and Fishes - Foodbank Wellsford",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "foodbankwellsford@gmail.com",
+  "address": {
+    "line1": "72 School Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wellsford",
+    "postcode": "0900"
+  },
+  "nzbn": "9429051482527",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/foodbankwellsford",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:02:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55859,
+  "registrationNumber": "CC22529",
+  "name": "Napier Community Child Care Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.portcitychildren.co.nz",
+  "email": "secretary@portcitychildren.co.nz",
+  "address": {
+    "line1": "26 Campbell Street",
+    "line2": " ",
+    "suburb": "Ahuriri",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042750642",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T07:15:30Z"
+}

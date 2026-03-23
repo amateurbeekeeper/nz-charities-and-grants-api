@@ -1,0 +1,27 @@
+{
+  "id": 33186,
+  "registrationNumber": "CC49093",
+  "name": "Kirikiriroa Marae Reservation Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-04-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.kirikiriroamarae.co.nz",
+  "email": "admin@kkrmarae.nz",
+  "address": {
+    "line1": "951 Wairere Drive",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Kirikiriroa Marae",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T21:34:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 78275,
+  "registrationNumber": "CC64085",
+  "name": "Karori Bridge Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.karoribridge.com/",
+  "email": "alys.marion@gmail.com",
+  "address": {
+    "line1": "274 Karori Road",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=karori%20bridge%20club",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-14T08:25:35Z"
+}

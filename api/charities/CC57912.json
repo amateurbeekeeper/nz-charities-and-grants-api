@@ -1,0 +1,27 @@
+{
+  "id": 71525,
+  "registrationNumber": "CC57912",
+  "name": "Auckland Youth Golfing Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ray@thegreenpinnacle.co.nz",
+  "address": {
+    "line1": "565 Great North Road",
+    "line2": null,
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429047938724",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T03:15:29Z"
+}

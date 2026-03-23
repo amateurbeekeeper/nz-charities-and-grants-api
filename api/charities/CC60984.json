@@ -1,0 +1,27 @@
+{
+  "id": 74569,
+  "registrationNumber": "CC60984",
+  "name": "Enthrive Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-12-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.enthrive.org.nz",
+  "email": "enthrivenz@outlook.com",
+  "address": {
+    "line1": "168A Tramway Road",
+    "line2": " ",
+    "suburb": "Enderley",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": "9429051012274",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100095286798479",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T01:07:54Z"
+}

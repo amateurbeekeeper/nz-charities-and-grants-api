@@ -1,0 +1,27 @@
+{
+  "id": 42954,
+  "registrationNumber": "CC32433",
+  "name": "REAP Aotearoa New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.reapaotearoa.nz",
+  "email": "director@reapaotearoa.nz",
+  "address": {
+    "line1": "61 Waite Street",
+    "line2": "Featherston 5710",
+    "suburb": " ",
+    "city": "Featherston",
+    "postcode": "5710"
+  },
+  "nzbn": "9429043134182",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T01:50:07Z"
+}

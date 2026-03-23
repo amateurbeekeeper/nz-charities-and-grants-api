@@ -1,0 +1,27 @@
+{
+  "id": 36998,
+  "registrationNumber": "CC46685",
+  "name": "Arthur's Pass Wildlife Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-06-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.apwt.org.nz",
+  "email": "chairperson@apwt.org.nz",
+  "address": {
+    "line1": "76 School Terrace",
+    "line2": null,
+    "suburb": " ",
+    "city": "Arthur's Pass National Park",
+    "postcode": "7875"
+  },
+  "nzbn": "9429043227983",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/apwtorg/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-28T00:01:24Z"
+}

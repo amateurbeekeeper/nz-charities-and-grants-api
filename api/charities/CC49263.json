@@ -1,0 +1,27 @@
+{
+  "id": 35022,
+  "registrationNumber": "CC49263",
+  "name": "Brook Park Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "guy@tekuiti100.co.nz",
+  "address": {
+    "line1": "15 Queen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Kūiti",
+    "postcode": "3910"
+  },
+  "nzbn": "9429043318483",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T20:21:51Z"
+}

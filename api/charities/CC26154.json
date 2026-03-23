@@ -1,0 +1,27 @@
+{
+  "id": 55147,
+  "registrationNumber": "CC26154",
+  "name": "Christian Blind Mission International (New Zealand)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cbm-nz.org.nz/",
+  "email": "jjones@cbmnz.org.nz",
+  "address": {
+    "line1": "Shop 4B",
+    "line2": "331 Rosedale Road",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429042954163",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CBMNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T22:43:05Z"
+}

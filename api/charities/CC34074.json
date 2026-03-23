@@ -1,0 +1,27 @@
+{
+  "id": 41981,
+  "registrationNumber": "CC34074",
+  "name": "Waiapu Anglican Social Services Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.acw.org.nz",
+  "email": "jules.morgan@acw.org.nz",
+  "address": {
+    "line1": "ANGLICAN CENTRE",
+    "line2": "2 Bower Street",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429048993852",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:09:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33635,
+  "registrationNumber": "CC49853",
+  "name": "Waipa Community Facilities Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gowaipa.com",
+  "email": "matt.horne@gowaipa.com",
+  "address": {
+    "line1": "3 Selwyn Lane",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Awamutu",
+    "postcode": "3800"
+  },
+  "nzbn": "9429043249145",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook/gowaipa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T19:17:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 49659,
+  "registrationNumber": "CC31301",
+  "name": "Northland Community Preschool Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ncpreschool.co.nz",
+  "email": "office@ncpreschool.co.nz",
+  "address": {
+    "line1": "137 Mairangi Road",
+    "line2": " ",
+    "suburb": "Wilton",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429042667032",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-22T19:51:53Z"
+}

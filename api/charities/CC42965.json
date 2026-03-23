@@ -1,0 +1,27 @@
+{
+  "id": 64756,
+  "registrationNumber": "CC42965",
+  "name": "Te Puna Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-11-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul@tepuna.nz",
+  "address": {
+    "line1": "95 Powderham Street",
+    "line2": "New Plymouth 4310",
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043198276",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T18:41:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42473,
+  "registrationNumber": "CC35720",
+  "name": "The Titirangi Community House Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.titirangihouse.co.nz",
+  "email": "admin@titirangihouse.co.nz",
+  "address": {
+    "line1": "500 South Titirangi Road",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "604"
+  },
+  "nzbn": "9429042878940",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/titirangicommunityhouse/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:15:10Z"
+}

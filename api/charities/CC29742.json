@@ -1,0 +1,27 @@
+{
+  "id": 60765,
+  "registrationNumber": "CC29742",
+  "name": "Real Life Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.beachchurch.org.nz",
+  "email": "bradyn.rachel@gmail.com",
+  "address": {
+    "line1": "1 Kowhai Grove",
+    "line2": " ",
+    "suburb": "Raumati Beach",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429043020744",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BeachChurchNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-08T21:12:14Z"
+}

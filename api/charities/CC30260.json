@@ -1,0 +1,27 @@
+{
+  "id": 57997,
+  "registrationNumber": "CC30260",
+  "name": "The Belmont Park Racquets Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.belmontracquets.co.nz",
+  "email": "graeme.norman@me.com",
+  "address": {
+    "line1": "135 Bayswater Avenue",
+    "line2": " ",
+    "suburb": "Bayswater",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429042871743",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:16:40Z"
+}

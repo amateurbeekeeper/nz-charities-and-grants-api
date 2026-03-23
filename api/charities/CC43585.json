@@ -1,0 +1,27 @@
+{
+  "id": 62826,
+  "registrationNumber": "CC43585",
+  "name": "Auckland Astronomical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.astronomy.org.nz",
+  "email": "president@astronomy.org.nz",
+  "address": {
+    "line1": "670 Manukau Road",
+    "line2": "One Tree Hill Domain",
+    "suburb": "Royal Oak",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042584711",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AuckAstroSoc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T07:11:40Z"
+}

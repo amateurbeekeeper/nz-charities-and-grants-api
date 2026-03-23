@@ -1,0 +1,27 @@
+{
+  "id": 63150,
+  "registrationNumber": "CC41375",
+  "name": "Recreate NZ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.recreate.org.nz",
+  "email": "info@recreate.org.nz",
+  "address": {
+    "line1": "630C Great South Road",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042990444",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T00:28:20Z"
+}

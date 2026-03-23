@@ -1,0 +1,27 @@
+{
+  "id": 44914,
+  "registrationNumber": "CC41432",
+  "name": "Southland Tennis Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tennissouthland.co.nz",
+  "email": "operations@tennissouthland.co.nz",
+  "address": {
+    "line1": "18 Surrey Park Road",
+    "line2": " ",
+    "suburb": " Glengarry",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042734482",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tennissouthlandnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T18:21:00Z"
+}

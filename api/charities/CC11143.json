@@ -1,0 +1,27 @@
+{
+  "id": 51289,
+  "registrationNumber": "CC11143",
+  "name": "Gardner Road Kindergarten Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gardnerrdkindy.org.nz",
+  "email": "gaylene@grkindy.nz",
+  "address": {
+    "line1": "10 Gardner Road",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042625438",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Gardner Road Kindergarten",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:36:40Z"
+}

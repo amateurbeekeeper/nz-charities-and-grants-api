@@ -1,0 +1,27 @@
+{
+  "id": 74181,
+  "registrationNumber": "CC60593",
+  "name": "Te Roopu Whakamana Tāngata Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-10-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://whakamanatangata.co.nz",
+  "email": "teroopuwhakamanatangata@gmail.com",
+  "address": {
+    "line1": "1/12 kapia street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Dargaville",
+    "postcode": null
+  },
+  "nzbn": "9429050004010",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "whakamanatangata",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T06:28:21Z"
+}

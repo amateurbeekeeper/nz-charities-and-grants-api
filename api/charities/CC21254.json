@@ -1,0 +1,27 @@
+{
+  "id": 54434,
+  "registrationNumber": "CC21254",
+  "name": "Tamahere Eventide Home Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tamahere.co.nz",
+  "email": "ceo@tamahere.co.nz",
+  "address": {
+    "line1": "61 Bollard Road",
+    "line2": "RD 3",
+    "suburb": "Tamahere",
+    "city": "Hamilton",
+    "postcode": "3283"
+  },
+  "nzbn": "9429042969266",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T23:48:08Z"
+}

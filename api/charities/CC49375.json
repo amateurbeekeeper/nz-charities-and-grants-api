@@ -1,0 +1,27 @@
+{
+  "id": 35117,
+  "registrationNumber": "CC49375",
+  "name": "Dipton Community Toy Library",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "diptontoylibrary@outlook.com",
+  "address": {
+    "line1": "War Memorial Hall",
+    "line2": "Main Road",
+    "suburb": " ",
+    "city": "Dipton",
+    "postcode": "9791"
+  },
+  "nzbn": "9429042928423",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/diptontoylibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T08:16:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37595,
+  "registrationNumber": "CC44615",
+  "name": "GRM Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-07-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gloryreleaseministries.org",
+  "email": "sarah@gloryreleaseministries.org",
+  "address": {
+    "line1": "4 Aotea Place",
+    "line2": " ",
+    "suburb": "Chedworth",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429043210947",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/GloryReleaseMinistries",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T19:09:39Z"
+}

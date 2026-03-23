@@ -1,0 +1,27 @@
+{
+  "id": 44650,
+  "registrationNumber": "CC30473",
+  "name": "Dunstan High School Hostel Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2010-05-31T00:00:00Z",
+  "website": "http://www.dunstan.school.nz",
+  "email": "principal@dunstan.school.nz",
+  "address": {
+    "line1": "Dunstan High School",
+    "line2": "Enterprise St",
+    "suburb": null,
+    "city": "Alexandra",
+    "postcode": "9320"
+  },
+  "nzbn": "9429043117352",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:58:01Z"
+}

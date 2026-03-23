@@ -1,0 +1,27 @@
+{
+  "id": 51717,
+  "registrationNumber": "CC33614",
+  "name": "Greenways Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.greenwaystrust.org.nz",
+  "email": "gm@greenwaystrust.org.nz",
+  "address": {
+    "line1": "16 Edward Street",
+    "line2": "Dargaville 0310",
+    "suburb": " ",
+    "city": "Dargaville",
+    "postcode": "0310"
+  },
+  "nzbn": "9429042628903",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T22:21:14Z"
+}

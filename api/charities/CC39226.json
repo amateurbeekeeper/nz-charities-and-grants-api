@@ -1,0 +1,27 @@
+{
+  "id": 62380,
+  "registrationNumber": "CC39226",
+  "name": "Health Information Association of New Zealand",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-04-14T00:00:00Z",
+  "dateDeregistered": "2020-10-31T00:00:00Z",
+  "website": "http://www.hianz.org.nz",
+  "email": "sam.mcleod@bopdhb.govt.nz",
+  "address": {
+    "line1": "28 Carribean Place",
+    "line2": " ",
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-11-19T22:51:49Z"
+}

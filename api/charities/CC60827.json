@@ -1,0 +1,27 @@
+{
+  "id": 74409,
+  "registrationNumber": "CC60827",
+  "name": "Passion AKL Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-12-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://passionakl.com/",
+  "email": "info@passionakl.com",
+  "address": {
+    "line1": "PO Box 10041",
+    "line2": "Dominion Road",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1446"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/passionchurchakl",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T09:54:08Z"
+}

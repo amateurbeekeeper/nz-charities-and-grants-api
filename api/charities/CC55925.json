@@ -1,0 +1,27 @@
+{
+  "id": 69578,
+  "registrationNumber": "CC55925",
+  "name": "Ovarian Cancer Foundation New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ovariancancerfoundation.org.nz",
+  "email": "office@ocfnz.org.nz",
+  "address": {
+    "line1": "27B Dovedale Avenue",
+    "line2": " ",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429046845467",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/ovariancancerfoundationnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:22:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34948,
+  "registrationNumber": "CC50876",
+  "name": "Te Wahi Ora Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tewahiora.co.nz",
+  "email": "tewahiorapiha@gmail.com",
+  "address": {
+    "line1": "129 Marine Pde North",
+    "line2": "Piha",
+    "suburb": "Waitakere",
+    "city": "Auckland",
+    "postcode": "0772"
+  },
+  "nzbn": "9429050947607",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/tewahiora",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T23:43:22Z"
+}

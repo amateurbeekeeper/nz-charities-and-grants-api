@@ -1,0 +1,27 @@
+{
+  "id": 58527,
+  "registrationNumber": "CC42496",
+  "name": "ID Dunedin Fashion Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.idfashion.co.nz",
+  "email": "Margo.Barton@op.ac.nz",
+  "address": {
+    "line1": "105 Forth Street",
+    "line2": "C/- School of Design, Otago Polytechnic",
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043082285",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T00:36:27Z"
+}

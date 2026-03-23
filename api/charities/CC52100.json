@@ -1,0 +1,27 @@
+{
+  "id": 65840,
+  "registrationNumber": "CC52100",
+  "name": "Rotorua Trails Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rotoruatrailstrust.co.nz/",
+  "email": "timw@bwtl.co.nz",
+  "address": {
+    "line1": "Waipa State Mill Road",
+    "line2": " ",
+    "suburb": "Whakarewarewa",
+    "city": "Rotorua",
+    "postcode": "3073"
+  },
+  "nzbn": "9429043296293",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RotoruaTrailsTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T20:19:32Z"
+}

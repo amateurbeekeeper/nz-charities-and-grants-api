@@ -1,0 +1,27 @@
+{
+  "id": 33897,
+  "registrationNumber": "CC50459",
+  "name": "Impact Consulting Group",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.impactconsultinggroup.org/",
+  "email": "treasurer@impactconsultinggroup.org",
+  "address": {
+    "line1": "12 Grafton Road",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043255900",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/impactconsultingnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T01:11:15Z"
+}

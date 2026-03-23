@@ -1,0 +1,27 @@
+{
+  "id": 54957,
+  "registrationNumber": "CC22338",
+  "name": "Geraldine Community Resource Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://geraldine.nz/resource-centre/",
+  "email": "info@geraldineresourcecentre.co.nz",
+  "address": {
+    "line1": "5A Peel Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Geraldine",
+    "postcode": "7930"
+  },
+  "nzbn": "9429043176908",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Geraldine Community Resource Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-07T19:09:53Z"
+}

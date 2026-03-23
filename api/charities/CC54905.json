@@ -1,0 +1,27 @@
+{
+  "id": 68574,
+  "registrationNumber": "CC54905",
+  "name": "New Zealand Deerstalkers Association Hunts Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-08-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.deerstalkers.org.nz",
+  "email": "info@deerstalkers.org.nz",
+  "address": {
+    "line1": "3 Collina Terrace",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043292493",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzda.hunts/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-29T00:22:53Z"
+}

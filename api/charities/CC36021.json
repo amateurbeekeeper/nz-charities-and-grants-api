@@ -1,0 +1,27 @@
+{
+  "id": 59787,
+  "registrationNumber": "CC36021",
+  "name": "Centre for Pacific Languages",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.centreforpacificlanguages.co.nz",
+  "email": "fesaitu@centreforpacificlanguages.co.nz",
+  "address": {
+    "line1": "Suite U003A Level 3",
+    "line2": "1 Leyton Way",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042805427",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/PacificEducation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T09:31:10Z"
+}

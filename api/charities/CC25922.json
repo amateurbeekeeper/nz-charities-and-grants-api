@@ -1,0 +1,27 @@
+{
+  "id": 58303,
+  "registrationNumber": "CC25922",
+  "name": "The Afrikaans Christian Church of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.afrchristenkerk.co.nz",
+  "email": "ackvannz@gmail.com",
+  "address": {
+    "line1": "3 Bezar Place",
+    "line2": " ",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2016"
+  },
+  "nzbn": "9429042956174",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-12T20:27:31Z"
+}

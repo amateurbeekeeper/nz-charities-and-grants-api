@@ -1,0 +1,27 @@
+{
+  "id": 51445,
+  "registrationNumber": "CC10664",
+  "name": "Te Aro Health Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tearohealth.nz",
+  "email": "mhofmannbody@gywlaw.co.nz",
+  "address": {
+    "line1": "331 Willis Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042858836",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "N/A",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2026-03-02T01:09:19Z"
+}

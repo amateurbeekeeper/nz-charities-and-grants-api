@@ -1,0 +1,27 @@
+{
+  "id": 49920,
+  "registrationNumber": "CC31375",
+  "name": "Birkenhead RSA Welfare Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.birkenheadrsa.com",
+  "email": "manager@birkenheadrsa.com",
+  "address": {
+    "line1": "PO Box 34076",
+    "line2": "Birkenhead",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "746"
+  },
+  "nzbn": "9429042962700",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BirkenheadReturnedServicesAssociation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T00:55:09Z"
+}

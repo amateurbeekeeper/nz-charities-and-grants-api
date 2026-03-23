@@ -1,0 +1,27 @@
+{
+  "id": 68284,
+  "registrationNumber": "CC54613",
+  "name": "Warming Hearts NZ Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.warminghearts.co.nz",
+  "email": "warmingheartsnz@gmail.com",
+  "address": {
+    "line1": "29 Rama Road",
+    "line2": " ",
+    "suburb": "Point Chevalier",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/warmingheartsnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T20:57:58Z"
+}

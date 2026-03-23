@@ -1,0 +1,27 @@
+{
+  "id": 78177,
+  "registrationNumber": "CC63988",
+  "name": "InCommon",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.incommon.org.nz ",
+  "email": "holly@incommon.org.nz",
+  "address": {
+    "line1": "455 Hagley Avenue",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429052770869",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T01:45:12Z"
+}

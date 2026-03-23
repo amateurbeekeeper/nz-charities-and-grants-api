@@ -1,0 +1,27 @@
+{
+  "id": 66219,
+  "registrationNumber": "CC52486",
+  "name": "The Friends of Cobblestones",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-10-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cobblestonesmuseum.org.nz",
+  "email": "treasurer.friendsofcobblestones@gmail.com",
+  "address": {
+    "line1": "169 Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greytown",
+    "postcode": "5712"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FriendsofCobblestonesMuseum",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:53:13Z"
+}

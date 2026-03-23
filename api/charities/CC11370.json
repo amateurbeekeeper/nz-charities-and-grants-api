@@ -1,0 +1,27 @@
+{
+  "id": 53209,
+  "registrationNumber": "CC11370",
+  "name": "The Masonic Villages Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.masonicvillages.co.nz",
+  "email": "warick.dunn@masonicvillages.co.nz",
+  "address": {
+    "line1": "15 Daly Street",
+    "line2": " Level 2",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429042910992",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T02:11:55Z"
+}

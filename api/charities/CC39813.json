@@ -1,0 +1,27 @@
+{
+  "id": 61067,
+  "registrationNumber": "CC39813",
+  "name": "LCS Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.leeston.school.nz",
+  "email": "pip.lodge@hotmail.com",
+  "address": {
+    "line1": "Selwyn Street",
+    "line2": " ",
+    "suburb": "Leeston",
+    "city": "Christchurch",
+    "postcode": "7682"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "LCS Whanau Friends and School",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T02:52:35Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53184,
+  "registrationNumber": "CC20199",
+  "name": "Te Mana Oranga Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "manager@tmot.org.nz",
+  "address": {
+    "line1": "88 North Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaitaia",
+    "postcode": "410"
+  },
+  "nzbn": "9429042980223",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:20:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51120,
+  "registrationNumber": "CC10019",
+  "name": "United Church Of God New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-02-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ucg.org.nz",
+  "email": "info@ucg.org.nz",
+  "address": {
+    "line1": "PO Box 10468",
+    "line2": " ",
+    "suburb": "Te Rapa",
+    "city": "Hamilton",
+    "postcode": "3241"
+  },
+  "nzbn": "9429042900382",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100094596488665",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2026-01-25T21:38:50Z"
+}

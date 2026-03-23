@@ -1,0 +1,27 @@
+{
+  "id": 53325,
+  "registrationNumber": "CC20269",
+  "name": "Kinloch Community Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-12-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kinloch.org.nz",
+  "email": "nickh@bfa.co.nz",
+  "address": {
+    "line1": "20 Mata Place",
+    "line2": "RD 1",
+    "suburb": "Kinloch",
+    "city": "Taupo",
+    "postcode": "3377"
+  },
+  "nzbn": "9429042659594",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Kinloch Community Association",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T02:27:48Z"
+}

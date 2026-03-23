@@ -1,0 +1,27 @@
+{
+  "id": 56073,
+  "registrationNumber": "CC25739",
+  "name": "Northland Craft Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.quarryarts.org",
+  "email": "manager@quarryarts.org",
+  "address": {
+    "line1": "21 Selwyn Avenue",
+    "line2": " ",
+    "suburb": "Avenues",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043071821",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/quarry.centre/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-09T03:04:11Z"
+}

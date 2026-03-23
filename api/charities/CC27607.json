@@ -1,0 +1,27 @@
+{
+  "id": 59901,
+  "registrationNumber": "CC27607",
+  "name": "Health Care Aotearoa Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2015-06-16T00:00:00Z",
+  "website": "http://www.hca.org.nz",
+  "email": "healthcareaotearoa@gmail.com",
+  "address": {
+    "line1": "LEVEL 1   SOUTHMARK HOUSE",
+    "line2": "203 Willis Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042720713",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:39:36Z"
+}

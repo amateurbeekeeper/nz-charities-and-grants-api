@@ -1,0 +1,27 @@
+{
+  "id": 39020,
+  "registrationNumber": "CC22261",
+  "name": "Waitakere Health & Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aiowira.org.nz",
+  "email": "helen@aiowira.org.nz",
+  "address": {
+    "line1": "8 Aio Wira Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "781"
+  },
+  "nzbn": "9429043080731",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T20:07:05Z"
+}

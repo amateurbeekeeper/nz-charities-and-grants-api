@@ -1,0 +1,27 @@
+{
+  "id": 33515,
+  "registrationNumber": "CC49858",
+  "name": "The Waitac Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "waitac.org.nz",
+  "email": "graham-h@xtra.co.nz",
+  "address": {
+    "line1": "PO Box 95060",
+    "line2": " ",
+    "suburb": "Swanson",
+    "city": "Auckland",
+    "postcode": "0653"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T20:15:41Z"
+}

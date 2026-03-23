@@ -1,0 +1,27 @@
+{
+  "id": 58911,
+  "registrationNumber": "CC42379",
+  "name": "The Rotorua District Choir Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rotoruadistrictchoir.com",
+  "email": "rdchoir.treasurer@gmail.com",
+  "address": {
+    "line1": "1444 Waikite Valley Road",
+    "line2": "RD 1",
+    "suburb": "Ngakuru",
+    "city": "Rotorua",
+    "postcode": "3077"
+  },
+  "nzbn": "9429042871101",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/rotoruadistrictchoir",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T03:13:14Z"
+}

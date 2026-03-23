@@ -1,0 +1,27 @@
+{
+  "id": 63017,
+  "registrationNumber": "CC42151",
+  "name": "Te Aitarakihi Society Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://teaitarakihi.co.nz",
+  "email": "admin@teaitarakihi.co.nz",
+  "address": {
+    "line1": "50 Bridge Road",
+    "line2": " ",
+    "suburb": "Smithfield",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429049516272",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/teaitarakihi/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T23:39:49Z"
+}

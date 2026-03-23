@@ -1,0 +1,27 @@
+{
+  "id": 50963,
+  "registrationNumber": "CC42630",
+  "name": "Glenfield Primary School PTA",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-10-20T00:00:00Z",
+  "dateDeregistered": "2023-10-05T00:00:00Z",
+  "website": null,
+  "email": "joc@glenfield.school.nz",
+  "address": {
+    "line1": "Glenfield Primary School",
+    "line2": "101 Chivalry Road",
+    "suburb": "Glenfield",
+    "city": "Auckland",
+    "postcode": "629"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-10-04T23:05:58Z"
+}

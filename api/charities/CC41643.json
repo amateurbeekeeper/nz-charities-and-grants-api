@@ -1,0 +1,27 @@
+{
+  "id": 63679,
+  "registrationNumber": "CC41643",
+  "name": "Te Arawa Kapa Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-08-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tearawakapa@gmail.com",
+  "address": {
+    "line1": "1268 Arawa Street",
+    "line2": "Te Whare Koromātua o Whakaue",
+    "suburb": "Rotorua",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429043120970",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T03:06:39Z"
+}

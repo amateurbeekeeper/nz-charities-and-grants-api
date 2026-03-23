@@ -1,0 +1,27 @@
+{
+  "id": 37908,
+  "registrationNumber": "CC47909",
+  "name": "Te Tōpūtanga o te Whare Korou ki Aotearoa - Passive House Institute New Zealand (PHINZ)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-11-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://passivehouse.nz/",
+  "email": "accounts@passivehouse.nz",
+  "address": {
+    "line1": "Mezzanine Floor",
+    "line2": "28 Hopper Street",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043147410",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T00:20:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37430,
+  "registrationNumber": "CC48685",
+  "name": "Serbian Orthodox Church St. Sava",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-01-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.svetisava.org.nz",
+  "email": "dsmladenovic@gmail.com",
+  "address": {
+    "line1": "75 The Parade",
+    "line2": " ",
+    "suburb": "Island Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429042742258",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/sveti sava velington ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:30:39Z"
+}

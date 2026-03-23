@@ -1,0 +1,27 @@
+{
+  "id": 42975,
+  "registrationNumber": "CC31625",
+  "name": "Elijah Centre Embassy New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ld.collette@gmail.com",
+  "address": {
+    "line1": "67 Linton Street",
+    "line2": " ",
+    "suburb": "West End",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042969846",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T18:13:49Z"
+}

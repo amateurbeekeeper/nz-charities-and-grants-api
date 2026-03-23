@@ -1,0 +1,27 @@
+{
+  "id": 57372,
+  "registrationNumber": "CC34616",
+  "name": "Winter Games New Zealand",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-07-31T00:00:00Z",
+  "website": "http://www.wintergamesnz.kiwi",
+  "email": "marty@wintergamesnz.kiwi",
+  "address": {
+    "line1": "78 Anderson Road",
+    "line2": "Wanaka 9305",
+    "suburb": " ",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429043184668",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "winter games nz",
+    "twitter": "winter games nz"
+  },
+  "lastUpdated": "2025-08-22T07:19:22Z"
+}

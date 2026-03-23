@@ -1,0 +1,27 @@
+{
+  "id": 43526,
+  "registrationNumber": "CC34251",
+  "name": "The Rose",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "shirley.avon@slingshot.co.nz",
+  "address": {
+    "line1": "552 Don Buck Road",
+    "line2": " ",
+    "suburb": "Westgate",
+    "city": "Auckland",
+    "postcode": "614"
+  },
+  "nzbn": "9429043085057",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T00:47:38Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35349,
+  "registrationNumber": "CC50073",
+  "name": "New Zealand Ethics Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2013-09-13T00:00:00Z",
+  "dateDeregistered": "2023-03-22T00:00:00Z",
+  "website": "https://www.nzethics.com",
+  "email": "martin.tolich@otago.ac.nz",
+  "address": {
+    "line1": "48 Glendevon Place",
+    "line2": " ",
+    "suburb": "Vauxhall",
+    "city": "Dunedin",
+    "postcode": "9013"
+  },
+  "nzbn": "9429032967739",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-03-21T20:48:01Z"
+}

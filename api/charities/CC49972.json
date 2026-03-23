@@ -1,0 +1,27 @@
+{
+  "id": 33722,
+  "registrationNumber": "CC49972",
+  "name": "Kotahitanga Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kotahitanga.trust@gmail.com",
+  "address": {
+    "line1": "37 East Tamaki Road",
+    "line2": "RD 1",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429043319800",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:39:05Z"
+}

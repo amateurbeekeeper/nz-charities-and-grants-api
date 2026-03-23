@@ -1,0 +1,27 @@
+{
+  "id": 47534,
+  "registrationNumber": "CC38113",
+  "name": "Russell Community Library",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tjmb.restless@xtra.co.nz",
+  "address": {
+    "line1": "1 York Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Russell",
+    "postcode": "0202"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:34:49Z"
+}

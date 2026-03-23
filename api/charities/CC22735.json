@@ -1,0 +1,27 @@
+{
+  "id": 40351,
+  "registrationNumber": "CC22735",
+  "name": "Storytime Foundation Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.storytime.org.nz",
+  "email": "gilli@storytime.org.nz",
+  "address": {
+    "line1": "Offices Bendall & Cant Limited",
+    "line2": "Level 7 Southern Cross Building 61 High Street",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1140"
+  },
+  "nzbn": "9429043130214",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "storytimefoundationtrust",
+    "twitter": "@storytimefoundation"
+  },
+  "lastUpdated": "2026-02-27T01:22:35Z"
+}

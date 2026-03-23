@@ -1,0 +1,27 @@
+{
+  "id": 77511,
+  "registrationNumber": "CC63306",
+  "name": "VOICE OF AROHA",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-11-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.voiceofaroha.org.nz",
+  "email": "voiceofaroha@gmail.com",
+  "address": {
+    "line1": "Level 1",
+    "line2": "1 Ghuznee Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429050807727",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/voiceofaroha/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T18:04:38Z"
+}

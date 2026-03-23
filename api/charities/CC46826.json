@@ -1,0 +1,27 @@
+{
+  "id": 37456,
+  "registrationNumber": "CC46826",
+  "name": "Rakaia Volunteer  Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-08-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tyrone.burrowes@fireandemergency.nz",
+  "address": {
+    "line1": "28 Elizabeth Ave",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rakaia",
+    "postcode": "7710"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RakaiaVolunteerFireBrigade/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-18T23:20:26Z"
+}

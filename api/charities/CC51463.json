@@ -1,0 +1,27 @@
+{
+  "id": 65239,
+  "registrationNumber": "CC51463",
+  "name": "Eastern Bay of Plenty Presbyterian Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-02-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurer@ebopparish.nz",
+  "address": {
+    "line1": "83 Domain Road",
+    "line2": " ",
+    "suburb": "Whakatāne",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Pressies@Whakatane",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T21:06:33Z"
+}

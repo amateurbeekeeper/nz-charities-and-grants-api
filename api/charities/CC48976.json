@@ -1,0 +1,27 @@
+{
+  "id": 33410,
+  "registrationNumber": "CC48976",
+  "name": "The Waiheke Recreation Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-03-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waihekerecreationcentre.org.nz/",
+  "email": "andrew@mfal.co.nz",
+  "address": {
+    "line1": "11 Donald Bruce Road",
+    "line2": "11 Donald Bruce Road",
+    "suburb": "Surfdale",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429043074099",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-03T10:47:05Z"
+}

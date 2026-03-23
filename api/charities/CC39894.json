@@ -1,0 +1,27 @@
+{
+  "id": 63846,
+  "registrationNumber": "CC39894",
+  "name": "Fox Glacier Community Development Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-01-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.foxglacier.org.nz/",
+  "email": "cdo@foxglacier.org.nz",
+  "address": {
+    "line1": "51 Cook Flat Road",
+    "line2": "Fox Glacier 7886",
+    "suburb": " ",
+    "city": "Fox Glacier",
+    "postcode": "7886"
+  },
+  "nzbn": "9429043098019",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/foxglaciercommunity",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T03:42:33Z"
+}

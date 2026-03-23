@@ -1,0 +1,27 @@
+{
+  "id": 62140,
+  "registrationNumber": "CC35463",
+  "name": "Stokes Valley Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-11-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://library.huttcity.govt.nz/stokesvalleytoylibrary",
+  "email": "stokesvalleytoylibrary@gmail.com",
+  "address": {
+    "line1": "184 Stokes Valley Road",
+    "line2": " ",
+    "suburb": "Stokes Valley",
+    "city": "Lower Hutt",
+    "postcode": "5019"
+  },
+  "nzbn": "9429042994121",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/118442838188486/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:07:42Z"
+}

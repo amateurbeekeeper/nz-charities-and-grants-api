@@ -1,0 +1,27 @@
+{
+  "id": 72711,
+  "registrationNumber": "CC59104",
+  "name": "RPCF Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rpcf.co.nz",
+  "email": "info@rpcf.co.nz",
+  "address": {
+    "line1": "2 Heron Green",
+    "line2": " ",
+    "suburb": "Albert Town",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/riversideparkcommunityfacility",
+    "twitter": null
+  },
+  "lastUpdated": "2024-12-31T02:21:10Z"
+}

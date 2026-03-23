@@ -1,0 +1,27 @@
+{
+  "id": 40429,
+  "registrationNumber": "CC30075",
+  "name": "NHTT Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "staple@xtra.co.nz",
+  "address": {
+    "line1": "5A Akoranga Drive",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "627"
+  },
+  "nzbn": "9429043068197",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "no",
+    "twitter": "no"
+  },
+  "lastUpdated": "2025-06-18T02:51:30Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69002,
+  "registrationNumber": "CC55343",
+  "name": "My Father's House, Christchurch Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-04-12T00:00:00Z",
+  "dateDeregistered": "2021-02-16T00:00:00Z",
+  "website": null,
+  "email": "estherparaka@gmail.com",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "101 Huxley Street",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-11-24T22:21:39Z"
+}

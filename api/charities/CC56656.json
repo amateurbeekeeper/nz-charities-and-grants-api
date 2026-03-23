@@ -1,0 +1,27 @@
+{
+  "id": 70295,
+  "registrationNumber": "CC56656",
+  "name": "Ignite Church",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-05-18T00:00:00Z",
+  "dateDeregistered": "2021-12-31T00:00:00Z",
+  "website": "https://www.ignitechurch.co.nz",
+  "email": "ann-marie.mccann@live.co.uk",
+  "address": {
+    "line1": "50 Tainui Road",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-02-09T03:32:26Z"
+}

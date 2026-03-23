@@ -1,0 +1,27 @@
+{
+  "id": 40461,
+  "registrationNumber": "CC24839",
+  "name": "Nelson Bays Community Law Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.communitylaw.org.nz",
+  "email": "trevor@nbcl.org.nz",
+  "address": {
+    "line1": "38 Buxton Square",
+    "line2": "Nelson 7010",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042939795",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T02:32:23Z"
+}

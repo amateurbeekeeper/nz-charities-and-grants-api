@@ -1,0 +1,27 @@
+{
+  "id": 66644,
+  "registrationNumber": "CC52916",
+  "name": "Ekklesia Christian Fellowship",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ecfnewzealand@gmail.com",
+  "address": {
+    "line1": "60 Michael Bosher Way",
+    "line2": null,
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ekklesia",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:45:32Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43557,
+  "registrationNumber": "CC32033",
+  "name": "Toi Maori Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.maoriart.org.nz",
+  "email": "mayet@maoriart.org.nz",
+  "address": {
+    "line1": "150 Featherston Street",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429034761472",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42903,
+  "registrationNumber": "CC31510",
+  "name": "PKU New Zealand Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-06-30T00:00:00Z",
+  "website": null,
+  "email": "ross.stevenson@wkstrawbridge.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "47 Bridge Street",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043058853",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T06:04:21Z"
+}

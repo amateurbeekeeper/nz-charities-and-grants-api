@@ -1,0 +1,27 @@
+{
+  "id": 54651,
+  "registrationNumber": "CC21904",
+  "name": "The Ken Waterman Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john05waterman@gmail.com",
+  "address": {
+    "line1": "64 Mill Road",
+    "line2": " ",
+    "suburb": "Kaikoura Flat",
+    "city": "Kaikoura",
+    "postcode": "7300"
+  },
+  "nzbn": "9429043167685",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:49:46Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40138,
+  "registrationNumber": "CC28745",
+  "name": "Bromley Community Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bromleyccentre@gmail.com",
+  "address": {
+    "line1": "45 Bromley Road",
+    "line2": " ",
+    "suburb": "Bromley",
+    "city": "Christchurch",
+    "postcode": "8062"
+  },
+  "nzbn": "9429042596448",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Bromley-Community-Centre-191004664286662/?ref=aymt_homepage_panel",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T00:22:36Z"
+}

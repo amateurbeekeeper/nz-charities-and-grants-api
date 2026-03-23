@@ -1,0 +1,27 @@
+{
+  "id": 46572,
+  "registrationNumber": "CC40332",
+  "name": "East Coast Museum of Technology Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ecmot.org.nz",
+  "email": "Secretary@ecmot.org.nz",
+  "address": {
+    "line1": "67 Main Road",
+    "line2": " ",
+    "suburb": "Makaraka",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042699262",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ECMOT.ORG.NZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T21:10:32Z"
+}

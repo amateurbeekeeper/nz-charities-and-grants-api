@@ -1,0 +1,27 @@
+{
+  "id": 54992,
+  "registrationNumber": "CC21885",
+  "name": "Pakuranga Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pakbapt.org.nz/",
+  "email": "andrew.brown@pakbapt.org.nz",
+  "address": {
+    "line1": "219 Ti Rakau Drive",
+    "line2": " ",
+    "suburb": "Pakuranga Heights",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pakurangabaptistchurch/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T21:12:46Z"
+}

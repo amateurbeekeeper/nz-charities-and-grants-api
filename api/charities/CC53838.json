@@ -1,0 +1,27 @@
+{
+  "id": 67535,
+  "registrationNumber": "CC53838",
+  "name": "Antioch Presbyterian Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-09-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "antiochsaeum.org",
+  "email": "nalleum55@gmail.com",
+  "address": {
+    "line1": "7 Harrison Road",
+    "line2": null,
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429043216406",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T05:53:40Z"
+}

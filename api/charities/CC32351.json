@@ -1,0 +1,27 @@
+{
+  "id": 42316,
+  "registrationNumber": "CC32351",
+  "name": "Theatre Hawke's Bay Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.theatrehb.nz",
+  "email": "ken.morrison@xtra.co.nz",
+  "address": {
+    "line1": "309 Alexandra Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429042721970",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Theatre Hawke's Bay",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T05:40:07Z"
+}

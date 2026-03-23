@@ -1,0 +1,27 @@
+{
+  "id": 35922,
+  "registrationNumber": "CC44927",
+  "name": "The Wellington Disaster Response Capability Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-08-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wellingtonresponse.org",
+  "email": "trust@wellingtonresponse.org",
+  "address": {
+    "line1": "12 Benge Crescent",
+    "line2": " ",
+    "suburb": "Naenae",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429043199501",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T07:48:36Z"
+}

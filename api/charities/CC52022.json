@@ -1,0 +1,27 @@
+{
+  "id": 65773,
+  "registrationNumber": "CC52022",
+  "name": "Mount Zion Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Mountzionchurch@outlook.co.nz",
+  "address": {
+    "line1": "110 Union Street",
+    "line2": "Milton 9220",
+    "suburb": " ",
+    "city": "Milton",
+    "postcode": "9220"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T18:41:11Z"
+}

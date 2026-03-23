@@ -1,0 +1,27 @@
+{
+  "id": 33371,
+  "registrationNumber": "CC49666",
+  "name": "CSC Buying Group Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.csc.org.nz",
+  "email": "accounts@csc.org.nz",
+  "address": {
+    "line1": "1902 Cambridge Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": "9429030751033",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T22:03:36Z"
+}

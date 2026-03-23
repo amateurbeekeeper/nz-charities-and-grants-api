@@ -1,0 +1,27 @@
+{
+  "id": 39019,
+  "registrationNumber": "CC28584",
+  "name": "Eden Assembly of God",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.edenchurchnz.com",
+  "email": "pastor@edenchurchnz.com",
+  "address": {
+    "line1": "3 Ngaire Avenue",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "edenassemblyofgodchurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:57:21Z"
+}

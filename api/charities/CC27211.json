@@ -1,0 +1,27 @@
+{
+  "id": 57900,
+  "registrationNumber": "CC27211",
+  "name": "Canterbury Repertory Theatre Society Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2024-09-30T00:00:00Z",
+  "website": "http://www.repertory.nz",
+  "email": "admin@repertory.nz",
+  "address": {
+    "line1": "24 Clarence Street South",
+    "line2": " ",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429042604303",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/repertory.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2024-10-01T06:43:20Z"
+}

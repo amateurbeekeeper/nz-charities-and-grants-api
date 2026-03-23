@@ -1,0 +1,27 @@
+{
+  "id": 34835,
+  "registrationNumber": "CC51372",
+  "name": "New Zealand Fundraising Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-01-06T00:00:00Z",
+  "dateDeregistered": "2015-08-26T00:00:00Z",
+  "website": null,
+  "email": "admin@nzft.org",
+  "address": {
+    "line1": "Flat 3",
+    "line2": "146 Spring Street",
+    "suburb": null,
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043206650",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T04:18:05Z"
+}

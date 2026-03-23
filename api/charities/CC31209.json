@@ -1,0 +1,27 @@
+{
+  "id": 51253,
+  "registrationNumber": "CC31209",
+  "name": "Rotokare Scenic Reserve Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rotokare.org.nz",
+  "email": "contact@rotokare.org.nz",
+  "address": {
+    "line1": "364 Sangster Road",
+    "line2": "RD 18",
+    "suburb": " ",
+    "city": "Eltham",
+    "postcode": "4398"
+  },
+  "nzbn": "9429043038183",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.fb.com/rotokare",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:30:36Z"
+}

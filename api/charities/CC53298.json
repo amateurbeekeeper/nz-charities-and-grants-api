@@ -1,0 +1,27 @@
+{
+  "id": 67023,
+  "registrationNumber": "CC53298",
+  "name": "Wairarapa Safer Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waisct.org.nz",
+  "email": "johnr@waisct.org.nz",
+  "address": {
+    "line1": "185 High Street South",
+    "line2": null,
+    "suburb": " ",
+    "city": "Carterton",
+    "postcode": "5713"
+  },
+  "nzbn": "9429043286225",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Wairarapa Safer Community Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T02:12:17Z"
+}

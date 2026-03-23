@@ -1,0 +1,27 @@
+{
+  "id": 58886,
+  "registrationNumber": "CC27886",
+  "name": "Waiora Healthcare Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "John.Tamihere@waiwhanau.com",
+  "address": {
+    "line1": "6 Pioneer Street",
+    "line2": "Henderson",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429043005000",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T01:24:05Z"
+}

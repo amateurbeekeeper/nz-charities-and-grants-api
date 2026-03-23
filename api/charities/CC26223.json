@@ -1,0 +1,27 @@
+{
+  "id": 54070,
+  "registrationNumber": "CC26223",
+  "name": "First Church Of Christ, Scientist, Wellington",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "wwwchristiansciencenz.org",
+  "email": "treasurer@fccswellington.nz",
+  "address": {
+    "line1": "195-197 Willis Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042702450",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:54:58Z"
+}

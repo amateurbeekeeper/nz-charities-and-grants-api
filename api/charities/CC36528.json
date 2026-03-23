@@ -1,0 +1,27 @@
+{
+  "id": 61586,
+  "registrationNumber": "CC36528",
+  "name": "The Auckland Boys' Choir Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://aucklandboyschoir.org.nz/",
+  "email": "secretary@aucklandboyschoir.org.nz",
+  "address": {
+    "line1": "30B Rarangi Road",
+    "line2": null,
+    "suburb": "St Heliers",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429042584872",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T02:20:35Z"
+}

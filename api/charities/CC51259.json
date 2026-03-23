@@ -1,0 +1,27 @@
+{
+  "id": 34867,
+  "registrationNumber": "CC51259",
+  "name": "Equippers New Plymouth",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-02-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.equipperschurch.com/locations/new-plymouth",
+  "email": "matt.bruce@equipperschurch.com",
+  "address": {
+    "line1": "94 Hurlstone Drive",
+    "line2": " ",
+    "suburb": "Waiwhakaiho",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429043269860",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EquippersChurchNewPlymouth",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T18:07:24Z"
+}

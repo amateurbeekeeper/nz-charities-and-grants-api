@@ -1,0 +1,27 @@
+{
+  "id": 42663,
+  "registrationNumber": "CC41726",
+  "name": "NZNOG Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-08-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nznog.org",
+  "email": "rebekah@nznog.org",
+  "address": {
+    "line1": "LEVEL 1 ",
+    "line2": "236 MIddleton Road",
+    "suburb": "Glenside",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429043096701",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T21:32:23Z"
+}

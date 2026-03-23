@@ -1,0 +1,27 @@
+{
+  "id": 54576,
+  "registrationNumber": "CC21811",
+  "name": "Contemporary Art Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.caf.org.nz/",
+  "email": "hiraani@tetuhi.art",
+  "address": {
+    "line1": "21 William Roberts Road",
+    "line2": " ",
+    "suburb": "Pakuranga",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429043066971",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:01:52Z"
+}

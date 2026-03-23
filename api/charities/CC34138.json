@@ -1,0 +1,27 @@
+{
+  "id": 44268,
+  "registrationNumber": "CC34138",
+  "name": "Te Ataarangi Ki Te Tauihu O Te Waka-A-Maui",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tereomaori.org",
+  "email": "tari@tereomaori.org",
+  "address": {
+    "line1": "7 Sovereign Street",
+    "line2": "RD 2",
+    "suburb": "The Wood",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043163427",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Ataarangi ki Te Tauihu o Te Waka-ā-Māui",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T21:00:36Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 36370,
+  "registrationNumber": "CC46141",
+  "name": "Christchurch Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-02-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.christchurchgolf.co.nz",
+  "email": "ce@christchurchgolf.co.nz",
+  "address": {
+    "line1": "45 Horseshoe Lake Road",
+    "line2": " ",
+    "suburb": "Shirley",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429042611691",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/chchgolfclub/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T18:09:36Z"
+}

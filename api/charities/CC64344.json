@@ -1,0 +1,27 @@
+{
+  "id": 78528,
+  "registrationNumber": "CC64344",
+  "name": "Journey's Edge Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://journzeducation.com",
+  "email": "info@journzeducation.com",
+  "address": {
+    "line1": "27 Red Arches Road",
+    "line2": null,
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T02:16:06Z"
+}

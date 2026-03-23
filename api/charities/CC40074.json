@@ -1,0 +1,27 @@
+{
+  "id": 45817,
+  "registrationNumber": "CC40074",
+  "name": "Okato Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-18T00:00:00Z",
+  "website": "https://www.playcentre.org.nz",
+  "email": "okato@playcentre.org.nz",
+  "address": {
+    "line1": "37 Carthew Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Okato",
+    "postcode": "4335"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/people/Okato-Playcentre/100067163950847/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:32:30Z"
+}

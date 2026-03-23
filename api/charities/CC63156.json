@@ -1,0 +1,27 @@
+{
+  "id": 77264,
+  "registrationNumber": "CC63156",
+  "name": "KHIDMA NEW ZEALAND",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "naushad@khidma.org.nz",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "11 Charles Dickens Drive",
+    "suburb": "Mellons Bay",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-08T02:42:46Z"
+}

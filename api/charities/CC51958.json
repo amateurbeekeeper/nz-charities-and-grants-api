@@ -1,0 +1,27 @@
+{
+  "id": 65707,
+  "registrationNumber": "CC51958",
+  "name": "Grace Presbyterian Church Invercargill",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-05-22T00:00:00Z",
+  "dateDeregistered": "2022-01-12T00:00:00Z",
+  "website": "https://www.graceinvercargill.co.nz",
+  "email": "otepuni@outlook.co.nz",
+  "address": {
+    "line1": "85 Adamson Crescent",
+    "line2": "Georgetown",
+    "suburb": "Glengarry",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-01-30T23:11:36Z"
+}

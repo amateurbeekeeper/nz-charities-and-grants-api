@@ -1,0 +1,27 @@
+{
+  "id": 38294,
+  "registrationNumber": "CC46038",
+  "name": "The New Zealand Hen Welfare Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-01-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lisa@ljservices.co.nz",
+  "address": {
+    "line1": "441 Govan Wilson Road",
+    "line2": "RD 5",
+    "suburb": "Whangaripo",
+    "city": "Warkworth",
+    "postcode": "0985"
+  },
+  "nzbn": "9429043225019",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/The-New-Zealand-Hen-Welfare-Trust-121754487918530/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-05T07:35:35Z"
+}

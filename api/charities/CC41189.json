@@ -1,0 +1,27 @@
+{
+  "id": 56471,
+  "registrationNumber": "CC41189",
+  "name": "Picton Little Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://pictonlittletheatre.com/",
+  "email": "carmen.gimpl@gmail.com",
+  "address": {
+    "line1": "9 Dublin Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Picton",
+    "postcode": "7220"
+  },
+  "nzbn": "9429042805212",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Pictonlittletheatre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:11:09Z"
+}

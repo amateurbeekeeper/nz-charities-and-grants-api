@@ -1,0 +1,27 @@
+{
+  "id": 43967,
+  "registrationNumber": "CC32261",
+  "name": "New Zealand Safety Council Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.safetycouncil.nz",
+  "email": "treasurer@nzsc.nz",
+  "address": {
+    "line1": "32 Capriole Crescent",
+    "line2": "RD 1",
+    "suburb": "Kingseat",
+    "city": "Papakura",
+    "postcode": "2580"
+  },
+  "nzbn": "9429042984696",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "NZ Safety Council Members",
+    "twitter": "no"
+  },
+  "lastUpdated": "2025-10-22T01:28:43Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75079,
+  "registrationNumber": "CC61508",
+  "name": "Peniel IPC Dunedin",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dunedinipc.com/",
+  "email": "pipcdunedin@gmail.com",
+  "address": {
+    "line1": "6C William Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100086273727388",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T00:12:36Z"
+}

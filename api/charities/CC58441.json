@@ -1,0 +1,27 @@
+{
+  "id": 72063,
+  "registrationNumber": "CC58441",
+  "name": "Level Up Aotearoa Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.levelup.org.nz",
+  "email": "mark@levelup.org.nz",
+  "address": {
+    "line1": "5A Wroughton Crescent",
+    "line2": " ",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": "9429048372855",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/Level-Up-Aotearoa-109398667456824/?modal=admin_todo_tour",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-11T23:12:00Z"
+}

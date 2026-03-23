@@ -1,0 +1,27 @@
+{
+  "id": 51038,
+  "registrationNumber": "CC10070",
+  "name": "Amputee Society of Otago and Southland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.amputee.co.nz",
+  "email": "lorrstan@outlook.com",
+  "address": {
+    "line1": "213A Bay View Road",
+    "line2": " ",
+    "suburb": "Saint Clair",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042574712",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Otago Southland Amputee Society",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T01:47:04Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65717,
+  "registrationNumber": "CC51960",
+  "name": "Te Anau Lakeside Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lakesidechurch.co.nz",
+  "email": "lakesideoffice@lakesidechurch.co.nz",
+  "address": {
+    "line1": "112 Te Anau Terrace",
+    "line2": "Te Anau 9600",
+    "suburb": " ",
+    "city": "Te Anau",
+    "postcode": "9600"
+  },
+  "nzbn": "9429051357528",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:39:19Z"
+}

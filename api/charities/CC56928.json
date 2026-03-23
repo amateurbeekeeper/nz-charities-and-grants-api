@@ -1,0 +1,27 @@
+{
+  "id": 70564,
+  "registrationNumber": "CC56928",
+  "name": "Special Olympics West Coast",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-09-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jennyapizey@gmail.com",
+  "address": {
+    "line1": "291 Upper Kokatahi Road",
+    "line2": "RD 1",
+    "suburb": "Kokatahi",
+    "city": "Hokitika",
+    "postcode": "7881"
+  },
+  "nzbn": "9429050603565",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "special olympics West Coast",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-23T03:08:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40874,
+  "registrationNumber": "CC41687",
+  "name": "Cats In Need Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2018-06-26T00:00:00Z",
+  "website": "http://www.catsinneedtrust.org.nz",
+  "email": "catsnjammas@maxnet.co.nz",
+  "address": {
+    "line1": "3B Vine Street",
+    "line2": null,
+    "suburb": "Mangere East",
+    "city": "Auckland",
+    "postcode": "2024"
+  },
+  "nzbn": "9429043126835",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-06-25T21:36:47Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35909,
+  "registrationNumber": "CC45351",
+  "name": "Nga Tangata Microfinance Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngatangatamicrofinance.org.nz",
+  "email": "vijay.farley.naiker@ntm.org.nz",
+  "address": {
+    "line1": "Regus Office ",
+    "line2": "155 Fanshawe Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043206193",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@ngatangatamicrofinance",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T18:29:22Z"
+}

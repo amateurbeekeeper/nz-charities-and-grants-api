@@ -1,0 +1,27 @@
+{
+  "id": 55089,
+  "registrationNumber": "CC27810",
+  "name": "Coeliac New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.coeliac.org.nz",
+  "email": "sarah.neilson@rnz.co.nz",
+  "address": {
+    "line1": "C/- Kiwi Self Storage, 40 Cawley Street",
+    "line2": "Newmarket",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042668015",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "coeliac.new.zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T19:37:39Z"
+}

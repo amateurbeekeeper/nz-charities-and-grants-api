@@ -1,0 +1,27 @@
+{
+  "id": 57162,
+  "registrationNumber": "CC26647",
+  "name": "Auckland Christian Assembly",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "acachurch.org.nz",
+  "email": "mccook@xtra.co.nz",
+  "address": {
+    "line1": "26 Albany Highway",
+    "line2": " ",
+    "suburb": "Greenhithe",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429042585435",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@ACAlife",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-13T19:43:18Z"
+}

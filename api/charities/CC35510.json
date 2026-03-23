@@ -1,0 +1,27 @@
+{
+  "id": 43114,
+  "registrationNumber": "CC35510",
+  "name": "Makarewa Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-31T00:00:00Z",
+  "website": null,
+  "email": "emebrock@gmail.com",
+  "address": {
+    "line1": "63 Flora Road East",
+    "line2": "RD 6",
+    "suburb": "Makarewa",
+    "city": "Invercargill",
+    "postcode": "9876"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T06:04:05Z"
+}

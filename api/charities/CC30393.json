@@ -1,0 +1,27 @@
+{
+  "id": 53108,
+  "registrationNumber": "CC30393",
+  "name": "Invercargill Musical Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.imti.co.nz",
+  "email": "chris.oconnor@findex.co.nz",
+  "address": {
+    "line1": "176 Don Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042637561",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-06T19:20:42Z"
+}

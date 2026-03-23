@@ -1,0 +1,27 @@
+{
+  "id": 43465,
+  "registrationNumber": "CC29538",
+  "name": "Pleasant Point Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "liz.harding@fireandemergency.nz",
+  "address": {
+    "line1": "8 Halstead Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pleasant Point",
+    "postcode": "7903"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Pleasant Point Volunteer Fire Brigade",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T07:11:03Z"
+}

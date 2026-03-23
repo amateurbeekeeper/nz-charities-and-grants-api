@@ -1,0 +1,27 @@
+{
+  "id": 40692,
+  "registrationNumber": "CC40141",
+  "name": "The Mace Charitable Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "crmace@mace.co.nz",
+  "address": {
+    "line1": "31 Bassett Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-17T19:18:50Z"
+}

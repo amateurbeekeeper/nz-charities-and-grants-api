@@ -1,0 +1,27 @@
+{
+  "id": 52501,
+  "registrationNumber": "CC22946",
+  "name": "Nga Ngaru Rautahi O Aotearoa National Maori Authority Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngangaru.com",
+  "email": "dtuari@mahiagroup.com",
+  "address": {
+    "line1": "1240 Kennedy Bay Road",
+    "line2": "RD 3",
+    "suburb": "Kennedy Bay",
+    "city": "Coromandel",
+    "postcode": "3583"
+  },
+  "nzbn": "9429042953173",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T22:28:02Z"
+}

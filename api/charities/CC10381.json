@@ -1,0 +1,27 @@
+{
+  "id": 51694,
+  "registrationNumber": "CC10381",
+  "name": "Pohlen Hospital Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pohlen.co.nz",
+  "email": "gm@pohlen.co.nz",
+  "address": {
+    "line1": "56 Rawhiti Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Matamata",
+    "postcode": "3400"
+  },
+  "nzbn": "9429042807490",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pohlenhospital/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T22:47:32Z"
+}

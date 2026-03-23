@@ -1,0 +1,27 @@
+{
+  "id": 60666,
+  "registrationNumber": "CC28535",
+  "name": "Good News Unlimited (NZ)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.goodnewsunlimited.com",
+  "email": "email@socrates.nz",
+  "address": {
+    "line1": "120B Rosier Road",
+    "line2": " ",
+    "suburb": "Glen Eden",
+    "city": "Auckland",
+    "postcode": "602"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/503267647217561",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T20:11:35Z"
+}

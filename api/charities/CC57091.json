@@ -1,0 +1,27 @@
+{
+  "id": 70724,
+  "registrationNumber": "CC57091",
+  "name": "Cotton On Foundation New Zealand Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-08-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cottononfoundation.org",
+  "email": "cosec@cottonon.com.au",
+  "address": {
+    "line1": "62 Roma Road",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429050243112",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cottononfoundation/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T02:49:05Z"
+}

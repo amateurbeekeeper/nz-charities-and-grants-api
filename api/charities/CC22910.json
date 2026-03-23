@@ -1,0 +1,27 @@
+{
+  "id": 40467,
+  "registrationNumber": "CC22910",
+  "name": "The Lighthouse Vision Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lowvisionclinic.org.nz",
+  "email": "lighthousevisiontrust@outlook.com",
+  "address": {
+    "line1": "300 Burwood Rd",
+    "line2": " ",
+    "suburb": "Burwood",
+    "city": "Christchurch",
+    "postcode": null
+  },
+  "nzbn": "9429042778219",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T19:55:25Z"
+}

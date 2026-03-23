@@ -1,0 +1,27 @@
+{
+  "id": 43343,
+  "registrationNumber": "CC38146",
+  "name": "Western Bay of Plenty Mental Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://familylink.co.nz",
+  "email": "brian@familylink.co.nz",
+  "address": {
+    "line1": "Historic Village, ",
+    "line2": " ",
+    "suburb": "17th Avenue West",
+    "city": "Tauranga",
+    "postcode": "3114"
+  },
+  "nzbn": "9429042917144",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T00:17:37Z"
+}

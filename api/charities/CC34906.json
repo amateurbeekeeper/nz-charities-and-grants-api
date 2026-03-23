@@ -1,0 +1,27 @@
+{
+  "id": 61372,
+  "registrationNumber": "CC34906",
+  "name": "Te Hotu Manawa Maori",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.toitangata.co.nz",
+  "email": "accounts@toitangata.co.nz",
+  "address": {
+    "line1": "9 Kalmia Street",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042934141",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T22:08:39Z"
+}

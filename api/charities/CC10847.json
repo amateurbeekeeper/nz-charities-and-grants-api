@@ -1,0 +1,27 @@
+{
+  "id": 52056,
+  "registrationNumber": "CC10847",
+  "name": "Graeme Dingle Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dinglefoundation.org.nz",
+  "email": "diego.orejuela@dinglefoundation.org.nz",
+  "address": {
+    "line1": "6 Triton Drive",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429042904014",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dinglefoundation/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T19:53:57Z"
+}

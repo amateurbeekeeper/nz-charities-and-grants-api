@@ -1,0 +1,27 @@
+{
+  "id": 60047,
+  "registrationNumber": "CC27990",
+  "name": "East Otago Community Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "eastotagohealthtrust@gmail.com",
+  "address": {
+    "line1": "117 District Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston",
+    "postcode": "9430"
+  },
+  "nzbn": "9429043106974",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T02:35:34Z"
+}

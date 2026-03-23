@@ -1,0 +1,27 @@
+{
+  "id": 64811,
+  "registrationNumber": "CC36713",
+  "name": "The Mangere Health Resources Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mhrt.org.nz",
+  "email": "michael.rennie@mhrt.org.nz",
+  "address": {
+    "line1": "6 Waddon Place",
+    "line2": "12 Waddon Place",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429043001767",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T22:08:49Z"
+}

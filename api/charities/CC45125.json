@@ -1,0 +1,27 @@
+{
+  "id": 36097,
+  "registrationNumber": "CC45125",
+  "name": "Haleema Kindergarten Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.haleema.org.nz",
+  "email": "admin@haleema.org.nz",
+  "address": {
+    "line1": "16",
+    "line2": "20 Hunter Street",
+    "suburb": "Taita",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429043192649",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100069840754290",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T04:51:29Z"
+}

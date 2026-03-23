@@ -1,0 +1,27 @@
+{
+  "id": 36943,
+  "registrationNumber": "CC46443",
+  "name": "Rolleston Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2011-04-11T00:00:00Z",
+  "dateDeregistered": "2016-04-05T00:00:00Z",
+  "website": "www.rollestonchurch.co.nz",
+  "email": "bsouness@agilitylogistics.com",
+  "address": {
+    "line1": "846 Sandy Knolls Road",
+    "line2": "RD 5",
+    "suburb": null,
+    "city": "West Melton",
+    "postcode": "7675"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:45:04Z"
+}

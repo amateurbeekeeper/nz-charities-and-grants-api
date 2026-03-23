@@ -1,0 +1,27 @@
+{
+  "id": 34960,
+  "registrationNumber": "CC49238",
+  "name": "Orakei School PTA",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.orakeischool.co.nz",
+  "email": "orakei.pta.sec@hotmail.com",
+  "address": {
+    "line1": "Grace Street",
+    "line2": "Orakei",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Friends of Orakei School (FOS)",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-19T19:49:41Z"
+}

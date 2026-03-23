@@ -1,0 +1,27 @@
+{
+  "id": 74838,
+  "registrationNumber": "CC61259",
+  "name": "Young Ocean Explorers",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.youngoceanexplorers.com",
+  "email": "don@youngoceanexplorers.com",
+  "address": {
+    "line1": "3 Woodlands Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Snells Beach",
+    "postcode": "0920"
+  },
+  "nzbn": "9429051127077",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/youngoceanexplorers",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-04T22:03:56Z"
+}

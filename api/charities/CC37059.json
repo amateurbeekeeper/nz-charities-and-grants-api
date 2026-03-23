@@ -1,0 +1,27 @@
+{
+  "id": 56441,
+  "registrationNumber": "CC37059",
+  "name": "Tunohopu Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nsturley@gmail.com",
+  "address": {
+    "line1": "5 Tunohopu Street",
+    "line2": " ",
+    "suburb": "Ohinemutu",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:07:43Z"
+}

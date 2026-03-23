@@ -1,0 +1,27 @@
+{
+  "id": 71653,
+  "registrationNumber": "CC58031",
+  "name": "Southern Eco-Trails Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.southernecotrails.org.nz",
+  "email": "helen@bungy.co.nz",
+  "address": {
+    "line1": "209 Glenda Drive",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429048165273",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T23:35:49Z"
+}

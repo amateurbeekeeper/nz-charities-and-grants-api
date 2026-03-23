@@ -1,0 +1,27 @@
+{
+  "id": 70632,
+  "registrationNumber": "CC56992",
+  "name": "Takaka Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-06-11T00:00:00Z",
+  "dateDeregistered": "2025-08-07T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/takaka/",
+  "email": "takaka@playcentre.org.nz",
+  "address": {
+    "line1": "5 Lake Crescent",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tākaka",
+    "postcode": "7110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TakakaPlaycentre/?ref=br_rs",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T07:16:25Z"
+}

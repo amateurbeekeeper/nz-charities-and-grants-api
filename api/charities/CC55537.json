@@ -1,0 +1,27 @@
+{
+  "id": 69187,
+  "registrationNumber": "CC55537",
+  "name": "West Melton Netball Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-03-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sporty.co.nz/westmeltonnetball",
+  "email": "wmnctreasurer@gmail.com",
+  "address": {
+    "line1": "West Melton Domain",
+    "line2": "601 West Melton Road",
+    "suburb": "West Melton",
+    "city": "Christchurch",
+    "postcode": "7671"
+  },
+  "nzbn": "9429042951063",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "West Melton Netball Club",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T01:34:40Z"
+}

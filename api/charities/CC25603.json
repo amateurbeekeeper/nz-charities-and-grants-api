@@ -1,0 +1,27 @@
+{
+  "id": 42379,
+  "registrationNumber": "CC25603",
+  "name": "Montecillo Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lynley.kloogh@montecillo.org.nz",
+  "address": {
+    "line1": "63 Bay View Road",
+    "line2": " ",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042988434",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:57:01Z"
+}

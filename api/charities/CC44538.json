@@ -1,0 +1,27 @@
+{
+  "id": 50728,
+  "registrationNumber": "CC44538",
+  "name": "Children of the Light",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://childrenofthelightghana.org/",
+  "email": "jeanette@childrenofthelightghana.org",
+  "address": {
+    "line1": "19 MacLaurin Street",
+    "line2": " ",
+    "suburb": "Blockhouse Bay",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429051562748",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/childrenofthelightghana",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:55:48Z"
+}

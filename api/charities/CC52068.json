@@ -1,0 +1,27 @@
+{
+  "id": 65813,
+  "registrationNumber": "CC52068",
+  "name": "Papakura East and Hunua Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pepc.org.nz",
+  "email": "finance@pepc.org.nz",
+  "address": {
+    "line1": "85 Settlement Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Papakura-East-Presbyterian-Church-592948454115726/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T04:22:23Z"
+}

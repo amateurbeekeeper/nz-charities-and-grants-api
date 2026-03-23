@@ -1,0 +1,27 @@
+{
+  "id": 62509,
+  "registrationNumber": "CC32592",
+  "name": "Pindrop Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-10-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pindrop.org.nz",
+  "email": "lee@pindrop.org.nz",
+  "address": {
+    "line1": "C/- Bendall and Cant Limited",
+    "line2": "59 High Street",
+    "suburb": "Auckland CBD",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043155132",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T00:58:25Z"
+}

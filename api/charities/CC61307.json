@@ -1,0 +1,27 @@
+{
+  "id": 74885,
+  "registrationNumber": "CC61307",
+  "name": "Eastside Paddlers Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://esp.org.nz",
+  "email": "fidowpa@hotmail.com",
+  "address": {
+    "line1": "6 Pannell Avenue",
+    "line2": " ",
+    "suburb": "Wainoni",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429049551860",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/528483612377596",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-04T19:25:07Z"
+}

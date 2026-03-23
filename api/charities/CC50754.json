@@ -1,0 +1,27 @@
+{
+  "id": 34074,
+  "registrationNumber": "CC50754",
+  "name": "Dunstan Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sporty.co.nz/dunstangolf",
+  "email": "treasurer@dunstangolf.co.nz",
+  "address": {
+    "line1": "1 O'Reilly Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Clyde",
+    "postcode": "9330"
+  },
+  "nzbn": "9429042714538",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T01:51:21Z"
+}

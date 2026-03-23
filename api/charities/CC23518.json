@@ -1,0 +1,27 @@
+{
+  "id": 55295,
+  "registrationNumber": "CC23518",
+  "name": "Devonport Community House Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.devonportcomhouse.co.nz",
+  "email": "manager@devonportcomhouse.co.nz",
+  "address": {
+    "line1": "32 Clarence Street",
+    "line2": " ",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": "9429042668626",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CommunityDevonport/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-14T03:14:24Z"
+}

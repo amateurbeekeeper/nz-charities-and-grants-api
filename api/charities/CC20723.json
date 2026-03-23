@@ -1,0 +1,27 @@
+{
+  "id": 53713,
+  "registrationNumber": "CC20723",
+  "name": "Hospice Taranaki Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hospicetaranaki.org.nz",
+  "email": "paul.lamb@hospicetaranaki.org.nz",
+  "address": {
+    "line1": "5 David Street",
+    "line2": " ",
+    "suburb": "Westown",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042844518",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-08T23:58:48Z"
+}

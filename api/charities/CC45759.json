@@ -1,0 +1,27 @@
+{
+  "id": 38709,
+  "registrationNumber": "CC45759",
+  "name": "Te Mua Whanau Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-11-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "miketamati@hotmail.com",
+  "address": {
+    "line1": "414 Omahu Road",
+    "line2": "Havelock North 4130",
+    "suburb": "Frimley",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429043027538",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T12:12:50Z"
+}

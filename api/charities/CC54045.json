@@ -1,0 +1,27 @@
+{
+  "id": 67739,
+  "registrationNumber": "CC54045",
+  "name": "Arataki Sports Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-10-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aratakisports.co.nz",
+  "email": "aratakisport@gmail.com",
+  "address": {
+    "line1": "Arataki Community Centre",
+    "line2": "Zambuk Way",
+    "suburb": "Arataki",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429043159765",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Aratakisports",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T00:25:31Z"
+}

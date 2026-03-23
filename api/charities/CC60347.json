@@ -1,0 +1,27 @@
+{
+  "id": 73936,
+  "registrationNumber": "CC60347",
+  "name": "We Earth People",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2022-03-01T00:00:00Z",
+  "dateDeregistered": "2024-11-11T00:00:00Z",
+  "website": "https://weearthpeople.org",
+  "email": "weearthpeople@protonmail.com",
+  "address": {
+    "line1": "1A Ondine Place",
+    "line2": null,
+    "suburb": "Glenfield",
+    "city": "Auckland",
+    "postcode": "0629"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": "https://twitter.com/WeEarthPeopleNZ"
+  },
+  "lastUpdated": "2024-11-28T06:13:34Z"
+}

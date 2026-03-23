@@ -1,0 +1,27 @@
+{
+  "id": 58138,
+  "registrationNumber": "CC38934",
+  "name": "Totara Park Riding for the Disabled Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.totaraparkrda.org.nz",
+  "email": "cilla.bell@rdagroup.nz",
+  "address": {
+    "line1": "251 Redoubt Road",
+    "line2": " ",
+    "suburb": "Totara Park",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": "9429042816591",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Totara Park Riding for the Disabled",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T00:56:41Z"
+}

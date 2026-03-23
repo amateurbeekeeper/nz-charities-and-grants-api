@@ -1,0 +1,27 @@
+{
+  "id": 48078,
+  "registrationNumber": "CC30361",
+  "name": "College of Nurses Aotearoa (New Zealand) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nurse.org.nz",
+  "email": "finance@nurse.org.nz",
+  "address": {
+    "line1": "Level 1/73 The Square",
+    "line2": "Palmerston North 4410",
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042668152",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T02:36:02Z"
+}

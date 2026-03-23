@@ -1,0 +1,27 @@
+{
+  "id": 34505,
+  "registrationNumber": "CC50834",
+  "name": "Auckland Puppy Rescue",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.aucklandpuppyrescue.com",
+  "email": "admin@aucklandpuppyrescue.com",
+  "address": {
+    "line1": "39 Wirihana Road",
+    "line2": "Titirangi",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429043259069",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/aucklandpuppyrescue",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-06T03:53:12Z"
+}

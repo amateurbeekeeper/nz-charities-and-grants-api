@@ -1,0 +1,27 @@
+{
+  "id": 69588,
+  "registrationNumber": "CC55942",
+  "name": "Wairau Maori Art Gallery Charitable Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://en.wairaumaoriartgallery.co.nz/",
+  "email": "gallery@wairau.org.nz",
+  "address": {
+    "line1": "23 Berne Place",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429046170316",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wairaumaoriartgallery",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-17T19:14:46Z"
+}

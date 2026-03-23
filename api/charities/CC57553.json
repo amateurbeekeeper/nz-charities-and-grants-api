@@ -1,0 +1,27 @@
+{
+  "id": 71182,
+  "registrationNumber": "CC57553",
+  "name": "Ara Education Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.araskills.org.nz",
+  "email": "sarah@araskills.org.nz",
+  "address": {
+    "line1": "10 Uenuku Way",
+    "line2": " ",
+    "suburb": "Auckland Airport",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429047406797",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/araskills/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T02:12:50Z"
+}

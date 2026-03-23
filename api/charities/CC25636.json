@@ -1,0 +1,27 @@
+{
+  "id": 57386,
+  "registrationNumber": "CC25636",
+  "name": "Dunedin Public Art Gallery Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://dpags.org.nz",
+  "email": "treasurer@dpags.org.nz",
+  "address": {
+    "line1": "Suite 1",
+    "line2": "50 The Octagon",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042664277",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T21:06:29Z"
+}

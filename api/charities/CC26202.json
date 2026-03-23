@@ -1,0 +1,27 @@
+{
+  "id": 58434,
+  "registrationNumber": "CC26202",
+  "name": "Lincoln Union Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lincolnchurch.org.nz",
+  "email": "welcomelincolnunionchurch@gmail.com",
+  "address": {
+    "line1": "20 James Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lincoln",
+    "postcode": "7608"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T03:11:10Z"
+}

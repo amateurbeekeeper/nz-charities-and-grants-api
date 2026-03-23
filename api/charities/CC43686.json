@@ -1,0 +1,27 @@
+{
+  "id": 62907,
+  "registrationNumber": "CC43686",
+  "name": "The Queenstown Associated Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://queenstownfootball.com/",
+  "email": "juniors@queenstownfootball.com",
+  "address": {
+    "line1": "PO Box 2109",
+    "line2": "Wakatipu",
+    "suburb": " ",
+    "city": "Queenstown",
+    "postcode": "9349"
+  },
+  "nzbn": "9429043051205",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/queenstownjuniorfootball/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T06:44:45Z"
+}

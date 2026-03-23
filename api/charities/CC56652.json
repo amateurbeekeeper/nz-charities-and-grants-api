@@ -1,0 +1,27 @@
+{
+  "id": 70292,
+  "registrationNumber": "CC56652",
+  "name": "Bright Future Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-03-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://brightfuturetrust.org.nz",
+  "email": "joe@kaimar.co",
+  "address": {
+    "line1": "8 Jessel Street",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T02:27:40Z"
+}

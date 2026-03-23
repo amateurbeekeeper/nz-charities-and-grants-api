@@ -1,0 +1,27 @@
+{
+  "id": 42613,
+  "registrationNumber": "CC41260",
+  "name": "The Kelliher Art Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kct.co.nz",
+  "email": "trustmanager@kct.co.nz",
+  "address": {
+    "line1": "2 York Street",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429043185702",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T02:02:56Z"
+}

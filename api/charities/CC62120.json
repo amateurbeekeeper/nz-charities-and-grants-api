@@ -1,0 +1,27 @@
+{
+  "id": 75676,
+  "registrationNumber": "CC62120",
+  "name": "K-School NZ Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2024-03-01T00:00:00Z",
+  "dateDeregistered": "2024-09-21T00:00:00Z",
+  "website": null,
+  "email": "info.kschool.nz@gmail.com",
+  "address": {
+    "line1": "116 Golfland Drive",
+    "line2": " ",
+    "suburb": "Golflands",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-10-06T06:09:12Z"
+}

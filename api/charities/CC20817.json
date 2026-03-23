@@ -1,0 +1,27 @@
+{
+  "id": 53786,
+  "registrationNumber": "CC20817",
+  "name": "Royal New Zealand Institute Of Horticulture Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.younghort.co.nz",
+  "email": "Jeni@tommyandco.co.nz",
+  "address": {
+    "line1": "7 Wrightson Way",
+    "line2": "Pukekohe 2120",
+    "suburb": "Tuakau",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429043114061",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T19:55:53Z"
+}

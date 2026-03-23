@@ -1,0 +1,27 @@
+{
+  "id": 33712,
+  "registrationNumber": "CC50021",
+  "name": "Assembly of God Church of Samoa Auckland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-11-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rebekah_tolea4@hotmail.com",
+  "address": {
+    "line1": "143 Naylors Drive",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429043060238",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T19:11:13Z"
+}

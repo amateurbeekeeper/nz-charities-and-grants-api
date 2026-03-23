@@ -1,0 +1,27 @@
+{
+  "id": 65315,
+  "registrationNumber": "CC51541",
+  "name": "Life Matters Suicide Prevention Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://lifematters.org.nz/",
+  "email": "board@lifematters.org.nz",
+  "address": {
+    "line1": "63 Hanover Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043277155",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LifeMattersNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T18:11:24Z"
+}

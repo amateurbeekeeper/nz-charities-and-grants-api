@@ -1,0 +1,27 @@
+{
+  "id": 58023,
+  "registrationNumber": "CC35558",
+  "name": "Halberg Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.halberg.co.nz",
+  "email": "anne-maree@halberg.co.nz",
+  "address": {
+    "line1": "Unit 2.5, 1 Cleveland Road",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429042777045",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Halberg-Disability-Sport-Foundation-111893415571312/ ",
+    "twitter": " https://twitter.com/Halberg_DSF"
+  },
+  "lastUpdated": "2025-12-18T21:12:13Z"
+}

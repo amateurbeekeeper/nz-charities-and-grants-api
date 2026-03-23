@@ -1,0 +1,27 @@
+{
+  "id": 65709,
+  "registrationNumber": "CC51968",
+  "name": "St Columba's Presbyterian Church Taradale, Napier",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stcolumba-taradale.org.nz",
+  "email": "brettjwalker@gmail.com",
+  "address": {
+    "line1": "176 Gloucester Street",
+    "line2": " ",
+    "suburb": "Taradale",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/stcolumbataradale/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T22:10:05Z"
+}

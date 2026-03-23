@@ -1,0 +1,27 @@
+{
+  "id": 40837,
+  "registrationNumber": "CC23896",
+  "name": "The Railway Enthusiasts Society (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gvr.org.nz",
+  "email": "president@res.org.nz",
+  "address": {
+    "line1": "38 Alfred Street",
+    "line2": "RD 1",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429000030274",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T22:04:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66477,
+  "registrationNumber": "CC52745",
+  "name": "Anglican Diocese of Christchurch, Parish of Ellesmere",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ellesmerenzanglicanparish.wordpress.com",
+  "email": "finance.ellesmere.anglican@gmail.com",
+  "address": {
+    "line1": "28 Selwyn Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Leeston",
+    "postcode": "7632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T20:21:36Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44353,
+  "registrationNumber": "CC38937",
+  "name": "Shore Grace Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.shoregrace.org",
+  "email": "thomson.kerrin@gmail.com",
+  "address": {
+    "line1": "12 Greenhithe Road",
+    "line2": " ",
+    "suburb": "Greenhithe",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T19:16:32Z"
+}

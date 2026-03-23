@@ -1,0 +1,27 @@
+{
+  "id": 77357,
+  "registrationNumber": "CC63206",
+  "name": "Maimaru E2 Maori Reservation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Taimania@kakahutia.com",
+  "address": {
+    "line1": "6083 State Highway 10",
+    "line2": "RD 3",
+    "suburb": "Awanui",
+    "city": "Kaitaia",
+    "postcode": "0483"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mahimarumarae",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-04T01:50:56Z"
+}

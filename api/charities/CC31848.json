@@ -1,0 +1,27 @@
+{
+  "id": 43268,
+  "registrationNumber": "CC31848",
+  "name": "Hokianga Country Music Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hokiangacountrymusic.com",
+  "email": "hokiangacountrymusic@gmail.com",
+  "address": {
+    "line1": "110 State Highway 12",
+    "line2": "RD 3",
+    "suburb": "Opononi",
+    "city": "Kaikohe",
+    "postcode": "0473"
+  },
+  "nzbn": "9429042986829",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "hokiangacountrymusic",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T06:06:41Z"
+}

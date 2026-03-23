@@ -1,0 +1,27 @@
+{
+  "id": 74419,
+  "registrationNumber": "CC60839",
+  "name": "LEAP Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "Leap foundation.co.nz",
+  "email": "admin@brandonstreet.nz",
+  "address": {
+    "line1": "Level 2, Central House",
+    "line2": "26 Brandon Street",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T17:46:09Z"
+}

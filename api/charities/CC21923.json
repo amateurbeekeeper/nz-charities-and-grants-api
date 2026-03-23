@@ -1,0 +1,27 @@
+{
+  "id": 50999,
+  "registrationNumber": "CC21923",
+  "name": "Ngaruawahia Community House Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ngacomhouse.org.nz",
+  "email": "anner@ngacomhouse.org.nz",
+  "address": {
+    "line1": "13 Galileo Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ngaruawahia",
+    "postcode": "3720"
+  },
+  "nzbn": "9429043140176",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ngaruawahia Community House",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T18:36:15Z"
+}

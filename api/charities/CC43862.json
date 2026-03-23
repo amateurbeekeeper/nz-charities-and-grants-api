@@ -1,0 +1,27 @@
+{
+  "id": 50255,
+  "registrationNumber": "CC43862",
+  "name": "Residents Association of Omarama Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "omarama.chairperson@gmail.com",
+  "address": {
+    "line1": "35 Chain Hills Highway",
+    "line2": "Omarama 9412",
+    "suburb": " ",
+    "city": "Omarama",
+    "postcode": "9412"
+  },
+  "nzbn": "9429043203208",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T01:16:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 60599,
+  "registrationNumber": "CC41175",
+  "name": "Osteopathic Council",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.osteopathiccouncil.org.nz",
+  "email": "tim@osteopathiccouncil.org.nz",
+  "address": {
+    "line1": "Level 5",
+    "line2": "22-28 Willeston Street",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429047125254",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T01:18:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64512,
+  "registrationNumber": "CC37597",
+  "name": "Motukarara Camp Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pathway.org.nz",
+  "email": "randal@pathway.org.nz",
+  "address": {
+    "line1": "44 Mandeville Street",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042750260",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T00:55:57Z"
+}

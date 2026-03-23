@@ -1,0 +1,27 @@
+{
+  "id": 42483,
+  "registrationNumber": "CC26661",
+  "name": "North Shore Womens Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nswomenscentre.co.nz",
+  "email": "traceyswanberg@gmail.com",
+  "address": {
+    "line1": "2A Stillwater Crescent",
+    "line2": "RD 3",
+    "suburb": "Stillwater",
+    "city": "Silverdale",
+    "postcode": "0993"
+  },
+  "nzbn": "9429042789161",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/North-Shore-Womens-Centre-176884752358753/?ref=settings",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T21:17:58Z"
+}

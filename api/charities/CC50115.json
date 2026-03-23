@@ -1,0 +1,27 @@
+{
+  "id": 33699,
+  "registrationNumber": "CC50115",
+  "name": "Patutahi Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "waynos.kerr@fireandemergency.nz",
+  "address": {
+    "line1": "17 Bigg St",
+    "line2": "PO Box 111",
+    "suburb": " ",
+    "city": "Patutahi",
+    "postcode": "4045"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T01:41:43Z"
+}

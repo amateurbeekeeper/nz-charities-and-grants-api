@@ -1,0 +1,27 @@
+{
+  "id": 53220,
+  "registrationNumber": "CC23686",
+  "name": "International Needs Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.innetwork.org",
+  "email": "solicitor@internationalneeds.global",
+  "address": {
+    "line1": "98 Birch Avenue",
+    "line2": " ",
+    "suburb": "Judea",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043023172",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T05:44:29Z"
+}

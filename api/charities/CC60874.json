@@ -1,0 +1,27 @@
+{
+  "id": 74454,
+  "registrationNumber": "CC60874",
+  "name": "Te Pouahi o Te Taitokerau Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tepouahi.org",
+  "email": "kris@tepouahi.org",
+  "address": {
+    "line1": "c/o The Orchard, 35 Walton Street",
+    "line2": " ",
+    "suburb": " ",
+    "city": "Whangārei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429050933358",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100088171343709",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-22T19:54:50Z"
+}

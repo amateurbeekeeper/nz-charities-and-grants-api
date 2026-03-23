@@ -1,0 +1,27 @@
+{
+  "id": 49293,
+  "registrationNumber": "CC36865",
+  "name": "The Church in Tauranga",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.churchintauranga.org.nz",
+  "email": "tim.gunther@hotmail.com",
+  "address": {
+    "line1": "51 Glenpark Crescent",
+    "line2": " ",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429049857634",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:58:49Z"
+}

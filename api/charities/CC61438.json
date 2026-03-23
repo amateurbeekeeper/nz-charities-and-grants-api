@@ -1,0 +1,27 @@
+{
+  "id": 75013,
+  "registrationNumber": "CC61438",
+  "name": "IndigiShare Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.indigishare.co.nz ",
+  "email": "maria@indigishare.co.nz",
+  "address": {
+    "line1": "6 Harris Street",
+    "line2": " ",
+    "suburb": "Ngongotaha",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429051565978",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/IndigiShare",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T21:52:11Z"
+}

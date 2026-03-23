@@ -1,0 +1,27 @@
+{
+  "id": 46425,
+  "registrationNumber": "CC38153",
+  "name": "Boulcott School Home And School Committee",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "homeschool@boulcott.school.nz",
+  "address": {
+    "line1": "21 Boulcott Street",
+    "line2": "Boulcott",
+    "suburb": " ",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Boulcott Home & School",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-11T18:26:33Z"
+}

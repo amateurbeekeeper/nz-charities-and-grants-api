@@ -1,0 +1,27 @@
+{
+  "id": 72060,
+  "registrationNumber": "CC58442",
+  "name": "Friends of the Court Theatre Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://courttheatre.org.nz/support/friends/",
+  "email": "lynn.vandertie@courttheatre.org.nz",
+  "address": {
+    "line1": "129 Gloucester Street",
+    "line2": "36C Clarence Street South",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042665441",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T02:47:54Z"
+}

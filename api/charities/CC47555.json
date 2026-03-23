@@ -1,0 +1,27 @@
+{
+  "id": 38865,
+  "registrationNumber": "CC47555",
+  "name": "New Zealand Stroke Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-04-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stroke.net.nz/",
+  "email": "valery.feigin@aut.ac.nz",
+  "address": {
+    "line1": "9A Raymond Terrace",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "627"
+  },
+  "nzbn": "9429043146208",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:25:30Z"
+}

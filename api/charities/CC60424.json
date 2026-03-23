@@ -1,0 +1,27 @@
+{
+  "id": 74015,
+  "registrationNumber": "CC60424",
+  "name": "Pentecostals of Aotearoa New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pentecostalsofaotearoanz@gmail.com",
+  "address": {
+    "line1": "4B Guerin Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Kaikohe",
+    "postcode": "0405"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pentecostalsnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T10:27:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41768,
+  "registrationNumber": "CC33767",
+  "name": "Matamata Community Resource Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.railsidematamata.co.nz",
+  "email": "office@railsidematamata.co.nz",
+  "address": {
+    "line1": "41A Hetana Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Matamata",
+    "postcode": "3400"
+  },
+  "nzbn": "9429043021017",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/people/Railside-by-the-Green/100067623245019/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:05:33Z"
+}

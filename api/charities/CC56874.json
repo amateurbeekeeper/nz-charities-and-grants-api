@@ -1,0 +1,27 @@
+{
+  "id": 70509,
+  "registrationNumber": "CC56874",
+  "name": "Halswell Menzshed Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://menzshed.org.nz/halswell/",
+  "email": "halswellmenzshedtrust@gmail.com",
+  "address": {
+    "line1": "26 Nash Road",
+    "line2": " ",
+    "suburb": "Aidanfield",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429047470149",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:44:31Z"
+}

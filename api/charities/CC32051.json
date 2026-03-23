@@ -1,0 +1,27 @@
+{
+  "id": 59290,
+  "registrationNumber": "CC32051",
+  "name": "Health Research Foundation - Hawke's Bay Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://hrf.org.nz",
+  "email": "michael.nes@bdo.co.nz",
+  "address": {
+    "line1": "86 Station Street",
+    "line2": "61 Tennyson Street",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042696537",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T22:22:30Z"
+}

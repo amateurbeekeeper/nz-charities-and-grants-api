@@ -1,0 +1,27 @@
+{
+  "id": 67765,
+  "registrationNumber": "CC54063",
+  "name": "ReBicycle Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ReBicycle.nz",
+  "email": "leah@rebicycle.nz",
+  "address": {
+    "line1": "29 Tiber Street",
+    "line2": " ",
+    "suburb": "Island Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429043312528",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "ReBicycleWgtn",
+    "twitter": "ReBicycleWgtn"
+  },
+  "lastUpdated": "2025-12-01T18:04:38Z"
+}

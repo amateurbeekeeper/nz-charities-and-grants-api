@@ -1,0 +1,27 @@
+{
+  "id": 46831,
+  "registrationNumber": "CC41525",
+  "name": "Otaua School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.otaua.school.nz",
+  "email": "rhea.stichbury@gmail.com",
+  "address": {
+    "line1": "Maioro Rd",
+    "line2": "Otaua Rd2",
+    "suburb": "Waiuku",
+    "city": "Auckland",
+    "postcode": "2682"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/OtauaSchoolWaiuku",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-18T03:09:54Z"
+}

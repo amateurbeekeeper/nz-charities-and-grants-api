@@ -1,0 +1,27 @@
+{
+  "id": 51769,
+  "registrationNumber": "CC21385",
+  "name": "Te Huarahi Tika Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thtt.co.nz",
+  "email": "daphne@taoni.maori.nz",
+  "address": {
+    "line1": "5 Main Street",
+    "line2": "Otaki 5512",
+    "suburb": " ",
+    "city": "Otaki",
+    "postcode": "5512"
+  },
+  "nzbn": "9429043069903",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-15T21:59:43Z"
+}

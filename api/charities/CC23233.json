@@ -1,0 +1,27 @@
+{
+  "id": 40393,
+  "registrationNumber": "CC23233",
+  "name": "The Waiheke Island Society for the Care of Animals Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wisca.co.nz",
+  "email": "Enquiries@wisca.co.nz",
+  "address": {
+    "line1": "85 Ocean Road",
+    "line2": " ",
+    "suburb": "Surfdale",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429042888000",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wisca",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T06:05:53Z"
+}

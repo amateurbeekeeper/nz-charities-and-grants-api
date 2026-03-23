@@ -1,0 +1,27 @@
+{
+  "id": 75141,
+  "registrationNumber": "CC61566",
+  "name": "Wairoa Boxing Club",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "siobhanstorey@hotmail.com",
+  "address": {
+    "line1": "40 Campbell Street",
+    "line2": "Wairoa 4108",
+    "suburb": " ",
+    "city": "Wairoa",
+    "postcode": "4108"
+  },
+  "nzbn": "9429051546250",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wairoaboxing",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T19:59:22Z"
+}

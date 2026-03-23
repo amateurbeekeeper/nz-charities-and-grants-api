@@ -1,0 +1,27 @@
+{
+  "id": 66346,
+  "registrationNumber": "CC52613",
+  "name": "Anglican Diocese of Christchurch - Parish of St Johns Woolston",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stjohnswoolston.org.nz",
+  "email": "st.john.woolston@gmail.com",
+  "address": {
+    "line1": "2 St Johns Street",
+    "line2": " ",
+    "suburb": "Woolston",
+    "city": "Christchurch",
+    "postcode": "8062"
+  },
+  "nzbn": "9429048313001",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/stjohnswoolston",
+    "twitter": "NA"
+  },
+  "lastUpdated": "2026-01-08T01:35:18Z"
+}

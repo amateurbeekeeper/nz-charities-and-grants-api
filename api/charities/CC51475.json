@@ -1,0 +1,27 @@
+{
+  "id": 65247,
+  "registrationNumber": "CC51475",
+  "name": "Beth Melekh",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bethmelekh.com",
+  "email": "alastairandjulia@hotmail.com",
+  "address": {
+    "line1": "47 Spence Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429043290888",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "beth melekh",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T22:54:43Z"
+}

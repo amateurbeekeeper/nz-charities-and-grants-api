@@ -1,0 +1,27 @@
+{
+  "id": 50308,
+  "registrationNumber": "CC43867",
+  "name": "Albany Singers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.albanysingers.org.nz",
+  "email": "pebros@gmail.com",
+  "address": {
+    "line1": "9A Tudor Place",
+    "line2": " ",
+    "suburb": "Mairangi Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429043224715",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/albanysingerschoir/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T19:52:33Z"
+}

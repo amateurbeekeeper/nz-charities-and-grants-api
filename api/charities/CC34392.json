@@ -1,0 +1,27 @@
+{
+  "id": 45423,
+  "registrationNumber": "CC34392",
+  "name": "Mayfield Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mayfield@playcentre.org.nz",
+  "address": {
+    "line1": "2016 Arundel Rakaia Gorge Road",
+    "line2": "RD 8",
+    "suburb": "Mayfield",
+    "city": "Ashburton",
+    "postcode": "7778"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:07:38Z"
+}

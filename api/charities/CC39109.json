@@ -1,0 +1,27 @@
+{
+  "id": 42255,
+  "registrationNumber": "CC39109",
+  "name": "The Ashton Wylie Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://awct.org.nz",
+  "email": "adonia@xtra.co.nz",
+  "address": {
+    "line1": "88 Jervois Road",
+    "line2": " ",
+    "suburb": "Ponsonby ",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429042994473",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-18T04:10:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42085,
+  "registrationNumber": "CC24619",
+  "name": "Aurora Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aurorawellbeing.nz",
+  "email": "info@aurorawellbeing.nz",
+  "address": {
+    "line1": "322 Hardy Street",
+    "line2": "Nelson 7010",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429052357978",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T23:21:46Z"
+}

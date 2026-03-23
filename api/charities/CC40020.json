@@ -1,0 +1,27 @@
+{
+  "id": 61960,
+  "registrationNumber": "CC40020",
+  "name": "The Tauranga SeniorNet Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://taurangaseniornet.co.nz",
+  "email": "tauranga@seniornet.nz",
+  "address": {
+    "line1": "Unit 70    Historic Village",
+    "line2": "170 Seventeenth Avenue",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3144"
+  },
+  "nzbn": "9429042903765",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T21:13:16Z"
+}

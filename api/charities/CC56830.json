@@ -1,0 +1,27 @@
+{
+  "id": 70467,
+  "registrationNumber": "CC56830",
+  "name": "STEM Wana Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stemwana.nz",
+  "email": "hello@swt.nz",
+  "address": {
+    "line1": "148 Durham Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429047241152",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/stemwanatrust",
+    "twitter": "https://twitter.com/STEMWanaTrust"
+  },
+  "lastUpdated": "2025-11-24T18:24:45Z"
+}

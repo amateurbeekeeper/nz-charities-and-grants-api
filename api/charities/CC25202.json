@@ -1,0 +1,27 @@
+{
+  "id": 56029,
+  "registrationNumber": "CC25202",
+  "name": "The Liberty Ministries Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.libertychurch.co.nz",
+  "email": "grant@libertychurch.co.nz",
+  "address": {
+    "line1": "65 Wairaka Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429042778158",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/libertychurchwhakatane",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-27T19:06:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 62436,
+  "registrationNumber": "CC41062",
+  "name": "Australian and New Zealand Society for Immunology - New Zealand Branch",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-01-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.immunology.org.au",
+  "email": "r.langley@auckland.ac.nz",
+  "address": {
+    "line1": "C/- Ries Langley. Infection and Immunity, 502-301",
+    "line2": "FMHS, The University of Auckland",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1142"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T01:49:29Z"
+}

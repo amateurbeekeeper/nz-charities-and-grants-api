@@ -1,0 +1,27 @@
+{
+  "id": 61099,
+  "registrationNumber": "CC28727",
+  "name": "Pacifica Mamas' Arts And Cultural Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pacificaarts.org",
+  "email": "jarcinda@pacificaarts.org",
+  "address": {
+    "line1": "Pacifica Arts Centre",
+    "line2": "Corban Estate, 2 Mt Lebanon Lane",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429043174119",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "http://www.facebook.com/PacificaArtsCentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:30:05Z"
+}

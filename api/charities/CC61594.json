@@ -1,0 +1,27 @@
+{
+  "id": 75180,
+  "registrationNumber": "CC61594",
+  "name": "Knowledge of Oceania Society",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david.jefferson@canterbury.ac.nz",
+  "address": {
+    "line1": "Private Bag 4800",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-10T02:53:38Z"
+}

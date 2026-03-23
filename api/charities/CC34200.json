@@ -1,0 +1,27 @@
+{
+  "id": 41337,
+  "registrationNumber": "CC34200",
+  "name": "HOW MANY ELEPHANTS NZ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://howmanyelephants.org",
+  "email": "racheal@xtreme.net.nz",
+  "address": {
+    "line1": "128 Flightys Road",
+    "line2": "RD 1",
+    "suburb": "Judgeford",
+    "city": "Porirua",
+    "postcode": "5381"
+  },
+  "nzbn": "9429043057733",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "/howmanyelephants",
+    "twitter": "/howmanyellies"
+  },
+  "lastUpdated": "2025-10-27T23:58:45Z"
+}

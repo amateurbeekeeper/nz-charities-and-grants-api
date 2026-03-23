@@ -1,0 +1,27 @@
+{
+  "id": 34349,
+  "registrationNumber": "CC50586",
+  "name": "University of Waikato Sports Clubs Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2014-06-03T00:00:00Z",
+  "dateDeregistered": "2019-06-06T00:00:00Z",
+  "website": "www.waikato.ac.nz/sport/uwsc",
+  "email": "uwscinc@gmail.com",
+  "address": {
+    "line1": "c/o UniRec, University of Waikato",
+    "line2": " Private Bag 3105",
+    "suburb": " ",
+    "city": "Hamilton ",
+    "postcode": "3240"
+  },
+  "nzbn": "9429043145621",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-08-05T20:47:18Z"
+}

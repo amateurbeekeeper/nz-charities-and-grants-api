@@ -1,0 +1,27 @@
+{
+  "id": 52987,
+  "registrationNumber": "CC11186",
+  "name": "The Volunteer Ophthalmic Services Overseas Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://voso.org.nz",
+  "email": "andrewriley@eyedoctors.co.nz",
+  "address": {
+    "line1": "C/- Eye Doctors",
+    "line2": "L2, Ascot Hospital",
+    "suburb": "90 Greenlane East",
+    "city": "Auckland",
+    "postcode": "1541"
+  },
+  "nzbn": "9429042889236",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T01:45:02Z"
+}

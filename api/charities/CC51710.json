@@ -1,0 +1,27 @@
+{
+  "id": 65483,
+  "registrationNumber": "CC51710",
+  "name": "Pacific Islands Dance Fono",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pacificdance.co.nz",
+  "email": "director@pacificdance.co.nz",
+  "address": {
+    "line1": "147 ",
+    "line2": "Great North Road ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429043217120",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T21:01:18Z"
+}

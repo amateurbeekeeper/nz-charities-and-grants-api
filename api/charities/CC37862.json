@@ -1,0 +1,27 @@
+{
+  "id": 43894,
+  "registrationNumber": "CC37862",
+  "name": "Harvest Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Peter.Munn@harvest.com",
+  "address": {
+    "line1": "10 Pragnell Street",
+    "line2": " ",
+    "suburb": "Solway",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429042716884",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T01:06:15Z"
+}

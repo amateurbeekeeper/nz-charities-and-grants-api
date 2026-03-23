@@ -1,0 +1,27 @@
+{
+  "id": 72575,
+  "registrationNumber": "CC58970",
+  "name": "New Zealand Olympic Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.olympic.org.nz/olympic-foundation/",
+  "email": "azhar@olympic.org.nz",
+  "address": {
+    "line1": "12 Churton Street",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:15:24Z"
+}

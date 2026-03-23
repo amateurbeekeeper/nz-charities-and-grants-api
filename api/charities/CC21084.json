@@ -1,0 +1,27 @@
+{
+  "id": 54577,
+  "registrationNumber": "CC21084",
+  "name": "Delta Community Support Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.deltatrust.org.nz",
+  "email": "grahame@deltatrust.org.nz",
+  "address": {
+    "line1": "101 North Avon Road",
+    "line2": " ",
+    "suburb": "Richmond",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042670643",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Delta-Community-Support-Trust-684720034900073/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T00:07:30Z"
+}

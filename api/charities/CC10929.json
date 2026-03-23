@@ -1,0 +1,27 @@
+{
+  "id": 52580,
+  "registrationNumber": "CC10929",
+  "name": "Tahuri Whenua Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tahuriwhenua.org",
+  "email": "tahuriwhenua@gmail.com",
+  "address": {
+    "line1": "85 Kahuterawa Road",
+    "line2": "RD 2",
+    "suburb": "Linton",
+    "city": "Palmerston North",
+    "postcode": "4472"
+  },
+  "nzbn": "9429043115839",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Tahuri Whenua Inc.",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:52:14Z"
+}

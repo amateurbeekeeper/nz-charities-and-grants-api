@@ -1,0 +1,27 @@
+{
+  "id": 75188,
+  "registrationNumber": "CC61607",
+  "name": "Boundless Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.boundlesschurch.co.nz",
+  "email": "michael@boundlesschurch.co.nz",
+  "address": {
+    "line1": "12 Hangahai Road",
+    "line2": " ",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Boundless NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T02:20:11Z"
+}

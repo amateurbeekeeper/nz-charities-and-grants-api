@@ -1,0 +1,27 @@
+{
+  "id": 51540,
+  "registrationNumber": "CC10295",
+  "name": "Charlotte Museum Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.charlottemuseum.co.nz",
+  "email": "mickitee@outlook.com",
+  "address": {
+    "line1": "1A Howe Street",
+    "line2": " ",
+    "suburb": "Freemans Bay",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043181674",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Charlotte Lesbian Museum",
+    "twitter": "Charlotte Museum Trust"
+  },
+  "lastUpdated": "2026-02-02T01:02:05Z"
+}

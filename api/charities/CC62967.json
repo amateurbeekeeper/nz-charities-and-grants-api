@@ -1,0 +1,27 @@
+{
+  "id": 76902,
+  "registrationNumber": "CC62967",
+  "name": "The Sherwood Foundation Inc",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-01-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.sherwood.org.nz",
+  "email": "benstiff1989@gmail.com",
+  "address": {
+    "line1": "Apartment 602",
+    "line2": "Te Kainga",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429052066610",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-13T22:01:38Z"
+}

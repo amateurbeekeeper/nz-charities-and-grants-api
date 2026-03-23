@@ -1,0 +1,27 @@
+{
+  "id": 42253,
+  "registrationNumber": "CC36739",
+  "name": "Volunteer Service Abroad Te Tuao Tawahi Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.vsa.org.nz",
+  "email": "mevans@vsa.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "77 Thorndon Quay",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042902317",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T20:48:51Z"
+}

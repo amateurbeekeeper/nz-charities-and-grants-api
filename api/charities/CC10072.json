@@ -1,0 +1,27 @@
+{
+  "id": 51114,
+  "registrationNumber": "CC10072",
+  "name": "Dress for Success Auckland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://auckland.dressforsuccess.org/",
+  "email": "sarah@dcipher.co.nz",
+  "address": {
+    "line1": "128 Khyber Pass Road",
+    "line2": " ",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042969396",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dfsaklnewzealand/",
+    "twitter": "https://twitter.com/dfsaknz"
+  },
+  "lastUpdated": "2026-02-19T04:48:02Z"
+}

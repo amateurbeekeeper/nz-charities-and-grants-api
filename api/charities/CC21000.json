@@ -1,0 +1,27 @@
+{
+  "id": 54574,
+  "registrationNumber": "CC21000",
+  "name": "Waikato RiverCare Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waikatorivercare.co.nz",
+  "email": "info@waikatorivercare.co.nz",
+  "address": {
+    "line1": "156 Brymer Road",
+    "line2": "RD 9",
+    "suburb": "Rotokauri",
+    "city": "Hamilton",
+    "postcode": "3289"
+  },
+  "nzbn": "9429043083503",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Waikato-RiverCare-1020415327982293/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T23:53:35Z"
+}

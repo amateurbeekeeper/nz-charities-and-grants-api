@@ -1,0 +1,27 @@
+{
+  "id": 62298,
+  "registrationNumber": "CC39090",
+  "name": "Coastal Spirit Football Club Incoporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.coastalspirit.co.nz",
+  "email": "darren@visionsystems.co.nz",
+  "address": {
+    "line1": "56 Kearneys Road",
+    "line2": " ",
+    "suburb": "Linwood",
+    "city": "Christchurch",
+    "postcode": "8062"
+  },
+  "nzbn": "9429043184651",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "coastalspirit.nz",
+    "twitter": "@CoastalSpiritNZ"
+  },
+  "lastUpdated": "2026-03-10T02:33:35Z"
+}

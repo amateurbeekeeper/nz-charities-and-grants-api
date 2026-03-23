@@ -1,0 +1,27 @@
+{
+  "id": 40940,
+  "registrationNumber": "CC24416",
+  "name": "Lifechurch Tauranga Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lifechurchtauranga.com",
+  "email": "andrew@alivenz.com",
+  "address": {
+    "line1": "934 Cameron Road",
+    "line2": " ",
+    "suburb": "Gate Pa",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042862147",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T18:09:06Z"
+}

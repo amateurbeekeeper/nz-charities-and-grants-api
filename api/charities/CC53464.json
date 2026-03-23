@@ -1,0 +1,27 @@
+{
+  "id": 67173,
+  "registrationNumber": "CC53464",
+  "name": "Central Worship Centre Christian Church NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "doranumia@gmail.com",
+  "address": {
+    "line1": "2163 Great North Road",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/centralworshipcentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T18:11:33Z"
+}

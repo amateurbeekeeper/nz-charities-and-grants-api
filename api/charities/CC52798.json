@@ -1,0 +1,27 @@
+{
+  "id": 66531,
+  "registrationNumber": "CC52798",
+  "name": "New Zealand Bhikkhuni Sangha Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-11-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://bhikkhuni-sangha.org.nz",
+  "email": "janicefayhill@gmail.com",
+  "address": {
+    "line1": "5 Glen Lynne Avenue",
+    "line2": " ",
+    "suburb": "Queenwood",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429048551632",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T07:13:18Z"
+}

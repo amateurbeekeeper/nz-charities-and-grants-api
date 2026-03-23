@@ -1,0 +1,27 @@
+{
+  "id": 69896,
+  "registrationNumber": "CC56258",
+  "name": "Share My Super Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sharemysuper.org.nz",
+  "email": "contact@sharemysuper.org.nz",
+  "address": {
+    "line1": "Flat 4A",
+    "line2": "120 Customs Street West",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429047178311",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Share My Super",
+    "twitter": "@ShareMySuper"
+  },
+  "lastUpdated": "2026-01-04T21:33:32Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 61473,
+  "registrationNumber": "CC35290",
+  "name": "Taikura Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.taikura.org.nz",
+  "email": "Sonia.Hawea@kaikaranga.org.nz",
+  "address": {
+    "line1": "570 Mount Wellington Highway",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429043002498",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T21:09:14Z"
+}

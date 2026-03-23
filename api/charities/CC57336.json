@@ -1,0 +1,27 @@
+{
+  "id": 70971,
+  "registrationNumber": "CC57336",
+  "name": "Local Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-01-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.localchurch.co.nz",
+  "email": "levimarychurch@icloud.com",
+  "address": {
+    "line1": "150A Oceanbeach Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429051745370",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T20:10:30Z"
+}

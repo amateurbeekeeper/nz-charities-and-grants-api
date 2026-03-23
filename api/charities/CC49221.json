@@ -1,0 +1,27 @@
+{
+  "id": 36451,
+  "registrationNumber": "CC49221",
+  "name": "Historic Places Aotearoa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://historicplacesaotearoa.nz/",
+  "email": "accounting@historicplacesaotearoa.org.nz",
+  "address": {
+    "line1": "44 Childers Road",
+    "line2": "Gisborne 4010",
+    "suburb": "Christchurch Central",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429043216314",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T01:24:44Z"
+}

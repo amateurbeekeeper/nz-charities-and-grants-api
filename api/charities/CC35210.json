@@ -1,0 +1,27 @@
+{
+  "id": 60628,
+  "registrationNumber": "CC35210",
+  "name": "Parklands Playcentre Kamo",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-11T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/parklands-kamo/",
+  "email": "parklandskamo@playcentre.org.nz",
+  "address": {
+    "line1": "26 Tait Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kamo",
+    "postcode": "112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/122745154473640/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T00:16:34Z"
+}

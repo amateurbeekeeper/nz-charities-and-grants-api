@@ -1,0 +1,27 @@
+{
+  "id": 55033,
+  "registrationNumber": "CC21898",
+  "name": "Great Barrier Island Community Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.greatbarrierislandcommunityhealthtrust",
+  "email": "leonie.howie@gbi.nz",
+  "address": {
+    "line1": "80 Hector Sanderson Road",
+    "line2": "RD 1",
+    "suburb": "Great Barrier Island (aotea Island)",
+    "city": "Great Barrier Island",
+    "postcode": "0991"
+  },
+  "nzbn": "9429042857143",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T18:44:08Z"
+}

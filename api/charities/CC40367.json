@@ -1,0 +1,27 @@
+{
+  "id": 42659,
+  "registrationNumber": "CC40367",
+  "name": "Auckland Coastal Defences Historical Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.forts.org.nz",
+  "email": "john12nz@gmail.com",
+  "address": {
+    "line1": "Flat 9",
+    "line2": "21 Clifton Road",
+    "suburb": "Hauraki",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T08:58:33Z"
+}

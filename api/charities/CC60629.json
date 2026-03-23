@@ -1,0 +1,27 @@
+{
+  "id": 74220,
+  "registrationNumber": "CC60629",
+  "name": "Te Reo a Te Taiohi",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dale@thewritewords.co.nz",
+  "address": {
+    "line1": "Unit 4",
+    "line2": "133 Powerhouse Road",
+    "suburb": " ",
+    "city": "Fairdown",
+    "postcode": "7891"
+  },
+  "nzbn": "9429050744503",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tereoatetaiohi",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T20:12:29Z"
+}

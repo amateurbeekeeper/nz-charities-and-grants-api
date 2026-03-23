@@ -1,0 +1,27 @@
+{
+  "id": 69204,
+  "registrationNumber": "CC55551",
+  "name": "The Door Church",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-03-16T00:00:00Z",
+  "dateDeregistered": "2023-07-26T00:00:00Z",
+  "website": null,
+  "email": "hawaiirts@gmail.com",
+  "address": {
+    "line1": "6 Larnoch Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-08-09T07:01:32Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65120,
+  "registrationNumber": "CC32926",
+  "name": "Hellenic New Zealand Congress Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hellenicnzcongress.org",
+  "email": "john.davidson@vuw.ac.nz",
+  "address": {
+    "line1": "PO Box 1339",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429042619376",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HellenicNewZealandCongress",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T22:24:22Z"
+}

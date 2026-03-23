@@ -1,0 +1,27 @@
+{
+  "id": 75358,
+  "registrationNumber": "CC61793",
+  "name": "Spark Success Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-11-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sparksuccess.co.nz",
+  "email": "hello@sparksuccess.co.nz",
+  "address": {
+    "line1": "82 Kinloch Way",
+    "line2": " ",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429051700751",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61561426903798",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-28T19:06:56Z"
+}

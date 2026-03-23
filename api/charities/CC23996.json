@@ -1,0 +1,27 @@
+{
+  "id": 54368,
+  "registrationNumber": "CC23996",
+  "name": "Welcome Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sharon@sjk.co.nz",
+  "address": {
+    "line1": "4 Whetu Place",
+    "line2": "Unit B, Building 3, 331 Rosedale Road",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T03:13:32Z"
+}

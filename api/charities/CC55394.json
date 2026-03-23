@@ -1,0 +1,27 @@
+{
+  "id": 69048,
+  "registrationNumber": "CC55394",
+  "name": "ONEONESIX Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-01-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://oneonesix.nz",
+  "email": "matt@oneonesix.nz",
+  "address": {
+    "line1": "116A Bank Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429046482327",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/oneonesixwhangarei/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T17:44:13Z"
+}

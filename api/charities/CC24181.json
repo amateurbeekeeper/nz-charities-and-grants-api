@@ -1,0 +1,27 @@
+{
+  "id": 41144,
+  "registrationNumber": "CC24181",
+  "name": "Rural Otago PHO",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-05-09T00:00:00Z",
+  "dateDeregistered": "2011-07-17T00:00:00Z",
+  "website": null,
+  "email": "heals@xtra.co.nz",
+  "address": {
+    "line1": "Level 9",
+    "line2": "10 George Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043134014",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:17:46Z"
+}

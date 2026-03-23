@@ -1,0 +1,27 @@
+{
+  "id": 65672,
+  "registrationNumber": "CC51931",
+  "name": "St Margaret's Presbyterian Church, Silverstream",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://stmargaretssilverstream.org.nz ",
+  "email": "sternka@icloud.com",
+  "address": {
+    "line1": "6 Dunns Street",
+    "line2": " ",
+    "suburb": "Silverstream",
+    "city": "Upper Hutt",
+    "postcode": "5019"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/stmargaretssilverstream/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:53Z"
+}

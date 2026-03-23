@@ -1,0 +1,27 @@
+{
+  "id": 55533,
+  "registrationNumber": "CC24389",
+  "name": "Te Whangai Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tewhangai.com",
+  "email": "adrienne.dalton@tewhangai.org",
+  "address": {
+    "line1": "1011 Miranda Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Miranda",
+    "postcode": "2473"
+  },
+  "nzbn": "9429043178568",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "te whangai trust ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T00:27:26Z"
+}

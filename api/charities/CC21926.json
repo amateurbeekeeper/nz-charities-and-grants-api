@@ -1,0 +1,27 @@
+{
+  "id": 53110,
+  "registrationNumber": "CC21926",
+  "name": "Redemption Church Christchurch Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.redemptionchurch.org.nz",
+  "email": "jason@redemptionchurch.org.nz",
+  "address": {
+    "line1": "29 Landsborough Drive",
+    "line2": "RD 1",
+    "suburb": "Halswell",
+    "city": "Darfield",
+    "postcode": "7571"
+  },
+  "nzbn": "9429043109265",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/redemption.church.chch",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-04T22:41:06Z"
+}

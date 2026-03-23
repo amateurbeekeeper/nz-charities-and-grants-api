@@ -1,0 +1,27 @@
+{
+  "id": 55885,
+  "registrationNumber": "CC22600",
+  "name": "Wine Country Quilts",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.winecountryquilts.org.nz",
+  "email": "silson34@gmail.com",
+  "address": {
+    "line1": "3 Epsom Place",
+    "line2": null,
+    "suburb": "Taradale",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T18:40:13Z"
+}

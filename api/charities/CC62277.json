@@ -1,0 +1,27 @@
+{
+  "id": 75824,
+  "registrationNumber": "CC62277",
+  "name": "TriOceans Education Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.trioceans.org",
+  "email": "thibaud@trioceans.org",
+  "address": {
+    "line1": "230 Wharau Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "0293"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-14T01:24:36Z"
+}

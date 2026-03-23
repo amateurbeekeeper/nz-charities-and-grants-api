@@ -1,0 +1,27 @@
+{
+  "id": 62429,
+  "registrationNumber": "CC42306",
+  "name": "Pukehina Surf Rescue Lifeguard Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pukehinasurfrescue.co.nz",
+  "email": "admin@pukehinasurfrescue.co.nz",
+  "address": {
+    "line1": "723 Pukehina Parade",
+    "line2": "Pukehina 3189",
+    "suburb": " ",
+    "city": "Pukehina",
+    "postcode": "3189"
+  },
+  "nzbn": "9429043076048",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pukehinasurfrescue/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:15:32Z"
+}

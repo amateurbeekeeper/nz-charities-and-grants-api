@@ -1,0 +1,27 @@
+{
+  "id": 66462,
+  "registrationNumber": "CC52728",
+  "name": "Anglican Diocese of Christchurch Parish of St Pauls Papanui",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stpaulspapanui.org.nz/",
+  "email": "admin@stpaulspapanui.org.nz",
+  "address": {
+    "line1": "1 Harewood Road",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-09T19:55:21Z"
+}

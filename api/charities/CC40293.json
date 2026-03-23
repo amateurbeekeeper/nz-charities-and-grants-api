@@ -1,0 +1,27 @@
+{
+  "id": 45618,
+  "registrationNumber": "CC40293",
+  "name": "Dunedin Athenaeum and Mechanics Institute",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dunedinathenaeum.org.nz/",
+  "email": "tonyeyre@xtra.co.nz",
+  "address": {
+    "line1": "23 The Octagon",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61561208248815#",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-16T05:53:36Z"
+}

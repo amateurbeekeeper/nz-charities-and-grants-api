@@ -1,0 +1,27 @@
+{
+  "id": 53333,
+  "registrationNumber": "CC20237",
+  "name": "Motueka Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.motbaptist.com",
+  "email": "mot.bap@gmail.com",
+  "address": {
+    "line1": "15 Greenwood Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Motueka",
+    "postcode": "7120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/motuekabaptistchurch/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-04T19:34:09Z"
+}

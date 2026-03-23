@@ -1,0 +1,27 @@
+{
+  "id": 67386,
+  "registrationNumber": "CC53677",
+  "name": "Maoriland Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-07-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.maorilandfilm.co.nz",
+  "email": "libby@maorilandfilm.co.nz",
+  "address": {
+    "line1": "68-70 Main Street ",
+    "line2": " Māoriland Hub ",
+    "suburb": "Otaki ",
+    "city": "Otaki",
+    "postcode": "5560"
+  },
+  "nzbn": "9429043312504",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "@maorilandfilm",
+    "twitter": "@maorilandfilm"
+  },
+  "lastUpdated": "2025-12-08T19:36:56Z"
+}

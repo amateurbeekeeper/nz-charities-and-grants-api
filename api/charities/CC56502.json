@@ -1,0 +1,27 @@
+{
+  "id": 70148,
+  "registrationNumber": "CC56502",
+  "name": "Te Ao Huri Huri Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "connect@caii-michelle.com",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "149 Waiwhetu Road",
+    "suburb": "Waterloo",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T23:18:35Z"
+}

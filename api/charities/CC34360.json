@@ -1,0 +1,27 @@
+{
+  "id": 45091,
+  "registrationNumber": "CC34360",
+  "name": "Terrace Station Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2021-12-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.terracestation.org.nz",
+  "email": "lynnelochhead@gmail.com",
+  "address": {
+    "line1": "750 Rockwood Road",
+    "line2": "Hororata 7572",
+    "suburb": "Hororata ",
+    "city": "Hororata",
+    "postcode": "7572"
+  },
+  "nzbn": "9429043016488",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://m.facebook.com/TerraceStationNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T02:03:30Z"
+}

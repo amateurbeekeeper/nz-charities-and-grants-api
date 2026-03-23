@@ -1,0 +1,27 @@
+{
+  "id": 77310,
+  "registrationNumber": "CC63175",
+  "name": "Hibiscus Bible Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-03-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://hibiscusbiblechurch.org.nz",
+  "email": "alan.collins@tutamail.com",
+  "address": {
+    "line1": "346 Pine Valley Road",
+    "line2": "RD 2",
+    "suburb": "Dairy Flat",
+    "city": "Silverdale",
+    "postcode": "0992"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-21T18:03:38Z"
+}

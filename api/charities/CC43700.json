@@ -1,0 +1,27 @@
+{
+  "id": 62859,
+  "registrationNumber": "CC43700",
+  "name": "Tokoroa Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2010-02-24T00:00:00Z",
+  "dateDeregistered": "2025-10-03T00:00:00Z",
+  "website": null,
+  "email": "tokoroa@playcentre.org.nz",
+  "address": {
+    "line1": "Balmoral Dr",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tokoroa",
+    "postcode": "3420"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T06:04:25Z"
+}

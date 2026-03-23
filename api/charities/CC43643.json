@@ -1,0 +1,27 @@
+{
+  "id": 50119,
+  "registrationNumber": "CC43643",
+  "name": "Better Blokes Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2010-02-17T00:00:00Z",
+  "dateDeregistered": "2025-03-31T00:00:00Z",
+  "website": "https://www.betterblokes.org.nz",
+  "email": "simon.johnson@betterblokes.org.nz",
+  "address": {
+    "line1": "25 Union Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043063796",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/betterblokesnz",
+    "twitter": "www.twitter.com/BetterBlokesNZ"
+  },
+  "lastUpdated": "2025-04-07T02:13:47Z"
+}

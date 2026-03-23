@@ -1,0 +1,27 @@
+{
+  "id": 39170,
+  "registrationNumber": "CC26930",
+  "name": "Assembly of God (Wellington) Trust Board",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lifepoint.org.nz",
+  "email": "admin@lifepoint.org.nz",
+  "address": {
+    "line1": "61 Hopper Street",
+    "line2": " ",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042581260",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T15:50:10Z"
+}

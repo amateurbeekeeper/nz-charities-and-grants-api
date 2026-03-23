@@ -1,0 +1,27 @@
+{
+  "id": 75330,
+  "registrationNumber": "CC61768",
+  "name": "Speiro Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-10-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.speirochurch.com",
+  "email": "eddie_leitao@yahoo.com",
+  "address": {
+    "line1": "77A Taylor Street",
+    "line2": " ",
+    "suburb": "Blockhouse Bay",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429051878818",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Speiro Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T01:37:13Z"
+}

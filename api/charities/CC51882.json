@@ -1,0 +1,27 @@
+{
+  "id": 65631,
+  "registrationNumber": "CC51882",
+  "name": "St David's Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://sdfcweblog.wordpress.com",
+  "email": "bruceweaddy@gmail.com",
+  "address": {
+    "line1": "202 Hillsborough Road",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429048340465",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:14:57Z"
+}

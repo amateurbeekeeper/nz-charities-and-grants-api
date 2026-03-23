@@ -1,0 +1,27 @@
+{
+  "id": 75320,
+  "registrationNumber": "CC61762",
+  "name": "Shared Lines Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sharedlines.org.nz/",
+  "email": "sharedlinestrust@gmail.com",
+  "address": {
+    "line1": "18 Edgeware Road",
+    "line2": " ",
+    "suburb": "Wilton",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429051345600",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T03:02:49Z"
+}

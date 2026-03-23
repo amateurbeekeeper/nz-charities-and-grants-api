@@ -1,0 +1,27 @@
+{
+  "id": 70962,
+  "registrationNumber": "CC57331",
+  "name": "Faith Harvest Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-11-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "faithharvesttrust@gmail.com",
+  "address": {
+    "line1": "27B Access Road",
+    "line2": "Kerikeri 0230",
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "0230"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:08:59Z"
+}

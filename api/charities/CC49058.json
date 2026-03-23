@@ -1,0 +1,27 @@
+{
+  "id": 36729,
+  "registrationNumber": "CC49058",
+  "name": "Swannanoa Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Assina.Dalglish@fireandemergency.nz",
+  "address": {
+    "line1": "1160A Tram Road",
+    "line2": "RD 6",
+    "suburb": "Swannanoa",
+    "city": "Rangiora",
+    "postcode": "7476"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:34:08Z"
+}

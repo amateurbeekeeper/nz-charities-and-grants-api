@@ -1,0 +1,27 @@
+{
+  "id": 56328,
+  "registrationNumber": "CC34302",
+  "name": "Te Kaahui O Rauru",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rauru.iwi.nz",
+  "email": "renee@rauru.iwi.nz",
+  "address": {
+    "line1": "12 Drews Avenue",
+    "line2": "Whanganui 4500",
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T21:59:44Z"
+}

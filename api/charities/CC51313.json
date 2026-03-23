@@ -1,0 +1,27 @@
+{
+  "id": 34845,
+  "registrationNumber": "CC51313",
+  "name": "Satisfy Food Rescue",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-01-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://satisfy@satisfyfoodrescue.org.nz",
+  "email": "phillipa@satisfyfoodrescue.org.nz",
+  "address": {
+    "line1": "304 Flaxton Road",
+    "line2": "Rangiora 7400",
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": "9429043275618",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/satisfyfoodrescue",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T22:08:31Z"
+}

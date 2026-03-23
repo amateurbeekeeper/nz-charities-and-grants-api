@@ -1,0 +1,27 @@
+{
+  "id": 73427,
+  "registrationNumber": "CC60088",
+  "name": "Arts Connection Oceania",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-02-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ethnonewzealand.com",
+  "email": "info@ethnonewzealand.com",
+  "address": {
+    "line1": "66 Wirihana Road",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429046139597",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ethnonz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:20:57Z"
+}

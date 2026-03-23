@@ -1,0 +1,27 @@
+{
+  "id": 53062,
+  "registrationNumber": "CC29586",
+  "name": "Trade Aid Christchurch Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-06-30T00:00:00Z",
+  "website": "http://www.tradeaid.org.nz",
+  "email": "accounts@tradeaid.org.nz",
+  "address": {
+    "line1": "363 Colombo Street",
+    "line2": " ",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429042612650",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T07:10:57Z"
+}

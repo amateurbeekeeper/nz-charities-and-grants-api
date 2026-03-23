@@ -1,0 +1,27 @@
+{
+  "id": 58253,
+  "registrationNumber": "CC37579",
+  "name": "The Whangarei Harbour Marina Management Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.whangareimarina.com",
+  "email": "sharron@whangareimarina.nz",
+  "address": {
+    "line1": "Whangarei marina",
+    "line2": "37 Quayside",
+    "suburb": "Town basin",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429042892274",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-07T05:43:36Z"
+}

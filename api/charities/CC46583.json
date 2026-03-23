@@ -1,0 +1,27 @@
+{
+  "id": 63837,
+  "registrationNumber": "CC46583",
+  "name": "Chelsea Primary School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-05-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.chelsea.school.nz/pta/",
+  "email": "pta@chelsea.school.nz",
+  "address": {
+    "line1": "6 Onetaunga Road",
+    "line2": " ",
+    "suburb": "Chatswood",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Chelsea Primary School",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T06:10:23Z"
+}

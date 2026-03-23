@@ -1,0 +1,27 @@
+{
+  "id": 53650,
+  "registrationNumber": "CC23604",
+  "name": "New Zealand Craftsman Training Foundation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.craftsmantraining.co.nz",
+  "email": "jhnsfmly@xtra.co.nz",
+  "address": {
+    "line1": "42 Kinleith Way",
+    "line2": " ",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429042674962",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/NZCTF?ref=ts&fret=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:37:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75699,
+  "registrationNumber": "CC62147",
+  "name": "Rise Ministries Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-02-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david@risecamp.nz",
+  "address": {
+    "line1": "4 Warden Street",
+    "line2": " ",
+    "suburb": "Richmond",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T06:08:30Z"
+}

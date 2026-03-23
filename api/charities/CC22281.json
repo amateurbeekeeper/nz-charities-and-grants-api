@@ -1,0 +1,27 @@
+{
+  "id": 55511,
+  "registrationNumber": "CC22281",
+  "name": "West Auckland Montessori Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://westaucklandmontessori.org/",
+  "email": "treasurer@huapaimontessori.org.nz",
+  "address": {
+    "line1": "PO Box 153",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kumeu",
+    "postcode": "841"
+  },
+  "nzbn": "9429043169931",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/huapaimontessori",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-15T23:58:21Z"
+}

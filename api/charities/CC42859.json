@@ -1,0 +1,27 @@
+{
+  "id": 47091,
+  "registrationNumber": "CC42859",
+  "name": "Gisborne Tramping Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sporty.co.nz/gisbornetrampingclub",
+  "email": "grass.hopper@xtra.co.nz",
+  "address": {
+    "line1": "695 Aberdeen Road",
+    "line2": " ",
+    "suburb": "Te Hapara",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042629450",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Gisborne Tramping Club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-31T01:58:24Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72367,
+  "registrationNumber": "CC58756",
+  "name": "Stage South Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stagesouth.co.nz",
+  "email": "stagesouth@gmail.co.nz",
+  "address": {
+    "line1": "25 Magnetic Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Port Chalmers",
+    "postcode": "9023"
+  },
+  "nzbn": "9429047041585",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Stage South",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-14T13:47:59Z"
+}

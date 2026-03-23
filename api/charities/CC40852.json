@@ -1,0 +1,27 @@
+{
+  "id": 41049,
+  "registrationNumber": "CC40852",
+  "name": "NZ Mountain Safety Council Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mountainsafety.org.nz",
+  "email": "accounts@mountainsafety.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "29 Brandon St",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042793458",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/NZMSC",
+    "twitter": "twitter.com/nz_msc"
+  },
+  "lastUpdated": "2025-12-18T23:22:39Z"
+}

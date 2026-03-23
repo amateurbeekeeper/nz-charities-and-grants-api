@@ -1,0 +1,27 @@
+{
+  "id": 35765,
+  "registrationNumber": "CC44787",
+  "name": "Tasman Golf Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tasmangolf.co.nz",
+  "email": "richard.hudson@golfnz.org",
+  "address": {
+    "line1": "38 Bolt Road",
+    "line2": " ",
+    "suburb": "Annesbrook",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429043281527",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tasmangolf/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T22:26:20Z"
+}

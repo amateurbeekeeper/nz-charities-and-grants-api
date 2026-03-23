@@ -1,0 +1,27 @@
+{
+  "id": 44188,
+  "registrationNumber": "CC37671",
+  "name": "Bethlehem Primary School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://bethlehemschool.ac.nz",
+  "email": "bethlehemschoolpta@gmail.com",
+  "address": {
+    "line1": "Bethlehem School",
+    "line2": "66 Carmichael Road",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429052860980",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-18T19:19:19Z"
+}

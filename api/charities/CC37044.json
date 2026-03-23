@@ -1,0 +1,27 @@
+{
+  "id": 48824,
+  "registrationNumber": "CC37044",
+  "name": "Sustainable Whanganui Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-01-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://sustainablewhanganui.org.nz",
+  "email": "pearsons@bythebeach.co.nz",
+  "address": {
+    "line1": "23 Drews Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429043185351",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T22:16:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54122,
+  "registrationNumber": "CC21700",
+  "name": "Cleft New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cleft.org.nz",
+  "email": "andrewactonadams@cleft.org.nz",
+  "address": {
+    "line1": "10 Meadowbank Rise",
+    "line2": "Onehunga",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042613848",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/cleftnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T22:56:19Z"
+}

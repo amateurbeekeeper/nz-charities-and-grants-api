@@ -1,0 +1,27 @@
+{
+  "id": 62602,
+  "registrationNumber": "CC43304",
+  "name": "Immanuel Marthoma Church Wellington",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wellingtonmarthoma.org",
+  "email": "rinesh08@gmail.com",
+  "address": {
+    "line1": "213 Mark Avenue",
+    "line2": " ",
+    "suburb": "Grenada Village",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T00:03:22Z"
+}

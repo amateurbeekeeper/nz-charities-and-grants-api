@@ -1,0 +1,27 @@
+{
+  "id": 69666,
+  "registrationNumber": "CC56019",
+  "name": "Herbertville Voluntary Rural Fire Force",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fireandemergency.nz",
+  "email": "b.mcghie@xtra.co.nz",
+  "address": {
+    "line1": "48 Seaview Road",
+    "line2": "RD 10",
+    "suburb": "Herbertville",
+    "city": "Dannevirke",
+    "postcode": "4970"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T22:30:14Z"
+}

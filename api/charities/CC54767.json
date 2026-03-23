@@ -1,0 +1,27 @@
+{
+  "id": 68435,
+  "registrationNumber": "CC54767",
+  "name": "The Community Builders NZ Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.communitybuildersnz.org",
+  "email": "boardoftrustees@cbnz.org",
+  "address": {
+    "line1": "16A Israel Avenue",
+    "line2": " ",
+    "suburb": "Clover Park",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": "9429047230958",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/The-Community-Builders-NZ-Trust-168940297323190/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T19:53:32Z"
+}

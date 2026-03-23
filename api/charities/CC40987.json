@@ -1,0 +1,27 @@
+{
+  "id": 62324,
+  "registrationNumber": "CC40987",
+  "name": "Chatham Islands Ports Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.chathams.co.nz",
+  "email": "accounts@cietrust.co.nz",
+  "address": {
+    "line1": "Owenga Road",
+    "line2": "Sandstone, Waitangi",
+    "suburb": " ",
+    "city": "Chatham Islands",
+    "postcode": null
+  },
+  "nzbn": "9429039071309",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T20:49:58Z"
+}

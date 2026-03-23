@@ -1,0 +1,27 @@
+{
+  "id": 70232,
+  "registrationNumber": "CC56596",
+  "name": "Pet Whisperer Rescue Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.petwhispererrescue.co.nz",
+  "email": "sarah@petwhispererrescue.co.nz",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429047397569",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/petwhispererrescue",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T18:52:13Z"
+}

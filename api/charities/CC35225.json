@@ -1,0 +1,27 @@
+{
+  "id": 41890,
+  "registrationNumber": "CC35225",
+  "name": "Edge City Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.edgekingsland.co.nz",
+  "email": "michael@edgekingsland.co.nz",
+  "address": {
+    "line1": "704 New North Road",
+    "line2": "Kingsland",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429043069873",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/edgekingsland",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T03:45:24Z"
+}

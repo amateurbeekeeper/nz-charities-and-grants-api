@@ -1,0 +1,27 @@
+{
+  "id": 49606,
+  "registrationNumber": "CC29384",
+  "name": "Tapu Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "anneflea@xtra.co.nz",
+  "address": {
+    "line1": "752 Main Road",
+    "line2": "Tapu",
+    "suburb": "R D 5",
+    "city": "Thames",
+    "postcode": "3575"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:53:48Z"
+}

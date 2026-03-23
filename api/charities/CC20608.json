@@ -1,0 +1,27 @@
+{
+  "id": 53476,
+  "registrationNumber": "CC20608",
+  "name": "Golden Bay Museum Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.goldenbaymuseum.org.nz",
+  "email": "fsusko@gmail.com",
+  "address": {
+    "line1": "73 Commercial Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Takaka",
+    "postcode": "7110"
+  },
+  "nzbn": "9429042830306",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/GoldenBayMuseum/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:49:45Z"
+}

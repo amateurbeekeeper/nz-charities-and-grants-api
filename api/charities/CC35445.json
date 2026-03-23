@@ -1,0 +1,27 @@
+{
+  "id": 44091,
+  "registrationNumber": "CC35445",
+  "name": "Auckland Ice Hockey Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aiha.org.nz",
+  "email": "aj@aiha.org.nz",
+  "address": {
+    "line1": "70 Asquith Avenue",
+    "line2": "Botany",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042584247",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T22:27:10Z"
+}

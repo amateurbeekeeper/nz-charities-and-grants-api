@@ -1,0 +1,27 @@
+{
+  "id": 71569,
+  "registrationNumber": "CC57954",
+  "name": "Auckland International Christian Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pascal.murabula@usd21.org",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "23 College Road",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T22:26:04Z"
+}

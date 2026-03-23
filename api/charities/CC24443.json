@@ -1,0 +1,27 @@
+{
+  "id": 54867,
+  "registrationNumber": "CC24443",
+  "name": "Marlborough Community Foodbank Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "marl.foodbank@xtra.co.nz",
+  "address": {
+    "line1": "A & P Showgrounds",
+    "line2": "Laidlaw Pavillion",
+    "suburb": "Alabama Road",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429042946663",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-28T19:05:22Z"
+}

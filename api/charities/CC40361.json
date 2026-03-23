@@ -1,0 +1,27 @@
+{
+  "id": 64805,
+  "registrationNumber": "CC40361",
+  "name": "Bay Olympic Soccer and Sports Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bayolympic.co.nz",
+  "email": "hq@bayolympic.co.nz",
+  "address": {
+    "line1": "36 Portage Road",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "600"
+  },
+  "nzbn": "9429042597872",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/boafc/",
+    "twitter": "@BayOlympic"
+  },
+  "lastUpdated": "2025-03-10T22:41:16Z"
+}

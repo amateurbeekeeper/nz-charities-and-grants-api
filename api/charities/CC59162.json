@@ -1,0 +1,27 @@
+{
+  "id": 72766,
+  "registrationNumber": "CC59162",
+  "name": "AppSec New Zealand Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://appsec.org.nz",
+  "email": "john.dileo@appsec.org.nz",
+  "address": {
+    "line1": "Flat 19",
+    "line2": "Waterford Estate",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429048437837",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "https://twitter.com/AppSecNZ"
+  },
+  "lastUpdated": "2025-10-24T00:12:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67111,
+  "registrationNumber": "CC53386",
+  "name": "NFP Limited",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2016-01-13T00:00:00Z",
+  "dateDeregistered": "2016-01-14T00:00:00Z",
+  "website": "http://www.nfp.website",
+  "email": "smith.geursen@gmail.com",
+  "address": {
+    "line1": "12 Carlton Street",
+    "line2": " ",
+    "suburb": "Melrose",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429041588116",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-01-09T23:32:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 46490,
+  "registrationNumber": "CC28306",
+  "name": "Puriri Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "wayne.cryer@fireandemergency.nz",
+  "address": {
+    "line1": "Station Road",
+    "line2": "R D 1",
+    "suburb": "Puriri",
+    "city": "Thames",
+    "postcode": "3578"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Puriri Volunteer Fire Brigade ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:21:35Z"
+}

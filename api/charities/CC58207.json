@@ -1,0 +1,27 @@
+{
+  "id": 71818,
+  "registrationNumber": "CC58207",
+  "name": "Mosaic Community Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-09-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mosaiccommunitychurch.co.nz",
+  "email": "mattwalters@mosaiccommunitychurch.co.nz",
+  "address": {
+    "line1": "166 Tahunanui Drive",
+    "line2": " ",
+    "suburb": "Tahunanui",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Mosaic Community Church, Nelson",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:03:52Z"
+}

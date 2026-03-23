@@ -1,0 +1,27 @@
+{
+  "id": 42072,
+  "registrationNumber": "CC24681",
+  "name": "City Impact Church Education Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "graham.burger@cityimpactchurch.com",
+  "address": {
+    "line1": "794 East Coast Road",
+    "line2": " ",
+    "suburb": "Oteha",
+    "city": "Auckland",
+    "postcode": "630"
+  },
+  "nzbn": "9429031819930",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T03:28:39Z"
+}

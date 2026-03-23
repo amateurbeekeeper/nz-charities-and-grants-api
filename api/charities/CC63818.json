@@ -1,0 +1,27 @@
+{
+  "id": 78010,
+  "registrationNumber": "CC63818",
+  "name": "Wadeson Island Conservation Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-10-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wadeson.chris-nz.com/",
+  "email": "chris@chris-nz.com",
+  "address": {
+    "line1": "54 Blake Street",
+    "line2": null,
+    "suburb": "Blaketown",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": "9429053173706",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-28T21:57:14Z"
+}

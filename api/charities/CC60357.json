@@ -1,0 +1,27 @@
+{
+  "id": 73943,
+  "registrationNumber": "CC60357",
+  "name": "Wikimedia Aotearoa New Zealand Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wikimedia.nz",
+  "email": "secretary@wikimedia.nz",
+  "address": {
+    "line1": "113 Volga Street",
+    "line2": " ",
+    "suburb": "Island Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429050488841",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Wikipedia.Aotearoa.NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T17:08:36Z"
+}

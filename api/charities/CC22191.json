@@ -1,0 +1,27 @@
+{
+  "id": 57735,
+  "registrationNumber": "CC22191",
+  "name": "Waikato Montessori Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": "2015-09-10T00:00:00Z",
+  "website": "http://www.montessorischool.org.nz",
+  "email": "lisafox@clear.net.nz",
+  "address": {
+    "line1": "62 C/- Silverdale Road",
+    "line2": null,
+    "suburb": "Silverdale",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429042942559",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-01-30T05:37:30Z"
+}

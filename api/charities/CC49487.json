@@ -1,0 +1,27 @@
+{
+  "id": 35142,
+  "registrationNumber": "CC49487",
+  "name": "Bristol Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jeff.reed@pgtrust.co.nz",
+  "address": {
+    "line1": "134 Oxford Terrace",
+    "line2": "L3, Grant Thornton House",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": "9429043255290",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:14:15Z"
+}

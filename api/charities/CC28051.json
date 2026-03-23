@@ -1,0 +1,27 @@
+{
+  "id": 43566,
+  "registrationNumber": "CC28051",
+  "name": "Tangimoana Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.fireandemergency.nz",
+  "email": "karen.gunn@fireandemergency.nz",
+  "address": {
+    "line1": "21 Kuku Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tangimoana",
+    "postcode": "4822"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T07:38:47Z"
+}

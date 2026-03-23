@@ -1,0 +1,27 @@
+{
+  "id": 34517,
+  "registrationNumber": "CC50897",
+  "name": "Pacific Pathways",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pacificpathways.org.nz",
+  "email": "sue@pacificpathways.org.nz",
+  "address": {
+    "line1": "12 McKays Lane",
+    "line2": "Cust 7471",
+    "suburb": "Redcliffs",
+    "city": "Cust",
+    "postcode": "7471"
+  },
+  "nzbn": "9429043240982",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "PacificPathwaysNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-23T04:25:43Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65653,
+  "registrationNumber": "CC51899",
+  "name": "The MediaWorks Foundation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mediaworks.co.nz/foundation",
+  "email": "sophiekeighley@mediaworks.co.nz",
+  "address": {
+    "line1": "17 Hargreaves Street",
+    "line2": "Symonds Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043272891",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MediaWorksFoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T01:01:10Z"
+}

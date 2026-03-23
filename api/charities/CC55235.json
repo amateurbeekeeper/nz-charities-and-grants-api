@@ -1,0 +1,27 @@
+{
+  "id": 68892,
+  "registrationNumber": "CC55235",
+  "name": "NZFuture Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzfuture.co.nz/",
+  "email": "info@nzfuture.co.nz",
+  "address": {
+    "line1": "12 Fusion Road",
+    "line2": "Papakura 2110",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": "9429046354129",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZfutureCommunity",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T23:16:39Z"
+}

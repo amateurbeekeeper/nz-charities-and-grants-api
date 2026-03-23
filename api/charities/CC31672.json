@@ -1,0 +1,27 @@
+{
+  "id": 49769,
+  "registrationNumber": "CC31672",
+  "name": "Saint Patricks School Bryndwr After School Care Programme",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stpatricks.school.nz/afterschoolcare",
+  "email": "stpatricksasc@gmail.com",
+  "address": {
+    "line1": "57 Plynlimon Road",
+    "line2": " ",
+    "suburb": "Strowan",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429042958925",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T22:51:08Z"
+}

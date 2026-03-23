@@ -1,0 +1,27 @@
+{
+  "id": 77777,
+  "registrationNumber": "CC63579",
+  "name": "Building Futures Foundation Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://buildingfutures.co.nz/",
+  "email": "cm@slw.co.nz",
+  "address": {
+    "line1": "27 Poporo Way",
+    "line2": "RD 5",
+    "suburb": "Longlands",
+    "city": "Hastings",
+    "postcode": "4175"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/building.futures.hb",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-30T02:42:41Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74700,
+  "registrationNumber": "CC61115",
+  "name": "The Way Community Trust NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-03-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Setefano.muliaga@gmail.com",
+  "address": {
+    "line1": "21 Tuhono Street",
+    "line2": " ",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429050996124",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-31T02:05:06Z"
+}

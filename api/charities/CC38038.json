@@ -1,0 +1,27 @@
+{
+  "id": 63005,
+  "registrationNumber": "CC38038",
+  "name": "Berrysmith Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.berrysmith.org/",
+  "email": "ashley@berrysmith.org",
+  "address": {
+    "line1": "44G Crooks Road",
+    "line2": " ",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429043094578",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T20:22:55Z"
+}

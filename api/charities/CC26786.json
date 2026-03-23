@@ -1,0 +1,27 @@
+{
+  "id": 55830,
+  "registrationNumber": "CC26786",
+  "name": "Whakatane Community Patrol",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kjcraill@gmail.com",
+  "address": {
+    "line1": "4 Sisam Place",
+    "line2": " ",
+    "suburb": "Whakatāne",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T02:42:21Z"
+}

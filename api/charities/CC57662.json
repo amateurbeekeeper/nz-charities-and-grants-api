@@ -1,0 +1,27 @@
+{
+  "id": 71291,
+  "registrationNumber": "CC57662",
+  "name": "AYUS Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ayus.co.nz",
+  "email": "info@ayuscharity.com",
+  "address": {
+    "line1": "1/192 Bucklands Beach Road",
+    "line2": " ",
+    "suburb": "Bucklands Beach",
+    "city": "Auckland",
+    "postcode": "2012"
+  },
+  "nzbn": "9429048404259",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Ayus-Charitable-Trust-109658847845566",
+    "twitter": "https://twitter.com/trustayus"
+  },
+  "lastUpdated": "2025-02-04T20:53:07Z"
+}

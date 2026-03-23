@@ -1,0 +1,27 @@
+{
+  "id": 73912,
+  "registrationNumber": "CC60321",
+  "name": "Te Kei O Te Waka Tainui",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tekeiotewakatainui@gmail.com",
+  "address": {
+    "line1": "23 Tiffiney Place",
+    "line2": " ",
+    "suburb": "Chartwell",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/325331651184259",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T00:03:19Z"
+}

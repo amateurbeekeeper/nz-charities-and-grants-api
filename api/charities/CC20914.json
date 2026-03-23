@@ -1,0 +1,27 @@
+{
+  "id": 54427,
+  "registrationNumber": "CC20914",
+  "name": "The Federation of New Zealand Seniornet Societies Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.seniornet.nz",
+  "email": "secretary@seniornet.nz",
+  "address": {
+    "line1": "5 Dunmurry Place",
+    "line2": " ",
+    "suburb": "Casebrook",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429043139262",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:34:24Z"
+}

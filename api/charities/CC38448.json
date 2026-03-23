@@ -1,0 +1,27 @@
+{
+  "id": 43919,
+  "registrationNumber": "CC38448",
+  "name": "Peachgrove Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-01T00:00:00Z",
+  "website": null,
+  "email": "peachgrove@playcentre.org.nz",
+  "address": {
+    "line1": "80 Peachgrove Road",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/peachgroveplaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T04:25:08Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75098,
+  "registrationNumber": "CC61535",
+  "name": "Vinnies Tāmaki Makaurau Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://vinniestm.org.nz/",
+  "email": "john1@jpca.org.nz",
+  "address": {
+    "line1": "6A Henderson Place",
+    "line2": null,
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429051356491",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:15:46Z"
+}

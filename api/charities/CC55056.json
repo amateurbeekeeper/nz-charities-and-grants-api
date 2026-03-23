@@ -1,0 +1,27 @@
+{
+  "id": 68718,
+  "registrationNumber": "CC55056",
+  "name": "WELLfed NZ Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wellfed.kiwi/",
+  "email": "Kim.murray@wellfed.kiwi",
+  "address": {
+    "line1": "38-54 Hampshire Street",
+    "line2": " ",
+    "suburb": "Cannons Creek",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429046741530",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WELLfedNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T00:55:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42078,
+  "registrationNumber": "CC24473",
+  "name": "Redwood Early Childhood Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.recc.co.nz",
+  "email": "recc@xtra.co.nz",
+  "address": {
+    "line1": "339 Main North Road",
+    "line2": " ",
+    "suburb": "Redwood",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429042722021",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-17T19:25:42Z"
+}

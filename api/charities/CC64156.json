@@ -1,0 +1,27 @@
+{
+  "id": 78340,
+  "registrationNumber": "CC64156",
+  "name": "Te Ahi Collective",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-02-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "phoenixkarena@gmail.com",
+  "address": {
+    "line1": "20A Clayburn Road",
+    "line2": " ",
+    "suburb": "Glen Eden",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": null,
+  "financialYearEnd": "26/1",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T19:42:35Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65722,
+  "registrationNumber": "CC51979",
+  "name": "St Peters Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stpeters.org.nz",
+  "email": "accts.at.crest@gmail.com",
+  "address": {
+    "line1": "130 Spring Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T19:43:49Z"
+}

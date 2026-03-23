@@ -1,0 +1,27 @@
+{
+  "id": 37081,
+  "registrationNumber": "CC46648",
+  "name": "Newlands Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.newlandsbaptist.org.nz",
+  "email": "sue@themcps.com",
+  "address": {
+    "line1": "C/- S MCPHERSON",
+    "line2": "79 Abilene Crescent",
+    "suburb": "Churton Park",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Newlands Baptist  Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:38:52Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75693,
+  "registrationNumber": "CC62143",
+  "name": "Kāinga Maha Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-12-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://kaingamaha.co.nz/",
+  "email": "info@homefoundation.org.nz",
+  "address": {
+    "line1": "1 Kairua Road",
+    "line2": " ",
+    "suburb": "Hornby",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-09T00:12:22Z"
+}

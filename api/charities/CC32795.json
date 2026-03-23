@@ -1,0 +1,27 @@
+{
+  "id": 44764,
+  "registrationNumber": "CC32795",
+  "name": "The Black Grace Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.blackgrace.co.nz",
+  "email": "neil@blackgrace.co.nz",
+  "address": {
+    "line1": "33 Sunnyvale Road",
+    "line2": " ",
+    "suburb": "Swanson",
+    "city": "Auckland",
+    "postcode": "0614"
+  },
+  "nzbn": "9429042985228",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/blackgracedanceco/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-15T02:58:36Z"
+}

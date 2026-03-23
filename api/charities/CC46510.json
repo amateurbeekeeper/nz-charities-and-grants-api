@@ -1,0 +1,27 @@
+{
+  "id": 36810,
+  "registrationNumber": "CC46510",
+  "name": "Paparimu School P.T.A",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta@paparimu.school.nz",
+  "address": {
+    "line1": "3 Matheson Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hunua",
+    "postcode": "2583"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:07:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73488,
+  "registrationNumber": "CC59723",
+  "name": "Auckland Church Network Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aucklandchurchnetwork.nz",
+  "email": "ben@aucklandchurchnetwork.nz",
+  "address": {
+    "line1": "17 Marewa Road",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429050147304",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://facebook.com/aucklandchurchnetwork",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:40:19Z"
+}

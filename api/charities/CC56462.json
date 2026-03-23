@@ -1,0 +1,27 @@
+{
+  "id": 70101,
+  "registrationNumber": "CC56462",
+  "name": "Auckland Islamic Cultural Centre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.aicc.co.nz",
+  "email": "nawasibrahim@gmail.com",
+  "address": {
+    "line1": "39 Hamon Avenue",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429048565240",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T00:52:27Z"
+}

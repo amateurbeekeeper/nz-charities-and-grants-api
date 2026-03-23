@@ -1,0 +1,27 @@
+{
+  "id": 48610,
+  "registrationNumber": "CC30517",
+  "name": "WORD Christchurch",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://wordchristchurch.co.nz/",
+  "email": "admin@wordchristchurch.co.nz",
+  "address": {
+    "line1": "156 Armagh Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043010714",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wordchch",
+    "twitter": "https://twitter.com/WORDChCh"
+  },
+  "lastUpdated": "2025-11-09T20:23:40Z"
+}

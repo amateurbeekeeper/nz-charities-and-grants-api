@@ -1,0 +1,27 @@
+{
+  "id": 62201,
+  "registrationNumber": "CC42346",
+  "name": "Special Olympics Te Whanganui-a-Tara",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sotwt.nz",
+  "email": "chairperson@sotwt.nz",
+  "address": {
+    "line1": "17 Merton Street",
+    "line2": " ",
+    "suburb": "Trentham",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429050449835",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/people/Special-Olympics-Te-Whanganui-a-Tara/100065166024535/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T23:55:19Z"
+}

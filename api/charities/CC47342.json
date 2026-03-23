@@ -1,0 +1,27 @@
+{
+  "id": 38496,
+  "registrationNumber": "CC47342",
+  "name": "Freedom Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-09-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.freedomcentre.nz",
+  "email": "adem@freedomcentre.nz",
+  "address": {
+    "line1": "9 Marsh Street",
+    "line2": " ",
+    "suburb": null,
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043230273",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/freedomcentre.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T21:54:18Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67845,
+  "registrationNumber": "CC54156",
+  "name": "The Sir John Kirwan Foundation Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-12-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://jkfoundation.org.nz",
+  "email": "sarah@jkfoundation.org.nz",
+  "address": {
+    "line1": "Raphoe House, Level 1",
+    "line2": "8 Gloucester Park Road",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429045894459",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T23:59:52Z"
+}

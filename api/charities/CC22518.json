@@ -1,0 +1,27 @@
+{
+  "id": 55558,
+  "registrationNumber": "CC22518",
+  "name": "Coromandel Independent Living Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cilt.org.nz",
+  "email": "josie@cilt.org.nz",
+  "address": {
+    "line1": "150 Pound Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Coromandel",
+    "postcode": "3506"
+  },
+  "nzbn": "9429042663133",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ciltcoromandel/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:31:45Z"
+}

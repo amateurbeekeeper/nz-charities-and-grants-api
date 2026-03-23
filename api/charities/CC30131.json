@@ -1,0 +1,27 @@
+{
+  "id": 60563,
+  "registrationNumber": "CC30131",
+  "name": "Destiny School",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jenny@destinychurch.org.nz",
+  "address": {
+    "line1": "25 Druces Road",
+    "line2": " ",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-16T23:17:33Z"
+}

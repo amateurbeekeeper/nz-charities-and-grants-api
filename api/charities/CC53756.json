@@ -1,0 +1,27 @@
+{
+  "id": 67460,
+  "registrationNumber": "CC53756",
+  "name": "TNC New Zealand Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-09-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nature.org/",
+  "email": "muhammad.salie@tnc.org",
+  "address": {
+    "line1": "57 Willis Street",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043307166",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thenatureconservancy",
+    "twitter": "https://twitter.com/nature_org"
+  },
+  "lastUpdated": "2026-03-06T03:22:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69906,
+  "registrationNumber": "CC56265",
+  "name": "Anglican Diocesan Ministry Support Centre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.anglicanlife.org.nz",
+  "email": "diofinancemanager@anglicanlife.org.nz",
+  "address": {
+    "line1": "95 Tuam Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-04T00:21:16Z"
+}

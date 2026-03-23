@@ -1,0 +1,27 @@
+{
+  "id": 36812,
+  "registrationNumber": "CC46288",
+  "name": "Auckland Sri Ganesh Temple Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aucklandsriganeshtemple.com",
+  "email": "asgtt.secretary@gmail.com",
+  "address": {
+    "line1": "4 Dent Place",
+    "line2": " ",
+    "suburb": "Red Hill",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": "9429043032310",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "auckland sri ganesh temple",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:56:09Z"
+}

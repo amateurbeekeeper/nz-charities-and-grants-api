@@ -1,0 +1,27 @@
+{
+  "id": 74361,
+  "registrationNumber": "CC60774",
+  "name": "Conservation Amplified Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.conservationamplified.org",
+  "email": "hello@conservationamplified.org",
+  "address": {
+    "line1": "33 Cornelian Crescent",
+    "line2": " ",
+    "suburb": "Half Moon Bay",
+    "city": "Auckland",
+    "postcode": "2012"
+  },
+  "nzbn": "9429050979998",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/conservationamplified",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T05:35:58Z"
+}

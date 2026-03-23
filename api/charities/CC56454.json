@@ -1,0 +1,27 @@
+{
+  "id": 70098,
+  "registrationNumber": "CC56454",
+  "name": "Hapai Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.hapaifoundation.org.nz",
+  "email": "ruth.keating@gmail.com",
+  "address": {
+    "line1": "21 Lodestar Avenue",
+    "line2": " ",
+    "suburb": "Wigram",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=h%C4%81pai%20access%20card",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T21:08:18Z"
+}

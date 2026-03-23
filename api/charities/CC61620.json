@@ -1,0 +1,27 @@
+{
+  "id": 75162,
+  "registrationNumber": "CC61620",
+  "name": "Kete Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cm@slw.co.nz",
+  "address": {
+    "line1": "15 Joll Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Havelock North",
+    "postcode": "4130"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kete.tairawhiti",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:15:42Z"
+}

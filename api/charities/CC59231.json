@@ -1,0 +1,27 @@
+{
+  "id": 72834,
+  "registrationNumber": "CC59231",
+  "name": "The Morven Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jdyson@xtra.co.nz",
+  "address": {
+    "line1": "3727 Waimate Highway",
+    "line2": "RD 9",
+    "suburb": "Morven",
+    "city": "Waimate",
+    "postcode": "7979"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T04:09:42Z"
+}

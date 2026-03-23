@@ -1,0 +1,27 @@
+{
+  "id": 77620,
+  "registrationNumber": "CC63414",
+  "name": "Kia Kori Waitaha",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kiakoriwaitaha.com/",
+  "email": "waharai@kiakoriwaitaha.org.nz",
+  "address": {
+    "line1": "PO Box 76126",
+    "line2": "Northwood",
+    "suburb": "Belfast",
+    "city": "Christchurch",
+    "postcode": "8548"
+  },
+  "nzbn": "9429052881466",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KiaKoriWaitaha/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T20:10:12Z"
+}

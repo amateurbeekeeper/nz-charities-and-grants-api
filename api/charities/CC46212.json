@@ -1,0 +1,27 @@
+{
+  "id": 38278,
+  "registrationNumber": "CC46212",
+  "name": "New Covenant Samoan Assembly of God Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2023-04-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "wymondleycommunity.org",
+  "email": "info@wymondleycommunity.org",
+  "address": {
+    "line1": "36 Wymondley Road",
+    "line2": " ",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429042997801",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-10-24T23:15:07Z"
+}

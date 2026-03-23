@@ -1,0 +1,27 @@
+{
+  "id": 33302,
+  "registrationNumber": "CC49097",
+  "name": "The Kennedys Ltd",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-01-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hamishs@xtra.co.nz",
+  "address": {
+    "line1": "8 Alfred Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429030388383",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-27T19:22:09Z"
+}

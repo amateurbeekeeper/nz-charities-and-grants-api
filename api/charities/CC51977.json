@@ -1,0 +1,27 @@
+{
+  "id": 65727,
+  "registrationNumber": "CC51977",
+  "name": "Saint David's Presbyterian Church Otorohanga",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.saintdavids.org.nz",
+  "email": "c.sherrington@xtra.co.nz",
+  "address": {
+    "line1": "9 Ranfurly Street",
+    "line2": "Otorohanga 3900",
+    "suburb": " ",
+    "city": "Otorohanga",
+    "postcode": "3900"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:14:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 32723,
+  "registrationNumber": "CC48695",
+  "name": "Kia Ora FM 89.8 Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-01-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kiaorafm898.maori.nz",
+  "email": "aidan@greer-wong.co.nz",
+  "address": {
+    "line1": "140 Maxwells Line",
+    "line2": " ",
+    "suburb": "Awapuni",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429043263684",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:06:04Z"
+}

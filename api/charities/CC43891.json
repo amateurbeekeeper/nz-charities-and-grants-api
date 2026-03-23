@@ -1,0 +1,27 @@
+{
+  "id": 62729,
+  "registrationNumber": "CC43891",
+  "name": "Havelock Vision 2020",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.peloruspeople.org.nz",
+  "email": "havelockv2020@gmail.com",
+  "address": {
+    "line1": "215 Queen Charlotte Drive",
+    "line2": "RD 1",
+    "suburb": "Havelock",
+    "city": "Picton",
+    "postcode": "7281"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@HavelockVision",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:06:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 57193,
+  "registrationNumber": "CC25017",
+  "name": "The Dingwall Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dingwalltrust.org.nz",
+  "email": "j.das@xtra.co.nz",
+  "address": {
+    "line1": "8 Dingwall Place",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429042645351",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T19:35:52Z"
+}

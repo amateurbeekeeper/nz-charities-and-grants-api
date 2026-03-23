@@ -1,0 +1,27 @@
+{
+  "id": 35175,
+  "registrationNumber": "CC50160",
+  "name": "NZ Skeptics Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://skeptics.nz",
+  "email": "treasurer@skeptics.nz",
+  "address": {
+    "line1": "NZ Skeptics, c/o Rationalist House",
+    "line2": " 64 Symonds Street",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042705208",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T05:33:25Z"
+}

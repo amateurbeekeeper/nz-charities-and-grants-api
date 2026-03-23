@@ -1,0 +1,27 @@
+{
+  "id": 50571,
+  "registrationNumber": "CC44319",
+  "name": "Hutt Valley Orchestra Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hvo.org.nz",
+  "email": "a.erasmuson@gmail.com",
+  "address": {
+    "line1": "11A Lane Street",
+    "line2": " ",
+    "suburb": "Wallaceville",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429043285099",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/huttvalleyorchestra/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T07:04:08Z"
+}

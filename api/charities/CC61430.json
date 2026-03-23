@@ -1,0 +1,27 @@
+{
+  "id": 75001,
+  "registrationNumber": "CC61430",
+  "name": "Pacific Feminist Fund Charitable Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.pacfemfund.org",
+  "email": "karen@pacfemfund.org",
+  "address": {
+    "line1": "Level 11",
+    "line2": "15 Murphy Street",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429051139070",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/pacificfeministfund/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T03:36:23Z"
+}

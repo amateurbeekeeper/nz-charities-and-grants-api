@@ -1,0 +1,27 @@
+{
+  "id": 77565,
+  "registrationNumber": "CC63364",
+  "name": "On The Way International",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-11-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "darinjonker@gmail.com",
+  "address": {
+    "line1": "32 Ava Street",
+    "line2": " ",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T21:13:39Z"
+}

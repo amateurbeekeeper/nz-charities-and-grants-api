@@ -1,0 +1,27 @@
+{
+  "id": 75778,
+  "registrationNumber": "CC62231",
+  "name": "Whakamana te Waituna Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-01-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waituna.org.nz/",
+  "email": "cainduncan@waituna.org.nz",
+  "address": {
+    "line1": "220 North Road",
+    "line2": "Invercargill 9840",
+    "suburb": "Waikiwi",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429047151666",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WhakamanateWaituna/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T02:19:14Z"
+}

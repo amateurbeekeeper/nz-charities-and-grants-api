@@ -1,0 +1,27 @@
+{
+  "id": 40528,
+  "registrationNumber": "CC25501",
+  "name": "Wera Aotearoa Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wact.org.nz",
+  "email": "toli@wact.org.nz",
+  "address": {
+    "line1": "1137 Pukuatua Street",
+    "line2": "Rotorua 3010",
+    "suburb": "Victoria",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429043153718",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T21:41:04Z"
+}

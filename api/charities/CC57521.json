@@ -1,0 +1,27 @@
+{
+  "id": 71148,
+  "registrationNumber": "CC57521",
+  "name": "Association Française de Hawke's Bay Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://afhb.org.nz",
+  "email": "tresorier@afhb.org.nz",
+  "address": {
+    "line1": "54 Whakatomo Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Havelock North",
+    "postcode": "4130"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Assossiation Française de Hawke's Bay",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T00:21:23Z"
+}

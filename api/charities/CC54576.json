@@ -1,0 +1,27 @@
+{
+  "id": 68245,
+  "registrationNumber": "CC54576",
+  "name": "Wairarapa Road Safety Council Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wairsc.org.nz",
+  "email": "rsc@wairsc.org.nz",
+  "address": {
+    "line1": "340 Queen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429042883029",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/wairaraparoadsafetycouncil/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:08:30Z"
+}

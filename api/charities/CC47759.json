@@ -1,0 +1,27 @@
+{
+  "id": 37994,
+  "registrationNumber": "CC47759",
+  "name": "Newtown Early Learning Centre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-03-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "skreece@xtra.co.nz",
+  "address": {
+    "line1": "46 Constable Street",
+    "line2": " ",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429042673286",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T23:10:59Z"
+}

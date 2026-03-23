@@ -1,0 +1,27 @@
+{
+  "id": 67595,
+  "registrationNumber": "CC53903",
+  "name": "Mano Amiga NZ Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.manoamiga.nz",
+  "email": "manoamiganz@gmail.com",
+  "address": {
+    "line1": "875 New North Road",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Mano amiga Nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-16T22:30:40Z"
+}

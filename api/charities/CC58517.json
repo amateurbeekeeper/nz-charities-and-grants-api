@@ -1,0 +1,27 @@
+{
+  "id": 72135,
+  "registrationNumber": "CC58517",
+  "name": "Everyone an Artist Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.euac.co.nz/",
+  "email": "info@euac.ac.nz",
+  "address": {
+    "line1": "1 Hereford Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EveryoneAnArtist/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-11T19:46:37Z"
+}

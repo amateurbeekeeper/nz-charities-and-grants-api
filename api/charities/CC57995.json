@@ -1,0 +1,27 @@
+{
+  "id": 71621,
+  "registrationNumber": "CC57995",
+  "name": "Tagata Moana Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-08-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tagatamoana.com",
+  "email": "Ninaoberghumphries@gmail.com",
+  "address": {
+    "line1": "285 Cashel Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429049246490",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T00:17:27Z"
+}

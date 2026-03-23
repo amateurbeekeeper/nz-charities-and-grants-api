@@ -1,0 +1,27 @@
+{
+  "id": 55454,
+  "registrationNumber": "CC25256",
+  "name": "Harbour City Church Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "evan@harbourccc.org.nz",
+  "address": {
+    "line1": "27 Taylor Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paeroa",
+    "postcode": "3600"
+  },
+  "nzbn": "9429042711742",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T19:33:32Z"
+}

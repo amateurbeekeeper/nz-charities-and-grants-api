@@ -1,0 +1,27 @@
+{
+  "id": 36857,
+  "registrationNumber": "CC46598",
+  "name": "Nelson Principals' Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.npa.org.nz",
+  "email": "victoria@cancernelson.org.nz",
+  "address": {
+    "line1": "21 Tresillian Avenue",
+    "line2": " ",
+    "suburb": "Marybank",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-10T20:01:28Z"
+}

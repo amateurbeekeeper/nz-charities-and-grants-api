@@ -1,0 +1,27 @@
+{
+  "id": 45401,
+  "registrationNumber": "CC33188",
+  "name": "The Dowse Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://dowsefoundation.org.nz",
+  "email": "corinne.cole@colee.co.nz",
+  "address": {
+    "line1": "45 Laings Road",
+    "line2": " ",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429043113378",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:10:08Z"
+}

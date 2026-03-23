@@ -1,0 +1,27 @@
+{
+  "id": 32664,
+  "registrationNumber": "CC48100",
+  "name": "Pilgrim Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pbcnz.com",
+  "email": "pilgrimbaptistchurch@rocketmail.com",
+  "address": {
+    "line1": "54 Winsford Street",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T08:45:03Z"
+}

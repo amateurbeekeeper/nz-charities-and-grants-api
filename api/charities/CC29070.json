@@ -1,0 +1,27 @@
+{
+  "id": 56348,
+  "registrationNumber": "CC29070",
+  "name": "Destiny Church Hamilton",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.destinyhamilton.org.nz",
+  "email": "admin@destinyhamilton.org.nz",
+  "address": {
+    "line1": "Flat 5",
+    "line2": "550 Te Rapa Road",
+    "suburb": "Te Rapa",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429043002528",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DestinyChurchHamilton/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T00:56:30Z"
+}

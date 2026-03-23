@@ -1,0 +1,27 @@
+{
+  "id": 44972,
+  "registrationNumber": "CC32779",
+  "name": "Adult Education Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2010-04-12T00:00:00Z",
+  "website": "http://www.aet.net.nz",
+  "email": "adulteducationtrust@xtra.co.nz",
+  "address": {
+    "line1": "85A Totara Street",
+    "line2": null,
+    "suburb": "Fendalton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:12:32Z"
+}

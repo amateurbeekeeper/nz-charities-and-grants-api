@@ -1,0 +1,27 @@
+{
+  "id": 78365,
+  "registrationNumber": "CC64177",
+  "name": "Predator Free Tamahere Conservation Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.predatorfreetamahere.com",
+  "email": "PFTamahere@gmail.com",
+  "address": {
+    "line1": "Unit 69",
+    "line2": "46 Tamahere Drive",
+    "suburb": "Tamahere",
+    "city": "Hamilton",
+    "postcode": "3283"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/predatorfreetamahere",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T01:26:17Z"
+}

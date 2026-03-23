@@ -1,0 +1,27 @@
+{
+  "id": 56515,
+  "registrationNumber": "CC32722",
+  "name": "East End Surf Life Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://eastendslsc.org.nz",
+  "email": "eastendslsc@yahoo.com",
+  "address": {
+    "line1": "Nob's Line",
+    "line2": " ",
+    "suburb": "Strandon",
+    "city": "New Plymouth",
+    "postcode": "4341"
+  },
+  "nzbn": "9429042699385",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/eastendsurflifesavingclub/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T20:30:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34886,
+  "registrationNumber": "CC51359",
+  "name": "Activate Church Tokoroa Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.activatechurches.com/tokoroa",
+  "email": "gary.c@activatetok.com",
+  "address": {
+    "line1": "2 Victoria Place",
+    "line2": "Tokoroa 3420",
+    "suburb": " ",
+    "city": "Tokoroa",
+    "postcode": "3420"
+  },
+  "nzbn": "9429043272594",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Activate Church Tokoroa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T18:41:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 32687,
+  "registrationNumber": "CC48507",
+  "name": "Fair Food",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fairfood.org.nz",
+  "email": "melissa@fairfood.org.nz",
+  "address": {
+    "line1": "Unit 2",
+    "line2": "624 Rosebank Road",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429043242047",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/fairfoodnz/",
+    "twitter": "https://twitter.com/Fairfood"
+  },
+  "lastUpdated": "2025-12-21T22:05:50Z"
+}

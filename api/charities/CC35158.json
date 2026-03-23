@@ -1,0 +1,27 @@
+{
+  "id": 45255,
+  "registrationNumber": "CC35158",
+  "name": "Ngati Hangarau Marae Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mitch@nhmct.co.nz",
+  "address": {
+    "line1": "217 Bethlehem Road",
+    "line2": " ",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042690030",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-05T04:13:14Z"
+}

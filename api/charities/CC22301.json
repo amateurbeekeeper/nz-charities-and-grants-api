@@ -1,0 +1,27 @@
+{
+  "id": 55256,
+  "registrationNumber": "CC22301",
+  "name": "Te Aratu Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tearatu.org.nz",
+  "email": "julia@tearatu.org.nz",
+  "address": {
+    "line1": "34 Ferguson Place",
+    "line2": " ",
+    "suburb": "Fairy Springs",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429042834953",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T02:56:33Z"
+}

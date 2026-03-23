@@ -1,0 +1,27 @@
+{
+  "id": 33510,
+  "registrationNumber": "CC49724",
+  "name": "Rātā Foundation Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ratafoundation.org.nz",
+  "email": "leighton.evans@ratafoundation.org.nz",
+  "address": {
+    "line1": "4 Hazeldean Road",
+    "line2": " ",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429034882702",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T05:35:53Z"
+}

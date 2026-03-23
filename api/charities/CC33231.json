@@ -1,0 +1,27 @@
+{
+  "id": 45638,
+  "registrationNumber": "CC33231",
+  "name": "Fairfield Community Group Of Levin Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.fairfieldlevin.school.nz",
+  "email": "l_goldsmith@hotmail.com",
+  "address": {
+    "line1": "Fairfield School",
+    "line2": "89 Macarthur Street",
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": "9429042702320",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T18:55:56Z"
+}

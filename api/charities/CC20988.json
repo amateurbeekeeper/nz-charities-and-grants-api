@@ -1,0 +1,27 @@
+{
+  "id": 54020,
+  "registrationNumber": "CC20988",
+  "name": "Victoria University Of Wellington",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-02-07T00:00:00Z",
+  "dateDeregistered": "2009-07-01T00:00:00Z",
+  "website": null,
+  "email": "fsaccount-team@vuw.ac.nz",
+  "address": {
+    "line1": "Kelburn Parade",
+    "line2": null,
+    "suburb": "Kelburn",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T00:55:45Z"
+}

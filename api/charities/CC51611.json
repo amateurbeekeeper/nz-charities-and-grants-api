@@ -1,0 +1,27 @@
+{
+  "id": 65369,
+  "registrationNumber": "CC51611",
+  "name": "St Andrew's Presbyterian Church, Invercargill",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gmeyer700@gmail.com",
+  "address": {
+    "line1": "141 Manse St, ",
+    "line2": " ",
+    "suburb": "Appleby",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:03:32Z"
+}

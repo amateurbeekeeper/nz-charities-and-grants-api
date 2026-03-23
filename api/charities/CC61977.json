@@ -1,0 +1,27 @@
+{
+  "id": 75533,
+  "registrationNumber": "CC61977",
+  "name": "Te Ara Ahuru Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tearaahuru.nz",
+  "email": "tearaahurutrust@outlook.com",
+  "address": {
+    "line1": "PO Box 104146",
+    "line2": "Lincoln North",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0654"
+  },
+  "nzbn": "9429051611385",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/tearaahuru",
+    "twitter": "https://twitter.com/tearaahuru"
+  },
+  "lastUpdated": "2025-09-16T00:23:18Z"
+}

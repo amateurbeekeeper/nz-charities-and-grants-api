@@ -1,0 +1,27 @@
+{
+  "id": 32880,
+  "registrationNumber": "CC49055",
+  "name": "Third Space Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-04-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.thirdspace.org.nz",
+  "email": "animoa.goold@gmail.com",
+  "address": {
+    "line1": "37 Oranga Avenue",
+    "line2": "Phoenix Apartments 135 Grafton Road",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043257744",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/thirdspacenz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:19:41Z"
+}

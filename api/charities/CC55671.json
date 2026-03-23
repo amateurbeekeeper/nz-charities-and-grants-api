@@ -1,0 +1,27 @@
+{
+  "id": 69321,
+  "registrationNumber": "CC55671",
+  "name": "The Art for All Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "artforalltrust@gmail.com",
+  "address": {
+    "line1": "146 Lucerne Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429046290298",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@artforallnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T00:17:13Z"
+}

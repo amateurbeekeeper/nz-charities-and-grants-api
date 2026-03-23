@@ -1,0 +1,27 @@
+{
+  "id": 52663,
+  "registrationNumber": "CC20421",
+  "name": "University of Auckland",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.auckland.ac.nz",
+  "email": "ma.shepherd@auckland.ac.nz",
+  "address": {
+    "line1": "THE REGISTRY",
+    "line2": "22 Princes Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429041925300",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T23:19:11Z"
+}

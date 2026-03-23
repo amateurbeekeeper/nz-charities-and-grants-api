@@ -1,0 +1,27 @@
+{
+  "id": 50690,
+  "registrationNumber": "CC44711",
+  "name": "Ngati Manawa Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-07-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ngati-manawa.org/charitable-trust",
+  "email": "charlie@pkftauranga.co.nz",
+  "address": {
+    "line1": "23 Brown Street",
+    "line2": "Tauranga 3110",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T01:02:41Z"
+}

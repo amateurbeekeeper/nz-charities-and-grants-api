@@ -1,0 +1,27 @@
+{
+  "id": 63741,
+  "registrationNumber": "CC39287",
+  "name": "Auckland Mountain Bike Club Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-04-16T00:00:00Z",
+  "dateDeregistered": "2012-05-21T00:00:00Z",
+  "website": "http://www.aucklandmtb.co.nz",
+  "email": "tyrecorp@xtra.co.nz",
+  "address": {
+    "line1": "PO Box 8393",
+    "line2": "Symonds Street",
+    "suburb": "Auckland",
+    "city": null,
+    "postcode": "1150"
+  },
+  "nzbn": "9429043027859",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:59:45Z"
+}

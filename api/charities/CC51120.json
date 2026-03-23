@@ -1,0 +1,27 @@
+{
+  "id": 34662,
+  "registrationNumber": "CC51120",
+  "name": "Living Streams Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@streams.org.nz",
+  "address": {
+    "line1": "537 Mercer Ferry Road",
+    "line2": "RD 1",
+    "suburb": "Pukekawa",
+    "city": "Tuakau",
+    "postcode": "2696"
+  },
+  "nzbn": "9429043286850",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:38:42Z"
+}

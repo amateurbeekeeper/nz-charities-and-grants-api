@@ -1,0 +1,27 @@
+{
+  "id": 70314,
+  "registrationNumber": "CC56668",
+  "name": "Te Tuhi Mareikura Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tetuhimareikura.org",
+  "email": "artmaori@gmail.com",
+  "address": {
+    "line1": "229A Maunganui Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429043279913",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/toi kiri",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T22:44:07Z"
+}

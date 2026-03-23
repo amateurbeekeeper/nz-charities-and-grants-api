@@ -1,0 +1,27 @@
+{
+  "id": 72770,
+  "registrationNumber": "CC59163",
+  "name": "Charity NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.charitynz.org",
+  "email": "athar.awan@charitynz.org",
+  "address": {
+    "line1": "5 Heaton Terrace",
+    "line2": " ",
+    "suburb": "Brooklyn",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429049516890",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T22:48:06Z"
+}

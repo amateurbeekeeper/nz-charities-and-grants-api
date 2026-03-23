@@ -1,0 +1,27 @@
+{
+  "id": 48182,
+  "registrationNumber": "CC30371",
+  "name": "Faultline Chorus Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.faultline.org.nz/",
+  "email": "faultlinechorustreasurer@gmail.com",
+  "address": {
+    "line1": "6 Whitu Street",
+    "line2": " ",
+    "suburb": "Khandallah",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429043131396",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/FaultlineChorus",
+    "twitter": "@FaultlineChorus"
+  },
+  "lastUpdated": "2026-02-01T08:28:22Z"
+}

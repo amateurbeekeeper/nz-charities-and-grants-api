@@ -1,0 +1,27 @@
+{
+  "id": 69512,
+  "registrationNumber": "CC55860",
+  "name": "HARK",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-07-09T00:00:00Z",
+  "dateDeregistered": "2021-04-15T00:00:00Z",
+  "website": "http://www.hark.org.nz",
+  "email": "mike@younglife.org.nz",
+  "address": {
+    "line1": "483 Spencer Road",
+    "line2": "RD 5",
+    "suburb": "Lake Tarawera",
+    "city": "Rotorua",
+    "postcode": "3076"
+  },
+  "nzbn": "9429043303199",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-04-11T00:07:46Z"
+}

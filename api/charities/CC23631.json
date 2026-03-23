@@ -1,0 +1,27 @@
+{
+  "id": 40268,
+  "registrationNumber": "CC23631",
+  "name": "Sport Auckland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sportauckland.co.nz",
+  "email": "angelad@sportauckland.co.nz",
+  "address": {
+    "line1": "Level 4, Alexandra Park Function Centre",
+    "line2": "Gate B, Greenlane West",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1344"
+  },
+  "nzbn": "9429042585213",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SportAKL",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T05:09:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43721,
+  "registrationNumber": "CC32127",
+  "name": "St. Thomas Marthoma Church, Auckland New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.marthoma.nz",
+  "email": "philipkuruvilla@outlook.com",
+  "address": {
+    "line1": "234 Atkinson Road",
+    "line2": "167 Whitney Street",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429043034307",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:30:29Z"
+}

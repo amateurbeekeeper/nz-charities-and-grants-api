@@ -1,0 +1,27 @@
+{
+  "id": 61504,
+  "registrationNumber": "CC42418",
+  "name": "Pharmaceutical Society of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.psnz.org.nz",
+  "email": "d.robinson@psnz.org.nz",
+  "address": {
+    "line1": "56 Victoria Street",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043103508",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T02:19:56Z"
+}

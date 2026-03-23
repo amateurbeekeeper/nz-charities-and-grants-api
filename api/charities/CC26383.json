@@ -1,0 +1,27 @@
+{
+  "id": 58660,
+  "registrationNumber": "CC26383",
+  "name": "Canterbury Underwater Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://canterburyunderwater.org.nz",
+  "email": "mark.buckland.nz@gmail.com",
+  "address": {
+    "line1": "PO Box 2287",
+    "line2": " ",
+    "suburb": "Christchurch CBD",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": "9429042604921",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:14:32Z"
+}

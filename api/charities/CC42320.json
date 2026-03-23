@@ -1,0 +1,27 @@
+{
+  "id": 50930,
+  "registrationNumber": "CC42320",
+  "name": "New Zealand African Welfare Service Board",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-09-17T00:00:00Z",
+  "dateDeregistered": "2023-03-21T00:00:00Z",
+  "website": "http://www.africanwelfare.org.nz",
+  "email": "famponsem@hotmail.com",
+  "address": {
+    "line1": "35 Railside Avenue",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "612"
+  },
+  "nzbn": "9429043204113",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "newzealandafricanwelfareservicetrust",
+    "twitter": null
+  },
+  "lastUpdated": "2023-03-20T22:03:59Z"
+}

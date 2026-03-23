@@ -1,0 +1,27 @@
+{
+  "id": 67703,
+  "registrationNumber": "CC54016",
+  "name": "Friends of 42 Traverse Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-11-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.friendsof42traverse.nz",
+  "email": "Mike.trotter@gmail.com",
+  "address": {
+    "line1": "34 Mahoe Avenue",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429043306664",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T02:05:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51618,
+  "registrationNumber": "CC10394",
+  "name": "Excel Ministries Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.excel.ac.nz",
+  "email": "john@excel.ac.nz",
+  "address": {
+    "line1": "1-20 Portage Road",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429042701538",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T07:38:38Z"
+}

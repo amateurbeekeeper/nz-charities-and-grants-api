@@ -1,0 +1,27 @@
+{
+  "id": 75835,
+  "registrationNumber": "CC62286",
+  "name": "Dunedin Archery Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dunedinarcheryclub.co.nz",
+  "email": "treasurer@dunedinarcheryclub.co.nz",
+  "address": {
+    "line1": "Chingford Park",
+    "line2": " Afton Terrace",
+    "suburb": "North East Valley",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Dunedin Archery Club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T19:11:48Z"
+}

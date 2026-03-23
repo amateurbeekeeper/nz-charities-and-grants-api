@@ -1,0 +1,27 @@
+{
+  "id": 34108,
+  "registrationNumber": "CC50497",
+  "name": "The Oropi Settlers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.oropihall.co.nz/",
+  "email": "treasurer@oropihall.co.nz",
+  "address": {
+    "line1": "352 Oropi Gorge Road",
+    "line2": "RD 3",
+    "suburb": "Oropi",
+    "city": "Tauranga",
+    "postcode": "3173"
+  },
+  "nzbn": "9429042872313",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T23:42:02Z"
+}

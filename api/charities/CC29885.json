@@ -1,0 +1,27 @@
+{
+  "id": 46483,
+  "registrationNumber": "CC29885",
+  "name": "Featherston Volunteer Fire Brigade ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sara.edney@fireandemergency.nz",
+  "address": {
+    "line1": "46 Fox Street",
+    "line2": "Featherston 5710",
+    "suburb": " ",
+    "city": "Featherston",
+    "postcode": "5710"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:04:59Z"
+}

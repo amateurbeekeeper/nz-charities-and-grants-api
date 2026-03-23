@@ -1,0 +1,27 @@
+{
+  "id": 40142,
+  "registrationNumber": "CC29456",
+  "name": "Friends of Matapouri Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2014-12-17T00:00:00Z",
+  "website": "http://www.friendsofmatapouri.co.nz",
+  "email": "john@jwal.co.nz",
+  "address": {
+    "line1": "954b Matapouri Road",
+    "line2": "RD 3",
+    "suburb": null,
+    "city": "Whangarei",
+    "postcode": "173"
+  },
+  "nzbn": "9429043138319",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:51:10Z"
+}

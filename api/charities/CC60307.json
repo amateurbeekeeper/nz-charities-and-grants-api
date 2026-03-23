@@ -1,0 +1,27 @@
+{
+  "id": 73899,
+  "registrationNumber": "CC60307",
+  "name": "Neighbourhood NZ Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://neighbourhoodnz.wixsite.com/neighbourhood",
+  "email": "contact@neighbourhoodnz.com",
+  "address": {
+    "line1": "300 Point Chevalier Road",
+    "line2": " ",
+    "suburb": "Point Chevalier",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429050002467",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WeAreTheNeighbourhood/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-05-15T02:15:12Z"
+}

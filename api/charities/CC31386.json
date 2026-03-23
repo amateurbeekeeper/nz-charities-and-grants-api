@@ -1,0 +1,27 @@
+{
+  "id": 48436,
+  "registrationNumber": "CC31386",
+  "name": "Kaikoura Vineyard Christian Fellowship",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "joyeric@slingshot.co.nz",
+  "address": {
+    "line1": "23 Bay Paddock Road",
+    "line2": "RD 1",
+    "suburb": "Hapuku",
+    "city": "Kaikoura",
+    "postcode": "7371"
+  },
+  "nzbn": "9429042623861",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-21T19:42:13Z"
+}

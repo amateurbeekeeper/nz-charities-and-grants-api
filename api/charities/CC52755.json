@@ -1,0 +1,27 @@
+{
+  "id": 66491,
+  "registrationNumber": "CC52755",
+  "name": "Anglican Diocese of Christchurch - Parish of Upper Riccarton-Yaldhurst",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.stpeterschurch.nz",
+  "email": "lynn@copeshearing.co.nz",
+  "address": {
+    "line1": "22 Main South Road",
+    "line2": " ",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-04T19:35:33Z"
+}

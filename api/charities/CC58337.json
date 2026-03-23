@@ -1,0 +1,27 @@
+{
+  "id": 71952,
+  "registrationNumber": "CC58337",
+  "name": "Modus Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-10-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://modusfoundation.co.nz",
+  "email": "david@modusgroup.co.nz",
+  "address": {
+    "line1": "Unit 7",
+    "line2": "75 Peterborough Street",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T19:48:14Z"
+}

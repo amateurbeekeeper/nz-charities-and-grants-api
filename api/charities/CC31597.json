@@ -1,0 +1,27 @@
+{
+  "id": 58089,
+  "registrationNumber": "CC31597",
+  "name": "Gisborne Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.toylibrary.co.nz",
+  "email": "alisonmoorcroft@hotmail.co.nz",
+  "address": {
+    "line1": "91 Innes Street",
+    "line2": " ",
+    "suburb": "Awapuni",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429043082209",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Gisborne-Toy-Library-173051836042431/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T20:05:29Z"
+}

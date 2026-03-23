@@ -1,0 +1,27 @@
+{
+  "id": 68123,
+  "registrationNumber": "CC54448",
+  "name": "Reconnect",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://reconnect.nz",
+  "email": "team@reconnectnz.org",
+  "address": {
+    "line1": "Flat 18",
+    "line2": "3 Ngahura Street",
+    "suburb": "Eden Terrace",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429048033558",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/reconnectnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T22:37:34Z"
+}

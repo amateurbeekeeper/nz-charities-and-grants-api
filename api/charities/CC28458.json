@@ -1,0 +1,27 @@
+{
+  "id": 44007,
+  "registrationNumber": "CC28458",
+  "name": "Tikokino Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Andrew.Robertson3@fireandemergency.nz",
+  "address": {
+    "line1": "40 Owen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tikokino",
+    "postcode": "4273"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Tikokinofire",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:40:30Z"
+}

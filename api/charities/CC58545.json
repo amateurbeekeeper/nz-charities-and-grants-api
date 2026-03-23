@@ -1,0 +1,27 @@
+{
+  "id": 72160,
+  "registrationNumber": "CC58545",
+  "name": "Bible Centre Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "francis.a.esguerra@gmail.com",
+  "address": {
+    "line1": "11 Korau Grove",
+    "line2": " ",
+    "suburb": "Stokes Valley",
+    "city": "Lower Hutt",
+    "postcode": "5019"
+  },
+  "nzbn": "9429048791519",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BibleCentreLH",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:03:48Z"
+}

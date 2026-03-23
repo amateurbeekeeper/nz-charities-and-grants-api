@@ -1,0 +1,27 @@
+{
+  "id": 78025,
+  "registrationNumber": "CC63828",
+  "name": "Animal Policy NZ Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mandy@animalpolicyinternational.org",
+  "address": {
+    "line1": "40 Redwood Avenue",
+    "line2": null,
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": "9429052792854",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T08:25:42Z"
+}

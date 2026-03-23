@@ -1,0 +1,27 @@
+{
+  "id": 66303,
+  "registrationNumber": "CC52571",
+  "name": "Life Education Trust Rotorua Area",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-10-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lifeeducation.org.nz",
+  "email": "rotorua@lifeedtrust.org.nz",
+  "address": {
+    "line1": "244 Te Ngae Road",
+    "line2": " ",
+    "suburb": "Ngapuna",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T20:09:24Z"
+}

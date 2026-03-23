@@ -1,0 +1,27 @@
+{
+  "id": 60206,
+  "registrationNumber": "CC28352",
+  "name": "Te Kotahitanga E Mahi Kaha Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tkemkt.co.nz",
+  "email": "admin@tkemkt.co.nz",
+  "address": {
+    "line1": "74 Guy Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaikohe",
+    "postcode": "0405"
+  },
+  "nzbn": "9429042863892",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tkemkt",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:04:50Z"
+}

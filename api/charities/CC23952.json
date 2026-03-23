@@ -1,0 +1,27 @@
+{
+  "id": 41577,
+  "registrationNumber": "CC23952",
+  "name": "Kia Puāwai",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kiapuawai.nz",
+  "email": "Russell.Fernandes@kiapuawai.nz",
+  "address": {
+    "line1": "510 Mount Wellington Highway",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429042939924",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kiapuawai.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T18:42:08Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44824,
+  "registrationNumber": "CC37670",
+  "name": "West Coast Art in the Park",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.artinthepark.co.nz",
+  "email": "mtstudio@snap.net.nz",
+  "address": {
+    "line1": "52 Marsden Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": "9429043167739",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Art in the Park",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T02:18:52Z"
+}

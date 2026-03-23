@@ -1,0 +1,27 @@
+{
+  "id": 39748,
+  "registrationNumber": "CC23785",
+  "name": "Brain Injury Waikato Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://braininjurywaikato.org.nz/",
+  "email": "fiona@braininjurywaikato.org.nz",
+  "address": {
+    "line1": "4 Tennyson Road",
+    "line2": " ",
+    "suburb": "Enderley",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": "9429042720560",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/BrainInjuryWaikato",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T20:35:37Z"
+}

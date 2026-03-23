@@ -1,0 +1,27 @@
+{
+  "id": 77726,
+  "registrationNumber": "CC63526",
+  "name": "Borrow Box Project NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-07-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "agregorynz@gmail.com",
+  "address": {
+    "line1": "7B Fynes Avenue",
+    "line2": " ",
+    "suburb": "Stonefields",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/stjamesborrowbox",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T07:44:38Z"
+}

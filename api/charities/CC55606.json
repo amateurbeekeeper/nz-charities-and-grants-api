@@ -1,0 +1,27 @@
+{
+  "id": 69251,
+  "registrationNumber": "CC55606",
+  "name": "Nukuhau Marae",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nukuhau@tuwharetoa.co.nz",
+  "address": {
+    "line1": "14 Morison Street",
+    "line2": " ",
+    "suburb": "Nukuhau",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Nukuhau Marae",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T23:14:29Z"
+}

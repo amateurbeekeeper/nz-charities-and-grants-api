@@ -1,0 +1,27 @@
+{
+  "id": 55546,
+  "registrationNumber": "CC23332",
+  "name": "Growers Trading Co Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chair@canterburygrowers.nz",
+  "address": {
+    "line1": "38 Madeleys Road",
+    "line2": "RD 2",
+    "suburb": "Clarkville",
+    "city": "Kaiapoi",
+    "postcode": "7692"
+  },
+  "nzbn": "9429031939850",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-17T22:43:32Z"
+}

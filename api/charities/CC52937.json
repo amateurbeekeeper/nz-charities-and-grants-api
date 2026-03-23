@@ -1,0 +1,27 @@
+{
+  "id": 66667,
+  "registrationNumber": "CC52937",
+  "name": "Parnell Heritage Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-08-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.parnellheritage.org.nz ",
+  "email": "alastair@alastairbell.com",
+  "address": {
+    "line1": "Flat 13",
+    "line2": "16 St Stephens Avenue",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429043155262",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Parnell heritage Inc.",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:33:54Z"
+}

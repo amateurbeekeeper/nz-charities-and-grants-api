@@ -1,0 +1,27 @@
+{
+  "id": 43544,
+  "registrationNumber": "CC36103",
+  "name": "Search and Rescue Karamea",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2015-09-29T00:00:00Z",
+  "website": null,
+  "email": "Karamea@landsar.org.nz",
+  "address": {
+    "line1": "37 Wharf Road",
+    "line2": "RD 3",
+    "suburb": null,
+    "city": "Karamea",
+    "postcode": "7893"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:32:43Z"
+}

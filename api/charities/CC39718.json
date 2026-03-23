@@ -1,0 +1,27 @@
+{
+  "id": 44464,
+  "registrationNumber": "CC39718",
+  "name": "Primary Health Care Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "liz.miller@pinnacle.health.nz",
+  "address": {
+    "line1": "711 Victoria Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429034374887",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T19:54:44Z"
+}

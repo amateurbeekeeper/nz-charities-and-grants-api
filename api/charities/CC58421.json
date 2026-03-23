@@ -1,0 +1,27 @@
+{
+  "id": 72036,
+  "registrationNumber": "CC58421",
+  "name": "POU Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lori.king@poulimited.co.nz",
+  "address": {
+    "line1": "24 Hetherington Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Huntly",
+    "postcode": "3700"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:30:05Z"
+}

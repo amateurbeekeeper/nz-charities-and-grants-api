@@ -1,0 +1,27 @@
+{
+  "id": 36099,
+  "registrationNumber": "CC45150",
+  "name": "The Murrayfield Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "goreaptreasurer@gmail.com",
+  "address": {
+    "line1": "9 Bury Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gore",
+    "postcode": "9710"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T19:26:10Z"
+}

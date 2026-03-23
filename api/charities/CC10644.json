@@ -1,0 +1,27 @@
+{
+  "id": 51403,
+  "registrationNumber": "CC10644",
+  "name": "Waikato Environment Centre ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.goeco.org.nz",
+  "email": "manager@goeco.org.nz",
+  "address": {
+    "line1": "25A Devon Road",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043015849",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/goecowaikato",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T02:51:38Z"
+}

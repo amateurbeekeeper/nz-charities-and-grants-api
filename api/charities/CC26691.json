@@ -1,0 +1,27 @@
+{
+  "id": 55638,
+  "registrationNumber": "CC26691",
+  "name": "YMCA Of Greater Wellington Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ycentral.nz",
+  "email": "Funding@ycentral.nz",
+  "address": {
+    "line1": "67 Pilmuir Street",
+    "line2": " ",
+    "suburb": "Boulcott",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429043141579",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T02:19:18Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65233,
+  "registrationNumber": "CC51450",
+  "name": "The Waitaki Valley Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-02-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "clinton.miller@findex.co.nz",
+  "address": {
+    "line1": "1 Coquet Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429043043422",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T02:53:34Z"
+}

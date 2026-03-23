@@ -1,0 +1,27 @@
+{
+  "id": 61286,
+  "registrationNumber": "CC47257",
+  "name": "Rakeiao Maori Reservation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-01-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "francis.curtis@xtra.co.nz",
+  "address": {
+    "line1": "Curtis Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rotoiti",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T19:25:53Z"
+}

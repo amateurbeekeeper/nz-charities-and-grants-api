@@ -1,0 +1,27 @@
+{
+  "id": 60093,
+  "registrationNumber": "CC32962",
+  "name": "Christchurch Schools' Music Festival Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.musicfestival.school.nz",
+  "email": "admin@musicfestival.school.nz",
+  "address": {
+    "line1": "14 Cedar Place",
+    "line2": "Rangiora 7400",
+    "suburb": "Christchurch Central",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": "9429042612384",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Christchurch Schools' Music Festival",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T05:04:47Z"
+}

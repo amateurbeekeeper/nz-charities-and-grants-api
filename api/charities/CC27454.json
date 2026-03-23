@@ -1,0 +1,27 @@
+{
+  "id": 56683,
+  "registrationNumber": "CC27454",
+  "name": "Akaroa Toy Library",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gemsbug@hotmail.com",
+  "address": {
+    "line1": "1 Ngaio Grove",
+    "line2": "RD 1",
+    "suburb": "Robinsons Bay",
+    "city": "Akaroa",
+    "postcode": "7581"
+  },
+  "nzbn": "9429043027125",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Akaroa-Toy-Library-562091197264512/?ref=aymt_homepage_panel",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T03:46:12Z"
+}

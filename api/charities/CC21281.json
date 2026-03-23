@@ -1,0 +1,27 @@
+{
+  "id": 53442,
+  "registrationNumber": "CC21281",
+  "name": "Christ Sanctuary",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.christsanctuary.org.nz",
+  "email": "lmcleay@yahoo.com",
+  "address": {
+    "line1": "50 Queen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429043173754",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/ChristSanctuary/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T01:39:12Z"
+}

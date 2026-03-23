@@ -1,0 +1,27 @@
+{
+  "id": 41570,
+  "registrationNumber": "CC42523",
+  "name": "Cambridge Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cambridgegolf.co.nz",
+  "email": "accounts@cambridgegolf.co.nz",
+  "address": {
+    "line1": "112 Tirau Road",
+    "line2": "RD 4",
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3496"
+  },
+  "nzbn": "9429042600558",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-08T21:46:14Z"
+}

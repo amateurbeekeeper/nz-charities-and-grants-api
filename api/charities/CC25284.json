@@ -1,0 +1,27 @@
+{
+  "id": 42018,
+  "registrationNumber": "CC25284",
+  "name": "Equip",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.equip.net.nz",
+  "email": "gillian.bertram@elimchristiancentre.org.nz",
+  "address": {
+    "line1": "WINDSOR PARK CENTRE",
+    "line2": "550 East Coast Road",
+    "suburb": "Windsor Park",
+    "city": "Auckland",
+    "postcode": "630"
+  },
+  "nzbn": "9429043124800",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T18:31:27Z"
+}

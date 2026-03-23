@@ -1,0 +1,27 @@
+{
+  "id": 36038,
+  "registrationNumber": "CC45510",
+  "name": "Auckland Fire Brigades Museum and Historical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-10-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.afbhs.co.nz",
+  "email": "admin@afbhs.co.nz",
+  "address": {
+    "line1": "2 Poynton Terrace",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043312474",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/firehistorical/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-03T01:53:48Z"
+}

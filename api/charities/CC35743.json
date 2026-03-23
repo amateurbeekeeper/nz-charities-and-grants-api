@@ -1,0 +1,27 @@
+{
+  "id": 63070,
+  "registrationNumber": "CC35743",
+  "name": "Marlborough Falcon Conservation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-12-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.MFCT.org.nz",
+  "email": "accounts@kareareafalcon.org",
+  "address": {
+    "line1": "327 Brancott Road",
+    "line2": "RD 2",
+    "suburb": "Fairhall",
+    "city": "Blenheim",
+    "postcode": "7272"
+  },
+  "nzbn": "9429043317196",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T01:18:12Z"
+}

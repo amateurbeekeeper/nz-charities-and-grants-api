@@ -1,0 +1,27 @@
+{
+  "id": 71605,
+  "registrationNumber": "CC57979",
+  "name": "Social Change Collective",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.socialchangecollectivenz.com",
+  "email": "wellington@socialchangecollectivenz.com",
+  "address": {
+    "line1": "Unit 11",
+    "line2": "36 Central Terrace",
+    "suburb": "Kelburn",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429046425515",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/socialchangecollectivenz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T01:38:23Z"
+}

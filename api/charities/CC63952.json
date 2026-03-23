@@ -1,0 +1,27 @@
+{
+  "id": 78144,
+  "registrationNumber": "CC63952",
+  "name": "Luminara Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-11-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "thomasreen@yahoo.com",
+  "address": {
+    "line1": "101 Orr Road",
+    "line2": "RD 11",
+    "suburb": "Waimatua",
+    "city": "Invercargill",
+    "postcode": "9877"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T08:26:20Z"
+}

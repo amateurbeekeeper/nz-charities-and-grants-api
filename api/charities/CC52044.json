@@ -1,0 +1,27 @@
+{
+  "id": 65794,
+  "registrationNumber": "CC52044",
+  "name": "Maungatua Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "heattrev@gmail.com",
+  "address": {
+    "line1": "10 Holyhead Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Outram",
+    "postcode": "9019"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Maungatua Presbyterian Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:34:19Z"
+}

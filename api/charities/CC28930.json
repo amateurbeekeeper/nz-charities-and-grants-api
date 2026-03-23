@@ -1,0 +1,27 @@
+{
+  "id": 49171,
+  "registrationNumber": "CC28930",
+  "name": "Ngongotaha Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "aidan.reynolds@fireandemergency.nz",
+  "address": {
+    "line1": "2 Kokiri Street",
+    "line2": "Ngongotaha",
+    "suburb": "Ngongotaha",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:53:30Z"
+}

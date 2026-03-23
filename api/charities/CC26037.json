@@ -1,0 +1,27 @@
+{
+  "id": 58367,
+  "registrationNumber": "CC26037",
+  "name": "Spiritual Growth Ministries Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sgm.org.nz",
+  "email": "admin@sgm.org.nz",
+  "address": {
+    "line1": "Unit 2",
+    "line2": "19 Fairview Street",
+    "suburb": "Somerfield",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429043009343",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.sgm.org.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T02:36:29Z"
+}

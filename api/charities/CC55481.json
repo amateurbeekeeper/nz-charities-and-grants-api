@@ -1,0 +1,27 @@
+{
+  "id": 69138,
+  "registrationNumber": "CC55481",
+  "name": "Queen Charlotte Yacht Club Inc",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.qcyc.org.nz",
+  "email": "secretary@qcyc.org.nz",
+  "address": {
+    "line1": "Shelley Beach",
+    "line2": null,
+    "suburb": " ",
+    "city": "Picton",
+    "postcode": "7250"
+  },
+  "nzbn": "9429042813804",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-07T07:39:24Z"
+}

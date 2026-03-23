@@ -1,0 +1,27 @@
+{
+  "id": 72340,
+  "registrationNumber": "CC58728",
+  "name": "Whāngai Ora",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whangaiora.org.nz",
+  "email": "trust@whangaiora.org.nz",
+  "address": {
+    "line1": "117 Ruahine Street",
+    "line2": " ",
+    "suburb": "Roslyn",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429048924580",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/whangaiora",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-28T03:13:30Z"
+}

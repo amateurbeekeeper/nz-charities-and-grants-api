@@ -1,0 +1,27 @@
+{
+  "id": 74216,
+  "registrationNumber": "CC60631",
+  "name": "Te Manawa Ora Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "whakatipurangahou@hotmail.com",
+  "address": {
+    "line1": "32 Doreen Street",
+    "line2": " ",
+    "suburb": "Aranui",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429050870196",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-15T02:23:09Z"
+}

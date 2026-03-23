@@ -1,0 +1,27 @@
+{
+  "id": 63786,
+  "registrationNumber": "CC39543",
+  "name": "The Street Properties Management Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thestreet.org.nz",
+  "email": "sam.lienert@thestreet.org.nz",
+  "address": {
+    "line1": "21 Hania Street",
+    "line2": " ",
+    "suburb": "Mount Victoria",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429032389364",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:04Z"
+}

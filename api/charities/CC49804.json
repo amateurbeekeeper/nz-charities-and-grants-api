@@ -1,0 +1,27 @@
+{
+  "id": 33233,
+  "registrationNumber": "CC49804",
+  "name": "Service Skills Institute Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2012-12-20T00:00:00Z",
+  "dateDeregistered": "2023-05-22T00:00:00Z",
+  "website": null,
+  "email": "accounts@serviceiq.org.nz",
+  "address": {
+    "line1": "Plimmer Towers",
+    "line2": "2 Gilmer Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043325641",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-06-05T07:01:24Z"
+}

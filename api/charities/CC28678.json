@@ -1,0 +1,27 @@
+{
+  "id": 40895,
+  "registrationNumber": "CC28678",
+  "name": "Auckland Provincial Fire Brigades Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2020-07-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.apfba.org.nz",
+  "email": "shelley.chaney@fireandemergency.nz",
+  "address": {
+    "line1": "40 Whitby Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whitianga",
+    "postcode": "3510"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/AucklandProvincial",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:42:42Z"
+}

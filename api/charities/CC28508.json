@@ -1,0 +1,27 @@
+{
+  "id": 56704,
+  "registrationNumber": "CC28508",
+  "name": "Merivale Community Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "manager@merivale.org.nz",
+  "address": {
+    "line1": "10 Kesteven Avenue",
+    "line2": " ",
+    "suburb": "Parkvale",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042764069",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MerivaleCommunityCentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T23:29:03Z"
+}

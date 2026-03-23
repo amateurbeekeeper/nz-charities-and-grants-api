@@ -1,0 +1,27 @@
+{
+  "id": 45826,
+  "registrationNumber": "CC34156",
+  "name": "North Shore Housing Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nsht@xtra.co.nz",
+  "address": {
+    "line1": "1-7 The Strand",
+    "line2": "3 Gibbons Road",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429042694700",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:31:05Z"
+}

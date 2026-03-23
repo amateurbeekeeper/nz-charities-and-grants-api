@@ -1,0 +1,27 @@
+{
+  "id": 62521,
+  "registrationNumber": "CC36353",
+  "name": "British Ballet Organization - New Zealand Branch",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-08-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.bbo.org.nz",
+  "email": "mike.rudd@bakertillysr.nz",
+  "address": {
+    "line1": "Level 13, 23 Abert Street",
+    "line2": null,
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429052765780",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T01:39:38Z"
+}

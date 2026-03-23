@@ -1,0 +1,27 @@
+{
+  "id": 70435,
+  "registrationNumber": "CC56799",
+  "name": "BayTrust Charities Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.baytrust.org.nz",
+  "email": "yvonne@baytrust.org.nz",
+  "address": {
+    "line1": "752 Cameron Road",
+    "line2": " ",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429047522657",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T01:44:57Z"
+}

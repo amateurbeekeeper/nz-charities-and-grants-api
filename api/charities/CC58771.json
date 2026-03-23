@@ -1,0 +1,27 @@
+{
+  "id": 72378,
+  "registrationNumber": "CC58771",
+  "name": "Vine Design Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.vinedesigntrust.com",
+  "email": "peter@vinedesigntrust.com",
+  "address": {
+    "line1": "16 Armidale Street",
+    "line2": " ",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": "9429049142983",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-26T20:06:54Z"
+}

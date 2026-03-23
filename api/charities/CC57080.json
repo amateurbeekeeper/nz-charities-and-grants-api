@@ -1,0 +1,27 @@
+{
+  "id": 70713,
+  "registrationNumber": "CC57080",
+  "name": "Rākau Tautoko Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rakautautoko.com",
+  "email": "tara@rakautautoko.com",
+  "address": {
+    "line1": "27 Taratoa Street",
+    "line2": " ",
+    "suburb": "Point England",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429043379002",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RakauTautoko",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T18:11:38Z"
+}

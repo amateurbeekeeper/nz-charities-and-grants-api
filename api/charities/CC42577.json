@@ -1,0 +1,27 @@
+{
+  "id": 46907,
+  "registrationNumber": "CC42577",
+  "name": "Snells Beach School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.snellsbeach.school.nz/",
+  "email": "pta@snellsbeach.school.nz",
+  "address": {
+    "line1": "62 Dawson Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Snells Beach",
+    "postcode": "0920"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Snells Beach School PTA",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-29T19:16:07Z"
+}

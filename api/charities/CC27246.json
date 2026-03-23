@@ -1,0 +1,27 @@
+{
+  "id": 54229,
+  "registrationNumber": "CC27246",
+  "name": "Catholic Bishops Conference Securities Ltd",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.catholic.org.nz",
+  "email": "secretariat@nzcbc.org.nz",
+  "address": {
+    "line1": "Level 5",
+    "line2": "204 Thorndon Quay",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429041261613",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:50Z"
+}

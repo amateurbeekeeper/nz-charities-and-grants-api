@@ -1,0 +1,27 @@
+{
+  "id": 38526,
+  "registrationNumber": "CC47389",
+  "name": "NZ Notable Trees Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-02-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.notabletrees.org.nz",
+  "email": "brad.cadwallader@cropp-place.nz",
+  "address": {
+    "line1": "33 Cropp Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": "9429052187223",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "@Notable_Trees"
+  },
+  "lastUpdated": "2026-02-02T03:41:07Z"
+}

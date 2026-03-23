@@ -1,0 +1,27 @@
+{
+  "id": 67445,
+  "registrationNumber": "CC53734",
+  "name": "Community Art Works Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-09-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "c.a.works@xtra.co.nz",
+  "address": {
+    "line1": "11 Hastings Street",
+    "line2": null,
+    "suburb": "Washington Valley",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043107216",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Community Art Works",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T00:30:55Z"
+}

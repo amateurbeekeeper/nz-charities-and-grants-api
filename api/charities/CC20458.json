@@ -1,0 +1,27 @@
+{
+  "id": 53716,
+  "registrationNumber": "CC20458",
+  "name": "Kaipara Community Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kcht.co.nz",
+  "email": "devans@kcht.co.nz",
+  "address": {
+    "line1": "4 Parore Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Dargaville",
+    "postcode": "0310"
+  },
+  "nzbn": "9429043029273",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T21:10:13Z"
+}

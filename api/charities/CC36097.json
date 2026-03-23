@@ -1,0 +1,27 @@
+{
+  "id": 42271,
+  "registrationNumber": "CC36097",
+  "name": "Karori Childcare Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.karorichildcare.org.nz",
+  "email": "manager@karorichildcare.org.nz",
+  "address": {
+    "line1": "47 Beauchamp Street",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429042605775",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T02:39:36Z"
+}

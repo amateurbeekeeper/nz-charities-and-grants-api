@@ -1,0 +1,27 @@
+{
+  "id": 63302,
+  "registrationNumber": "CC39704",
+  "name": "Altrusa Club of Te Kuiti",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mary.l.scobie@gmail.com",
+  "address": {
+    "line1": "12 Reynolds Road",
+    "line2": "RD 6",
+    "suburb": "Te Kūiti",
+    "city": "Te Kuiti",
+    "postcode": "3986"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:17:11Z"
+}

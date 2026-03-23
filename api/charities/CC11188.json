@@ -1,0 +1,27 @@
+{
+  "id": 52305,
+  "registrationNumber": "CC11188",
+  "name": "The Friends Of The Museum Of New Zealand Te Papa Tongarewa Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.friendsoftepapa.org.nz",
+  "email": "tim.steel6@gmail.com",
+  "address": {
+    "line1": "Te Papa",
+    "line2": "Cable Street",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042875116",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T22:51:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44645,
+  "registrationNumber": "CC33005",
+  "name": "Awhina Whanau Services Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-06-30T00:00:00Z",
+  "website": "https://awhinawhanauservices.org",
+  "email": "tracey@aws.org.nz",
+  "address": {
+    "line1": "116 Queen Street East",
+    "line2": " ",
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429042589280",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://business.facebook.com/awhinawhanauservices/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T06:04:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55623,
+  "registrationNumber": "CC27119",
+  "name": "Southland Multicultural Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.southlandmulticultural.co.nz",
+  "email": "office@southlandmulticultural.co.nz",
+  "address": {
+    "line1": "46 Kelvin Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429049143256",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/southlandmulticulturaltrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T18:40:23Z"
+}

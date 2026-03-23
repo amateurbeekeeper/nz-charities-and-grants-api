@@ -1,0 +1,27 @@
+{
+  "id": 37835,
+  "registrationNumber": "CC47624",
+  "name": "Te Kāhui Rongoā Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2023-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rongoamaori.org.nz/",
+  "email": "co-chairs@rongoamaori.org.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "224 Kepa Road",
+    "suburb": "Mission Bay",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429043230839",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T23:24:57Z"
+}

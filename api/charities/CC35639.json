@@ -1,0 +1,27 @@
+{
+  "id": 40831,
+  "registrationNumber": "CC35639",
+  "name": "Silverstream Park Christian Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john@redcoats.co.nz",
+  "address": {
+    "line1": "3 Reynolds Bach Drive",
+    "line2": " ",
+    "suburb": "Stokes Valley",
+    "city": "Lower Hutt",
+    "postcode": "5019"
+  },
+  "nzbn": "9429042722946",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T20:03:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 32738,
+  "registrationNumber": "CC48277",
+  "name": "Marshall Laing Music School Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mlmusic.school.nz",
+  "email": "office@marshall.school.nz",
+  "address": {
+    "line1": "39 Marshall Laing Avenue",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429043233366",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-19T22:53:54Z"
+}

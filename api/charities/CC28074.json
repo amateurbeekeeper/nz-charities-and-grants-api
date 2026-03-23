@@ -1,0 +1,27 @@
+{
+  "id": 60380,
+  "registrationNumber": "CC28074",
+  "name": "Box Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rashbrooke@xtra.co.nz",
+  "address": {
+    "line1": "17 Kaitawa Road",
+    "line2": " ",
+    "suburb": "York Bay",
+    "city": "Lower Hutt",
+    "postcode": "5013"
+  },
+  "nzbn": "9429042595588",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-06T19:14:04Z"
+}

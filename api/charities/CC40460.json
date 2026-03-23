@@ -1,0 +1,27 @@
+{
+  "id": 59206,
+  "registrationNumber": "CC40460",
+  "name": "Whanganui Mountain Bike Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.whanganuimountainbikeclub.co.nz",
+  "email": "jandrgemmell@gmail.com",
+  "address": {
+    "line1": "70 Ridgway Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042908128",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Whanganui Mountain Bike Club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T19:35:08Z"
+}

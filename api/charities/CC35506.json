@@ -1,0 +1,27 @@
+{
+  "id": 43099,
+  "registrationNumber": "CC35506",
+  "name": "Balfour Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-07T00:00:00Z",
+  "website": null,
+  "email": "balfour@playcentre.org.nz",
+  "address": {
+    "line1": "131 Queen Street",
+    "line2": "Balfour 9779",
+    "suburb": " ",
+    "city": "Balfour",
+    "postcode": "9779"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Balfour Playcentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T06:03:37Z"
+}

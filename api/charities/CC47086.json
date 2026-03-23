@@ -1,0 +1,27 @@
+{
+  "id": 35505,
+  "registrationNumber": "CC47086",
+  "name": "CatsnCare",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-11-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.catsncare.org.nz",
+  "email": "catsncare@gmail.com",
+  "address": {
+    "line1": "986 Kaipara Flats Road",
+    "line2": "RD 4",
+    "suburb": "Kaipara Flats",
+    "city": "Warkworth",
+    "postcode": "0984"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "CatsnCare",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-18T19:21:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55003,
+  "registrationNumber": "CC22535",
+  "name": "The Person To Person Help Trust ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.p2pkaiapoi.org.nz/",
+  "email": "chairperson@p2pkaiapoi.org.nz",
+  "address": {
+    "line1": "67 Fuller Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaiapoi",
+    "postcode": "7630"
+  },
+  "nzbn": "9429042782896",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T02:41:26Z"
+}

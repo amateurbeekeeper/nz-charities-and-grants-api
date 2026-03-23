@@ -1,0 +1,27 @@
+{
+  "id": 56129,
+  "registrationNumber": "CC22606",
+  "name": "Drury Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.drurychurch.co.nz",
+  "email": "igrobson@xtra.co.nz",
+  "address": {
+    "line1": "13 Sutton Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Drury",
+    "postcode": "2113"
+  },
+  "nzbn": "9429043027903",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:03:52Z"
+}

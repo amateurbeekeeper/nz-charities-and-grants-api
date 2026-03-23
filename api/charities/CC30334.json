@@ -1,0 +1,27 @@
+{
+  "id": 60038,
+  "registrationNumber": "CC30334",
+  "name": "Swanson Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-11-07T00:00:00Z",
+  "website": "https://www.playcentre.org.nz",
+  "email": "swanson@playcentre.org.nz",
+  "address": {
+    "line1": "5 Christian Road",
+    "line2": " ",
+    "suburb": "Swanson",
+    "city": "Auckland",
+    "postcode": "614"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SwansonPlaycentrePublicPage/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-21T06:03:58Z"
+}

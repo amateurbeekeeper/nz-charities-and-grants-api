@@ -1,0 +1,27 @@
+{
+  "id": 66501,
+  "registrationNumber": "CC52773",
+  "name": "Anglican Diocese of Christchurch - Christchurch Cathedral Chapter",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.christchurchcathedral.co.nz",
+  "email": "admin@christchurchcathedral.co.nz",
+  "address": {
+    "line1": "234 Hereford St",
+    "line2": " ",
+    "suburb": "City",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429048019392",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ChristChrchCathedralNewZealand",
+    "twitter": "CHCHCathedralNZ"
+  },
+  "lastUpdated": "2025-08-20T19:52:33Z"
+}

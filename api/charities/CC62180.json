@@ -1,0 +1,27 @@
+{
+  "id": 75730,
+  "registrationNumber": "CC62180",
+  "name": "QUEENSTOWN INLINE HOCKEY CLUB INCORPORATED",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.qtinline.co.nz",
+  "email": "joshua@qtinline.co.nz",
+  "address": {
+    "line1": "20 Middleton Road",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429052043727",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "qt.inline",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T00:40:12Z"
+}

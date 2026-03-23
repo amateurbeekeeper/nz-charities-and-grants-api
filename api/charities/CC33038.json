@@ -1,0 +1,27 @@
+{
+  "id": 44155,
+  "registrationNumber": "CC33038",
+  "name": "New Zealand Land Search and Rescue Dogs Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.NZlandSARdogs.co.nz",
+  "email": "treasurer@nzlandsardogs.co.nz",
+  "address": {
+    "line1": "128 Mulligans Road",
+    "line2": "RD 8",
+    "suburb": "Maronan",
+    "city": "Ashburton",
+    "postcode": "7778"
+  },
+  "nzbn": "9429043188406",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T18:06:26Z"
+}

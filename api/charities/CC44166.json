@@ -1,0 +1,27 @@
+{
+  "id": 50411,
+  "registrationNumber": "CC44166",
+  "name": "Bowel Cancer New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bowelcancernz.org.nz",
+  "email": "annika@annikalim.com",
+  "address": {
+    "line1": "C/- Hudson Gavin Martin",
+    "line2": "Level 16, 45 Queen Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429050834617",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BCNZ.org.nz/",
+    "twitter": "https://twitter.com/BowelCancerNZ"
+  },
+  "lastUpdated": "2025-07-01T19:13:28Z"
+}

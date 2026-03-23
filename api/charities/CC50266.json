@@ -1,0 +1,27 @@
+{
+  "id": 33938,
+  "registrationNumber": "CC50266",
+  "name": "The Potters House Christian Centre Central Auckland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pottershouseauckland.co.nz/",
+  "email": "danjstephan@gmail.com",
+  "address": {
+    "line1": "9B Mahunga Drive",
+    "line2": " ",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429050877218",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T20:44:09Z"
+}

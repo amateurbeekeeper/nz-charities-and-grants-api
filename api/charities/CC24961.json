@@ -1,0 +1,27 @@
+{
+  "id": 40720,
+  "registrationNumber": "CC24961",
+  "name": "The New Crossways Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mtvichub.org.nz",
+  "email": "mpordish@gmail.com",
+  "address": {
+    "line1": "24E Elizabeth Street",
+    "line2": " ",
+    "suburb": "Mount Victoria",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043159178",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mtvichub/",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2026-03-12T23:05:55Z"
+}

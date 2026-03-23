@@ -1,0 +1,27 @@
+{
+  "id": 50258,
+  "registrationNumber": "CC43824",
+  "name": "Occupational Therapy Board of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.otboard.org.nz",
+  "email": "rhondda@otboard.org.nz",
+  "address": {
+    "line1": "Level 5",
+    "line2": "22-28 Willeston Street",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429047124202",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/OTBNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T02:57:44Z"
+}

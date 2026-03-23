@@ -1,0 +1,27 @@
+{
+  "id": 69129,
+  "registrationNumber": "CC55468",
+  "name": "Te Arawa Mahi Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tearawafisheries.maori.nz",
+  "email": "info@tearawafisheries.maori.nz",
+  "address": {
+    "line1": "1204 Whakaue Street",
+    "line2": "Rotorua 3010",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042567387",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T00:06:52Z"
+}

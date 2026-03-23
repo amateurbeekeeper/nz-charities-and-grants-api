@@ -1,0 +1,27 @@
+{
+  "id": 33645,
+  "registrationNumber": "CC49945",
+  "name": "Wellington Rural Fire Authority",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2013-11-04T00:00:00Z",
+  "dateDeregistered": "2017-06-30T00:00:00Z",
+  "website": "www.wrfa.org.nz",
+  "email": "prfo@wrfa.org.nz",
+  "address": {
+    "line1": "7 Serlby Place",
+    "line2": " ",
+    "suburb": "Porirua City Centre",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/WellingtonRuralFireAuthority/",
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T04:08:47Z"
+}

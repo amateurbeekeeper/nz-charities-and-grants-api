@@ -1,0 +1,27 @@
+{
+  "id": 43098,
+  "registrationNumber": "CC32696",
+  "name": "Western Community Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.westerncommunitycentre.org",
+  "email": "neil.tolan@wccham.org.nz",
+  "address": {
+    "line1": "46 Hyde Avenue",
+    "line2": " ",
+    "suburb": "Nawton",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429042767992",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/westerncommunitycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T22:08:24Z"
+}

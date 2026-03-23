@@ -1,0 +1,27 @@
+{
+  "id": 74654,
+  "registrationNumber": "CC61072",
+  "name": "Kaiwaka Can Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kaiwakacan.nz",
+  "email": "pablo@pablogarcia.com",
+  "address": {
+    "line1": "364 Oneriri Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Kaiwaka",
+    "postcode": "0573"
+  },
+  "nzbn": "9429047100619",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/kaiwakacan/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T00:23:15Z"
+}

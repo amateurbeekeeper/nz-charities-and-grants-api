@@ -1,0 +1,27 @@
+{
+  "id": 63749,
+  "registrationNumber": "CC39369",
+  "name": "Kaikorai Metropolitan Brass Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kaikmetrobrass@gmail.com",
+  "address": {
+    "line1": "106 Leith Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042647522",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KaikoraiMetropolitanBrassBand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T21:23:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55665,
+  "registrationNumber": "CC25304",
+  "name": "Christchurch Guangdong Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cgda.org.nz",
+  "email": "thomas.lin@myclinic.co.nz",
+  "address": {
+    "line1": "285 Riccarton Road",
+    "line2": " ",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429043173341",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-09T09:26:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70909,
+  "registrationNumber": "CC57280",
+  "name": "St Martins Community Menzshed Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-09-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stmartinsmenzshed@gmail.com",
+  "address": {
+    "line1": "43 St Martins Road",
+    "line2": " ",
+    "suburb": "Saint Martins",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/St-Martins-Community-Menzshed-112435270252226",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T08:26:00Z"
+}

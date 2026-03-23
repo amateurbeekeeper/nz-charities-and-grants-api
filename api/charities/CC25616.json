@@ -1,0 +1,27 @@
+{
+  "id": 56407,
+  "registrationNumber": "CC25616",
+  "name": "Mealing Estate Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wi.org.nz",
+  "email": "exec@wi.org.nz",
+  "address": {
+    "line1": "Level 4",
+    "line2": " 26 Brandon Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043074662",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T01:54:16Z"
+}

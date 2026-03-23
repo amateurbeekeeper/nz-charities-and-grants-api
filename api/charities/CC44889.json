@@ -1,0 +1,27 @@
+{
+  "id": 35885,
+  "registrationNumber": "CC44889",
+  "name": "Lincoln Heights Home and School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-08-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "PTA@lincolnheights.school.nz",
+  "address": {
+    "line1": "Keegan Drive",
+    "line2": " ",
+    "suburb": "Massey",
+    "city": "Waitakere",
+    "postcode": "0614"
+  },
+  "nzbn": "9429041906774",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-07T21:42:17Z"
+}

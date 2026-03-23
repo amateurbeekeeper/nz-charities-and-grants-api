@@ -1,0 +1,27 @@
+{
+  "id": 45356,
+  "registrationNumber": "CC43204",
+  "name": "Takapuna City Association Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.takapunaafc.co.nz",
+  "email": "treasurer@takapunaafc.co.nz",
+  "address": {
+    "line1": "13 Taharoto Road",
+    "line2": "Taharoto Park, Taharoto Rd",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429042830504",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T08:00:12Z"
+}

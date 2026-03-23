@@ -1,0 +1,27 @@
+{
+  "id": 49519,
+  "registrationNumber": "CC31145",
+  "name": "The Haemophilia Educational Endowment Trust Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.haemophilia.org.nz",
+  "email": "ceo@haemophilia.org.nz",
+  "address": {
+    "line1": "44 Victoria Street",
+    "line2": "Rotorua 3010",
+    "suburb": "Alicetown",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T00:31:31Z"
+}

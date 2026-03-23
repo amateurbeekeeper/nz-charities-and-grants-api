@@ -1,0 +1,27 @@
+{
+  "id": 60233,
+  "registrationNumber": "CC28909",
+  "name": "The Big Wheel Rotary Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "alan.hitchcock@xtra.co.nz",
+  "address": {
+    "line1": "31 Kinloch Drive",
+    "line2": " ",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042960690",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T18:44:35Z"
+}

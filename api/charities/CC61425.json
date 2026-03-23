@@ -1,0 +1,27 @@
+{
+  "id": 74999,
+  "registrationNumber": "CC61425",
+  "name": "Tagata Mai Saute Academy",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "apeseta@saute.academy",
+  "address": {
+    "line1": "1 Marshall Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": "9429049642469",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Tagata mai saute Academy",
+    "twitter": null
+  },
+  "lastUpdated": "2024-12-09T18:32:05Z"
+}

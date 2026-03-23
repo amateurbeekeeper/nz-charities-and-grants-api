@@ -1,0 +1,27 @@
+{
+  "id": 69281,
+  "registrationNumber": "CC55630",
+  "name": "Harvest Independent Baptist Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.harvestibc.org.nz/",
+  "email": "logan.bankston@gmail.com",
+  "address": {
+    "line1": "43 Chapel Street",
+    "line2": "Masterton 5810",
+    "suburb": "Solway",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429046681072",
+  "financialYearEnd": "27/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T06:53:26Z"
+}

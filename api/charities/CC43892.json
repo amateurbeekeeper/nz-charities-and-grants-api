@@ -1,0 +1,27 @@
+{
+  "id": 50130,
+  "registrationNumber": "CC43892",
+  "name": "Omaha Surf Lifesaving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.omahasurf.co.nz",
+  "email": "mail@omahasurf.co.nz",
+  "address": {
+    "line1": "Fraser Reserve",
+    "line2": "Omaha",
+    "suburb": " ",
+    "city": "Matakana",
+    "postcode": "0948"
+  },
+  "nzbn": "9429042797432",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T01:14:09Z"
+}

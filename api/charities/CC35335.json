@@ -1,0 +1,27 @@
+{
+  "id": 43478,
+  "registrationNumber": "CC35335",
+  "name": "Christian Spiritualist Church Christchurch Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.papanuispiritualcentre.co.nz",
+  "email": "nicki.tasker@gmail.com",
+  "address": {
+    "line1": "Unit 2",
+    "line2": "178 Bowhill Road",
+    "suburb": "New Brighton",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429042616061",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "papanuispiritualcentre.",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T01:11:25Z"
+}

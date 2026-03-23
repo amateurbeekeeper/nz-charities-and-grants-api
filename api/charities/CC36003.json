@@ -1,0 +1,27 @@
+{
+  "id": 42384,
+  "registrationNumber": "CC36003",
+  "name": "Eastern Bays Art Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aucklandeastart.org.nz",
+  "email": "nissen.jordan@xtra.co.nz",
+  "address": {
+    "line1": "44 Towai Street",
+    "line2": null,
+    "suburb": "St Heliers",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429042586630",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T21:20:31Z"
+}

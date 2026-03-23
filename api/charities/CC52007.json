@@ -1,0 +1,27 @@
+{
+  "id": 65759,
+  "registrationNumber": "CC52007",
+  "name": "Belmont Presbyterian Church St. Margaret's",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.belmontpres.org.nz",
+  "email": "olivetree.philip@gmail.com",
+  "address": {
+    "line1": "2 The Terrace",
+    "line2": null,
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-31T20:50:54Z"
+}

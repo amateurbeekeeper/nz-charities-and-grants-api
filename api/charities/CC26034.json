@@ -1,0 +1,27 @@
+{
+  "id": 58358,
+  "registrationNumber": "CC26034",
+  "name": "Auckland Catholic Preschool Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.acpt.co.nz",
+  "email": "stpchaa@xtra.co.nz",
+  "address": {
+    "line1": "42A Boundary Road",
+    "line2": " ",
+    "suburb": "Clover Park",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": "9429043052967",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T02:36:55Z"
+}

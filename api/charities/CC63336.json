@@ -1,0 +1,27 @@
+{
+  "id": 77541,
+  "registrationNumber": "CC63336",
+  "name": "The Jim Stevenson Performing Arts Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.jsperformingarts.org",
+  "email": "ws@steco.co.nz",
+  "address": {
+    "line1": "9A Maleme Avenue",
+    "line2": "45 Stanley Point Road",
+    "suburb": "Belmont",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429047975736",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T22:45:36Z"
+}

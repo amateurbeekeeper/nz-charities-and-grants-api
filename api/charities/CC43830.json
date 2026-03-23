@@ -1,0 +1,27 @@
+{
+  "id": 50135,
+  "registrationNumber": "CC43830",
+  "name": "Kaiapoi Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kaiapoigolf.co.nz",
+  "email": "info@kaiapoigolf.co.nz",
+  "address": {
+    "line1": "373 Williams Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaiapoi",
+    "postcode": "7630"
+  },
+  "nzbn": "9429042648734",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kaiapoigolfclub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T18:07:54Z"
+}

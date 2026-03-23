@@ -1,0 +1,27 @@
+{
+  "id": 40384,
+  "registrationNumber": "CC26406",
+  "name": "Te Roopu Tautoko Ki Te Tonga Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tautoko.maori.nz",
+  "email": "admin@tautoko.maori.nz",
+  "address": {
+    "line1": "6 Wolseley Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043010790",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Roopu Tautoko Ki Te Tonga Inc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T21:34:54Z"
+}

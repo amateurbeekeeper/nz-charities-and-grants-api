@@ -1,0 +1,27 @@
+{
+  "id": 72225,
+  "registrationNumber": "CC58612",
+  "name": "Tāiki e! Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.taikie.nz",
+  "email": "impact@taikie.nz",
+  "address": {
+    "line1": "7 Peel Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429048795463",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/taikie.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T22:42:18Z"
+}

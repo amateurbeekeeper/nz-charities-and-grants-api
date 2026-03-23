@@ -1,0 +1,27 @@
+{
+  "id": 67329,
+  "registrationNumber": "CC53617",
+  "name": "Family Finances Service Trust – Upper Hutt",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.familyfinances.nz",
+  "email": "heather@familyfinances.nz",
+  "address": {
+    "line1": "Bradley Lane (Wilson Street end)",
+    "line2": null,
+    "suburb": " ",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429043304196",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@FamilyFinancesUH",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:06:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69478,
+  "registrationNumber": "CC55827",
+  "name": "He Kaupapa Kotahitanga Trust Tauranga",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.awhinahouse.org.nz",
+  "email": "rachel@awhinahouse.org.nz",
+  "address": {
+    "line1": "21 Fourth Avenue",
+    "line2": "Tauranga 3110",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429046982117",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AwhinaHouse/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:44:11Z"
+}

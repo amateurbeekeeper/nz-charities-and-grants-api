@@ -1,0 +1,27 @@
+{
+  "id": 69122,
+  "registrationNumber": "CC55462",
+  "name": "Dunedin Tamil Society Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dunedintamilsociety.org.nz",
+  "email": "dtspresident@dunedintamilsociety.org.nz",
+  "address": {
+    "line1": "10 Kirriemuir Street",
+    "line2": " ",
+    "suburb": "Maryhill",
+    "city": "Dunedin",
+    "postcode": "9011"
+  },
+  "nzbn": "9429046468130",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dunedintamil/",
+    "twitter": "https://twitter.com/Dunedin_Tamil_S"
+  },
+  "lastUpdated": "2026-03-06T08:42:11Z"
+}

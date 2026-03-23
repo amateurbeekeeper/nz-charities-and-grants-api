@@ -1,0 +1,27 @@
+{
+  "id": 53258,
+  "registrationNumber": "CC20346",
+  "name": "Philanthropy New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.philanthropy.org.nz",
+  "email": "info@philanthropy.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "50 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042781486",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-18T04:53:32Z"
+}

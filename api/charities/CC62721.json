@@ -1,0 +1,27 @@
+{
+  "id": 76433,
+  "registrationNumber": "CC62721",
+  "name": "Die Voortrekkers New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-10-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://voortrekkers.co.za/",
+  "email": "christian_hns@yahoo.com",
+  "address": {
+    "line1": "32 Richmond Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61553037213608",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T23:02:14Z"
+}

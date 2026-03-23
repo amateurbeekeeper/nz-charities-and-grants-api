@@ -1,0 +1,27 @@
+{
+  "id": 66634,
+  "registrationNumber": "CC52908",
+  "name": "Hineuru Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-02-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ngatihineuru.com/",
+  "email": "hineuru.waikato@bakertillysr.nz",
+  "address": {
+    "line1": "PO Box 9159",
+    "line2": "Waikato Mail Centre",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3240"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T01:26:23Z"
+}

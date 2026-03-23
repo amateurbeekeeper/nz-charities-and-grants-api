@@ -1,0 +1,27 @@
+{
+  "id": 72826,
+  "registrationNumber": "CC59221",
+  "name": "Gifts for Good Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-05-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "giftsforgood.nz",
+  "email": "colin@mcarthur.org.nz",
+  "address": {
+    "line1": "59 Spencer Street",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429049312232",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/giftsforgoodnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-16T19:29:17Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65514,
+  "registrationNumber": "CC51745",
+  "name": "St Andrews Presbyterian Church New Plymouth",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.standrewsnp.org.nz",
+  "email": "office@standrewsnp.org.nz",
+  "address": {
+    "line1": "72 Liardet Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/standrewsnewplymouth",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T23:51:21Z"
+}

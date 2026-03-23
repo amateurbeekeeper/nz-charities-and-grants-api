@@ -1,0 +1,27 @@
+{
+  "id": 54635,
+  "registrationNumber": "CC21069",
+  "name": "Wildlife Veterinary Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wildlifehospital.co.nz/",
+  "email": "admin@wildlifehospital.co.nz",
+  "address": {
+    "line1": "60 Hussey Road",
+    "line2": " ",
+    "suburb": "Northwood",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429043139484",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wildlife.hospital.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T21:54:32Z"
+}

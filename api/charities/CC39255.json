@@ -1,0 +1,27 @@
+{
+  "id": 42628,
+  "registrationNumber": "CC39255",
+  "name": "The O'Conor Institute Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tori@bullerca.co.nz",
+  "address": {
+    "line1": "Queen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Westport",
+    "postcode": "7866"
+  },
+  "nzbn": "9429050613403",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T20:08:45Z"
+}

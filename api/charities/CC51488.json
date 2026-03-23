@@ -1,0 +1,27 @@
+{
+  "id": 65263,
+  "registrationNumber": "CC51488",
+  "name": "Waikanae Cafe Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "carolyn@hosking.nz",
+  "address": {
+    "line1": "5 Arthur Grove",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waikanae",
+    "postcode": "5036"
+  },
+  "nzbn": "9429043268733",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-19T18:20:33Z"
+}

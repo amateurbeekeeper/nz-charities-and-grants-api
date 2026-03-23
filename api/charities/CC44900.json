@@ -1,0 +1,27 @@
+{
+  "id": 35874,
+  "registrationNumber": "CC44900",
+  "name": "Te Rautini Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.terautini.com/",
+  "email": "aaron@terautini.com",
+  "address": {
+    "line1": "160 Rifle Range Road",
+    "line2": " ",
+    "suburb": "Dinsdale",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043193721",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TeRautini/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-03T19:45:21Z"
+}

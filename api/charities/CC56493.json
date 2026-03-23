@@ -1,0 +1,27 @@
+{
+  "id": 70130,
+  "registrationNumber": "CC56493",
+  "name": "Wild Whiskers Tauranga",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-02-05T00:00:00Z",
+  "dateDeregistered": "2024-11-26T00:00:00Z",
+  "website": null,
+  "email": "sharna_asplin@hotmail.com",
+  "address": {
+    "line1": "6 Penrhyn Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wildwhiskerstauranga/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-10T07:15:38Z"
+}

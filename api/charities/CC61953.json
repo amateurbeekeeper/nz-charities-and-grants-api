@@ -1,0 +1,27 @@
+{
+  "id": 75505,
+  "registrationNumber": "CC61953",
+  "name": "Sorena Charitable and Social Association",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.sorenacharity.co.nz",
+  "email": "sorenacharity@gmail.com",
+  "address": {
+    "line1": "1c/57 Symonds Street",
+    "line2": " Grafton",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429050761210",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T02:41:49Z"
+}

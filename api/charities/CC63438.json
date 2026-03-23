@@ -1,0 +1,27 @@
+{
+  "id": 77641,
+  "registrationNumber": "CC63438",
+  "name": "The Willowbank Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kirsty@willowbank.co.nz",
+  "address": {
+    "line1": "60 Hussey Road",
+    "line2": " ",
+    "suburb": "Northwood",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T01:36:15Z"
+}

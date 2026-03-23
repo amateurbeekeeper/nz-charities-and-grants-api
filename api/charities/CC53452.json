@@ -1,0 +1,27 @@
+{
+  "id": 67168,
+  "registrationNumber": "CC53452",
+  "name": "Charity-IT",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2016-06-23T00:00:00Z",
+  "dateDeregistered": "2019-03-30T00:00:00Z",
+  "website": "www.charity-it.org",
+  "email": "hello@hana.org.nz",
+  "address": {
+    "line1": "Flat 10",
+    "line2": "Dominion Building",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043313372",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-12-12T23:06:08Z"
+}

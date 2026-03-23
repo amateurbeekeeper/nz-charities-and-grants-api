@@ -1,0 +1,27 @@
+{
+  "id": 33259,
+  "registrationNumber": "CC49110",
+  "name": "Nota Bene Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.notabene.org.nz",
+  "email": "m.willberg@transport.govt.nz",
+  "address": {
+    "line1": "63 Pembroke Road",
+    "line2": " ",
+    "suburb": "Northland",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043036899",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:17:47Z"
+}

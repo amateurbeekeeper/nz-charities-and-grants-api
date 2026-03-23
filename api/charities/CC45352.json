@@ -1,0 +1,27 @@
+{
+  "id": 36029,
+  "registrationNumber": "CC45352",
+  "name": "New Zealand Medical Student Journal Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzmsj.com",
+  "email": "finance_manager@nzmsj.com",
+  "address": {
+    "line1": "New Zealand Medical Student Journal",
+    "line2": "C/- Medical Education Group,",
+    "suburb": "Po Box 913",
+    "city": "Dunedin",
+    "postcode": "9054"
+  },
+  "nzbn": "9429050221462",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZMSJ/",
+    "twitter": "https://twitter.com/NZMedStudentJ"
+  },
+  "lastUpdated": "2026-03-05T05:07:09Z"
+}

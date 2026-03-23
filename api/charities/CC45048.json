@@ -1,0 +1,27 @@
+{
+  "id": 36040,
+  "registrationNumber": "CC45048",
+  "name": "St David's Presbyterian Church Carterton",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-08-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stdavids.org.nz",
+  "email": "stdavidscarterton@gmail.com",
+  "address": {
+    "line1": "164 High Street South",
+    "line2": null,
+    "suburb": " ",
+    "city": "Carterton",
+    "postcode": "5713"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:01:19Z"
+}

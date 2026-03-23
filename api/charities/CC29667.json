@@ -1,0 +1,27 @@
+{
+  "id": 47457,
+  "registrationNumber": "CC29667",
+  "name": "M S Waikato Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mswaikato.org.nz",
+  "email": "janet@mswaikato.org.nz",
+  "address": {
+    "line1": "20 Palmerston Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042985037",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/MS-Waikato-1865949090309722",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T19:39:23Z"
+}

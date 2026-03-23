@@ -1,0 +1,27 @@
+{
+  "id": 50290,
+  "registrationNumber": "CC43847",
+  "name": "Mount Zion Bible Baptist Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "adriancodilla@yahoo.com",
+  "address": {
+    "line1": "80 Carnoustie Drive",
+    "line2": " ",
+    "suburb": "Wattle Downs",
+    "city": "Auckland",
+    "postcode": "2103"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T19:13:31Z"
+}

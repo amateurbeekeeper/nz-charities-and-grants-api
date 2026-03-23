@@ -1,0 +1,27 @@
+{
+  "id": 72391,
+  "registrationNumber": "CC58780",
+  "name": "Parklands Playcentre (Christchurch)",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2021-02-28T00:00:00Z",
+  "dateDeregistered": "2025-10-31T00:00:00Z",
+  "website": null,
+  "email": "parklands@playcentre.org.nz",
+  "address": {
+    "line1": "106 Queenspark Drive",
+    "line2": " ",
+    "suburb": "Parklands",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Parklands Playcentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T06:00:45Z"
+}

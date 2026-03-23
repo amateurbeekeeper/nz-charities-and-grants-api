@@ -1,0 +1,27 @@
+{
+  "id": 43148,
+  "registrationNumber": "CC31999",
+  "name": "Philadelphia Church of God Incorporated (New Zealand)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-07-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "pcg.church",
+  "email": "kcook@pcog.org",
+  "address": {
+    "line1": "c/- Mike Ruffell",
+    "line2": "Level 15 Grant Thornton House, 215 Lambton Quay",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042804680",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:35:27Z"
+}

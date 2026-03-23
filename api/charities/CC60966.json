@@ -1,0 +1,27 @@
+{
+  "id": 74548,
+  "registrationNumber": "CC60966",
+  "name": "Kaiapoi Community Hub Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-02-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.kaiapoihub.org",
+  "email": "phillipa@satisfyfoodrescue.org.nz",
+  "address": {
+    "line1": "112 Williams Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaiapoi",
+    "postcode": "7630"
+  },
+  "nzbn": "9429051110383",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kaiapoicommunityhub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-02T07:46:39Z"
+}

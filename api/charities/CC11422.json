@@ -1,0 +1,27 @@
+{
+  "id": 52726,
+  "registrationNumber": "CC11422",
+  "name": "Migrant Action Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.migrantactiontrust.org",
+  "email": "suzie@migrantactiontrust.org",
+  "address": {
+    "line1": "83 Edmonton Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429042997788",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/migrantactiontrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:03:10Z"
+}

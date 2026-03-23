@@ -1,0 +1,27 @@
+{
+  "id": 53104,
+  "registrationNumber": "CC11260",
+  "name": "Life Education Trust Nelson/Tasman",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lifeeducation.org.nz",
+  "email": "nelsontasman@lifeedtrust.org.nz",
+  "address": {
+    "line1": "32 Wensley Road",
+    "line2": "Richmond 7020",
+    "suburb": "Stoke",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": "9429043085071",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Nelson Tasman Life Education Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T23:08:41Z"
+}

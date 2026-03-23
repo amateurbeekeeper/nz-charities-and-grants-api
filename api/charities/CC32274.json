@@ -1,0 +1,27 @@
+{
+  "id": 64581,
+  "registrationNumber": "CC32274",
+  "name": "Huia Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-10-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "logansrun712@gmail.com",
+  "address": {
+    "line1": "1282-1284 Huia Road",
+    "line2": " ",
+    "suburb": "Huia",
+    "city": "Auckland",
+    "postcode": "604"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T18:15:47Z"
+}

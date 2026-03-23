@@ -1,0 +1,27 @@
+{
+  "id": 42142,
+  "registrationNumber": "CC34115",
+  "name": "The Naseby Athenaeum Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Naseby.athenaeum@gmail.com",
+  "address": {
+    "line1": "Derwent Street",
+    "line2": " ",
+    "suburb": "Naseby",
+    "city": "Central Otago",
+    "postcode": "9354"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T18:14:05Z"
+}

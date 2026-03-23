@@ -1,0 +1,27 @@
+{
+  "id": 44454,
+  "registrationNumber": "CC32860",
+  "name": "Westburn School & Community Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2025-10-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://westburn.school.nz",
+  "email": "finance@westburn.school.nz",
+  "address": {
+    "line1": "Westburn School",
+    "line2": "257 Waimairi Road",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T20:56:40Z"
+}

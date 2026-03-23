@@ -1,0 +1,27 @@
+{
+  "id": 33006,
+  "registrationNumber": "CC48502",
+  "name": "SmileDial",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2012-10-09T00:00:00Z",
+  "dateDeregistered": "2024-03-31T00:00:00Z",
+  "website": "www.smiledial.co.nz",
+  "email": "wendy@smiledial.co.nz",
+  "address": {
+    "line1": "30 Cutts Road",
+    "line2": "18A Birmingham Drive",
+    "suburb": "Russley",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/smiledial",
+    "twitter": null
+  },
+  "lastUpdated": "2024-05-01T07:08:11Z"
+}

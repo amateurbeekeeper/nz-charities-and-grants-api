@@ -1,0 +1,27 @@
+{
+  "id": 77610,
+  "registrationNumber": "CC63408",
+  "name": "Donor Bees Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.donorbees.org.nz",
+  "email": "pip@donorbees.org.nz",
+  "address": {
+    "line1": "122 Gardiners Road",
+    "line2": " ",
+    "suburb": "Harewood",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429052483363",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-02T04:53:15Z"
+}

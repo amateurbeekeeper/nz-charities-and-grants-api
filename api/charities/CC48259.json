@@ -1,0 +1,27 @@
+{
+  "id": 38454,
+  "registrationNumber": "CC48259",
+  "name": "Rock Solid Youth Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://rocksolid.org.nz/",
+  "email": "scottie@rocksolid.org.nz",
+  "address": {
+    "line1": "67 Crawford Crescent",
+    "line2": " ",
+    "suburb": "Kamo",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429043152056",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RockSolidClubWhangarei",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T07:26:51Z"
+}

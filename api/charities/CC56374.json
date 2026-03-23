@@ -1,0 +1,27 @@
+{
+  "id": 70017,
+  "registrationNumber": "CC56374",
+  "name": "Breast Cancer NZ Register Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-11-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.breastcancerregister.org.nz",
+  "email": "suek@bcf.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "8 Cleveland Road",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429047122963",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T01:48:19Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64772,
+  "registrationNumber": "CC30266",
+  "name": "Kaisen Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david@dtaonline.co.nz",
+  "address": {
+    "line1": "174 Hyderabad Road",
+    "line2": " ",
+    "suburb": "Ahuriri",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429043295210",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T21:13:20Z"
+}

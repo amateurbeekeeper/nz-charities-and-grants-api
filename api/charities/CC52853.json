@@ -1,0 +1,27 @@
+{
+  "id": 66587,
+  "registrationNumber": "CC52853",
+  "name": "Fix Up, Look Sharp",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-12-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.fixuplooksharp.org",
+  "email": "jane@fixuplooksharp.org",
+  "address": {
+    "line1": "100 Neilson Street",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043311743",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Fix Up, Look Sharp",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T19:11:14Z"
+}

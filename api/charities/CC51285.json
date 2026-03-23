@@ -1,0 +1,27 @@
+{
+  "id": 34828,
+  "registrationNumber": "CC51285",
+  "name": "Shorebirds Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-12-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.shorebirdstrust.org.nz",
+  "email": "catherine@castlepartners.co.nz",
+  "address": {
+    "line1": "18 Shortland Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043268320",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T18:13:35Z"
+}

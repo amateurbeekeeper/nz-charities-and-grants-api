@@ -1,0 +1,27 @@
+{
+  "id": 78457,
+  "registrationNumber": "CC64271",
+  "name": "Abundant Living Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-08-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sporty.co.nz/southernknights",
+  "email": "david@davidmrzoska.com",
+  "address": {
+    "line1": "6A Arun Street",
+    "line2": null,
+    "suburb": "South Hill",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T21:42:37Z"
+}

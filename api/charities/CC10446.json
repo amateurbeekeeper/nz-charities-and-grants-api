@@ -1,0 +1,27 @@
+{
+  "id": 52063,
+  "registrationNumber": "CC10446",
+  "name": "Rainbow Children's Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rainbowtrust.org.nz/",
+  "email": "gavin.wright@fraame.com",
+  "address": {
+    "line1": "C/- Grant Thornton New Zealand Limited",
+    "line2": " L3, Grant Thornton House, 134 Oxford Terrace",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": "9429042951988",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T02:47:58Z"
+}

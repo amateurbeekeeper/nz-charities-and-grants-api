@@ -1,0 +1,27 @@
+{
+  "id": 68203,
+  "registrationNumber": "CC54520",
+  "name": "MovieFest Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://moviefest.nz",
+  "email": "graememoffatt@icloud.com",
+  "address": {
+    "line1": "73 Otaihanga Road",
+    "line2": null,
+    "suburb": "Otaihanga",
+    "city": "Paraparaumu",
+    "postcode": "5036"
+  },
+  "nzbn": "9429043054046",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/moviefest2016",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-03T08:07:42Z"
+}

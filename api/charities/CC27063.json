@@ -1,0 +1,27 @@
+{
+  "id": 59302,
+  "registrationNumber": "CC27063",
+  "name": "The Gardens School Support Team",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pamela.guo@gmail.com",
+  "address": {
+    "line1": "101 Charles Prevost Drive",
+    "line2": " ",
+    "suburb": "The Gardens",
+    "city": "Auckland",
+    "postcode": "2105"
+  },
+  "nzbn": "9429041920169",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-25T19:17:55Z"
+}

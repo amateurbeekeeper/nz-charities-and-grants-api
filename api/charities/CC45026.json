@@ -1,0 +1,27 @@
+{
+  "id": 36022,
+  "registrationNumber": "CC45026",
+  "name": "P3 Foundation",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-08-25T00:00:00Z",
+  "dateDeregistered": "2023-05-04T00:00:00Z",
+  "website": "http://www.p3foundation.org",
+  "email": "nicholl.oblitascosta@p3foundation.org",
+  "address": {
+    "line1": "PO Box 105714",
+    "line2": "Auckland City",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1143"
+  },
+  "nzbn": "9429043194193",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/p3foundation/",
+    "twitter": "twitter.com/p3foundation"
+  },
+  "lastUpdated": "2023-05-11T07:02:00Z"
+}

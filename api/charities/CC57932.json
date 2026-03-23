@@ -1,0 +1,27 @@
+{
+  "id": 71554,
+  "registrationNumber": "CC57932",
+  "name": "Blindsided NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.blindsided.nz",
+  "email": "chrissie@blindsided.NZ",
+  "address": {
+    "line1": "Apartment 201",
+    "line2": "18 Carlton Mill Road",
+    "suburb": "Merivale",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429048475389",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "#Blindsided - NZ Macular Degeneration and Vision Loss Support Group",
+    "twitter": "@BlindsidedNz"
+  },
+  "lastUpdated": "2025-07-21T05:47:19Z"
+}

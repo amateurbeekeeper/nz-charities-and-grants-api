@@ -1,0 +1,27 @@
+{
+  "id": 43333,
+  "registrationNumber": "CC30780",
+  "name": "Days Bay Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-11T00:00:00Z",
+  "website": null,
+  "email": "hutt.office@playcentre.org.nz",
+  "address": {
+    "line1": "2 Pitoitoi Road",
+    "line2": " ",
+    "suburb": "Days Bay",
+    "city": "Lower Hutt",
+    "postcode": "5013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DaysBayPlaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T07:14:29Z"
+}

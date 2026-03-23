@@ -1,0 +1,27 @@
+{
+  "id": 52691,
+  "registrationNumber": "CC20360",
+  "name": "Friends Of Galapagos New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.galapagos.org.nz",
+  "email": "info@galapagos.org.nz",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "1 Wesley Road",
+    "suburb": "Kelburn",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043038862",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FriendsOfGalapagosNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T08:53:48Z"
+}

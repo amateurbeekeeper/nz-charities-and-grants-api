@@ -1,0 +1,27 @@
+{
+  "id": 54480,
+  "registrationNumber": "CC20948",
+  "name": "New Plymouth Cornerstone Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.npcornerstonebaptist.org.nz",
+  "email": "cornerstonebaptist@xtra.co.nz",
+  "address": {
+    "line1": "1 Omata Road",
+    "line2": " ",
+    "suburb": "Westown",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NPCornerstoneBaptistChurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T18:05:05Z"
+}

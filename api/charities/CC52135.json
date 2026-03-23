@@ -1,0 +1,27 @@
+{
+  "id": 65871,
+  "registrationNumber": "CC52135",
+  "name": "Pacific Islands Presbyterian Church Newton",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.pipc-newton.com",
+  "email": "admin@pipc-newton.com",
+  "address": {
+    "line1": "2 Edinburgh Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-28T22:05:14Z"
+}

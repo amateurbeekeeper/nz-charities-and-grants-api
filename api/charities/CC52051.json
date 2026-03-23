@@ -1,0 +1,27 @@
+{
+  "id": 65786,
+  "registrationNumber": "CC52051",
+  "name": "Knox Presbyterian Church Waimate",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "knoxtreasurerwaimate@gmail.com",
+  "address": {
+    "line1": "58 Shearman Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waimate",
+    "postcode": "7924"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Knox.Waimate",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-21T23:56:05Z"
+}

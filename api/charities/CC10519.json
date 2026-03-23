@@ -1,0 +1,27 @@
+{
+  "id": 52231,
+  "registrationNumber": "CC10519",
+  "name": "Life Restoration Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2025-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "brujuco@gmail.com",
+  "address": {
+    "line1": "30 Cranby Crescent",
+    "line2": " ",
+    "suburb": "Onekawa",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429043011940",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-09T03:11:53Z"
+}

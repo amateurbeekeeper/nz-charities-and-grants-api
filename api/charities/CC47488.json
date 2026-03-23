@@ -1,0 +1,27 @@
+{
+  "id": 38030,
+  "registrationNumber": "CC47488",
+  "name": "Firstlight Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.firstlight.org.nz",
+  "email": "secretary@firstlight.org.nz",
+  "address": {
+    "line1": "3 Henderson Street",
+    "line2": "Dannevirke 4930",
+    "suburb": " ",
+    "city": "Dannevirke",
+    "postcode": "4930"
+  },
+  "nzbn": "9429043239993",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/FirstlightTV",
+    "twitter": "http://twitter.com/FirstlightTV"
+  },
+  "lastUpdated": "2026-01-20T21:02:36Z"
+}

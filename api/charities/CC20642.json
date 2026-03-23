@@ -1,0 +1,27 @@
+{
+  "id": 54287,
+  "registrationNumber": "CC20642",
+  "name": "Flaxmere Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.flaxmere.org.nz",
+  "email": "jandb.graham@xtra.co.nz",
+  "address": {
+    "line1": "60 Caernarvon Drive",
+    "line2": " ",
+    "suburb": "Flaxmere",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429047997240",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Flaxmere Baptist Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T19:18:15Z"
+}

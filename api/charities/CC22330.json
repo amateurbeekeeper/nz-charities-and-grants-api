@@ -1,0 +1,27 @@
+{
+  "id": 39579,
+  "registrationNumber": "CC22330",
+  "name": "East Taranaki Environment Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://etec.org.nz/",
+  "email": "manager@etec.org.nz",
+  "address": {
+    "line1": "1 Elliot St",
+    "line2": " ",
+    "suburb": " Inglewood",
+    "city": "Inglewood",
+    "postcode": "4330"
+  },
+  "nzbn": "9429043059157",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://etec.org.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T23:02:50Z"
+}

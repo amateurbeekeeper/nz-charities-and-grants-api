@@ -1,0 +1,27 @@
+{
+  "id": 62086,
+  "registrationNumber": "CC40157",
+  "name": "Halcombe Volunteer Fire Brigade",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2011-06-12T00:00:00Z",
+  "website": null,
+  "email": "grant.joule@fire.org.nz",
+  "address": {
+    "line1": "C/- Junction Road",
+    "line2": "West Halcombe",
+    "suburb": "R D 9",
+    "city": "Feilding",
+    "postcode": "5600"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:05:13Z"
+}

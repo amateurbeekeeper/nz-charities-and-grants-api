@@ -1,0 +1,27 @@
+{
+  "id": 70818,
+  "registrationNumber": "CC57193",
+  "name": "West Melton Gymnastics Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-11-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.westmeltongymclub.nz",
+  "email": "admin@westmeltongymclub.nz",
+  "address": {
+    "line1": "134 Hayes Road",
+    "line2": "RD 1",
+    "suburb": "Kirwee",
+    "city": "Christchurch",
+    "postcode": "7671"
+  },
+  "nzbn": "9429043093069",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T22:05:22Z"
+}

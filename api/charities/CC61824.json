@@ -1,0 +1,27 @@
+{
+  "id": 75384,
+  "registrationNumber": "CC61824",
+  "name": "Community Link",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-11-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stpatslink@gmail.com",
+  "address": {
+    "line1": "105 Kelly Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Inglewood",
+    "postcode": "4330"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T06:26:34Z"
+}

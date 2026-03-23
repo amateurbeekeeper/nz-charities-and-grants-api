@@ -1,0 +1,27 @@
+{
+  "id": 40000,
+  "registrationNumber": "CC31668",
+  "name": "Jigsaw Family Services Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2017-07-18T00:00:00Z",
+  "website": "http://www.jigsaw.org.nz",
+  "email": null,
+  "address": {
+    "line1": "L1",
+    "line2": "13 Adelaide Road",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429042603986",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:05:37Z"
+}

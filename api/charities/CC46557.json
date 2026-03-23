@@ -1,0 +1,27 @@
+{
+  "id": 35659,
+  "registrationNumber": "CC46557",
+  "name": "Canterbury Mathematical Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.canterburymaths.org/",
+  "email": "cmatreasurer18@gmail.com",
+  "address": {
+    "line1": "10 Matai Street East",
+    "line2": null,
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042602309",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top/?q=canterbury%20maths%20association",
+    "twitter": "https://twitter.com/cantamath"
+  },
+  "lastUpdated": "2025-10-22T18:55:27Z"
+}

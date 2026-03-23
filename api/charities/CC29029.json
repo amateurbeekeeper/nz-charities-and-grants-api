@@ -1,0 +1,27 @@
+{
+  "id": 60178,
+  "registrationNumber": "CC29029",
+  "name": "Basin Reserve Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://basinreserve.nz",
+  "email": "nadine@cricketwellington.co.nz",
+  "address": {
+    "line1": "Old Pavilion, Basin Reserve",
+    "line2": "Sussex Street",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429043048755",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:38:45Z"
+}

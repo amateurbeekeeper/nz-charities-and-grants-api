@@ -1,0 +1,27 @@
+{
+  "id": 73424,
+  "registrationNumber": "CC59773",
+  "name": "Gisborne Boardriders Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-01-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://gisborneboardriders.com/",
+  "email": "Gisborneboardriders@gmail.com",
+  "address": {
+    "line1": "40 Centennial Marine Drive",
+    "line2": " ",
+    "suburb": "Awapuni",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/gisborneboardridersclub.gbc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-31T22:15:57Z"
+}

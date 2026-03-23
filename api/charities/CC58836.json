@@ -1,0 +1,27 @@
+{
+  "id": 72448,
+  "registrationNumber": "CC58836",
+  "name": "QCT",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sbslehany@gmail.com",
+  "address": {
+    "line1": "Suite 19",
+    "line2": "Hannahs Warehouse",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429048978668",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-28T19:33:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65370,
+  "registrationNumber": "CC51609",
+  "name": "Community Law Wellington and Hutt Valley Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wclc.org.nz",
+  "email": "Kate@wclc.org.nz",
+  "address": {
+    "line1": "2/15 Dixon Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": null
+  },
+  "nzbn": "9429043278947",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WCLCnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T02:11:33Z"
+}

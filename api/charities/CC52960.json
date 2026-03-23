@@ -1,0 +1,27 @@
+{
+  "id": 66689,
+  "registrationNumber": "CC52960",
+  "name": "Medical Cannabis Awareness New Zealand",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2016-02-15T00:00:00Z",
+  "dateDeregistered": "2023-10-31T00:00:00Z",
+  "website": "http://www.mcanz.org.nz",
+  "email": "shane@mcanz.org.nz",
+  "address": {
+    "line1": "8 Herd Grove",
+    "line2": " ",
+    "suburb": "Grovetown",
+    "city": "Blenheim",
+    "postcode": "7202"
+  },
+  "nzbn": "9429043315482",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/MCANewZealand/",
+    "twitter": null
+  },
+  "lastUpdated": "2023-10-31T01:14:55Z"
+}

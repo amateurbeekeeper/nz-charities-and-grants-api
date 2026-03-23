@@ -1,0 +1,27 @@
+{
+  "id": 65327,
+  "registrationNumber": "CC51552",
+  "name": "Performing Arts Collective Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "performingcollective@gmail.com",
+  "address": {
+    "line1": "462 Carrington Street",
+    "line2": " ",
+    "suburb": "Upper Vogeltown",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043229185",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "PerformingArtsCollective",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T03:55:18Z"
+}

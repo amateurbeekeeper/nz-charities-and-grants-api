@@ -1,0 +1,27 @@
+{
+  "id": 59484,
+  "registrationNumber": "CC27190",
+  "name": "Midland Rail Heritage Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mrht.org.nz",
+  "email": "admin@mrht.org.nz",
+  "address": {
+    "line1": "84 Pocock Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Springfield",
+    "postcode": "7681"
+  },
+  "nzbn": "9429043115204",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Midland-Rail-Heritage-Trust-114717295262621/",
+    "twitter": "https://twitter.com/MRHT_NZ"
+  },
+  "lastUpdated": "2025-12-30T10:00:11Z"
+}

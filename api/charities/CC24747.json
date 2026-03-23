@@ -1,0 +1,27 @@
+{
+  "id": 42534,
+  "registrationNumber": "CC24747",
+  "name": "Auckland Chinese Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aklcbc.org/",
+  "email": "joycekhiu@hotmail.com",
+  "address": {
+    "line1": "PO Box 24345",
+    "line2": "Royal Oak",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1345"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aklcbc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-30T19:57:49Z"
+}

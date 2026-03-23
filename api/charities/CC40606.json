@@ -1,0 +1,27 @@
+{
+  "id": 52954,
+  "registrationNumber": "CC40606",
+  "name": "UN Women Aotearoa New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.unwomen.org.nz",
+  "email": "madisonwalker@unwomen.org.nz",
+  "address": {
+    "line1": "133 Turners Road",
+    "line2": " ",
+    "suburb": "Ouruhia",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429042898832",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/UNWomenANZ/",
+    "twitter": "@UNWomenNZ"
+  },
+  "lastUpdated": "2025-08-27T19:20:02Z"
+}

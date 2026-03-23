@@ -1,0 +1,27 @@
+{
+  "id": 49829,
+  "registrationNumber": "CC31280",
+  "name": "Lyttelton Historical Museum Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.teuaka.org.nz",
+  "email": "helen@goodbooks.co.nz",
+  "address": {
+    "line1": "35 London Street",
+    "line2": "Lyttelton 8082",
+    "suburb": "Corsair Bay",
+    "city": "Lyttelton",
+    "postcode": "8082"
+  },
+  "nzbn": "9429042685661",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Uaka The Lyttelton Museum",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T18:03:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52137,
+  "registrationNumber": "CC11321",
+  "name": "New Zealand School Of Music Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2007-10-09T00:00:00Z",
+  "dateDeregistered": "2017-12-31T00:00:00Z",
+  "website": "http://www.nzsm.ac.nz",
+  "email": "jacinta.palmer@vuw.ac.nz",
+  "address": {
+    "line1": "BLOCK 1   GATE C",
+    "line2": "63 Wallace Street",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429034254189",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-06-21T01:15:54Z"
+}

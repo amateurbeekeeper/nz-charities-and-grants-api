@@ -1,0 +1,27 @@
+{
+  "id": 55548,
+  "registrationNumber": "CC21475",
+  "name": "Oamaru Assembly Of God Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.reach-church.com",
+  "email": "office@reach-church.com",
+  "address": {
+    "line1": "11 Bedford Street",
+    "line2": " ",
+    "suburb": "Oamaru North",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429042776529",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Reach Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:14:00Z"
+}

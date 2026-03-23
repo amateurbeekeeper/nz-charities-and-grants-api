@@ -1,0 +1,27 @@
+{
+  "id": 52154,
+  "registrationNumber": "CC20273",
+  "name": "New Zealand Business School Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tonyf@justlife.co.nz",
+  "address": {
+    "line1": "Level 6",
+    "line2": "135 Broadway",
+    "suburb": "Newmarket",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043036202",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-22T19:41:38Z"
+}

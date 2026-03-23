@@ -1,0 +1,27 @@
+{
+  "id": 42165,
+  "registrationNumber": "CC25159",
+  "name": "Bay of Islands Uniting Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2020-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.bayofislands.methodist.org.nz",
+  "email": "irenegirvan@hotmail.com",
+  "address": {
+    "line1": "35 Kings Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paihia",
+    "postcode": "0200"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T18:07:51Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54039,
+  "registrationNumber": "CC21382",
+  "name": "EnergySmart Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-02-26T00:00:00Z",
+  "dateDeregistered": "2014-02-03T00:00:00Z",
+  "website": "http://www.energysmart.co.nz",
+  "email": "office@shepharddunphy.co.nz",
+  "address": {
+    "line1": "Kendon House",
+    "line2": "69 Rutherford Street",
+    "suburb": null,
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429038129155",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-10-14T20:53:07Z"
+}

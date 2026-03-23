@@ -1,0 +1,27 @@
+{
+  "id": 57132,
+  "registrationNumber": "CC40222",
+  "name": "Linkwater Settlers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jysmith1173@gmail.com",
+  "address": {
+    "line1": "1173 Queen Charlotte Drive",
+    "line2": "RD 1",
+    "suburb": "Linkwater",
+    "city": "Picton",
+    "postcode": "7281"
+  },
+  "nzbn": "9429048585149",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T18:03:37Z"
+}

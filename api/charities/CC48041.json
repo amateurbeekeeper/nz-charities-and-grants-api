@@ -1,0 +1,27 @@
+{
+  "id": 37728,
+  "registrationNumber": "CC48041",
+  "name": "Dunedin Wesleyan Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2012-08-10T00:00:00Z",
+  "dateDeregistered": "2019-03-31T00:00:00Z",
+  "website": "journeychurch.nz",
+  "email": "trevdi@xtra.co.nz",
+  "address": {
+    "line1": "2 Cockburn Street",
+    "line2": " ",
+    "suburb": "Fairfield",
+    "city": "Dunedin",
+    "postcode": "9018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-04-12T21:43:01Z"
+}

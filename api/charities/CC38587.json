@@ -1,0 +1,27 @@
+{
+  "id": 47148,
+  "registrationNumber": "CC38587",
+  "name": "Aotearoa Charity Hospital Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aotearoacharityhospital.org",
+  "email": "susan.garrett@nz.andersen.com",
+  "address": {
+    "line1": "PO Box 31699",
+    "line2": " ",
+    "suburb": "Milford",
+    "city": "Auckland",
+    "postcode": "0741"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T20:36:33Z"
+}

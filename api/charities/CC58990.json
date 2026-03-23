@@ -1,0 +1,27 @@
+{
+  "id": 72599,
+  "registrationNumber": "CC58990",
+  "name": "South Harbour Vineyard Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "shv.nz",
+  "email": "martyn.day9@gmail.com",
+  "address": {
+    "line1": "8 Wallace Road",
+    "line2": " ",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429049194821",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/southharbourvineyard",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T19:10:25Z"
+}

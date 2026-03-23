@@ -1,0 +1,27 @@
+{
+  "id": 78152,
+  "registrationNumber": "CC63960",
+  "name": "Catch the Fire Christchurch Church Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-11-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ctfchristchurch.com",
+  "email": "finance@ctfchristchurch.com",
+  "address": {
+    "line1": "21 Thames Street",
+    "line2": " ",
+    "suburb": "Mairehau",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ctfchristchurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T23:59:05Z"
+}

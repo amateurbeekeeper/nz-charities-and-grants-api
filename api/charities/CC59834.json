@@ -1,0 +1,27 @@
+{
+  "id": 73370,
+  "registrationNumber": "CC59834",
+  "name": "New Zealand Heritage Hockey Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "swoolf@eftpos.co.nz",
+  "address": {
+    "line1": "26 Sunrise Avenue",
+    "line2": " ",
+    "suburb": "Mairangi Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T05:56:34Z"
+}

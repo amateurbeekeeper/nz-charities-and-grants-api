@@ -1,0 +1,27 @@
+{
+  "id": 66925,
+  "registrationNumber": "CC53213",
+  "name": "Dunedin Returned Services Choir",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.rsachoir.co.nz",
+  "email": "david@more.net.nz",
+  "address": {
+    "line1": "20 Moray Place",
+    "line2": "Octagon Chambers",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/rsachoir",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-23T19:38:34Z"
+}

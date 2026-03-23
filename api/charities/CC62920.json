@@ -1,0 +1,27 @@
+{
+  "id": 76823,
+  "registrationNumber": "CC62920",
+  "name": "Southern Cancer Society Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cancer.org.nz/about-us/find-a-cancer-society-office-near-you/christchurch/",
+  "email": "bianca.baillie@southerncancer.org.nz",
+  "address": {
+    "line1": "74 Langdons Road",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429052483141",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cancercwc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-29T02:49:57Z"
+}

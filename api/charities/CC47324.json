@@ -1,0 +1,27 @@
+{
+  "id": 36578,
+  "registrationNumber": "CC47324",
+  "name": "Rural Youth and Adult Literacy Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-08-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.adultliteracy.ac.nz",
+  "email": "jo@adultliteracy.ac.nz",
+  "address": {
+    "line1": "19 Ocean View Road",
+    "line2": "RD 5",
+    "suburb": " ",
+    "city": "Tuakau",
+    "postcode": "2695"
+  },
+  "nzbn": "9429043150991",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RYALTrust/",
+    "twitter": "https://twitter.com/ RuralLiteracyNZ"
+  },
+  "lastUpdated": "2026-03-13T03:33:05Z"
+}

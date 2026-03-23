@@ -1,0 +1,27 @@
+{
+  "id": 34283,
+  "registrationNumber": "CC50987",
+  "name": "Mataura Development Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "raymond@paperwarrior.nz",
+  "address": {
+    "line1": "41 Friend Road",
+    "line2": "RD 4",
+    "suburb": "Waimumu",
+    "city": "Gore",
+    "postcode": "9774"
+  },
+  "nzbn": "9429043197187",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MatauraMessenger/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-01T20:38:56Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64320,
+  "registrationNumber": "CC40005",
+  "name": "Waitaki Community Gardens Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.waitakicommunitygardens.nz",
+  "email": "alvsa88@gmail.com",
+  "address": {
+    "line1": "45 Chelmer Street",
+    "line2": "Oamaru 9400",
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429043093908",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WaitakiCommunityGardens/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T05:25:29Z"
+}

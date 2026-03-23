@@ -1,0 +1,27 @@
+{
+  "id": 67336,
+  "registrationNumber": "CC53623",
+  "name": "FASD-CAN Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.fasd-can.org.nz",
+  "email": "ross.porter@fasd-can.org.nz",
+  "address": {
+    "line1": "27A Hoskins Avenue",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429043251414",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/fasdsupport/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T02:37:48Z"
+}

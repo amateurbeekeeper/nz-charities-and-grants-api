@@ -1,0 +1,27 @@
+{
+  "id": 63487,
+  "registrationNumber": "CC41001",
+  "name": "Oxford Health and Fitness Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "timfulton050@gmail.com",
+  "address": {
+    "line1": "1138 North Eyre Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "West Eyreton",
+    "postcode": "7475"
+  },
+  "nzbn": "9429043096138",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:13:51Z"
+}

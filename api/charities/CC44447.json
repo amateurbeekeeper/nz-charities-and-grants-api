@@ -1,0 +1,27 @@
+{
+  "id": 50671,
+  "registrationNumber": "CC44447",
+  "name": "Devonport Historical And Museum Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.devonportmuseum",
+  "email": "info@devonportmuseum.org.nz",
+  "address": {
+    "line1": "33A Vauxhall Road",
+    "line2": " ",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": "9429042668657",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T00:17:23Z"
+}

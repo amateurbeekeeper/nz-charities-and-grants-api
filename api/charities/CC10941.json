@@ -1,0 +1,27 @@
+{
+  "id": 52698,
+  "registrationNumber": "CC10941",
+  "name": "International Needs New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.innz.org.nz",
+  "email": "director@innz.org.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "98 Birch Avenue",
+    "suburb": "Judea",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042664604",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "internationalneedsnewzealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T07:10:29Z"
+}

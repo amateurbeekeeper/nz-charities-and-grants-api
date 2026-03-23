@@ -1,0 +1,27 @@
+{
+  "id": 75065,
+  "registrationNumber": "CC61492",
+  "name": "Agape Alliance Christian Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "addynz@gmail.com",
+  "address": {
+    "line1": "14 Stellamaris Way",
+    "line2": " ",
+    "suburb": "Northpark",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": " https://www.facebook.com/agapechurchnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:42Z"
+}

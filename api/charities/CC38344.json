@@ -1,0 +1,27 @@
+{
+  "id": 61810,
+  "registrationNumber": "CC38344",
+  "name": "Levin Community Patrol",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "terry.hemmingsen@gmail.com",
+  "address": {
+    "line1": "7 Bristol Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T00:32:24Z"
+}

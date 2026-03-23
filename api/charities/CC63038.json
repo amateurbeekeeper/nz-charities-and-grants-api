@@ -1,0 +1,27 @@
+{
+  "id": 77033,
+  "registrationNumber": "CC63038",
+  "name": "Kakanui Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "doreen.cleave@fireandemergency.nz",
+  "address": {
+    "line1": "9 Kakanui Road",
+    "line2": " ",
+    "suburb": "Kakanui",
+    "city": "Oamaru",
+    "postcode": "9495"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100087986277589",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-06T01:46:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 49067,
+  "registrationNumber": "CC38203",
+  "name": "The Parnell Hotel & Conference Centre Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.theparnell.co.nz",
+  "email": "jphibbs@theparnell.co.nz",
+  "address": {
+    "line1": "20 Gladstone Road",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429040625676",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:27Z"
+}

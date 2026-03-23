@@ -1,0 +1,27 @@
+{
+  "id": 77201,
+  "registrationNumber": "CC63121",
+  "name": "Wairua Ataahua",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jasmine.satini@gmail.com",
+  "address": {
+    "line1": "8 Manukau Road",
+    "line2": " ",
+    "suburb": null,
+    "city": "Raglan",
+    "postcode": "3225"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T10:19:48Z"
+}

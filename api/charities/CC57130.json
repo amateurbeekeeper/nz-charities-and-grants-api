@@ -1,0 +1,27 @@
+{
+  "id": 70758,
+  "registrationNumber": "CC57130",
+  "name": "Oxford Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-10-16T00:00:00Z",
+  "dateDeregistered": "2025-10-31T00:00:00Z",
+  "website": null,
+  "email": "loupitman@gmail.com",
+  "address": {
+    "line1": "102 Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Oxford",
+    "postcode": "7430"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T06:04:03Z"
+}

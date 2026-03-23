@@ -1,0 +1,27 @@
+{
+  "id": 50351,
+  "registrationNumber": "CC43918",
+  "name": "The Pat Farry Rural Health Education Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.patfarrytrust.co.nz",
+  "email": "patfarrytrust@gmail.com",
+  "address": {
+    "line1": "5 Ash Avenue",
+    "line2": " ",
+    "suburb": "Albert Town",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Pat-Farry-Rural-Health-Education-Trust-252788761514384/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T06:50:33Z"
+}

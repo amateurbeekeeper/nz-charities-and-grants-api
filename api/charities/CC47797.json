@@ -1,0 +1,27 @@
+{
+  "id": 37638,
+  "registrationNumber": "CC47797",
+  "name": "Rule Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-01-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ruleeducation.co.nz",
+  "email": "enua@ruleeducation.co.nz",
+  "address": {
+    "line1": "28A Waitangi Road",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042981725",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Rule Education Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:14:43Z"
+}

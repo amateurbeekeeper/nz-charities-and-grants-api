@@ -1,0 +1,27 @@
+{
+  "id": 35597,
+  "registrationNumber": "CC46231",
+  "name": "The New Zealand Disability Support Network Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzdsn.org.nz",
+  "email": "ceo@nzdsn.org.nz",
+  "address": {
+    "line1": "PO Box 38675",
+    "line2": "Wellington Mail Centre",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5045"
+  },
+  "nzbn": "9429043210619",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:41:47Z"
+}

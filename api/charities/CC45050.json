@@ -1,0 +1,27 @@
+{
+  "id": 36056,
+  "registrationNumber": "CC45050",
+  "name": "Te Ao Hou",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-08-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.teaohou.org.nz",
+  "email": "lindasteel@teaohou.org.nz",
+  "address": {
+    "line1": "38 King Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Opotiki",
+    "postcode": "3122"
+  },
+  "nzbn": "9429042998525",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T19:12:25Z"
+}

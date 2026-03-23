@@ -1,0 +1,27 @@
+{
+  "id": 45277,
+  "registrationNumber": "CC37104",
+  "name": "Church of the Word",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "duxaccounting@gmail.com",
+  "address": {
+    "line1": "254 Union Road",
+    "line2": "RD 3",
+    "suburb": "Mauku",
+    "city": "Pukekohe",
+    "postcode": "2678"
+  },
+  "nzbn": "9429043030798",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-06T00:23:28Z"
+}

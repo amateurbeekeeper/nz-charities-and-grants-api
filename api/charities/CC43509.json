@@ -1,0 +1,27 @@
+{
+  "id": 62643,
+  "registrationNumber": "CC43509",
+  "name": "New Brighton Surf Bathing & Life Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://newbrightonslsc.org.nz/",
+  "email": "info@newbrightonslsc.org.nz",
+  "address": {
+    "line1": "185 Marine Parade",
+    "line2": " ",
+    "suburb": "New Brighton",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429042677987",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "New Brighton Surf Lifesaving Club",
+    "twitter": "@newbrigtonslsc"
+  },
+  "lastUpdated": "2026-02-05T06:04:36Z"
+}

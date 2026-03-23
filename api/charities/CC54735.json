@@ -1,0 +1,27 @@
+{
+  "id": 68404,
+  "registrationNumber": "CC54735",
+  "name": "Te Korowai Manaaki Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whakaaro-whakairo.com",
+  "email": "pakau@me.com",
+  "address": {
+    "line1": "72A Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Otaki",
+    "postcode": "5512"
+  },
+  "nzbn": "9429045752476",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whakaarowhakairo/?ref=page_internal#",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T22:38:40Z"
+}

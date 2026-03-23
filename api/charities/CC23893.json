@@ -1,0 +1,27 @@
+{
+  "id": 40348,
+  "registrationNumber": "CC23893",
+  "name": "Canterbury West Coast Air Rescue Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.airrescue.co.nz",
+  "email": "rachael@airrescue.co.nz",
+  "address": {
+    "line1": "73 Grays Road",
+    "line2": "Harewood Aviation Park",
+    "suburb": "Yaldhurst",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429042610069",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CWCairrescue/?hc_ref=SEARCH&fref=nf",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T23:12:08Z"
+}

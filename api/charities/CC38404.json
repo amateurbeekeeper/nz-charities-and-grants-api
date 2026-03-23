@@ -1,0 +1,27 @@
+{
+  "id": 59437,
+  "registrationNumber": "CC38404",
+  "name": "Manawatu Volunteer Coastguard Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.coastguard.co.nz",
+  "email": "manawatu@coastguard.nz",
+  "address": {
+    "line1": "50 Hartley Street",
+    "line2": "Wicksteed TCE",
+    "suburb": "Foxton Beach",
+    "city": "Foxton",
+    "postcode": "4815"
+  },
+  "nzbn": "9429042638100",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T00:35:07Z"
+}

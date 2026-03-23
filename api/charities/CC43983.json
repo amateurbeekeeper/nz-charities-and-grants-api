@@ -1,0 +1,27 @@
+{
+  "id": 50410,
+  "registrationNumber": "CC43983",
+  "name": "East Coast Bays Netball Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-04-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sporty.co.nz/eastcoastbaysnetball",
+  "email": "ecbnetball.inc@gmail.com",
+  "address": {
+    "line1": "932 East Coast Road",
+    "line2": " ",
+    "suburb": "Northcross",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429043161713",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T05:04:33Z"
+}

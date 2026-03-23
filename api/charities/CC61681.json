@@ -1,0 +1,27 @@
+{
+  "id": 75249,
+  "registrationNumber": "CC61681",
+  "name": "Te Ahurei Ora",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://teahureiora.com",
+  "email": "arahia@teahureiora.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "15 Miller Street",
+    "suburb": "Glenholme",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429051356224",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-22T21:42:14Z"
+}

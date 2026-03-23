@@ -1,0 +1,27 @@
+{
+  "id": 70430,
+  "registrationNumber": "CC56793",
+  "name": "Te Ahi Wairua o Kaikoura Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lorraine@teahiwairua.co.nz",
+  "address": {
+    "line1": "74 Beach Road",
+    "line2": "Kaikoura 7300",
+    "suburb": " ",
+    "city": "Kaikoura",
+    "postcode": "7300"
+  },
+  "nzbn": "9429043284122",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Ahi Wairua",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T01:03:04Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 78454,
+  "registrationNumber": "CC64273",
+  "name": "PMDD Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pmddaotearoa.org.nz/",
+  "email": "lois.mcclintock@gmail.com",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "3 Ayr Street",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PMDD.Aotearoa",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T22:36:36Z"
+}

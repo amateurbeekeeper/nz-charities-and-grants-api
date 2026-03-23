@@ -1,0 +1,27 @@
+{
+  "id": 58160,
+  "registrationNumber": "CC38900",
+  "name": "Christchurch Group N. Z. Riding for the Disabled Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.chchrda.org.nz",
+  "email": "treasurer@chchrda.org.nz",
+  "address": {
+    "line1": "Canterbury Agricultural Park",
+    "line2": "102 Curletts Road",
+    "suburb": "Sockburn",
+    "city": "Christchurch",
+    "postcode": "8442"
+  },
+  "nzbn": "9429042611714",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/chchrda",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T00:21:04Z"
+}

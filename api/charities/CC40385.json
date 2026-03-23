@@ -1,0 +1,27 @@
+{
+  "id": 62031,
+  "registrationNumber": "CC40385",
+  "name": "Clayton Park Kindergarten",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cmka.org.nz",
+  "email": "deana@cmka.org.nz",
+  "address": {
+    "line1": "Coxhead Road",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T23:05:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40526,
+  "registrationNumber": "CC34784",
+  "name": "Totara North Early Childhood Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tnecc.co.nz",
+  "email": "tnecc@xtra.co.nz",
+  "address": {
+    "line1": "32 School Road",
+    "line2": "RD 2",
+    "suburb": "Totara North RD2",
+    "city": "Kaeo Northland",
+    "postcode": "0471"
+  },
+  "nzbn": "9429043018833",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T00:19:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53526,
+  "registrationNumber": "CC20601",
+  "name": "Rotorua Hospital Chaplaincy Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "rcd.org.nz",
+  "email": "hannelie.parsloe@lakesdhb.govt.nz",
+  "address": {
+    "line1": "Pukeroa Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "ROTORUA",
+    "postcode": "3040"
+  },
+  "nzbn": "9429043016518",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Rotorua Hospital Chaplaincy",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T21:40:41Z"
+}

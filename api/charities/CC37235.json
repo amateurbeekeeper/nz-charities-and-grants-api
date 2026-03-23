@@ -1,0 +1,27 @@
+{
+  "id": 58956,
+  "registrationNumber": "CC37235",
+  "name": "Henderson Valley Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-11-03T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/henderson-valley/",
+  "email": "hendersonvalley@playcentre.org.nz",
+  "address": {
+    "line1": "31 Farwood Drive",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/HendersonValleyPlaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T06:03:25Z"
+}

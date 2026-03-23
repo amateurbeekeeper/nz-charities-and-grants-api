@@ -1,0 +1,27 @@
+{
+  "id": 41267,
+  "registrationNumber": "CC34258",
+  "name": "Christian Schools Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cst.org.nz",
+  "email": "chris@cst.org.nz",
+  "address": {
+    "line1": "MIDDLETON GRANGE SCHOOL",
+    "line2": "30 Acacia Avenue",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042619192",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:15:03Z"
+}

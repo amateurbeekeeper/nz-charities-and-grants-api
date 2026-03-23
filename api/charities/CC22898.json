@@ -1,0 +1,27 @@
+{
+  "id": 40473,
+  "registrationNumber": "CC22898",
+  "name": "Lifemax Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul-j@outlook.co.nz",
+  "address": {
+    "line1": "4 Rainier Street",
+    "line2": " ",
+    "suburb": "Monaco",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429043080977",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-27T02:42:31Z"
+}

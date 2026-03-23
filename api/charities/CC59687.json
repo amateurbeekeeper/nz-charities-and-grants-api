@@ -1,0 +1,27 @@
+{
+  "id": 73285,
+  "registrationNumber": "CC59687",
+  "name": "Pikirangi Marae Maori Reservation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pikirangimarae932@gmail.com",
+  "address": {
+    "line1": "932 Te Ngae Road",
+    "line2": " ",
+    "suburb": "Owhata",
+    "city": "Rotorua",
+    "postcode": "3074"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T19:44:58Z"
+}

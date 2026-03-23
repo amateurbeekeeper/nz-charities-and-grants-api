@@ -1,0 +1,27 @@
+{
+  "id": 60913,
+  "registrationNumber": "CC40059",
+  "name": "Trust Waiheke",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://waiheke.net",
+  "email": "TrustWaiheke@gmail.com",
+  "address": {
+    "line1": "40 Motukaha Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Waiheke Island",
+    "postcode": "1971"
+  },
+  "nzbn": "9429043117345",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-13T09:26:16Z"
+}

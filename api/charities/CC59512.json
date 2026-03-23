@@ -1,0 +1,27 @@
+{
+  "id": 73113,
+  "registrationNumber": "CC59512",
+  "name": "Vision Rehabilitation Services Trust ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.visionrehab.org.nz",
+  "email": "mg@visionrehab.org.nz",
+  "address": {
+    "line1": "12A Waddon Place",
+    "line2": "57 Walls Road",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429050929849",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-28T19:37:21Z"
+}

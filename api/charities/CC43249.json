@@ -1,0 +1,27 @@
+{
+  "id": 64033,
+  "registrationNumber": "CC43249",
+  "name": "Hamilton Yacht Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-12-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hyc.org.nz",
+  "email": "secretary@hyc.org.nz",
+  "address": {
+    "line1": "Lake Rotoroa",
+    "line2": "Innes Common",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042631545",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Hamilton-Yacht-Club-1504793063103717/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T20:46:17Z"
+}

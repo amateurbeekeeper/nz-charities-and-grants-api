@@ -1,0 +1,27 @@
+{
+  "id": 62275,
+  "registrationNumber": "CC40232",
+  "name": "Ngati Rarua Asset Holding Company Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngatirarua.iwi.nz",
+  "email": "michelle.lavender@ngatirarua.iwi.nz",
+  "address": {
+    "line1": "65 Scott Street",
+    "line2": "Blenheim 7201",
+    "suburb": "Mayfield",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429034525142",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T18:08:22Z"
+}

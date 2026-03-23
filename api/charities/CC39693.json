@@ -1,0 +1,27 @@
+{
+  "id": 47318,
+  "registrationNumber": "CC39693",
+  "name": "Fleet FM Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-04-30T00:00:00Z",
+  "dateDeregistered": "2011-03-21T00:00:00Z",
+  "website": "http://fleetfm.co.nz",
+  "email": "info@fleetfm.co.nz",
+  "address": {
+    "line1": "467 Symonds Street",
+    "line2": null,
+    "suburb": "Newton",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:02:18Z"
+}

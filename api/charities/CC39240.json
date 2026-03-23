@@ -1,0 +1,27 @@
+{
+  "id": 62372,
+  "registrationNumber": "CC39240",
+  "name": "United North Piha Lifeguard Service (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.unitednorthpiha.org.nz",
+  "email": "finance@unitednorthpiha.org.nz",
+  "address": {
+    "line1": "4 North Piha Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Piha",
+    "postcode": "772"
+  },
+  "nzbn": "9429042901860",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@unitednorthpiha",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T01:17:41Z"
+}

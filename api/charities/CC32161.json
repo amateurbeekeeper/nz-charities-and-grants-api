@@ -1,0 +1,27 @@
+{
+  "id": 48812,
+  "registrationNumber": "CC32161",
+  "name": "The Coast To Coast Hauora Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "manager@ctchc.co.nz",
+  "address": {
+    "line1": "72 School Road",
+    "line2": "Wellsford 0900",
+    "suburb": "Wellsford",
+    "city": "Auckland",
+    "postcode": "0900"
+  },
+  "nzbn": "9429043110292",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T20:29:53Z"
+}

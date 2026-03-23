@@ -1,0 +1,27 @@
+{
+  "id": 65480,
+  "registrationNumber": "CC51716",
+  "name": "St Paul's Presbyterian Church Kaikoura",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "majp@xtra.co.nz",
+  "address": {
+    "line1": "11 Deal Street",
+    "line2": " ",
+    "suburb": "Kaikōura",
+    "city": "Kaikoura",
+    "postcode": "7300"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T18:20:26Z"
+}

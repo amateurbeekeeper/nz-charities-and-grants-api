@@ -1,0 +1,27 @@
+{
+  "id": 66268,
+  "registrationNumber": "CC52538",
+  "name": "Cantando Choir Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-10-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cantando.org.nz",
+  "email": "info@cantando.org.nz",
+  "address": {
+    "line1": "21 Wadham Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Ngaruawahia",
+    "postcode": "3793"
+  },
+  "nzbn": "9429043095063",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "cantando.choir",
+    "twitter": "@cantanchoir"
+  },
+  "lastUpdated": "2025-11-02T20:15:03Z"
+}

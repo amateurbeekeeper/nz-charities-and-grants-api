@@ -1,0 +1,27 @@
+{
+  "id": 64933,
+  "registrationNumber": "CC42492",
+  "name": "Mairangi Bay Surf Lifesaving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mairangibayslsc.org.nz",
+  "email": "chairman@mairangibayslsc.org.nz",
+  "address": {
+    "line1": "Sidmouth Street",
+    "line2": "Mairangi Bay",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429042757016",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MairangiBaySLSC",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T19:32:45Z"
+}

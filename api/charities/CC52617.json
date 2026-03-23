@@ -1,0 +1,27 @@
+{
+  "id": 66350,
+  "registrationNumber": "CC52617",
+  "name": "The Therapy Box",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-11-16T00:00:00Z",
+  "dateDeregistered": "2022-08-31T00:00:00Z",
+  "website": "https://www.thetherapybox.org.nz",
+  "email": "hannah.young@hotmail.co.nz",
+  "address": {
+    "line1": "36 Rathlin Street",
+    "line2": " ",
+    "suburb": "Blockhouse Bay",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429046450715",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/thetherapybox/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-05-10T21:07:45Z"
+}

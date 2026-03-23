@@ -1,0 +1,27 @@
+{
+  "id": 77439,
+  "registrationNumber": "CC63240",
+  "name": "Auckland Choral Ensemble Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "aucklandchoralensemble@gmail.com",
+  "address": {
+    "line1": "5 Bolina Crescent",
+    "line2": " ",
+    "suburb": "Pakuranga",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429052791895",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aucklandchoralensemble",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T01:30:26Z"
+}

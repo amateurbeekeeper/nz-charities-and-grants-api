@@ -1,0 +1,27 @@
+{
+  "id": 40540,
+  "registrationNumber": "CC31254",
+  "name": "Community Arts Palmerston North Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.communityarts.org.nz",
+  "email": "office@ca.org.nz",
+  "address": {
+    "line1": "47 The Square",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042816348",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "squareedgecommunityarts",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T01:07:44Z"
+}

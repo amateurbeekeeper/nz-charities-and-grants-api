@@ -1,0 +1,27 @@
+{
+  "id": 46985,
+  "registrationNumber": "CC44139",
+  "name": "iSPORT FOUNDATION",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://isport.org.nz",
+  "email": "ness.rogers@isport.org.nz",
+  "address": {
+    "line1": "102 Shelter Drive",
+    "line2": " ",
+    "suburb": "Greenhithe",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043267392",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/isportfoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T21:24:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54051,
+  "registrationNumber": "CC21861",
+  "name": "Royal Academy of Dance",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rad.org.nz",
+  "email": "bwilliams@rad.org.nz",
+  "address": {
+    "line1": "40 Taranaki Street",
+    "line2": "89 Courtenay Place",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T21:31:13Z"
+}

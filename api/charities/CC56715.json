@@ -1,0 +1,27 @@
+{
+  "id": 70355,
+  "registrationNumber": "CC56715",
+  "name": "Ngati Tamaoho Charitable Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tamaoho.maori.nz",
+  "email": "wschultz@deloitte.co.nz",
+  "address": {
+    "line1": "128 Hingaia Road",
+    "line2": "RD 1",
+    "suburb": "Karaka",
+    "city": "Papakura",
+    "postcode": "2580"
+  },
+  "nzbn": "9429046884329",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-11-13T22:22:34Z"
+}

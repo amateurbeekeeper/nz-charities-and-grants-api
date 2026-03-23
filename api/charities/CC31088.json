@@ -1,0 +1,27 @@
+{
+  "id": 59248,
+  "registrationNumber": "CC31088",
+  "name": "Church Resource Ministries New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "crm4newzealand@gmail.com",
+  "address": {
+    "line1": "16 Rotherham Terrace",
+    "line2": " ",
+    "suburb": "Miramar",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429043002672",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T06:19:29Z"
+}

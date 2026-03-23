@@ -1,0 +1,27 @@
+{
+  "id": 32995,
+  "registrationNumber": "CC50083",
+  "name": "Iqra Academy",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "afsarhk@gmail.com",
+  "address": {
+    "line1": "9 Budgen Street",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T02:25:18Z"
+}

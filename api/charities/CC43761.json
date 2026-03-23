@@ -1,0 +1,27 @@
+{
+  "id": 50149,
+  "registrationNumber": "CC43761",
+  "name": "Brett Stevens Trust Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gtcc@pgtrust.co.nz",
+  "address": {
+    "line1": "C/O Perpetual Guardian",
+    "line2": "Level 8, 191 Queen Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-10T19:41:24Z"
+}

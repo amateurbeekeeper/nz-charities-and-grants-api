@@ -1,0 +1,27 @@
+{
+  "id": 75579,
+  "registrationNumber": "CC62022",
+  "name": "Waipu Mountain Bike Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-02-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "simon@workup.co.nz",
+  "address": {
+    "line1": "PO Box 99",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waipu",
+    "postcode": "0545"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-09T01:57:07Z"
+}

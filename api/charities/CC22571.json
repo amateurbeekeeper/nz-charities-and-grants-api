@@ -1,0 +1,27 @@
+{
+  "id": 56115,
+  "registrationNumber": "CC22571",
+  "name": "Wellington Museums Trust Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.experiencewellington.org.nz",
+  "email": "JillW@experiencewellington.org.nz",
+  "address": {
+    "line1": "Level 4",
+    "line2": "65 Victoria Street",
+    "suburb": " Wellington Central",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429041926390",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T02:14:03Z"
+}

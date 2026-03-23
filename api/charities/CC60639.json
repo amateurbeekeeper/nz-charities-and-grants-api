@@ -1,0 +1,27 @@
+{
+  "id": 74232,
+  "registrationNumber": "CC60639",
+  "name": "New Zealand Board of Imams",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Pca.NewZealand@gmail.com",
+  "address": {
+    "line1": "141 Farquhar Road",
+    "line2": " ",
+    "suburb": "Glendene",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": "9429050692880",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T03:12:06Z"
+}

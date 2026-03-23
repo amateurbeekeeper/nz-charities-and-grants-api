@@ -1,0 +1,27 @@
+{
+  "id": 68398,
+  "registrationNumber": "CC53745",
+  "name": "Honeymoon Valley Landcare Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-07-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://honeymoonvalleylandcare.org.nz/",
+  "email": "waldron@math.auckland.ac.nz",
+  "address": {
+    "line1": "629 Honeymoon Valley Road",
+    "line2": "RD 2",
+    "suburb": "Peria",
+    "city": "Kaitaia",
+    "postcode": "0482"
+  },
+  "nzbn": "9429043297429",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/413546408810747/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T18:03:48Z"
+}

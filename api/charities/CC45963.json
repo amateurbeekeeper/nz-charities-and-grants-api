@@ -1,0 +1,27 @@
+{
+  "id": 38324,
+  "registrationNumber": "CC45963",
+  "name": "The Theatreview Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-01-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.theatreview.org.nz",
+  "email": "mckee@mckeelakeman.co.nz",
+  "address": {
+    "line1": "22 Porritt Avenue",
+    "line2": " ",
+    "suburb": "Mount Victoria",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043234080",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Theatreview/",
+    "twitter": "https://mobile.twitter.com/theatreview"
+  },
+  "lastUpdated": "2025-11-30T03:08:55Z"
+}

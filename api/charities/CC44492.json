@@ -1,0 +1,27 @@
+{
+  "id": 50400,
+  "registrationNumber": "CC44492",
+  "name": "Tablo - The Notional Theatre Company of New Zealand",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-06-22T00:00:00Z",
+  "dateDeregistered": "2016-06-13T00:00:00Z",
+  "website": "www.tablo.co.nz",
+  "email": "info@tablo.co.nz",
+  "address": {
+    "line1": "36 Council Hill Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Little River",
+    "postcode": "7591"
+  },
+  "nzbn": "9429043226108",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:32:15Z"
+}

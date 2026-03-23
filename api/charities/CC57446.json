@@ -1,0 +1,27 @@
+{
+  "id": 71076,
+  "registrationNumber": "CC57446",
+  "name": "Taranaki Trails Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-12-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://taranakitrails.nz/",
+  "email": "chair@taranakitrails.nz",
+  "address": {
+    "line1": "42 Regan Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Stratford",
+    "postcode": "4332"
+  },
+  "nzbn": "9429052328220",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Taranaki-Trails-Trust-113871753501032/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T04:00:00Z"
+}

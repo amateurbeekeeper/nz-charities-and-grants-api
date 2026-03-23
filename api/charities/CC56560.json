@@ -1,0 +1,27 @@
+{
+  "id": 70199,
+  "registrationNumber": "CC56560",
+  "name": "Rice NZ Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "ricemovement.org",
+  "email": "helen.yeung@ricemovement.org",
+  "address": {
+    "line1": "PO Box 217127",
+    "line2": "Botany Junction",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2164"
+  },
+  "nzbn": "9429047269835",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/636692769874665/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T03:31:49Z"
+}

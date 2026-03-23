@@ -1,0 +1,27 @@
+{
+  "id": 42381,
+  "registrationNumber": "CC24819",
+  "name": "Mataliki Tokelau Pre-school South Auckland Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mataliki.co.nz",
+  "email": "acm@mataliki.co.nz",
+  "address": {
+    "line1": "53 Raglan Street",
+    "line2": " ",
+    "suburb": "Mangere East",
+    "city": "Auckland",
+    "postcode": "2024"
+  },
+  "nzbn": "9429042766889",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/matalikitokelau/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:37:33Z"
+}

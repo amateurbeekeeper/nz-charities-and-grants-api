@@ -1,0 +1,27 @@
+{
+  "id": 70000,
+  "registrationNumber": "CC56356",
+  "name": "New Zealand Trees for Bees Research Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.treesforbeesnz.org",
+  "email": "newstrom.lloyd@gmail.com",
+  "address": {
+    "line1": "135 Te Mata Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Havelock North",
+    "postcode": "4130"
+  },
+  "nzbn": "9429047277724",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Trees for Bees NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-15T01:38:07Z"
+}

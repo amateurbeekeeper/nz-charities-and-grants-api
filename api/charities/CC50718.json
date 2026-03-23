@@ -1,0 +1,27 @@
+{
+  "id": 34435,
+  "registrationNumber": "CC50718",
+  "name": "One Double Five Whare Awhina Community House Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whareawhina.org.nz",
+  "email": "ceo@whareawhina.org.nz",
+  "address": {
+    "line1": "93 Cameron Street",
+    "line2": "Whangarei 0110",
+    "suburb": "Whangārei",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043240845",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whareawhina.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:29:28Z"
+}

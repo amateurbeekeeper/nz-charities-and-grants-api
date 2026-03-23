@@ -1,0 +1,27 @@
+{
+  "id": 50277,
+  "registrationNumber": "CC44025",
+  "name": "New Zealand Dermatology Nurses Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzdermatologynurses.nz/",
+  "email": "nursesnzdns@gmail.com",
+  "address": {
+    "line1": "53 Tradewinds Drive",
+    "line2": " ",
+    "suburb": " Whitby",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429043197323",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:55:49Z"
+}

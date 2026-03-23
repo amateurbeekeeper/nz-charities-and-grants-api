@@ -1,0 +1,27 @@
+{
+  "id": 77604,
+  "registrationNumber": "CC63396",
+  "name": "Taranaki Vaimoana Pasifika Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taranakivaimoanapasifika.org",
+  "email": "mataiva@vaimoana.org.nz",
+  "address": {
+    "line1": "20 Calvert Road",
+    "line2": null,
+    "suburb": "Moturoa",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/VaimoanaPasifikaCharitableTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-16T20:11:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51713,
+  "registrationNumber": "CC10400",
+  "name": "Whangarei Accessible Housing Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://whangareiaccessiblehousingtrust.org.nz",
+  "email": "Susanne@accessiblehousing.org.nz",
+  "address": {
+    "line1": "18 Brenda Gardner Way",
+    "line2": "RD 9",
+    "suburb": "Maunu",
+    "city": "Whangarei",
+    "postcode": "0179"
+  },
+  "nzbn": "9429043156542",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T23:15:07Z"
+}

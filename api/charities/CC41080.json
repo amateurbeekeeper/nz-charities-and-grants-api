@@ -1,0 +1,27 @@
+{
+  "id": 46807,
+  "registrationNumber": "CC41080",
+  "name": "Eastern Bay of Plenty Gymnastics Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ebopgymnastics.co.nz",
+  "email": "manager@ebopgymnastics.co.nz",
+  "address": {
+    "line1": "11 Lovelock Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429043107544",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EBOP-Gymnastics-110822117187537/?modal=admin_todo_tour",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T21:22:48Z"
+}

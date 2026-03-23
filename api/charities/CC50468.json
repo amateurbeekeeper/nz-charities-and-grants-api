@@ -1,0 +1,27 @@
+{
+  "id": 34225,
+  "registrationNumber": "CC50468",
+  "name": "Wildbase Recovery Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wildbaserecovery.co.nz/",
+  "email": "w.newport-smith@massey.ac.nz",
+  "address": {
+    "line1": "20 Victoria Drive",
+    "line2": " ",
+    "suburb": "West End",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429043263356",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WildbaseRecovery",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T00:38:31Z"
+}

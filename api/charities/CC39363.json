@@ -1,0 +1,27 @@
+{
+  "id": 51081,
+  "registrationNumber": "CC39363",
+  "name": "Te Rūnanga-Ā-Iwi-Ō-Ngāpuhi",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngapuhi.iwi.nz",
+  "email": "board.admin@ngapuhi.org",
+  "address": {
+    "line1": "Ngāwha Innovation and Enterprise Park",
+    "line2": "5449A State Highway 12",
+    "suburb": " ",
+    "city": "Kaikohe",
+    "postcode": "0472"
+  },
+  "nzbn": "9429042827405",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ngapuhirunanga",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T00:39:05Z"
+}

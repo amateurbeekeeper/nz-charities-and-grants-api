@@ -1,0 +1,27 @@
+{
+  "id": 41598,
+  "registrationNumber": "CC25931",
+  "name": "Hokonui Christian Fellowship Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rockjewel@xtra.co.nz",
+  "address": {
+    "line1": "17 Redmond Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gore",
+    "postcode": "9710"
+  },
+  "nzbn": "9429043179497",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T08:58:23Z"
+}

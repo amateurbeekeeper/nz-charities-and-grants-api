@@ -1,0 +1,27 @@
+{
+  "id": 48573,
+  "registrationNumber": "CC38821",
+  "name": "Aotearoa Resettled Community Coalition Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.arcc.org.nz",
+  "email": "abann@arcc.org.nz",
+  "address": {
+    "line1": "869 New North Road",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429043144075",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/arccaotearoa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T21:09:21Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54527,
+  "registrationNumber": "CC24058",
+  "name": "Netsafe Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.netsafe.org.nz",
+  "email": "andreal@netsafe.org.nz",
+  "address": {
+    "line1": "PO Box 124",
+    "line2": "Shortland Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1140"
+  },
+  "nzbn": "9429042994879",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T23:36:08Z"
+}

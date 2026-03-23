@@ -1,0 +1,27 @@
+{
+  "id": 57482,
+  "registrationNumber": "CC30918",
+  "name": "Evergreen Baptist Church (NZ)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://cafe.daum.net/evergreenNZ",
+  "email": "dscssj@naver.com",
+  "address": {
+    "line1": "97 Onewa Road",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429043140152",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T21:38:10Z"
+}

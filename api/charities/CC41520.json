@@ -1,0 +1,27 @@
+{
+  "id": 62425,
+  "registrationNumber": "CC41520",
+  "name": "The Tamaki Estuary Protection Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teps.org.nz",
+  "email": "Chair@teps.org.nz",
+  "address": {
+    "line1": "199 St Heliers Bay Road",
+    "line2": " ",
+    "suburb": "St Heliers",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429042956860",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/tamakiestuary",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2026-02-18T01:09:24Z"
+}

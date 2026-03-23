@@ -1,0 +1,27 @@
+{
+  "id": 74484,
+  "registrationNumber": "CC60900",
+  "name": "Wellington School of Drawing",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-01-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wellingtonschoolofdrawing.com/",
+  "email": "bolznz@yahoo.co.nz",
+  "address": {
+    "line1": "14 Rata Road",
+    "line2": " ",
+    "suburb": "Hataitai",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429051032890",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/schoolfordrawing/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T06:52:45Z"
+}

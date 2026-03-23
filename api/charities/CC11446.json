@@ -1,0 +1,27 @@
+{
+  "id": 52914,
+  "registrationNumber": "CC11446",
+  "name": "The Agnes Niven Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.psc.org.nz",
+  "email": "Samantha.Hamilton@psc.org.nz",
+  "address": {
+    "line1": "1 Prosser Street",
+    "line2": " ",
+    "suburb": "Elsdon",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T20:00:47Z"
+}

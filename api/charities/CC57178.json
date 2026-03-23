@@ -1,0 +1,27 @@
+{
+  "id": 70809,
+  "registrationNumber": "CC57178",
+  "name": "Medical Assurance Society New Zealand Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-12-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://mas.co.nz/",
+  "email": "nick.mereu@mas.co.nz",
+  "address": {
+    "line1": "10 Waterloo Quay",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T23:48:06Z"
+}

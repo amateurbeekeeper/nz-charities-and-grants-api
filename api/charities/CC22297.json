@@ -1,0 +1,27 @@
+{
+  "id": 55528,
+  "registrationNumber": "CC22297",
+  "name": "Silverstream College Board Of Proprietors",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stream.school.nz",
+  "email": "sayerm@stream.school.nz",
+  "address": {
+    "line1": "207 Fergusson Drive",
+    "line2": " ",
+    "suburb": "Heretaunga",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429042887829",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T19:50:20Z"
+}

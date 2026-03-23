@@ -1,0 +1,27 @@
+{
+  "id": 50514,
+  "registrationNumber": "CC45974",
+  "name": "The Radi Education Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2011-01-05T00:00:00Z",
+  "dateDeregistered": "2016-06-22T00:00:00Z",
+  "website": "http://www.competenz.org.nz",
+  "email": "m.richardson@competenz.org.nz",
+  "address": {
+    "line1": "Level 5, Office Tower",
+    "line2": "277 Broadway",
+    "suburb": "Newmarket",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043052332",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:41:38Z"
+}

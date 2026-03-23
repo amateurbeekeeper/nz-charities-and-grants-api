@@ -1,0 +1,27 @@
+{
+  "id": 33011,
+  "registrationNumber": "CC48651",
+  "name": "Eden Christian Academy",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-10-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "williamelizabeth@xtra.co.nz",
+  "address": {
+    "line1": "131 Dominion Road",
+    "line2": "Tuakau 2121",
+    "suburb": " ",
+    "city": "Tuakau",
+    "postcode": "2121"
+  },
+  "nzbn": "9429043259472",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T04:19:16Z"
+}

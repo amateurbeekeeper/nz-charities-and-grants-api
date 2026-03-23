@@ -1,0 +1,27 @@
+{
+  "id": 69233,
+  "registrationNumber": "CC55585",
+  "name": "The First New Zealand Education Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://firstnz.org",
+  "email": "deb@firstnz.org",
+  "address": {
+    "line1": "206 Finlayson Avenue",
+    "line2": null,
+    "suburb": "Clendon Park",
+    "city": "Auckland",
+    "postcode": "2103"
+  },
+  "nzbn": "9429046875921",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T21:31:04Z"
+}

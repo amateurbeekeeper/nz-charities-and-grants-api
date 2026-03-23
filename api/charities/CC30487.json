@@ -1,0 +1,27 @@
+{
+  "id": 46494,
+  "registrationNumber": "CC30487",
+  "name": "Devonport Volunteer Fire Brigade ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.dvfb.org.nz",
+  "email": "warren.tucker@dvfb.org.nz",
+  "address": {
+    "line1": "23 Lake Road",
+    "line2": "Devonport",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T01:09:29Z"
+}

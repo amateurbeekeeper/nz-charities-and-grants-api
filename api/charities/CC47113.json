@@ -1,0 +1,27 @@
+{
+  "id": 35532,
+  "registrationNumber": "CC47113",
+  "name": "St Barnabas Parochial Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-07-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.stbarnabas.nz",
+  "email": "info.stbarnabas@gmail.com",
+  "address": {
+    "line1": "283 Mount Eden Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042736806",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:43Z"
+}

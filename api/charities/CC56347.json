@@ -1,0 +1,27 @@
+{
+  "id": 69991,
+  "registrationNumber": "CC56347",
+  "name": "The Boxers and Bullies Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.boxersandbullies.org.nz",
+  "email": "serena@boxerrescue.org.nz",
+  "address": {
+    "line1": "318 Rosebank Road",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/boxersandbullies",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T19:29:48Z"
+}

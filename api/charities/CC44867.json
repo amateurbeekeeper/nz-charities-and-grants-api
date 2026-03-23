@@ -1,0 +1,27 @@
+{
+  "id": 40089,
+  "registrationNumber": "CC44867",
+  "name": "Ellesmere Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-08-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ellesmeregolf.co.nz",
+  "email": "ellesmeregolfclub@gmail.com",
+  "address": {
+    "line1": "Feredays Road",
+    "line2": " ",
+    "suburb": "Leeston",
+    "city": "Christchurch",
+    "postcode": "7657"
+  },
+  "nzbn": "9429042716211",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ellesmere Golf Club",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T21:03:25Z"
+}

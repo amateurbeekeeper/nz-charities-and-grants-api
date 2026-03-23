@@ -1,0 +1,27 @@
+{
+  "id": 72788,
+  "registrationNumber": "CC59186",
+  "name": "Mahurangi Action Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mahurangi.org.nz",
+  "email": "hughgladwell@gmail.com",
+  "address": {
+    "line1": "21 Young Street",
+    "line2": "RD 2",
+    "suburb": "Mahurangi East",
+    "city": "Warkworth",
+    "postcode": "0982"
+  },
+  "nzbn": "9429043239542",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T02:07:21Z"
+}

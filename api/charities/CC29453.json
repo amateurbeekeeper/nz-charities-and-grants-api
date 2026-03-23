@@ -1,0 +1,27 @@
+{
+  "id": 59588,
+  "registrationNumber": "CC29453",
+  "name": "Abilities Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.abilities.co.nz",
+  "email": "peter@abilities.co.nz",
+  "address": {
+    "line1": "16 Kaimahi Road",
+    "line2": " ",
+    "suburb": "Wairau Valley",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429042573128",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T02:10:41Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74708,
+  "registrationNumber": "CC61123",
+  "name": "CentreStage Rolleston",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-03-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.centrestagerolleston.org.nz",
+  "email": "centrestagerolleston@gmail.com",
+  "address": {
+    "line1": "24 Marlowe Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rolleston",
+    "postcode": "7614"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/centrestagerolleston",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-12T20:12:44Z"
+}

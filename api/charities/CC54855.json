@@ -1,0 +1,27 @@
+{
+  "id": 68523,
+  "registrationNumber": "CC54855",
+  "name": "Kete Matauranga Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "arvayread@gmail.com",
+  "address": {
+    "line1": "32A Tongatu Road",
+    "line2": "RD 3",
+    "suburb": "Ngunguru",
+    "city": "Whangarei",
+    "postcode": "0173"
+  },
+  "nzbn": "9429042986515",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T07:22:34Z"
+}

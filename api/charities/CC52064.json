@@ -1,0 +1,27 @@
+{
+  "id": 65816,
+  "registrationNumber": "CC52064",
+  "name": "The Asian Network Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.asiannetwork.org.nz",
+  "email": "vishal.rishi@asiannetwork.org.nz",
+  "address": {
+    "line1": "101 Church Street",
+    "line2": "Mount Roskill",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043016273",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AsianNetworkInc/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T18:33:41Z"
+}

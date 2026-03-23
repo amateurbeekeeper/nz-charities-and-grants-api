@@ -1,0 +1,27 @@
+{
+  "id": 75661,
+  "registrationNumber": "CC62108",
+  "name": "The Kitten Orphanage",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-03-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://thekittenorphanage.org.nz/",
+  "email": "darryl_green@xtra.co.nz",
+  "address": {
+    "line1": "35 Mortlake Heights",
+    "line2": " ",
+    "suburb": "Pyes Pa",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61550509382697",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-28T01:49:31Z"
+}

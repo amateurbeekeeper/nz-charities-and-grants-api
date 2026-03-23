@@ -1,0 +1,27 @@
+{
+  "id": 76324,
+  "registrationNumber": "CC62661",
+  "name": "Pacific Disability Support Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://pacificdstrust.org",
+  "email": "Andrew.Hall@nzspinaltrust.org.nz",
+  "address": {
+    "line1": "10 Redfern Street",
+    "line2": " ",
+    "suburb": "Northwood",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429052093128",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T09:21:35Z"
+}

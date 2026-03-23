@@ -1,0 +1,27 @@
+{
+  "id": 39710,
+  "registrationNumber": "CC22574",
+  "name": "Kiddy Winks Kindy Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kiddywinks.org.nz",
+  "email": "admin@kiddywinks.org.nz",
+  "address": {
+    "line1": "9 Lupton Road",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": "9429042657880",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KiddyWinksKindergarten/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T01:55:30Z"
+}

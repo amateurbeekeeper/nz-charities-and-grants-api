@@ -1,0 +1,27 @@
+{
+  "id": 67230,
+  "registrationNumber": "CC53521",
+  "name": "Just Peoples",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.justpeoples.org",
+  "email": "jo@justpeoples.org",
+  "address": {
+    "line1": "56 Tireti Road",
+    "line2": " ",
+    "suburb": "Titahi Bay",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429043299942",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/justpeoples",
+    "twitter": "https://twitter.com/just_peoples"
+  },
+  "lastUpdated": "2024-12-01T18:44:56Z"
+}

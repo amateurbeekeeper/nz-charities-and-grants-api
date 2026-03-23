@@ -1,0 +1,27 @@
+{
+  "id": 52232,
+  "registrationNumber": "CC10760",
+  "name": "Nova Montessori Centre Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.novamontessori.school.nz",
+  "email": "shubha@novamontessori.school.nz",
+  "address": {
+    "line1": "NOVA MONTESSORI SCHOOL",
+    "line2": "53 Owles Terrace",
+    "suburb": "New Brighton",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429042979951",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-17T19:25:21Z"
+}

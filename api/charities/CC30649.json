@@ -1,0 +1,27 @@
+{
+  "id": 46115,
+  "registrationNumber": "CC30649",
+  "name": "Coastguard Canterbury Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nicki.watts@coastguard.nz",
+  "address": {
+    "line1": "20 Marina Access",
+    "line2": "Lyttelton 8082",
+    "suburb": " ",
+    "city": "Lyttelton",
+    "postcode": "8082"
+  },
+  "nzbn": "9429042605003",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T07:37:56Z"
+}

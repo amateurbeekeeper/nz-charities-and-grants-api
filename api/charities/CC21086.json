@@ -1,0 +1,27 @@
+{
+  "id": 53669,
+  "registrationNumber": "CC21086",
+  "name": "Otenuku Marae Maori Reservation",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mark@fmlawyers.co.nz",
+  "address": {
+    "line1": "251 River Road",
+    "line2": "RD 1",
+    "suburb": "Claudelands",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T21:51:33Z"
+}

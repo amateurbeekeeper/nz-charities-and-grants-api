@@ -1,0 +1,27 @@
+{
+  "id": 68969,
+  "registrationNumber": "CC55313",
+  "name": "cann Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cann.org.nz",
+  "email": "joe@japad.co.nz",
+  "address": {
+    "line1": "72 Sarsfield Street",
+    "line2": " ",
+    "suburb": "Herne Bay",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429047837966",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cannCharitableTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T22:05:31Z"
+}

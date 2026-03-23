@@ -1,0 +1,27 @@
+{
+  "id": 62446,
+  "registrationNumber": "CC36005",
+  "name": "Mountainbike Tauranga Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-12-14T00:00:00Z",
+  "dateDeregistered": "2011-03-24T00:00:00Z",
+  "website": "http://www.mtbtauranga.co.nz",
+  "email": "mtbtauranga@ihug.co.nz",
+  "address": {
+    "line1": "19 Aaron Place",
+    "line2": null,
+    "suburb": "Brookfield",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043165100",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:32:03Z"
+}

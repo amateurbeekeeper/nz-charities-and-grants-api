@@ -1,0 +1,27 @@
+{
+  "id": 42410,
+  "registrationNumber": "CC24508",
+  "name": "Dunedin South Community Patrol Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dunedinsouth@cpnz.org.nz",
+  "address": {
+    "line1": "24 Jackson Street",
+    "line2": " ",
+    "suburb": "Saint Kilda",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429043154098",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T06:36:59Z"
+}

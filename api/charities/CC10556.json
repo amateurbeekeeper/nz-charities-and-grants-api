@@ -1,0 +1,27 @@
+{
+  "id": 51401,
+  "registrationNumber": "CC10556",
+  "name": "The Scout Association of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.scouts.nz",
+  "email": "chiefexecutive@scouts.nz",
+  "address": {
+    "line1": "1 Kaiwharawhara Road",
+    "line2": " ",
+    "suburb": "Kaiwharawhara",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429042573265",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SCOUTSNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T06:01:12Z"
+}

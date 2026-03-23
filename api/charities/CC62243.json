@@ -1,0 +1,27 @@
+{
+  "id": 75789,
+  "registrationNumber": "CC62243",
+  "name": "Here 2 Care Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.here2care.co.nz",
+  "email": "here2carenz@gmail.com",
+  "address": {
+    "line1": "100 Grandview Road",
+    "line2": " ",
+    "suburb": "Nawton",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429052134050",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "here2carenz",
+    "twitter": "Here2CareNZ"
+  },
+  "lastUpdated": "2025-12-08T22:29:23Z"
+}

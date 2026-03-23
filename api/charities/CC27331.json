@@ -1,0 +1,27 @@
+{
+  "id": 55900,
+  "registrationNumber": "CC27331",
+  "name": "Gisborne Volunteer Coastguard Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.coastguard.nz",
+  "email": "jo.whapham@coastguard.nz",
+  "address": {
+    "line1": "PO Box 709",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4040"
+  },
+  "nzbn": "9429042634249",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T18:15:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 62199,
+  "registrationNumber": "CC38839",
+  "name": "Auckland Festival of Photography Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-07-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.photographyfestival.org.nz",
+  "email": "trust.photofestival@xtra.co.nz",
+  "address": {
+    "line1": "Level 17 - Commercial Bay Tower",
+    "line2": "11 - 19 Custom St East",
+    "suburb": "CBD",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043106141",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AklFestivalPhoto/",
+    "twitter": "https://twitter.com/AklPhotoFest"
+  },
+  "lastUpdated": "2025-09-08T19:40:48Z"
+}

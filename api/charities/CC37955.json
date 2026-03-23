@@ -1,0 +1,27 @@
+{
+  "id": 43991,
+  "registrationNumber": "CC37955",
+  "name": "The Auckland Irish Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandirish.co.nz",
+  "email": "president@aucklandirish.co.nz",
+  "address": {
+    "line1": "Auckland Irish Society",
+    "line2": "Fowlds Park, Morningside",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429042584377",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AuckIrishSociety/?ref=bookmarks",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T09:01:00Z"
+}

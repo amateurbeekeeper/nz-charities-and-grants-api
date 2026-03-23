@@ -1,0 +1,27 @@
+{
+  "id": 53227,
+  "registrationNumber": "CC20382",
+  "name": "The Wellington Shakespeare Society Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "robo_gordon@hotmail.com",
+  "address": {
+    "line1": "85 Grafton Road",
+    "line2": " ",
+    "suburb": "Roseneath",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042886204",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/WellingtonShakespeareSociety/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T01:15:12Z"
+}

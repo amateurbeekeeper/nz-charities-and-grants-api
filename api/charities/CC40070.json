@@ -1,0 +1,27 @@
+{
+  "id": 45832,
+  "registrationNumber": "CC40070",
+  "name": "Waitara Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.playcentre.org.nz/centre/waitara/",
+  "email": "lambnetty@yahoo.co.uk",
+  "address": {
+    "line1": "25 Carey Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waitara",
+    "postcode": "4320"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/Waitara-Playcentre-Te-Ware-Kura-Kori-o-Waitara-102276730255249/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:11:39Z"
+}

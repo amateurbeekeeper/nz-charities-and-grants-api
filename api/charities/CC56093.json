@@ -1,0 +1,27 @@
+{
+  "id": 69743,
+  "registrationNumber": "CC56093",
+  "name": "Te Kawau Tennis Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.sporty.co.nz/tekawautennis",
+  "email": "tekawautennis@gmail.com",
+  "address": {
+    "line1": "16 Florin Lane",
+    "line2": "RD 3",
+    "suburb": "Rongotea",
+    "city": "Palmerston North",
+    "postcode": "4473"
+  },
+  "nzbn": "9429047876187",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/Te-Kawau-Tennis",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T04:29:42Z"
+}

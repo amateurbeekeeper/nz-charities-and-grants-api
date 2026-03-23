@@ -1,0 +1,27 @@
+{
+  "id": 37100,
+  "registrationNumber": "CC46944",
+  "name": "Totara Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-10-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "denise@lyon-oneale.co.nz",
+  "address": {
+    "line1": "40 Willow Street",
+    "line2": "Tauranga 3110",
+    "suburb": "Greerton",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-05-23T02:52:09Z"
+}

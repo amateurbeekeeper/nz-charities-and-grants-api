@@ -1,0 +1,27 @@
+{
+  "id": 50082,
+  "registrationNumber": "CC43606",
+  "name": "Onerahi Bowling Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "onerahibc@gmail.com",
+  "address": {
+    "line1": "35 Alamein Avenue",
+    "line2": " ",
+    "suburb": "Onerahi",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429042793069",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-27T19:21:28Z"
+}

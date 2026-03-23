@@ -1,0 +1,27 @@
+{
+  "id": 33660,
+  "registrationNumber": "CC50492",
+  "name": "The Cheviot Historical Records Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cheviotmuseum.nz",
+  "email": "cheviotmuseum@amuri.net",
+  "address": {
+    "line1": "18 Cadman Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cheviot",
+    "postcode": "7310"
+  },
+  "nzbn": "9429042615224",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cheviotmuseum/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T22:07:44Z"
+}

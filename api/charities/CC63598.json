@@ -1,0 +1,27 @@
+{
+  "id": 77797,
+  "registrationNumber": "CC63598",
+  "name": "Cahoots Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cahoots.nz",
+  "email": "jade@cahoots.nz",
+  "address": {
+    "line1": "11 Hopper Street",
+    "line2": " ",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429050880997",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T05:02:03Z"
+}

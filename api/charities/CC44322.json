@@ -1,0 +1,27 @@
+{
+  "id": 64734,
+  "registrationNumber": "CC44322",
+  "name": "Kapi Mana Netball Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2020-09-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kapimananetball.org.nz",
+  "email": "president@kapimananetball.org.nz",
+  "address": {
+    "line1": "13 Mungavin Avenue",
+    "line2": " ",
+    "suburb": "Rānui",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429042650614",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kapimananetballcentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T22:38:56Z"
+}

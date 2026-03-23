@@ -1,0 +1,27 @@
+{
+  "id": 78115,
+  "registrationNumber": "CC63924",
+  "name": "Toroa Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chanel@toroafoundation.co.nz",
+  "address": {
+    "line1": "55 Bedford Street",
+    "line2": null,
+    "suburb": "Saint Clair",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T03:20:35Z"
+}

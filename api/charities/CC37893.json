@@ -1,0 +1,27 @@
+{
+  "id": 63000,
+  "registrationNumber": "CC37893",
+  "name": "The Great New Zealand Trek Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-02-18T00:00:00Z",
+  "dateDeregistered": "2019-06-30T00:00:00Z",
+  "website": null,
+  "email": "c.johnson@xtra.co.nz",
+  "address": {
+    "line1": "142 Old Hill Road",
+    "line2": "RD 3",
+    "suburb": "Tahuna",
+    "city": "Morrinsville",
+    "postcode": "3373"
+  },
+  "nzbn": "9429043089369",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-09-08T23:55:00Z"
+}

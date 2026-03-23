@@ -1,0 +1,27 @@
+{
+  "id": 56243,
+  "registrationNumber": "CC25053",
+  "name": "Christchurch City Choir Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.citychoir.co.nz",
+  "email": "finance@citychoir.co.nz",
+  "address": {
+    "line1": "193 Travis Road",
+    "line2": " ",
+    "suburb": "North New Brighton",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429042610465",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/chchcitychoir/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-19T23:30:21Z"
+}

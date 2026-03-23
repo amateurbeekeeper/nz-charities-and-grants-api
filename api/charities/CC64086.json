@@ -1,0 +1,27 @@
+{
+  "id": 78274,
+  "registrationNumber": "CC64086",
+  "name": "Saathi New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "aatirzaidi@gmail.com",
+  "address": {
+    "line1": "184 Guys Road",
+    "line2": " ",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-31T01:29:50Z"
+}

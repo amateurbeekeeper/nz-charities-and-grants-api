@@ -1,0 +1,27 @@
+{
+  "id": 67826,
+  "registrationNumber": "CC54139",
+  "name": "Acacia Projects",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-12-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "geoff@acaciaprojects.org",
+  "address": {
+    "line1": "72 Cherry Drive",
+    "line2": " ",
+    "suburb": "Mosgiel",
+    "city": "Dunedin",
+    "postcode": "9024"
+  },
+  "nzbn": "9429043311880",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-03T01:33:31Z"
+}

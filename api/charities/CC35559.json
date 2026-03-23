@@ -1,0 +1,27 @@
+{
+  "id": 46197,
+  "registrationNumber": "CC35559",
+  "name": "Flanshaw Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.flanshawcentres.org.nz",
+  "email": "gemma@createandcurate.co.nz",
+  "address": {
+    "line1": "51 Flanshaw Road",
+    "line2": " ",
+    "suburb": "Te Atatu South",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429043058365",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T07:37:19Z"
+}

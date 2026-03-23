@@ -1,0 +1,27 @@
+{
+  "id": 55247,
+  "registrationNumber": "CC21570",
+  "name": "The Donald Beasley Institute Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.donaldbeasley.org.nz",
+  "email": "admin@donaldbeasley.org.nz",
+  "address": {
+    "line1": "ASB House, Level 2, Suite 4",
+    "line2": "248 Cumberland Street",
+    "suburb": "Dunedin City",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042776642",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "DBI_tweet"
+  },
+  "lastUpdated": "2025-12-22T19:01:51Z"
+}

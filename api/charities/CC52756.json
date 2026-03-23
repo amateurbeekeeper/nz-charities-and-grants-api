@@ -1,0 +1,27 @@
+{
+  "id": 66488,
+  "registrationNumber": "CC52756",
+  "name": "Anglican Diocese of Christchurch - Parish of Avonhead",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stchristophers.org.nz",
+  "email": "accounts@stchristophers.org.nz",
+  "address": {
+    "line1": "244 Avonhead Road",
+    "line2": " ",
+    "suburb": "Avonhead",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook/stchristopherschurch",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T02:24:45Z"
+}

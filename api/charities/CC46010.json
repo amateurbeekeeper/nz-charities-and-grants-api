@@ -1,0 +1,27 @@
+{
+  "id": 38359,
+  "registrationNumber": "CC46010",
+  "name": "Life Education Trust  Taranaki",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-01-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://lifeeducation.org.nz/",
+  "email": "taranakitreasurer@lifeedtrust.org.nz",
+  "address": {
+    "line1": "10 Young Street",
+    "line2": "New Plymouth 4310",
+    "suburb": "Kaitake",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042939245",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/taranakilifeed/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T21:08:32Z"
+}

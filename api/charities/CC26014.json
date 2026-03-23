@@ -1,0 +1,27 @@
+{
+  "id": 38955,
+  "registrationNumber": "CC26014",
+  "name": "Cornerstone Congregational Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "secretarycornerstonechurch@gmail.com",
+  "address": {
+    "line1": "10 Pembroke Street",
+    "line2": " ",
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T04:03:40Z"
+}

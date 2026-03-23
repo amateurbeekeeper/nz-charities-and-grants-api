@@ -1,0 +1,27 @@
+{
+  "id": 40007,
+  "registrationNumber": "CC23359",
+  "name": "Association of Cambridge Schools in New Zealand Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.acsnz.org.nz",
+  "email": "admin@acsnz.org.nz",
+  "address": {
+    "line1": "6 Waipareira Avenue",
+    "line2": "66 Lorne Street",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429043126026",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T19:44:52Z"
+}

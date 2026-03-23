@@ -1,0 +1,27 @@
+{
+  "id": 42501,
+  "registrationNumber": "CC25190",
+  "name": "Pakuranga Athletic Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pakrun.org.nz",
+  "email": "louisa@smithaccounting.nz",
+  "address": {
+    "line1": "Cascades Road",
+    "line2": "Lloyd Elsmore Park",
+    "suburb": "Pakuranga",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429042754428",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T22:17:06Z"
+}

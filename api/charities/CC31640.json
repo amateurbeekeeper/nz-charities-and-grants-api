@@ -1,0 +1,27 @@
+{
+  "id": 42913,
+  "registrationNumber": "CC31640",
+  "name": "Aroha Care Centre For The Elderly",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.arohacarecentre.co.nz",
+  "email": "finance@arohacarecentre.co.nz",
+  "address": {
+    "line1": "6 Cooper Street",
+    "line2": " ",
+    "suburb": "Taita",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429042577621",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T22:19:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39599,
+  "registrationNumber": "CC34632",
+  "name": "The Tree Council (Auckland) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thetreecouncil.org.nz",
+  "email": "info@thetreecouncil.org.nz",
+  "address": {
+    "line1": "36 McEldowney Road",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429042892144",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheTreeCouncil",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:35:11Z"
+}

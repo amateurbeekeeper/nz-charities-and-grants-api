@@ -1,0 +1,27 @@
+{
+  "id": 64135,
+  "registrationNumber": "CC44167",
+  "name": "Alliance Francaise Palmerston North Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.french.org.nz",
+  "email": "admin@french.org.nz",
+  "address": {
+    "line1": "Square Edge, First Floor, 47 The Square",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4440"
+  },
+  "nzbn": "9429043225958",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/afpalmy/",
+    "twitter": "https://twitter.com/afpalmy/"
+  },
+  "lastUpdated": "2025-07-20T20:05:35Z"
+}

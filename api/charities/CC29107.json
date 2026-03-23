@@ -1,0 +1,27 @@
+{
+  "id": 56356,
+  "registrationNumber": "CC29107",
+  "name": "Destiny Church Nelson",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.destinychurch.org.nz",
+  "email": "martin@destinychurchnelson.org",
+  "address": {
+    "line1": "75 Pascoe Street",
+    "line2": " ",
+    "suburb": "Annesbrook",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429042986553",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/destinychurchnelson/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T22:50:46Z"
+}

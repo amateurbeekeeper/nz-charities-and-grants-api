@@ -1,0 +1,27 @@
+{
+  "id": 73306,
+  "registrationNumber": "CC59811",
+  "name": "Te Kotahi a Tāmaki",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-01-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tekotahiatamaki.nz",
+  "email": "dana.rowell@tekotahiatamaki.nz",
+  "address": {
+    "line1": "12B Homestead Drive",
+    "line2": " ",
+    "suburb": "Stonefields",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429049188158",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tekotahiatamakimc/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:14:05Z"
+}

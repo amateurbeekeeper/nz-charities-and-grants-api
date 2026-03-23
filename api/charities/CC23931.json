@@ -1,0 +1,27 @@
+{
+  "id": 40920,
+  "registrationNumber": "CC23931",
+  "name": "Early Start Project Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.earlystart.co.nz",
+  "email": "sue.taylor@earlystart.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "7 Winston Avenue",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429038404252",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T18:40:12Z"
+}

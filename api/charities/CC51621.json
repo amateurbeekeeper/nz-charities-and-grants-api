@@ -1,0 +1,27 @@
+{
+  "id": 65389,
+  "registrationNumber": "CC51621",
+  "name": "Carterton Swimming Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sporty.co.nz/cartertonswim",
+  "email": "cartertonswimsecretary@gmail.com",
+  "address": {
+    "line1": "125 Pembroke Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Carterton",
+    "postcode": "5743"
+  },
+  "nzbn": "9429042976998",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T19:54:40Z"
+}

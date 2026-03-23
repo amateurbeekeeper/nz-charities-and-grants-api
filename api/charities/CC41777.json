@@ -1,0 +1,27 @@
+{
+  "id": 48864,
+  "registrationNumber": "CC41777",
+  "name": "Eltham Community Care Group",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurer@eccg.co.nz",
+  "address": {
+    "line1": "82 Bridge Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Eltham",
+    "postcode": "4322"
+  },
+  "nzbn": "9429042972662",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Eltham Community Foodbank",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:41:08Z"
+}

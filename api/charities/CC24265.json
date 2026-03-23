@@ -1,0 +1,27 @@
+{
+  "id": 40969,
+  "registrationNumber": "CC24265",
+  "name": "College Sport Wellington Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.collegesport.org.nz",
+  "email": "bryan@collegesport.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "223 Thorndon Quay",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043109449",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "collegesportwellington",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T20:38:00Z"
+}

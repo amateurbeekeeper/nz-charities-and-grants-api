@@ -1,0 +1,27 @@
+{
+  "id": 38180,
+  "registrationNumber": "CC46208",
+  "name": "Takaka Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-02-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://takakagolfclub.co.nz",
+  "email": "info@takakagolfclub.co.nz",
+  "address": {
+    "line1": "72 Boyle Street",
+    "line2": "RD 1",
+    "suburb": "Clifton",
+    "city": "Takaka",
+    "postcode": "7183"
+  },
+  "nzbn": "9429042831990",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Takaka-Golf-Club-250955448695435/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:38:51Z"
+}

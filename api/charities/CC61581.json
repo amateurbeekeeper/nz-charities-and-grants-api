@@ -1,0 +1,27 @@
+{
+  "id": 75151,
+  "registrationNumber": "CC61581",
+  "name": "Birkenhead Community Church Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bcc.org.nz",
+  "email": "kellylouisechristie@gmail.com",
+  "address": {
+    "line1": "33 Rawene Road",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429051442996",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Birkenhead Community Church",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:45:39Z"
+}

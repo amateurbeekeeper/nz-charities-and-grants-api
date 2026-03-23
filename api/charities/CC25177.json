@@ -1,0 +1,27 @@
+{
+  "id": 41246,
+  "registrationNumber": "CC25177",
+  "name": "Otatara Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jbarnes@eit.ac.nz",
+  "address": {
+    "line1": "501 Gloucester Street",
+    "line2": " ",
+    "suburb": "Taradale",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T19:48:19Z"
+}

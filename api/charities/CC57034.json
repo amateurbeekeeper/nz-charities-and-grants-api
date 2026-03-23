@@ -1,0 +1,27 @@
+{
+  "id": 70669,
+  "registrationNumber": "CC57034",
+  "name": "Wellington Opera Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-09-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wellingtonopera.nz",
+  "email": "artisticdirector@wellingtonopera.nz",
+  "address": {
+    "line1": "2 Ridd Crescent",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429047714274",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wellingtonopera",
+    "twitter": "https://twitter.com/wellingtonopera"
+  },
+  "lastUpdated": "2026-02-19T07:04:45Z"
+}

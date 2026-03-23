@@ -1,0 +1,27 @@
+{
+  "id": 46977,
+  "registrationNumber": "CC44028",
+  "name": "New Zealand Buddhist Council Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.buddhistcouncil.org.nz",
+  "email": "secretary@buddhistcouncil.org.nz",
+  "address": {
+    "line1": "36 View Road",
+    "line2": " ",
+    "suburb": "Houghton Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429043096817",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:44:55Z"
+}

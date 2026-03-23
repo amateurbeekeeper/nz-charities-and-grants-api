@@ -1,0 +1,27 @@
+{
+  "id": 78036,
+  "registrationNumber": "CC63841",
+  "name": "Loose Change Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.loosechange.org.nz",
+  "email": "kouma@loosechange.org.nz",
+  "address": {
+    "line1": "44A Oswald Street",
+    "line2": null,
+    "suburb": "Mangapapa",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T22:54:37Z"
+}

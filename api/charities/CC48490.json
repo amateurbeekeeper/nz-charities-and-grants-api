@@ -1,0 +1,27 @@
+{
+  "id": 32761,
+  "registrationNumber": "CC48490",
+  "name": "New Zealand Secondary Schools Athletic Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzssaa.org.nz",
+  "email": "b.smith@tbc.school.nz",
+  "address": {
+    "line1": "664 Cameron Road",
+    "line2": " ",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042711216",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T20:53:08Z"
+}

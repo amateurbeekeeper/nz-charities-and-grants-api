@@ -1,0 +1,27 @@
+{
+  "id": 33275,
+  "registrationNumber": "CC48807",
+  "name": "New Zealand Olympiad In Informatics Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-01-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzoi.org.nz",
+  "email": "jams_ans@xtra.co.nz",
+  "address": {
+    "line1": "363A Mangorei Road",
+    "line2": " ",
+    "suburb": "Merrilands",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429043148790",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-02T19:53:43Z"
+}

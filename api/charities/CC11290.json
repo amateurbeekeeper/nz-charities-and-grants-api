@@ -1,0 +1,27 @@
+{
+  "id": 52513,
+  "registrationNumber": "CC11290",
+  "name": "Living Well Church Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.livingwell.co.nz",
+  "email": "admin@livingwell.co.nz",
+  "address": {
+    "line1": "47 Biak Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429042823933",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@livingwellrotorua",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T23:06:47Z"
+}

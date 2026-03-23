@@ -1,0 +1,27 @@
+{
+  "id": 43143,
+  "registrationNumber": "CC34540",
+  "name": "Tauranga Yoga Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.taurangayoga.org.nz",
+  "email": "info@taurangayoga.org.nz",
+  "address": {
+    "line1": "173 Elizabeth Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042831198",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "tauranga yoga centre facebook",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T20:33:37Z"
+}

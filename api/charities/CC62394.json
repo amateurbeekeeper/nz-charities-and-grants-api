@@ -1,0 +1,27 @@
+{
+  "id": 75946,
+  "registrationNumber": "CC62394",
+  "name": "Rural Bus Manawatu Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ruralbusmanawatu.org.nz",
+  "email": "info@ruralbusmanawatu.org.nz",
+  "address": {
+    "line1": "8 Weld Street",
+    "line2": "Feilding 4702",
+    "suburb": "Pipitea",
+    "city": "Feilding",
+    "postcode": "4702"
+  },
+  "nzbn": "9429052421129",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ruralbusmanawatu/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T19:06:54Z"
+}

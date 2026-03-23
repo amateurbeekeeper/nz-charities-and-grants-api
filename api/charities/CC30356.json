@@ -1,0 +1,27 @@
+{
+  "id": 58653,
+  "registrationNumber": "CC30356",
+  "name": "Ranui Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-07-01T00:00:00Z",
+  "website": "http://www.playcentre.org.nz/CompanyProfile?Action=View&CompanyProfile_id=35",
+  "email": "ranui@playcentre.org.nz",
+  "address": {
+    "line1": "2 Ranui Station Road",
+    "line2": " ",
+    "suburb": "Ranui",
+    "city": "Auckland",
+    "postcode": "612"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-16T07:12:06Z"
+}

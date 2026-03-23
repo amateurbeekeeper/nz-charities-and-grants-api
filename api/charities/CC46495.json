@@ -1,0 +1,27 @@
+{
+  "id": 36956,
+  "registrationNumber": "CC46495",
+  "name": "The Pascal Street Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.psct.org.nz",
+  "email": "admin@psct.org.nz",
+  "address": {
+    "line1": "54 Pascal Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/psct54/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-11T01:28:06Z"
+}

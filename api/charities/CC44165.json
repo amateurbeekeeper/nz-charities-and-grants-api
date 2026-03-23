@@ -1,0 +1,27 @@
+{
+  "id": 64136,
+  "registrationNumber": "CC44165",
+  "name": "Canlive Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-05-10T00:00:00Z",
+  "dateDeregistered": "2024-03-11T00:00:00Z",
+  "website": "https://www.canlive.org",
+  "email": "stew@canlive.org",
+  "address": {
+    "line1": "118 Noema Terrace",
+    "line2": "RD 2",
+    "suburb": "Lake Hawea",
+    "city": "Wanaka",
+    "postcode": "9382"
+  },
+  "nzbn": "9429043139583",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "Canlive Cancer Trust NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2024-03-20T19:21:11Z"
+}

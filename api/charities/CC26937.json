@@ -1,0 +1,27 @@
+{
+  "id": 58918,
+  "registrationNumber": "CC26937",
+  "name": "Age Concern Rotorua District Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ageconcernrotorua.org.nz",
+  "email": "manager@acrotorua.nz",
+  "address": {
+    "line1": "5 Tarewa Place",
+    "line2": "Rotorua 3010",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042576273",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ageconcernrotorua",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T18:16:05Z"
+}

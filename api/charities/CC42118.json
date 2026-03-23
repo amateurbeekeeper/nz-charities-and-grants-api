@@ -1,0 +1,27 @@
+{
+  "id": 60409,
+  "registrationNumber": "CC42118",
+  "name": "Life Health Foods NZ Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-07-01T00:00:00Z",
+  "website": "https://www.lhf.net",
+  "email": "daniel.rampling@sanitarium.com.au",
+  "address": {
+    "line1": "395 Rosebank Road",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429000019385",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-03T07:24:30Z"
+}

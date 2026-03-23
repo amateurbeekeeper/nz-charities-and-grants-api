@@ -1,0 +1,27 @@
+{
+  "id": 51876,
+  "registrationNumber": "CC10645",
+  "name": "Men's Health Trust New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.menshealth.org.nz",
+  "email": "ina@menshealthnz.org.nz",
+  "address": {
+    "line1": "23 Queens Road",
+    "line2": " ",
+    "suburb": "Panmure",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429043198412",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:02:49Z"
+}

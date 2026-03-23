@@ -1,0 +1,27 @@
+{
+  "id": 69108,
+  "registrationNumber": "CC55447",
+  "name": "Te Kōhanga Reo o Ngā Mokopuna",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lukefitzmaurice@gmail.com",
+  "address": {
+    "line1": "168 Coutts Street",
+    "line2": " ",
+    "suburb": "Kilbirnie",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T01:15:31Z"
+}

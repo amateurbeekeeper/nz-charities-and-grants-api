@@ -1,0 +1,27 @@
+{
+  "id": 55580,
+  "registrationNumber": "CC21729",
+  "name": "Whaioro Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.whaioro.org.nz",
+  "email": "kbevan@whaioro.org.nz",
+  "address": {
+    "line1": "6 Linton Street",
+    "line2": "Palmerston North 4410",
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042962229",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:07:17Z"
+}

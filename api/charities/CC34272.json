@@ -1,0 +1,27 @@
+{
+  "id": 61640,
+  "registrationNumber": "CC34272",
+  "name": "Hackfalls Arboretum",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hackfalls.org.nz",
+  "email": "matt@hammondandmoir.co.nz",
+  "address": {
+    "line1": "187 Berry Road",
+    "line2": "Private Bag 7313",
+    "suburb": " Tiniroto 4044",
+    "city": "Tiniroto",
+    "postcode": "4044"
+  },
+  "nzbn": "9429042720195",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:45:14Z"
+}

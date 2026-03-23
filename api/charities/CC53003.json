@@ -1,0 +1,27 @@
+{
+  "id": 66728,
+  "registrationNumber": "CC53003",
+  "name": "Kalia ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-01-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@kalia.co.nz",
+  "address": {
+    "line1": "25 Alfred Street",
+    "line2": "Blenheim 7201",
+    "suburb": "Yelverton",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429043223626",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "Kalia",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T20:26:24Z"
+}

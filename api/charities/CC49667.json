@@ -1,0 +1,27 @@
+{
+  "id": 33200,
+  "registrationNumber": "CC49667",
+  "name": "Immanuel Community Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2024-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://iselau@outlook.co.nz",
+  "email": "iselau@outlook.co.nz",
+  "address": {
+    "line1": "7 Morrin Street",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T02:40:36Z"
+}

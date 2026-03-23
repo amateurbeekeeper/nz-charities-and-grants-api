@@ -1,0 +1,27 @@
+{
+  "id": 55022,
+  "registrationNumber": "CC29822",
+  "name": "South Catlins Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.curioscape.co.nz",
+  "email": "southcatlinscharitabletrust@gmail.com",
+  "address": {
+    "line1": "905 Niagara Tokanui Highway",
+    "line2": "RD 1",
+    "suburb": "Quarry Hills",
+    "city": "Tokanui",
+    "postcode": "9884"
+  },
+  "nzbn": "9429043130191",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Curioscape",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T02:00:50Z"
+}

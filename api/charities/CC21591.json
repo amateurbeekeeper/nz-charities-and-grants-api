@@ -1,0 +1,27 @@
+{
+  "id": 54670,
+  "registrationNumber": "CC21591",
+  "name": "Glen Eden Playhouse Theatre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.playhouse.nz",
+  "email": "alan.burrows@gmail.com",
+  "address": {
+    "line1": "15 Glendale Road",
+    "line2": " ",
+    "suburb": "Glen Eden",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": "9429043031658",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-03T19:43:27Z"
+}

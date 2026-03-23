@@ -1,0 +1,27 @@
+{
+  "id": 70372,
+  "registrationNumber": "CC56735",
+  "name": "The Painga Project",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.paingaproject.co.nz",
+  "email": "sarahc@paingaproject.co.nz",
+  "address": {
+    "line1": "18 Stratford Road",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2105"
+  },
+  "nzbn": "9429047254510",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/paingaproject/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T20:24:17Z"
+}

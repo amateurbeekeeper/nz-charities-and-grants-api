@@ -1,0 +1,27 @@
+{
+  "id": 38242,
+  "registrationNumber": "CC45888",
+  "name": "Brake (New Zealand)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-12-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.brake.org.nz",
+  "email": "cperry@brake.org.nz",
+  "address": {
+    "line1": "C/- Pidgeon Law",
+    "line2": "Level 8, 126 Vincent Street",
+    "suburb": "Auckland",
+    "city": "Auckland ",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043228935",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/brakenewzealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:37:42Z"
+}

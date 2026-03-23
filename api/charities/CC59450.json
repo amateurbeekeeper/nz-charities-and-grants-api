@@ -1,0 +1,27 @@
+{
+  "id": 73056,
+  "registrationNumber": "CC59450",
+  "name": "Home4All",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.Home4All.co.nz",
+  "email": "jan@home4all.co.nz",
+  "address": {
+    "line1": "108 Elizabeth Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waikanae",
+    "postcode": "5036"
+  },
+  "nzbn": "9429050657551",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Home4All-106489958420276/?ref=pages_you_manage",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T22:30:15Z"
+}

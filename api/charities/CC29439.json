@@ -1,0 +1,27 @@
+{
+  "id": 64911,
+  "registrationNumber": "CC29439",
+  "name": "Age Concern Nelson Tasman Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ageconcernnt.org.nz",
+  "email": "manager@ageconcernnt.org.nz",
+  "address": {
+    "line1": "62 Oxford Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": "9429052267048",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "AgeConcernNelsonTasman",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T22:11:43Z"
+}

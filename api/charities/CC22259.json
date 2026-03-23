@@ -1,0 +1,27 @@
+{
+  "id": 55173,
+  "registrationNumber": "CC22259",
+  "name": "Riverton Coastguard Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.coastguard.nz/",
+  "email": "rob.creasy@coastguard.nz",
+  "address": {
+    "line1": "Towack Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Riverton",
+    "postcode": "9822"
+  },
+  "nzbn": "9429042817000",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:28:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50023,
+  "registrationNumber": "CC28081",
+  "name": "New Zealand Fire Service Taradale Volunteer Fire Brigade ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul.hughes@fireandemergency.nz",
+  "address": {
+    "line1": "5 Meeanee Road",
+    "line2": " ",
+    "suburb": "Taradale",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/taradale.volunteer.fire.brigade",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-08T06:54:58Z"
+}

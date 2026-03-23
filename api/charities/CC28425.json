@@ -1,0 +1,27 @@
+{
+  "id": 58012,
+  "registrationNumber": "CC28425",
+  "name": "Auckland Baptist Tabernacle Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tabtrust.org.nz",
+  "email": "rhumphrey@tabtrust.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "441 Queen Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042584766",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-14T22:32:43Z"
+}

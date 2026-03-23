@@ -1,0 +1,27 @@
+{
+  "id": 65834,
+  "registrationNumber": "CC52093",
+  "name": "St Davids Presbyterian Church, Invercargill",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pennicottjns@gmail.com",
+  "address": {
+    "line1": "60 Regent Street",
+    "line2": " ",
+    "suburb": "Newfield",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "St Davids on Regent",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T18:02:21Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 45820,
+  "registrationNumber": "CC40071",
+  "name": "New Plymouth Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-14T00:00:00Z",
+  "website": "http://www.playcentre.org.nz",
+  "email": "newplymouth@playcentre.org.nz",
+  "address": {
+    "line1": "15 Hori Street",
+    "line2": " ",
+    "suburb": "Vogeltown",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/NewPlymouthPlaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T06:09:27Z"
+}

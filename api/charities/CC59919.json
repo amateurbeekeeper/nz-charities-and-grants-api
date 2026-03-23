@@ -1,0 +1,27 @@
+{
+  "id": 73616,
+  "registrationNumber": "CC59919",
+  "name": "iCare AfterSchool Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.icarekids.co.nz",
+  "email": "manager@icarekids.co.nz",
+  "address": {
+    "line1": "20 MacLoughlin Drive",
+    "line2": "Te Puke 3119",
+    "suburb": " ",
+    "city": "Te Puke",
+    "postcode": "3119"
+  },
+  "nzbn": "9429050301966",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "ICare Kids",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:20:45Z"
+}

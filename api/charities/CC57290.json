@@ -1,0 +1,27 @@
+{
+  "id": 70920,
+  "registrationNumber": "CC57290",
+  "name": "Toi Toi Opera Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-01-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.toitoiopera.com/",
+  "email": "alemarnos@gmail.com",
+  "address": {
+    "line1": "3 Woodbridge Road",
+    "line2": " ",
+    "suburb": "Cashmere",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429047645400",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/toitoiopera",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T09:01:12Z"
+}

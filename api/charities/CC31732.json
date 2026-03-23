@@ -1,0 +1,27 @@
+{
+  "id": 42966,
+  "registrationNumber": "CC31732",
+  "name": "Sommerville Centre For Special Needs Wanganui Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sommerville.org.nz",
+  "email": "courtney@sommerville.org.nz",
+  "address": {
+    "line1": "45 Campbell Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042686255",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T20:19:35Z"
+}

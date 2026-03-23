@@ -1,0 +1,27 @@
+{
+  "id": 67509,
+  "registrationNumber": "CC53814",
+  "name": "Book Slam Downunder Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2016-05-24T00:00:00Z",
+  "dateDeregistered": "2021-02-05T00:00:00Z",
+  "website": "www.bookslamdowunder.co.nz",
+  "email": "heidi.north@gmail.com",
+  "address": {
+    "line1": "25A Rugby Road",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": "https://twitter.com/bookslamnz"
+  },
+  "lastUpdated": "2023-03-15T07:36:48Z"
+}

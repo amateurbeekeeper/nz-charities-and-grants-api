@@ -1,0 +1,27 @@
+{
+  "id": 43609,
+  "registrationNumber": "CC34590",
+  "name": "Colville Community Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.colvillecommunityhealthtrust.com/",
+  "email": "admin@colvillehealthtrust.co.nz",
+  "address": {
+    "line1": "2299 Colville Road",
+    "line2": "RD 4",
+    "suburb": "Colville",
+    "city": "Coromandel",
+    "postcode": "3584"
+  },
+  "nzbn": "9429043043132",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ColvilleCommunityHealthTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:33:32Z"
+}

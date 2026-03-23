@@ -1,0 +1,27 @@
+{
+  "id": 50890,
+  "registrationNumber": "CC42144",
+  "name": "The Auckland Diving Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aucklanddiving.co.nz",
+  "email": "secretary@aucklanddiving.co.nz",
+  "address": {
+    "line1": "C/- Westwave Pool and Leisure Centre",
+    "line2": " 20 Alderman Drive",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429043199969",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AucklandDiving",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T06:59:58Z"
+}

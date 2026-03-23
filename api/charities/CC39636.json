@@ -1,0 +1,27 @@
+{
+  "id": 47428,
+  "registrationNumber": "CC39636",
+  "name": "Pitt Street Karangahape Methodist Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.methodist.org.nz",
+  "email": "charities@methodist.org.nz",
+  "address": {
+    "line1": "78 Pitt Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429052831379",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T20:50:04Z"
+}

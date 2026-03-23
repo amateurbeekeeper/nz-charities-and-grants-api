@@ -1,0 +1,27 @@
+{
+  "id": 35275,
+  "registrationNumber": "CC49570",
+  "name": "Kahurangi Friends Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-07-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "eerc_ynnep@hotmail.com",
+  "address": {
+    "line1": "43 Strathmore Avenue",
+    "line2": " ",
+    "suburb": "Strathmore Park",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429043090655",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@KahurangiFriends",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T00:28:16Z"
+}

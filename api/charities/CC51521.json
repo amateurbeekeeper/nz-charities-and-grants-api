@@ -1,0 +1,27 @@
+{
+  "id": 65296,
+  "registrationNumber": "CC51521",
+  "name": "The Conch Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.theconch.co.nz",
+  "email": "tom@theconch.co.nz",
+  "address": {
+    "line1": "34 Havelock Street",
+    "line2": " ",
+    "suburb": "Mornington",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043268672",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/TheConchNZ/",
+    "twitter": "https://twitter.com/ConchusNZ"
+  },
+  "lastUpdated": "2025-11-16T20:33:28Z"
+}

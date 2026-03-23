@@ -1,0 +1,27 @@
+{
+  "id": 68525,
+  "registrationNumber": "CC54861",
+  "name": "Pure Advantage Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-10-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "PureAdvantage.org",
+  "email": "andrew@christieassoc.co.nz",
+  "address": {
+    "line1": "Level 1, Devonport Ferry Terminal",
+    "line2": "Marine Square",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": "9429043264216",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "PureAdvantage",
+    "twitter": "PureAdvantageNZ"
+  },
+  "lastUpdated": "2025-10-09T18:14:00Z"
+}

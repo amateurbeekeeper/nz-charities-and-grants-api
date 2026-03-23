@@ -1,0 +1,27 @@
+{
+  "id": 52183,
+  "registrationNumber": "CC10530",
+  "name": "Motu Research and Education Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.motu.nz",
+  "email": "ann.paton@motu.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "97 Cuba Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043143733",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/moturesearch",
+    "twitter": "https://twitter.com/moturesearch"
+  },
+  "lastUpdated": "2025-11-05T20:51:05Z"
+}

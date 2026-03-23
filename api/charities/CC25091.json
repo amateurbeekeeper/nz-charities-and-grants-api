@@ -1,0 +1,27 @@
+{
+  "id": 57510,
+  "registrationNumber": "CC25091",
+  "name": "The Royal New Zealand Ballet",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://rnzb.org.nz/",
+  "email": "jandunne@rnzb.org.nz",
+  "address": {
+    "line1": "Level 3",
+    "line2": "77 Courtenay Place",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042872504",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T19:26:16Z"
+}

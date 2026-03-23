@@ -1,0 +1,27 @@
+{
+  "id": 44852,
+  "registrationNumber": "CC33006",
+  "name": "Playspace Childcare Centre Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2018-11-02T00:00:00Z",
+  "website": "http://www.playspace.org.nz",
+  "email": "admin@playspace.org.nz",
+  "address": {
+    "line1": "235 Adelaide Road",
+    "line2": " ",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429042814610",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-10-31T19:03:21Z"
+}

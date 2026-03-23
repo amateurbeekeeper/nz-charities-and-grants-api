@@ -1,0 +1,27 @@
+{
+  "id": 65585,
+  "registrationNumber": "CC51831",
+  "name": "St Andrews Ohai",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-05-18T00:00:00Z",
+  "dateDeregistered": "2020-06-19T00:00:00Z",
+  "website": null,
+  "email": "mvbailey@xtra.co.nz",
+  "address": {
+    "line1": "57 Birchwood Road",
+    "line2": "Ohai 9635",
+    "suburb": " ",
+    "city": "Ohai",
+    "postcode": "9635"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-12-20T18:53:20Z"
+}

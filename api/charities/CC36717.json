@@ -1,0 +1,27 @@
+{
+  "id": 49822,
+  "registrationNumber": "CC36717",
+  "name": "Waiuku Theatre Group Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://waiukutheatre.com",
+  "email": "president@waiukutheatre.com",
+  "address": {
+    "line1": "Victoria Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waiuku",
+    "postcode": "2123"
+  },
+  "nzbn": "9429042910374",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WaiukuTheatreGroup",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-13T19:11:07Z"
+}

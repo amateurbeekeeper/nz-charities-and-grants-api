@@ -1,0 +1,27 @@
+{
+  "id": 32823,
+  "registrationNumber": "CC48551",
+  "name": "Holocaust Centre Of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.holocaustcentre.org.nz",
+  "email": "operations@holocaustcentre.org.nz",
+  "address": {
+    "line1": "80 Webb Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043235032",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HCNZAotearoa/",
+    "twitter": "https://twitter.com/HolocaustNZ"
+  },
+  "lastUpdated": "2025-10-17T03:06:29Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56464,
+  "registrationNumber": "CC26094",
+  "name": "Adidam Trust (New Zealand)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://new-zealand.adidam.org/",
+  "email": "el.brooks@gmail.com",
+  "address": {
+    "line1": "12 Seibel Road",
+    "line2": " ",
+    "suburb": "Henderson Valley",
+    "city": "Auckland",
+    "postcode": "0614"
+  },
+  "nzbn": "9429042868651",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AdidamNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-14T21:27:34Z"
+}

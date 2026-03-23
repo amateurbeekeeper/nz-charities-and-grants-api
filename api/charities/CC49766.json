@@ -1,0 +1,27 @@
+{
+  "id": 33448,
+  "registrationNumber": "CC49766",
+  "name": "French Bay Yacht Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-09-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.frenchbay.org.nz",
+  "email": "sail@frenchbay.org.nz",
+  "address": {
+    "line1": "Bottom of Otitori Bay Road & Valley Road",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429042721550",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/frenchbay",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T20:21:43Z"
+}

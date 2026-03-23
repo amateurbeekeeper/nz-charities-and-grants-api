@@ -1,0 +1,27 @@
+{
+  "id": 78419,
+  "registrationNumber": "CC64235",
+  "name": "Community Living Housing Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-07-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david.oldershaw@communityliving.org.nz",
+  "address": {
+    "line1": "180 Collingwood Street",
+    "line2": null,
+    "suburb": "Hamilton Lake",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T00:50:24Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67589,
+  "registrationNumber": "CC53895",
+  "name": "Surf Life Saving New Zealand Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.surflifesaving.org.nz",
+  "email": "jo.baker@surflifesaving.org.nz",
+  "address": {
+    "line1": "93 Hutt Park Road",
+    "line2": " ",
+    "suburb": "Moera",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429043314706",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T18:03:54Z"
+}

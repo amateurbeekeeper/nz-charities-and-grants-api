@@ -1,0 +1,27 @@
+{
+  "id": 42409,
+  "registrationNumber": "CC24906",
+  "name": "SeniorNet Glenfield Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.seniornet-glenfield.org.nz",
+  "email": "tony.fowlie@slingshot.co.nz",
+  "address": {
+    "line1": "5 Mayfield Road",
+    "line2": " ",
+    "suburb": "Glenfield",
+    "city": "Auckland",
+    "postcode": "629"
+  },
+  "nzbn": "9429042994763",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SeniorNet-Glenfield-179730502093577/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T01:03:14Z"
+}

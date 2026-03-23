@@ -1,0 +1,27 @@
+{
+  "id": 71313,
+  "registrationNumber": "CC57685",
+  "name": "Guru Nanak Free Kitchen",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "neetu_kirat@yahoo.com",
+  "address": {
+    "line1": "4 Taranui Place",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-28T01:12:23Z"
+}

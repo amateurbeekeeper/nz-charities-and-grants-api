@@ -1,0 +1,27 @@
+{
+  "id": 34968,
+  "registrationNumber": "CC49840",
+  "name": "Caring for Child Cancer",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-10-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.caringforchildcancer.org",
+  "email": "sashi.aleez@gmail.com",
+  "address": {
+    "line1": "10C Hadfield Avenue",
+    "line2": " ",
+    "suburb": "Waterview",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-10T02:45:59Z"
+}

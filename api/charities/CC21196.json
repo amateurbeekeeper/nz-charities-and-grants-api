@@ -1,0 +1,27 @@
+{
+  "id": 53720,
+  "registrationNumber": "CC21196",
+  "name": "Heritage Park Rhododendron Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.heritagepark.co.nz",
+  "email": "secretary.heritagepark@gmail.com",
+  "address": {
+    "line1": "34 Haggerty Street",
+    "line2": "Kimbolton 4774",
+    "suburb": " ",
+    "city": "Kimbolton",
+    "postcode": "4774"
+  },
+  "nzbn": "9429043053001",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/heritagepark.co.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T23:10:13Z"
+}

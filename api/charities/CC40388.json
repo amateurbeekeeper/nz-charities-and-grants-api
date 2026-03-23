@@ -1,0 +1,27 @@
+{
+  "id": 62023,
+  "registrationNumber": "CC40388",
+  "name": "Kawakawa Bay Kindergarten",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "deana@cmka.org.nz",
+  "address": {
+    "line1": "Kawakawa Bay Hall",
+    "line2": "Orere Road",
+    "suburb": "Kawakawa Bay",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T23:48:26Z"
+}

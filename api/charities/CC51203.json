@@ -1,0 +1,27 @@
+{
+  "id": 34595,
+  "registrationNumber": "CC51203",
+  "name": "New Zealand Chinese Language Week Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-12-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzclw.com",
+  "email": "nzclw@nzclw.com",
+  "address": {
+    "line1": "Hudson Taylor ",
+    "line2": " Level 3, 44 Victoria Street ",
+    "suburb": " PO Box 11303",
+    "city": "Wellington",
+    "postcode": "6142"
+  },
+  "nzbn": "9429043268009",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@nzchineselanguageweek",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T03:14:07Z"
+}

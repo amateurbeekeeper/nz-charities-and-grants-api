@@ -1,0 +1,27 @@
+{
+  "id": 34952,
+  "registrationNumber": "CC49371",
+  "name": "Te Waka Pupuri Putea Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.terarawa.iwi.nz/",
+  "email": "dion@terarawa.co.nz",
+  "address": {
+    "line1": "16 Matthews Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaitaia",
+    "postcode": "410"
+  },
+  "nzbn": "9429043244034",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TeRarawaTeIwi/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T03:00:22Z"
+}

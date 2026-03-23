@@ -1,0 +1,27 @@
+{
+  "id": 60807,
+  "registrationNumber": "CC36315",
+  "name": "St Paul's Foundation Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "p.welham@stpauls.school.nz",
+  "address": {
+    "line1": "77 Hukanui Road",
+    "line2": " ",
+    "suburb": "Chartwell",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429035748014",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T00:26:54Z"
+}

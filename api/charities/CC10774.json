@@ -1,0 +1,27 @@
+{
+  "id": 51887,
+  "registrationNumber": "CC10774",
+  "name": "Midwifery Council",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.midwiferycouncil.health.nz",
+  "email": "Lesley.clarke@midwiferycouncil.health.nz",
+  "address": {
+    "line1": "22 Willeston Street",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429047125223",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T21:36:11Z"
+}

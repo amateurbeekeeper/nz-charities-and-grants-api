@@ -1,0 +1,27 @@
+{
+  "id": 75918,
+  "registrationNumber": "CC62371",
+  "name": "APAC Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-02-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tapasa.org",
+  "email": "ruta.tonumaivao@tapasa.org",
+  "address": {
+    "line1": "Level 1, 20 Alderman Drive",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429051503567",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-30T21:09:46Z"
+}

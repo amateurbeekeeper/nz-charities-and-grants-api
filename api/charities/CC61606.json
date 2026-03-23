@@ -1,0 +1,27 @@
+{
+  "id": 75187,
+  "registrationNumber": "CC61606",
+  "name": "The Lyric Theatre, Granity, Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "thelyric.nz",
+  "email": "christine@aov.co.nz",
+  "address": {
+    "line1": "92 Torea Street",
+    "line2": "Granity 7823",
+    "suburb": " ",
+    "city": "Granity",
+    "postcode": "7823"
+  },
+  "nzbn": "9429051476274",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thelyric.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-08T08:21:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74120,
+  "registrationNumber": "CC60529",
+  "name": "Roller Coasters Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Jendakini@yahoo.com",
+  "address": {
+    "line1": "5 Hokitika-Kaniere Tramway",
+    "line2": null,
+    "suburb": "Kaniere",
+    "city": "Hokitika",
+    "postcode": "7811"
+  },
+  "nzbn": "9429050885077",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RollercoastersWC",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T02:42:50Z"
+}

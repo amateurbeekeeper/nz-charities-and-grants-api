@@ -1,0 +1,27 @@
+{
+  "id": 61729,
+  "registrationNumber": "CC39507",
+  "name": "Stars Education Whanganui Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.starseducation.org.nz",
+  "email": "starseducationinc@gmail.com",
+  "address": {
+    "line1": "2 Plymouth Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042726265",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/StarsEdWhanganui/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T03:59:43Z"
+}

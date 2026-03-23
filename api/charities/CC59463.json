@@ -1,0 +1,27 @@
+{
+  "id": 73067,
+  "registrationNumber": "CC59463",
+  "name": "Te Rūnanga nui o ngā Kura Kaupapa Māori o Aotearoa Mana Tōpū Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://runanga.co.nz/",
+  "email": "hohepa@runanga.co.nz",
+  "address": {
+    "line1": "20 Waerenga Road",
+    "line2": "Otaki 5512",
+    "suburb": "Ōtaki",
+    "city": "Otaki",
+    "postcode": "5512"
+  },
+  "nzbn": "9429042844365",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:58:28Z"
+}

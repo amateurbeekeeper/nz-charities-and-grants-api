@@ -1,0 +1,27 @@
+{
+  "id": 37193,
+  "registrationNumber": "CC48688",
+  "name": "Wellington Islamic Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-01-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wianz.org",
+  "email": "wianzsecretary@gmail.com",
+  "address": {
+    "line1": "6 Oxford Street",
+    "line2": " ",
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": "9429043150670",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/TawaIslamicCentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T21:10:03Z"
+}

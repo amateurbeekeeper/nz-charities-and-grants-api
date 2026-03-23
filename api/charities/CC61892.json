@@ -1,0 +1,27 @@
+{
+  "id": 75453,
+  "registrationNumber": "CC61892",
+  "name": "Te Raranga a Te Kuihi Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-01-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tekuihi@outlook.co.nz",
+  "address": {
+    "line1": "51 Ngataringa Road",
+    "line2": " ",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-08T18:34:40Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71449,
+  "registrationNumber": "CC57824",
+  "name": "Eduk8 Waikato",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.therighttrack.org.nz",
+  "email": "john@eduk8.co.nz",
+  "address": {
+    "line1": "PO Box 282229",
+    "line2": " ",
+    "suburb": "Beachlands",
+    "city": "Auckland",
+    "postcode": "2147"
+  },
+  "nzbn": "9429049268850",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T23:46:53Z"
+}

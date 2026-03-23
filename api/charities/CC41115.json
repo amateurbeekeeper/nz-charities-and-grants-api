@@ -1,0 +1,27 @@
+{
+  "id": 62534,
+  "registrationNumber": "CC41115",
+  "name": "Far North Surf Rescue Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fnsrpresident@gmail.com",
+  "address": {
+    "line1": "43 Takahe Road",
+    "line2": "Ahipara",
+    "suburb": "Ahipara",
+    "city": "Kaitaia",
+    "postcode": "0481"
+  },
+  "nzbn": "9429042717676",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Far North Surf Rescue",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T06:06:07Z"
+}

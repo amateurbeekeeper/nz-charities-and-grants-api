@@ -1,0 +1,27 @@
+{
+  "id": 42566,
+  "registrationNumber": "CC27185",
+  "name": "The Harcourts Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://harcourtsfoundation.org",
+  "email": "emma.revell@harcourts.net",
+  "address": {
+    "line1": "7 Alpers Avenue",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043088508",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-10T20:00:13Z"
+}

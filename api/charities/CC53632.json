@@ -1,0 +1,27 @@
+{
+  "id": 67343,
+  "registrationNumber": "CC53632",
+  "name": "I Got Your Back Pack",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.igotyourbackpack.org.nz",
+  "email": "liane@igotyourbackpack.org.nz",
+  "address": {
+    "line1": "Unit 24",
+    "line2": "36 Peters Way",
+    "suburb": null,
+    "city": "Silverdale",
+    "postcode": "0932"
+  },
+  "nzbn": "9429043292899",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/igotyourbackpacknzcharity",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T22:56:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 68606,
+  "registrationNumber": "CC54941",
+  "name": "Eastern Bay Villages",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-08-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.virtualeasternbayvillages.org.nz/",
+  "email": "office@vebv.org.nz",
+  "address": {
+    "line1": "83A Domain Road",
+    "line2": " ",
+    "suburb": "Whakatāne",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429046269904",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/2560283464234105",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T05:15:43Z"
+}

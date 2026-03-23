@@ -1,0 +1,27 @@
+{
+  "id": 67412,
+  "registrationNumber": "CC53699",
+  "name": "Cornwall Park Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2016-08-29T00:00:00Z",
+  "dateDeregistered": "2025-06-07T00:00:00Z",
+  "website": null,
+  "email": "cornwallparkpc@gmail.com",
+  "address": {
+    "line1": "15 Holden Avenue",
+    "line2": "Haumoana 4102",
+    "suburb": "Mahora",
+    "city": "Haumoana",
+    "postcode": "4102"
+  },
+  "nzbn": "9429042697985",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-21T07:08:54Z"
+}

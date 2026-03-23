@@ -1,0 +1,27 @@
+{
+  "id": 72539,
+  "registrationNumber": "CC58936",
+  "name": "RiverCare Group Te Wai o Pareira",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rivercaregroup.org",
+  "email": "alan@rivercaregroup.org",
+  "address": {
+    "line1": "44 Abbotleigh Avenue",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429049086362",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100077268411973",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T04:00:27Z"
+}

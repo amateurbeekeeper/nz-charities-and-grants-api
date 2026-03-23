@@ -1,0 +1,27 @@
+{
+  "id": 53012,
+  "registrationNumber": "CC11184",
+  "name": "Hearing Dogs For Deaf People New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hearingdogs.org.nz",
+  "email": "info@hearingdogs.org.nz",
+  "address": {
+    "line1": "7 Hydro Road",
+    "line2": "RD 1",
+    "suburb": "Burgess Park",
+    "city": "New Plymouth",
+    "postcode": "4371"
+  },
+  "nzbn": "9429042943419",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HearingDogsNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T02:30:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 61800,
+  "registrationNumber": "CC39703",
+  "name": "Lawrence Athenaeum And Mining Institute",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://lawrenceathenaeum.com/",
+  "email": "akgray@scorch.co.nz",
+  "address": {
+    "line1": "9 Ross Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lawrence",
+    "postcode": "9532"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-09T02:31:08Z"
+}

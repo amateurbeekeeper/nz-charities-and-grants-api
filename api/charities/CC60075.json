@@ -1,0 +1,27 @@
+{
+  "id": 73699,
+  "registrationNumber": "CC60075",
+  "name": "Headlight Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.headlight.org.nz",
+  "email": "niamh.shaw@headlight.org.nz",
+  "address": {
+    "line1": "10 Highfield Ridge",
+    "line2": " ",
+    "suburb": "Wānaka",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429050539222",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@headlighttrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T21:40:42Z"
+}

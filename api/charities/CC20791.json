@@ -1,0 +1,27 @@
+{
+  "id": 53678,
+  "registrationNumber": "CC20791",
+  "name": "The USUB Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rachel.shoebridge@bdo.co.nz",
+  "address": {
+    "line1": "BDO Auckland ",
+    "line2": " Level 4, 4 Graham Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042934042",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T22:55:30Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54871,
+  "registrationNumber": "CC24223",
+  "name": "PT Chevalier Co-Operating Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ptchevalierhomestead.com",
+  "email": "homesteadptchev@outlook.com",
+  "address": {
+    "line1": "92 Pt Chevalier Road",
+    "line2": " ",
+    "suburb": "Point Chevalier",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429049862461",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Pt Chevalier Homestead",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-07T05:29:39Z"
+}

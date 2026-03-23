@@ -1,0 +1,27 @@
+{
+  "id": 33017,
+  "registrationNumber": "CC50388",
+  "name": "Movement",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://movement.org.nz",
+  "email": "bevan@movement.org.nz",
+  "address": {
+    "line1": "355 Foster Road",
+    "line2": "RD 1",
+    "suburb": "Waimauku",
+    "city": "Kumeu",
+    "postcode": "0891"
+  },
+  "nzbn": "9429043207459",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-20T21:43:15Z"
+}

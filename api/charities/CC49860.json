@@ -1,0 +1,27 @@
+{
+  "id": 33636,
+  "registrationNumber": "CC49860",
+  "name": "Boyle Village Conservation Group",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-10-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://bringbackthebirds.wordpress.com",
+  "email": "penman@penmansplace.com",
+  "address": {
+    "line1": "12 Ellesmere Street",
+    "line2": " ",
+    "suburb": "Marshland",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429043252084",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/Bringbackthebirds/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-22T09:03:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56183,
+  "registrationNumber": "CC24579",
+  "name": "The Community Waikato Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.communitywaikato.org.nz",
+  "email": "anne@communitywaikato.org.nz",
+  "address": {
+    "line1": "PO Box 1367",
+    "line2": "Waikato Mail Centre",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3240"
+  },
+  "nzbn": "9429043077007",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top/?q=community%20waikato",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T01:58:22Z"
+}

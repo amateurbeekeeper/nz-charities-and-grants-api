@@ -1,0 +1,27 @@
+{
+  "id": 55725,
+  "registrationNumber": "CC22320",
+  "name": "Churches Education Commission Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.launchpad.kiwi",
+  "email": "heidi@launchpad.kiwi",
+  "address": {
+    "line1": "Level 1",
+    "line2": " 55 Hugo Johnston Drove",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042616351",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T05:10:16Z"
+}

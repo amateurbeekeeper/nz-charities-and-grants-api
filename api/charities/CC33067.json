@@ -1,0 +1,27 @@
+{
+  "id": 42831,
+  "registrationNumber": "CC33067",
+  "name": "Capital Quilters Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://capitalquilters.blogspot.com/",
+  "email": "welsh9@xtra.co.nz",
+  "address": {
+    "line1": "1 Ranfurly Terrace",
+    "line2": " ",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429042603924",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CapitalQuiltersNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T22:16:16Z"
+}

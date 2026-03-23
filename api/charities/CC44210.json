@@ -1,0 +1,27 @@
+{
+  "id": 50299,
+  "registrationNumber": "CC44210",
+  "name": "Assembly of God Te Awamutu Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.reach.org.nz",
+  "email": "info@reach.org.nz",
+  "address": {
+    "line1": "654 Alexandra Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Awamutu",
+    "postcode": "3800"
+  },
+  "nzbn": "9429042581161",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Reach Church Te Awamutu",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T04:56:04Z"
+}

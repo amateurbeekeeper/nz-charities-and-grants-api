@@ -1,0 +1,27 @@
+{
+  "id": 36804,
+  "registrationNumber": "CC46215",
+  "name": "Balcairn Public Hall Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-02-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.balcairnhall.com",
+  "email": "treasurer@balcairnhall.com",
+  "address": {
+    "line1": "4 Ashbys Road",
+    "line2": "RD 1",
+    "suburb": "Balcairn",
+    "city": "Amberley",
+    "postcode": "7477"
+  },
+  "nzbn": "9429043229932",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@BalcairnHall",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-25T06:27:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69946,
+  "registrationNumber": "CC56307",
+  "name": "Te Wānanga Ihorangi",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ihorangi.ac.nz",
+  "email": "reception@ihorangi.ac.nz",
+  "address": {
+    "line1": "3 Smythe Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429047075092",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/people/Te-W%C4%81nanga-Ihorangi/100095168259879/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T02:35:06Z"
+}

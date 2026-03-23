@@ -1,0 +1,27 @@
+{
+  "id": 42425,
+  "registrationNumber": "CC39896",
+  "name": "The Rugby Museum Society of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rugbymuseum.co.nz",
+  "email": "treasurer@rugbymuseum.co.nz",
+  "address": {
+    "line1": "326 Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042872610",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T01:55:11Z"
+}

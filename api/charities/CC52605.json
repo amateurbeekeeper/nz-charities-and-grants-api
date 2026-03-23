@@ -1,0 +1,27 @@
+{
+  "id": 66338,
+  "registrationNumber": "CC52605",
+  "name": "Auckland Centre for Buddhist Learning",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-11-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.acbl.org.nz",
+  "email": "anura.widana@yahoo.com",
+  "address": {
+    "line1": "43A Fairfax Avenue",
+    "line2": " ",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043055432",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "acbl temple",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T13:56:37Z"
+}

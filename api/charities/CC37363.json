@@ -1,0 +1,27 @@
+{
+  "id": 49876,
+  "registrationNumber": "CC37363",
+  "name": "The Dunedin Jewish Congregation",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "geoff.mirkin@wrlawyers.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "10 George Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T02:58:38Z"
+}

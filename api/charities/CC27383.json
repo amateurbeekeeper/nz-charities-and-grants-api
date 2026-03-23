@@ -1,0 +1,27 @@
+{
+  "id": 39842,
+  "registrationNumber": "CC27383",
+  "name": "Parkinson's Auckland",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2018-06-29T00:00:00Z",
+  "website": "http://www.parkinsons.org.nz",
+  "email": "operations@parkinsons.org.nz",
+  "address": {
+    "line1": "7A Taylors Road",
+    "line2": " ",
+    "suburb": "Morningside",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042802853",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-08-05T22:50:25Z"
+}

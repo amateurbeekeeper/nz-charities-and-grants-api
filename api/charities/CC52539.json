@@ -1,0 +1,27 @@
+{
+  "id": 66266,
+  "registrationNumber": "CC52539",
+  "name": "Trade Aid Kapiti Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-10-09T00:00:00Z",
+  "dateDeregistered": "2025-06-30T00:00:00Z",
+  "website": "https://www.tradeaid.org.nz",
+  "email": "joanne.palmer@tradeaid.org.nz",
+  "address": {
+    "line1": "Shop 41",
+    "line2": "Coastlands Shopping Town",
+    "suburb": " ",
+    "city": "Kapiti",
+    "postcode": null
+  },
+  "nzbn": "9429043314966",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T07:24:06Z"
+}

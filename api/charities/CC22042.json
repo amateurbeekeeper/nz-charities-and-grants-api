@@ -1,0 +1,27 @@
+{
+  "id": 55098,
+  "registrationNumber": "CC22042",
+  "name": "Vineyard Christian Fellowship Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.vineyard.org.nz",
+  "email": "accounts@vineyard.org.nz",
+  "address": {
+    "line1": "150 Ferry Road",
+    "line2": " ",
+    "suburb": "Waltham",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042716839",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/VCANZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T23:20:32Z"
+}

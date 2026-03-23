@@ -1,0 +1,27 @@
+{
+  "id": 60343,
+  "registrationNumber": "CC28101",
+  "name": "The Upside Downs Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.upsidedowns.co.nz",
+  "email": "phil@upsidedowns.co.nz",
+  "address": {
+    "line1": "16 Te Hakari Lane",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429043005192",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/UpsideDownsEducationTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T23:56:06Z"
+}

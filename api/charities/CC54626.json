@@ -1,0 +1,27 @@
+{
+  "id": 68291,
+  "registrationNumber": "CC54626",
+  "name": "TAP LAB INCORPORATED",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.taplab.nz",
+  "email": "secretary@taplab.nz",
+  "address": {
+    "line1": "c/- Te Atatu Peninsula Community Centre",
+    "line2": "595 Te Atatu Road",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429043306633",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TAPlab.NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T00:47:10Z"
+}

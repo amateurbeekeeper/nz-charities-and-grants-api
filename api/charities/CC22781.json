@@ -1,0 +1,27 @@
+{
+  "id": 53244,
+  "registrationNumber": "CC22781",
+  "name": "New Zealand Rose Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzroses.org.nz",
+  "email": "treasurer@nzroses.org.nz",
+  "address": {
+    "line1": "415 Cameron Road",
+    "line2": "Tauranga 3110",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042787006",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http:/ /www.facebook.com/nzrosesociety/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T02:08:52Z"
+}

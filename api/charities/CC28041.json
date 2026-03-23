@@ -1,0 +1,27 @@
+{
+  "id": 60299,
+  "registrationNumber": "CC28041",
+  "name": "Bill McKinlay Park Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.billmckinlaypark.co.nz",
+  "email": "steveb@dbt.co.nz",
+  "address": {
+    "line1": "22 Domett Avenue",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043138661",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/billmckinlaypark/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:30:04Z"
+}

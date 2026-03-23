@@ -1,0 +1,27 @@
+{
+  "id": 67334,
+  "registrationNumber": "CC53620",
+  "name": "Bikes Welcome Charitable Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2016-07-15T00:00:00Z",
+  "dateDeregistered": "2021-05-19T00:00:00Z",
+  "website": "https://www.bikeswelcome.org",
+  "email": "jo.clendon@bikeswelcome.org",
+  "address": {
+    "line1": "5 Epuni Street",
+    "line2": " ",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429043308453",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "bikeswelcome",
+    "twitter": "bikeswelcome"
+  },
+  "lastUpdated": "2023-10-03T22:03:03Z"
+}

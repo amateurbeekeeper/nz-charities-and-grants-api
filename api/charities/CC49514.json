@@ -1,0 +1,27 @@
+{
+  "id": 35333,
+  "registrationNumber": "CC49514",
+  "name": "Pacific Inc. Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Tracey.dent@wisegroup.co.nz",
+  "address": {
+    "line1": "293 Grey Street",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429030155268",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T23:53:03Z"
+}

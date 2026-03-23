@@ -1,0 +1,27 @@
+{
+  "id": 69508,
+  "registrationNumber": "CC55855",
+  "name": "Whanganui Awa Paddlers",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "seletarfilo1@gmail.com",
+  "address": {
+    "line1": "61 Ikitara Road",
+    "line2": null,
+    "suburb": "Whanganui East",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429046802194",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "awa paddlers whanganui",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T00:05:13Z"
+}

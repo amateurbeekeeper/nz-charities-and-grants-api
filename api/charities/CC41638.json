@@ -1,0 +1,27 @@
+{
+  "id": 63684,
+  "registrationNumber": "CC41638",
+  "name": "Whangaparaoa Hub Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-08-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "whangaparaoa.info",
+  "email": "admin@whangaparaoa.info",
+  "address": {
+    "line1": "Shop 2.02 Coast Plaza ",
+    "line2": " 719 Whangaparaoa Rd",
+    "suburb": null,
+    "city": "Whangaparaoa",
+    "postcode": "0930"
+  },
+  "nzbn": "9429043239566",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whangahub/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T04:26:09Z"
+}

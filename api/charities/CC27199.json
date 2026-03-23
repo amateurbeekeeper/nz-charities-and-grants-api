@@ -1,0 +1,27 @@
+{
+  "id": 59490,
+  "registrationNumber": "CC27199",
+  "name": "New Zealand Institute of International Understanding",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.student-exchange.co.nz",
+  "email": "yasuko@nziiu.co.nz",
+  "address": {
+    "line1": "8 Manukau Road",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042681120",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-06T05:31:54Z"
+}

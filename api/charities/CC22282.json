@@ -1,0 +1,27 @@
+{
+  "id": 55513,
+  "registrationNumber": "CC22282",
+  "name": "Carter Observatory Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.experiencewellington.org.nz",
+  "email": "carolynm@experiencewellington.org.nz",
+  "address": {
+    "line1": "40 Salamanca Road",
+    "line2": " ",
+    "suburb": "Kelburn",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043157648",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T20:30:05Z"
+}

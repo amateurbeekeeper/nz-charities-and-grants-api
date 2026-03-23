@@ -1,0 +1,27 @@
+{
+  "id": 45400,
+  "registrationNumber": "CC33930",
+  "name": "Gallery Music Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gallerymusic.org",
+  "email": "gallerymusiccentre@gmail.com",
+  "address": {
+    "line1": "10 Gordon Street",
+    "line2": "Petone",
+    "suburb": "Avalon",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429042625230",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T19:38:25Z"
+}

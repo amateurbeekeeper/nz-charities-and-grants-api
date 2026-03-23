@@ -1,0 +1,27 @@
+{
+  "id": 42439,
+  "registrationNumber": "CC32250",
+  "name": "The Te Waiora Christian Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-06-30T00:00:00Z",
+  "website": "https://www.tewaiorahouse.org.nz",
+  "email": "cherylalant@outlook.com",
+  "address": {
+    "line1": "236 Hororata Road",
+    "line2": "RD 2",
+    "suburb": "Hororata",
+    "city": "Darfield",
+    "postcode": "7572"
+  },
+  "nzbn": "9429042850052",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Waiora House",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-10T20:54:47Z"
+}

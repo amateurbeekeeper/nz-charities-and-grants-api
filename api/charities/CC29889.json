@@ -1,0 +1,27 @@
+{
+  "id": 64810,
+  "registrationNumber": "CC29889",
+  "name": "WYNRS NZ TRUST",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wynrs.co.nz",
+  "email": "wynton@wynrs.co.nz",
+  "address": {
+    "line1": "297A Church Street",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042991977",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WYNRSNZTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T21:16:59Z"
+}

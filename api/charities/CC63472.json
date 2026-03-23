@@ -1,0 +1,27 @@
+{
+  "id": 77675,
+  "registrationNumber": "CC63472",
+  "name": "Church of Jesus - New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Patrick.abellanosa@outlook.com",
+  "address": {
+    "line1": "10 Maire Street",
+    "line2": " ",
+    "suburb": "Hāwera",
+    "city": "Hawera",
+    "postcode": "4610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T00:30:02Z"
+}

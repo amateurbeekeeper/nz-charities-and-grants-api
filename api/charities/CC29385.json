@@ -1,0 +1,27 @@
+{
+  "id": 64799,
+  "registrationNumber": "CC29385",
+  "name": "Red Rose Charitable Services Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "robert@equilibriumca.co.nz",
+  "address": {
+    "line1": "Level 6",
+    "line2": "111 The Terrace",
+    "suburb": "Wellington",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429035786566",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:19:00Z"
+}

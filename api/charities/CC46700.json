@@ -1,0 +1,27 @@
+{
+  "id": 37299,
+  "registrationNumber": "CC46700",
+  "name": "The Walden Tucker Trust ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://waldentucker.com/",
+  "email": "waldentuckertrust@gmail.com",
+  "address": {
+    "line1": "64 Ohau Drive",
+    "line2": null,
+    "suburb": "Lake Ōhau",
+    "city": "Ōmarama",
+    "postcode": "9412"
+  },
+  "nzbn": "9429043225200",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-20T03:28:34Z"
+}

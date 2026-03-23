@@ -1,0 +1,27 @@
+{
+  "id": 70896,
+  "registrationNumber": "CC57259",
+  "name": "Patient Voice Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.patientvoice.org.nz/",
+  "email": "76mulholland@gmail.com",
+  "address": {
+    "line1": "14 Ward Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429047588356",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/patientvoiceaotearoa/ ",
+    "twitter": null
+  },
+  "lastUpdated": "2024-12-02T18:25:54Z"
+}

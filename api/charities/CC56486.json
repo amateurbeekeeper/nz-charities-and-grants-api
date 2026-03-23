@@ -1,0 +1,27 @@
+{
+  "id": 70122,
+  "registrationNumber": "CC56486",
+  "name": "Akoranga Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ces@ram.org.nz",
+  "address": {
+    "line1": "25 Kauika Road",
+    "line2": " ",
+    "suburb": "Avenues",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043128341",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-08T19:13:13Z"
+}

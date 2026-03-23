@@ -1,0 +1,27 @@
+{
+  "id": 74236,
+  "registrationNumber": "CC60648",
+  "name": "Light City Hilltop Church ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-10-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lightcityhilltop12@gmail.com",
+  "address": {
+    "line1": "10 Ballinabreen Road",
+    "line2": " ",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": "9429049548280",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/LightCityHilltopChurchNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-17T18:39:02Z"
+}

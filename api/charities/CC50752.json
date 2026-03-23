@@ -1,0 +1,27 @@
+{
+  "id": 34292,
+  "registrationNumber": "CC50752",
+  "name": "Victory Boxing Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.victoryboxing.org.nz",
+  "email": "paul@victoryboxing.org.nz",
+  "address": {
+    "line1": "98 Vanguard Street",
+    "line2": " ",
+    "suburb": "Nelson South",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9249043268337",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Victory Boxing, Nelson, New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-19T18:20:26Z"
+}

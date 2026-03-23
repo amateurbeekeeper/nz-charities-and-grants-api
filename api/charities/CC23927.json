@@ -1,0 +1,27 @@
+{
+  "id": 41286,
+  "registrationNumber": "CC23927",
+  "name": "New Zealand Housing Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzhf.org",
+  "email": "sheik.f@housingfoundation.co.nz",
+  "address": {
+    "line1": "6A Nugent Street",
+    "line2": " ",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043156122",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T21:26:51Z"
+}

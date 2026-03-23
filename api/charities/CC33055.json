@@ -1,0 +1,27 @@
+{
+  "id": 44797,
+  "registrationNumber": "CC33055",
+  "name": "The Auckland Society of The New Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.newchurch.org.nz",
+  "email": "secretary@newchurch.org.nz",
+  "address": {
+    "line1": "46 Daffodil Street",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429042587521",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/108962855814544/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T19:18:31Z"
+}

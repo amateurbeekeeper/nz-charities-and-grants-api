@@ -1,0 +1,27 @@
+{
+  "id": 59081,
+  "registrationNumber": "CC30226",
+  "name": "Khandallah Community Creche Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.khandallahcreche.co.nz",
+  "email": "manager@khandallahcreche.co.nz",
+  "address": {
+    "line1": "33 Ganges Road",
+    "line2": " ",
+    "suburb": "Khandallah",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429042657569",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/khandallahcreche/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T00:52:51Z"
+}

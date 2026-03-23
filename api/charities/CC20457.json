@@ -1,0 +1,27 @@
+{
+  "id": 52892,
+  "registrationNumber": "CC20457",
+  "name": "New Zealand Brain Research  Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzbri.org",
+  "email": "health@cmrf.org.nz",
+  "address": {
+    "line1": "66 Stewart Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429033943237",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T07:12:18Z"
+}

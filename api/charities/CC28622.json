@@ -1,0 +1,27 @@
+{
+  "id": 57796,
+  "registrationNumber": "CC28622",
+  "name": "New Zealand Choral Federation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzcf.org.nz",
+  "email": "christine.argyle@nzcf.org.nz",
+  "address": {
+    "line1": "3B Cromarty Place",
+    "line2": " ",
+    "suburb": "Papakowhai",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429042708162",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/choral.fed/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-27T19:06:33Z"
+}

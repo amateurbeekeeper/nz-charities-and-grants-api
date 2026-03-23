@@ -1,0 +1,27 @@
+{
+  "id": 55461,
+  "registrationNumber": "CC22343",
+  "name": "NZCB Apprentice Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzcb.nz",
+  "email": "accounts@nzcb.nz",
+  "address": {
+    "line1": "10 Marsh Street",
+    "line2": "Tauranga 3110",
+    "suburb": "104 Spring Street",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T18:56:12Z"
+}

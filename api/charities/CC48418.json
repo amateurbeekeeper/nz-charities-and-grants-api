@@ -1,0 +1,27 @@
+{
+  "id": 32620,
+  "registrationNumber": "CC48418",
+  "name": "Excellere College Support Group",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.excellerecollege.school.nz",
+  "email": "office@excellerecollege.school.nz",
+  "address": {
+    "line1": "39 Great North Road",
+    "line2": " ",
+    "suburb": "Kamo",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Excellere-College-Whangarei-224039294297693/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T03:54:02Z"
+}

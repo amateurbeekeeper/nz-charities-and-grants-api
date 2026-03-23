@@ -1,0 +1,27 @@
+{
+  "id": 42389,
+  "registrationNumber": "CC24700",
+  "name": "M.A.S.H (Modern Approach To Social Health) Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-05-21T00:00:00Z",
+  "dateDeregistered": "2013-07-15T00:00:00Z",
+  "website": null,
+  "email": "mashinc@xtra.co.nz",
+  "address": {
+    "line1": "4 Sinclair Street",
+    "line2": null,
+    "suburb": "Ebdentown",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429042742920",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:21:27Z"
+}

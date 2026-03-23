@@ -1,0 +1,27 @@
+{
+  "id": 72438,
+  "registrationNumber": "CC58828",
+  "name": "Velocity Kickboxing",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-01-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "Velocitykickboxing.org.nz",
+  "email": "davemj2008@yahoo.com",
+  "address": {
+    "line1": "24 Roslyn Road",
+    "line2": " ",
+    "suburb": "Bluff Hill",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429048619127",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Velocity Kickboxing",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-23T19:39:06Z"
+}

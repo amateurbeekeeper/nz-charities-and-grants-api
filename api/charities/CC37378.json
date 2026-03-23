@@ -1,0 +1,27 @@
+{
+  "id": 43583,
+  "registrationNumber": "CC37378",
+  "name": "Otaki Montessori Pre-School Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.otakimontessori.co.nz",
+  "email": "om_principal@otakimontessori.co.nz",
+  "address": {
+    "line1": "Otaki Montessori",
+    "line2": "Haruatai Park",
+    "suburb": "Mill Road",
+    "city": "Otaki",
+    "postcode": "5543"
+  },
+  "nzbn": "9429042793717",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Otaki Montessori Pre-School",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T02:01:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 57469,
+  "registrationNumber": "CC35106",
+  "name": "Raglan Community Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2016-04-05T00:00:00Z",
+  "website": null,
+  "email": "a.rough@xtra.co.nz",
+  "address": {
+    "line1": "7 Taipari Avenue",
+    "line2": "Raglan 3225",
+    "suburb": "Raglan",
+    "city": "Raglan",
+    "postcode": "3225"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:26:35Z"
+}

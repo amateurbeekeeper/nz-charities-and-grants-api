@@ -1,0 +1,27 @@
+{
+  "id": 67301,
+  "registrationNumber": "CC53591",
+  "name": "Lower North Whanau Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@lnwt.org.nz",
+  "address": {
+    "line1": "18 Eccleston Hill",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043307081",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T02:33:38Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48052,
+  "registrationNumber": "CC33759",
+  "name": "Lichfield Lands Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@lichfieldlands.org.nz",
+  "address": {
+    "line1": "10 Neal Street",
+    "line2": "Putaruru 3411",
+    "suburb": " ",
+    "city": "Putaruru",
+    "postcode": "3411"
+  },
+  "nzbn": "9429042656371",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T22:31:33Z"
+}

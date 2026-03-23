@@ -1,0 +1,27 @@
+{
+  "id": 47452,
+  "registrationNumber": "CC29670",
+  "name": "Ashburton Learning Centre Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ashburtonlearningcentre.co.nz",
+  "email": "adult.literacy@xtra.co.nz",
+  "address": {
+    "line1": "71 Park Street",
+    "line2": "Ashburton 7700",
+    "suburb": " ",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": "9429052745348",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T20:42:40Z"
+}

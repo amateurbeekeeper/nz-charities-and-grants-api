@@ -1,0 +1,27 @@
+{
+  "id": 35871,
+  "registrationNumber": "CC44874",
+  "name": "Wellington Regional Art and Cultural Development Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-08-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.artswellington.org.nz",
+  "email": "info@artswellington.org.nz",
+  "address": {
+    "line1": "107B Mairangi Road",
+    "line2": " ",
+    "suburb": "Wadestown",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043045860",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/artswellington",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T23:09:56Z"
+}

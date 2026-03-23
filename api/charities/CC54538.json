@@ -1,0 +1,27 @@
+{
+  "id": 68211,
+  "registrationNumber": "CC54538",
+  "name": "Empower Youth Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.empoweryouth.org.nz",
+  "email": "rez@empoweryouth.org.nz",
+  "address": {
+    "line1": "201/29 Beach Road",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/empoweryouthnz/?ref=br_tf",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:03:27Z"
+}

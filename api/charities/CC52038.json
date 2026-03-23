@@ -1,0 +1,27 @@
+{
+  "id": 65806,
+  "registrationNumber": "CC52038",
+  "name": "Fall on Soil Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "fallonsoil.org.nz",
+  "email": "fawcett@fallonsoil.org.nz",
+  "address": {
+    "line1": "42 Harwood Crescent",
+    "line2": " ",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-02T23:57:40Z"
+}

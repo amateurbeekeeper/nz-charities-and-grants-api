@@ -1,0 +1,27 @@
+{
+  "id": 72473,
+  "registrationNumber": "CC58865",
+  "name": "Taima Korero",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taimakorero.co.nz",
+  "email": "brett@taimakorero.co.nz",
+  "address": {
+    "line1": "51 Princess Street",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429049207811",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TaimaKorero",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T23:44:18Z"
+}

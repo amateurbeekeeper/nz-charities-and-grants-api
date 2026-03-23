@@ -1,0 +1,27 @@
+{
+  "id": 61019,
+  "registrationNumber": "CC29522",
+  "name": "Kaikoura Agricultural And Pastoral Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kaikourashow@gmail.com",
+  "address": {
+    "line1": "2790 Inland Kaikoura Road",
+    "line2": "RD 3",
+    "suburb": "Stag And Spey",
+    "city": "Kaikoura",
+    "postcode": "7373"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:00:30Z"
+}

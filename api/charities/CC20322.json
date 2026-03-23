@@ -1,0 +1,27 @@
+{
+  "id": 52235,
+  "registrationNumber": "CC20322",
+  "name": "Te Kete o Wairewa Ltd",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-12-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jacqui.veint@ngaitahu.iwi.nz",
+  "address": {
+    "line1": "501 Tuam Street",
+    "line2": " ",
+    "suburb": "Phillipstown",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429036971299",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T22:01:39Z"
+}

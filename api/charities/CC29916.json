@@ -1,0 +1,27 @@
+{
+  "id": 57192,
+  "registrationNumber": "CC29916",
+  "name": "The Christchurch Art Gallery Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2014-12-22T00:00:00Z",
+  "website": "http://www.christchurchartgallery.org.nz",
+  "email": "jglentworth@deloitte.co.nz",
+  "address": {
+    "line1": "Cnr Worchester Blvd & Montreal Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": "9429042974376",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:54:14Z"
+}

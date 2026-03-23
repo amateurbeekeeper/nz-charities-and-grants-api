@@ -1,0 +1,27 @@
+{
+  "id": 45080,
+  "registrationNumber": "CC40634",
+  "name": "Te Runanga O Te Whanau",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "umesh.naik@apanui.co.nz",
+  "address": {
+    "line1": "R D 3, State Highway 35",
+    "line2": " ",
+    "suburb": "Te Kaha",
+    "city": "Opotiki",
+    "postcode": "3199"
+  },
+  "nzbn": "9429042850946",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T03:20:55Z"
+}

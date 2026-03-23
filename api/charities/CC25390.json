@@ -1,0 +1,27 @@
+{
+  "id": 53597,
+  "registrationNumber": "CC25390",
+  "name": "Royal Astronomical Society Of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rasnz.org.nz",
+  "email": "treasurer@rasnz.org.nz",
+  "address": {
+    "line1": "PO Box 3181",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429042800736",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T04:31:53Z"
+}

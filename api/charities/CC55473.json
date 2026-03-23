@@ -1,0 +1,27 @@
+{
+  "id": 69131,
+  "registrationNumber": "CC55473",
+  "name": "Project Moroto",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://projectmoroto.com/",
+  "email": "jaynebaileynz@gmail.com",
+  "address": {
+    "line1": "305A Riccarton Road",
+    "line2": " ",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429046693235",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ProjectMoroto/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:45:51Z"
+}

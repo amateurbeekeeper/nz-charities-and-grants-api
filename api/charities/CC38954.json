@@ -1,0 +1,27 @@
+{
+  "id": 44271,
+  "registrationNumber": "CC38954",
+  "name": "The New Zealand Horticentre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david@spencer.kiwi",
+  "address": {
+    "line1": "Suite 1",
+    "line2": "20 Beaumont Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T01:40:24Z"
+}

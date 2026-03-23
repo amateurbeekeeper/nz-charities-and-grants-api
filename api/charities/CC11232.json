@@ -1,0 +1,27 @@
+{
+  "id": 52439,
+  "registrationNumber": "CC11232",
+  "name": "Ethnos New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ethnos.nz",
+  "email": "newzealand@ethnos.nz",
+  "address": {
+    "line1": "9 Albert Hall Drive",
+    "line2": " ",
+    "suburb": "Red Beach",
+    "city": "Auckland",
+    "postcode": "0932"
+  },
+  "nzbn": "9429042674535",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/EthnosNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T22:43:15Z"
+}

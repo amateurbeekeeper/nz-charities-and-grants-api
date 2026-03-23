@@ -1,0 +1,27 @@
+{
+  "id": 51569,
+  "registrationNumber": "CC27078",
+  "name": "Te Taumata o Ngati Whakaue Iho Ake Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taumata.org.nz",
+  "email": "matiria@taumata.org.nz",
+  "address": {
+    "line1": "2B Ranolf Street",
+    "line2": "Rotorua 3010",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429043129065",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:50:37Z"
+}

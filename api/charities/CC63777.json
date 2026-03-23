@@ -1,0 +1,27 @@
+{
+  "id": 77975,
+  "registrationNumber": "CC63777",
+  "name": "Rolleston Brass Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-09-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurer@rollestonbrass.org.nz",
+  "address": {
+    "line1": "Unit 4",
+    "line2": "16 Moule Street",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100063545433886",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T20:38:02Z"
+}

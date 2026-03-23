@@ -1,0 +1,27 @@
+{
+  "id": 67526,
+  "registrationNumber": "CC53825",
+  "name": "He Manu Hou Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hemanuhou.nz/",
+  "email": "bot@hemanuhou.nz",
+  "address": {
+    "line1": "Te Aitarakihi Multi Cultural Centre",
+    "line2": "50 Bridge Street",
+    "suburb": " ",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429043251186",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HeManuHouTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T02:00:09Z"
+}

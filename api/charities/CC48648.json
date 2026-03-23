@@ -1,0 +1,27 @@
+{
+  "id": 33179,
+  "registrationNumber": "CC48648",
+  "name": "North Wellington SeniorNet Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-11-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.northwellingtonseniornet.org.nz",
+  "email": "peter@jville.kiwi",
+  "address": {
+    "line1": "Care Johnsonville Community Centre",
+    "line2": "3 Frankmore Ave",
+    "suburb": " Johnsonville",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429043322220",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T22:22:17Z"
+}

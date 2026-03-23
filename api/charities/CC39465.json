@@ -1,0 +1,27 @@
+{
+  "id": 63803,
+  "registrationNumber": "CC39465",
+  "name": "Thumbs Up Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://thumbsuptrust.org.nz",
+  "email": "manager@thumbsuptrust.org.nz",
+  "address": {
+    "line1": "5 Elizabeth Street",
+    "line2": " ",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": "9429043164783",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T20:42:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44780,
+  "registrationNumber": "CC37595",
+  "name": "Mt Maunganui Senior Citizens Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mtcommunityhall@gmail.com",
+  "address": {
+    "line1": "345 Maunganui Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429042753063",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mountcommunityhall",
+    "twitter": "0"
+  },
+  "lastUpdated": "2025-11-27T00:56:32Z"
+}

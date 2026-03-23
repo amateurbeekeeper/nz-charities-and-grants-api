@@ -1,0 +1,27 @@
+{
+  "id": 33112,
+  "registrationNumber": "CC49366",
+  "name": "Manurewa Neighbourhood Support Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-06-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nsmanurewa.nz",
+  "email": "fisher.sheryl@gmail.com",
+  "address": {
+    "line1": "50 Walpole Avenue",
+    "line2": " ",
+    "suburb": "Hillpark",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": "9429042741350",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:50:49Z"
+}

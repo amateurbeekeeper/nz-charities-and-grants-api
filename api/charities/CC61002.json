@@ -1,0 +1,27 @@
+{
+  "id": 74587,
+  "registrationNumber": "CC61002",
+  "name": "Lions Club of Kaitaia Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john.mcg.carter@gmail.com",
+  "address": {
+    "line1": "3 Rata Street",
+    "line2": "RD 1",
+    "suburb": "Waipapakauri",
+    "city": "Awanui",
+    "postcode": "0486"
+  },
+  "nzbn": "9429053332349",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T00:37:25Z"
+}

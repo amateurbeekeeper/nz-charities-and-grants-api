@@ -1,0 +1,27 @@
+{
+  "id": 73043,
+  "registrationNumber": "CC59440",
+  "name": "Richmond Residents' and Business Association",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wearerichmond.co.nz",
+  "email": "secretary@wearerichmond.co.nz",
+  "address": {
+    "line1": "46A Vogel Street",
+    "line2": " ",
+    "suburb": "Richmond",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wearerichmondchch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T18:52:35Z"
+}

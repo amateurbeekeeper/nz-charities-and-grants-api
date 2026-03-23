@@ -1,0 +1,27 @@
+{
+  "id": 34480,
+  "registrationNumber": "CC50737",
+  "name": "ACK Howick Congregation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lbeer.nz@gmail.com",
+  "address": {
+    "line1": "14 Oakridge Way",
+    "line2": " ",
+    "suburb": "Northpark",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429043261789",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ackhowicknz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-26T19:16:35Z"
+}

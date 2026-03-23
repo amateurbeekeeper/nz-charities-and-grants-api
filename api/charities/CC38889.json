@@ -1,0 +1,27 @@
+{
+  "id": 47574,
+  "registrationNumber": "CC38889",
+  "name": "Lyttelton Youth Centre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-03-30T00:00:00Z",
+  "dateDeregistered": "2017-03-23T00:00:00Z",
+  "website": "http://lytteltonyouth.org.nz",
+  "email": "lytteltonyouthcentre@xnet.co.nz",
+  "address": {
+    "line1": "7 Dublin Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lyttelton",
+    "postcode": "8082"
+  },
+  "nzbn": "9429042685623",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:57:17Z"
+}

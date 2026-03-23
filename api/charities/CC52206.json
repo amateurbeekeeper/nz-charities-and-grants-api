@@ -1,0 +1,27 @@
+{
+  "id": 65942,
+  "registrationNumber": "CC52206",
+  "name": "Alfredton School and Community Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "asca@alfredton.school.nz",
+  "address": {
+    "line1": "15207 Route 52",
+    "line2": "RD 3",
+    "suburb": "Alfredton",
+    "city": "Eketahuna",
+    "postcode": "4996"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-05T04:35:52Z"
+}

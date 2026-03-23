@@ -1,0 +1,27 @@
+{
+  "id": 60109,
+  "registrationNumber": "CC37718",
+  "name": "New Players Theatre Company Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.newplayers.org.nz",
+  "email": "secretary@newplayers.org.nz",
+  "address": {
+    "line1": "4 Tyrico Way",
+    "line2": " ",
+    "suburb": "Grenada Village",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429042679196",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "New Players Theatre Company ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T01:36:07Z"
+}

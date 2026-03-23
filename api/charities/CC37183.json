@@ -1,0 +1,27 @@
+{
+  "id": 47791,
+  "registrationNumber": "CC37183",
+  "name": "Omaka Marae Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.omakamarae.co.nz",
+  "email": "manager@omakamarae.co.nz",
+  "address": {
+    "line1": "120 Aerodrome Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7272"
+  },
+  "nzbn": "9429042797463",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-14T03:21:11Z"
+}

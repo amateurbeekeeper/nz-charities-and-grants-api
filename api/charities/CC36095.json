@@ -1,0 +1,27 @@
+{
+  "id": 59366,
+  "registrationNumber": "CC36095",
+  "name": "Community Housing Aotearoa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.communityhousing.org.nz",
+  "email": "sandra.welsh@xtra.co.nz",
+  "address": {
+    "line1": "Level 11 Ranchhod Tower",
+    "line2": "39 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6142"
+  },
+  "nzbn": "9429043048397",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:31:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42459,
+  "registrationNumber": "CC25260",
+  "name": "Tui Bee Balme Co-Operative Society Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tuibalms.co.nz",
+  "email": "richard@tuibalms.co.nz",
+  "address": {
+    "line1": "223 McShane Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Takaka",
+    "postcode": "7183"
+  },
+  "nzbn": "9429042923398",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tuibalms",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-07T21:17:58Z"
+}

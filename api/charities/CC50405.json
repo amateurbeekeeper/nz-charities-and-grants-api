@@ -1,0 +1,27 @@
+{
+  "id": 33657,
+  "registrationNumber": "CC50405",
+  "name": "Waitara Alive Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-03-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://waitaraalive.co.nz/",
+  "email": "Brent.Abbott@unlimit.co.nz",
+  "address": {
+    "line1": "97 Mould Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waitara",
+    "postcode": "4320"
+  },
+  "nzbn": "9429043252749",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waitara.alive/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T21:05:49Z"
+}

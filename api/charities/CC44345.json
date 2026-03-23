@@ -1,0 +1,27 @@
+{
+  "id": 50593,
+  "registrationNumber": "CC44345",
+  "name": "C3 Church Rotorua Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "c3rotorua.org.nz",
+  "email": "admin@c3rotorua.org.nz",
+  "address": {
+    "line1": "1178 Pukaki Street",
+    "line2": "Rotorua 3010",
+    "suburb": "Western Heights",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429043191390",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "C3 Church Rotorua",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T20:31:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56918,
+  "registrationNumber": "CC25378",
+  "name": "Citizens Advice Bureau Hastings Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cab.org.nz",
+  "email": "diana_bede@xtra.co.nz",
+  "address": {
+    "line1": "112 Queen Street East",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429042721789",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/cab.hastings",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T04:50:03Z"
+}

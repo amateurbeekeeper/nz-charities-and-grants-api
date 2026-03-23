@@ -1,0 +1,27 @@
+{
+  "id": 47515,
+  "registrationNumber": "CC27792",
+  "name": "Lions Club Of Mount Maunganui Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mountlions.org",
+  "email": "syderstone@xtra.co.nz",
+  "address": {
+    "line1": "114 Oceanview Road",
+    "line2": "Mount Maunganui 3116",
+    "suburb": "Bellevue",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429043180226",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:13:06Z"
+}

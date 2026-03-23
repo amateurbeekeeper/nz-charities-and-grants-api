@@ -1,0 +1,27 @@
+{
+  "id": 75012,
+  "registrationNumber": "CC61442",
+  "name": "Motueka Community Development Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-04-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john@sbcmot.co.nz",
+  "address": {
+    "line1": "12 Wallace Street",
+    "line2": "Motueka 7120",
+    "suburb": " ",
+    "city": "Motueka",
+    "postcode": "7120"
+  },
+  "nzbn": "9429051256722",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/667457326732935/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T21:43:36Z"
+}

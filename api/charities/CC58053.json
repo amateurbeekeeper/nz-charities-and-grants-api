@@ -1,0 +1,27 @@
+{
+  "id": 71675,
+  "registrationNumber": "CC58053",
+  "name": "WE ARE ONE",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-08-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.weareone.nz",
+  "email": "weareonenzt@gmail.com",
+  "address": {
+    "line1": "1 Platinum Rise",
+    "line2": " ",
+    "suburb": "Ranui",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429048155670",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "weareonenzt",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T02:12:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64492,
+  "registrationNumber": "CC40105",
+  "name": "Glenbervie School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.glenbervie.school.nz",
+  "email": "travis.lisa@hotmail.com",
+  "address": {
+    "line1": "151 Ngunguru Road",
+    "line2": "RD 3",
+    "suburb": "Glenbervie",
+    "city": "Whangarei",
+    "postcode": "0173"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:36:45Z"
+}

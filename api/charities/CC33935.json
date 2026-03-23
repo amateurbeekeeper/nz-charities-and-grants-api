@@ -1,0 +1,27 @@
+{
+  "id": 42360,
+  "registrationNumber": "CC33935",
+  "name": "Tamil Society Waikato Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tamilsocietywaikato.org.nz/",
+  "email": "treasurer@tamilsocietywaikato.org.nz",
+  "address": {
+    "line1": "PO Box 4189",
+    "line2": "Hamilton East",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3247"
+  },
+  "nzbn": "9429042840657",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WaikatoTamil",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-31T18:40:26Z"
+}

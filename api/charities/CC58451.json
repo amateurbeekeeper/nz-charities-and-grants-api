@@ -1,0 +1,27 @@
+{
+  "id": 72068,
+  "registrationNumber": "CC58451",
+  "name": "Defeat Multiple System Atrophy (MSA) New Zealand Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.defeatmsa.org.nz",
+  "email": "brent.evans@defeatmsa.org.nz",
+  "address": {
+    "line1": "PO Box 125238",
+    "line2": " ",
+    "suburb": "St Heliers",
+    "city": "Auckland",
+    "postcode": "1740"
+  },
+  "nzbn": "9429048728935",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/msakiwi",
+    "twitter": "https://twitter.com/NewZealandMSA"
+  },
+  "lastUpdated": "2025-10-02T03:57:14Z"
+}

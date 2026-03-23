@@ -1,0 +1,27 @@
+{
+  "id": 68947,
+  "registrationNumber": "CC55291",
+  "name": "Te Rauhii",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-02-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.terauhii.co.nz",
+  "email": "jexmoore@terauhii.co.nz",
+  "address": {
+    "line1": "58 Livingstone Avenue",
+    "line2": " ",
+    "suburb": "Nawton",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429046624994",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/TeRauhii",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T21:01:23Z"
+}

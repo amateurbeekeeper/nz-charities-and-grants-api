@@ -1,0 +1,27 @@
+{
+  "id": 70452,
+  "registrationNumber": "CC56815",
+  "name": "Cross Life Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@jlpartners.co.nz",
+  "address": {
+    "line1": "36 Sunnybrae Road",
+    "line2": " ",
+    "suburb": "Hillcrest",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:09:06Z"
+}

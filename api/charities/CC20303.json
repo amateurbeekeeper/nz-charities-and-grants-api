@@ -1,0 +1,27 @@
+{
+  "id": 52099,
+  "registrationNumber": "CC20303",
+  "name": "Cambridge Elim Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "susan@elimcambridge.org.nz",
+  "address": {
+    "line1": "8 Wordsworth Street",
+    "line2": " ",
+    "suburb": "Leamington",
+    "city": "Cambridge",
+    "postcode": "3432"
+  },
+  "nzbn": "9429042967422",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:04Z"
+}

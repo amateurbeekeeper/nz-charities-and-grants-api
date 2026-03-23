@@ -1,0 +1,27 @@
+{
+  "id": 72950,
+  "registrationNumber": "CC59341",
+  "name": "Fish Mainland Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fishmainland.nz",
+  "email": "bkreay@gmail.com",
+  "address": {
+    "line1": "26 Westhaven Place",
+    "line2": " ",
+    "suburb": "Redwoodtown",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429047871069",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FishMainland/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-12T00:24:46Z"
+}

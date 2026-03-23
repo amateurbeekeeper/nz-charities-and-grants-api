@@ -1,0 +1,27 @@
+{
+  "id": 65752,
+  "registrationNumber": "CC52005",
+  "name": "St Stephens Presbyterian Church Invercargill",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sspc.nz@gmail.com",
+  "address": {
+    "line1": "290 North Road",
+    "line2": " ",
+    "suburb": "Waikiwi",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T23:00:03Z"
+}

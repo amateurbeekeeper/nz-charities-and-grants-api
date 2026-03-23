@@ -1,0 +1,27 @@
+{
+  "id": 64553,
+  "registrationNumber": "CC37780",
+  "name": "Rise Group Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.risegroup.co.nz",
+  "email": "ina@risegroup.co.nz",
+  "address": {
+    "line1": "133 Line Road",
+    "line2": " ",
+    "suburb": "Glen Innes",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429043058747",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T08:30:43Z"
+}

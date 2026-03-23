@@ -1,0 +1,27 @@
+{
+  "id": 38418,
+  "registrationNumber": "CC47181",
+  "name": "Victoria University of  Wellington",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wgtn.ac.nz",
+  "email": "fsaccount-team@vuw.ac.nz",
+  "address": {
+    "line1": "Hunter Building",
+    "line2": "Kelburn Parade",
+    "suburb": "Kelburn",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-28T02:12:39Z"
+}

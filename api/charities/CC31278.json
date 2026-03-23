@@ -1,0 +1,27 @@
+{
+  "id": 49698,
+  "registrationNumber": "CC31278",
+  "name": "FC Whangarei Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sporty.co.nz/fcwhangarei",
+  "email": "connect@northfinancial.co.nz",
+  "address": {
+    "line1": "11 Rawhiti Street",
+    "line2": "5 Hunt Street",
+    "suburb": "Morningside",
+    "city": "Whangārei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429042957577",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whangarei.football",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T02:38:35Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39930,
+  "registrationNumber": "CC31494",
+  "name": "Raleigh Street Christian Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rscc.co.nz",
+  "email": "treasurer@rscc.co.nz",
+  "address": {
+    "line1": "24-26 Raleigh Street",
+    "line2": " ",
+    "suburb": "Leamington",
+    "city": "Cambridge",
+    "postcode": "3432"
+  },
+  "nzbn": "9429042984481",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T00:49:19Z"
+}

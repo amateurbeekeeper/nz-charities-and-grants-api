@@ -1,0 +1,27 @@
+{
+  "id": 41176,
+  "registrationNumber": "CC23513",
+  "name": "The Taupo Budget Advisory Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://budgethouse.org.nz",
+  "email": "finance@tbas.org.nz",
+  "address": {
+    "line1": "69 Pāora Hapi Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Taupō",
+    "postcode": "3330"
+  },
+  "nzbn": "9429042978312",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TaupoBudgetAdvice/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T22:54:54Z"
+}

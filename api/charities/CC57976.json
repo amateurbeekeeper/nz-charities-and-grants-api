@@ -1,0 +1,27 @@
+{
+  "id": 71578,
+  "registrationNumber": "CC57976",
+  "name": "Timaru Golf Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.timarugolfclub.co.nz",
+  "email": "waynesidaway@xtra.co.nz",
+  "address": {
+    "line1": "82 Lynch Road",
+    "line2": "RD3",
+    "suburb": "Levels",
+    "city": "Timaru",
+    "postcode": "7973"
+  },
+  "nzbn": "9429042973393",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Timaru Golf Club",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T23:04:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67984,
+  "registrationNumber": "CC54306",
+  "name": "VOYCE Whakarongo Mai",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.voyce.org.nz",
+  "email": "matt.mcalpine@voyce.org.nz",
+  "address": {
+    "line1": "Eden 5",
+    "line2": "12 Normanby Road",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429046418357",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/VOYCEWhakarongoMai/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T18:16:32Z"
+}

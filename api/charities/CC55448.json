@@ -1,0 +1,27 @@
+{
+  "id": 69104,
+  "registrationNumber": "CC55448",
+  "name": "Sustainable Queenstown Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://sustainablequeenstown.org.nz",
+  "email": "nicole@sustainablequeenstown.org.nz",
+  "address": {
+    "line1": "Todd and Walker Law",
+    "line2": " Level 2 Craigs Investment Partners House ",
+    "suburb": "5 Mile Centre, 36 Grant Road",
+    "city": "Queenstown",
+    "postcode": "9371"
+  },
+  "nzbn": "9429046762405",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/sustainableQueenstown/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T22:26:07Z"
+}

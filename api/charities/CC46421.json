@@ -1,0 +1,27 @@
+{
+  "id": 36889,
+  "registrationNumber": "CC46421",
+  "name": "The Aquatic Education New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-04-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nicola@dpanz.org.nz",
+  "address": {
+    "line1": "85 Westhaven Drive",
+    "line2": " ",
+    "suburb": "Saint Marys Bay",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429033001258",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T00:29:17Z"
+}

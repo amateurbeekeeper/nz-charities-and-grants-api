@@ -1,0 +1,27 @@
+{
+  "id": 39763,
+  "registrationNumber": "CC22818",
+  "name": "Feilding Bible Chapel",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.feildingbiblechapel.org.nz",
+  "email": "admin@feildingbiblechapel.org.nz",
+  "address": {
+    "line1": "107-109 Warwick Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Feilding",
+    "postcode": "4702"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T08:03:32Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 60554,
+  "registrationNumber": "CC30552",
+  "name": "Tokomairiro Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "tokomairirotoylibrary.mibase.co.nz",
+  "email": "telc@xtra.co.nz",
+  "address": {
+    "line1": "9 Elderlee Street",
+    "line2": "Milton 9220",
+    "suburb": " ",
+    "city": "Milton",
+    "postcode": "9220"
+  },
+  "nzbn": "9429042892342",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Toko-Toy-Library-105188770871751",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-14T07:59:09Z"
+}

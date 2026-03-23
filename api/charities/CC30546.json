@@ -1,0 +1,27 @@
+{
+  "id": 60127,
+  "registrationNumber": "CC30546",
+  "name": "Kapiti Playhouse Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kapitiplayhouse.co.nz",
+  "email": "janet@courtenayhearing.co.nz",
+  "address": {
+    "line1": "7 Ruahine Street",
+    "line2": "Paraparaumu 5032",
+    "suburb": " ",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429042651727",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:26:40Z"
+}

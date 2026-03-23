@@ -1,0 +1,27 @@
+{
+  "id": 45434,
+  "registrationNumber": "CC30264",
+  "name": "Awatere Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-06-23T00:00:00Z",
+  "website": "www.playcentre.org.nz/centre/awatere/",
+  "email": "awatere@playcentre.org.nz",
+  "address": {
+    "line1": "13A Redwood Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Seddon",
+    "postcode": "7210"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T22:04:34Z"
+}

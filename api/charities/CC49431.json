@@ -1,0 +1,27 @@
+{
+  "id": 35086,
+  "registrationNumber": "CC49431",
+  "name": "Wellington (CEC) Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.launchpad.kiwi",
+  "email": "wellington.boardchair@cec.nz",
+  "address": {
+    "line1": "7 Mohuia Crescent",
+    "line2": " ",
+    "suburb": "Elsdon",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429043244027",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-12T00:43:59Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73950,
+  "registrationNumber": "CC60353",
+  "name": "WOMENZSHED",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.womenzshed.org",
+  "email": "nikki@womenzshed.org",
+  "address": {
+    "line1": "Flat 11",
+    "line2": "8 Moselle Avenue",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429050697175",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/womenzshed.org",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T21:43:00Z"
+}

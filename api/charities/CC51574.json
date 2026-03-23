@@ -1,0 +1,27 @@
+{
+  "id": 65347,
+  "registrationNumber": "CC51574",
+  "name": "Opus Orchestra Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2020-12-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.opusorchestra.co.nz",
+  "email": "steve.thompson.nz@gmail.com",
+  "address": {
+    "line1": "C/O: 6B Manuel's Road",
+    "line2": " ",
+    "suburb": "Greerton",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429048604062",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/opusorchestranz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T22:24:04Z"
+}

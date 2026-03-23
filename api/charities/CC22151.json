@@ -1,0 +1,27 @@
+{
+  "id": 55391,
+  "registrationNumber": "CC22151",
+  "name": "SPIRIT OF ADVENTURE TRUST",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://spiritofadventure.org.nz",
+  "email": "Chantelle@soat.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "14 Viaduct Harbour Avenue",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042726357",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/spiritofadventurenz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:49:42Z"
+}

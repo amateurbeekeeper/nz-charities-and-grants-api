@@ -1,0 +1,27 @@
+{
+  "id": 52077,
+  "registrationNumber": "CC26806",
+  "name": "Wellington After-Care Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.evaro.nz ",
+  "email": "kervin@evaro.nz",
+  "address": {
+    "line1": "Level 1 James Smith Corner",
+    "line2": " 65 Cuba Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042916444",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Evaro",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T23:47:09Z"
+}

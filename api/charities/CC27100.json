@@ -1,0 +1,27 @@
+{
+  "id": 42150,
+  "registrationNumber": "CC27100",
+  "name": "Estate of John Logan Campbell",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.jlcampbell.co.nz",
+  "email": "tracey.brown@cornwallpark.co.nz",
+  "address": {
+    "line1": "203 Green Lane West",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T18:44:31Z"
+}

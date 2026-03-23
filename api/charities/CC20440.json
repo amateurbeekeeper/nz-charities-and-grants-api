@@ -1,0 +1,27 @@
+{
+  "id": 53579,
+  "registrationNumber": "CC20440",
+  "name": "University Of Otago Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.otago.ac.nz",
+  "email": "fsd.treasury@otago.ac.nz",
+  "address": {
+    "line1": "Clock Tower Building",
+    "line2": "Leith Street",
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9054"
+  },
+  "nzbn": "9429043207688",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-13T20:22:36Z"
+}

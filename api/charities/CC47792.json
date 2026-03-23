@@ -1,0 +1,27 @@
+{
+  "id": 38002,
+  "registrationNumber": "CC47792",
+  "name": "NEW ZEALAND FOOD RESCUE TRUST",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-03-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kiwiharvest.org.nz",
+  "email": "deborah@kiwiharvest.org.nz",
+  "address": {
+    "line1": "G/70 Business Parade South",
+    "line2": " Highbrook",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429043239757",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KiwiHarvest",
+    "twitter": "https://twitter.com/kiwiharvest"
+  },
+  "lastUpdated": "2026-02-24T20:58:26Z"
+}

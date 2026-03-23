@@ -1,0 +1,27 @@
+{
+  "id": 55500,
+  "registrationNumber": "CC26049",
+  "name": "Trentham Sports Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.trenthamsportscentre.co.nz",
+  "email": "tsct@xtra.co.nz",
+  "address": {
+    "line1": "9 Pattullo Crescent",
+    "line2": " ",
+    "suburb": "Wallaceville",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429043019373",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T18:03:02Z"
+}

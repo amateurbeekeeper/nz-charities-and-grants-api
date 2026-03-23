@@ -1,0 +1,27 @@
+{
+  "id": 57920,
+  "registrationNumber": "CC28456",
+  "name": "Te Taiwhenua o Te Whanganui a Orotu Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taiwhenua.com",
+  "email": "admin@taiwhenua.com",
+  "address": {
+    "line1": "2 Wellesley Road",
+    "line2": " ",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042843221",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T09:23:02Z"
+}

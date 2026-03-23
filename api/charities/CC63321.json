@@ -1,0 +1,27 @@
+{
+  "id": 77526,
+  "registrationNumber": "CC63321",
+  "name": "St John's Arrowtown Presbyterian Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.arrowtownpresbyterian.com",
+  "email": "stjohns.arrowtown.wpc@gmail.com",
+  "address": {
+    "line1": "26 Berkshire Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Arrowtown",
+    "postcode": "9302"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-24T01:16:21Z"
+}

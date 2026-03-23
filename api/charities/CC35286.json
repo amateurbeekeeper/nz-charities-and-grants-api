@@ -1,0 +1,27 @@
+{
+  "id": 46070,
+  "registrationNumber": "CC35286",
+  "name": "New Zealand Institute Of Advanced Legal Studies",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2012-10-02T00:00:00Z",
+  "website": null,
+  "email": "tony.angelo@vuw.ac.nz",
+  "address": {
+    "line1": "55 Lambton Quay",
+    "line2": null,
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042680147",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-05-24T05:10:38Z"
+}

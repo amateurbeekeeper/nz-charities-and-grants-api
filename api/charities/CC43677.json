@@ -1,0 +1,27 @@
+{
+  "id": 50146,
+  "registrationNumber": "CC43677",
+  "name": "Moteo Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "moteoreserve@gmail.com",
+  "address": {
+    "line1": "48 Moteo Marae Road",
+    "line2": "Puketapu",
+    "suburb": " RD3",
+    "city": "Napier",
+    "postcode": "4183"
+  },
+  "nzbn": "9429051847197",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T20:26:19Z"
+}

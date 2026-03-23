@@ -1,0 +1,27 @@
+{
+  "id": 55655,
+  "registrationNumber": "CC31158",
+  "name": "The Timber Museum of New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nztm.org.nz",
+  "email": "manager@nztm.org.nz",
+  "address": {
+    "line1": "2331 State Highway 1",
+    "line2": " ",
+    "suburb": "Lichfield",
+    "city": "Putāruru",
+    "postcode": "3482"
+  },
+  "nzbn": "9429043053353",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The New Zealand Timber Museum",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T19:43:35Z"
+}

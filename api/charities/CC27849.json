@@ -1,0 +1,27 @@
+{
+  "id": 54639,
+  "registrationNumber": "CC27849",
+  "name": "Companion Animals New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.companionanimals.nz",
+  "email": "treasurer@companionanimals.nz",
+  "address": {
+    "line1": "44 Victoria Street",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429048860321",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CompanionAnimalsNZ/",
+    "twitter": "https://twitter.com/_CANZ_"
+  },
+  "lastUpdated": "2026-03-13T05:28:30Z"
+}

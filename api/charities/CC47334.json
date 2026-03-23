@@ -1,0 +1,27 @@
+{
+  "id": 38488,
+  "registrationNumber": "CC47334",
+  "name": "John Paul II Centre For Life Trust ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-08-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.jp2.org.nz",
+  "email": "director@jp2.org.nz",
+  "address": {
+    "line1": "391 Moorhouse Avenue",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429047808829",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/jp2centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T23:23:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39258,
+  "registrationNumber": "CC22345",
+  "name": "U3A Dunedin Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://u3adunedin.org.nz",
+  "email": "treasurer@u3adunedin.org.nz",
+  "address": {
+    "line1": "139 Balmacewen Road",
+    "line2": " ",
+    "suburb": "Wakari",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": "9429043072408",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-18T21:29:00Z"
+}

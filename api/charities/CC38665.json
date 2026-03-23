@@ -1,0 +1,27 @@
+{
+  "id": 41438,
+  "registrationNumber": "CC38665",
+  "name": "Taranaki Electricity Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.taranakielectricitytrust.co.nz",
+  "email": "grant@foreveramber.co.nz",
+  "address": {
+    "line1": "84 Rata Street",
+    "line2": "Inglewood 4330",
+    "suburb": "Highlands Park",
+    "city": "Inglewood",
+    "postcode": "4330"
+  },
+  "nzbn": "9429043125203",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T03:15:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65022,
+  "registrationNumber": "CC34929",
+  "name": "Mangere Historical Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "barbaradixon26@gmail.com",
+  "address": {
+    "line1": "18 Koru Street",
+    "line2": " ",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T19:47:05Z"
+}

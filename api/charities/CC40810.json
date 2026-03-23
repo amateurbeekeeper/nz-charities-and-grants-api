@@ -1,0 +1,27 @@
+{
+  "id": 51543,
+  "registrationNumber": "CC40810",
+  "name": "Manukau Concert Band Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mcb.org.nz",
+  "email": "successwins@yahoo.com.au",
+  "address": {
+    "line1": "Howick Presbyterian Church",
+    "line2": "11 Vincent Street",
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429042762218",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ManukauConcertBand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-14T23:09:11Z"
+}

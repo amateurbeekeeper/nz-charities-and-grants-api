@@ -1,0 +1,27 @@
+{
+  "id": 69464,
+  "registrationNumber": "CC55815",
+  "name": "Alofi Village Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "alofi.treasurer@gmail.com",
+  "address": {
+    "line1": "42 Beach Road",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429043050161",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Alofi Cyber Village",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:03:46Z"
+}

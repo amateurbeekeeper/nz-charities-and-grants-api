@@ -1,0 +1,27 @@
+{
+  "id": 52347,
+  "registrationNumber": "CC11196",
+  "name": "The Taiohi Toa Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2007-09-23T00:00:00Z",
+  "dateDeregistered": "2021-12-31T00:00:00Z",
+  "website": "https://www.taiohitoa.org.nz",
+  "email": "admin@taiohitoa.org.nz",
+  "address": {
+    "line1": "245 Clyde Street",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429043134502",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-01-10T22:42:56Z"
+}

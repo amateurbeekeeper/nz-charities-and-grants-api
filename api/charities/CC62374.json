@@ -1,0 +1,27 @@
+{
+  "id": 75919,
+  "registrationNumber": "CC62374",
+  "name": "Torchbearers New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-02-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.capernwray.org.nz",
+  "email": "bursar@capernwray.org.nz",
+  "address": {
+    "line1": "3553 Cambridge Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3495"
+  },
+  "nzbn": "9429051891435",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/capernwraynewzealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T00:40:02Z"
+}

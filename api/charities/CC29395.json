@@ -1,0 +1,27 @@
+{
+  "id": 64862,
+  "registrationNumber": "CC29395",
+  "name": "The Christian Community Church Palmerston North Trust ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cccpn.org.nz",
+  "email": "peter@cccpn.org.nz",
+  "address": {
+    "line1": "54 Pascal Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042871361",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Christian Community Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-03T19:44:37Z"
+}

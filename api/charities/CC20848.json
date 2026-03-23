@@ -1,0 +1,27 @@
+{
+  "id": 54341,
+  "registrationNumber": "CC20848",
+  "name": "Village Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.employable.co.nz",
+  "email": "nathan@evelynmillie.co.nz",
+  "address": {
+    "line1": "70 Waimea Road",
+    "line2": " ",
+    "suburb": "Nelson South",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042899129",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "employable - Employment Agency",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T08:09:15Z"
+}

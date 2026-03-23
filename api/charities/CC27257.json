@@ -1,0 +1,27 @@
+{
+  "id": 55058,
+  "registrationNumber": "CC27257",
+  "name": "Development West Coast",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dwc.org.nz",
+  "email": "belinda@dwc.org.nz",
+  "address": {
+    "line1": "54 Tainui Street",
+    "line2": "Greymouth 7805",
+    "suburb": " ",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": "9429042982401",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/developmentwestcoast",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-07T02:04:03Z"
+}

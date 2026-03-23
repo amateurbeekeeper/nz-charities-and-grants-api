@@ -1,0 +1,27 @@
+{
+  "id": 51255,
+  "registrationNumber": "CC10103",
+  "name": "The Lower Hutt Women's Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-03-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lhwc.org.nz",
+  "email": "info.lhwc@gmail.com",
+  "address": {
+    "line1": "186 Knights Road",
+    "line2": " ",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429042780601",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Lowerhuttwomenscentre/?ref=aymt_homepage_panel",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:25:42Z"
+}

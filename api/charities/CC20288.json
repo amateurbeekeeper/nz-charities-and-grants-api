@@ -1,0 +1,27 @@
+{
+  "id": 51194,
+  "registrationNumber": "CC20288",
+  "name": "Eduk8 Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.therighttrack.org.nz",
+  "email": "john@eduk8.co.nz",
+  "address": {
+    "line1": "3 Julia Way",
+    "line2": " ",
+    "suburb": "Beachlands",
+    "city": "Auckland",
+    "postcode": "2018"
+  },
+  "nzbn": "9429043209514",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T20:55:50Z"
+}

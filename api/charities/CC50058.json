@@ -1,0 +1,27 @@
+{
+  "id": 33644,
+  "registrationNumber": "CC50058",
+  "name": "Christian City Church Palmerston North",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2013-12-05T00:00:00Z",
+  "dateDeregistered": "2024-08-31T00:00:00Z",
+  "website": "https://c3palmerstonnorth.com/",
+  "email": "Mary-C3PN@outlook.co.nz",
+  "address": {
+    "line1": "77 Stanley Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/C3ChurchPalmerstonNorth/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-22T06:06:36Z"
+}

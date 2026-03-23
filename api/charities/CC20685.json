@@ -1,0 +1,27 @@
+{
+  "id": 53582,
+  "registrationNumber": "CC20685",
+  "name": "The Victoria Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sarahw@fordsimpson.co.nz",
+  "address": {
+    "line1": "23 Ashbury Avenue",
+    "line2": " ",
+    "suburb": "Waimataitai",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429042926337",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:25:49Z"
+}

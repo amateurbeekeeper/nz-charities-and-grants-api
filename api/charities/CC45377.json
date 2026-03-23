@@ -1,0 +1,27 @@
+{
+  "id": 36218,
+  "registrationNumber": "CC45377",
+  "name": "Twizel Early Learning Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-09-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.telc.org.nz",
+  "email": "admin@telc.org.nz",
+  "address": {
+    "line1": "Market Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Twizel",
+    "postcode": "7901"
+  },
+  "nzbn": "9429043213801",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T20:29:57Z"
+}

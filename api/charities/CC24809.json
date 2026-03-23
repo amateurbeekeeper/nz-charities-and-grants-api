@@ -1,0 +1,27 @@
+{
+  "id": 41617,
+  "registrationNumber": "CC24809",
+  "name": "Kaeo Kerikeri Union Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.kkup.org.nz",
+  "email": "admin@kkup.org.nz",
+  "address": {
+    "line1": "144 Kerikeri Road",
+    "line2": "Kerikeri 0230",
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "0230"
+  },
+  "nzbn": "9429048097963",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:04:47Z"
+}

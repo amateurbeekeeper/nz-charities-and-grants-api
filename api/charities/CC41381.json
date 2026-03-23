@@ -1,0 +1,27 @@
+{
+  "id": 61253,
+  "registrationNumber": "CC41381",
+  "name": "Tuatini Marae Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "trudylewisnz@gmail.com",
+  "address": {
+    "line1": "Crn Waitangi St & School Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tokomaru Bay",
+    "postcode": "4047"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tuatinimarae",
+    "twitter": "nil"
+  },
+  "lastUpdated": "2025-11-30T18:14:29Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67344,
+  "registrationNumber": "CC53628",
+  "name": "The Lifesavers Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lifesaversfoundation.org.nz",
+  "email": "david_old@hotmail.com",
+  "address": {
+    "line1": "3 Solent Street",
+    "line2": " ",
+    "suburb": "Mechanics Bay",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LifesaversFoundationNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T21:49:48Z"
+}

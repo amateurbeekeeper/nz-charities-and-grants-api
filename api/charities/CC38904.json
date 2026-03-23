@@ -1,0 +1,27 @@
+{
+  "id": 51925,
+  "registrationNumber": "CC38904",
+  "name": "Gisborne Unity Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gisborneunitytheatre209@gmail.com",
+  "address": {
+    "line1": "209 Ormond Road",
+    "line2": " ",
+    "suburb": "Mangapapa",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042633396",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/gisborneunitytheatre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T02:09:12Z"
+}

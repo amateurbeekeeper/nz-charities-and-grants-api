@@ -1,0 +1,27 @@
+{
+  "id": 70169,
+  "registrationNumber": "CC56530",
+  "name": "Whanake Education Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "whanake.nz",
+  "email": "lmeade@orcon.net.nz",
+  "address": {
+    "line1": "9 Mysore Street",
+    "line2": " ",
+    "suburb": "Khandallah",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429046642080",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T00:11:54Z"
+}

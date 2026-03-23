@@ -1,0 +1,27 @@
+{
+  "id": 33280,
+  "registrationNumber": "CC49212",
+  "name": "Auckland Japanese Christian Church Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": " http://ajccnz.cloud-line.com/ ",
+  "email": "akoinouerajapaksa@gmail.com",
+  "address": {
+    "line1": "3 Ngaire Avenue",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429046213099",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "https://twitter.com/ajcc_nz"
+  },
+  "lastUpdated": "2025-09-14T19:57:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 49495,
+  "registrationNumber": "CC31264",
+  "name": "Green Bay Community House Society Incorporated ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.greenbaycommunityhouse.co.nz",
+  "email": "gbcommunityhouse@gmail.com",
+  "address": {
+    "line1": "1 Barron Drive",
+    "line2": " ",
+    "suburb": "Green Bay",
+    "city": "Auckland",
+    "postcode": "604"
+  },
+  "nzbn": "9429042627524",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/greenbaycommunity/?ref=aymt_homepage_panel",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T02:04:43Z"
+}

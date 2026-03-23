@@ -1,0 +1,27 @@
+{
+  "id": 47531,
+  "registrationNumber": "CC30510",
+  "name": "Waihi Community Resource Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wcrc.org.nz",
+  "email": "manager@wcrc.org.nz",
+  "address": {
+    "line1": "4 Mueller Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waihi",
+    "postcode": "3610"
+  },
+  "nzbn": "9429042894469",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waihi Community Resource Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T01:43:13Z"
+}

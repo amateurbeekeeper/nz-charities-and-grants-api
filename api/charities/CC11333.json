@@ -1,0 +1,27 @@
+{
+  "id": 52334,
+  "registrationNumber": "CC11333",
+  "name": "Bethesda Care Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bethesda.org.nz/",
+  "email": "hartley.holtzhauzen@bethesda.org.nz",
+  "address": {
+    "line1": "53 Inverell Avenue",
+    "line2": " ",
+    "suburb": "Wiri",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429033789996",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-30T21:13:48Z"
+}

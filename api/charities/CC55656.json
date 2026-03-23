@@ -1,0 +1,27 @@
+{
+  "id": 69310,
+  "registrationNumber": "CC55656",
+  "name": "NZART AREC Emergency Funds  Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.arec.nz",
+  "email": "admin@arec.nz",
+  "address": {
+    "line1": "15 Geange Street",
+    "line2": " ",
+    "suburb": "Upper Hutt Central",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429048976664",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "ARECnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T18:04:11Z"
+}

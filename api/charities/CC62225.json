@@ -1,0 +1,27 @@
+{
+  "id": 75773,
+  "registrationNumber": "CC62225",
+  "name": "Masterpiece Charitable Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-03-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://masterpiece.net.nz",
+  "email": "admin@masterpiece.net.nz",
+  "address": {
+    "line1": "15 Village Park Drive",
+    "line2": " ",
+    "suburb": "Welcome Bay",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429051903664",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "masterpiecetraining",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:09:09Z"
+}

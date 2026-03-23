@@ -1,0 +1,27 @@
+{
+  "id": 41713,
+  "registrationNumber": "CC27137",
+  "name": "West Auckland Hospice",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hwa.org.nz",
+  "email": "deank@hwa.org.nz",
+  "address": {
+    "line1": "52 Beach Road",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429042839996",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/hospicewestauck ",
+    "twitter": "https://twitter.com/HospiceWestAKL"
+  },
+  "lastUpdated": "2025-12-10T18:21:27Z"
+}

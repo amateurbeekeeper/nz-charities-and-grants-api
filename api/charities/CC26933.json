@@ -1,0 +1,27 @@
+{
+  "id": 58645,
+  "registrationNumber": "CC26933",
+  "name": "KareKare Surf Lifesaving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://karekaresurfclub.org.nz",
+  "email": "secretary@karekaresurfclub.org.nz",
+  "address": {
+    "line1": "34 Watchmans Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "772"
+  },
+  "nzbn": "9429042652236",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "karekare surf club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-19T18:19:34Z"
+}

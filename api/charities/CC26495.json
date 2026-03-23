@@ -1,0 +1,27 @@
+{
+  "id": 58612,
+  "registrationNumber": "CC26495",
+  "name": "Liberal Catholic Church of St Francis Auckland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://lcc.org.nz/",
+  "email": "lccauckland@gmail.com",
+  "address": {
+    "line1": "27 Carlton Gore Road",
+    "line2": " ",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042655381",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61582653762713",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T01:44:35Z"
+}

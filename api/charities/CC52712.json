@@ -1,0 +1,27 @@
+{
+  "id": 66445,
+  "registrationNumber": "CC52712",
+  "name": "Centre for New Zealand Progress",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-12-03T00:00:00Z",
+  "dateDeregistered": "2021-02-24T00:00:00Z",
+  "website": "www.nzprogress.org.nz",
+  "email": "kirk@nzprogress.org.nz",
+  "address": {
+    "line1": "29 Halsey Drive",
+    "line2": " ",
+    "suburb": "Lynfield",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429043264698",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-03-25T18:52:28Z"
+}

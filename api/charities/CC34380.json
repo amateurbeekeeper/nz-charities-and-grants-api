@@ -1,0 +1,27 @@
+{
+  "id": 56403,
+  "registrationNumber": "CC34380",
+  "name": "Tenants' Union Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mtu.org.nz",
+  "email": "info@mtu.org.nz",
+  "address": {
+    "line1": "77 King Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042754732",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/manawatutenantsunion/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T01:43:24Z"
+}

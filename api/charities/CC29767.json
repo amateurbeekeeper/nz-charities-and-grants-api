@@ -1,0 +1,27 @@
+{
+  "id": 60925,
+  "registrationNumber": "CC29767",
+  "name": "Stratford Art Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stratfordartsoc@gmail.com",
+  "address": {
+    "line1": "56 Miranda Street",
+    "line2": "Stratford 4332",
+    "suburb": " ",
+    "city": "Stratford",
+    "postcode": "4332"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/StratfordArtSocietyTaranaki",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T10:40:50Z"
+}

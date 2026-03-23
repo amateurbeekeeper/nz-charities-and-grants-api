@@ -1,0 +1,27 @@
+{
+  "id": 43212,
+  "registrationNumber": "CC39485",
+  "name": "Whitianga Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.playcentre.org.nz/centre/whitianga/",
+  "email": "whitianga@playcentre.org.nz",
+  "address": {
+    "line1": "1F White Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whitianga",
+    "postcode": "3510"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whitiangaplaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:12:02Z"
+}

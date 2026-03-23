@@ -1,0 +1,27 @@
+{
+  "id": 73089,
+  "registrationNumber": "CC59484",
+  "name": "First Love Church Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.firstlovecenter.com/",
+  "email": "aimeewalden1@outlook.com",
+  "address": {
+    "line1": "47 Santiago Crescent",
+    "line2": " ",
+    "suburb": "Unsworth Heights",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429049127454",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/FirstLoveChurchNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T10:46:53Z"
+}

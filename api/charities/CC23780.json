@@ -1,0 +1,27 @@
+{
+  "id": 40891,
+  "registrationNumber": "CC23780",
+  "name": "Thames Elim Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.thameselim.co.nz",
+  "email": "thames.elim@gmail.com",
+  "address": {
+    "line1": "117b Jellicoe Crescent",
+    "line2": null,
+    "suburb": " ",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429042952251",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thameselim/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-29T19:15:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66188,
+  "registrationNumber": "CC52456",
+  "name": "Live For More Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.liveformore.org.nz",
+  "email": "accounts@liveformore.org.nz",
+  "address": {
+    "line1": "Unit 4",
+    "line2": "20 Owens Place",
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429043297252",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/liveformorecharitabletrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T00:21:03Z"
+}

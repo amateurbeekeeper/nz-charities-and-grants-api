@@ -1,0 +1,27 @@
+{
+  "id": 52952,
+  "registrationNumber": "CC26862",
+  "name": "Lung Health Auckland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lunghealth.org.nz",
+  "email": "bette@lunghealth.org.nz",
+  "address": {
+    "line1": "C/ Respiratory Medicine, Auckland City Hospital",
+    "line2": "Park Road",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042590866",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:35:14Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69785,
+  "registrationNumber": "CC56141",
+  "name": "North Shore Branch of the New Zealand Association of Radio Transmitters Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nsrc.nz",
+  "email": "zl2tpm@nsrc.nz",
+  "address": {
+    "line1": "400 East Coast Road",
+    "line2": " ",
+    "suburb": "Sunnynook",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429042688532",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T03:07:06Z"
+}

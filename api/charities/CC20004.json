@@ -1,0 +1,27 @@
+{
+  "id": 52873,
+  "registrationNumber": "CC20004",
+  "name": "Far North Reap Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-11-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.farnorthreap.org.nz",
+  "email": "ce@farnorthreap.org.nz",
+  "address": {
+    "line1": "33 Puckey Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaitaia",
+    "postcode": "410"
+  },
+  "nzbn": "9429042717621",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/FNREAP",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T02:04:42Z"
+}

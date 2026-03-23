@@ -1,0 +1,27 @@
+{
+  "id": 62543,
+  "registrationNumber": "CC38463",
+  "name": "The Nelson Marlborough Freemasons Charity",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dale@vinastra.co.nz",
+  "address": {
+    "line1": "443C Nayland Road",
+    "line2": "6 Poynter Street",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429042752523",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T23:12:32Z"
+}

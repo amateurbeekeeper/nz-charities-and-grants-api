@@ -1,0 +1,27 @@
+{
+  "id": 69679,
+  "registrationNumber": "CC56028",
+  "name": "Inspired Faith Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "marthafatialofa@yahoo.com",
+  "address": {
+    "line1": "8 Douglas Street",
+    "line2": " ",
+    "suburb": "Balclutha",
+    "city": "Clutha",
+    "postcode": "9230"
+  },
+  "nzbn": "9429047598942",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Inspired Faith Church Balclutha",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T00:50:30Z"
+}

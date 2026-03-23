@@ -1,0 +1,27 @@
+{
+  "id": 71617,
+  "registrationNumber": "CC58006",
+  "name": "Masterton Theatre Company Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mastertontheatrecompany.co.nz",
+  "email": "rosscottle@xtra.co.nz",
+  "address": {
+    "line1": "152 Dixon St",
+    "line2": null,
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429047768949",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Masterton Theatre Company",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-16T19:48:12Z"
+}

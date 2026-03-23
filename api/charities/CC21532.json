@@ -1,0 +1,27 @@
+{
+  "id": 53978,
+  "registrationNumber": "CC21532",
+  "name": "Presbyterian Support (Northern)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.psn.org.nz",
+  "email": "cathy.hall@psn.org.nz",
+  "address": {
+    "line1": "205 Great South Road",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042808688",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T00:27:45Z"
+}

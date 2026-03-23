@@ -1,0 +1,27 @@
+{
+  "id": 41529,
+  "registrationNumber": "CC28725",
+  "name": "Whangarei Heads Citizens' Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://whca.nz",
+  "email": "logan@whca.nz",
+  "address": {
+    "line1": "46 Reotahi Road",
+    "line2": "RD 4",
+    "suburb": "Whangarei Heads",
+    "city": "Whangarei",
+    "postcode": "0174"
+  },
+  "nzbn": "9429042920236",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-10T04:27:02Z"
+}

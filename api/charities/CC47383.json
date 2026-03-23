@@ -1,0 +1,27 @@
+{
+  "id": 37465,
+  "registrationNumber": "CC47383",
+  "name": "Tatuanui PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-02-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tatuanui.school.co.nz",
+  "email": "treasurerpta@tatuanui.school.nz",
+  "address": {
+    "line1": "4513 Whakahongi Road",
+    "line2": "Tatuanui",
+    "suburb": "RD 4",
+    "city": "Morrinsville",
+    "postcode": "3340"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T08:02:39Z"
+}

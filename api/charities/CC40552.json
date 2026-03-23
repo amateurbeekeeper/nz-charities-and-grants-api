@@ -1,0 +1,27 @@
+{
+  "id": 44254,
+  "registrationNumber": "CC40552",
+  "name": "New Zealand Netherlands Society \"Oranje\" Auckland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hollandhouse.org.nz",
+  "email": "treasurer@hollandhouse.org.nz",
+  "address": {
+    "line1": "123 Rockfield Road",
+    "line2": " ",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042704980",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/hollandhousenz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T23:18:01Z"
+}

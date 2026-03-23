@@ -1,0 +1,27 @@
+{
+  "id": 50518,
+  "registrationNumber": "CC44347",
+  "name": "The Buller Volunteer Surf Rescue Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bullersurfrescue@gmail.com",
+  "address": {
+    "line1": "13 Menzies Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Westport",
+    "postcode": "7825"
+  },
+  "nzbn": "9429042855644",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/bullersurfrescue",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T02:18:55Z"
+}

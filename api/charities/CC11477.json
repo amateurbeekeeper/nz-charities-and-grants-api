@@ -1,0 +1,27 @@
+{
+  "id": 51979,
+  "registrationNumber": "CC11477",
+  "name": "Free Presbyterian Church of Scotland in New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.fpchurch.org.nz/",
+  "email": "jettdaniel@fpchurch.org.nz",
+  "address": {
+    "line1": "45 Church Street",
+    "line2": "Parnell",
+    "suburb": "Otahuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429042716358",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-08T21:49:48Z"
+}

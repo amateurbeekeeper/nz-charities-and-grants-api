@@ -1,0 +1,27 @@
+{
+  "id": 60310,
+  "registrationNumber": "CC29362",
+  "name": "Lincoln University Property Joint Venture Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rob.redgrove@lincoln.ac.nz",
+  "address": {
+    "line1": "Cnr Ellesmere Junction Road And Springs Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Canterbury",
+    "postcode": "7647"
+  },
+  "nzbn": "9429038400094",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-04T19:34:29Z"
+}

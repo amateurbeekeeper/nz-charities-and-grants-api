@@ -1,0 +1,27 @@
+{
+  "id": 49256,
+  "registrationNumber": "CC28875",
+  "name": "West Harbour Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "whvfb67@gmail.com",
+  "address": {
+    "line1": "21 Hobsonville Road",
+    "line2": " ",
+    "suburb": "West Harbour",
+    "city": "Auckland",
+    "postcode": "618"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T18:05:13Z"
+}

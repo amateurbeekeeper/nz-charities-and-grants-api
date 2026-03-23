@@ -1,0 +1,27 @@
+{
+  "id": 38329,
+  "registrationNumber": "CC45998",
+  "name": "Engineers Without Borders New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-12-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ewb.org.nz",
+  "email": "matt.halsey@ewb.org.nz",
+  "address": {
+    "line1": "17 Northgrove Avenue",
+    "line2": " ",
+    "suburb": "Hillcrest",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429043104697",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://web.facebook.com/EWBNZ/",
+    "twitter": "https://twitter.com/ewbnz"
+  },
+  "lastUpdated": "2026-03-15T20:29:07Z"
+}

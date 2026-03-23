@@ -1,0 +1,27 @@
+{
+  "id": 71987,
+  "registrationNumber": "CC58367",
+  "name": "Westley's World Rabbit Rescue",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2020-10-27T00:00:00Z",
+  "dateDeregistered": "2022-07-11T00:00:00Z",
+  "website": "https://www.westleysworld.com",
+  "email": "Westleysworldnz@gmail.com",
+  "address": {
+    "line1": "8 Belgrave Court",
+    "line2": " ",
+    "suburb": "Huntington",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/westleysworldnz",
+    "twitter": null
+  },
+  "lastUpdated": "2022-07-25T22:11:46Z"
+}

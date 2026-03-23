@@ -1,0 +1,27 @@
+{
+  "id": 73423,
+  "registrationNumber": "CC59764",
+  "name": "Torbay Theatre Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.torbaytheatre.com",
+  "email": "treasurer@torbaytheatre.com",
+  "address": {
+    "line1": "35 Watea Road",
+    "line2": " ",
+    "suburb": "Torbay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429043268689",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TorbayTheatre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T19:17:15Z"
+}

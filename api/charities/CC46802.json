@@ -1,0 +1,27 @@
+{
+  "id": 37499,
+  "registrationNumber": "CC46802",
+  "name": "Te Motu A Hiaroa Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-07-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.temotuahiaroa.com",
+  "email": "Tame.Taratu@tmhct.com",
+  "address": {
+    "line1": "600B Island Road",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T23:59:18Z"
+}

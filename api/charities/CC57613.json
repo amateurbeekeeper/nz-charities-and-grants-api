@@ -1,0 +1,27 @@
+{
+  "id": 71240,
+  "registrationNumber": "CC57613",
+  "name": "Helensville Birthing Centre Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-12-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.birthcentre.co.nz",
+  "email": "manager@helensvillebirthingcentre.co.nz",
+  "address": {
+    "line1": "53-65 Commercial Road",
+    "line2": " ",
+    "suburb": "Helensville",
+    "city": "Auckland",
+    "postcode": "0800"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T21:20:05Z"
+}

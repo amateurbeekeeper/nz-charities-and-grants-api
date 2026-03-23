@@ -1,0 +1,27 @@
+{
+  "id": 56584,
+  "registrationNumber": "CC27110",
+  "name": "Whangarei Agricultural and Pastoral Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whangareiap.org.nz",
+  "email": "chris@wap.org.nz",
+  "address": {
+    "line1": "127 Bank Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "110"
+  },
+  "nzbn": "9429050692484",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T19:50:47Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48939,
+  "registrationNumber": "CC30765",
+  "name": "Dunedin Basic Medical Sciences Course",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stuart@caservices.nz",
+  "address": {
+    "line1": "352 King Edward Street",
+    "line2": " ",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042647201",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-29T19:15:24Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73245,
+  "registrationNumber": "CC59643",
+  "name": "Retirement Village Residents Association of New Zealand Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rvranz.org.nz",
+  "email": "ce@rvr.org.nz",
+  "address": {
+    "line1": "3 Andara Close",
+    "line2": "Bayswater Village",
+    "suburb": "Pinehill",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-27T03:27:59Z"
+}

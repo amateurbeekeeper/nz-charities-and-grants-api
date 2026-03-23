@@ -1,0 +1,27 @@
+{
+  "id": 40132,
+  "registrationNumber": "CC29985",
+  "name": "Rotoiti 15 Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.rotoiti15.com",
+  "email": "info@rotoiti15.com",
+  "address": {
+    "line1": "1180 Lake Road",
+    "line2": "Rotorua 3010",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/R15AhuWhenuaTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:02:29Z"
+}

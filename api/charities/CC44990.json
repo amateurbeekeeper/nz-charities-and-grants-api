@@ -1,0 +1,27 @@
+{
+  "id": 62588,
+  "registrationNumber": "CC44990",
+  "name": "Ice Sports Dunedin Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2020-01-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dunedinicestadium.co.nz",
+  "email": "oliver@dunedinicestadium.co.nz",
+  "address": {
+    "line1": "105 Victoria Road",
+    "line2": " ",
+    "suburb": "Saint Kilda",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429043006625",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T01:22:14Z"
+}

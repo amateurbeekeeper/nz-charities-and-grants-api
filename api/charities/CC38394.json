@@ -1,0 +1,27 @@
+{
+  "id": 54964,
+  "registrationNumber": "CC38394",
+  "name": "Poutama Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.poutama.co.nz",
+  "email": "vonese@poutama.co.nz",
+  "address": {
+    "line1": "PO Box 1721",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3040"
+  },
+  "nzbn": "9429042808305",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PoutamaTrust",
+    "twitter": "https://twitter.com/PoutamaTrust?s=20"
+  },
+  "lastUpdated": "2026-01-23T02:34:37Z"
+}

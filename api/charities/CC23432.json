@@ -1,0 +1,27 @@
+{
+  "id": 55394,
+  "registrationNumber": "CC23432",
+  "name": "NZ On Screen",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-04-23T00:00:00Z",
+  "dateDeregistered": "2013-08-07T00:00:00Z",
+  "website": "http://www.nzonscreen.com",
+  "email": "clarion@nzonscreen.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "13 Jessie Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043186617",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:13:04Z"
+}

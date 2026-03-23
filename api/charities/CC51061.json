@@ -1,0 +1,27 @@
+{
+  "id": 34637,
+  "registrationNumber": "CC51061",
+  "name": "212 Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-09-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "southbritish@hotmail.com",
+  "address": {
+    "line1": "244 Lyttelton Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "8244"
+  },
+  "nzbn": "9429043264667",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-05T09:23:55Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66105,
+  "registrationNumber": "CC52371",
+  "name": "Hunterville Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-09-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "raineys@xtra.co.nz",
+  "address": {
+    "line1": "Paraekaretu Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hunterville",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T06:06:59Z"
+}

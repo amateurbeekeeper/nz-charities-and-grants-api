@@ -1,0 +1,27 @@
+{
+  "id": 38848,
+  "registrationNumber": "CC47883",
+  "name": "Elim Bread Of Life Christian Church In Auckland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.elimbolcc.com",
+  "email": "contact@elimbolcc.com",
+  "address": {
+    "line1": "12 Rossgrove Terrace",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T02:47:35Z"
+}

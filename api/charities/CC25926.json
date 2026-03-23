@@ -1,0 +1,27 @@
+{
+  "id": 56602,
+  "registrationNumber": "CC25926",
+  "name": "Porirua Elim Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.porirua.elim.org.nz",
+  "email": "ken.roach@porirua.elim.org.nz",
+  "address": {
+    "line1": "11 Heriot Drive",
+    "line2": " ",
+    "suburb": "Elsdon",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429042995623",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@poriruaelimchurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-10T00:33:32Z"
+}

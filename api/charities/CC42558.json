@@ -1,0 +1,27 @@
+{
+  "id": 46921,
+  "registrationNumber": "CC42558",
+  "name": "Lighthouse Community Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-10-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "somerhus@gmail.com",
+  "address": {
+    "line1": "28 Raddock Place",
+    "line2": " ",
+    "suburb": "Farm Cove",
+    "city": "Auckland",
+    "postcode": "2012"
+  },
+  "nzbn": "9429043224845",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/share/1AeMyrgK9r/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-12T23:50:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42855,
+  "registrationNumber": "CC31962",
+  "name": "Aspire Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aspirechurch.org.nz",
+  "email": "accounts@aspirechurch.org.nz",
+  "address": {
+    "line1": "101 Hardy Street",
+    "line2": " ",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043027606",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aspirechurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:15:46Z"
+}

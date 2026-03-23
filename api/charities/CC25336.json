@@ -1,0 +1,27 @@
+{
+  "id": 54648,
+  "registrationNumber": "CC25336",
+  "name": "Queen Margaret College Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.qmc.school.nz",
+  "email": "bursar@qmc.school.nz",
+  "address": {
+    "line1": "53 Hobson Street",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042813903",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-09T21:41:53Z"
+}

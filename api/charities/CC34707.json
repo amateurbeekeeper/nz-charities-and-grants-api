@@ -1,0 +1,27 @@
+{
+  "id": 56754,
+  "registrationNumber": "CC34707",
+  "name": "Society of St Vincent De Paul in New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.svdp.org.nz",
+  "email": "admin@svdp.org.nz",
+  "address": {
+    "line1": "LG BUILDING LEVEL 1",
+    "line2": "35 Victoria Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042740995",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T22:02:48Z"
+}

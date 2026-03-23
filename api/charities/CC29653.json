@@ -1,0 +1,27 @@
+{
+  "id": 48570,
+  "registrationNumber": "CC29653",
+  "name": "Westport Congregation of Jehovah's Witnesses",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://jw.org",
+  "email": "Rob.Walker@jae.co.nz",
+  "address": {
+    "line1": "108 Orowaiti Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Westport",
+    "postcode": "7825"
+  },
+  "nzbn": "9429042913245",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T00:34:12Z"
+}

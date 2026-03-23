@@ -1,0 +1,27 @@
+{
+  "id": 56371,
+  "registrationNumber": "CC22242",
+  "name": "The Catholic Foundation of the Archdiocese of Wellington",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.catholicfoundation.org.nz",
+  "email": "pat@kendons.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "81 The Esplanade",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": "9429042775126",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T01:19:42Z"
+}

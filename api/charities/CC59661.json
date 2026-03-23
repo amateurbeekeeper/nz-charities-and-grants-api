@@ -1,0 +1,27 @@
+{
+  "id": 73264,
+  "registrationNumber": "CC59661",
+  "name": "Hosanna Care Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ed@bene.nz",
+  "address": {
+    "line1": "504 Wellwood Street",
+    "line2": " ",
+    "suburb": "Saint Leonards",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-05T00:39:42Z"
+}

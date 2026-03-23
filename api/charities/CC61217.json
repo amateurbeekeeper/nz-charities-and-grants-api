@@ -1,0 +1,27 @@
+{
+  "id": 74806,
+  "registrationNumber": "CC61217",
+  "name": "Auckland Medical Revue Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.medrevue.co.nz",
+  "email": "kaslenoir@gmail.com",
+  "address": {
+    "line1": "85 Park Road",
+    "line2": " ",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429051300272",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aklmedrevue/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-07T09:11:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 46842,
+  "registrationNumber": "CC39936",
+  "name": "Te Awa Ora o Waiheke",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "susan@clockworkbooks.co.nz",
+  "address": {
+    "line1": "15 Murphy Street",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T02:14:16Z"
+}

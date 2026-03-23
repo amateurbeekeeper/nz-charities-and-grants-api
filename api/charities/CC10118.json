@@ -1,0 +1,27 @@
+{
+  "id": 51406,
+  "registrationNumber": "CC10118",
+  "name": "Northcity Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.northcity.co.nz",
+  "email": "lisa@powerserve.co.nz",
+  "address": {
+    "line1": "95 Sawyers Arms Road",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429042672784",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Northcity.Church.Chch/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T00:42:28Z"
+}

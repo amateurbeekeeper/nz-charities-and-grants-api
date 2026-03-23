@@ -1,0 +1,27 @@
+{
+  "id": 65999,
+  "registrationNumber": "CC52267",
+  "name": "Living Wage Movement Aotearoa NZ Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.livingwage.org.nz/",
+  "email": "admin@livingwage.org.nz",
+  "address": {
+    "line1": "Level 12",
+    "line2": "79 Boulcott St",
+    "suburb": "Wellington",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043245109",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LivingWageAotearoaNewZealand/",
+    "twitter": "@LivingWageNZ"
+  },
+  "lastUpdated": "2026-02-11T04:28:07Z"
+}

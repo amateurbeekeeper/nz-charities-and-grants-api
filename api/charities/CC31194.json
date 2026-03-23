@@ -1,0 +1,27 @@
+{
+  "id": 49631,
+  "registrationNumber": "CC31194",
+  "name": "Fiordland Search And Rescue Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.landsar.org.nz",
+  "email": "secretary@fiordlandsar.org.nz",
+  "address": {
+    "line1": "19 Worsley Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Anau",
+    "postcode": "9600"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T09:00:25Z"
+}

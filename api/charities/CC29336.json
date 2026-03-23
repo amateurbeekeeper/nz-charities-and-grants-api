@@ -1,0 +1,27 @@
+{
+  "id": 43571,
+  "registrationNumber": "CC29336",
+  "name": "Riversdale Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dscjwill@gmail.com",
+  "address": {
+    "line1": "49 Rutland Street",
+    "line2": "Riversdale 9776",
+    "suburb": "Riversdale",
+    "city": "Riversdale",
+    "postcode": "9776"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T19:05:55Z"
+}

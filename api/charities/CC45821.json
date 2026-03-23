@@ -1,0 +1,27 @@
+{
+  "id": 38118,
+  "registrationNumber": "CC45821",
+  "name": "Auckland Chinese Friendship Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-12-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "anxie11@gmail.com",
+  "address": {
+    "line1": "11B Faber Avenue",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429043165322",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T04:03:54Z"
+}

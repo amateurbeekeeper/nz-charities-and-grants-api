@@ -1,0 +1,27 @@
+{
+  "id": 48745,
+  "registrationNumber": "CC31889",
+  "name": "dsport Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dsport.nz",
+  "email": "catriona@dsport.nz",
+  "address": {
+    "line1": "Ākau Tangi Sports Centre",
+    "line2": "72 Kemp Street",
+    "suburb": "Kilbirnie",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429042916932",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dsportnzl",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T00:43:44Z"
+}

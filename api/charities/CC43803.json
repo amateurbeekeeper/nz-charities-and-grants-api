@@ -1,0 +1,27 @@
+{
+  "id": 50244,
+  "registrationNumber": "CC43803",
+  "name": "HFFSG Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "peter@cuffs.co.nz",
+  "address": {
+    "line1": "200 Stafford Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hokitika",
+    "postcode": "7810"
+  },
+  "nzbn": "9429043099580",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T19:23:43Z"
+}

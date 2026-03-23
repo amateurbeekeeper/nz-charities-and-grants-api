@@ -1,0 +1,27 @@
+{
+  "id": 51414,
+  "registrationNumber": "CC10341",
+  "name": "Neurological Foundation of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-05-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.neurological.org.nz",
+  "email": "rich.easton@neurological.org.nz",
+  "address": {
+    "line1": "66 Grafton Road",
+    "line2": " ",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042708650",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/neurologicalfnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T00:21:39Z"
+}

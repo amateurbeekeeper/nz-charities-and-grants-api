@@ -1,0 +1,27 @@
+{
+  "id": 70078,
+  "registrationNumber": "CC56432",
+  "name": "The Pantograph Punch Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "pantograph-punch.com",
+  "email": "rosabel@gmail.com",
+  "address": {
+    "line1": "14 Ariki Street",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429043248230",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pantograph/",
+    "twitter": "https://twitter.com/pantographpunch"
+  },
+  "lastUpdated": "2025-06-11T03:52:37Z"
+}

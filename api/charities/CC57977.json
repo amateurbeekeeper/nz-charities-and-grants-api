@@ -1,0 +1,27 @@
+{
+  "id": 71587,
+  "registrationNumber": "CC57977",
+  "name": "Life-Supporting Communities NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.a-ok.nz",
+  "email": "caroline@a-ok.nz",
+  "address": {
+    "line1": "15B Norman Spencer Drive",
+    "line2": "Manukau City",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429048323864",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "@aoknztraining",
+    "twitter": "@aoknztraining"
+  },
+  "lastUpdated": "2026-03-02T23:09:35Z"
+}

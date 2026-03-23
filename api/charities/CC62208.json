@@ -1,0 +1,27 @@
+{
+  "id": 75755,
+  "registrationNumber": "CC62208",
+  "name": "Mauao Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-01-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.mauaotrust.wordpress.com",
+  "email": "maharanui@outlook.com",
+  "address": {
+    "line1": "37 Waikari Road",
+    "line2": "RD 5",
+    "suburb": "Matapihi",
+    "city": "Tauranga",
+    "postcode": "3175"
+  },
+  "nzbn": "9429053126696",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mauaotrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:09:12Z"
+}

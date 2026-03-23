@@ -1,0 +1,27 @@
+{
+  "id": 57555,
+  "registrationNumber": "CC25162",
+  "name": "Teviot Union Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "aljacq1516@gmail.com",
+  "address": {
+    "line1": "8 Railway Terrace",
+    "line2": "RD 2",
+    "suburb": "Millers Flat",
+    "city": "Roxburgh",
+    "postcode": "9572"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:38:05Z"
+}

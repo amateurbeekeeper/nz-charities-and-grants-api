@@ -1,0 +1,27 @@
+{
+  "id": 66367,
+  "registrationNumber": "CC52081",
+  "name": "Dance Outreach NZ Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2025-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzybc.co.nz/",
+  "email": "director@nzybc.org",
+  "address": {
+    "line1": "128 Rose Street",
+    "line2": " ",
+    "suburb": "Somerfield",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429043268375",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzybc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-04T09:51:08Z"
+}

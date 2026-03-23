@@ -1,0 +1,27 @@
+{
+  "id": 34345,
+  "registrationNumber": "CC50594",
+  "name": "Uplift Chuch",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.upliftchurch.co.nz",
+  "email": "trish@businessequippers.co.nz",
+  "address": {
+    "line1": "PO Box 994",
+    "line2": "Pukekohe 2340",
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2340"
+  },
+  "nzbn": "9429043263240",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:18:55Z"
+}

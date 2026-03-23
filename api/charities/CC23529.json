@@ -1,0 +1,27 @@
+{
+  "id": 52686,
+  "registrationNumber": "CC23529",
+  "name": "Central Connect Whare Manaaki Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.centralconnect.co.nz",
+  "email": "manager@centralconnect.co.nz",
+  "address": {
+    "line1": "125 Ruataniwha Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waipukurau",
+    "postcode": "4200"
+  },
+  "nzbn": "9429042605706",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Central Connect Whare Manaaki Inc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T03:29:41Z"
+}

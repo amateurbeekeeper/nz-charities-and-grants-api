@@ -1,0 +1,27 @@
+{
+  "id": 69818,
+  "registrationNumber": "CC56175",
+  "name": "Noaia Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-01-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.noaia.co.nz/",
+  "email": "ruiha@noaia.co.nz",
+  "address": {
+    "line1": "34 Tuahiwi Road",
+    "line2": "RD 1",
+    "suburb": "Tuahiwi",
+    "city": "Kaiapoi",
+    "postcode": "7691"
+  },
+  "nzbn": "9429047288638",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Noaia.co.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T04:34:14Z"
+}

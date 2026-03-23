@@ -1,0 +1,27 @@
+{
+  "id": 70308,
+  "registrationNumber": "CC56670",
+  "name": "Pukerau Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "donovan.harvey@fireandemergency.nz",
+  "address": {
+    "line1": "51 Middle Street",
+    "line2": "Pukerau 9772",
+    "suburb": "Pukerau",
+    "city": "Pukerau",
+    "postcode": "9772"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T02:36:37Z"
+}

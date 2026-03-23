@@ -1,0 +1,27 @@
+{
+  "id": 70127,
+  "registrationNumber": "CC56489",
+  "name": "Friends of the Hutt River Incorporated",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-03-29T00:00:00Z",
+  "dateDeregistered": "2025-11-10T00:00:00Z",
+  "website": null,
+  "email": "tshoman@kinect.co.nz",
+  "address": {
+    "line1": "5 Elm Street",
+    "line2": " ",
+    "suburb": "Ebdentown",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Friends of the Hutt River",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T06:03:59Z"
+}

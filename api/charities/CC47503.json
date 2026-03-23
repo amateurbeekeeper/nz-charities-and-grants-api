@@ -1,0 +1,27 @@
+{
+  "id": 36940,
+  "registrationNumber": "CC47503",
+  "name": "Bethlehem Restoration Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-03-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "thebts@brt.org.nz",
+  "address": {
+    "line1": "704 Whakamarama Road",
+    "line2": "RD 7",
+    "suburb": "Whakamarama",
+    "city": "Tauranga",
+    "postcode": "3179"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:34:05Z"
+}

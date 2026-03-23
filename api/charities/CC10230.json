@@ -1,0 +1,27 @@
+{
+  "id": 51433,
+  "registrationNumber": "CC10230",
+  "name": "Citizens Advice Bureau Whakatāne Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cab.org.nz",
+  "email": "whakatane@cab.org.nz",
+  "address": {
+    "line1": "21 Boon Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429042841302",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CitizensAdviceBureauWhakatane/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T00:30:26Z"
+}

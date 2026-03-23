@@ -1,0 +1,27 @@
+{
+  "id": 53057,
+  "registrationNumber": "CC11437",
+  "name": "Christchurch Symphony Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cso.co.nz",
+  "email": "clare.decourcy@cso.co.nz",
+  "address": {
+    "line1": "CSO Centre, Christchurch Town Hall",
+    "line2": "86 Kilmore Street",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429043142316",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@ChristchurchSymphonyOrchestra",
+    "twitter": "@chchsymphony"
+  },
+  "lastUpdated": "2026-03-23T02:49:30Z"
+}

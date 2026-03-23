@@ -1,0 +1,27 @@
+{
+  "id": 70515,
+  "registrationNumber": "CC56880",
+  "name": "Waikato Welfare Guardianship Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://welfareguardians.nz/waikato",
+  "email": "wgtwaikato@gmail.com",
+  "address": {
+    "line1": "23A Thames Street",
+    "line2": " ",
+    "suburb": "Claudelands",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": "9429047178229",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-12T20:06:16Z"
+}

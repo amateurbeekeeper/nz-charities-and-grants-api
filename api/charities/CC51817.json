@@ -1,0 +1,27 @@
+{
+  "id": 65579,
+  "registrationNumber": "CC51817",
+  "name": "Greenlane Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.gpc.org.nz",
+  "email": "stephen.hogg.nz@gmail.com",
+  "address": {
+    "line1": "209-211 Great South Road",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T03:41:51Z"
+}

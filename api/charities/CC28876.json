@@ -1,0 +1,27 @@
+{
+  "id": 46556,
+  "registrationNumber": "CC28876",
+  "name": "Kaiapoi Volunteer Fire Brigade ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mattthefireman@hotmail.com",
+  "address": {
+    "line1": "51 Hilton Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaiapoi",
+    "postcode": "7630"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kaiapoifire/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:42:44Z"
+}

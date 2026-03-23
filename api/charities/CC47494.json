@@ -1,0 +1,27 @@
+{
+  "id": 38898,
+  "registrationNumber": "CC47494",
+  "name": "MusicHelps",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.musichelps.org.nz",
+  "email": "lynda@entertainmentaccounting.co.nz",
+  "address": {
+    "line1": "50 Randolph Street",
+    "line2": "First Floor",
+    "suburb": "Eden Terrace",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043147427",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MusicHelpsNZ/",
+    "twitter": "https://twitter.com/MusicHelpsNZ/"
+  },
+  "lastUpdated": "2025-09-21T20:00:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 62942,
+  "registrationNumber": "CC41063",
+  "name": "The Mangawhai Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://mangawhaitoylibrary.co.nz",
+  "email": "mangatoylibrary@gmail.com",
+  "address": {
+    "line1": "73 Moir Street",
+    "line2": "Mangawhai Domain",
+    "suburb": "Mangawhai Village",
+    "city": "Mangawhai",
+    "postcode": null
+  },
+  "nzbn": "9429043158027",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MangawhaiToyLibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T03:18:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48593,
+  "registrationNumber": "CC42003",
+  "name": "Matakana Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-08T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/",
+  "email": "matakana@playcentre.org.nz",
+  "address": {
+    "line1": "3 Torea Road",
+    "line2": "Matakana 0985",
+    "suburb": " ",
+    "city": "Matakana",
+    "postcode": "0985"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/matakanapc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T06:04:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55514,
+  "registrationNumber": "CC22329",
+  "name": "Bay Of Islands Waldorf Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.oromahoekindergarten.co.nz",
+  "email": "mara@oromahoekindergarten.co.nz",
+  "address": {
+    "line1": "514F State Highway 10",
+    "line2": " ",
+    "suburb": "Oromahoe",
+    "city": "Haruru",
+    "postcode": "0472"
+  },
+  "nzbn": "9429043058358",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/OromahoeKindergarten/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T01:13:40Z"
+}

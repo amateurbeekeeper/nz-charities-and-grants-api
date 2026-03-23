@@ -1,0 +1,27 @@
+{
+  "id": 36379,
+  "registrationNumber": "CC46229",
+  "name": "Dunedin Multi Ethnic Council Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2023-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dmec.org.nz",
+  "email": "president@dmec.org.nz",
+  "address": {
+    "line1": "135 Frederick Street",
+    "line2": " ",
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042664116",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DunedinMultiEthnicCouncil/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T01:00:21Z"
+}

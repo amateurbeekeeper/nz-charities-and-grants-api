@@ -1,0 +1,27 @@
+{
+  "id": 36760,
+  "registrationNumber": "CC46217",
+  "name": "Waitaha Primary Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-02-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sarah.middleton@southlink.co.nz",
+  "address": {
+    "line1": "South Link Health ",
+    "line2": "5 Melville Street ",
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429031594608",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-11-12T23:55:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69222,
+  "registrationNumber": "CC55491",
+  "name": "Evolution Theatre Company Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.evolutiontheatre.org.nz",
+  "email": "info@evolutiontheatre.org.nz",
+  "address": {
+    "line1": "75 Disraeli Street",
+    "line2": "Gisborne 4010",
+    "suburb": "Mangapapa",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429046585455",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EvolutionTheatreGisborne/",
+    "twitter": "https://twitter.com/EvolutionGissy"
+  },
+  "lastUpdated": "2025-10-12T18:41:20Z"
+}

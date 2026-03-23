@@ -1,0 +1,27 @@
+{
+  "id": 34348,
+  "registrationNumber": "CC50596",
+  "name": "New Zealand Poppy Places Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2014-06-03T00:00:00Z",
+  "dateDeregistered": "2024-07-23T00:00:00Z",
+  "website": "https://poppyplaces.nz",
+  "email": "brucepeddie99@gmail.com",
+  "address": {
+    "line1": "27 Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greytown",
+    "postcode": "5712"
+  },
+  "nzbn": "9429043283880",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-08-02T07:26:00Z"
+}

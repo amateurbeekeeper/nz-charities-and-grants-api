@@ -1,0 +1,27 @@
+{
+  "id": 49707,
+  "registrationNumber": "CC28489",
+  "name": "Leeston Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lex.mcewan@fireandemergency.nz",
+  "address": {
+    "line1": "33 Station Street",
+    "line2": "Leeston 7632",
+    "suburb": " ",
+    "city": "Leeston",
+    "postcode": "7632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T07:08:41Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43258,
+  "registrationNumber": "CC36928",
+  "name": "Katikati Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-06-17T00:00:00Z",
+  "website": null,
+  "email": "katikati@playcentre.org.nz",
+  "address": {
+    "line1": "6 Binnie Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Katikati",
+    "postcode": "3129"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T08:37:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54221,
+  "registrationNumber": "CC22001",
+  "name": "Friends of Starship Children's Health Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-03-19T00:00:00Z",
+  "dateDeregistered": "2010-07-05T00:00:00Z",
+  "website": "http://www.starship.org.nz",
+  "email": "alehrke@adhb.govt.nz",
+  "address": {
+    "line1": "Starship Hospital",
+    "line2": "Park Road",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1031"
+  },
+  "nzbn": "9429042700678",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:02:55Z"
+}

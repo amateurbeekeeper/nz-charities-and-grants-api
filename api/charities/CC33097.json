@@ -1,0 +1,27 @@
+{
+  "id": 46043,
+  "registrationNumber": "CC33097",
+  "name": "Karori Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-11-06T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/karori/",
+  "email": "president@karoriplaycentre.onmicrosoft.com",
+  "address": {
+    "line1": "64 Campbell Street",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Karori.Playcentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T06:04:10Z"
+}

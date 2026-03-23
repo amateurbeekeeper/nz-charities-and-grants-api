@@ -1,0 +1,27 @@
+{
+  "id": 66701,
+  "registrationNumber": "CC52976",
+  "name": "Puniu River Care Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://puniuinc.org/",
+  "email": "admin@puniuinc.org",
+  "address": {
+    "line1": "191 Benson Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Awamutu",
+    "postcode": "3800"
+  },
+  "nzbn": "9429043295685",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PuniuRiverCareInc/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T18:04:39Z"
+}

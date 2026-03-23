@@ -1,0 +1,27 @@
+{
+  "id": 49456,
+  "registrationNumber": "CC31765",
+  "name": "Landscape Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.landscape.org.nz",
+  "email": "trshistorian@gmail.com",
+  "address": {
+    "line1": "Flat 17",
+    "line2": "53 Vauxhall Road",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": "9429042953715",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T21:54:23Z"
+}

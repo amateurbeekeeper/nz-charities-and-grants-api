@@ -1,0 +1,27 @@
+{
+  "id": 66113,
+  "registrationNumber": "CC52375",
+  "name": "Ranui 135 Leadership Team",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ranui135.org.nz",
+  "email": "jordan@ranui135.org.nz",
+  "address": {
+    "line1": "476 Swanson Road",
+    "line2": " ",
+    "suburb": "Ranui",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429043317059",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ranui135",
+    "twitter": "@ranui135"
+  },
+  "lastUpdated": "2026-03-11T23:06:26Z"
+}

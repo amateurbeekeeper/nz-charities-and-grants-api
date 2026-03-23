@@ -1,0 +1,27 @@
+{
+  "id": 65554,
+  "registrationNumber": "CC51803",
+  "name": "Murihiku Maori Wardens Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mmwardens@gmail.com",
+  "address": {
+    "line1": "5 Lyon Street",
+    "line2": "33 Don Street",
+    "suburb": "Glengarry",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429043203017",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T00:11:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43305,
+  "registrationNumber": "CC36938",
+  "name": "Pyes Pa Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-08T00:00:00Z",
+  "website": null,
+  "email": "pyes.pa@playcentre.org.nz",
+  "address": {
+    "line1": "968 Pyes Pa Road",
+    "line2": " ",
+    "suburb": "Pyes Pa",
+    "city": "Tauranga",
+    "postcode": "3173"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-22T07:19:18Z"
+}

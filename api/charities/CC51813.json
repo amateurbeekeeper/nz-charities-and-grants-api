@@ -1,0 +1,27 @@
+{
+  "id": 65568,
+  "registrationNumber": "CC51813",
+  "name": "Albany Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.albanypresbyterian.org.nz",
+  "email": "eric.lucas@ell.co.nz",
+  "address": {
+    "line1": "539 Albany Highway",
+    "line2": " ",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T18:41:23Z"
+}

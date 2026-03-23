@@ -1,0 +1,27 @@
+{
+  "id": 47971,
+  "registrationNumber": "CC33174",
+  "name": "Friends Of Mount Pleasant School ",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-05-28T00:00:00Z",
+  "website": "http://www.mtpleasant.school.nz",
+  "email": "pta@mtpleasant.school.nz",
+  "address": {
+    "line1": "82 Major Hornbrook Road",
+    "line2": " ",
+    "suburb": "Mount Pleasant",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mtpleasantschoolpta",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-15T22:59:20Z"
+}

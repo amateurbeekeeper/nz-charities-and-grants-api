@@ -1,0 +1,27 @@
+{
+  "id": 64353,
+  "registrationNumber": "CC43592",
+  "name": "Te Runanga o Otakou Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.otakourunaka.co.nz",
+  "email": "office@tro.org.nz",
+  "address": {
+    "line1": "45 Tamatea Road",
+    "line2": "RD 2",
+    "suburb": "Otakou",
+    "city": "Dunedin",
+    "postcode": "9077"
+  },
+  "nzbn": "9429043070565",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T00:22:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65085,
+  "registrationNumber": "CC36634",
+  "name": "The Christian Community Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thechristiancommunity.net",
+  "email": "kvpcoffey@gmail.com",
+  "address": {
+    "line1": "10 Rawhiti Road",
+    "line2": "221 Abbotts Way",
+    "suburb": "One Tree Hill",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042611110",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T03:03:48Z"
+}

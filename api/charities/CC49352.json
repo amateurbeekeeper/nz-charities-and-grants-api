@@ -1,0 +1,27 @@
+{
+  "id": 33159,
+  "registrationNumber": "CC49352",
+  "name": "Japan Kauri Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-01-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "naoko.m@jket.org",
+  "address": {
+    "line1": "5 Resolution Drive",
+    "line2": " ",
+    "suburb": "Gulf Harbour",
+    "city": "Whangaparaoa",
+    "postcode": "0930"
+  },
+  "nzbn": "9429048459655",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/inchJ/",
+    "twitter": "https://twitter.com/JapanKauri"
+  },
+  "lastUpdated": "2026-01-08T23:26:43Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53198,
+  "registrationNumber": "CC20994",
+  "name": "Alive Church Gisborne Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www,alivechurch.nz",
+  "email": "info@alivechurch.nz",
+  "address": {
+    "line1": "413 Gladstone Road",
+    "line2": "Gisborne 4010",
+    "suburb": "Mangapapa",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042611356",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T01:00:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37838,
+  "registrationNumber": "CC48126",
+  "name": "Peppers Trading Co Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pepperstrading.co.nz",
+  "email": "ray@powerhouse.org.nz",
+  "address": {
+    "line1": "5 Wihongi Street",
+    "line2": "Kaikohe 0405",
+    "suburb": " ",
+    "city": "Kaikohe",
+    "postcode": "0405"
+  },
+  "nzbn": "9429031069717",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-31T02:38:02Z"
+}

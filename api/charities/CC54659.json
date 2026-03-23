@@ -1,0 +1,27 @@
+{
+  "id": 68319,
+  "registrationNumber": "CC54659",
+  "name": "The University of Waikato Basketball Club",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "uowbbclub@gmail.com",
+  "address": {
+    "line1": "Private Bag 3105",
+    "line2": "Waikato Mail Centre",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3240"
+  },
+  "nzbn": "9429045918827",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/WaikatoUniversityBasketballClub/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T00:38:40Z"
+}

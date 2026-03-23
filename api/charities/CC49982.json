@@ -1,0 +1,27 @@
+{
+  "id": 33590,
+  "registrationNumber": "CC49982",
+  "name": "Asor Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-11-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wbc.org.nz",
+  "email": "finance@wbc.org.nz",
+  "address": {
+    "line1": "733-735 Whangaparaoa Road",
+    "line2": " ",
+    "suburb": "Stanmore Bay",
+    "city": "Whangaparāoa",
+    "postcode": "0930"
+  },
+  "nzbn": "9429043255085",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T21:41:16Z"
+}

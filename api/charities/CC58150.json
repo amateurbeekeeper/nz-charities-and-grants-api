@@ -1,0 +1,27 @@
+{
+  "id": 71767,
+  "registrationNumber": "CC58150",
+  "name": "Auckland Resilience Centre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2020-06-15T00:00:00Z",
+  "dateDeregistered": "2023-03-31T00:00:00Z",
+  "website": null,
+  "email": "tom@aucklandresiliencecentre.org",
+  "address": {
+    "line1": "90 Owens Road",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429048353274",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-03-30T20:59:32Z"
+}

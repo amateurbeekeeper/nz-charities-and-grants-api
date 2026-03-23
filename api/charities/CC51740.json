@@ -1,0 +1,27 @@
+{
+  "id": 65505,
+  "registrationNumber": "CC51740",
+  "name": "Capital BMX Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.capitalbmx.co.nz",
+  "email": "david.harkness.nz@gmail.com",
+  "address": {
+    "line1": "Wellington BMX Track",
+    "line2": "91 Curtis Street",
+    "suburb": "Wilton",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043254156",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://facebook.com/capitalbmx",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T09:00:14Z"
+}

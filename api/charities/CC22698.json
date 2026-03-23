@@ -1,0 +1,27 @@
+{
+  "id": 56421,
+  "registrationNumber": "CC22698",
+  "name": "Coasters Musical Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.coastersmusicaltheatre.com",
+  "email": "kiwipetra@yahoo.com",
+  "address": {
+    "line1": "15 Hinemoa Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429042873242",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Coasters Musical Theatre Inc.",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T21:18:10Z"
+}

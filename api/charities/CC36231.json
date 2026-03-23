@@ -1,0 +1,27 @@
+{
+  "id": 61467,
+  "registrationNumber": "CC36231",
+  "name": "Millers Flat Bakehouse Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "millersflat.online",
+  "email": "millersflatbakehouse@gmail.com",
+  "address": {
+    "line1": "2 Craig Flat Road",
+    "line2": "RD 2",
+    "suburb": "Millers Flat",
+    "city": "Roxburgh",
+    "postcode": "9572"
+  },
+  "nzbn": "9429043063567",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "\"Millers Flat Bakehouse\" and \"Memories of Millers Flat\"",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-21T22:39:27Z"
+}

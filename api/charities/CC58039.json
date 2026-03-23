@@ -1,0 +1,27 @@
+{
+  "id": 71663,
+  "registrationNumber": "CC58039",
+  "name": "We Love Dogs Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-08-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.welovedogs.org.nz",
+  "email": "admin@welovedogs.org.nz",
+  "address": {
+    "line1": "6 Maralyn Place",
+    "line2": " ",
+    "suburb": "Bell Block",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429047926035",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/483126295709797/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-07T00:10:33Z"
+}

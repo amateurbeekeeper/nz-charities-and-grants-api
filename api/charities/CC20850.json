@@ -1,0 +1,27 @@
+{
+  "id": 40967,
+  "registrationNumber": "CC20850",
+  "name": "Citizens Advice Bureau Wellington Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.cab.org.nz",
+  "email": "welcab@cab.org.nz",
+  "address": {
+    "line1": "34 Manners Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043158010",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cabwellington/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:58:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65573,
+  "registrationNumber": "CC51820",
+  "name": "Highgate Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://batch.org.nz/",
+  "email": "accounts@highgatechurch.org.nz",
+  "address": {
+    "line1": "580 Highgate",
+    "line2": " ",
+    "suburb": "Maori Hill",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T23:37:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 36611,
+  "registrationNumber": "CC47889",
+  "name": "Hope Centre Tauranga Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hopecentre.nz",
+  "email": "steve@hopetauranga.nz",
+  "address": {
+    "line1": "36A Sutherland Road",
+    "line2": " ",
+    "suburb": "Brookfield",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043216635",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HopeCentreTauranga",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T00:09:28Z"
+}

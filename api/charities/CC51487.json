@@ -1,0 +1,27 @@
+{
+  "id": 65262,
+  "registrationNumber": "CC51487",
+  "name": "Equippers Taumarunui Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "equipperschurch.com",
+  "email": "richard.bull@equipperschurch.com",
+  "address": {
+    "line1": "18 Marae Street",
+    "line2": "Taumarunui 3920",
+    "suburb": " ",
+    "city": "Taumarunui",
+    "postcode": "3920"
+  },
+  "nzbn": "9429043268504",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/equipperstaumarunui",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T19:23:57Z"
+}

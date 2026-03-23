@@ -1,0 +1,27 @@
+{
+  "id": 43215,
+  "registrationNumber": "CC39474",
+  "name": "Manawaru Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-21T00:00:00Z",
+  "website": "http://www.playcentre.org.nz",
+  "email": "manawaru@playcentre.org.nz",
+  "address": {
+    "line1": "405B Manawaru Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Te Aroha",
+    "postcode": "3391"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T07:13:40Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34747,
+  "registrationNumber": "CC51043",
+  "name": "Hui E! Community Aotearoa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-10-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.huie.org.nz",
+  "email": "katie@huie.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "50 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043285723",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/huie.org.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:14:44Z"
+}

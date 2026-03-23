@@ -1,0 +1,27 @@
+{
+  "id": 48117,
+  "registrationNumber": "CC37377",
+  "name": "New Zealand Suzuki Institute Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.suzuki.org.nz",
+  "email": "admin@suzuki.org.nz",
+  "address": {
+    "line1": "38 Clyma Street",
+    "line2": " ",
+    "suburb": "Elderslea",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429042692058",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZ-Suzuki-Institute-1504167413153455/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T08:34:49Z"
+}

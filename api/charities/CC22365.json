@@ -1,0 +1,27 @@
+{
+  "id": 39233,
+  "registrationNumber": "CC22365",
+  "name": "Long Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-03-31T00:00:00Z",
+  "dateDeregistered": "2025-03-31T00:00:00Z",
+  "website": null,
+  "email": "bnwilton@gmail.com",
+  "address": {
+    "line1": "65 Tauranga Place",
+    "line2": "14 Maygrove Village",
+    "suburb": " ",
+    "city": "Orewa",
+    "postcode": "0931"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T02:36:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 47060,
+  "registrationNumber": "CC42818",
+  "name": "Piha Coastcare Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-11-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pihacoastcare.org",
+  "email": "tuivale@pl.net",
+  "address": {
+    "line1": "71 Garden Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "New Lynn",
+    "postcode": "772"
+  },
+  "nzbn": "9429043202126",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Facebook.com/pihacoastcare",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T21:29:12Z"
+}

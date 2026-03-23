@@ -1,0 +1,27 @@
+{
+  "id": 39638,
+  "registrationNumber": "CC24343",
+  "name": "Positive Directions Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://pdt.org.nz",
+  "email": "phil@pdt.org.nz",
+  "address": {
+    "line1": "7 Earlham Street",
+    "line2": " ",
+    "suburb": "Brooklands",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429043100149",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-14T23:42:40Z"
+}

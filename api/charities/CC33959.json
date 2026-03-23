@@ -1,0 +1,27 @@
+{
+  "id": 60731,
+  "registrationNumber": "CC33959",
+  "name": "Kapiti Music Centre Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kapitimusiccentre.org.nz",
+  "email": "admin@kapitimusiccentre.org.nz",
+  "address": {
+    "line1": "PO Box 2003",
+    "line2": " ",
+    "suburb": "Raumati Beach",
+    "city": "Paraparaumu",
+    "postcode": "5255"
+  },
+  "nzbn": "9429043012367",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-08T20:16:40Z"
+}

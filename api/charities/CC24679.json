@@ -1,0 +1,27 @@
+{
+  "id": 64938,
+  "registrationNumber": "CC24679",
+  "name": "City Impact Church Invercargill",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "graham.burger@cityimpactchurch.com",
+  "address": {
+    "line1": "114 Dee Street",
+    "line2": "Invercargill 9810",
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429043024261",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T03:43:38Z"
+}

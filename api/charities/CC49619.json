@@ -1,0 +1,27 @@
+{
+  "id": 32685,
+  "registrationNumber": "CC49619",
+  "name": "New Zealand Care Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@nzcaresociety.co.nz",
+  "address": {
+    "line1": "20B Cotter Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greytown",
+    "postcode": "5712"
+  },
+  "nzbn": "9429042685197",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T07:59:11Z"
+}

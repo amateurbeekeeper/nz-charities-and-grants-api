@@ -1,0 +1,27 @@
+{
+  "id": 45476,
+  "registrationNumber": "CC30265",
+  "name": "Blenheim Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-11-05T00:00:00Z",
+  "website": null,
+  "email": "linda@hall.org.nz",
+  "address": {
+    "line1": "17 Eltham Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Blenheim-Playcentre-155351157957535/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T06:03:28Z"
+}

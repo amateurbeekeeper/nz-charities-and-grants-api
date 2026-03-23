@@ -1,0 +1,27 @@
+{
+  "id": 41684,
+  "registrationNumber": "CC28963",
+  "name": "The Canterbury Charity Hospital Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.charityhospital.org.nz",
+  "email": "philipfbagshaw@gmail.com",
+  "address": {
+    "line1": "349 Harewood Road",
+    "line2": " ",
+    "suburb": "Bishopdale",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429043118564",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T18:15:36Z"
+}

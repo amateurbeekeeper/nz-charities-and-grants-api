@@ -1,0 +1,27 @@
+{
+  "id": 66697,
+  "registrationNumber": "CC52969",
+  "name": "Otakou Health Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-12-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "matt.matahaere@ohl.nz",
+  "address": {
+    "line1": "25 College Street",
+    "line2": " ",
+    "suburb": "Caversham",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429041757499",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T20:37:43Z"
+}

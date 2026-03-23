@@ -1,0 +1,27 @@
+{
+  "id": 43626,
+  "registrationNumber": "CC28840",
+  "name": "Greerton Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "melvern.wainwright@fireandemergency.nz",
+  "address": {
+    "line1": "169 Maleme Street",
+    "line2": " ",
+    "suburb": "Greerton",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-17T19:17:44Z"
+}

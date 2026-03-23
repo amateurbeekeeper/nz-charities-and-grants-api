@@ -1,0 +1,27 @@
+{
+  "id": 42325,
+  "registrationNumber": "CC24448",
+  "name": "Cambridge Childcare Centre Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cambridgeearlylearning.co.nz",
+  "email": "reception@cambridgeearlylearning.co.nz",
+  "address": {
+    "line1": "10 Fort Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": "9429042601791",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:26:04Z"
+}

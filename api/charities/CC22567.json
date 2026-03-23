@@ -1,0 +1,27 @@
+{
+  "id": 39163,
+  "registrationNumber": "CC22567",
+  "name": "Perinatal Wellbeing Canterbury Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://perinatalwellbeing.org.nz",
+  "email": "operations@perinatalwellbeing.org.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "175 Roydvale Avenue",
+    "suburb": "Burnside",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429043170517",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "perinatalwellbeingcanterbury",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T00:14:00Z"
+}

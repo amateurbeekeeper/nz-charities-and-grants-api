@@ -1,0 +1,27 @@
+{
+  "id": 78312,
+  "registrationNumber": "CC64127",
+  "name": "Upbeat Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-01-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stirfrykat@gmail.com",
+  "address": {
+    "line1": "Flat 5",
+    "line2": "445 Armagh Street",
+    "suburb": "Linwood",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T06:10:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63479,
+  "registrationNumber": "CC40954",
+  "name": "Tairawhiti Environment Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://tairawhitienviro.nz/",
+  "email": "sam@tairawhitienviro.nz",
+  "address": {
+    "line1": "386 Palmerston Road",
+    "line2": "Gisborne 4010",
+    "suburb": "Whataupoko",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042630685",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Tairawhiti Environment Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T20:57:48Z"
+}

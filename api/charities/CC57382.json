@@ -1,0 +1,27 @@
+{
+  "id": 71010,
+  "registrationNumber": "CC57382",
+  "name": "Tapapa Marae Maori Reservation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tapapa.marae.executive@gmail.com",
+  "address": {
+    "line1": "101 Tapapa Road",
+    "line2": "RD 2",
+    "suburb": "Tapapa",
+    "city": "Tirau",
+    "postcode": "3485"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Tāpapa Marae - facebook.com/groups/239515340015228",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:42:05Z"
+}

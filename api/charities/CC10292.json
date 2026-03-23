@@ -1,0 +1,27 @@
+{
+  "id": 51399,
+  "registrationNumber": "CC10292",
+  "name": "Whakaatu Whanaunga Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wwt.org.co.nz",
+  "email": "steven@wwt.org.nz",
+  "address": {
+    "line1": "94B Church Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Opotiki",
+    "postcode": "3122"
+  },
+  "nzbn": "9429042835240",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "whakaatuwhanaungatrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-16T19:47:21Z"
+}

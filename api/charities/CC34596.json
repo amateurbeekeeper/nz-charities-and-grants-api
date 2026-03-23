@@ -1,0 +1,27 @@
+{
+  "id": 44509,
+  "registrationNumber": "CC34596",
+  "name": "Waikato Regional Volleyball Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.volleyballwaikato.org.nz",
+  "email": "info@volleyballwaikato.org.nz",
+  "address": {
+    "line1": "16 Lulu Avenue",
+    "line2": " ",
+    "suburb": "Chartwell",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429042960638",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/VolleyballWaikato/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T00:11:09Z"
+}

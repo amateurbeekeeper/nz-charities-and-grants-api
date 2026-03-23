@@ -1,0 +1,27 @@
+{
+  "id": 60384,
+  "registrationNumber": "CC34239",
+  "name": "Essentially Men Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.essentiallymen.net",
+  "email": "admin@essentiallymen.net",
+  "address": {
+    "line1": "94 Avocado Lane",
+    "line2": "RD 5",
+    "suburb": "Mangawhai",
+    "city": "Wellsford",
+    "postcode": "0975"
+  },
+  "nzbn": "9429043124176",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/MenBeingReal/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T23:26:21Z"
+}

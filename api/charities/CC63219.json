@@ -1,0 +1,27 @@
+{
+  "id": 77389,
+  "registrationNumber": "CC63219",
+  "name": "Belfast Residents Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.belfastresidents.org.nz",
+  "email": "admin@belfastresidents.org.nz",
+  "address": {
+    "line1": "710 Main North Road",
+    "line2": null,
+    "suburb": "Belfast",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/belfastresidents",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-03T04:59:43Z"
+}

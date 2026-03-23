@@ -1,0 +1,27 @@
+{
+  "id": 48156,
+  "registrationNumber": "CC30370",
+  "name": "Ranui Baptist Community Care",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.careranui.org.nz",
+  "email": "robertcmurray@xtra.co.nz",
+  "address": {
+    "line1": "464 Swanson Road",
+    "line2": " ",
+    "suburb": "Ranui",
+    "city": "Auckland",
+    "postcode": "612"
+  },
+  "nzbn": "9429042943426",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T22:03:32Z"
+}

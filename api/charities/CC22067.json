@@ -1,0 +1,27 @@
+{
+  "id": 53718,
+  "registrationNumber": "CC22067",
+  "name": "Taupo Family Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "generalmanager@tfc.org.nz",
+  "address": {
+    "line1": "11 Manuka Street",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Taupo",
+    "postcode": "3378"
+  },
+  "nzbn": "9429042967392",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Whanau Taupo",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T20:34:48Z"
+}

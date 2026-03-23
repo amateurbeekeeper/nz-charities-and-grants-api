@@ -1,0 +1,27 @@
+{
+  "id": 33471,
+  "registrationNumber": "CC51173",
+  "name": "Taitokerau Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-11-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taitokerau.education",
+  "email": "eo@taitokerau.education",
+  "address": {
+    "line1": "28 Mt Pleasant Road",
+    "line2": " ",
+    "suburb": "Raumanga",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043260645",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:19:40Z"
+}

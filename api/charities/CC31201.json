@@ -1,0 +1,27 @@
+{
+  "id": 49524,
+  "registrationNumber": "CC31201",
+  "name": "The Dannevirke Kindergarten Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "manager@dvka.co.nz",
+  "address": {
+    "line1": "11-13 High Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Dannevirke",
+    "postcode": "4930"
+  },
+  "nzbn": "9429042646655",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Dannevirke Kindergartens",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T22:12:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72850,
+  "registrationNumber": "CC59242",
+  "name": "Taste Nature Social Enterprise",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tastenature.co.nz",
+  "email": "clinton@tastenature.co.nz",
+  "address": {
+    "line1": "131 High Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "tastenaturenz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T18:11:39Z"
+}

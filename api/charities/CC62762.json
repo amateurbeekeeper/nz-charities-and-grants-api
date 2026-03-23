@@ -1,0 +1,27 @@
+{
+  "id": 76514,
+  "registrationNumber": "CC62762",
+  "name": "Headways Network Inc",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "headwaysnetwork.org.nz (currently offline)",
+  "email": "james@headwaysnetwork.org.nz",
+  "address": {
+    "line1": "7 Laingholm Drive",
+    "line2": " ",
+    "suburb": "Laingholm",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429052128301",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-06T22:17:47Z"
+}

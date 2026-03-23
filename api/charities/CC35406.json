@@ -1,0 +1,27 @@
+{
+  "id": 46705,
+  "registrationNumber": "CC35406",
+  "name": "The New Zealand Association For Gifted Children Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-11-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.giftedchildren.org.nz",
+  "email": "treasurer@giftedchildren.org.nz",
+  "address": {
+    "line1": "472 Barrington Street",
+    "line2": " ",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429043188772",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZAGC/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:46:12Z"
+}

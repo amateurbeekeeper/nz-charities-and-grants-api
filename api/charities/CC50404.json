@@ -1,0 +1,27 @@
+{
+  "id": 34032,
+  "registrationNumber": "CC50404",
+  "name": "Otaki Menzshed Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "all@kingfamily.co.nz",
+  "address": {
+    "line1": "186 Mill Road",
+    "line2": "Otaki 5512",
+    "suburb": "Ōtaki",
+    "city": "Otaki",
+    "postcode": "5512"
+  },
+  "nzbn": "9429043258079",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Otaki Menzshed",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-02T22:47:29Z"
+}

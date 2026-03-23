@@ -1,0 +1,27 @@
+{
+  "id": 71225,
+  "registrationNumber": "CC57600",
+  "name": "Mata-Au Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jacqui.veint@ngaitahu.iwi.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "266 Hanover Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429047762497",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T01:31:44Z"
+}

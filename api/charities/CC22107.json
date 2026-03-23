@@ -1,0 +1,27 @@
+{
+  "id": 52760,
+  "registrationNumber": "CC22107",
+  "name": "Massey Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mcconline.org.nz",
+  "email": "michelle@taxandtrust.co.nz",
+  "address": {
+    "line1": "8 Vadam Road",
+    "line2": " ",
+    "suburb": "Massey",
+    "city": "Auckland",
+    "postcode": "614"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/165352896962453",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T20:11:16Z"
+}

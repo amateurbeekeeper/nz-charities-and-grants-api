@@ -1,0 +1,27 @@
+{
+  "id": 40116,
+  "registrationNumber": "CC24250",
+  "name": "New Zealand Institute of International Affairs",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nziia.org.nz",
+  "email": "nziia@vuw.ac.nz",
+  "address": {
+    "line1": "Level 3, Room 325, Rutherford House",
+    "line2": "23 Lambton Quay",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042681113",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/newzealandiia",
+    "twitter": "NZIIA_live"
+  },
+  "lastUpdated": "2025-06-10T19:35:15Z"
+}

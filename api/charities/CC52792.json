@@ -1,0 +1,27 @@
+{
+  "id": 66525,
+  "registrationNumber": "CC52792",
+  "name": "The Wellington Rheumatology Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-11-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rob.j.mitchell@outlook.com",
+  "address": {
+    "line1": "Rheumatology Unit",
+    "line2": "Hutt Hospital",
+    "suburb": "Private bag 31907",
+    "city": "Lower Hutt",
+    "postcode": "5040"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-26T04:40:43Z"
+}

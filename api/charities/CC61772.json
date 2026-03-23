@@ -1,0 +1,27 @@
+{
+  "id": 75340,
+  "registrationNumber": "CC61772",
+  "name": "Canterbury Repertory Theatre Charitable Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-11-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.repertory.nz",
+  "email": "admin@repertory.nz",
+  "address": {
+    "line1": "24 Clarence Street South",
+    "line2": " ",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429051694180",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/repertory.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:21:22Z"
+}

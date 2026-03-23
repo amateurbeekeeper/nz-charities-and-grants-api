@@ -1,0 +1,27 @@
+{
+  "id": 54897,
+  "registrationNumber": "CC22205",
+  "name": "Tararua Sports Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.upperhuttcityfootball.org.nz",
+  "email": "tristan@upperhuttcityfootball.org.nz",
+  "address": {
+    "line1": "Park Street",
+    "line2": " ",
+    "suburb": "Brown Owl",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429042830788",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T02:58:46Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52846,
+  "registrationNumber": "CC20298",
+  "name": "Istar Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-12-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://istar.org.,nz",
+  "email": "admin@istar.org.nz",
+  "address": {
+    "line1": "8 Braithwaite Street",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429037653347",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:35:48Z"
+}

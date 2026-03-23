@@ -1,0 +1,27 @@
+{
+  "id": 44495,
+  "registrationNumber": "CC37557",
+  "name": "King's College Rowing Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "k.ohms@kingscollege.school.nz",
+  "address": {
+    "line1": "41 Golf Avenue",
+    "line2": "Golf Road",
+    "suburb": "Otahuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429043139828",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T01:40:58Z"
+}

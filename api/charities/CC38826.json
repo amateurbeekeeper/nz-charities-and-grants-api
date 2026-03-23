@@ -1,0 +1,27 @@
+{
+  "id": 47172,
+  "registrationNumber": "CC38826",
+  "name": "Matua Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john@trimacgroup.co.nz",
+  "address": {
+    "line1": "247B State Highway 2",
+    "line2": " ",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429032475609",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T22:28:09Z"
+}

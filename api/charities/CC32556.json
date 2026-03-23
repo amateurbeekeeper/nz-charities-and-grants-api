@@ -1,0 +1,27 @@
+{
+  "id": 42947,
+  "registrationNumber": "CC32556",
+  "name": "Twizel Community Care Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.twizelcare.co.nz",
+  "email": "admin@twizelcare.co.nz",
+  "address": {
+    "line1": "Mt Cook St",
+    "line2": null,
+    "suburb": " ",
+    "city": "Twizel",
+    "postcode": "7901"
+  },
+  "nzbn": "9429042897026",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T00:52:50Z"
+}

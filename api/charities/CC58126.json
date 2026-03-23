@@ -1,0 +1,27 @@
+{
+  "id": 71741,
+  "registrationNumber": "CC58126",
+  "name": "ExMed for Cancer",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-08-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.exmed.co.nz",
+  "email": "sonja@orakinetics.co.nz",
+  "address": {
+    "line1": "Unit 5, Unit 6",
+    "line2": " 91 Milson Line",
+    "suburb": "Milson",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429048489812",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T03:19:31Z"
+}

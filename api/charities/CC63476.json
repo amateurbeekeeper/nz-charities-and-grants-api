@@ -1,0 +1,27 @@
+{
+  "id": 77674,
+  "registrationNumber": "CC63476",
+  "name": "AUSC INC",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-01-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "austudentchoir@gmail.com",
+  "address": {
+    "line1": "School of Music",
+    "line2": "6 Symonds Street",
+    "suburb": "Auckland CBD",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429052259357",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/UOAChoir",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T10:19:11Z"
+}

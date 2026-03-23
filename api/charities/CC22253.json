@@ -1,0 +1,27 @@
+{
+  "id": 39265,
+  "registrationNumber": "CC22253",
+  "name": "Fenton Park Bible Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.fpbc.org.nz",
+  "email": "caleb@fpbc.org.nz",
+  "address": {
+    "line1": "42 Hilda Street",
+    "line2": " ",
+    "suburb": "Fenton Park",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Fenton Park Bible Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T04:09:51Z"
+}

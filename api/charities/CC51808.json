@@ -1,0 +1,27 @@
+{
+  "id": 65565,
+  "registrationNumber": "CC51808",
+  "name": "Ember Services Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ember.org.nz",
+  "email": "spencer.beazley@ember.org.nz",
+  "address": {
+    "line1": "51 Huia Road",
+    "line2": " ",
+    "suburb": "Otahuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429030171121",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-12T01:58:55Z"
+}

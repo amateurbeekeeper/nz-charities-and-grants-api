@@ -1,0 +1,27 @@
+{
+  "id": 43573,
+  "registrationNumber": "CC32068",
+  "name": "Te Puna Matauranga O Whanganui",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul@balanceca.nz",
+  "address": {
+    "line1": "142 Guyton Street",
+    "line2": "Whanganui 4500",
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429043113903",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T04:43:50Z"
+}

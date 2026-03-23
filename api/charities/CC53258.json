@@ -1,0 +1,27 @@
+{
+  "id": 66974,
+  "registrationNumber": "CC53258",
+  "name": "New Zealand Global Women",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://globalwomen.org.nz",
+  "email": "katie.bhreatnach@globalwomen.org.nz",
+  "address": {
+    "line1": "Floor 5",
+    "line2": "53 Fort Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043095155",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T23:58:34Z"
+}

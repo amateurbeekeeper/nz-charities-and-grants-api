@@ -1,0 +1,27 @@
+{
+  "id": 46108,
+  "registrationNumber": "CC38264",
+  "name": "Papakura Neighbourhood Support Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nspapakura.co.nz",
+  "email": "maree@beaven.co.nz",
+  "address": {
+    "line1": "9 Mack Place",
+    "line2": null,
+    "suburb": "Red Hill",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": "9429043067732",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "neighbourhood support papakura district",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T01:58:24Z"
+}

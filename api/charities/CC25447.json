@@ -1,0 +1,27 @@
+{
+  "id": 57761,
+  "registrationNumber": "CC25447",
+  "name": "Whanganui Regional Museum Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wrm.org.nz/",
+  "email": "admin@wrm.org.nz",
+  "address": {
+    "line1": "4 Watt Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429043070091",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/whanganuiregionalmuseum",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T18:12:53Z"
+}

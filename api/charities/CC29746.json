@@ -1,0 +1,27 @@
+{
+  "id": 61603,
+  "registrationNumber": "CC29746",
+  "name": "Pokeno Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mark.bon@fireandemergency.nz",
+  "address": {
+    "line1": "37 Great South Road",
+    "line2": "Pokeno 2402",
+    "suburb": " ",
+    "city": "Pokeno",
+    "postcode": "2402"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T18:10:46Z"
+}

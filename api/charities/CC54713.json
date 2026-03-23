@@ -1,0 +1,27 @@
+{
+  "id": 68380,
+  "registrationNumber": "CC54713",
+  "name": "Te Auaha Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-06-07T00:00:00Z",
+  "dateDeregistered": "2021-06-30T00:00:00Z",
+  "website": "https://www.teauaha.com",
+  "email": "phil.daintree@wandw.ac.nz",
+  "address": {
+    "line1": "21 Kensington Avenue",
+    "line2": " ",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": "9429043312627",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/TeAuaha/",
+    "twitter": "https://twitter.com/TeAuaha?lang=en"
+  },
+  "lastUpdated": "2022-07-04T02:35:49Z"
+}

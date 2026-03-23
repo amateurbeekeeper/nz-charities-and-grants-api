@@ -1,0 +1,27 @@
+{
+  "id": 52011,
+  "registrationNumber": "CC10890",
+  "name": "Downtown Community Ministry Wellington Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dcm.org.nz",
+  "email": "accounts@dcm.org.nz",
+  "address": {
+    "line1": "2 Lukes Lane",
+    "line2": "Kirva House",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042668893",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wellingtondcm",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T03:51:52Z"
+}

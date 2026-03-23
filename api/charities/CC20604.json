@@ -1,0 +1,27 @@
+{
+  "id": 54033,
+  "registrationNumber": "CC20604",
+  "name": "Pukaha Mount Bruce Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pukaha.org.nz",
+  "email": "accounts@pukaha.org.nz",
+  "address": {
+    "line1": "State Highway 2",
+    "line2": "Mount Bruce",
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5881"
+  },
+  "nzbn": "9429043045297",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T09:38:26Z"
+}

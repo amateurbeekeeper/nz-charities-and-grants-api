@@ -1,0 +1,27 @@
+{
+  "id": 40904,
+  "registrationNumber": "CC33791",
+  "name": "Broken River Ski Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.brokenriver.co.nz",
+  "email": "admin@brokenriver.co.nz",
+  "address": {
+    "line1": "Highway 73",
+    "line2": " ",
+    "suburb": "Canterbury",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429042596431",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BrokenRiverSkiArea",
+    "twitter": "https://twitter.com/brokenriver"
+  },
+  "lastUpdated": "2025-12-08T05:38:30Z"
+}

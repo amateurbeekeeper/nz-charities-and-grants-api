@@ -1,0 +1,27 @@
+{
+  "id": 57144,
+  "registrationNumber": "CC24947",
+  "name": "The Open Toy Box Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.greylynntoylibrary.co.nz",
+  "email": "sbholmes@gmail.com",
+  "address": {
+    "line1": "ST COLUMBA CHURCH HALL",
+    "line2": "92 Surrey Crescent",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429042867623",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/greylynntoylibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:54:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73432,
+  "registrationNumber": "CC59716",
+  "name": "The Penina Golf Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nikomalaki@hotmail.com",
+  "address": {
+    "line1": "26B Clark Street",
+    "line2": " ",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T01:59:02Z"
+}

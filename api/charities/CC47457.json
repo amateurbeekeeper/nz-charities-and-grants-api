@@ -1,0 +1,27 @@
+{
+  "id": 35521,
+  "registrationNumber": "CC47457",
+  "name": "Renew Communities Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.renewcommunities.co.nz/",
+  "email": "admin@renewcommunities.co.nz",
+  "address": {
+    "line1": "18 Eccleston Hill",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043148394",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/2320996096/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T00:43:39Z"
+}

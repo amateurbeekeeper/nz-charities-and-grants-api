@@ -1,0 +1,27 @@
+{
+  "id": 44231,
+  "registrationNumber": "CC30431",
+  "name": "Paroa Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-01T00:00:00Z",
+  "website": null,
+  "email": "paroa@playcentre.org.nz",
+  "address": {
+    "line1": "490 Main South Road",
+    "line2": " ",
+    "suburb": "Paroa",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Paroa Playcentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-29T06:03:33Z"
+}

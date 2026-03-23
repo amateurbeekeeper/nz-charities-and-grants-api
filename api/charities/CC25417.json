@@ -1,0 +1,27 @@
+{
+  "id": 57711,
+  "registrationNumber": "CC25417",
+  "name": "Wellington Batucada Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.batucada.org.nz",
+  "email": "wellingtonbatucada@gmail.com",
+  "address": {
+    "line1": "Flat 4",
+    "line2": "Cernan Court",
+    "suburb": "Berhampore",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429043157365",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WellingtonBatucada/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-07T06:07:35Z"
+}

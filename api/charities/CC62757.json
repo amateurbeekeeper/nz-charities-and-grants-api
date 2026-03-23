@@ -1,0 +1,27 @@
+{
+  "id": 76500,
+  "registrationNumber": "CC62757",
+  "name": "Oxford Dark Sky",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-10-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "oxford.darksky@gmail.com",
+  "address": {
+    "line1": "52 Bay Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Oxford",
+    "postcode": "7430"
+  },
+  "nzbn": "9429051800727",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100093443190306&sk=about_contact_and_basic_info",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T07:46:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70337,
+  "registrationNumber": "CC56696",
+  "name": "The Fellowship Church Auckland Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thefellowshipchurch.co.nz/",
+  "email": "tfcnz.finance@gmail.com",
+  "address": {
+    "line1": "1 Valley Road",
+    "line2": null,
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429047352018",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T04:53:13Z"
+}

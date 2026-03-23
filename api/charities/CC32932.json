@@ -1,0 +1,27 @@
+{
+  "id": 45093,
+  "registrationNumber": "CC32932",
+  "name": "Volunteer Central",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.volunteercentral.nz",
+  "email": "manager@volunteercentral.nz",
+  "address": {
+    "line1": "77 King Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429043052776",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/VolunteerCentral",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T22:11:07Z"
+}

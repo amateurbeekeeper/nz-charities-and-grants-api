@@ -1,0 +1,27 @@
+{
+  "id": 39090,
+  "registrationNumber": "CC22288",
+  "name": "Christian World Service",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cws.org.nz",
+  "email": "tim.pratt@cws.org.nz",
+  "address": {
+    "line1": "365A Ilam Road",
+    "line2": " ",
+    "suburb": "Bryndwr",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429043108978",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T22:06:25Z"
+}

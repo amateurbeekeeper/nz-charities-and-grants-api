@@ -1,0 +1,27 @@
+{
+  "id": 51002,
+  "registrationNumber": "CC10123",
+  "name": "The Tui Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-03-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tuitrust.com",
+  "email": "tuitrust@hotmail.com",
+  "address": {
+    "line1": "Level 3, Building E, Union Square",
+    "line2": " 192 Anglesea Street",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043107438",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/TuiTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T03:08:16Z"
+}

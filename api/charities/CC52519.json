@@ -1,0 +1,27 @@
+{
+  "id": 66259,
+  "registrationNumber": "CC52519",
+  "name": "Papakura Kootuitui Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.kootuitui.org.nz",
+  "email": "abdul_nishar@xtra.co.nz",
+  "address": {
+    "line1": "29 Broadway",
+    "line2": "Papakura 2110",
+    "suburb": "Papakura",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": "9429045853456",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/Kootuitui/",
+    "twitter": "@Kootuitui"
+  },
+  "lastUpdated": "2026-02-09T02:17:04Z"
+}

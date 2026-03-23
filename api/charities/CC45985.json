@@ -1,0 +1,27 @@
+{
+  "id": 38277,
+  "registrationNumber": "CC45985",
+  "name": "Te Whanau A Kai Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-01-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "watenehorsfall@xtra.co.nz",
+  "address": {
+    "line1": "66 Bluebird Crescent",
+    "line2": null,
+    "suburb": "Unsworth Heights",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429042970453",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T20:45:39Z"
+}

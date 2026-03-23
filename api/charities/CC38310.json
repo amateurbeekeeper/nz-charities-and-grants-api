@@ -1,0 +1,27 @@
+{
+  "id": 40167,
+  "registrationNumber": "CC38310",
+  "name": "Microscopy New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.microscopynz.co.nz/",
+  "email": "marina.richena@agresearch.co.nz",
+  "address": {
+    "line1": "Microscopy NZ c/- Marina Richnea",
+    "line2": "19 Ellesmere Junction Road",
+    "suburb": " ",
+    "city": "Lincoln",
+    "postcode": "7608"
+  },
+  "nzbn": "9429042768791",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T08:08:59Z"
+}

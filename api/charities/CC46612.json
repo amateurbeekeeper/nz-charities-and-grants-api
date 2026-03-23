@@ -1,0 +1,27 @@
+{
+  "id": 36981,
+  "registrationNumber": "CC46612",
+  "name": "New Zealand Dance Advancement Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-05-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzdc.org.nz",
+  "email": "bm@roustabout.kiwi",
+  "address": {
+    "line1": "113 Wellesley Street West",
+    "line2": "93 Dominion Rd",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043151868",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzdanceco/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T00:50:43Z"
+}

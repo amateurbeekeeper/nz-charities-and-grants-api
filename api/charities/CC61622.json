@@ -1,0 +1,27 @@
+{
+  "id": 75181,
+  "registrationNumber": "CC61622",
+  "name": "The Whakatipu Care Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "whakatipucaretrust@gmail.com",
+  "address": {
+    "line1": "20 Athol Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429051328559",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T00:27:00Z"
+}

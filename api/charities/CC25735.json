@@ -1,0 +1,27 @@
+{
+  "id": 41816,
+  "registrationNumber": "CC25735",
+  "name": "Pioneers",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pioneers.org.nz",
+  "email": "cathy@pinzteam.com",
+  "address": {
+    "line1": "102 Hillsborough Road",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429042936961",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:29:41Z"
+}

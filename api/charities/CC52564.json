@@ -1,0 +1,27 @@
+{
+  "id": 66298,
+  "registrationNumber": "CC52564",
+  "name": "Volunteering New Plymouth Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-09-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.volunteeringnewplymouth.org.nz",
+  "email": "manager@vnp.nz",
+  "address": {
+    "line1": "Level 4  Devon Centre",
+    "line2": " 44 Liardet Street",
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043273645",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Volunteering New Plymouth ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T22:11:22Z"
+}

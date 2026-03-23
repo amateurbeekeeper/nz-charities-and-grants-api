@@ -1,0 +1,27 @@
+{
+  "id": 77391,
+  "registrationNumber": "CC63227",
+  "name": "Bread Project Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-08-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.breadnbutter.co.nz",
+  "email": "sknight@trustaccountants.co.nz",
+  "address": {
+    "line1": "Floor 1",
+    "line2": "5 Crummer Road",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-02T22:15:41Z"
+}

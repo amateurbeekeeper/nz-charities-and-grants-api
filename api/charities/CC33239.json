@@ -1,0 +1,27 @@
+{
+  "id": 45399,
+  "registrationNumber": "CC33239",
+  "name": "Auckland Children's Theatre Academy Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2017-12-31T00:00:00Z",
+  "website": "http://www.acta.co.nz",
+  "email": "ken@acta.co.nz",
+  "address": {
+    "line1": "251 Hinemoa Street",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "626"
+  },
+  "nzbn": "9429042946779",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-06-20T23:34:08Z"
+}

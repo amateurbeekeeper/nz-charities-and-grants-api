@@ -1,0 +1,27 @@
+{
+  "id": 37015,
+  "registrationNumber": "CC46814",
+  "name": "Fordell Village Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-07-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fordellvillagetrust@gmail.com",
+  "address": {
+    "line1": "735 No 2 Line",
+    "line2": "RD 2",
+    "suburb": "Fordell",
+    "city": "Whanganui",
+    "postcode": "4572"
+  },
+  "nzbn": "9429043060467",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-19T03:30:16Z"
+}

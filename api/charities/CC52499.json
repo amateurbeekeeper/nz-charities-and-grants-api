@@ -1,0 +1,27 @@
+{
+  "id": 66230,
+  "registrationNumber": "CC52499",
+  "name": "Competenz Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-08-05T00:00:00Z",
+  "dateDeregistered": "2023-04-13T00:00:00Z",
+  "website": "https://www.competenz.org.nz",
+  "email": "t.obrien@competenz.org.nz",
+  "address": {
+    "line1": "Level 4",
+    "line2": "277 Broadway",
+    "suburb": " Newmarket",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043314041",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-05-01T07:05:58Z"
+}

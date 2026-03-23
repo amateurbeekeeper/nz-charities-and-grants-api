@@ -1,0 +1,27 @@
+{
+  "id": 40503,
+  "registrationNumber": "CC25937",
+  "name": "The R.A.M.S. Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ragavan_alamelu@yahoo.com",
+  "address": {
+    "line1": "3 Coleman Avenue",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429043175963",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-07T01:54:52Z"
+}

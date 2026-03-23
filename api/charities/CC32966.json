@@ -1,0 +1,27 @@
+{
+  "id": 45042,
+  "registrationNumber": "CC32966",
+  "name": "Rai Valley Community Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "renee@rai.school.nz",
+  "address": {
+    "line1": "6700 State Highway 6",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Rai Valley",
+    "postcode": "7194"
+  },
+  "nzbn": "9429043026579",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "rai valley community library",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T22:46:29Z"
+}

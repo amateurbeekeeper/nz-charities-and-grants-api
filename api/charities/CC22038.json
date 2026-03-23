@@ -1,0 +1,27 @@
+{
+  "id": 55356,
+  "registrationNumber": "CC22038",
+  "name": "Age Concern Taupo Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ageconcern.org.nz",
+  "email": "nikki@ageconcerntaupo.org.nz",
+  "address": {
+    "line1": "WAIORA ",
+    "line2": "100 Kaimanawa Street",
+    "suburb": " ",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429042576303",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-22T22:32:16Z"
+}

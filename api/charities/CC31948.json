@@ -1,0 +1,27 @@
+{
+  "id": 56196,
+  "registrationNumber": "CC31948",
+  "name": "Netball Manawatu Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.netballmanawatu.org.nz",
+  "email": "gm@netballmanawatu.org.nz",
+  "address": {
+    "line1": "43 Puriri Terrace",
+    "line2": " ",
+    "suburb": "Roslyn",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429042676171",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T20:37:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65320,
+  "registrationNumber": "CC51543",
+  "name": "Christchurch Bull Breeds Rescue Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.chchbullbreedrescue.org.nz",
+  "email": "admin@chchbullbreedrescue.org.nz",
+  "address": {
+    "line1": "1 Barton Street",
+    "line2": " ",
+    "suburb": "Woolston",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429043272426",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ChristchurchBullBreedRescue",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:27:05Z"
+}

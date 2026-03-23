@@ -1,0 +1,27 @@
+{
+  "id": 61042,
+  "registrationNumber": "CC33373",
+  "name": "Mangere East Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://mangereeastbaptistchurch.business.site/",
+  "email": "arrowdown201@gmail.com",
+  "address": {
+    "line1": "162 Portage Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T01:01:24Z"
+}

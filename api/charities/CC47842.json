@@ -1,0 +1,27 @@
+{
+  "id": 37136,
+  "registrationNumber": "CC47842",
+  "name": "Wairarapa Community Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-06-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wcct.co.nz",
+  "email": "wcctmanager@wcct.co.nz",
+  "address": {
+    "line1": "41 Perry Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429043152063",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "wcct.co.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:48:54Z"
+}

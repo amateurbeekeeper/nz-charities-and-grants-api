@@ -1,0 +1,27 @@
+{
+  "id": 59464,
+  "registrationNumber": "CC27134",
+  "name": "Birthright Wellington",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.birthright.org.nz",
+  "email": "bonnie@birthrightwellington.org.nz",
+  "address": {
+    "line1": "89B Thorndon Quay",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": null
+  },
+  "nzbn": "9429053406958",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/birthrightwellington.org.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T01:16:16Z"
+}

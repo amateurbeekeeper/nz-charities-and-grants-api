@@ -1,0 +1,27 @@
+{
+  "id": 50136,
+  "registrationNumber": "CC43665",
+  "name": "New Lynn Samoan Assembly of God",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "altilapu@gmail.com",
+  "address": {
+    "line1": "7 Matama Road",
+    "line2": " ",
+    "suburb": "Glen Eden",
+    "city": "Auckland",
+    "postcode": "602"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T06:58:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 61058,
+  "registrationNumber": "CC33319",
+  "name": "Milson Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-07-21T00:00:00Z",
+  "website": null,
+  "email": "milson@playcentre.org.nz",
+  "address": {
+    "line1": "1A Seaforth Avenue",
+    "line2": " ",
+    "suburb": "Milson",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T07:11:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64297,
+  "registrationNumber": "CC41137",
+  "name": "North Shore Chess Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://northshorechess.org.nz/",
+  "email": "neilgunn381@gmail.com",
+  "address": {
+    "line1": "Flat 3",
+    "line2": "7 Owens Road",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": "9429042693161",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T22:14:44Z"
+}

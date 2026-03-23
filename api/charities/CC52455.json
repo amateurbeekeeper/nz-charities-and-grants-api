@@ -1,0 +1,27 @@
+{
+  "id": 66186,
+  "registrationNumber": "CC52455",
+  "name": "Pioneer Ministry Trust NZ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-10-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pioneerministry.com",
+  "email": "info@pioneerministry.com",
+  "address": {
+    "line1": "4 Pyne Crescent",
+    "line2": "Pokeno 2402",
+    "suburb": "Rosedale",
+    "city": "Pokeno",
+    "postcode": "2402"
+  },
+  "nzbn": "9429043276844",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T00:26:10Z"
+}

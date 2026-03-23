@@ -1,0 +1,27 @@
+{
+  "id": 68843,
+  "registrationNumber": "CC55181",
+  "name": "Taimahi Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taimahitrust.org.nz",
+  "email": "alison.faithfull@mckay.co.nz",
+  "address": {
+    "line1": "19 Bank Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429046448408",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TaimahiTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T23:14:40Z"
+}

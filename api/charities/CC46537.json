@@ -1,0 +1,27 @@
+{
+  "id": 37070,
+  "registrationNumber": "CC46537",
+  "name": "Wairoa Agricultural & Pastoral Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wairoashow.co.nz",
+  "email": "wairoatreasurer@gmail.com",
+  "address": {
+    "line1": "46 Ruataniwha Road",
+    "line2": "Wairoa 4108",
+    "suburb": " ",
+    "city": "Wairoa",
+    "postcode": "4108"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/wairoashow/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-13T07:36:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66748,
+  "registrationNumber": "CC53021",
+  "name": "The Carpenters Chisel Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-03-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dwyerliz07@gmail.com",
+  "address": {
+    "line1": "1170 Kopuku Road",
+    "line2": "Pukekohe 2340",
+    "suburb": "Kopuku",
+    "city": "Maramarua",
+    "postcode": "2471"
+  },
+  "nzbn": "9429049810479",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The Carpenter's Chisel Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T19:12:04Z"
+}

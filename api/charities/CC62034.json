@@ -1,0 +1,27 @@
+{
+  "id": 75592,
+  "registrationNumber": "CC62034",
+  "name": "UHub Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-10-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "uhub.org.nz",
+  "email": "jo@uhub.org.nz",
+  "address": {
+    "line1": "9 Margaret Mahy Drive",
+    "line2": "RD 1",
+    "suburb": "Blue Mountains",
+    "city": "Upper Hutt",
+    "postcode": "5371"
+  },
+  "nzbn": "9429051556334",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T18:52:40Z"
+}

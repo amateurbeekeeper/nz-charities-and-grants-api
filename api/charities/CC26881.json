@@ -1,0 +1,27 @@
+{
+  "id": 57214,
+  "registrationNumber": "CC26881",
+  "name": "St Ninian's Uniting Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stninians.org.nz",
+  "email": "treasurer.stnup@xtra.co.nz",
+  "address": {
+    "line1": "208 Karori Road",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/stniniansunitingparish",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:38:06Z"
+}

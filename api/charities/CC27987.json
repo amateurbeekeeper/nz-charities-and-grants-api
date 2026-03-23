@@ -1,0 +1,27 @@
+{
+  "id": 55766,
+  "registrationNumber": "CC27987",
+  "name": "Sport Northland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sportnorthland.co.nz",
+  "email": "elsah@sportnorth.co.nz",
+  "address": {
+    "line1": "97 Western Hills Drive",
+    "line2": " ",
+    "suburb": "Kensington",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429042727675",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Sport Northland",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:29:55Z"
+}

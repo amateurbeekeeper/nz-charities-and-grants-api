@@ -1,0 +1,27 @@
+{
+  "id": 50012,
+  "registrationNumber": "CC28235",
+  "name": "Takapau Volunteer Fire Brigade ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@taylormadegates.co.nz",
+  "address": {
+    "line1": "Fire Station",
+    "line2": null,
+    "suburb": " ",
+    "city": "Takapau",
+    "postcode": "4176"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T19:28:00Z"
+}

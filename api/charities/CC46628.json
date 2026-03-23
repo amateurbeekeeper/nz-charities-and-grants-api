@@ -1,0 +1,27 @@
+{
+  "id": 37296,
+  "registrationNumber": "CC46628",
+  "name": "Rachel's House Trust Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rachelshouse.org.nz",
+  "email": "finance@rachelshouse.org.nz",
+  "address": {
+    "line1": "Offices P & Q",
+    "line2": "96 High Street",
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": "9429043094417",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/rachelshousetrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T22:11:43Z"
+}

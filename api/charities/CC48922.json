@@ -1,0 +1,27 @@
+{
+  "id": 37706,
+  "registrationNumber": "CC48922",
+  "name": "Love Your Neighbour Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2013-03-21T00:00:00Z",
+  "dateDeregistered": "2025-03-31T00:00:00Z",
+  "website": "http://www.loveyourneighbour.nz",
+  "email": "howard@loveyourneighbour.nz",
+  "address": {
+    "line1": "126 Point Chevalier Road",
+    "line2": " ",
+    "suburb": "Point Chevalier",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429043190621",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-12T20:59:43Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38853,
+  "registrationNumber": "CC47586",
+  "name": "Toi Toi Charity Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-10-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teacherinthepaddock.co.nz",
+  "email": "kevin@teacherinthepaddock.co.nz",
+  "address": {
+    "line1": "316 Waitao Road",
+    "line2": "RD 5",
+    "suburb": "Waitao",
+    "city": "Tauranga",
+    "postcode": "3175"
+  },
+  "nzbn": "9429030946323",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/teacherinthepaddock",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T03:55:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72951,
+  "registrationNumber": "CC59348",
+  "name": "Petone Rowing Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.petonerowing.club",
+  "email": "clubsecretaryprc@gmail.com",
+  "address": {
+    "line1": "160 The Esplanade",
+    "line2": " ",
+    "suburb": "Petone",
+    "city": "Hutt City",
+    "postcode": "5012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PRCclubofchampions",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T18:17:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 36570,
+  "registrationNumber": "CC47352",
+  "name": "The Department Of Medicine Rotorua Hospital Trust Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-08-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "medicine.trust@lakesdhb.govt.nz",
+  "address": {
+    "line1": "Rotorua Hospital",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T19:22:33Z"
+}

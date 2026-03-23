@@ -1,0 +1,27 @@
+{
+  "id": 65000,
+  "registrationNumber": "CC29606",
+  "name": "Radha Govind Dham Incorporated",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2015-02-15T00:00:00Z",
+  "website": null,
+  "email": "rgdi@xtra.co.nz",
+  "address": {
+    "line1": "22 Barbarich Drive",
+    "line2": null,
+    "suburb": "Stonefields",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042876670",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:52:13Z"
+}

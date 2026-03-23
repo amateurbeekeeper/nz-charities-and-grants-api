@@ -1,0 +1,27 @@
+{
+  "id": 67108,
+  "registrationNumber": "CC53394",
+  "name": "Taradale Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2016-06-10T00:00:00Z",
+  "dateDeregistered": "2025-11-24T00:00:00Z",
+  "website": null,
+  "email": "taradale@playcentre.org.nz",
+  "address": {
+    "line1": "13 Peddie Street",
+    "line2": " ",
+    "suburb": "Taradale",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T06:03:36Z"
+}

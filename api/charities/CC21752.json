@@ -1,0 +1,27 @@
+{
+  "id": 55703,
+  "registrationNumber": "CC21752",
+  "name": "United Maori Mission Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://umm.nz",
+  "email": "adam@psr.nz",
+  "address": {
+    "line1": "10 Burleigh Street",
+    "line2": " ",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042901822",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/events/450059595095504",
+    "twitter": null
+  },
+  "lastUpdated": "2024-07-30T19:13:43Z"
+}

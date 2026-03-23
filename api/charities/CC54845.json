@@ -1,0 +1,27 @@
+{
+  "id": 68510,
+  "registrationNumber": "CC54845",
+  "name": "The Christchurch Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-09-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.christchurchfoundation.org.nz",
+  "email": "lynne.umbers@kuratawhiticcf.org.nz",
+  "address": {
+    "line1": "329 Durham Street North",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429046351524",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "ChristchurchFoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T03:54:49Z"
+}

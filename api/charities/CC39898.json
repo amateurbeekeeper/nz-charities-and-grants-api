@@ -1,0 +1,27 @@
+{
+  "id": 64566,
+  "registrationNumber": "CC39898",
+  "name": "Maori Hill School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.maorihill.school.nz",
+  "email": "Melissajsteel@gmail.com",
+  "address": {
+    "line1": "Maori Hill School",
+    "line2": "9 Passmore Crescent",
+    "suburb": "Maori Hill",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T22:30:39Z"
+}

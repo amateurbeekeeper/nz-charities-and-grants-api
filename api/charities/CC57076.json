@@ -1,0 +1,27 @@
+{
+  "id": 70709,
+  "registrationNumber": "CC57076",
+  "name": "Three Lakes Cultural Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.threelakesculturaltrust.co.nz/",
+  "email": "chair@threelakesculturaltrust.co.nz",
+  "address": {
+    "line1": "C/-Te Atamira",
+    "line2": "Dart House, 12 Hawthorne Drive, Remarkables Park ",
+    "suburb": "Frankton",
+    "city": "Queenstown",
+    "postcode": "9348"
+  },
+  "nzbn": "9429047979970",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Three-Lakes-Cultural-Trust-308393490057253/?modal=admin_todo_tour",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:06:46Z"
+}

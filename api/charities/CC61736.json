@@ -1,0 +1,27 @@
+{
+  "id": 75300,
+  "registrationNumber": "CC61736",
+  "name": "A Dog's Life Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.adogslifetrust.com/",
+  "email": "adogslifetrust@gmail.com",
+  "address": {
+    "line1": "566 Coast Road",
+    "line2": "RD 1",
+    "suburb": "Wainuiomata Coast",
+    "city": "Wainuiomata",
+    "postcode": "5373"
+  },
+  "nzbn": "9429051437886",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "n/a",
+    "twitter": "n/a"
+  },
+  "lastUpdated": "2025-12-10T18:22:57Z"
+}

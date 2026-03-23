@@ -1,0 +1,27 @@
+{
+  "id": 40411,
+  "registrationNumber": "CC23672",
+  "name": "Cancer Research Trust New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://https//www.cancerresearchtrustnz.org.nz",
+  "email": "michelle.sullivan@crtnz.org.nz",
+  "address": {
+    "line1": "34 Montere Avenue",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0601"
+  },
+  "nzbn": "9429042987451",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CancerResearchTrustNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T22:53:25Z"
+}

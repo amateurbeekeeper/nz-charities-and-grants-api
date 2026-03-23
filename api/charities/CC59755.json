@@ -1,0 +1,27 @@
+{
+  "id": 73394,
+  "registrationNumber": "CC59755",
+  "name": "Greater Wellington Neighbourhood Support",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://commbase.nz/join/greaterwellington",
+  "email": "nswellycoordinator@gmail.com",
+  "address": {
+    "line1": "77 South Karori Road",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429049046229",
+  "financialYearEnd": "1/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Neighbourhood Support Wellington",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T00:31:47Z"
+}

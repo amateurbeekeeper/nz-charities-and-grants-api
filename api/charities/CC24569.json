@@ -1,0 +1,27 @@
+{
+  "id": 55724,
+  "registrationNumber": "CC24569",
+  "name": "New Brighton and Districts Museum Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nbmuseum.org.nz",
+  "email": "pegbut@gmail.com",
+  "address": {
+    "line1": "8 Hardy Street",
+    "line2": " ",
+    "suburb": "New Brighton",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429043130290",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "New Brighton Museum",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T04:01:18Z"
+}

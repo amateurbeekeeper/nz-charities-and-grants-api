@@ -1,0 +1,27 @@
+{
+  "id": 66833,
+  "registrationNumber": "CC53106",
+  "name": "The Catholic Parish of Whanganui - Te Parihi Katorika Ki Whanganui",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "msutton@pndiocese.org.nz",
+  "address": {
+    "line1": "1 Campbell Street",
+    "line2": "Whanganui 4500",
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T20:53:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72300,
+  "registrationNumber": "CC58680",
+  "name": "Rhythms of Grace Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rhythmsofgrace.org.nz",
+  "email": "mark@markpierson.org.nz",
+  "address": {
+    "line1": "31A Woodward Road",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429048973892",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/rhythmsofgracenz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:15:27Z"
+}

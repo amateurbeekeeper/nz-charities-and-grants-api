@@ -1,0 +1,27 @@
+{
+  "id": 75502,
+  "registrationNumber": "CC61948",
+  "name": "Hawthorndale Care Village Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-02-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thehawthorndale.co.nz",
+  "email": "christine@thehawthorndale.co.nz",
+  "address": {
+    "line1": "621 Tay Street",
+    "line2": " ",
+    "suburb": "Hawthorndale",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429051109882",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-01-30T22:00:41Z"
+}

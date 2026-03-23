@@ -1,0 +1,27 @@
+{
+  "id": 64176,
+  "registrationNumber": "CC44453",
+  "name": "C3 Church Whitianga",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.c3whitianga.co.nz/",
+  "email": "graham@c3whitianga.co.nz",
+  "address": {
+    "line1": "22 Coghill Street",
+    "line2": "Whitianga 3510",
+    "suburb": " ",
+    "city": "Whitianga",
+    "postcode": "3510"
+  },
+  "nzbn": "9429046833204",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/c3whitianga/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T18:05:41Z"
+}

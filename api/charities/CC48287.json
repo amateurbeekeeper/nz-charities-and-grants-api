@@ -1,0 +1,27 @@
+{
+  "id": 36700,
+  "registrationNumber": "CC48287",
+  "name": "Dwell Housing Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dwell.org.nz",
+  "email": "elizabeth@dwell.org.nz",
+  "address": {
+    "line1": "49 Coutts Street",
+    "line2": " ",
+    "suburb": "Kilbirnie",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429043322893",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dwellhousingtrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-04T22:09:15Z"
+}

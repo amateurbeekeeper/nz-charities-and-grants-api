@@ -1,0 +1,27 @@
+{
+  "id": 49602,
+  "registrationNumber": "CC30246",
+  "name": "Titirangi Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-12T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/CompanyProfile?Action=View&CompanyProfile_id=54",
+  "email": "titirangi@playcentre.org.nz",
+  "address": {
+    "line1": "500 South Titirangi Road",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-26T07:14:57Z"
+}

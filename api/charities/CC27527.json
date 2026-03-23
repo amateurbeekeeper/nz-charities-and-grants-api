@@ -1,0 +1,27 @@
+{
+  "id": 55167,
+  "registrationNumber": "CC27527",
+  "name": "Lauriston Hall Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "creeside@scorch.co.nz",
+  "address": {
+    "line1": "Coleridge Street",
+    "line2": "Lauriston",
+    "suburb": "RD 6",
+    "city": "Ashburton",
+    "postcode": "7776"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:38:06Z"
+}

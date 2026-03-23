@@ -1,0 +1,27 @@
+{
+  "id": 52956,
+  "registrationNumber": "CC21431",
+  "name": "Auckland City Brass Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.aucklandcitybrass.co.nz",
+  "email": "secretary@aucklandcitybrass.co.nz",
+  "address": {
+    "line1": "98 Captain Springs Road",
+    "line2": "65 Bellevue Road",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042585503",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AucklandCityBrassNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T01:27:01Z"
+}

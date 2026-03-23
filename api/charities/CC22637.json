@@ -1,0 +1,27 @@
+{
+  "id": 56206,
+  "registrationNumber": "CC22637",
+  "name": "Foe New Zealand Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-04-07T00:00:00Z",
+  "dateDeregistered": "2016-09-24T00:00:00Z",
+  "website": "http://www.foe.org.nz",
+  "email": "whites@paradise.net.nz",
+  "address": {
+    "line1": "c/- 13 Makererua Street",
+    "line2": null,
+    "suburb": "Ngaio",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429043176816",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-11T22:15:12Z"
+}

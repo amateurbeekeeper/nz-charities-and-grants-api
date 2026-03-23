@@ -1,0 +1,27 @@
+{
+  "id": 70341,
+  "registrationNumber": "CC56703",
+  "name": "Tawhiri Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tawhiri.nz/",
+  "email": "margot.van.de.water@tawhiri.nz",
+  "address": {
+    "line1": "264 Cuba Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429047009028",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T20:41:11Z"
+}

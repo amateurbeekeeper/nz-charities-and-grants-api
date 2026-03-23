@@ -1,0 +1,27 @@
+{
+  "id": 42582,
+  "registrationNumber": "CC26192",
+  "name": "Auckland Hospital Pre-School Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://kidsdomain.co.nz",
+  "email": "btowle@adhb.govt.nz",
+  "address": {
+    "line1": "Building 15, Auckland City Hospital",
+    "line2": " Park Road",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042584162",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-29T20:02:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 59009,
+  "registrationNumber": "CC40253",
+  "name": "New Zealand Indian Central Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzindians.org.nz",
+  "email": "secretary@nzindians.org.nz",
+  "address": {
+    "line1": "135-145 New North Road",
+    "line2": " ",
+    "suburb": "Eden Terrace",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429042677444",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZICA/",
+    "twitter": "https://twitter.com/IndiaNZDiaspora"
+  },
+  "lastUpdated": "2025-08-05T08:38:04Z"
+}

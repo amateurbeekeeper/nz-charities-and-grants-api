@@ -1,0 +1,27 @@
+{
+  "id": 45165,
+  "registrationNumber": "CC41244",
+  "name": "Nelson Christadelphians",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "wayne.dinah@gmail.com",
+  "address": {
+    "line1": "69 Muritai Street",
+    "line2": "Nelson 7010",
+    "suburb": "Tahunanui",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T06:30:43Z"
+}

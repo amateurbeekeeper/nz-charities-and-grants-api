@@ -1,0 +1,27 @@
+{
+  "id": 34022,
+  "registrationNumber": "CC50493",
+  "name": "Christ the Shepherd Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-02-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ctscnz@gmail.com",
+  "address": {
+    "line1": "4B Nock Lane",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ngaruawahia",
+    "postcode": "3720"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cscnewzealand/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T23:27:24Z"
+}

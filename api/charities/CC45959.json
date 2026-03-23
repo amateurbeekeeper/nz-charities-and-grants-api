@@ -1,0 +1,27 @@
+{
+  "id": 38317,
+  "registrationNumber": "CC45959",
+  "name": "Saint Pauls Lutheran Church Wellington",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-12-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dapreston@xtra.co.nz",
+  "address": {
+    "line1": "12 King Street",
+    "line2": " ",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:18:18Z"
+}

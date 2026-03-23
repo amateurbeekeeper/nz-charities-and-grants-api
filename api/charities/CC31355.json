@@ -1,0 +1,27 @@
+{
+  "id": 48332,
+  "registrationNumber": "CC31355",
+  "name": "Putahi Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jessica@tarrantcotter.co.nz",
+  "address": {
+    "line1": "609 Frasertown Road",
+    "line2": "RD 6",
+    "suburb": " ",
+    "city": "Wairoa",
+    "postcode": "4196"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T19:36:04Z"
+}

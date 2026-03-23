@@ -1,0 +1,27 @@
+{
+  "id": 49645,
+  "registrationNumber": "CC28485",
+  "name": "Kohukohu Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ann.stones@fireandemergency.nz",
+  "address": {
+    "line1": "24 Beach Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kohukohu",
+    "postcode": "0491"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T10:27:34Z"
+}

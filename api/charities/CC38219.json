@@ -1,0 +1,27 @@
+{
+  "id": 48544,
+  "registrationNumber": "CC38219",
+  "name": "Waitaria Bay Community Library",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2019-07-03T00:00:00Z",
+  "dateDeregistered": "2018-09-05T00:00:00Z",
+  "website": null,
+  "email": "graeme.clarke@xtra.co.nz",
+  "address": {
+    "line1": "C/- Waitaria Bay School",
+    "line2": "Waitaria Bay, Kenepuru Sound",
+    "suburb": " ",
+    "city": "Pelorus Sound",
+    "postcode": "7282"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T23:48:21Z"
+}

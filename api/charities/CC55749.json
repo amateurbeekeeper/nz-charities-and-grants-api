@@ -1,0 +1,27 @@
+{
+  "id": 69394,
+  "registrationNumber": "CC55749",
+  "name": "Hāpai Te Hapori",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@tehapori.com",
+  "address": {
+    "line1": "18 Eccleston Hill",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429046793492",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T21:32:44Z"
+}

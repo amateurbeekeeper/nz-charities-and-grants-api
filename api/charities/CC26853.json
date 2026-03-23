@@ -1,0 +1,27 @@
+{
+  "id": 54738,
+  "registrationNumber": "CC26853",
+  "name": "Picton Elim Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2015-09-28T00:00:00Z",
+  "website": null,
+  "email": "pictonelim@xtra.co.nz",
+  "address": {
+    "line1": "8A Huia Street",
+    "line2": null,
+    "suburb": "Waikawa",
+    "city": "Picton",
+    "postcode": "7220"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-03-26T22:37:22Z"
+}

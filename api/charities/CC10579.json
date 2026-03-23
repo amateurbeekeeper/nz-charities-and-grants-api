@@ -1,0 +1,27 @@
+{
+  "id": 51863,
+  "registrationNumber": "CC10579",
+  "name": "Omnibus Society Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.omnibus.org.nz",
+  "email": "lachlan.rendall@gmail.com",
+  "address": {
+    "line1": "5 Rosebank Grove",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waikanae",
+    "postcode": "5036"
+  },
+  "nzbn": "9429042797746",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook/omnbus society NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T19:39:15Z"
+}

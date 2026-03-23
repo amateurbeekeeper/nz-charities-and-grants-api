@@ -1,0 +1,27 @@
+{
+  "id": 53879,
+  "registrationNumber": "CC22874",
+  "name": "Greenacres Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.greenacreswaiheke.co.nz",
+  "email": "sylvia@greenacreswaiheke.co.nz",
+  "address": {
+    "line1": "1 Fisher Road",
+    "line2": "RD 1",
+    "suburb": null,
+    "city": "Waiheke Island",
+    "postcode": "1971"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-02T01:14:45Z"
+}

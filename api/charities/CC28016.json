@@ -1,0 +1,27 @@
+{
+  "id": 60225,
+  "registrationNumber": "CC28016",
+  "name": "La Famia Foundation NZ",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2015-06-01T00:00:00Z",
+  "website": "http://www.lafamia.com",
+  "email": "harmon@lafamia.com",
+  "address": {
+    "line1": "14 Henry Wigram Drive",
+    "line2": null,
+    "suburb": "Wigram",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429043056743",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-02-14T00:00:53Z"
+}

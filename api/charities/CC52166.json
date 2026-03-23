@@ -1,0 +1,27 @@
+{
+  "id": 65904,
+  "registrationNumber": "CC52166",
+  "name": "Ohakune Primary School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ohakuneprimaryschool.co.nz",
+  "email": "principal@ohakune.school.nz",
+  "address": {
+    "line1": "52 Arawa Street",
+    "line2": "Ohakune Primary School",
+    "suburb": " ",
+    "city": "Ohakune",
+    "postcode": "4625"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-10T20:02:04Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54942,
+  "registrationNumber": "CC21567",
+  "name": "The Auckland Performing Arts Centre At Western Springs Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tapac.org.nz",
+  "email": "executivedirector@tapac.org.nz",
+  "address": {
+    "line1": "100 Motions Road",
+    "line2": " ",
+    "suburb": "Western Springs",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429042948827",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T22:14:57Z"
+}

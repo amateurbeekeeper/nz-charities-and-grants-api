@@ -1,0 +1,27 @@
+{
+  "id": 73134,
+  "registrationNumber": "CC59532",
+  "name": "Welcome Academy Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hero.modares@gmail.com",
+  "address": {
+    "line1": "18 Mariposa Crescent",
+    "line2": " ",
+    "suburb": "Aidanfield",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429049530902",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:30:57Z"
+}

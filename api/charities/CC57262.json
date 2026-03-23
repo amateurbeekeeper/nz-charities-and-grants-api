@@ -1,0 +1,27 @@
+{
+  "id": 70890,
+  "registrationNumber": "CC57262",
+  "name": "Take2 Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.take2nz.org",
+  "email": "cameron@take2nz.org",
+  "address": {
+    "line1": "282B St Heliers Bay Road",
+    "line2": " ",
+    "suburb": "St Heliers",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429047589810",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T22:11:13Z"
+}

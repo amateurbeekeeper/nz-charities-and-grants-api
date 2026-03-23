@@ -1,0 +1,27 @@
+{
+  "id": 75202,
+  "registrationNumber": "CC61718",
+  "name": "Invercargill Rowing Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.invercargillrowingclub.org.nz",
+  "email": "secretary@invercargillrowingclub.org.nz",
+  "address": {
+    "line1": "89 Sandy Point Road",
+    "line2": "Oreti Beach 9879",
+    "suburb": " ",
+    "city": "Oreti Beach",
+    "postcode": "9879"
+  },
+  "nzbn": "9429042637677",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/InvercargillRowingClub/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T04:22:06Z"
+}

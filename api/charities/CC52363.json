@@ -1,0 +1,27 @@
+{
+  "id": 66095,
+  "registrationNumber": "CC52363",
+  "name": "Kiwanis Club of Te Awamutu Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://kiwanis.org.nz",
+  "email": "dave@kiwanis.org.nz",
+  "address": {
+    "line1": "PO Box 19119",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3244"
+  },
+  "nzbn": "9429042653561",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T01:34:12Z"
+}

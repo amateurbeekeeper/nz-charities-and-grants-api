@@ -1,0 +1,27 @@
+{
+  "id": 62893,
+  "registrationNumber": "CC38088",
+  "name": "Kerikeri High School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "smanning@kerikerihigh.ac.nz",
+  "address": {
+    "line1": "48 Hone Heke Road",
+    "line2": "Kerikeri 0230",
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "0230"
+  },
+  "nzbn": "0000000000000",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T02:21:27Z"
+}

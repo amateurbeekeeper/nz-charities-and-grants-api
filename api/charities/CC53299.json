@@ -1,0 +1,27 @@
+{
+  "id": 67019,
+  "registrationNumber": "CC53299",
+  "name": "Rawhiti PTA Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2023-08-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rawhitipta.org.nz",
+  "email": "frew.bk@gmail.com",
+  "address": {
+    "line1": "150 Leaver Terrace",
+    "line2": " ",
+    "suburb": "North New Brighton",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429043299348",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RawhitiPTAEvents/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:06:58Z"
+}

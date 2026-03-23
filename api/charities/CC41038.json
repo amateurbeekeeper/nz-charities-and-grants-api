@@ -1,0 +1,27 @@
+{
+  "id": 60705,
+  "registrationNumber": "CC41038",
+  "name": "Otago Tramping and Mountaineering Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.otmc.co.nz",
+  "email": "otmcnz@gmail.com",
+  "address": {
+    "line1": "3 Young Street",
+    "line2": " ",
+    "suburb": "Saint Kilda",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042796794",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/otmcnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:29:00Z"
+}

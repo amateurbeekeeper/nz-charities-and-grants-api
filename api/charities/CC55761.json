@@ -1,0 +1,27 @@
+{
+  "id": 69414,
+  "registrationNumber": "CC55761",
+  "name": "The Aspen Institute New Zealand Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aspeninstitute.org.nz",
+  "email": "info@aspeninstitute.org.nz",
+  "address": {
+    "line1": "7 Coronation Drive",
+    "line2": "Queenstown 9300",
+    "suburb": "Dalefield",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429046842176",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "@NZAspen"
+  },
+  "lastUpdated": "2025-11-26T22:21:44Z"
+}

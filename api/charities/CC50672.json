@@ -1,0 +1,27 @@
+{
+  "id": 34093,
+  "registrationNumber": "CC50672",
+  "name": "Te Aranga Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-03-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pipwest@xtra.co.nz",
+  "address": {
+    "line1": "PO Box 15046",
+    "line2": " ",
+    "suburb": "Flaxmere",
+    "city": "Hastings",
+    "postcode": "4154"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T01:27:38Z"
+}

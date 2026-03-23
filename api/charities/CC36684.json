@@ -1,0 +1,27 @@
+{
+  "id": 47371,
+  "registrationNumber": "CC36684",
+  "name": "New Zealand USAR Search Dog Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.usardogs.org.nz",
+  "email": "nzusardogs@outlook.com",
+  "address": {
+    "line1": "7 Lambies Street",
+    "line2": null,
+    "suburb": "Marshland",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429043131242",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T22:26:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 61476,
+  "registrationNumber": "CC35631",
+  "name": "Roslyn Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.roslynbaptistchurch.org.nz",
+  "email": "Chris@roslynbaptistchurch.org.nz",
+  "address": {
+    "line1": "63 Hanover Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-06T19:20:40Z"
+}

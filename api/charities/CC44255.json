@@ -1,0 +1,27 @@
+{
+  "id": 50485,
+  "registrationNumber": "CC44255",
+  "name": "Tennis Otago Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://clubspark.kiwi/TennisOtago",
+  "email": "michaela@tennisotago.org",
+  "address": {
+    "line1": "33 Logan Park Drive",
+    "line2": "Dunedin North",
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042796732",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/p/Tennis-Otago-Inc-61579243604065/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T19:16:32Z"
+}

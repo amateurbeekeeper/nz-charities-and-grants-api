@@ -1,0 +1,27 @@
+{
+  "id": 55049,
+  "registrationNumber": "CC33291",
+  "name": "Cambridge Elim Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cambridge.elim.org.nz/",
+  "email": "jeff@elimcambridge.org.nz",
+  "address": {
+    "line1": "8 Wordsworth Street",
+    "line2": " ",
+    "suburb": "Leamington",
+    "city": "Cambridge",
+    "postcode": "3432"
+  },
+  "nzbn": "9429042948018",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:03Z"
+}

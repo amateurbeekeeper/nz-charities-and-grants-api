@@ -1,0 +1,27 @@
+{
+  "id": 49719,
+  "registrationNumber": "CC31498",
+  "name": "Friends Of Lyall Bay School",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "michelle@squirrel.co.nz",
+  "address": {
+    "line1": "2 Freyberg Street",
+    "line2": " ",
+    "suburb": "Lyall Bay",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "friends@lyallbay.school.nz",
+    "twitter": "Friends of Lyall Bay School"
+  },
+  "lastUpdated": "2025-06-15T20:09:50Z"
+}

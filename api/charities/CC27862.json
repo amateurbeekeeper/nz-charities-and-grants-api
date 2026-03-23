@@ -1,0 +1,27 @@
+{
+  "id": 41383,
+  "registrationNumber": "CC27862",
+  "name": "Kadampa Meditation Centre Wellington Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.meditateinwellington.org",
+  "email": "admin@meditateinwellington.org",
+  "address": {
+    "line1": "2 Ardross Avenue",
+    "line2": " ",
+    "suburb": "Khandallah",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429043017119",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/MeditateInWellington",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T21:10:09Z"
+}

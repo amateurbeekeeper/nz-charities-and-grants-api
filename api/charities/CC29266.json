@@ -1,0 +1,27 @@
+{
+  "id": 64967,
+  "registrationNumber": "CC29266",
+  "name": "Dunedin Night Shelter Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dunedinnightshelter.co.nz",
+  "email": "treasurer@dunedinnightshelter.co.nz",
+  "address": {
+    "line1": "18 Lees Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043118656",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Dunedin Night Shelter",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:38:44Z"
+}

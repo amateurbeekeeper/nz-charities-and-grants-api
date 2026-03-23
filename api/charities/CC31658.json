@@ -1,0 +1,27 @@
+{
+  "id": 49721,
+  "registrationNumber": "CC31658",
+  "name": "Lifechurch (NZ) Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lifechurch.co.nz",
+  "email": "accounts@lifechurch.co.nz",
+  "address": {
+    "line1": "24-26 Maich Road",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": "9429043234820",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T03:35:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69448,
+  "registrationNumber": "CC55799",
+  "name": "Capital Kiwi Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.capitalkiwi.co.nz",
+  "email": "paul@capitalkiwi.co.nz",
+  "address": {
+    "line1": "25 Owen Street",
+    "line2": " ",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429046926555",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/capitalkiwi/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T19:37:07Z"
+}

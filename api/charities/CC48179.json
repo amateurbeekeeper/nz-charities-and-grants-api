@@ -1,0 +1,27 @@
+{
+  "id": 37830,
+  "registrationNumber": "CC48179",
+  "name": "RESPONSE Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-04-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.response.org.nz",
+  "email": "betsan@response.org.nz",
+  "address": {
+    "line1": "28 Bolton Street",
+    "line2": " ",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-18T19:46:11Z"
+}

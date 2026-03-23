@@ -1,0 +1,27 @@
+{
+  "id": 78534,
+  "registrationNumber": "CC64350",
+  "name": "The Sarah Lillas Rehabilitation Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jenna@neuroconnect.nz",
+  "address": {
+    "line1": "74 Sandwich Road",
+    "line2": null,
+    "suburb": "Saint Andrews",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T01:49:59Z"
+}

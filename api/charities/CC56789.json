@@ -1,0 +1,27 @@
+{
+  "id": 70427,
+  "registrationNumber": "CC56789",
+  "name": "Marlborough Multiple Sclerosis Society Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mmss@xtra.co.nz",
+  "address": {
+    "line1": "25 Alfred Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429042757108",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T23:14:18Z"
+}

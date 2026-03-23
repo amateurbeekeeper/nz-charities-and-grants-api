@@ -1,0 +1,27 @@
+{
+  "id": 73294,
+  "registrationNumber": "CC59747",
+  "name": "National Zakat Foundation New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzfnz.org.nz",
+  "email": "ishrar.mohammed@nzfnz.org.nz",
+  "address": {
+    "line1": "32 Skelligs Drive",
+    "line2": " ",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": "9429050031696",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZFnewzealand/",
+    "twitter": "@nz_NZF"
+  },
+  "lastUpdated": "2025-11-02T20:26:11Z"
+}

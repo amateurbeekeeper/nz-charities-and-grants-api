@@ -1,0 +1,27 @@
+{
+  "id": 73935,
+  "registrationNumber": "CC60346",
+  "name": "Invercargill Hockey Association",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.facebook.com/invercargillhockey/",
+  "email": "invercargillhockey@gmail.com",
+  "address": {
+    "line1": "33 Camden Street",
+    "line2": " ",
+    "suburb": "Turnbull Thomson Park",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042728368",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Invercargill Hockey Association",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T01:41:27Z"
+}

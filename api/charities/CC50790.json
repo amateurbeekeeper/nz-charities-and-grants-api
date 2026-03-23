@@ -1,0 +1,27 @@
+{
+  "id": 33854,
+  "registrationNumber": "CC50790",
+  "name": "Cromwell Bowling Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-07-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cromwellbowls.org.nz",
+  "email": "wendy.van@xtra.co.nz",
+  "address": {
+    "line1": "50 Alpha Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cromwell",
+    "postcode": "9310"
+  },
+  "nzbn": "9429042669609",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T02:07:58Z"
+}

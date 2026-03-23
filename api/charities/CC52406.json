@@ -1,0 +1,27 @@
+{
+  "id": 66139,
+  "registrationNumber": "CC52406",
+  "name": "Teaching Council of Aotearoa New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teachingcouncil.nz",
+  "email": "kerrian.mcghie@teachingcouncil.nz",
+  "address": {
+    "line1": "7 Waterloo Quay",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429051599867",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T01:59:09Z"
+}

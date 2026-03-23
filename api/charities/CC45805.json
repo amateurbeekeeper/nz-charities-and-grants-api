@@ -1,0 +1,27 @@
+{
+  "id": 38148,
+  "registrationNumber": "CC45805",
+  "name": "The Cat Help Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-12-01T00:00:00Z",
+  "dateDeregistered": "2020-07-31T00:00:00Z",
+  "website": "www.cathelp.org.nz",
+  "email": "karena.brown@etu.nz",
+  "address": {
+    "line1": "100 Barbour Street",
+    "line2": " ",
+    "suburb": "Waltham",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/Cat-Help-Charitable-Trust-163822433664442/",
+    "twitter": null
+  },
+  "lastUpdated": "2020-08-19T23:23:42Z"
+}

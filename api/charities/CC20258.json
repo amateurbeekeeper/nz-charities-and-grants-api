@@ -1,0 +1,27 @@
+{
+  "id": 51151,
+  "registrationNumber": "CC20258",
+  "name": "Levin Christian Care Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.livingwellcounselling.co.nz",
+  "email": "secretarylcctrust@gmail.com",
+  "address": {
+    "line1": "29 Queen Street West",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": "9429042659853",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/p/Living-Well-Counselling-Centre-100054335625661/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T02:44:28Z"
+}

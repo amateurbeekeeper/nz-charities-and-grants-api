@@ -1,0 +1,27 @@
+{
+  "id": 70577,
+  "registrationNumber": "CC56941",
+  "name": "Aspire - Community Support",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aspire.org.nz",
+  "email": "charmaine.nel@aspire.org.nz",
+  "address": {
+    "line1": "103 Tawa Street",
+    "line2": " ",
+    "suburb": "Melville",
+    "city": "Hamilton",
+    "postcode": "3206"
+  },
+  "nzbn": "9429047450769",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aspire.community.support/ ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:04:02Z"
+}

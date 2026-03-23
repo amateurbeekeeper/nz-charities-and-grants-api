@@ -1,0 +1,27 @@
+{
+  "id": 68181,
+  "registrationNumber": "CC54504",
+  "name": "The Letter of Christ Presbyterian Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jshong91@gmail.com",
+  "address": {
+    "line1": "17 Kalingo Street",
+    "line2": null,
+    "suburb": "Waitangirua",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429046069214",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Theletterofchrist/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:45:43Z"
+}

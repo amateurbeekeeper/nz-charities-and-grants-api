@@ -1,0 +1,27 @@
+{
+  "id": 66928,
+  "registrationNumber": "CC53212",
+  "name": "Opawaho Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-04-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "emma@opawa.org.nz",
+  "address": {
+    "line1": "285 Wilsons Road South",
+    "line2": " ",
+    "suburb": "Waltham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429047495517",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-27T01:15:11Z"
+}

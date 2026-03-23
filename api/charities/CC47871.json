@@ -1,0 +1,27 @@
+{
+  "id": 36891,
+  "registrationNumber": "CC47871",
+  "name": "Halcombe Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2012-07-09T00:00:00Z",
+  "dateDeregistered": "2025-09-18T00:00:00Z",
+  "website": null,
+  "email": "halcombe@playcentre.org.nz",
+  "address": {
+    "line1": "77 Willoughby Street",
+    "line2": "RD 9",
+    "suburb": "Halcombe",
+    "city": "Feilding",
+    "postcode": "4779"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100057489999303",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T02:36:40Z"
+}

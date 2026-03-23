@@ -1,0 +1,27 @@
+{
+  "id": 65528,
+  "registrationNumber": "CC51767",
+  "name": "Health4kids",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-05-13T00:00:00Z",
+  "dateDeregistered": "2024-09-23T00:00:00Z",
+  "website": "https://www.health4kidstrust.org",
+  "email": "modupe@health4kidstrust.org",
+  "address": {
+    "line1": "Unit 2",
+    "line2": "91 Ferndale Road",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/Health4kidstrust.org",
+    "twitter": null
+  },
+  "lastUpdated": "2024-09-23T07:14:44Z"
+}

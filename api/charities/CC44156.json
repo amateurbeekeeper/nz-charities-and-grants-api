@@ -1,0 +1,27 @@
+{
+  "id": 64133,
+  "registrationNumber": "CC44156",
+  "name": "The Bledisloe-Royston Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "blindlowvision.org.nz",
+  "email": "ghurn@blindlowvision.org.nz",
+  "address": {
+    "line1": "539 Parnell Road",
+    "line2": "4 Maunsell Road",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429043213283",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T21:12:08Z"
+}

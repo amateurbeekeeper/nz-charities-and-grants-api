@@ -1,0 +1,27 @@
+{
+  "id": 51895,
+  "registrationNumber": "CC21280",
+  "name": "Hastings Art and Culture Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ediblefashionawards.co.nz",
+  "email": "martin@mfbl.nz",
+  "address": {
+    "line1": "306 Eastbourne Street East",
+    "line2": "Hastings 4122",
+    "suburb": "Pakipaki",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429042715573",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ediblefashionawards/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T00:31:20Z"
+}

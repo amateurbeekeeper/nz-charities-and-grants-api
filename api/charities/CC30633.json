@@ -1,0 +1,27 @@
+{
+  "id": 48802,
+  "registrationNumber": "CC30633",
+  "name": "Rotary Club Of Howick Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.howickrotary.org.nz",
+  "email": "rob.mary@xtra.co.nz",
+  "address": {
+    "line1": "34 Morrow Avenue",
+    "line2": "Howick",
+    "suburb": "Bucklands Beach",
+    "city": "Auckland",
+    "postcode": "2012"
+  },
+  "nzbn": "9429043092222",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T21:53:20Z"
+}

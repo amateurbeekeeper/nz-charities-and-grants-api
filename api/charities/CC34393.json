@@ -1,0 +1,27 @@
+{
+  "id": 45422,
+  "registrationNumber": "CC34393",
+  "name": "Methven Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-31T00:00:00Z",
+  "website": "www.playcentre.org.nz/centre/methven",
+  "email": "methven@playcentre.org.nz",
+  "address": {
+    "line1": "Corner South Belt And Main Streets",
+    "line2": null,
+    "suburb": " ",
+    "city": "Methven",
+    "postcode": "7730"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/Methven.Playcentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T06:04:07Z"
+}

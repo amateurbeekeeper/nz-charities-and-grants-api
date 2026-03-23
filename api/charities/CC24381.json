@@ -1,0 +1,27 @@
+{
+  "id": 42155,
+  "registrationNumber": "CC24381",
+  "name": "The National Network of Marist Schools",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https:/ /www.sm.org.nz/about/youth-and-education/network-of-marist-schools/",
+  "email": "skelsen@stbedes.school.nz",
+  "address": {
+    "line1": "410 Jervois Street",
+    "line2": " ",
+    "suburb": "Mayfair",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429043160747",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-28T19:05:25Z"
+}

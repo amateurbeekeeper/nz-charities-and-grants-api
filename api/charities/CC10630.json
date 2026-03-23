@@ -1,0 +1,27 @@
+{
+  "id": 51870,
+  "registrationNumber": "CC10630",
+  "name": "Citizens Advice Bureau Levin",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cab.org.nz",
+  "email": "levin@cab.org.nz",
+  "address": {
+    "line1": "87 Oxford Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": "9429042659860",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T18:49:35Z"
+}

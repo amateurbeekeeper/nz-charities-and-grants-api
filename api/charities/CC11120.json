@@ -1,0 +1,27 @@
+{
+  "id": 52857,
+  "registrationNumber": "CC11120",
+  "name": "The Healthcare Otago Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul.moodie@findex.co.nz",
+  "address": {
+    "line1": "BB&S, Level 1, Westpac Building",
+    "line2": "106 George Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042779056",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T20:08:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53414,
+  "registrationNumber": "CC20683",
+  "name": "Faith Baptist Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.faithbaptist.org.nz",
+  "email": "pjmackinnon@gmail.com",
+  "address": {
+    "line1": "96 Greenslade Crescent",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429042623793",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/faithbaptistchurchnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:03:26Z"
+}

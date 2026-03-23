@@ -1,0 +1,27 @@
+{
+  "id": 65611,
+  "registrationNumber": "CC51860",
+  "name": "First Presbyterian Church Invercargill",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.firstchurch.org.nz",
+  "email": "njblackmore@kinect.co.nz",
+  "address": {
+    "line1": "155 Tay Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:45:25Z"
+}

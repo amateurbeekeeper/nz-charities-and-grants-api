@@ -1,0 +1,27 @@
+{
+  "id": 74505,
+  "registrationNumber": "CC60926",
+  "name": "Waipori Goldfields Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-01-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waiporigold.org.nz",
+  "email": "secretary@waiporigold.org.nz",
+  "address": {
+    "line1": "29 Highland Crescent",
+    "line2": " ",
+    "suburb": "Wadestown",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429051005399",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/groups/waiporigold",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T04:27:21Z"
+}

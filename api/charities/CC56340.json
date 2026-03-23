@@ -1,0 +1,27 @@
+{
+  "id": 69985,
+  "registrationNumber": "CC56340",
+  "name": "Living Word Fellowship",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "toutshala@hotmail.com",
+  "address": {
+    "line1": "20 Lochinver Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T17:56:11Z"
+}

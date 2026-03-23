@@ -1,0 +1,27 @@
+{
+  "id": 68126,
+  "registrationNumber": "CC54452",
+  "name": "Stonefields Collaborative Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://sct.nz",
+  "email": "exec@sct.nz",
+  "address": {
+    "line1": "81 Tihi Street",
+    "line2": " ",
+    "suburb": "Stonefields",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429043331109",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "@sscollaborative"
+  },
+  "lastUpdated": "2026-01-31T22:40:00Z"
+}

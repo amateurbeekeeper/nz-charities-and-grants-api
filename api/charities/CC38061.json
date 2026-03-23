@@ -1,0 +1,27 @@
+{
+  "id": 43071,
+  "registrationNumber": "CC38061",
+  "name": "Murchison Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "murchisongolf@hotmail.com",
+  "address": {
+    "line1": "13 Grey Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Murchison",
+    "postcode": "7007"
+  },
+  "nzbn": "9429042764939",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-30T18:58:03Z"
+}

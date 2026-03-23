@@ -1,0 +1,27 @@
+{
+  "id": 69470,
+  "registrationNumber": "CC55822",
+  "name": "The Incredible Journey Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.theincrediblejourney.tv/",
+  "email": "infonz@tij.tv",
+  "address": {
+    "line1": "17 Mull Place",
+    "line2": "Manukau City",
+    "suburb": "Wattle Downs",
+    "city": "Auckland",
+    "postcode": "2103"
+  },
+  "nzbn": "9429046444790",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/TheIncredibleJourneyMinistry/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-24T21:33:54Z"
+}

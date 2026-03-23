@@ -1,0 +1,27 @@
+{
+  "id": 77866,
+  "registrationNumber": "CC63665",
+  "name": "Te Puna Whakaoranga",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-08-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "malfalloon@icloud.com",
+  "address": {
+    "line1": "4 Whakahui Lane",
+    "line2": " ",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429050497188",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T04:56:25Z"
+}

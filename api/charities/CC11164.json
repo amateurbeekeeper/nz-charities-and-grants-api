@@ -1,0 +1,27 @@
+{
+  "id": 52903,
+  "registrationNumber": "CC11164",
+  "name": "Silc Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lisa.knowles@silc.co.nz",
+  "address": {
+    "line1": "97 Eleventh Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429035496403",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T23:55:48Z"
+}

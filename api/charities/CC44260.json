@@ -1,0 +1,27 @@
+{
+  "id": 64111,
+  "registrationNumber": "CC44260",
+  "name": "I Am Hope Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.iamhope.org.nz/",
+  "email": "anita@iamhope.org.nz",
+  "address": {
+    "line1": "PO Box 10271",
+    "line2": "Dominion Road",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1446"
+  },
+  "nzbn": "9429043191130",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/iamhopenz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T19:58:16Z"
+}

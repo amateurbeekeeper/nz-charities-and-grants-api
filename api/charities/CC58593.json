@@ -1,0 +1,27 @@
+{
+  "id": 72207,
+  "registrationNumber": "CC58593",
+  "name": "Migrants Aotearoa",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2020-12-15T00:00:00Z",
+  "dateDeregistered": "2022-05-16T00:00:00Z",
+  "website": "https://migrantsaotearoa.org.nz",
+  "email": "info@migrantsaotearoa.org.nz",
+  "address": {
+    "line1": "Flat 6",
+    "line2": "107 Majoribanks Street",
+    "suburb": "Mount Victoria",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-06-02T22:28:50Z"
+}

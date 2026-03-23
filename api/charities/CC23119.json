@@ -1,0 +1,27 @@
+{
+  "id": 40818,
+  "registrationNumber": "CC23119",
+  "name": "Carisbrook Bible Chapel",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "communitychaplainkatikati@gmail.com",
+  "address": {
+    "line1": "Carisbrook Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Katikati",
+    "postcode": "3063"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T23:49:58Z"
+}

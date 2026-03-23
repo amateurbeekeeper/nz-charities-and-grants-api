@@ -1,0 +1,27 @@
+{
+  "id": 65576,
+  "registrationNumber": "CC51816",
+  "name": "Drury Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dpc.org.nz",
+  "email": "ccaldwell@xtra.co.nz",
+  "address": {
+    "line1": "38 Norrie Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Drury",
+    "postcode": "2113"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100064406333259",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:59Z"
+}

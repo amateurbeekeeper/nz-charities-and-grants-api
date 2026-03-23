@@ -1,0 +1,27 @@
+{
+  "id": 67113,
+  "registrationNumber": "CC53395",
+  "name": "Waitara Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-06-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "brian@taranakidic.org.nz",
+  "address": {
+    "line1": "64 Mouatt Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waitara",
+    "postcode": "4320"
+  },
+  "nzbn": "9429042909408",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waitara Golf Club ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-11T19:40:30Z"
+}

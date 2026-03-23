@@ -1,0 +1,27 @@
+{
+  "id": 76867,
+  "registrationNumber": "CC62947",
+  "name": "Poutu Pasifika",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-12-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "s.yandall@helpauckland.org.nz",
+  "address": {
+    "line1": "713 Dominion Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429052471599",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T22:21:33Z"
+}

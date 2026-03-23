@@ -1,0 +1,27 @@
+{
+  "id": 64130,
+  "registrationNumber": "CC44503",
+  "name": "Organic Farm New Zealand Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2010-06-22T00:00:00Z",
+  "dateDeregistered": "2025-02-25T00:00:00Z",
+  "website": "http://www.organicfarm.org.nz",
+  "email": "ofarmnz@gmail.com",
+  "address": {
+    "line1": "PO Box 162",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waihi",
+    "postcode": "3641"
+  },
+  "nzbn": "9429043102860",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-07T07:09:31Z"
+}

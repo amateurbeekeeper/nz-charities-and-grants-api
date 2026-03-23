@@ -1,0 +1,27 @@
+{
+  "id": 73048,
+  "registrationNumber": "CC59436",
+  "name": "Auckland Pride Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://aucklandpride.org.nz",
+  "email": "hamiora@aucklandpride.org.nz",
+  "address": {
+    "line1": "281 Karangahape Road",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043280476",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AucklandPride/",
+    "twitter": "https://twitter.com/aucklandpride"
+  },
+  "lastUpdated": "2026-01-09T01:01:55Z"
+}

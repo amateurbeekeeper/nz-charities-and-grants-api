@@ -1,0 +1,27 @@
+{
+  "id": 44669,
+  "registrationNumber": "CC41444",
+  "name": "Thorrington School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thorrington.ac.nz",
+  "email": "natasha.gillison@gmail.com",
+  "address": {
+    "line1": "Thorrington School",
+    "line2": "22A Colombo Street",
+    "suburb": "Cashmere",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T19:54:56Z"
+}

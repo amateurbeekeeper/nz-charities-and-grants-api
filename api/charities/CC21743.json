@@ -1,0 +1,27 @@
+{
+  "id": 56122,
+  "registrationNumber": "CC21743",
+  "name": "Te Roopu Taurima o Manukau Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.terooputaurima.org.nz",
+  "email": "john.stribrny@terooputaurima.org.nz",
+  "address": {
+    "line1": "650 Great South Road",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042825739",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T18:05:58Z"
+}

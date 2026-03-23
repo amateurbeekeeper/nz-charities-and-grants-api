@@ -1,0 +1,27 @@
+{
+  "id": 61654,
+  "registrationNumber": "CC29555",
+  "name": "Johnsonville Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "warren.field@fireandemergency.nz",
+  "address": {
+    "line1": "13-15 Lower Burgess Road",
+    "line2": " ",
+    "suburb": "Johnsonville",
+    "city": "Wellington",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T19:43:17Z"
+}

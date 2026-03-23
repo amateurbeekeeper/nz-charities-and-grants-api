@@ -1,0 +1,27 @@
+{
+  "id": 56475,
+  "registrationNumber": "CC21844",
+  "name": "Barnardos New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.barnardos.org.nz",
+  "email": "james.fulton@barnardos.org.nz",
+  "address": {
+    "line1": "14 Blair Street",
+    "line2": "181 Vivian Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429041901403",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "fb.com/BarnardosNZ",
+    "twitter": "Barnardos NZ@BarnardosNZ"
+  },
+  "lastUpdated": "2026-02-22T21:50:34Z"
+}

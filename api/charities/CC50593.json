@@ -1,0 +1,27 @@
+{
+  "id": 34341,
+  "registrationNumber": "CC50593",
+  "name": "C3 Church Queenstown Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "andrew@thefound.nz",
+  "address": {
+    "line1": "PO Box 2066",
+    "line2": "Wakatipu",
+    "suburb": "Frankton",
+    "city": "Queenstown",
+    "postcode": "9349"
+  },
+  "nzbn": "9429043274598",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T02:49:21Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51212,
+  "registrationNumber": "CC10144",
+  "name": "Alzheimers Society Manawatū Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-04-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.alzheimersmanawatu.org",
+  "email": "manawatu@alz-man.org.nz",
+  "address": {
+    "line1": "642 Featherston Street",
+    "line2": " ",
+    "suburb": "Roslyn",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429042574118",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/alzheimersmanawatu",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:20:28Z"
+}

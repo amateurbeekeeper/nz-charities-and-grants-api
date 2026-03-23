@@ -1,0 +1,27 @@
+{
+  "id": 74023,
+  "registrationNumber": "CC60440",
+  "name": "Festival Opera Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.festivalopera.co.nz ",
+  "email": "shelley@findingvoices.org",
+  "address": {
+    "line1": "49 Tennyson Street",
+    "line2": " ",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429040639093",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/festivaloperanz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:10:17Z"
+}

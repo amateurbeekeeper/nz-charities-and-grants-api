@@ -1,0 +1,27 @@
+{
+  "id": 42171,
+  "registrationNumber": "CC25182",
+  "name": "Rudolf Steiner Early Childhood Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://waikatowaldorf.school.nz/kindergarten/",
+  "email": "eceprincipal@waikatowaldorf.school.nz",
+  "address": {
+    "line1": "85 Barrington Drive",
+    "line2": " ",
+    "suburb": "Huntington",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429043036820",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T19:18:11Z"
+}

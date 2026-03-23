@@ -1,0 +1,27 @@
+{
+  "id": 53417,
+  "registrationNumber": "CC20961",
+  "name": "Greek Orthodox Community of Wellington Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.greek.org.nz",
+  "email": "accounts@greek.org.nz",
+  "address": {
+    "line1": "Level 3, Greek Community House",
+    "line2": "5 Hania Street",
+    "suburb": "Mount Victoria",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042634966",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GREEKCOMMUNITY.WN/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T20:13:33Z"
+}

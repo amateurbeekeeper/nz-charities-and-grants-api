@@ -1,0 +1,27 @@
+{
+  "id": 43221,
+  "registrationNumber": "CC38497",
+  "name": "NZ Al-Anon General Services",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.al-anon.org.nz",
+  "email": "office@al-anon.org.nz",
+  "address": {
+    "line1": "2ND FLOOR   WESLEY BICENTENARY HALL",
+    "line2": "78 Pitt Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429052554056",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:15:21Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55417,
+  "registrationNumber": "CC23728",
+  "name": "Hannah Playhouse Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "murrayclynch@me.com",
+  "address": {
+    "line1": "Level 1, 2-12 Allen Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042635321",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-02T19:32:13Z"
+}

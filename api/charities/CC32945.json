@@ -1,0 +1,27 @@
+{
+  "id": 44826,
+  "registrationNumber": "CC32945",
+  "name": "Tomahawk-Smaills Beachcare Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "beachcare@zoho.com",
+  "address": {
+    "line1": "470 Tomahawk Road",
+    "line2": "South Dunedin",
+    "suburb": "Ocean Grove",
+    "city": "Dunedin",
+    "postcode": "9077"
+  },
+  "nzbn": "9429043128709",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/TSBCT",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T23:55:56Z"
+}

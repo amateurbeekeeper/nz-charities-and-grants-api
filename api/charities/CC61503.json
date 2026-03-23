@@ -1,0 +1,27 @@
+{
+  "id": 75073,
+  "registrationNumber": "CC61503",
+  "name": "PIPS INCORPORATED",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pipsbop.org",
+  "email": "admin@pipsbop.org",
+  "address": {
+    "line1": "17A The Green",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429046139665",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "PIPS - People, Plants in Schools",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-26T20:07:09Z"
+}

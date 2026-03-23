@@ -1,0 +1,27 @@
+{
+  "id": 49725,
+  "registrationNumber": "CC31329",
+  "name": "Waitaki District Health Services Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "anicholls@waitaki.govt.nz",
+  "address": {
+    "line1": "20 Thames Street",
+    "line2": "Oamaru 9400",
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429043086207",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T00:57:59Z"
+}

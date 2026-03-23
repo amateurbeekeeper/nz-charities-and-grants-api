@@ -1,0 +1,27 @@
+{
+  "id": 52188,
+  "registrationNumber": "CC11073",
+  "name": "St Patrick's College Wellington Board of Proprietors",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stpats.school.nz",
+  "email": "karen.page@stpats.school.nz",
+  "address": {
+    "line1": "581 Evans Bay Parade",
+    "line2": " ",
+    "suburb": "Kilbirnie",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429042829447",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:32:54Z"
+}

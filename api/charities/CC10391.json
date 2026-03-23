@@ -1,0 +1,27 @@
+{
+  "id": 51578,
+  "registrationNumber": "CC10391",
+  "name": "ODENZ Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.outdoorednz.co.nz",
+  "email": "darren.mark@findex.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "15 Bridge Street",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429036383016",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T23:11:24Z"
+}

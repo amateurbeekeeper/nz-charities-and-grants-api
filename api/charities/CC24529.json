@@ -1,0 +1,27 @@
+{
+  "id": 42098,
+  "registrationNumber": "CC24529",
+  "name": "Yedarm Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "goingintotheworld@gmail.com",
+  "address": {
+    "line1": "11 Hastings Road",
+    "line2": " ",
+    "suburb": "Mairangi Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429043160693",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T18:12:34Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50499,
+  "registrationNumber": "CC44284",
+  "name": "New Zealand Songwriters Trust Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.countrymusichonours.co.nz/",
+  "email": "vanessa.harvey95@gmail.com",
+  "address": {
+    "line1": "15 Hokonui Drive",
+    "line2": "Gore 9710",
+    "suburb": " ",
+    "city": "Gore",
+    "postcode": "9710"
+  },
+  "nzbn": "9429052084324",
+  "financialYearEnd": "1/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CountryMusicHonours",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-31T00:51:18Z"
+}

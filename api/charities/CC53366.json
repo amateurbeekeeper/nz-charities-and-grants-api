@@ -1,0 +1,27 @@
+{
+  "id": 67080,
+  "registrationNumber": "CC53366",
+  "name": "Gribblehirst Community Hub Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ghub.nz",
+  "email": "treasurer@ghub.nz",
+  "address": {
+    "line1": "5 Cabbage Tree Swamp Drive",
+    "line2": " ",
+    "suburb": "Sandringham",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429043298112",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GribblehirstCommunityHub/",
+    "twitter": "@ghub.nz"
+  },
+  "lastUpdated": "2025-08-17T02:17:24Z"
+}

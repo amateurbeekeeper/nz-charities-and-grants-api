@@ -1,0 +1,27 @@
+{
+  "id": 38964,
+  "registrationNumber": "CC24207",
+  "name": "Hearing Association (Wellington) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hearwell.co.nz",
+  "email": "hearwell01@xtra.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "50 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043024513",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T02:56:44Z"
+}

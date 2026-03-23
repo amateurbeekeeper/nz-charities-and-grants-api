@@ -1,0 +1,27 @@
+{
+  "id": 44128,
+  "registrationNumber": "CC32500",
+  "name": "Manukau Taniwha BMX Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.taniwhabmx.nz",
+  "email": "eo@bmxnewzealand.co.nz",
+  "address": {
+    "line1": "Colin Dale Park",
+    "line2": "87R Prices Road",
+    "suburb": "Wiri",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429042821281",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-14T00:43:52Z"
+}

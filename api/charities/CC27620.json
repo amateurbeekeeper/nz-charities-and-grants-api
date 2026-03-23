@@ -1,0 +1,27 @@
+{
+  "id": 44653,
+  "registrationNumber": "CC27620",
+  "name": "The Lions Club of Tirau Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tirau.treasurer@lionsclubs.org.nz",
+  "address": {
+    "line1": "4 Rose Street",
+    "line2": "Tirau 3410",
+    "suburb": "Tīrau",
+    "city": "Tirau",
+    "postcode": "3410"
+  },
+  "nzbn": "9429043166305",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://facebook.com/Tiraulions",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-12T19:09:09Z"
+}

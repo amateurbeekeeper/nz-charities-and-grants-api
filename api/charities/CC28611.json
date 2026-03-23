@@ -1,0 +1,27 @@
+{
+  "id": 43924,
+  "registrationNumber": "CC28611",
+  "name": "Diamond Harbour Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "thomas.clark@fireandemergency.nz",
+  "address": {
+    "line1": "89 Marine Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Diamond Harbour",
+    "postcode": "8971"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-10T21:13:37Z"
+}

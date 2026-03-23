@@ -1,0 +1,27 @@
+{
+  "id": 69001,
+  "registrationNumber": "CC55346",
+  "name": "Safe Man Safe Family Charitable Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-12-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.safemansafefamily.org.nz",
+  "email": "melissa@smsf.org.nz",
+  "address": {
+    "line1": "141 Queens Road",
+    "line2": "9 Freeman Way",
+    "suburb": "Panmure",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429043215782",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/safemansafefamilynz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T21:44:29Z"
+}

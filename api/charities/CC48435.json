@@ -1,0 +1,27 @@
+{
+  "id": 38032,
+  "registrationNumber": "CC48435",
+  "name": "Auckland Anglican Insurance Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-03-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mnickalls@trustmanagement.co.nz",
+  "address": {
+    "line1": "LEVEL 1",
+    "line2": "105 Carlton Gore Road",
+    "suburb": "Newmarket",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:38Z"
+}

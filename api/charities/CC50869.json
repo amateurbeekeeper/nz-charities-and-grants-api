@@ -1,0 +1,27 @@
+{
+  "id": 34464,
+  "registrationNumber": "CC50869",
+  "name": "Social Socks Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.socialsocks.co.nz",
+  "email": "lesley@socialsocks.co.nz",
+  "address": {
+    "line1": "37 Park Road",
+    "line2": " ",
+    "suburb": "West End",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429043264896",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T23:51:20Z"
+}

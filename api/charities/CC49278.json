@@ -1,0 +1,27 @@
+{
+  "id": 33100,
+  "registrationNumber": "CC49278",
+  "name": "Craigieburn Valley Ski Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.craigieburn.co.nz",
+  "email": "nick@leech.co.nz",
+  "address": {
+    "line1": "State Highway 73",
+    "line2": "Cass",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": null
+  },
+  "nzbn": "9429042666905",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T00:46:46Z"
+}

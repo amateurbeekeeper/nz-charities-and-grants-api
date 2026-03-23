@@ -1,0 +1,27 @@
+{
+  "id": 50151,
+  "registrationNumber": "CC43874",
+  "name": "Te Puke Squash Rackets Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sporty.co.nz/tepukesquash",
+  "email": "squashtepuke@gmail.com",
+  "address": {
+    "line1": "Landscape Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Puke",
+    "postcode": "3119"
+  },
+  "nzbn": "9429042866831",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/squashtepuke",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T23:12:37Z"
+}

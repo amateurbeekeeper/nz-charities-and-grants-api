@@ -1,0 +1,27 @@
+{
+  "id": 73581,
+  "registrationNumber": "CC59975",
+  "name": "Around the Mountains Cycle Trail Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://aroundthemountains.co.nz",
+  "email": "tnwills@slingshot.co.nz",
+  "address": {
+    "line1": "15 Forth Street",
+    "line2": "Invercargill 9810",
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429050204441",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@aroundthemountains",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:45:13Z"
+}

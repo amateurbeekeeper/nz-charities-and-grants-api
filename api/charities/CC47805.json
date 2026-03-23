@@ -1,0 +1,27 @@
+{
+  "id": 38011,
+  "registrationNumber": "CC47805",
+  "name": "The Australian and New Zealand College of Organists (NZ Branch)",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2012-03-08T00:00:00Z",
+  "dateDeregistered": "2023-10-11T00:00:00Z",
+  "website": "http://www.anzco.org",
+  "email": "michael@michaelstoddart.org",
+  "address": {
+    "line1": "27 Gerard Way",
+    "line2": null,
+    "suburb": "Saint Johns",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/anzco",
+    "twitter": null
+  },
+  "lastUpdated": "2023-10-11T01:54:21Z"
+}

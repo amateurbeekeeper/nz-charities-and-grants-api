@@ -1,0 +1,27 @@
+{
+  "id": 61256,
+  "registrationNumber": "CC38511",
+  "name": "Resource Management Law Association of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rmla.org.nz",
+  "email": "michelle.behrens@rmla.org.nz",
+  "address": {
+    "line1": "25 Autumn Avenue",
+    "line2": " ",
+    "suburb": "Glen Eden",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": "9429042736189",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T23:00:24Z"
+}

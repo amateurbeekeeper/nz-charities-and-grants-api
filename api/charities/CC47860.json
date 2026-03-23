@@ -1,0 +1,27 @@
+{
+  "id": 38493,
+  "registrationNumber": "CC47860",
+  "name": "New Zealand Antarctic Research Institute",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2012-05-17T00:00:00Z",
+  "dateDeregistered": "2021-06-23T00:00:00Z",
+  "website": "http://nzari.aq/",
+  "email": "p.smith@antarcticanz.govt.nz",
+  "address": {
+    "line1": "38 Orchard Road",
+    "line2": " ",
+    "suburb": "Christchurch Airport",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429043236299",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-11-29T01:41:53Z"
+}

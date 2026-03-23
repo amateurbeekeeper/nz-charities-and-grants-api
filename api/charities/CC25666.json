@@ -1,0 +1,27 @@
+{
+  "id": 42156,
+  "registrationNumber": "CC25666",
+  "name": "Pine Valley Outdoor Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pvoc.co.nz",
+  "email": "admin@pvoc.co.nz",
+  "address": {
+    "line1": "45 Pine Valley Road",
+    "line2": "RD 5",
+    "suburb": "North Bank",
+    "city": "Blenheim",
+    "postcode": "7275"
+  },
+  "nzbn": "9429042933106",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PVOCMarlborough",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:38:03Z"
+}

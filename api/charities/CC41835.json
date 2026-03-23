@@ -1,0 +1,27 @@
+{
+  "id": 61634,
+  "registrationNumber": "CC41835",
+  "name": "Levin Music Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pamb@gible.net",
+  "address": {
+    "line1": "22 Cornwall Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T21:02:32Z"
+}

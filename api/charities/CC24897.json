@@ -1,0 +1,27 @@
+{
+  "id": 56696,
+  "registrationNumber": "CC24897",
+  "name": "Age Concern Mid North Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "juend@acmn.org.nz",
+  "address": {
+    "line1": "123 Hone Heke Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "230"
+  },
+  "nzbn": "9429042576204",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Age Concern Mid North Inc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T22:13:15Z"
+}

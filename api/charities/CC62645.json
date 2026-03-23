@@ -1,0 +1,27 @@
+{
+  "id": 76300,
+  "registrationNumber": "CC62645",
+  "name": "Active Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "healthcaresecretariat@schl.co.nz",
+  "address": {
+    "line1": "Level 14, ANZ Centre",
+    "line2": "23-29 Albert Street",
+    "suburb": "Auckland City",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429030160972",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-12T02:49:12Z"
+}

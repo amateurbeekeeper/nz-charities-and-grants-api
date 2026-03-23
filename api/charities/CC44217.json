@@ -1,0 +1,27 @@
+{
+  "id": 64184,
+  "registrationNumber": "CC44217",
+  "name": "Pukaki Maori Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pukakimarae.co.nz",
+  "email": "puukakimaraecommittee@gmail.com",
+  "address": {
+    "line1": "161A Pukaki Road",
+    "line2": "Mangere",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429042806387",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T00:45:08Z"
+}

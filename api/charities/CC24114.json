@@ -1,0 +1,27 @@
+{
+  "id": 39569,
+  "registrationNumber": "CC24114",
+  "name": "New Zealand Korean Choong-hyun Presbyterian Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzchoonghyun.com",
+  "email": "drwoosungkim@gmail.com",
+  "address": {
+    "line1": "7",
+    "line2": "79 Ellice Road",
+    "suburb": "Wairau Valley",
+    "city": "Auckland",
+    "postcode": "629"
+  },
+  "nzbn": "9429043027408",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T23:06:05Z"
+}

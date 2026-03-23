@@ -1,0 +1,27 @@
+{
+  "id": 58922,
+  "registrationNumber": "CC30296",
+  "name": "Kerikeri Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.kerikeribaptist.nz",
+  "email": "office.kkbc@gmail.com",
+  "address": {
+    "line1": "41 Hobson Avenue",
+    "line2": "Kerikeri",
+    "suburb": " ",
+    "city": "Northland",
+    "postcode": "0245"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kbcnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-02T19:35:16Z"
+}

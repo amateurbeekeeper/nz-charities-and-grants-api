@@ -1,0 +1,27 @@
+{
+  "id": 40492,
+  "registrationNumber": "CC24026",
+  "name": "Northcross Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.northcross.org.nz",
+  "email": "sandra@northcross.org.nz",
+  "address": {
+    "line1": "826A East Coast Road",
+    "line2": " ",
+    "suburb": "Oteha",
+    "city": "Auckland",
+    "postcode": "630"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-17T01:17:44Z"
+}

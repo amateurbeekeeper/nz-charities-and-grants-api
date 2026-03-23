@@ -1,0 +1,27 @@
+{
+  "id": 38873,
+  "registrationNumber": "CC47456",
+  "name": "Legacy Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-10-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://legacy.net.nz/",
+  "email": "stevec@legacy.net.nz",
+  "address": {
+    "line1": "86-92 Highbury Avenue",
+    "line2": " ",
+    "suburb": "Highbury",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429043047871",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/legacycommunitycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-29T22:58:34Z"
+}

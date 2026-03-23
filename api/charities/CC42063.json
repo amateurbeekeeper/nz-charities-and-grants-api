@@ -1,0 +1,27 @@
+{
+  "id": 64636,
+  "registrationNumber": "CC42063",
+  "name": "Canterbury Refugee Resettlement and Resource Centre Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cantyrefugeecentre.org",
+  "email": "director@cantyrefugeecentre.org",
+  "address": {
+    "line1": "39 Nursery Road",
+    "line2": " ",
+    "suburb": "Phillipstown ",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043039005",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/canterburyrefugeecouncil",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:32:09Z"
+}

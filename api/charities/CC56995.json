@@ -1,0 +1,27 @@
+{
+  "id": 70627,
+  "registrationNumber": "CC56995",
+  "name": "Balclutha Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-07-15T00:00:00Z",
+  "dateDeregistered": "2025-11-06T00:00:00Z",
+  "website": "www.playcentre.org.nz",
+  "email": "balclutha@playcentre.org.nz",
+  "address": {
+    "line1": "35 Lowestoft Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Balclutha",
+    "postcode": "9230"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/balcluthaplaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T06:04:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51413,
+  "registrationNumber": "CC10248",
+  "name": "Deaf Aotearoa New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.deaf.org.nz",
+  "email": "Hello@deaf.org.nz",
+  "address": {
+    "line1": "Level 9",
+    "line2": "342 Lambton Quay",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042670445",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/deafaotearoanz",
+    "twitter": "https://twitter.com/Deaf_Aotearoa?s=20"
+  },
+  "lastUpdated": "2026-02-04T00:25:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 36423,
+  "registrationNumber": "CC46359",
+  "name": "Sonshine Independent Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-03-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sonshinebaptist.org.nz",
+  "email": "lewishowell@xtra.co.nz",
+  "address": {
+    "line1": "41 Waiewe Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429048108713",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/SonshineIndependentBaptistChurch/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T03:18:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 32624,
+  "registrationNumber": "CC48335",
+  "name": "Highland Home Christian Camp",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2012-07-10T00:00:00Z",
+  "dateDeregistered": "2025-12-15T00:00:00Z",
+  "website": "https://www.highlandhome.co.nz",
+  "email": "brigid.iversen@pkfr.co.nz",
+  "address": {
+    "line1": "1352 Pohangina Valley East Road",
+    "line2": "RD 14",
+    "suburb": "Pohangina",
+    "city": "Ashhurst",
+    "postcode": "4884"
+  },
+  "nzbn": "9429042640134",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Highland-Home-Christian-Camp-390423934396578/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-29T06:03:32Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63891,
+  "registrationNumber": "CC38971",
+  "name": "Waitakere Regional Hockey Turf Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sporty.co.nz/waitkaerehockeyturf",
+  "email": "hockey@sportwaitakere.nz",
+  "address": {
+    "line1": "545 Don Buck Road",
+    "line2": " ",
+    "suburb": "Westgate",
+    "city": "Auckland",
+    "postcode": "0614"
+  },
+  "nzbn": "9429043185733",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:40:30Z"
+}

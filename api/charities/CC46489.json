@@ -1,0 +1,27 @@
+{
+  "id": 36400,
+  "registrationNumber": "CC46489",
+  "name": "The GT Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "taryn@thelawcompany.co.nz",
+  "address": {
+    "line1": "60 Miramar Avenue",
+    "line2": "9 Lydia Way",
+    "suburb": "Miramar",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T23:14:14Z"
+}

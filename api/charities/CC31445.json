@@ -1,0 +1,27 @@
+{
+  "id": 39375,
+  "registrationNumber": "CC31445",
+  "name": "Diocese of Nelson (The Anglican Church in Aotearoa, New Zealand and Polynesia)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://nelsonanglican.nz",
+  "email": "Ed@nelsonanglican.nz",
+  "address": {
+    "line1": "48 Halifax Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T22:24:22Z"
+}

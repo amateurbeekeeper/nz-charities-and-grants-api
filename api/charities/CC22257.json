@@ -1,0 +1,27 @@
+{
+  "id": 39578,
+  "registrationNumber": "CC22257",
+  "name": "C3 Church North Shore",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.belongchurch.org.nz",
+  "email": "adam@belongchurch.org.nz",
+  "address": {
+    "line1": "16b Poland Road",
+    "line2": " ",
+    "suburb": "Wairau Valley",
+    "city": "Auckland",
+    "postcode": "627"
+  },
+  "nzbn": "9429043060887",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T20:43:06Z"
+}

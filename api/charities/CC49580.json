@@ -1,0 +1,27 @@
+{
+  "id": 35396,
+  "registrationNumber": "CC49580",
+  "name": "IT'S ACCESSIBLE",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2013-08-05T00:00:00Z",
+  "dateDeregistered": "2025-08-30T00:00:00Z",
+  "website": "https://www.itsaccessible.net.nz",
+  "email": "info@itsaccessible.net.nz",
+  "address": {
+    "line1": "26 Coburg Street",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "612"
+  },
+  "nzbn": "9429043255610",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/itsaccessible/",
+    "twitter": "https://twitter.com/itsaccessible1"
+  },
+  "lastUpdated": "2025-09-08T07:15:12Z"
+}

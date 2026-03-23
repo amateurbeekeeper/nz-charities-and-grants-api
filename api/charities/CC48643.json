@@ -1,0 +1,27 @@
+{
+  "id": 33043,
+  "registrationNumber": "CC48643",
+  "name": "Futurecaster Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "steve@bbt.co.nz",
+  "address": {
+    "line1": "Flat 31",
+    "line2": "11 The Avenue",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043320004",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:57:02Z"
+}

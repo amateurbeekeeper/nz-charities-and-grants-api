@@ -1,0 +1,27 @@
+{
+  "id": 65845,
+  "registrationNumber": "CC52104",
+  "name": "Revival Fellowship - Wellington Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.therevivalfellowship.com",
+  "email": "ebramao@gmail.com",
+  "address": {
+    "line1": "313 Waiwhetu Road",
+    "line2": " ",
+    "suburb": "Fairfield",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429043280117",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WellingtonRevivalFellowship/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:57:16Z"
+}

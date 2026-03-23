@@ -1,0 +1,27 @@
+{
+  "id": 46846,
+  "registrationNumber": "CC41592",
+  "name": "Olympia Gymnastic Sports Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.olympia.org.nz",
+  "email": "finance@olympia.org.nz",
+  "address": {
+    "line1": "Cnr Springs Road & Corsair Drive",
+    "line2": "Wigram",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429042986768",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/117922617146/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T23:56:13Z"
+}

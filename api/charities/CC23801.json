@@ -1,0 +1,27 @@
+{
+  "id": 40067,
+  "registrationNumber": "CC23801",
+  "name": "Hamilton East Community Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": "2011-02-27T00:00:00Z",
+  "website": "http://www.hect.org.nz",
+  "email": "msouthgates@gmail.com",
+  "address": {
+    "line1": "1 Brookfield Street",
+    "line2": null,
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429043036448",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-03-03T02:48:27Z"
+}

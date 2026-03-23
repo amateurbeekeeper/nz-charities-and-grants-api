@@ -1,0 +1,27 @@
+{
+  "id": 62162,
+  "registrationNumber": "CC40973",
+  "name": "Whakapapa Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "neil.ranford@fireandemergency.nz",
+  "address": {
+    "line1": "Bruce Rd, ",
+    "line2": "Tongariro National Park 3989",
+    "suburb": " ",
+    "city": "Tongariro National Park",
+    "postcode": "3989"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T07:29:29Z"
+}

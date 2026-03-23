@@ -1,0 +1,27 @@
+{
+  "id": 33248,
+  "registrationNumber": "CC48880",
+  "name": "Rangatira Marae",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kureiknight@gmail.com",
+  "address": {
+    "line1": "66 Rangatira Road",
+    "line2": "Te Karaka 4022",
+    "suburb": " ",
+    "city": "Te Karaka",
+    "postcode": "4022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Rangatira Marae",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:12Z"
+}

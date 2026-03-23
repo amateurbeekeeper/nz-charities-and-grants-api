@@ -1,0 +1,27 @@
+{
+  "id": 69940,
+  "registrationNumber": "CC56296",
+  "name": "Bay of Islands Animal Rescue Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://bayofislandsanimalrescue.org.nz/",
+  "email": "contact@boianimalrescue.org.nz",
+  "address": {
+    "line1": "52 Gillies Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kawakawa",
+    "postcode": "0210"
+  },
+  "nzbn": "9429046943477",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/b.o.ianimalrescue/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T21:17:34Z"
+}

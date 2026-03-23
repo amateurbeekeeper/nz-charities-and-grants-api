@@ -1,0 +1,27 @@
+{
+  "id": 40639,
+  "registrationNumber": "CC23043",
+  "name": "Northern Lifeguard Services Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "michael.buck@xtra.co.nz",
+  "address": {
+    "line1": "C/O  SLSNR",
+    "line2": "3 Solent Street",
+    "suburb": "Mechanics Bay",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042691716",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:28:37Z"
+}

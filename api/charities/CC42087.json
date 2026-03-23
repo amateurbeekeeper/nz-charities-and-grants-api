@@ -1,0 +1,27 @@
+{
+  "id": 63456,
+  "registrationNumber": "CC42087",
+  "name": "Eastern Bay of Plenty Community Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ebcf.nz",
+  "email": "support@ebcf.nz",
+  "address": {
+    "line1": "15 George Street",
+    "line2": "Whakatane 3120",
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429051966591",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "easternbaycommunityfoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T01:20:50Z"
+}

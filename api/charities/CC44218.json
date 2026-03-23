@@ -1,0 +1,27 @@
+{
+  "id": 64149,
+  "registrationNumber": "CC44218",
+  "name": "The New Zealand Football Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://footballfoundation.org.nz/",
+  "email": "tarryn.mckenzie@nzfootball.co.nz",
+  "address": {
+    "line1": "C/- New Zealand Football",
+    "line2": "Stadium Drive",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043207541",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T06:48:15Z"
+}

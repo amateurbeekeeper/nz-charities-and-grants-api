@@ -1,0 +1,27 @@
+{
+  "id": 50563,
+  "registrationNumber": "CC44800",
+  "name": "Te Ngai Tuahuriri Runanga Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-08-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wearetuahiwi.co.nz",
+  "email": "tuahiwi.marae@ngaitahu.iwi.nz",
+  "address": {
+    "line1": "219 Tuahiwi Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Kaiapoi",
+    "postcode": "7691"
+  },
+  "nzbn": "9429042865100",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T23:29:06Z"
+}

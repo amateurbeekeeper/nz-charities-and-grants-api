@@ -1,0 +1,27 @@
+{
+  "id": 47084,
+  "registrationNumber": "CC43492",
+  "name": "Well Women Franklin Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wellwomen.org.nz/",
+  "email": "kateb@wellwomen.org.nz",
+  "address": {
+    "line1": "7 Paerata Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429043215300",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wellwomentrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T02:18:43Z"
+}

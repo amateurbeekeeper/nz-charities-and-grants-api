@@ -1,0 +1,27 @@
+{
+  "id": 53810,
+  "registrationNumber": "CC41050",
+  "name": "Carers New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.carers.net.nz",
+  "email": "info@carers.net.nz",
+  "address": {
+    "line1": "3 Vinegar Lane",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429042944454",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/carersnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T19:06:08Z"
+}

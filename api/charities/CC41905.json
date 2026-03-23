@@ -1,0 +1,27 @@
+{
+  "id": 46851,
+  "registrationNumber": "CC41905",
+  "name": "Kapiti BMX Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-08-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sporty.co.nz/kapitibmx",
+  "email": "kapitibmxclub@gmail.com",
+  "address": {
+    "line1": "46 Panorama Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429043047901",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kapitibmxclub/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-27T19:40:27Z"
+}

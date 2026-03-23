@@ -1,0 +1,27 @@
+{
+  "id": 60869,
+  "registrationNumber": "CC28708",
+  "name": "The Keir Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "andrea.vujnovich@aut.ac.nz",
+  "address": {
+    "line1": "35-55 Wellesley Street East",
+    "line2": "Level 4 1 Albert Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042985525",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T00:43:28Z"
+}

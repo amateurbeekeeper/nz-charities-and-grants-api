@@ -1,0 +1,27 @@
+{
+  "id": 65003,
+  "registrationNumber": "CC29339",
+  "name": "York Street Chapel",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mikealdridge@xtra.co.nz",
+  "address": {
+    "line1": "17 York Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:16:19Z"
+}

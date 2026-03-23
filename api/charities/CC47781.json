@@ -1,0 +1,27 @@
+{
+  "id": 37260,
+  "registrationNumber": "CC47781",
+  "name": "Greytown Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ian.harrison2@fireandemergency.nz",
+  "address": {
+    "line1": "54 Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greytown",
+    "postcode": "5712"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-11T19:40:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34141,
+  "registrationNumber": "CC50745",
+  "name": "Alexandra Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2023-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.alexandragolf.co.nz",
+  "email": "alexandragolf@xtra.co.nz",
+  "address": {
+    "line1": "State Highway 8",
+    "line2": null,
+    "suburb": " ",
+    "city": "Alexandra",
+    "postcode": "9340"
+  },
+  "nzbn": "9429042575931",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Alexandra-Golf-Club-1555793168073197/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T02:48:58Z"
+}

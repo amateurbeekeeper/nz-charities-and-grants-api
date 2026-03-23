@@ -1,0 +1,27 @@
+{
+  "id": 45157,
+  "registrationNumber": "CC42361",
+  "name": "Victoria Cruising Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.victoriacruisingclub.nz",
+  "email": "richardstevens@xtra.co.nz",
+  "address": {
+    "line1": "2 Gill Avenue",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429042897422",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T23:12:43Z"
+}

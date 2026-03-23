@@ -1,0 +1,27 @@
+{
+  "id": 47200,
+  "registrationNumber": "CC44474",
+  "name": "Fledgling Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ctbarnett@xtra.co.nz",
+  "address": {
+    "line1": "34 Mays Street",
+    "line2": " ",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T18:51:54Z"
+}

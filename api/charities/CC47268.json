@@ -1,0 +1,27 @@
+{
+  "id": 38445,
+  "registrationNumber": "CC47268",
+  "name": "CSD New Zealand Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2011-08-22T00:00:00Z",
+  "dateDeregistered": "2019-07-31T00:00:00Z",
+  "website": "https://www.csd.org",
+  "email": "jason@hlb.co.nz",
+  "address": {
+    "line1": "C/O HLB MANN JUDD LTD",
+    "line2": "Level 6 57 Symonds Street",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429031109277",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "communication service for the deaf inc",
+    "twitter": "@thisiscsd"
+  },
+  "lastUpdated": "2021-12-22T20:57:43Z"
+}

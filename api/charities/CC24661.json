@@ -1,0 +1,27 @@
+{
+  "id": 41925,
+  "registrationNumber": "CC24661",
+  "name": "Dunedin City Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dcbc.co.nz",
+  "email": "katie.waller@dcbc.co.nz",
+  "address": {
+    "line1": "19 Main South Road",
+    "line2": " ",
+    "suburb": "Concord",
+    "city": "Dunedin",
+    "postcode": "9018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T21:08:18Z"
+}

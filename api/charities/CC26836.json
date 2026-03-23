@@ -1,0 +1,27 @@
+{
+  "id": 40096,
+  "registrationNumber": "CC26836",
+  "name": "Age Concern Wellington Region Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2024-06-30T00:00:00Z",
+  "website": "https://www.acwellington.org.nz",
+  "email": "ceo@acwellington.org.nz",
+  "address": {
+    "line1": "ANVIL HOUSE",
+    "line2": "138 Wakefield Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042576365",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/Age-Concern-Wellington-610852502625415/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T04:24:29Z"
+}

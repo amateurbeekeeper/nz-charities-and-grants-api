@@ -1,0 +1,27 @@
+{
+  "id": 48241,
+  "registrationNumber": "CC39185",
+  "name": "Deaf Children New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2019-08-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.deafchildren.org.nz",
+  "email": "willa@deafchildren.org.nz",
+  "address": {
+    "line1": "121 Pratts Road",
+    "line2": "RD 3",
+    "suburb": "Ramarama",
+    "city": "Drury",
+    "postcode": "2579"
+  },
+  "nzbn": "9429042680628",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzfdc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T03:24:41Z"
+}

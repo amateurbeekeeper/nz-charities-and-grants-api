@@ -1,0 +1,27 @@
+{
+  "id": 64844,
+  "registrationNumber": "CC38020",
+  "name": "Mangatepopo Camp Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.mangatepopo.co.nz",
+  "email": "nathaniel@assetcommunications.co.nz",
+  "address": {
+    "line1": "State Highway 47",
+    "line2": " ",
+    "suburb": "Tongariro",
+    "city": "Tongariro",
+    "postcode": "3989"
+  },
+  "nzbn": "9429042758143",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mangatepopocamp/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-16T05:56:17Z"
+}

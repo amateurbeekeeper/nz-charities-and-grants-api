@@ -1,0 +1,27 @@
+{
+  "id": 70891,
+  "registrationNumber": "CC57260",
+  "name": "Whale Watch Holdings Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whalewatch.co.nz/",
+  "email": "wiremu@whalewatch.co.nz",
+  "address": {
+    "line1": "Whaleway Station Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaikoura",
+    "postcode": "7300"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WhaleWatchKaikoura/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T20:18:19Z"
+}

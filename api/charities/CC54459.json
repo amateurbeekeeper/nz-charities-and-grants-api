@@ -1,0 +1,27 @@
+{
+  "id": 68134,
+  "registrationNumber": "CC54459",
+  "name": "Glendene Community Society Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.glendenecommunity.org.nz",
+  "email": "info@glendenecommunity.org.nz",
+  "address": {
+    "line1": "82 Hepburn Road",
+    "line2": " ",
+    "suburb": "Glendene",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": "9429043283934",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GlendeneCommunity/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T21:34:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51141,
+  "registrationNumber": "CC20256",
+  "name": "The Lake House Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lakehousearts.org.nz",
+  "email": "manager@lakehousearts.org.nz",
+  "address": {
+    "line1": "37 Fred Thomas Drive",
+    "line2": " ",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "622"
+  },
+  "nzbn": "9429042853718",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LakeHouseArtsCentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T04:43:48Z"
+}

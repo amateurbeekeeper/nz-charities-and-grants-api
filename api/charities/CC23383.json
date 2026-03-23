@@ -1,0 +1,27 @@
+{
+  "id": 55071,
+  "registrationNumber": "CC23383",
+  "name": "Seniornet Mac Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.seniormac.org.nz",
+  "email": "secretary@seniormac.org.nz",
+  "address": {
+    "line1": "1049 Colombo Street",
+    "line2": " ",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429043069170",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T21:05:05Z"
+}

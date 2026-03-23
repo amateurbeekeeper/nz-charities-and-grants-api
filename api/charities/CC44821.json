@@ -1,0 +1,27 @@
+{
+  "id": 35605,
+  "registrationNumber": "CC44821",
+  "name": "Otaahuhu Marae",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-08-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "taahuhumarae@gmail.com",
+  "address": {
+    "line1": "24 Taraketi Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Hunterville",
+    "postcode": "4787"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-16T19:08:10Z"
+}

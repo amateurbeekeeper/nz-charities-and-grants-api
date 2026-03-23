@@ -1,0 +1,27 @@
+{
+  "id": 34589,
+  "registrationNumber": "CC51151",
+  "name": "Festival One Ltd",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2024-08-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "graham@festival.one",
+  "address": {
+    "line1": "PO Box 25779",
+    "line2": "St Heliers",
+    "suburb": "Saint Heliers",
+    "city": "Auckland",
+    "postcode": "1740"
+  },
+  "nzbn": "9429041348116",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T01:44:09Z"
+}

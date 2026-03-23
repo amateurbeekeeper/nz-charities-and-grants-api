@@ -1,0 +1,27 @@
+{
+  "id": 33125,
+  "registrationNumber": "CC48764",
+  "name": "ISANA New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-11-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.isana.nz/",
+  "email": "nz-president@isana.nz",
+  "address": {
+    "line1": "8 Waiau Street",
+    "line2": " ",
+    "suburb": "Torbay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429043245864",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/isananz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T00:43:33Z"
+}

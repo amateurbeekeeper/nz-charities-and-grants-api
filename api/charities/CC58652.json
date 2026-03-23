@@ -1,0 +1,27 @@
+{
+  "id": 72265,
+  "registrationNumber": "CC58652",
+  "name": "Papaiōea Pasifika Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-12-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "s.liuvaie@massey.ac.nz",
+  "address": {
+    "line1": "21 Havelock Avenue",
+    "line2": " ",
+    "suburb": "Westbrook",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429043309351",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/PNPasifikaCentre15",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T10:32:59Z"
+}

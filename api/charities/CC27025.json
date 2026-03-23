@@ -1,0 +1,27 @@
+{
+  "id": 39555,
+  "registrationNumber": "CC27025",
+  "name": "The New Zealand Drug Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.drugfoundation.org.nz",
+  "email": "admin@drugfoundation.org.nz",
+  "address": {
+    "line1": "Level 4",
+    "line2": "265 Wakefield Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042783831",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZDrugFoundation",
+    "twitter": "https://twitter.com/nzdrug"
+  },
+  "lastUpdated": "2025-12-23T18:27:55Z"
+}

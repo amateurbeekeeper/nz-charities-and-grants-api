@@ -1,0 +1,27 @@
+{
+  "id": 65690,
+  "registrationNumber": "CC51942",
+  "name": "Tennyson Inlet Boat Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tibc.org.nz/",
+  "email": "tennyson.treasurer@gmail.com",
+  "address": {
+    "line1": "6766 State Highway 6",
+    "line2": "Rai Valley 7194",
+    "suburb": "Tennyson Inlet",
+    "city": "Rai Valley",
+    "postcode": "7194"
+  },
+  "nzbn": "9429042866091",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@tennysoninletboatclub",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T04:02:52Z"
+}

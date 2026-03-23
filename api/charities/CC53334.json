@@ -1,0 +1,27 @@
+{
+  "id": 67055,
+  "registrationNumber": "CC53334",
+  "name": "Te Mira Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "anthil2@hotmail.com",
+  "address": {
+    "line1": "414 Otaua Road",
+    "line2": "RD 3",
+    "suburb": "Otaua",
+    "city": "Kaikohe",
+    "postcode": "0473"
+  },
+  "nzbn": "9429043226443",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T18:41:32Z"
+}

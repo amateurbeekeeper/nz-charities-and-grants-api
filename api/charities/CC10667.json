@@ -1,0 +1,27 @@
+{
+  "id": 51931,
+  "registrationNumber": "CC10667",
+  "name": "Cephas Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "steve.baigent@cephas.nz",
+  "address": {
+    "line1": "63 Fairose Drive",
+    "line2": "Richmond 7020",
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T04:50:40Z"
+}

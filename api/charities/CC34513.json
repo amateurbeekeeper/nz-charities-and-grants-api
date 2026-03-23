@@ -1,0 +1,27 @@
+{
+  "id": 42429,
+  "registrationNumber": "CC34513",
+  "name": "Podiatrists Board",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.podiatristsboard.org.nz",
+  "email": "registrar@podiatristsboard.org.nz",
+  "address": {
+    "line1": "Level 5",
+    "line2": "22-28 Willeston Street",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429047125292",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T02:21:22Z"
+}

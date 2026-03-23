@@ -1,0 +1,27 @@
+{
+  "id": 37534,
+  "registrationNumber": "CC47748",
+  "name": "Dunedin Gymnastic Academy Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dunedingymnastics.co.nz",
+  "email": "manager@dunedingymnastics.co.nz",
+  "address": {
+    "line1": "6 Otaki Street",
+    "line2": " ",
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429043146178",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T13:10:40Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35757,
+  "registrationNumber": "CC44892",
+  "name": "Auckland Refugee Family Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.arft.org.nz",
+  "email": "kaarenhiyama@gmail.com",
+  "address": {
+    "line1": "55 Francis Street",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429043209699",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@RefugeeFamilyTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T23:19:29Z"
+}

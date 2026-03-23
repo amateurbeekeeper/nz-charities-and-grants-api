@@ -1,0 +1,27 @@
+{
+  "id": 49544,
+  "registrationNumber": "CC36101",
+  "name": "Golden Bay Tennis Club",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://clubspark.kiwi/GoldenBayTC",
+  "email": "gbtennis@outlook.com",
+  "address": {
+    "line1": "Park Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Takaka",
+    "postcode": "7183"
+  },
+  "nzbn": "9429043166480",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T19:51:39Z"
+}

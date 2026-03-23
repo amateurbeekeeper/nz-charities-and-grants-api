@@ -1,0 +1,27 @@
+{
+  "id": 62085,
+  "registrationNumber": "CC40330",
+  "name": "Tai Tapu School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.taitapu.school.nz",
+  "email": "taitapuschoolpta@gmail.com",
+  "address": {
+    "line1": "1 School Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tai Tapu",
+    "postcode": "7672"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-28T19:05:55Z"
+}

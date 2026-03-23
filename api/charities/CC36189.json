@@ -1,0 +1,27 @@
+{
+  "id": 40926,
+  "registrationNumber": "CC36189",
+  "name": "Alzheimers Society Gisborne Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.alzheimers.org.nz/gisborne",
+  "email": "manager.gisborne@alzheimers.org.nz",
+  "address": {
+    "line1": "MORRIS ADAIR BUILDING",
+    "line2": "421 Ormond Road",
+    "suburb": "Lytton West",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042572053",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": " https://www.facebook.com/AlzheimersGisborneTairawhiti/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T06:09:15Z"
+}

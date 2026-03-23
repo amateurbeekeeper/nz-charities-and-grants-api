@@ -1,0 +1,27 @@
+{
+  "id": 74184,
+  "registrationNumber": "CC60595",
+  "name": "The Godfrey Cheathem Arts Residency",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://godfreycheathemresidency.co.nz",
+  "email": "luke.elworthy@gmail.com",
+  "address": {
+    "line1": "101 Giffords Road",
+    "line2": "RD 3",
+    "suburb": "Rapaura",
+    "city": "Blenheim",
+    "postcode": "7273"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "@gcartsresidency"
+  },
+  "lastUpdated": "2025-09-10T21:52:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50445,
+  "registrationNumber": "CC44613",
+  "name": "Russley Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.russleygolfclub.co.nz",
+  "email": "tmarriott@russleygc.co.nz",
+  "address": {
+    "line1": "428 Memorial Avenue",
+    "line2": " ",
+    "suburb": "Burnside",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042798972",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/russleygolfclub/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T02:08:36Z"
+}

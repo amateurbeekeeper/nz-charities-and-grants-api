@@ -1,0 +1,27 @@
+{
+  "id": 44860,
+  "registrationNumber": "CC39849",
+  "name": "The Christchurch Folk Music Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.folkmusic.org.nz",
+  "email": "treasurer@folkmusic.org.nz",
+  "address": {
+    "line1": "29 Domain Terrace",
+    "line2": null,
+    "suburb": "Spreydon",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429042611592",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Christchurch folk music club",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T02:40:49Z"
+}

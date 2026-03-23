@@ -1,0 +1,27 @@
+{
+  "id": 52603,
+  "registrationNumber": "CC20012",
+  "name": "Maungaturoto Residential Care Ltd",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "accounts@riverviewliving.nz",
+  "address": {
+    "line1": "136 Hurndall Street East",
+    "line2": null,
+    "suburb": " ",
+    "city": "Maungaturoto",
+    "postcode": "520"
+  },
+  "nzbn": "9429038871047",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T07:24:15Z"
+}

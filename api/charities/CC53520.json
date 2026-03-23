@@ -1,0 +1,27 @@
+{
+  "id": 67236,
+  "registrationNumber": "CC53520",
+  "name": "Nelson RSA Poppy Trust Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "poppytrust.rsanelson@gmail.com",
+  "address": {
+    "line1": "491 Main Road Stoke",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429043306893",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T00:14:31Z"
+}

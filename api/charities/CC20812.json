@@ -1,0 +1,27 @@
+{
+  "id": 53572,
+  "registrationNumber": "CC20812",
+  "name": "Te Rangihaeata Oranga Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gamblinghb.co.nz",
+  "email": "manager@trhor.org.nz",
+  "address": {
+    "line1": "210 Lyndon Road West",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429043174034",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/gamblinghb",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T19:54:31Z"
+}

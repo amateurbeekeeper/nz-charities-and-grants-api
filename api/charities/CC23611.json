@@ -1,0 +1,27 @@
+{
+  "id": 40435,
+  "registrationNumber": "CC23611",
+  "name": "Auckland Philharmonia Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.aucklandphil.nz",
+  "email": "heatherw@aucklandphil.nz",
+  "address": {
+    "line1": "Level 1, 301-303 Queen Street",
+    "line2": " ",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043051090",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T22:32:14Z"
+}

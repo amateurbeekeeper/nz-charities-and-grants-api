@@ -1,0 +1,27 @@
+{
+  "id": 71802,
+  "registrationNumber": "CC58192",
+  "name": "Wanaka Community Garden",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-08-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.growwanaka.com",
+  "email": "toni@growwanaka.com",
+  "address": {
+    "line1": "9 Gowanbrae Lane",
+    "line2": " ",
+    "suburb": "Wānaka",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429048474559",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Grow Wanaka ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T23:52:35Z"
+}

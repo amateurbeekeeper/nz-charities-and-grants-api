@@ -1,0 +1,27 @@
+{
+  "id": 52738,
+  "registrationNumber": "CC24050",
+  "name": "AIESEC New Zealand Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-05-07T00:00:00Z",
+  "dateDeregistered": "2023-05-29T00:00:00Z",
+  "website": "https://aiesec.org.nz",
+  "email": "info@aiesec.org.nz",
+  "address": {
+    "line1": "Flat 4G",
+    "line2": "Tower Hill Apartments",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042579373",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "http://www.facebook.com/AIESECNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T19:50:58Z"
+}

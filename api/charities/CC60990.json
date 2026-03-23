@@ -1,0 +1,27 @@
+{
+  "id": 74571,
+  "registrationNumber": "CC60990",
+  "name": "Keteriki Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://bayofislandsvintagerailway.org.nz",
+  "email": "gm@keteriki.com",
+  "address": {
+    "line1": "120 Gillies Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kawakawa",
+    "postcode": "0210"
+  },
+  "nzbn": "9429048692700",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T03:53:35Z"
+}

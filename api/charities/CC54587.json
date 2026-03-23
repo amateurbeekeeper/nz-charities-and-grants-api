@@ -1,0 +1,27 @@
+{
+  "id": 68257,
+  "registrationNumber": "CC54587",
+  "name": "The Commuting Book Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.thecommutingbook.org",
+  "email": "stories@thecommutingbook.org",
+  "address": {
+    "line1": "1 Rimu Street",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429046123374",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/thecommutingbook",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T02:39:21Z"
+}

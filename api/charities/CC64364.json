@@ -1,0 +1,27 @@
+{
+  "id": 78545,
+  "registrationNumber": "CC64364",
+  "name": "Te Ranga Wairua Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://terangawairua.com",
+  "email": "quentinpotae@gmail.com",
+  "address": {
+    "line1": "1300 Kennedy Bay Road",
+    "line2": "RD 3",
+    "suburb": "Kennedy Bay",
+    "city": "Coromandel",
+    "postcode": "3583"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T02:58:57Z"
+}

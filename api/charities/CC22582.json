@@ -1,0 +1,27 @@
+{
+  "id": 55026,
+  "registrationNumber": "CC22582",
+  "name": "Banks Peninsula Conservation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bpct.org.nz",
+  "email": "maree.burnett@bpct.org.nz",
+  "address": {
+    "line1": "752 Christchurch Akaroa Road",
+    "line2": "RD 2",
+    "suburb": "Tai Tapu",
+    "city": "Christchurch",
+    "postcode": "7672"
+  },
+  "nzbn": "9429043014583",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/bpctnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-31T08:45:12Z"
+}

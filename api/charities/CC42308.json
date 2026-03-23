@@ -1,0 +1,27 @@
+{
+  "id": 50764,
+  "registrationNumber": "CC42308",
+  "name": "Rotorua Breast Cancer Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rbct.co.nz",
+  "email": "info@rbct.co.nz",
+  "address": {
+    "line1": "PO Box 12056",
+    "line2": "Rotorua South",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3045"
+  },
+  "nzbn": "9429043267422",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Rotorua Breast Cancer Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T21:08:20Z"
+}

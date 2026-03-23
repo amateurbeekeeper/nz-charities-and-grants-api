@@ -1,0 +1,27 @@
+{
+  "id": 39618,
+  "registrationNumber": "CC24446",
+  "name": "Maxim Institute",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.maxim.org.nz",
+  "email": "vanessa.blaauw@maxim.org.nz",
+  "address": {
+    "line1": "49 Cape Horn Road",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429042679998",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/maximinstitute/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T23:15:22Z"
+}

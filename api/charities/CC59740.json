@@ -1,0 +1,27 @@
+{
+  "id": 73513,
+  "registrationNumber": "CC59740",
+  "name": "Waikanae Estuary Care Group Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waikanaeestuary.org",
+  "email": "john@waikanaeestuary.org",
+  "address": {
+    "line1": "16 Makora Road",
+    "line2": " ",
+    "suburb": "Otaihanga",
+    "city": "Paraparaumu",
+    "postcode": "5036"
+  },
+  "nzbn": "9429043038053",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@WECGNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T19:24:23Z"
+}

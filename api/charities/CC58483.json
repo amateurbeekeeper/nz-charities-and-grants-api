@@ -1,0 +1,27 @@
+{
+  "id": 72101,
+  "registrationNumber": "CC58483",
+  "name": "Lads Without Labels Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-12-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ladswithoutlabels.org.nz/",
+  "email": "molly.glover@ladswithoutlabels.org",
+  "address": {
+    "line1": "90 Ilam Road",
+    "line2": "32B Creyke Road",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429051937867",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ladswithoutlabels",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T06:25:11Z"
+}

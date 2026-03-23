@@ -1,0 +1,27 @@
+{
+  "id": 76847,
+  "registrationNumber": "CC62937",
+  "name": "Cooks Beach Community Centre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-12-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cooksbeachcommunitycentre.com",
+  "email": "contactus.cbcc@gmail.com",
+  "address": {
+    "line1": "882 Purangi Road",
+    "line2": "RD 1",
+    "suburb": "Cooks Beach",
+    "city": "Whitianga",
+    "postcode": "3591"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "cooks beach community centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:23:18Z"
+}

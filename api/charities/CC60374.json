@@ -1,0 +1,27 @@
+{
+  "id": 73964,
+  "registrationNumber": "CC60374",
+  "name": "Potters House Christian Centre Porirua",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.poriruachurch.nz",
+  "email": "kitaplummer@gmail.com",
+  "address": {
+    "line1": "14B Tobago Crescent",
+    "line2": " ",
+    "suburb": "Grenada North",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T23:23:26Z"
+}

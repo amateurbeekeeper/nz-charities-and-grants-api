@@ -1,0 +1,27 @@
+{
+  "id": 73641,
+  "registrationNumber": "CC59992",
+  "name": "New Zealand Children's Choral Academy",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzchildrenschoralacademy.co.nz/",
+  "email": "loischick21@gmail.com",
+  "address": {
+    "line1": "9 Pierce Street",
+    "line2": " ",
+    "suburb": "Marshland",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429050806362",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "New Zealand Children's Choral Academy",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T00:47:08Z"
+}

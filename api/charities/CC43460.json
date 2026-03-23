@@ -1,0 +1,27 @@
+{
+  "id": 62702,
+  "registrationNumber": "CC43460",
+  "name": "Robson Hanan Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-01-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.justspeak.org.nz",
+  "email": "info@justspeak.org.nz",
+  "address": {
+    "line1": "2 Gilmer Terrace",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043259854",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/justspeaknz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-09T19:57:09Z"
+}

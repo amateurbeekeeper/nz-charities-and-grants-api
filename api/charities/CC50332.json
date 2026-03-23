@@ -1,0 +1,27 @@
+{
+  "id": 34021,
+  "registrationNumber": "CC50332",
+  "name": "Waterfront Theatre Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-02-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "accounts@atc.co.nz",
+  "address": {
+    "line1": "Lowerground Level 487",
+    "line2": "Dominion Road",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429041032459",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:19:06Z"
+}

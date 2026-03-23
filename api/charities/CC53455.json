@@ -1,0 +1,27 @@
+{
+  "id": 67167,
+  "registrationNumber": "CC53455",
+  "name": "RSA Franklin Welfare Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Roger@rogeraccountant.co.nz",
+  "address": {
+    "line1": "17 Edinburgh Street",
+    "line2": "Pukekohe 2120",
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429043294398",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "RSA Franklin",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-14T19:23:21Z"
+}

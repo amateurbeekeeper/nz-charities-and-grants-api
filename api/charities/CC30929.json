@@ -1,0 +1,27 @@
+{
+  "id": 39034,
+  "registrationNumber": "CC30929",
+  "name": "Wintec Student Residence Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2023-12-01T00:00:00Z",
+  "website": "https://www.wintec.ac.nz/student-life/accommodation",
+  "email": "martin.thomas@wintec.ac.nz",
+  "address": {
+    "line1": "181 Collingwood Street",
+    "line2": " ",
+    "suburb": "Hamilton Lake",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042889380",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T20:35:52Z"
+}

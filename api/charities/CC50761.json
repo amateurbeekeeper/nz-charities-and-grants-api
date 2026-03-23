@@ -1,0 +1,27 @@
+{
+  "id": 34433,
+  "registrationNumber": "CC50761",
+  "name": "Onehunga Community Patrol",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2022-04-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://onehunga.patrol.org.nz/",
+  "email": "bm_bullen@icloud.com",
+  "address": {
+    "line1": "154 Church Street",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/OnehungaCommunityPatrol/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-21T22:02:02Z"
+}

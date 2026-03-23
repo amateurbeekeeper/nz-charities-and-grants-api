@@ -1,0 +1,27 @@
+{
+  "id": 56393,
+  "registrationNumber": "CC20750",
+  "name": "Citizens Advice Bureau Taupo Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cab.org.nz",
+  "email": "taupo@cab.org.nz",
+  "address": {
+    "line1": "100 Kaimanawa Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Taupō",
+    "postcode": "3330"
+  },
+  "nzbn": "9429042834649",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Citizens Advice Bureau Taupo ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T18:16:10Z"
+}

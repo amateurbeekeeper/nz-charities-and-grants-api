@@ -1,0 +1,27 @@
+{
+  "id": 72899,
+  "registrationNumber": "CC59294",
+  "name": "OLA Learning Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@alkimi.co.nz",
+  "address": {
+    "line1": "Flat 4",
+    "line2": "99 Vauxhall Road",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T01:35:31Z"
+}

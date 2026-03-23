@@ -1,0 +1,27 @@
+{
+  "id": 56482,
+  "registrationNumber": "CC32240",
+  "name": "Waitomo Caves Museum Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waitomodiscovery.org",
+  "email": "accounts@waitomodiscovery.org",
+  "address": {
+    "line1": "21 Waitomo Village Road",
+    "line2": "Waitomo Caves",
+    "suburb": " ",
+    "city": "Waitomo",
+    "postcode": "3977"
+  },
+  "nzbn": "9429042914570",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MuseumandDiscoveryCentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T00:04:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56104,
+  "registrationNumber": "CC21738",
+  "name": "Meadowood Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.meadowood.co.nz",
+  "email": "house@meadowood.co.nz",
+  "address": {
+    "line1": "55 Meadowood Drive",
+    "line2": " ",
+    "suburb": "Unsworth Heights",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429042747277",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Meadowood-Community-House-228863707245026/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T03:33:51Z"
+}

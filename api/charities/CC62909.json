@@ -1,0 +1,27 @@
+{
+  "id": 76793,
+  "registrationNumber": "CC62909",
+  "name": "The Davey Bequest",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-11-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "funding@publictrust.co.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "22 Willeston Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "2/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-18T19:22:43Z"
+}

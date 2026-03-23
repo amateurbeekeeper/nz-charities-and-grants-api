@@ -1,0 +1,27 @@
+{
+  "id": 37748,
+  "registrationNumber": "CC47929",
+  "name": "Life Education Trust Auckland West",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.haroldthegiraffe.co.nz",
+  "email": "steven@haroldthegiraffe.co.nz",
+  "address": {
+    "line1": "Unit I4",
+    "line2": "59 Apollo Drive",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043148219",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/adventureswithharold/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-17T04:27:14Z"
+}

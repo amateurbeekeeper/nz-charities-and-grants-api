@@ -1,0 +1,27 @@
+{
+  "id": 69269,
+  "registrationNumber": "CC55618",
+  "name": "Construction Health and Safety New Zealand Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.chasnz.org",
+  "email": "chris@chasnz.org",
+  "address": {
+    "line1": "31-37 Halsey Street",
+    "line2": "29 Customs Street West",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429046684936",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "twitter.com/chasnz1"
+  },
+  "lastUpdated": "2026-03-08T20:54:10Z"
+}

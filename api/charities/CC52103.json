@@ -1,0 +1,27 @@
+{
+  "id": 65850,
+  "registrationNumber": "CC52103",
+  "name": "Mauria Te Pono Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "torirangi@yahoo.co.nz",
+  "address": {
+    "line1": "100 Grey Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429043248506",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Mauria Te Pono Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T04:19:40Z"
+}

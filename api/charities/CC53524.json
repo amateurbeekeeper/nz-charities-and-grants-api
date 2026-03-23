@@ -1,0 +1,27 @@
+{
+  "id": 67231,
+  "registrationNumber": "CC53524",
+  "name": "Motorbike Book Club",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2016-06-21T00:00:00Z",
+  "dateDeregistered": "2023-09-21T00:00:00Z",
+  "website": "https://motorbikebookclub.org",
+  "email": "tamra.ewing@gmail.com",
+  "address": {
+    "line1": "8 McCall Place",
+    "line2": null,
+    "suburb": "Opaheke",
+    "city": "Papakura",
+    "postcode": "2113"
+  },
+  "nzbn": "9429043291540",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "motorbikebookclub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T22:58:25Z"
+}

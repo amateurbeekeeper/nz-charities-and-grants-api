@@ -1,0 +1,27 @@
+{
+  "id": 55550,
+  "registrationNumber": "CC21913",
+  "name": "Southern Insight Meditation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.southern-insight.org.nz",
+  "email": "southern.insight.meditation@gmail.com",
+  "address": {
+    "line1": "27 Cradock Street",
+    "line2": " ",
+    "suburb": "South New Brighton",
+    "city": "Christchurch",
+    "postcode": "8062"
+  },
+  "nzbn": "9429043134007",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T18:03:28Z"
+}

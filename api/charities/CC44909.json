@@ -1,0 +1,27 @@
+{
+  "id": 35636,
+  "registrationNumber": "CC44909",
+  "name": "Aranui Community Trust Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.actis.org.nz",
+  "email": "rachael@actis.org.nz",
+  "address": {
+    "line1": "Po Box 15036",
+    "line2": "37 Hampshire Street",
+    "suburb": "Aranui",
+    "city": "Christchurch",
+    "postcode": "8643"
+  },
+  "nzbn": "9429042999126",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "aranui community trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T18:08:37Z"
+}

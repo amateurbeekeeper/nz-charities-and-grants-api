@@ -1,0 +1,27 @@
+{
+  "id": 68468,
+  "registrationNumber": "CC54803",
+  "name": "Grey Valley Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-09-18T00:00:00Z",
+  "dateDeregistered": "2025-08-11T00:00:00Z",
+  "website": null,
+  "email": "greyvalley@playcentre.org.nz",
+  "address": {
+    "line1": "20 Napoleon Street",
+    "line2": "Ahaura 7871",
+    "suburb": " ",
+    "city": "Ahaura",
+    "postcode": "7871"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T07:24:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39203,
+  "registrationNumber": "CC23257",
+  "name": "Orewa Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.orewabaptist.org.nz",
+  "email": "jannick@orewabaptist.org.nz",
+  "address": {
+    "line1": "2-8 Loop Road",
+    "line2": " ",
+    "suburb": " Orewa",
+    "city": "Auckland",
+    "postcode": "0931"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-13T19:10:24Z"
+}

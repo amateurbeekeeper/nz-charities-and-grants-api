@@ -1,0 +1,27 @@
+{
+  "id": 65632,
+  "registrationNumber": "CC51888",
+  "name": "Timaru Presbyterian Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.timarupres.org.nz",
+  "email": "office@timarupres.org.nz",
+  "address": {
+    "line1": "349 Wai-Iti Road",
+    "line2": " ",
+    "suburb": "Glenwood",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-09T00:14:55Z"
+}

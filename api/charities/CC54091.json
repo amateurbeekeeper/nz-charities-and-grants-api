@@ -1,0 +1,27 @@
+{
+  "id": 67785,
+  "registrationNumber": "CC54091",
+  "name": "Te Roopu Oranga o Highbury",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-01-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tewharekoha.org",
+  "email": "mschrissypaul@gmail.com",
+  "address": {
+    "line1": "42 Pembroke Street",
+    "line2": " ",
+    "suburb": "Highbury",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429043276288",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Te Roopu Oranga O Highbury",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T02:42:07Z"
+}

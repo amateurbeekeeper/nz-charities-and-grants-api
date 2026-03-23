@@ -1,0 +1,27 @@
+{
+  "id": 37177,
+  "registrationNumber": "CC48253",
+  "name": "Creswick Valley Residents' Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cvra.org.nz",
+  "email": "creswickvalleyra@gmail.com",
+  "address": {
+    "line1": "2 Putnam Street",
+    "line2": " ",
+    "suburb": "Northland",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043236732",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/creswickvalleyra",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-22T03:20:20Z"
+}

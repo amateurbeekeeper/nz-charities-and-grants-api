@@ -1,0 +1,27 @@
+{
+  "id": 63676,
+  "registrationNumber": "CC41740",
+  "name": "Hagley Community College Preschool Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hagleypreschool.co.nz",
+  "email": "preschool@hagley.school.nz",
+  "address": {
+    "line1": "510 Hagley Avenue",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043202669",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@hagleypreschool",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:36:44Z"
+}

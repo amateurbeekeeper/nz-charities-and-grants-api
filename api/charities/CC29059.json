@@ -1,0 +1,27 @@
+{
+  "id": 49312,
+  "registrationNumber": "CC29059",
+  "name": "Leigh Volunteer Fire Brigade",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2020-09-30T00:00:00Z",
+  "website": null,
+  "email": "Steve.paddison@fireandemergency.nz",
+  "address": {
+    "line1": "28 Hauraki Road",
+    "line2": "Leigh 0985",
+    "suburb": "Leigh",
+    "city": "Leigh",
+    "postcode": "0985"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-10-11T17:35:24Z"
+}

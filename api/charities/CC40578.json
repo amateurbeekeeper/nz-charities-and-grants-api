@@ -1,0 +1,27 @@
+{
+  "id": 42685,
+  "registrationNumber": "CC40578",
+  "name": "Rotary Club of Katikati Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.katikatirotary.org.nz",
+  "email": "treasurer@katikatirotary.org.nz",
+  "address": {
+    "line1": "3 Noble Johnston Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Katikati",
+    "postcode": "3129"
+  },
+  "nzbn": "9429043104895",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Rotary Club of Katikati",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-02T05:23:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 58118,
+  "registrationNumber": "CC38921",
+  "name": "New Zealand Riding For The Disabled Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rda.org.nz",
+  "email": "donna.kennedy@rda.org.nz",
+  "address": {
+    "line1": "10 Lydney Place South",
+    "line2": " ",
+    "suburb": "Porirua City Centre",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429042709954",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/nzrda",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:12:47Z"
+}

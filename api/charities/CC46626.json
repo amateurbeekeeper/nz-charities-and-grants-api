@@ -1,0 +1,27 @@
+{
+  "id": 37127,
+  "registrationNumber": "CC46626",
+  "name": "Richard Fuchs Archive Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.richardfuchs.nz",
+  "email": "attico@xtra.co.nz",
+  "address": {
+    "line1": "25 Dickens Street",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429043179152",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:18:33Z"
+}

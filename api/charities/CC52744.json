@@ -1,0 +1,27 @@
+{
+  "id": 66475,
+  "registrationNumber": "CC52744",
+  "name": "Anglican Diocese of Christchurch - Parish of Te Ngawai",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": "2025-04-28T00:00:00Z",
+  "website": null,
+  "email": "ericmould@outlook.com",
+  "address": {
+    "line1": "12 Munro Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pleasant Point",
+    "postcode": "7903"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-12T07:10:31Z"
+}

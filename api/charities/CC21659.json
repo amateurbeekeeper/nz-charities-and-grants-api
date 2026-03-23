@@ -1,0 +1,27 @@
+{
+  "id": 51603,
+  "registrationNumber": "CC21659",
+  "name": "New Zealand Shipwreck Welfare Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rpolson@xtra.co.nz",
+  "address": {
+    "line1": "7 Waterloo Quay",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042944980",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T22:39:55Z"
+}

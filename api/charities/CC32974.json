@@ -1,0 +1,27 @@
+{
+  "id": 55848,
+  "registrationNumber": "CC32974",
+  "name": "Alzheimers Auckland Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2013-02-28T00:00:00Z",
+  "website": "http://www.alzheimers.co.nz",
+  "email": "bonnier@alzheimers.co.nz",
+  "address": {
+    "line1": "877 Manukau Road",
+    "line2": null,
+    "suburb": "Royal Oak",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042574125",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-09-03T12:34:53Z"
+}

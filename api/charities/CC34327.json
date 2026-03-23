@@ -1,0 +1,27 @@
+{
+  "id": 44511,
+  "registrationNumber": "CC34327",
+  "name": "Waipu Cemetery Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "waipucemetery.co.nz",
+  "email": "lexism@xtra.co.nz",
+  "address": {
+    "line1": "324 Cove Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Waipu",
+    "postcode": "0582"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:54:56Z"
+}

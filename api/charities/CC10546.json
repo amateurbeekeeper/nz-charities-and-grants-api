@@ -1,0 +1,27 @@
+{
+  "id": 52364,
+  "registrationNumber": "CC10546",
+  "name": "Counties Manukau Homecare Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hss@cmht.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "12 Seddon Street",
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429043141159",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T22:49:44Z"
+}

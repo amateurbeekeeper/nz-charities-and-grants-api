@@ -1,0 +1,27 @@
+{
+  "id": 50025,
+  "registrationNumber": "CC33667",
+  "name": "Youthlink-Family Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2019-02-18T00:00:00Z",
+  "website": "http://www.youthlink.org.nz",
+  "email": "alan@youthlink.org.nz",
+  "address": {
+    "line1": "13 Ronwood Avenue",
+    "line2": " ",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042928164",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-03-10T19:50:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64010,
+  "registrationNumber": "CC43303",
+  "name": "Riverdale School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta@riverdale.school.nz",
+  "address": {
+    "line1": "95 Slacks Road",
+    "line2": " ",
+    "suburb": "Awapuni",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:03:55Z"
+}

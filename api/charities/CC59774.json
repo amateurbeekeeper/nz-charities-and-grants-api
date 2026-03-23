@@ -1,0 +1,27 @@
+{
+  "id": 73552,
+  "registrationNumber": "CC59774",
+  "name": "Central Otago Museums Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-01-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.museumscentralotago.org.nz",
+  "email": "chair@museumscentralotago.org.nz",
+  "address": {
+    "line1": "67 Paterson Road",
+    "line2": "RD 2",
+    "suburb": "Nevis",
+    "city": "Cromwell",
+    "postcode": "9384"
+  },
+  "nzbn": "9429050227143",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Museums of Central Otago",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T18:10:29Z"
+}

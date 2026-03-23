@@ -1,0 +1,27 @@
+{
+  "id": 60042,
+  "registrationNumber": "CC27766",
+  "name": "Rongotea Bible Chapel",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://rongoteabiblechapel.org",
+  "email": "brucehockly@gmail.com",
+  "address": {
+    "line1": "538 Lockwood Road",
+    "line2": "RD 5",
+    "suburb": "Kairanga",
+    "city": "Palmerston North",
+    "postcode": "4475"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T04:47:45Z"
+}

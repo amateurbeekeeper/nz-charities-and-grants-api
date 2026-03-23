@@ -1,0 +1,27 @@
+{
+  "id": 59992,
+  "registrationNumber": "CC27709",
+  "name": "Baptist Union Superannuation Scheme",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.buss.org.nz",
+  "email": "secretary@buss.org.nz",
+  "address": {
+    "line1": "BAPTIST NATIONAL CNTR",
+    "line2": "473 Great South Road",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:14:34Z"
+}

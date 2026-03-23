@@ -1,0 +1,27 @@
+{
+  "id": 62234,
+  "registrationNumber": "CC42344",
+  "name": "Special Olympics Waitakere Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.specialolympics.org.nz",
+  "email": "waitakere@specialolympics.org.nz",
+  "address": {
+    "line1": "77 Sabulite Road",
+    "line2": " ",
+    "suburb": "Kelston",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SpecialOlympicsWaitakere/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:17:53Z"
+}

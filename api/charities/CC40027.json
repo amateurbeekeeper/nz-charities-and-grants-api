@@ -1,0 +1,27 @@
+{
+  "id": 47344,
+  "registrationNumber": "CC40027",
+  "name": "Tirimoana School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tirimoana.school.nz",
+  "email": "shirley@tirimoana.school.nz",
+  "address": {
+    "line1": "Tirimoana School",
+    "line2": "34 Kokiri Street",
+    "suburb": "Te Atatu South",
+    "city": "Auckland",
+    "postcode": "610"
+  },
+  "nzbn": "0000000000000",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Tirimoana School PTA",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-04T19:34:55Z"
+}

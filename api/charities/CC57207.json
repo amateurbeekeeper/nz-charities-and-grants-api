@@ -1,0 +1,27 @@
+{
+  "id": 70839,
+  "registrationNumber": "CC57207",
+  "name": "Pilgrim Bandits New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.pilgrimbandits.co.nz",
+  "email": "mark@pilgrimbandits.co.nz",
+  "address": {
+    "line1": "322 Manchester Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429047742741",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@pilgrimbanditsnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T22:50:11Z"
+}

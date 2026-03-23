@@ -1,0 +1,27 @@
+{
+  "id": 69117,
+  "registrationNumber": "CC55455",
+  "name": "Sea Wolf Water Polo Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.seawolf.co.nz",
+  "email": "packcurator@seawolf.co.nz",
+  "address": {
+    "line1": "4 Hobson Drive",
+    "line2": " ",
+    "suburb": "Panmure",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429046515377",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SeaWolfWaterPolo/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:47:14Z"
+}

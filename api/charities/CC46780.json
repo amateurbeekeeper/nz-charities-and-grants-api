@@ -1,0 +1,27 @@
+{
+  "id": 37361,
+  "registrationNumber": "CC46780",
+  "name": "HHP Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-07-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hhpworld.org",
+  "email": "hhpworld@gmail.com",
+  "address": {
+    "line1": "155 Trafalgar Street",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043194957",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T06:48:18Z"
+}

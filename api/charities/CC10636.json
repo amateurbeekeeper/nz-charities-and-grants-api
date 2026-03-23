@@ -1,0 +1,27 @@
+{
+  "id": 51410,
+  "registrationNumber": "CC10636",
+  "name": "The Paediatric Society of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.paediatrics.org.nz",
+  "email": "admin@paediatrics.org.nz",
+  "address": {
+    "line1": "PO Box 24136",
+    "line2": " ",
+    "suburb": "Royal Oak",
+    "city": "Auckland",
+    "postcode": "1345"
+  },
+  "nzbn": "9429043065752",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T01:45:41Z"
+}

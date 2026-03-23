@@ -1,0 +1,27 @@
+{
+  "id": 76700,
+  "registrationNumber": "CC62859",
+  "name": "Hope House Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hopehouse.org.nz",
+  "email": "justyn@hopehouse.org.nz",
+  "address": {
+    "line1": "5077 Far North Road",
+    "line2": "RD 4",
+    "suburb": "Ngataki",
+    "city": "Kaitaia",
+    "postcode": "0484"
+  },
+  "nzbn": "9429052824395",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T01:45:36Z"
+}

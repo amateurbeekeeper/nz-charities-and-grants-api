@@ -1,0 +1,27 @@
+{
+  "id": 70817,
+  "registrationNumber": "CC57187",
+  "name": "Hope Whangarei",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hopewhangarei.nz",
+  "email": "info@hopewhangarei.nz",
+  "address": {
+    "line1": "1 Hunt Street",
+    "line2": "Whangarei 0110",
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:44:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63128,
+  "registrationNumber": "CC38104",
+  "name": "Tug Lyttelton Preservation Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tuglyttelton.co.nz",
+  "email": "mike.bruce0@xtra.co.nz",
+  "address": {
+    "line1": "20A Baltimore Green",
+    "line2": null,
+    "suburb": "Shirley",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429042901440",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/tuglyttelton/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-26T02:54:49Z"
+}

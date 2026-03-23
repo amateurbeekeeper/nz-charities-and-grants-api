@@ -1,0 +1,27 @@
+{
+  "id": 53819,
+  "registrationNumber": "CC20443",
+  "name": "Waikato Medical Research Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wmrf.org.nz",
+  "email": "chair@wmrf.org.nz",
+  "address": {
+    "line1": "Peter Rothwell Academic Centre",
+    "line2": "Waikato Hospital",
+    "suburb": "Pembroke Street",
+    "city": "Hamilton",
+    "postcode": null
+  },
+  "nzbn": "9429042885795",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T18:21:27Z"
+}

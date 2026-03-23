@@ -1,0 +1,27 @@
+{
+  "id": 66458,
+  "registrationNumber": "CC52730",
+  "name": "Anglican Diocese of Christchurch-Parish of Bryndwr",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.staidans.org.nz",
+  "email": "staidans.bryndwr@gmail.com",
+  "address": {
+    "line1": "63 Brookside Terrace",
+    "line2": " ",
+    "suburb": "Bryndwr",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61569250376697",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-25T19:19:25Z"
+}

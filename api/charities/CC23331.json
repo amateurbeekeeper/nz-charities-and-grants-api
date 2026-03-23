@@ -1,0 +1,27 @@
+{
+  "id": 40662,
+  "registrationNumber": "CC23331",
+  "name": "Seniornet Marlborough Sounds Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.seniornetsounds.org.nz/",
+  "email": "ianc.cameron@xtra.co.nz",
+  "address": {
+    "line1": "5 Inglis Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Havelock",
+    "postcode": "7100"
+  },
+  "nzbn": "9429042985433",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/SeniorNetSounds/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-18T00:52:03Z"
+}

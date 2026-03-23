@@ -1,0 +1,27 @@
+{
+  "id": 68048,
+  "registrationNumber": "CC54369",
+  "name": "The Waiheke Walking Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waihekewalkingfestival.org",
+  "email": "mandy@hudsonpratley.co.nz",
+  "address": {
+    "line1": "121 Great Barrier Road",
+    "line2": " ",
+    "suburb": "Oneroa",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429046973238",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WalkWaiheke",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:43:49Z"
+}

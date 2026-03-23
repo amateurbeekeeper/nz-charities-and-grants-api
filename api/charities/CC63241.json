@@ -1,0 +1,27 @@
+{
+  "id": 77435,
+  "registrationNumber": "CC63241",
+  "name": "Hamilton Golf Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-12-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.standrews.co.nz",
+  "email": "manager@hamiltongolf.co.nz",
+  "address": {
+    "line1": "64 St Andrews Terrace",
+    "line2": " ",
+    "suburb": "Saint Andrews",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429042718802",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Hamiltongolfclub/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T18:49:48Z"
+}

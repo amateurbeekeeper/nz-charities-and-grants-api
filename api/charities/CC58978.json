@@ -1,0 +1,27 @@
+{
+  "id": 72588,
+  "registrationNumber": "CC58978",
+  "name": "The Mother Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "heather@expanseconsulting.co.nz",
+  "address": {
+    "line1": "230 Onewa Road",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429049328141",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T20:12:19Z"
+}

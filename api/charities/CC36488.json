@@ -1,0 +1,27 @@
+{
+  "id": 63166,
+  "registrationNumber": "CC36488",
+  "name": "Peak Vision Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-01-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.peakvisionchurch.co.nz",
+  "email": "office@peakvc.co.nz",
+  "address": {
+    "line1": "393 Te Mata Road",
+    "line2": "RD 12",
+    "suburb": " ",
+    "city": "Havelock North",
+    "postcode": "4294"
+  },
+  "nzbn": "9429043165209",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/peakvisionchurch",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T00:01:20Z"
+}

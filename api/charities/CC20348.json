@@ -1,0 +1,27 @@
+{
+  "id": 53307,
+  "registrationNumber": "CC20348",
+  "name": "Tasman Bay Christian Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tbctrust.org.nz",
+  "email": "office@tbctrust.org.nz",
+  "address": {
+    "line1": "6 Williams Road",
+    "line2": "RD 1",
+    "suburb": "Tasman",
+    "city": "Upper Moutere",
+    "postcode": "7173"
+  },
+  "nzbn": "9429042655589",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T19:45:25Z"
+}

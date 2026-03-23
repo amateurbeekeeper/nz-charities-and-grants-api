@@ -1,0 +1,27 @@
+{
+  "id": 48109,
+  "registrationNumber": "CC38327",
+  "name": "St Matthews Service Orchestra Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-03-09T00:00:00Z",
+  "dateDeregistered": "2020-09-30T00:00:00Z",
+  "website": "www.smco.org.nz",
+  "email": "smconz@gmail.com",
+  "address": {
+    "line1": "29 Saxon Street",
+    "line2": "2B Queensway",
+    "suburb": "Waterview",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429042981039",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-10-15T18:19:24Z"
+}

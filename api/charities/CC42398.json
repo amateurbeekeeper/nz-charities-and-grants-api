@@ -1,0 +1,27 @@
+{
+  "id": 48924,
+  "registrationNumber": "CC42398",
+  "name": "United Pentecostal Church of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.upcnz.org",
+  "email": "nprountree@hotmail.com",
+  "address": {
+    "line1": "7 Gambare Place",
+    "line2": " ",
+    "suburb": "Wattle Downs",
+    "city": "Auckland",
+    "postcode": "2103"
+  },
+  "nzbn": "9429042901891",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T04:09:16Z"
+}

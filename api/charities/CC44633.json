@@ -1,0 +1,27 @@
+{
+  "id": 36260,
+  "registrationNumber": "CC44633",
+  "name": "Kaikaiawaro Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-07-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ngatikuia.iwi.nz",
+  "email": "lilli@ngatikuia.iwi.nz",
+  "address": {
+    "line1": "192 Rutherford Street",
+    "line2": "Nelson 7010",
+    "suburb": "Port Nelson",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043211074",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ngati Kuia Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T19:35:24Z"
+}

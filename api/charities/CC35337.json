@@ -1,0 +1,27 @@
+{
+  "id": 44085,
+  "registrationNumber": "CC35337",
+  "name": "Te Wakahuia Manawatu Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tewakahuia.co.nz",
+  "email": "del@tewakahuia.org.nz",
+  "address": {
+    "line1": "54A Pembroke Street",
+    "line2": " ",
+    "suburb": "Highbury",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429042948650",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T22:20:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42500,
+  "registrationNumber": "CC25131",
+  "name": "Tai Tokerau Emergency Housing Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.emergencyhousing.org.nz",
+  "email": "jeremyabrowne@hotmail.com",
+  "address": {
+    "line1": "5 Woods Road",
+    "line2": " ",
+    "suburb": "Central",
+    "city": "Whangarei",
+    "postcode": "110"
+  },
+  "nzbn": "9429043167555",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/taitokerauemergencyhousing",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T21:05:25Z"
+}

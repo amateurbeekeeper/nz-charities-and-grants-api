@@ -1,0 +1,27 @@
+{
+  "id": 68616,
+  "registrationNumber": "CC54952",
+  "name": "Mockingbird Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mockingbird.org.nz",
+  "email": "robyn@mockingbird.org.nz",
+  "address": {
+    "line1": "70 Windermere Drive",
+    "line2": " ",
+    "suburb": "Poike",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429047488915",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/mockingbirdcharitabletrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T22:40:35Z"
+}

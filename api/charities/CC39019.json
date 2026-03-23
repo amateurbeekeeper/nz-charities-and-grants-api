@@ -1,0 +1,27 @@
+{
+  "id": 49501,
+  "registrationNumber": "CC39019",
+  "name": "Te Rapa Primary School PTA Fundraising",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.terapa.school.nz",
+  "email": "pta@terapa.school.nz",
+  "address": {
+    "line1": "61 Ashurst Avenue",
+    "line2": " ",
+    "suburb": "Pukete",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Rapa School PTA",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T21:29:37Z"
+}

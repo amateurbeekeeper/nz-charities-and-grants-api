@@ -1,0 +1,27 @@
+{
+  "id": 58111,
+  "registrationNumber": "CC27537",
+  "name": "Grace Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "shalini@humphriespeople.co.nz",
+  "address": {
+    "line1": "PO Box 13676",
+    "line2": "Onehunga",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1643"
+  },
+  "nzbn": "9429042633563",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T20:27:23Z"
+}

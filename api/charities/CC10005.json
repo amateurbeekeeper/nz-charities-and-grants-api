@@ -1,0 +1,27 @@
+{
+  "id": 51049,
+  "registrationNumber": "CC10005",
+  "name": "Welcome Bay Community Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://welcomebay.org.nz",
+  "email": "chairperson@welcomebay.org.nz",
+  "address": {
+    "line1": "242 Welcome Bay Road",
+    "line2": " ",
+    "suburb": "Welcome Bay",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429043168248",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WelcomeBayCommunityCentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T01:28:44Z"
+}

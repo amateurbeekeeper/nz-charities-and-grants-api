@@ -1,0 +1,27 @@
+{
+  "id": 70261,
+  "registrationNumber": "CC56562",
+  "name": "Viti (NZ) Council e Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.viticouncileaotearoa.com/",
+  "email": "marawaelena14@gmail.com",
+  "address": {
+    "line1": "53 Martin Road",
+    "line2": " ",
+    "suburb": "Paraparaumu Beach",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429051912796",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/VitiCouncileAotearoa/",
+    "twitter": "@vitinzeaotearoa"
+  },
+  "lastUpdated": "2026-03-14T05:48:02Z"
+}

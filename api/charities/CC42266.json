@@ -1,0 +1,27 @@
+{
+  "id": 42157,
+  "registrationNumber": "CC42266",
+  "name": "Katikati College Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-09-15T00:00:00Z",
+  "dateDeregistered": "2011-03-10T00:00:00Z",
+  "website": "http://www.katikaticollege.school.nz",
+  "email": "nharray@katikaticollege.school.nz",
+  "address": {
+    "line1": "Katikati College",
+    "line2": "Beach Road",
+    "suburb": null,
+    "city": "Katikati",
+    "postcode": "3063"
+  },
+  "nzbn": "9429042652700",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:18:01Z"
+}

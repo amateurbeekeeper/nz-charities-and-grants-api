@@ -1,0 +1,27 @@
+{
+  "id": 43592,
+  "registrationNumber": "CC39904",
+  "name": "The Auckland Returned and Services Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "carol.taylor@aucklandrsa.org.nz",
+  "address": {
+    "line1": "52 Walters Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042868415",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:40:41Z"
+}

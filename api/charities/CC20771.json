@@ -1,0 +1,27 @@
+{
+  "id": 53793,
+  "registrationNumber": "CC20771",
+  "name": "Christian Renewal Trust (Inc)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://renewchurch.nz/",
+  "email": "symon@renewchurch.nz",
+  "address": {
+    "line1": "2 Tarewa Road",
+    "line2": " ",
+    "suburb": "Morningside",
+    "city": "Whangarei",
+    "postcode": "110"
+  },
+  "nzbn": "9429042619079",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/renewchurchnz/",
+    "twitter": "https://twitter.com/renewchurchnz/"
+  },
+  "lastUpdated": "2026-02-26T02:41:24Z"
+}

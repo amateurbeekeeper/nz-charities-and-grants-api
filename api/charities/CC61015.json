@@ -1,0 +1,27 @@
+{
+  "id": 74598,
+  "registrationNumber": "CC61015",
+  "name": "Vaka Pasifika Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-02-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://vakapasifika.org.nz",
+  "email": "kato@vakapasifika.org.nz",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "405 Hobsonville Road",
+    "suburb": "Hobsonville",
+    "city": "Auckland",
+    "postcode": "0618"
+  },
+  "nzbn": "9429043175390",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:45:36Z"
+}

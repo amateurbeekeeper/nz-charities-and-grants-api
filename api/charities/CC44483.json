@@ -1,0 +1,27 @@
+{
+  "id": 47197,
+  "registrationNumber": "CC44483",
+  "name": "Rotorua United Association Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rotoruaunited.co.nz",
+  "email": "accts.ruafc@gmail.com",
+  "address": {
+    "line1": "23B Tarawera Road",
+    "line2": "Tarawera Road",
+    "suburb": "Lynmore",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042735359",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://m.facebook.com/RotoruaUnitedAFC/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:06:52Z"
+}

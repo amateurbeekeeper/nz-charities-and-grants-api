@@ -1,0 +1,27 @@
+{
+  "id": 35953,
+  "registrationNumber": "CC44960",
+  "name": "Whanganui Literary Festival Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-08-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.literaryfestival.co.nz",
+  "email": "whanganuiliteraryfestival@gmail.com",
+  "address": {
+    "line1": "50A Boydfield Street",
+    "line2": " ",
+    "suburb": "Whanganui East",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429043324521",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whanganuiLIT",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T04:19:58Z"
+}

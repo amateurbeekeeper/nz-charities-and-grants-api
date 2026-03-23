@@ -1,0 +1,27 @@
+{
+  "id": 65267,
+  "registrationNumber": "CC51498",
+  "name": "NetNZ Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-03-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.netnz.org",
+  "email": "ken@netnz.org",
+  "address": {
+    "line1": "42A St Leonards Drive",
+    "line2": " ",
+    "suburb": "Saint Leonards",
+    "city": "Dunedin",
+    "postcode": "9022"
+  },
+  "nzbn": "9429030286948",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/netnz1/",
+    "twitter": "@netnz1"
+  },
+  "lastUpdated": "2026-01-01T06:15:07Z"
+}

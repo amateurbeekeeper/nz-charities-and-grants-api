@@ -1,0 +1,27 @@
+{
+  "id": 56323,
+  "registrationNumber": "CC23202",
+  "name": "Roosevelt Road Bible Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rrbcnz@gmail.com",
+  "address": {
+    "line1": "5 Roosevelt Road",
+    "line2": " ",
+    "suburb": "Western Heights",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:26:08Z"
+}

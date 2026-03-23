@@ -1,0 +1,27 @@
+{
+  "id": 35304,
+  "registrationNumber": "CC49822",
+  "name": "New Zealand Rural Hospital Network Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2013-10-14T00:00:00Z",
+  "dateDeregistered": "2023-03-28T00:00:00Z",
+  "website": "https://www.nzrhn.co.nz",
+  "email": "accounts@htrhn.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "88 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043217311",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-05-08T07:02:13Z"
+}

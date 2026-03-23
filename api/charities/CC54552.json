@@ -1,0 +1,27 @@
+{
+  "id": 68331,
+  "registrationNumber": "CC54552",
+  "name": "New Zealand Dragon Boat Association Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzdba.co.nz/",
+  "email": "secretary@nzdba.co.nz",
+  "address": {
+    "line1": "39A Lysander Crescent",
+    "line2": " ",
+    "suburb": "Beach Haven",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429042993018",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZDragonboatAssociation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-21T02:07:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66059,
+  "registrationNumber": "CC52321",
+  "name": "Oban Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-08-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chittenden05@xtra.co.nz",
+  "address": {
+    "line1": "41 Kamahi Road",
+    "line2": " ",
+    "suburb": "Oban",
+    "city": "Stewart Island",
+    "postcode": "9846"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T09:30:39Z"
+}

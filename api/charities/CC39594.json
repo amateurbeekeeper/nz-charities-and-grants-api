@@ -1,0 +1,27 @@
+{
+  "id": 42793,
+  "registrationNumber": "CC39594",
+  "name": "Arrowtown Village Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.arrowtownvillage.nz",
+  "email": "d.hardingshaw@gmail.com",
+  "address": {
+    "line1": "32 Cornwall Street",
+    "line2": "Arrowtown 9302",
+    "suburb": "Arrowtown",
+    "city": "Arrowtown",
+    "postcode": "9302"
+  },
+  "nzbn": "9429042961505",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/arrowtownvillage",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T01:23:44Z"
+}

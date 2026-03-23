@@ -1,0 +1,27 @@
+{
+  "id": 41247,
+  "registrationNumber": "CC32233",
+  "name": "Estate A H Meikleham",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ktlaw.co.nz",
+  "email": "kwooles3@gmail.com",
+  "address": {
+    "line1": "99 Shalamar Drive",
+    "line2": " ",
+    "suburb": "Cashmere",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T18:55:12Z"
+}

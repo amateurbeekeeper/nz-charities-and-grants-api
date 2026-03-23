@@ -1,0 +1,27 @@
+{
+  "id": 50056,
+  "registrationNumber": "CC41360",
+  "name": "Palmerston North Christian Leaders Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pncla.org.nz",
+  "email": "info@pncla.org.nz",
+  "address": {
+    "line1": "237 Tremaine Avenue",
+    "line2": "Palmerston North Central",
+    "suburb": "Highbury",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429043203352",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PNChristianChurches",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T20:31:48Z"
+}

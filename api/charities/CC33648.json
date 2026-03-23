@@ -1,0 +1,27 @@
+{
+  "id": 45265,
+  "registrationNumber": "CC33648",
+  "name": "The Whangaparaoa Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://whangaparaoahall.nz",
+  "email": "wayne@waynewalker.co.nz",
+  "address": {
+    "line1": "717 Whangaparoa Road",
+    "line2": "Whangaparoa",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "930"
+  },
+  "nzbn": "9429043043286",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Whangaparaoa Hall",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T01:43:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66257,
+  "registrationNumber": "CC52523",
+  "name": "No Bullying Initiative Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nbit.org.nz",
+  "email": "bigson@nbit.org.nz",
+  "address": {
+    "line1": "145 Great South Road",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429043277643",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/www.antibullying.co.nz/?ref=bookmarks",
+    "twitter": "https://twitter.com/NoBullyingNZ"
+  },
+  "lastUpdated": "2025-10-07T05:09:52Z"
+}

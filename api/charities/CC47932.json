@@ -1,0 +1,27 @@
+{
+  "id": 37554,
+  "registrationNumber": "CC47932",
+  "name": "Dog Rescue Dunedin Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://dogrescuedunedin.nz",
+  "email": "info@dogrescuedunedin.nz",
+  "address": {
+    "line1": "PO Box 5865",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9054"
+  },
+  "nzbn": "9429043235025",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/dogrescuedunedincharitabletrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T19:14:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73673,
+  "registrationNumber": "CC60043",
+  "name": "What Dance Can Do NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://thewhatdancecandoproject.com/new-zealand/",
+  "email": "raina.ng.young@gmail.com",
+  "address": {
+    "line1": "33 Sunnyvale Road",
+    "line2": " ",
+    "suburb": "Swanson",
+    "city": "Auckland",
+    "postcode": "0614"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/whatdancecando/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-10T16:19:41Z"
+}

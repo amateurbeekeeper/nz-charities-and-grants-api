@@ -1,0 +1,27 @@
+{
+  "id": 53119,
+  "registrationNumber": "CC20223",
+  "name": "Disability Information Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.livingwellcentre.nz",
+  "email": "manager@livingwellcentre.nz",
+  "address": {
+    "line1": "10 George Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042645467",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/livingwell.centre.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T23:37:22Z"
+}

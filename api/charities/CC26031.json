@@ -1,0 +1,27 @@
+{
+  "id": 42453,
+  "registrationNumber": "CC26031",
+  "name": "The Methodist Church Of New Zealand Te Haahi Weteriana O Aotearoa Rangiora Parish (8190)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.methodist.org.nz",
+  "email": "methodist.rangiora@gmail.com",
+  "address": {
+    "line1": "Weteriana House",
+    "line2": "50 Langdons Road",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:37:50Z"
+}

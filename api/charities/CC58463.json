@@ -1,0 +1,27 @@
+{
+  "id": 72082,
+  "registrationNumber": "CC58463",
+  "name": "Fale Pasifika Women's Refuge Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.falepasifikawomensrefuge.org.nz",
+  "email": "melissa@falepasifika.org.nz",
+  "address": {
+    "line1": "101B Station Road",
+    "line2": " ",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-16T18:30:48Z"
+}

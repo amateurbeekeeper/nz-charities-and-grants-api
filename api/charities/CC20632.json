@@ -1,0 +1,27 @@
+{
+  "id": 53998,
+  "registrationNumber": "CC20632",
+  "name": "Brain Injured Children Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.braininjuredchildrentrust.co.nz",
+  "email": "shirley@braininjuredchildrentrust.co.nz",
+  "address": {
+    "line1": "145 Seventeenth Avenue",
+    "line2": "143 Seventeenth Ave",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042697886",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@braininjuredchildrentrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T17:50:08Z"
+}

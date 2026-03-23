@@ -1,0 +1,27 @@
+{
+  "id": 67653,
+  "registrationNumber": "CC53963",
+  "name": "Feeling Fab Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-12-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.feelingfab.org.nz",
+  "email": "hello@feelingfab.org.nz",
+  "address": {
+    "line1": "12 Aileron Rise",
+    "line2": "RD 4",
+    "suburb": "Dairy Flat",
+    "city": "Albany",
+    "postcode": "0794"
+  },
+  "nzbn": "9429043257249",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@feelingfabfoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T22:38:09Z"
+}

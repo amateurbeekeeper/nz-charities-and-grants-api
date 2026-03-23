@@ -1,0 +1,27 @@
+{
+  "id": 48312,
+  "registrationNumber": "CC30834",
+  "name": "The Trustees Of The Christian Brothers New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.edmundrice.org",
+  "email": "mlgroenewegen@edmundrice.org",
+  "address": {
+    "line1": "24B Wharenui Road",
+    "line2": " ",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042893738",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T00:11:27Z"
+}

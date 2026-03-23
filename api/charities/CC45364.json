@@ -1,0 +1,27 @@
+{
+  "id": 35832,
+  "registrationNumber": "CC45364",
+  "name": "New Zealand Meditation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.meditationauckland.co.nz",
+  "email": "jogyata@slingshot.co.nz",
+  "address": {
+    "line1": "89 Dominion Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429043212330",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "nil",
+    "twitter": "nil"
+  },
+  "lastUpdated": "2025-10-08T20:06:56Z"
+}

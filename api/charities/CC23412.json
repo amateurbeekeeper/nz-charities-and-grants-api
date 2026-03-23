@@ -1,0 +1,27 @@
+{
+  "id": 40202,
+  "registrationNumber": "CC23412",
+  "name": "Big Brothers Big Sisters of Taranaki",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://bigbrothersbigsisters.org.nz",
+  "email": "paul@bbbs.nz",
+  "address": {
+    "line1": "95 Powderham Street",
+    "line2": "New Plymouth 4310",
+    "suburb": "New Plymouth",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043034741",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T18:40:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 49986,
+  "registrationNumber": "CC37816",
+  "name": "Equippers Christchurch Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.christchurch.equipperschurch.com",
+  "email": "jonathan.brown@equipperschurch.com",
+  "address": {
+    "line1": "334 Manchester Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429043163182",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T19:28:43Z"
+}

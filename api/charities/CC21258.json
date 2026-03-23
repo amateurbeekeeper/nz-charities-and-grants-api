@@ -1,0 +1,27 @@
+{
+  "id": 54468,
+  "registrationNumber": "CC21258",
+  "name": "North Porirua Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.npbc.org.nz",
+  "email": "office@npbc.org.nz",
+  "address": {
+    "line1": "Discovery Drive",
+    "line2": " ",
+    "suburb": "Whitby",
+    "city": "Porirua",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/northporiruabaptist/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T23:53:35Z"
+}

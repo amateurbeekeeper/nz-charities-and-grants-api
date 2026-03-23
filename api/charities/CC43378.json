@@ -1,0 +1,27 @@
+{
+  "id": 62666,
+  "registrationNumber": "CC43378",
+  "name": "Onekaka Links Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.onekakalinks.com ",
+  "email": "chris@widespread.co.nz",
+  "address": {
+    "line1": "1232 Takaka-Collingwood Highway",
+    "line2": "Onekaka 7182",
+    "suburb": "Onekaka",
+    "city": "Onekaka",
+    "postcode": "7182"
+  },
+  "nzbn": "9429043200214",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T22:59:17Z"
+}

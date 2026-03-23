@@ -1,0 +1,27 @@
+{
+  "id": 45245,
+  "registrationNumber": "CC38342",
+  "name": "Universal Income Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sarah.ayre@uitrustnz.org",
+  "address": {
+    "line1": "PO Box 2513",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7041"
+  },
+  "nzbn": "9429042941248",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T01:21:18Z"
+}

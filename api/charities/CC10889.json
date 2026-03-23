@@ -1,0 +1,27 @@
+{
+  "id": 52626,
+  "registrationNumber": "CC10889",
+  "name": "New Creation Ministries Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ncm.org.nz",
+  "email": "newcreation.nz@gmail.com",
+  "address": {
+    "line1": "37 Fitzherbert East Road",
+    "line2": "RD 1",
+    "suburb": "Aokautere",
+    "city": "Palmerston North",
+    "postcode": "4471"
+  },
+  "nzbn": "9429043049226",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T18:03:15Z"
+}

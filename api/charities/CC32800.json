@@ -1,0 +1,27 @@
+{
+  "id": 40491,
+  "registrationNumber": "CC32800",
+  "name": "Mangere Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mangerebaptist.org.nz",
+  "email": "john@mangerebaptist.org.nz",
+  "address": {
+    "line1": "cnr Bader Drive & Ashgrove Rd",
+    "line2": " ",
+    "suburb": " Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/MangereBaptistChurch/?fref=ts&ref=br_tf",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-08T19:23:41Z"
+}

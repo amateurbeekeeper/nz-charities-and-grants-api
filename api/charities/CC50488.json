@@ -1,0 +1,27 @@
+{
+  "id": 33997,
+  "registrationNumber": "CC50488",
+  "name": "Active Transport Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "richard@path.net.nz",
+  "address": {
+    "line1": "35 Seacliffe Road",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429043310333",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.path.net.nz",
+    "twitter": "#PATHactive"
+  },
+  "lastUpdated": "2026-01-12T01:03:38Z"
+}

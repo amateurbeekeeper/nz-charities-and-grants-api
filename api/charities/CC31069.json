@@ -1,0 +1,27 @@
+{
+  "id": 47761,
+  "registrationNumber": "CC31069",
+  "name": "Howick Community Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2016-07-07T00:00:00Z",
+  "website": "https://www.hcc.co.nz",
+  "email": "jeanette@hcc.co.nz",
+  "address": {
+    "line1": "120 Picton Street",
+    "line2": null,
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-07-17T00:10:23Z"
+}

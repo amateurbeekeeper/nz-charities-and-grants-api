@@ -1,0 +1,27 @@
+{
+  "id": 72494,
+  "registrationNumber": "CC58884",
+  "name": "Sakinah Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.sakinahtrust.org",
+  "email": "kmunir25@yahoo.com",
+  "address": {
+    "line1": "52 Makybe Terrace",
+    "line2": "Lincoln 7608",
+    "suburb": "Bishopdale",
+    "city": "Lincoln",
+    "postcode": "7608"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SakinahCommunityTrust",
+    "twitter": "https://twitter.com/sakinahtrust"
+  },
+  "lastUpdated": "2025-09-23T21:57:48Z"
+}

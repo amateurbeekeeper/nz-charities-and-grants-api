@@ -1,0 +1,27 @@
+{
+  "id": 38609,
+  "registrationNumber": "CC45515",
+  "name": "The Upper Room Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-10-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.upperroom.org.nz",
+  "email": "john@upperroom.org.nz",
+  "address": {
+    "line1": "12B Clayton Street",
+    "line2": " ",
+    "suburb": "Newmarket",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043196623",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TURChurch/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T18:24:43Z"
+}

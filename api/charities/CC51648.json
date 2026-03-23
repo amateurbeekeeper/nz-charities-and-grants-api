@@ -1,0 +1,27 @@
+{
+  "id": 65414,
+  "registrationNumber": "CC51648",
+  "name": "The Havelock Gallery Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thegalleryhavelock.com",
+  "email": "parkerlvicki@gmail.com",
+  "address": {
+    "line1": "60 Main Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Havelock",
+    "postcode": "7100"
+  },
+  "nzbn": "9429048253970",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheGalleryHavelock/?ref=aymt_homepage_panel",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-15T19:28:06Z"
+}

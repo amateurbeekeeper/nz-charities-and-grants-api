@@ -1,0 +1,27 @@
+{
+  "id": 58624,
+  "registrationNumber": "CC26479",
+  "name": "The Caversham Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2024-02-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://caversham.mibase.com.au/php/website/index.php",
+  "email": "thegrounds@xtra.co.nz",
+  "address": {
+    "line1": "61 Thorn Street",
+    "line2": " ",
+    "suburb": "Caversham",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042775157",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CavershamToyLibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-19T18:19:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 58595,
+  "registrationNumber": "CC32897",
+  "name": "Tauranga Civic Choir Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.taurangacivicchoir.org.nz",
+  "email": "rmluijken@gmail.com",
+  "address": {
+    "line1": "30 Harbour Drive",
+    "line2": " ",
+    "suburb": "Otumoetai",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043171033",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TaurangaCivicChoir/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T06:08:23Z"
+}

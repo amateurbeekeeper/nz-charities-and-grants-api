@@ -1,0 +1,27 @@
+{
+  "id": 63369,
+  "registrationNumber": "CC37354",
+  "name": "New Foundations Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.newfoundationstrust.org.nz",
+  "email": "doers@xtra.co.nz",
+  "address": {
+    "line1": "Waiau Pa",
+    "line2": null,
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429043089949",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T01:02:34Z"
+}

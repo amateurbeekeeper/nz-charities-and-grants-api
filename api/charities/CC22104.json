@@ -1,0 +1,27 @@
+{
+  "id": 54765,
+  "registrationNumber": "CC22104",
+  "name": "Tamaki Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tcchurch.nz",
+  "email": "shannon@tcchurch.nz",
+  "address": {
+    "line1": "4A Court Crescent",
+    "line2": " ",
+    "suburb": "Panmure",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429051536312",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T20:00:25Z"
+}

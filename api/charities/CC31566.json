@@ -1,0 +1,27 @@
+{
+  "id": 48092,
+  "registrationNumber": "CC31566",
+  "name": "Rudolf Steiner School Trust (Otago)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dunedinsteiner.nz",
+  "email": "admin@dunedinsteiner.nz",
+  "address": {
+    "line1": "Rudolf Steiner School",
+    "line2": "1 Fern Road",
+    "suburb": "Maia",
+    "city": "Dunedin",
+    "postcode": "9022"
+  },
+  "nzbn": "9429042872603",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Dunedin Rudolf Steiner School",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T20:47:24Z"
+}

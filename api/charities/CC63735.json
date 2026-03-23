@@ -1,0 +1,27 @@
+{
+  "id": 77931,
+  "registrationNumber": "CC63735",
+  "name": "The Garden Church Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "thegardenakl.com",
+  "email": "dave@colabaccounting.co.nz",
+  "address": {
+    "line1": "44 George Street",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429053161109",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T00:24:05Z"
+}

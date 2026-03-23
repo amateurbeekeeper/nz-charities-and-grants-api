@@ -1,0 +1,27 @@
+{
+  "id": 66844,
+  "registrationNumber": "CC53142",
+  "name": "Catholic Parish Of The Holy Family Nelson",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.holyfamilynelson.org.nz",
+  "email": "office@holyfamilynelson.org.nz",
+  "address": {
+    "line1": "2/18 Manuka Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7040"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T00:44:04Z"
+}

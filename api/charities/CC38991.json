@@ -1,0 +1,27 @@
+{
+  "id": 61444,
+  "registrationNumber": "CC38991",
+  "name": "St Peter's School Alumni Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stpetersalumni.org.nz",
+  "email": "finance@stpeters.school.nz",
+  "address": {
+    "line1": "1716 Cambridge Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3283"
+  },
+  "nzbn": "9429042831655",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T18:05:28Z"
+}

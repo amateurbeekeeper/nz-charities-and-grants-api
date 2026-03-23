@@ -1,0 +1,27 @@
+{
+  "id": 65785,
+  "registrationNumber": "CC52040",
+  "name": "Wellington Down Syndrome Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wdsa.co.nz",
+  "email": "susan@wdsa.co.nz",
+  "address": {
+    "line1": "C/o 21 Nile Street",
+    "line2": " ",
+    "suburb": "Waterloo",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WDSAssn",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T03:47:45Z"
+}

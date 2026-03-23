@@ -1,0 +1,27 @@
+{
+  "id": 54000,
+  "registrationNumber": "CC21170",
+  "name": "Te Aroha And District Health Services Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tahosp.org.nz",
+  "email": "finance@tahosp.org.nz",
+  "address": {
+    "line1": "72 Stanley Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Aroha",
+    "postcode": "3320"
+  },
+  "nzbn": "9429042835943",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Aroha Community Hospital",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T00:02:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65864,
+  "registrationNumber": "CC52121",
+  "name": "The Southern Presbytery",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.southernpresbyterians.nz ",
+  "email": "presbyteryeo@southernpresbyterians.nz",
+  "address": {
+    "line1": "417 Moray Place",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429051665494",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T02:16:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65336,
+  "registrationNumber": "CC51560",
+  "name": "TDL NO.3 LIMITED",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tgh.co.nz",
+  "email": "Statrec@tgh.co.nz",
+  "address": {
+    "line1": "6 Bryce Street",
+    "line2": "Hamilton 3244",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429030762640",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T01:38:23Z"
+}

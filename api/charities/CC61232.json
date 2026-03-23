@@ -1,0 +1,27 @@
+{
+  "id": 74811,
+  "registrationNumber": "CC61232",
+  "name": "Pathfinder Kindred Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "kindredtech.org",
+  "email": "bree@kindredtech.org",
+  "address": {
+    "line1": "122C Forestry Road",
+    "line2": "RD 1",
+    "suburb": "Waitoki",
+    "city": "Kaukapakapa",
+    "postcode": "0871"
+  },
+  "nzbn": "9429048609142",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Kindredtech",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T03:58:58Z"
+}

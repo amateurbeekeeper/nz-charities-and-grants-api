@@ -1,0 +1,27 @@
+{
+  "id": 72276,
+  "registrationNumber": "CC58662",
+  "name": "The Trust Board of Signadou",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-01-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "signadou@opsisters.org.nz",
+  "address": {
+    "line1": "12B York Street",
+    "line2": " ",
+    "suburb": "Gonville",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T23:02:13Z"
+}

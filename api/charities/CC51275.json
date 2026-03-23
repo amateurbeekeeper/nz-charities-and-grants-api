@@ -1,0 +1,27 @@
+{
+  "id": 34463,
+  "registrationNumber": "CC51275",
+  "name": "Te Tira Whakaari Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tetirawhakaari.co.nz",
+  "email": "accounts@ranalco.co.nz",
+  "address": {
+    "line1": "Counter Delivery",
+    "line2": "Manutuke Postcentre",
+    "suburb": "Manutūkē",
+    "city": "Manutuke",
+    "postcode": "4053"
+  },
+  "nzbn": "9429043263813",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T19:37:31Z"
+}

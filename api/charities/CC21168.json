@@ -1,0 +1,27 @@
+{
+  "id": 54374,
+  "registrationNumber": "CC21168",
+  "name": "Hawke's Bay Addiction Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.hbact.co.nz",
+  "email": "tashflorens@gmail.com",
+  "address": {
+    "line1": "42 Morris Street",
+    "line2": " ",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042711858",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T02:04:23Z"
+}

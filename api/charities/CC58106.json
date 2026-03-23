@@ -1,0 +1,27 @@
+{
+  "id": 71730,
+  "registrationNumber": "CC58106",
+  "name": "House of Science Christchurch Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://houseofscience.nz/christchurch/",
+  "email": "christchurch@houseofscience.nz",
+  "address": {
+    "line1": "5A Validation Place",
+    "line2": " ",
+    "suburb": "Middleton",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429048358590",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HouseofScienceChCh/ ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T02:53:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 46467,
+  "registrationNumber": "CC42549",
+  "name": "North Shore Amateur Swimming Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.northshoreswimclub.org.nz",
+  "email": "nickw@nss.org.nz",
+  "address": {
+    "line1": "17 Antares Place",
+    "line2": "Mairangi Bay",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429042688501",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "North Shore Swimming",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T01:09:33Z"
+}

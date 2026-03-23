@@ -1,0 +1,27 @@
+{
+  "id": 57948,
+  "registrationNumber": "CC29151",
+  "name": "Reformed Church Of Hastings",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://hastings.rcnz.org.nz",
+  "email": "hastingsreformed@gmail.com",
+  "address": {
+    "line1": "1234 Howard Street",
+    "line2": " ",
+    "suburb": "Parkvale",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429042741541",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-26T19:16:00Z"
+}

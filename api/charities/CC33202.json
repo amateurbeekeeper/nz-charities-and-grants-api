@@ -1,0 +1,27 @@
+{
+  "id": 49699,
+  "registrationNumber": "CC33202",
+  "name": "Anjuman-E-Saifee (New Zealand)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzjamaat.org",
+  "email": "secretary@nzjamaat.org",
+  "address": {
+    "line1": "302 Great North Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429043153749",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T22:09:30Z"
+}

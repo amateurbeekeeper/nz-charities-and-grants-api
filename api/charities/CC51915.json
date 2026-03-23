@@ -1,0 +1,27 @@
+{
+  "id": 65664,
+  "registrationNumber": "CC51915",
+  "name": "Bethlehem Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bcchurch.co.nz",
+  "email": "accts.at.crest@gmail.com",
+  "address": {
+    "line1": "183 Moffat Road",
+    "line2": " ",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T22:15:37Z"
+}

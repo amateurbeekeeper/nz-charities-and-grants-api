@@ -1,0 +1,27 @@
+{
+  "id": 73143,
+  "registrationNumber": "CC59548",
+  "name": "Christchurch Peony Club",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chcpeonyclub@gmail.com",
+  "address": {
+    "line1": "34 Chateau Drive",
+    "line2": " ",
+    "suburb": "Burnside",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/957674865337290",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T10:17:02Z"
+}

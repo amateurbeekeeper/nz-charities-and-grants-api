@@ -1,0 +1,27 @@
+{
+  "id": 41732,
+  "registrationNumber": "CC26426",
+  "name": "The Anglican Church in Aotearoa New Zealand and Polynesia, Te Hahi Mihinare Ki Aotearoa, Ki Niutireni, Ki Nga Moutere O Te Moana Nui a Kiwa",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.anglican.org.nz",
+  "email": "gensec@anglicanchurch.org.nz",
+  "address": {
+    "line1": "202 St Johns Road",
+    "line2": " ",
+    "suburb": "Saint Johns",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T20:18:10Z"
+}

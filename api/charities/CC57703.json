@@ -1,0 +1,27 @@
+{
+  "id": 71329,
+  "registrationNumber": "CC57703",
+  "name": "Hauraki Reuse Centre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.haurakirepairandreusecentre.co.nz",
+  "email": "duncan@haurakirepairandreusecentre.co.nz",
+  "address": {
+    "line1": "1 Grey Street",
+    "line2": " ",
+    "suburb": "Paeroa",
+    "city": "Paeroa",
+    "postcode": "3600"
+  },
+  "nzbn": "9429047239074",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top/?q=hauraki%20reuse%20centre&epa=SEARCH_BOX",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T01:20:49Z"
+}

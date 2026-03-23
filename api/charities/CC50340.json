@@ -1,0 +1,27 @@
+{
+  "id": 34080,
+  "registrationNumber": "CC50340",
+  "name": "Wanaka Squash Rackets Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wanakasquash.co.nz",
+  "email": "gabriela.flessak@wanakasquash.co.nz",
+  "address": {
+    "line1": "21 Stone Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429042915386",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-21T23:22:57Z"
+}

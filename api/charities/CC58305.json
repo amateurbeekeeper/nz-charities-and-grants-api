@@ -1,0 +1,27 @@
+{
+  "id": 71929,
+  "registrationNumber": "CC58305",
+  "name": "The Hospitality New Zealand Charitable Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hospitality.org.nz",
+  "email": "rab@hospitality.org.nz",
+  "address": {
+    "line1": "94 Dixon Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042644767",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/HospitalityNZ",
+    "twitter": "twitter.com/HospitalityNZL"
+  },
+  "lastUpdated": "2026-01-06T20:35:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43965,
+  "registrationNumber": "CC28617",
+  "name": "Waitati Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "charles.abraham@fireandemergency.nz",
+  "address": {
+    "line1": "11 Harvey Street",
+    "line2": "Waitati 9085",
+    "suburb": "Waitati",
+    "city": "Waitati",
+    "postcode": "9085"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waitati Fire Brigade",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T19:38:38Z"
+}

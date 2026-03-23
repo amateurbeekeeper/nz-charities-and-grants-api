@@ -1,0 +1,27 @@
+{
+  "id": 34231,
+  "registrationNumber": "CC50833",
+  "name": "WORD Limited",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.word.org.nz",
+  "email": "info@word.org.nz",
+  "address": {
+    "line1": "71 Wynyard Crescent",
+    "line2": " ",
+    "suburb": "Fernhill",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429041201480",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T21:02:27Z"
+}

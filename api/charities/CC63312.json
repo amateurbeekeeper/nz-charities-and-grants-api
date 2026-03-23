@@ -1,0 +1,27 @@
+{
+  "id": 77515,
+  "registrationNumber": "CC63312",
+  "name": "Ōtākaro Living Laboratory Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.otakarolivinglab.org.nz/",
+  "email": "rob@kerrpartners.co.nz",
+  "address": {
+    "line1": "92 Palatine Terrace",
+    "line2": null,
+    "suburb": "Saint Martins",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-22T02:00:43Z"
+}

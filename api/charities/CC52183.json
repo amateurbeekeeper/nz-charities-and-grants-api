@@ -1,0 +1,27 @@
+{
+  "id": 65921,
+  "registrationNumber": "CC52183",
+  "name": "Limelight Theatre Company Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.limelight.org.nz",
+  "email": "david.johnson@movingfrontiers.com",
+  "address": {
+    "line1": "184 Belvedere Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Carterton",
+    "postcode": "5713"
+  },
+  "nzbn": "9429042944638",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/limelightcarterton",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T08:58:47Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 49460,
+  "registrationNumber": "CC34146",
+  "name": "Kohimarama School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kohi.school.nz",
+  "email": "kohimaramapta@gmail.com",
+  "address": {
+    "line1": "112 Kohimarama Road",
+    "line2": " ",
+    "suburb": "Kohimarama",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KohimaramaSchoolPTA/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T17:01:25Z"
+}

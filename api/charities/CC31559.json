@@ -1,0 +1,27 @@
+{
+  "id": 49236,
+  "registrationNumber": "CC31559",
+  "name": "Dream Days Lifetime Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dreamdays.co.nz",
+  "email": "accounts@lifetime.co.nz",
+  "address": {
+    "line1": "520 Colombo Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043185290",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dreamdaysbylifetime/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:05:18Z"
+}

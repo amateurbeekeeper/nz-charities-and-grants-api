@@ -1,0 +1,27 @@
+{
+  "id": 48889,
+  "registrationNumber": "CC40653",
+  "name": "Papatoetoe Chess Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.papatoetoechessclub.co.nz/",
+  "email": "blessed.mambo@yahoo.com",
+  "address": {
+    "line1": "Papatoetoe Hunters Corner Bowling Club",
+    "line2": " 247 Great South Road",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "1730"
+  },
+  "nzbn": "9429042824770",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Papatoetoe Chess Club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T05:42:59Z"
+}

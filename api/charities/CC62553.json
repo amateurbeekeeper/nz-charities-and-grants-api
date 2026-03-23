@@ -1,0 +1,27 @@
+{
+  "id": 76120,
+  "registrationNumber": "CC62553",
+  "name": " NZLanka Media Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzlmt.org.nz",
+  "email": "info@nzlmt.org.nz",
+  "address": {
+    "line1": "24 Rangitira Avenue",
+    "line2": null,
+    "suburb": null,
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429051956592",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZLankaMediaTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T19:22:17Z"
+}

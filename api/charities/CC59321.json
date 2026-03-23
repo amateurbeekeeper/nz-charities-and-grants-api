@@ -1,0 +1,27 @@
+{
+  "id": 72929,
+  "registrationNumber": "CC59321",
+  "name": "Te Awhi Rito",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.teawhirito.nz",
+  "email": "vicars@stjohnstrentham.org.nz",
+  "address": {
+    "line1": "47 Te Rauparaha Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Otaki",
+    "postcode": "5512"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/teawhiritotrustotaki",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:15:47Z"
+}

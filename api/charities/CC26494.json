@@ -1,0 +1,27 @@
+{
+  "id": 42380,
+  "registrationNumber": "CC26494",
+  "name": "The Bruce Pulman Park Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://brucepulmanpark.com",
+  "email": "sheraaz.sharif@brucepulmanpark.com",
+  "address": {
+    "line1": "C/- CAMPBELL TYSON",
+    "line2": " LEVEL 2",
+    "suburb": "1 Wesley Street",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429043084012",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Bruce Pulman Park",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:40:07Z"
+}

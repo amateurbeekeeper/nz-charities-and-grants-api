@@ -1,0 +1,27 @@
+{
+  "id": 43829,
+  "registrationNumber": "CC32842",
+  "name": "Bethells Beach Surf Life Saving Patrol Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bethellsbeach.org.nz",
+  "email": "treasurer@bethellsbeach.org.nz",
+  "address": {
+    "line1": "Te Henga Park",
+    "line2": "Bethells Rd",
+    "suburb": "Bethells Beach",
+    "city": "Waitakere",
+    "postcode": "0614"
+  },
+  "nzbn": "9429042592570",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T20:00:36Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 58794,
+  "registrationNumber": "CC28271",
+  "name": "Wellington Returned And Services Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wrsa.org.nz/",
+  "email": "office@wrsa.org.nz",
+  "address": {
+    "line1": "Level 9",
+    "line2": "86 Victoria Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042913733",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T23:28:51Z"
+}

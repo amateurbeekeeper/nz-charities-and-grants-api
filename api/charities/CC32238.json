@@ -1,0 +1,27 @@
+{
+  "id": 43103,
+  "registrationNumber": "CC32238",
+  "name": "Musical Society Musica Balkanica (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.musicabalkanica.org/",
+  "email": "andrew.deyell@stuff.co.nz",
+  "address": {
+    "line1": "7 Eastling Street",
+    "line2": " ",
+    "suburb": "Bishopdale",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429043047833",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T01:11:19Z"
+}

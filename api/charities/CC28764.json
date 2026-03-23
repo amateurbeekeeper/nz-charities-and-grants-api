@@ -1,0 +1,27 @@
+{
+  "id": 39949,
+  "registrationNumber": "CC28764",
+  "name": "Trinity Home and Hospital Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.trinityhawera.co.nz",
+  "email": "admin@trinityhawera.co.nz",
+  "address": {
+    "line1": "TRINITY HOME AND HOSPITAL",
+    "line2": " ",
+    "suburb": "47 - 61 Puriri Street",
+    "city": "Hawera",
+    "postcode": "4610"
+  },
+  "nzbn": "9429037540036",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T01:05:38Z"
+}

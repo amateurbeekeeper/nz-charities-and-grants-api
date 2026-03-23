@@ -1,0 +1,27 @@
+{
+  "id": 43586,
+  "registrationNumber": "CC32416",
+  "name": "North Harbour Science and Technology Fair",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://northharboursciences.com/",
+  "email": "northharbourscience@gmail.com",
+  "address": {
+    "line1": "455 East Coast Road",
+    "line2": "North Shore",
+    "suburb": "Murrays Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-07T00:30:17Z"
+}

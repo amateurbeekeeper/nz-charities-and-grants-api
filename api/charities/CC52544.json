@@ -1,0 +1,27 @@
+{
+  "id": 66274,
+  "registrationNumber": "CC52544",
+  "name": "Take My Hands Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-09-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.takemyhands.org",
+  "email": "janette@takemyhands.org",
+  "address": {
+    "line1": "40 John Street",
+    "line2": " ",
+    "suburb": "Whangārei",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043254095",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/takemyhands.org",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T19:36:58Z"
+}

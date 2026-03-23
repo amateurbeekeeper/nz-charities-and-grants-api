@@ -1,0 +1,27 @@
+{
+  "id": 65642,
+  "registrationNumber": "CC51894",
+  "name": "St Columba Presbyterian Church, Tauranga",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stcolumba.co.nz",
+  "email": "office@stcolumba.co.nz",
+  "address": {
+    "line1": "502 Otumoetai Road",
+    "line2": " ",
+    "suburb": "Otumoetai",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:19:21Z"
+}

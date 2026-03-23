@@ -1,0 +1,27 @@
+{
+  "id": 43425,
+  "registrationNumber": "CC31958",
+  "name": "Friends of North School (Westport)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.westportnorth.school.nz",
+  "email": "sammy_heaphy@hotmail.com",
+  "address": {
+    "line1": "Westport North School",
+    "line2": "65 Cobden Street",
+    "suburb": " ",
+    "city": "Westport",
+    "postcode": "7825"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T21:02:47Z"
+}

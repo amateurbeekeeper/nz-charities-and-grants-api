@@ -1,0 +1,27 @@
+{
+  "id": 38618,
+  "registrationNumber": "CC45742",
+  "name": "The Kavanagh Alumni Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-11-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.kavanagh.school.nz",
+  "email": "chris.burke@rdblaw.co.nz",
+  "address": {
+    "line1": "340 Rattray Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043192786",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kavanaghalumni/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T02:31:05Z"
+}

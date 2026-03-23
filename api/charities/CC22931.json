@@ -1,0 +1,27 @@
+{
+  "id": 40707,
+  "registrationNumber": "CC22931",
+  "name": "Auckland Training Centre For Psychodrama",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-04-13T00:00:00Z",
+  "dateDeregistered": "2022-12-31T00:00:00Z",
+  "website": "https://psychodrama.org.nz/atcp/",
+  "email": "david@allaboutbooks.co.nz",
+  "address": {
+    "line1": "8 Kerikeri Grove",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "0230"
+  },
+  "nzbn": "9429042590828",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-06-08T07:01:43Z"
+}

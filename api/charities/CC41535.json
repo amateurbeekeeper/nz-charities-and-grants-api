@@ -1,0 +1,27 @@
+{
+  "id": 41272,
+  "registrationNumber": "CC41535",
+  "name": "Papakura Volunteer Coastguard Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sam.llelliott@coastguard.nz",
+  "address": {
+    "line1": "Wellington Park",
+    "line2": "1 Great South Road",
+    "suburb": "Papakura",
+    "city": "Auckland",
+    "postcode": "2110"
+  },
+  "nzbn": "9429042823032",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/papakuracoastguard",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T07:29:18Z"
+}

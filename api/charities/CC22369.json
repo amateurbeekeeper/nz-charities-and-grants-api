@@ -1,0 +1,27 @@
+{
+  "id": 55521,
+  "registrationNumber": "CC22369",
+  "name": "Auckland Library Heritage Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.alht.org.nz",
+  "email": "gregmorganhome@gmail.com",
+  "address": {
+    "line1": "44-48 Lorne Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042588498",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T05:29:00Z"
+}

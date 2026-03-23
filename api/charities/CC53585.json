@@ -1,0 +1,27 @@
+{
+  "id": 67295,
+  "registrationNumber": "CC53585",
+  "name": "Whangamata Youth Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ryan@whangamatayouthtrust.org",
+  "address": {
+    "line1": "301 Port Road",
+    "line2": null,
+    "suburb": "Whangamatā",
+    "city": "Whangamata",
+    "postcode": "3620"
+  },
+  "nzbn": "9429043275373",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-13T14:59:29Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48750,
+  "registrationNumber": "CC31656",
+  "name": "Docomomo New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.docomomo.org.nz/",
+  "email": "julia.gatley@auckland.ac.nz",
+  "address": {
+    "line1": "26 Symonds Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043121489",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T00:14:59Z"
+}

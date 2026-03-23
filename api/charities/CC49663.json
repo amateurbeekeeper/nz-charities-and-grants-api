@@ -1,0 +1,27 @@
+{
+  "id": 35093,
+  "registrationNumber": "CC49663",
+  "name": "Tamahunga Trappers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-08-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tamahungatrappers.org.nz/",
+  "email": "tamahungatrappers@hotmail.co.nz",
+  "address": {
+    "line1": "20 Blue Gum Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Warkworth",
+    "postcode": "0910"
+  },
+  "nzbn": "9429043302604",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-02T03:58:24Z"
+}

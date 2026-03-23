@@ -1,0 +1,27 @@
+{
+  "id": 50561,
+  "registrationNumber": "CC44689",
+  "name": "Nga Mataapuna Oranga Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nmo.org.nz",
+  "email": "moana@nmo.org.nz",
+  "address": {
+    "line1": "157 Fraser Street",
+    "line2": " ",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429031604420",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T02:43:03Z"
+}

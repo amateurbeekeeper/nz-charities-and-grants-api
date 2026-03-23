@@ -1,0 +1,27 @@
+{
+  "id": 53328,
+  "registrationNumber": "CC20025",
+  "name": "Buller Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pauline.ansley@kawatirihealth.co.nz",
+  "address": {
+    "line1": "6 Bentham Street",
+    "line2": "Westport 7825",
+    "suburb": " ",
+    "city": "Westport",
+    "postcode": "7825"
+  },
+  "nzbn": "9429043011742",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T22:06:59Z"
+}

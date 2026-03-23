@@ -1,0 +1,27 @@
+{
+  "id": 40444,
+  "registrationNumber": "CC23934",
+  "name": "New Hope Community Church (Inc.)",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-05-05T00:00:00Z",
+  "dateDeregistered": "2021-03-01T00:00:00Z",
+  "website": "http://www.newhopechurch.net.nz",
+  "email": "office@newhopechurch.net.nz",
+  "address": {
+    "line1": "603 Williams Street",
+    "line2": " ",
+    "suburb": "Mahora",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429042992752",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T02:53:02Z"
+}

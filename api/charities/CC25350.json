@@ -1,0 +1,27 @@
+{
+  "id": 41204,
+  "registrationNumber": "CC25350",
+  "name": "Cure Kids",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.curekids.org.nz",
+  "email": "frances@curekids.org.nz",
+  "address": {
+    "line1": "205 Great South Road",
+    "line2": "96 New North Road",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042786863",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-22T19:50:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 46734,
+  "registrationNumber": "CC28859",
+  "name": "Kurow Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2025-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ashley.wilson@fireandemergency.nz",
+  "address": {
+    "line1": "43 Bledisloe Street",
+    "line2": "Kurow 9435",
+    "suburb": "Kurow",
+    "city": "Kurow",
+    "postcode": "9435"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T22:23:19Z"
+}

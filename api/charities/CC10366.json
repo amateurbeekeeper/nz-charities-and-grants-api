@@ -1,0 +1,27 @@
+{
+  "id": 51691,
+  "registrationNumber": "CC10366",
+  "name": "Paradise Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.paradisetrust.co.nz",
+  "email": "tracey@k-os.co.nz",
+  "address": {
+    "line1": "1771 Glenorchy-Paradise Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Glenorchy",
+    "postcode": "9372"
+  },
+  "nzbn": "9429042949220",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/paradisetrustnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T22:55:37Z"
+}

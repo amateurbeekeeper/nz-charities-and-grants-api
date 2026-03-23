@@ -1,0 +1,27 @@
+{
+  "id": 67079,
+  "registrationNumber": "CC53362",
+  "name": "The Otago Phoenix Cardiac Rehabilitation Club",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.otagophoenix.nz",
+  "email": "secretary@otagophoenix.nz",
+  "address": {
+    "line1": "20 Woodside Terrace",
+    "line2": " ",
+    "suburb": "Andersons Bay",
+    "city": "Dunedin",
+    "postcode": "9013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Otago Phoenix Club",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T03:16:48Z"
+}

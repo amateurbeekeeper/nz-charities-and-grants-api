@@ -1,0 +1,27 @@
+{
+  "id": 71763,
+  "registrationNumber": "CC58149",
+  "name": "Lynmore Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2020-08-31T00:00:00Z",
+  "dateDeregistered": "2025-07-11T00:00:00Z",
+  "website": null,
+  "email": "lynmore@playcentre.org.nz",
+  "address": {
+    "line1": "3A Lynbert Road",
+    "line2": " ",
+    "suburb": "Lynmore",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-25T07:10:47Z"
+}

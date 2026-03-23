@@ -1,0 +1,27 @@
+{
+  "id": 53895,
+  "registrationNumber": "CC21065",
+  "name": "Northland Community Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.northlandcommunityfoundation.org.nz",
+  "email": "sophie@northlandcommunityfoundation.org.nz",
+  "address": {
+    "line1": "PO Box 10011",
+    "line2": "Te Mai",
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "143"
+  },
+  "nzbn": "9429043033980",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/northlandcf",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T23:21:22Z"
+}

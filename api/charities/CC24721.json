@@ -1,0 +1,27 @@
+{
+  "id": 42225,
+  "registrationNumber": "CC24721",
+  "name": "Mount Tabor Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://mt-tabor.org.nz",
+  "email": "chris@mt-tabor.org.nz",
+  "address": {
+    "line1": "634 Inland Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Helensville",
+    "postcode": "0875"
+  },
+  "nzbn": "9429042753247",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/mttabortrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T00:02:17Z"
+}

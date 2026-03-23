@@ -1,0 +1,27 @@
+{
+  "id": 37010,
+  "registrationNumber": "CC46663",
+  "name": "Muaupoko Trading Company Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2022-06-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.muaupoko.iwi.nz",
+  "email": "ceo@muaupoko.iwi.nz",
+  "address": {
+    "line1": "306 Oxford Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": "9429037195205",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MuaupokoTribalAuthority/?ref=bookmarks",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T03:01:16Z"
+}

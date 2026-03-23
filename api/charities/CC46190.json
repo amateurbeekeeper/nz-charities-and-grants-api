@@ -1,0 +1,27 @@
+{
+  "id": 43818,
+  "registrationNumber": "CC46190",
+  "name": "Wellington Bridge Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wellingtonbridge.co.nz",
+  "email": "bridget@wellingtonbridge.co.nz",
+  "address": {
+    "line1": "17 Tinakori Road",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042915553",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:41:50Z"
+}

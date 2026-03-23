@@ -1,0 +1,27 @@
+{
+  "id": 37624,
+  "registrationNumber": "CC50700",
+  "name": "Te Whare Rongoaa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "anahangelean@me.com",
+  "address": {
+    "line1": "24 Puckey Avenue",
+    "line2": "Kaitaia 0410",
+    "suburb": "Kaitaia",
+    "city": "Kaitaia",
+    "postcode": "0410"
+  },
+  "nzbn": "9429043316847",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "na",
+    "twitter": "na"
+  },
+  "lastUpdated": "2025-08-25T01:48:49Z"
+}

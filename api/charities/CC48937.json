@@ -1,0 +1,27 @@
+{
+  "id": 33352,
+  "registrationNumber": "CC48937",
+  "name": "Zimbabwe Rural Schools Library Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.zimlibrarytrust.com",
+  "email": "info@zimlibrarytrust.com",
+  "address": {
+    "line1": "8 Climie Way",
+    "line2": " ",
+    "suburb": "Trentham",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/zimlibrarytrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T09:09:13Z"
+}

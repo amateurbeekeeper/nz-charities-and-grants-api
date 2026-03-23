@@ -1,0 +1,27 @@
+{
+  "id": 61318,
+  "registrationNumber": "CC34020",
+  "name": "The National Dance Archive of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dancearchive.org.nz/",
+  "email": "keithmcewing@gmail.com",
+  "address": {
+    "line1": "C/o DANZ, Toi Pōneke Arts Centre",
+    "line2": "Ground Floor, 69 Abel Smith St",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6141"
+  },
+  "nzbn": "9429042769323",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100084926140426",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T08:42:11Z"
+}

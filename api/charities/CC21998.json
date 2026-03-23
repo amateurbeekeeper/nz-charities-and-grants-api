@@ -1,0 +1,27 @@
+{
+  "id": 55142,
+  "registrationNumber": "CC21998",
+  "name": "New Zealand Federation of Disability Information Centres Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thefederation.nz",
+  "email": "executiveofficer@thefederation.nz",
+  "address": {
+    "line1": "PO Box 10311",
+    "line2": " ",
+    "suburb": "Te Mai",
+    "city": "Whangarei",
+    "postcode": "0143"
+  },
+  "nzbn": "9429042681519",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thefederationnz",
+    "twitter": "https://twitter.com/NZFedDis"
+  },
+  "lastUpdated": "2025-12-11T18:40:09Z"
+}

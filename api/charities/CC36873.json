@@ -1,0 +1,27 @@
+{
+  "id": 63195,
+  "registrationNumber": "CC36873",
+  "name": "LIFE Venues Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-01-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.lifevenues.co.nz",
+  "email": "jeff.wong@lifenz.org",
+  "address": {
+    "line1": "14 Normanby Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429032704532",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:55Z"
+}

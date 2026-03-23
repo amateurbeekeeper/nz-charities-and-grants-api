@@ -1,0 +1,27 @@
+{
+  "id": 33925,
+  "registrationNumber": "CC50284",
+  "name": "Westminster Property Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-01-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jacob@ploeg.net.nz",
+  "address": {
+    "line1": "31 Westminster Gardens",
+    "line2": " ",
+    "suburb": "Unsworth Heights",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429043252602",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "N/A",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2025-12-20T10:35:17Z"
+}

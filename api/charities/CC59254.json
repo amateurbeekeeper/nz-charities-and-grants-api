@@ -1,0 +1,27 @@
+{
+  "id": 72859,
+  "registrationNumber": "CC59254",
+  "name": "Maungatapere Village Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.maungatapere.nz",
+  "email": "gillian@thebruces.nz",
+  "address": {
+    "line1": "24 Baker Road",
+    "line2": "RD 9",
+    "suburb": "Poroti",
+    "city": "Whangarei",
+    "postcode": "0179"
+  },
+  "nzbn": "9429048861199",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MaungatapereVillage",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T18:54:46Z"
+}

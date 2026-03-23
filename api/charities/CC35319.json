@@ -1,0 +1,27 @@
+{
+  "id": 42538,
+  "registrationNumber": "CC35319",
+  "name": "New Zealand College Of Midwives, Auckland Region (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://auckland.midwife.org.nz/",
+  "email": "auckadmin@nzcom.org.nz",
+  "address": {
+    "line1": "PO Box 21106",
+    "line2": null,
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": "9429042705116",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T18:40:40Z"
+}

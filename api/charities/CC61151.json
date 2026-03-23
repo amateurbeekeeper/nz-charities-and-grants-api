@@ -1,0 +1,27 @@
+{
+  "id": 74732,
+  "registrationNumber": "CC61151",
+  "name": "Te Rima Ōrau",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-04-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "te.rima.oorau@gmail.com",
+  "address": {
+    "line1": "1 Marlborough Street",
+    "line2": "Waipukurau 4200",
+    "suburb": " ",
+    "city": "Waipukurau",
+    "postcode": "4200"
+  },
+  "nzbn": "9429051312725",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100091781744442",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T01:44:06Z"
+}

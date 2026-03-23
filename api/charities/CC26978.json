@@ -1,0 +1,27 @@
+{
+  "id": 58735,
+  "registrationNumber": "CC26978",
+  "name": "Union Parish Of Picton",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "peterv@methodist.org.nz",
+  "address": {
+    "line1": "40 Broadway",
+    "line2": null,
+    "suburb": " ",
+    "city": "Picton",
+    "postcode": "7220"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:01:12Z"
+}

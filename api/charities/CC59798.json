@@ -1,0 +1,27 @@
+{
+  "id": 73526,
+  "registrationNumber": "CC59798",
+  "name": "Vision Research Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.visionresearchfoundation.org.nz",
+  "email": "info@vrf.org.nz",
+  "address": {
+    "line1": "123 Remuera Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429050176816",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T03:08:23Z"
+}

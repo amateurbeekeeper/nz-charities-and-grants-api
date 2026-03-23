@@ -1,0 +1,27 @@
+{
+  "id": 48251,
+  "registrationNumber": "CC39511",
+  "name": "Himawari Playgroup",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2024-09-13T00:00:00Z",
+  "website": null,
+  "email": "himawariplaygroup@gmail.com",
+  "address": {
+    "line1": "76 Waiwhetu Road",
+    "line2": "1 Ottawa Road",
+    "suburb": "Waterloo",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-17T06:22:26Z"
+}

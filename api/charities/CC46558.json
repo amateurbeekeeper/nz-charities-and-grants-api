@@ -1,0 +1,27 @@
+{
+  "id": 36344,
+  "registrationNumber": "CC46558",
+  "name": "Te Korowai Hauora o Hauraki Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.korowai.co.nz",
+  "email": "tammy.dehar@korowai.co.nz",
+  "address": {
+    "line1": "210 Richmond Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429041921043",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tekorowaihauoraohauraki",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T04:58:17Z"
+}

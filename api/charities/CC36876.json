@@ -1,0 +1,27 @@
+{
+  "id": 43572,
+  "registrationNumber": "CC36876",
+  "name": "The McLean Institute",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "secretary@mclean.org.nz",
+  "address": {
+    "line1": "148 Victoria Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-06T20:14:03Z"
+}

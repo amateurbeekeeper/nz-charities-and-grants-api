@@ -1,0 +1,27 @@
+{
+  "id": 38068,
+  "registrationNumber": "CC47839",
+  "name": "Waimana A Maori Reservation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "c.rakurakuranapia02@gmail.com",
+  "address": {
+    "line1": "16 Ranapia Road",
+    "line2": "RD 1",
+    "suburb": "Poroporo",
+    "city": "Whakatane",
+    "postcode": "3191"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T18:10:46Z"
+}

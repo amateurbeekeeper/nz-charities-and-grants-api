@@ -1,0 +1,27 @@
+{
+  "id": 64750,
+  "registrationNumber": "CC43045",
+  "name": "Southland Football Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-12-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.southlandfootball.org.nz",
+  "email": "iain@southlandfootball.org.nz",
+  "address": {
+    "line1": "ILT SOUTHLAND FOOTBALL CENTRE",
+    "line2": "199 Islington Street",
+    "suburb": "Turnbull Thomson Park",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042739197",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/SouthlandFootball/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-08T20:17:04Z"
+}

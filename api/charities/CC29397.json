@@ -1,0 +1,27 @@
+{
+  "id": 64783,
+  "registrationNumber": "CC29397",
+  "name": "The Helensville District Health Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.helensvilledistricthealthtrust.co.nz",
+  "email": "payable@hdht.org.nz",
+  "address": {
+    "line1": "1 Porter Crescent",
+    "line2": "Helensville 0800",
+    "suburb": " ",
+    "city": "Helensville",
+    "postcode": "0800"
+  },
+  "nzbn": "9429042853428",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hdht.co.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T00:00:52Z"
+}

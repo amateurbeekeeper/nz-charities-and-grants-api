@@ -1,0 +1,27 @@
+{
+  "id": 44274,
+  "registrationNumber": "CC38964",
+  "name": "Horticentre Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david@spencer.kiwi",
+  "address": {
+    "line1": "18 Cabernet Crescent",
+    "line2": " ",
+    "suburb": "Westgate",
+    "city": "Auckland",
+    "postcode": "614"
+  },
+  "nzbn": "9429032136098",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T21:09:08Z"
+}

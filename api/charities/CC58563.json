@@ -1,0 +1,27 @@
+{
+  "id": 72178,
+  "registrationNumber": "CC58563",
+  "name": "The Golden Bay Weekly Educational Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-12-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@gbweekly.co.nz",
+  "address": {
+    "line1": "2055 Collingwood-Puponga Main Road",
+    "line2": "RD 1",
+    "suburb": "Puponga",
+    "city": "Collingwood",
+    "postcode": "7073"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-09T04:58:41Z"
+}

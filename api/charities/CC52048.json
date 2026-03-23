@@ -1,0 +1,27 @@
+{
+  "id": 65789,
+  "registrationNumber": "CC52048",
+  "name": "Tamaki Pacific Islanders Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@pipctamaki.co.nz",
+  "address": {
+    "line1": "35-37 Pt England Road",
+    "line2": " ",
+    "suburb": "Point England",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T07:19:35Z"
+}

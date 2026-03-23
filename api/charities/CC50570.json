@@ -1,0 +1,27 @@
+{
+  "id": 34251,
+  "registrationNumber": "CC50570",
+  "name": "Restore Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.restorenz.org",
+  "email": "chris@restorenz.org",
+  "address": {
+    "line1": "678A Glenbrook Road",
+    "line2": "RD 4",
+    "suburb": "Kingseat",
+    "city": "Pukekohe",
+    "postcode": "2679"
+  },
+  "nzbn": "9429043250806",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T23:07:12Z"
+}

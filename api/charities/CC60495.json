@@ -1,0 +1,27 @@
+{
+  "id": 74081,
+  "registrationNumber": "CC60495",
+  "name": "Toi Iho Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.toiiho.org.nz",
+  "email": "project@toiiho.org.nz",
+  "address": {
+    "line1": "23 Berne Place",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429043318209",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/toi.iho/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T01:57:41Z"
+}

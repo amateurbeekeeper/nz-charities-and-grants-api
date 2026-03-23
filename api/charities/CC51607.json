@@ -1,0 +1,27 @@
+{
+  "id": 65377,
+  "registrationNumber": "CC51607",
+  "name": "New Lynn/Kelston Community Patrol",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "activemovers@xtra.co.nz",
+  "address": {
+    "line1": "New Lynn Police Station",
+    "line2": "1 Todd Avenue",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429043266821",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "New Lynn/Kelston Community Patrol",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-17T19:19:41Z"
+}

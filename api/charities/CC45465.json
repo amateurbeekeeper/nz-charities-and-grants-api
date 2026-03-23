@@ -1,0 +1,27 @@
+{
+  "id": 36133,
+  "registrationNumber": "CC45465",
+  "name": "Jumble Around Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-09-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@jumblearound.co.nz",
+  "address": {
+    "line1": "183 Shakespeare Street",
+    "line2": "Leamington",
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3432"
+  },
+  "nzbn": "9429042648147",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T03:54:01Z"
+}

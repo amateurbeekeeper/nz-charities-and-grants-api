@@ -1,0 +1,27 @@
+{
+  "id": 75256,
+  "registrationNumber": "CC61687",
+  "name": "Te Rau o Rongo Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.terauorongo.com",
+  "email": "pounamu.skelton@gmail.com",
+  "address": {
+    "line1": "640 Inland North Road",
+    "line2": "RD 43",
+    "suburb": "Onaero",
+    "city": "Waitara",
+    "postcode": "4383"
+  },
+  "nzbn": "9429051395100",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Terauorongo",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:10:53Z"
+}

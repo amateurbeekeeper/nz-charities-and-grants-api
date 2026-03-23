@@ -1,0 +1,27 @@
+{
+  "id": 75174,
+  "registrationNumber": "CC61621",
+  "name": "Ngaa Taiohi o Te Rangitaupi",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ngataiohi.terangitaupi@gmail.com",
+  "address": {
+    "line1": "9 Kahui Avenue",
+    "line2": "RD 7",
+    "suburb": "Tauwhare",
+    "city": "Hamilton",
+    "postcode": "3287"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/278780882985493",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:33:34Z"
+}

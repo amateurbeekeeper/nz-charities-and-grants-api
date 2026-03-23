@@ -1,0 +1,27 @@
+{
+  "id": 60322,
+  "registrationNumber": "CC29387",
+  "name": "Tapanui and Districts Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tapanui_toy_library@hotmail.com",
+  "address": {
+    "line1": "3 Norfolk Street",
+    "line2": "Tapanui 9522",
+    "suburb": "Kelso",
+    "city": "Tapanui",
+    "postcode": "9522"
+  },
+  "nzbn": "9429042857556",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tapanuitoylibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T00:56:39Z"
+}

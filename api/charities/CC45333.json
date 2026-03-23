@@ -1,0 +1,27 @@
+{
+  "id": 50496,
+  "registrationNumber": "CC45333",
+  "name": "The Vegan Society of Aotearoa",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-09-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.vegansociey.org.nz",
+  "email": "info@vegansociety.org.nz",
+  "address": {
+    "line1": "25 Moa Avenue",
+    "line2": " ",
+    "suburb": "Oneroa",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429042991861",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https:/www.facebook.com/VegSocNZ",
+    "twitter": "https://www.twitter.com/@vegan_nz"
+  },
+  "lastUpdated": "2025-12-04T21:54:08Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70211,
+  "registrationNumber": "CC56575",
+  "name": "Emergency Assessment Fund",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-03-29T00:00:00Z",
+  "dateDeregistered": "2025-07-03T00:00:00Z",
+  "website": "https://www.emergencyassessmentfund.org.nz/",
+  "email": "pete@rl.co.nz",
+  "address": {
+    "line1": "76 The Strand",
+    "line2": "Whakatane 3120",
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EmergencyAssessmentFund/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-17T07:11:06Z"
+}

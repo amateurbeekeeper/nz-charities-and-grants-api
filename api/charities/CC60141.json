@@ -1,0 +1,27 @@
+{
+  "id": 73748,
+  "registrationNumber": "CC60141",
+  "name": "Te Ara Hīkoi Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tearahikoi.nz",
+  "email": "glennr99@icloud.com",
+  "address": {
+    "line1": "385 Ness Valley Road",
+    "line2": "RD 5",
+    "suburb": "Ness Valley",
+    "city": "Papakura",
+    "postcode": "2585"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T22:30:59Z"
+}

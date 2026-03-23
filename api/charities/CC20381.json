@@ -1,0 +1,27 @@
+{
+  "id": 53182,
+  "registrationNumber": "CC20381",
+  "name": "Coastguard Kaikoura Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kaikouracoastguard.co.nz",
+  "email": "kaikoura.treasurer@coastguard.nz",
+  "address": {
+    "line1": "Coastguard Kaikoura",
+    "line2": "1 Moa Road",
+    "suburb": "South Bay",
+    "city": "Kaikoura",
+    "postcode": "7300"
+  },
+  "nzbn": "9429042647799",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T02:59:56Z"
+}

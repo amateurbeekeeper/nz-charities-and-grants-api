@@ -1,0 +1,27 @@
+{
+  "id": 61092,
+  "registrationNumber": "CC29595",
+  "name": "Capital Vineyard Christian Fellowship",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.capitalvineyard.org.nz",
+  "email": "james.baty@capitalvineyard.org.nz",
+  "address": {
+    "line1": "147 Thorndon Quay",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042942757",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/capitalvineyard",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T22:30:02Z"
+}

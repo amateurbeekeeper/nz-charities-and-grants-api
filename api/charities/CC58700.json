@@ -1,0 +1,27 @@
+{
+  "id": 72316,
+  "registrationNumber": "CC58700",
+  "name": "Auckland Saedongrae Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hui_sony@hotmail.com",
+  "address": {
+    "line1": "2 Akoranga Drive ",
+    "line2": "Northcote",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-16T19:14:10Z"
+}

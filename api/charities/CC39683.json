@@ -1,0 +1,27 @@
+{
+  "id": 47300,
+  "registrationNumber": "CC39683",
+  "name": "Otago Rural Support Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rural-support.org.nz",
+  "email": "otago@ruralsupport.org.nz",
+  "address": {
+    "line1": "65 Royal Terrace",
+    "line2": null,
+    "suburb": " ",
+    "city": "Alexandra",
+    "postcode": "9320"
+  },
+  "nzbn": "9429042694496",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Otago Rural Support Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T00:58:24Z"
+}

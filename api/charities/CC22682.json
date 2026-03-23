@@ -1,0 +1,27 @@
+{
+  "id": 56284,
+  "registrationNumber": "CC22682",
+  "name": "Karuwha Mission Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.karuwha.org.nz",
+  "email": "mark@karuwha.org.nz",
+  "address": {
+    "line1": "73 Taylor Road",
+    "line2": " ",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429043135806",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Karuwha/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:42:05Z"
+}

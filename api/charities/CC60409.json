@@ -1,0 +1,27 @@
+{
+  "id": 74005,
+  "registrationNumber": "CC60409",
+  "name": "Runanga Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chair@runanga.nz",
+  "address": {
+    "line1": "56 Pitt Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Runanga",
+    "postcode": "7803"
+  },
+  "nzbn": "9429050766949",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RunangaCommunity",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:10:20Z"
+}

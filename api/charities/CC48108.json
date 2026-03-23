@@ -1,0 +1,27 @@
+{
+  "id": 38025,
+  "registrationNumber": "CC48108",
+  "name": "The Carroll Street Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@tcst.co.nz",
+  "address": {
+    "line1": "91 Carroll Street",
+    "line2": "Musselburgh",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042989950",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T19:20:57Z"
+}

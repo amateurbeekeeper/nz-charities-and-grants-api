@@ -1,0 +1,27 @@
+{
+  "id": 66056,
+  "registrationNumber": "CC52327",
+  "name": "St Mary's Jacobite Syrian Orthodox Christian Church Hamilton",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://stmaryschurch.org.nz/",
+  "email": "info@stmaryschurch.org.nz",
+  "address": {
+    "line1": "7 Rengarenga Close",
+    "line2": " ",
+    "suburb": "Baverstock",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429043271245",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/stmarys.hamiltonNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T23:41:29Z"
+}

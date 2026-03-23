@@ -1,0 +1,27 @@
+{
+  "id": 73121,
+  "registrationNumber": "CC59522",
+  "name": "Te Raranga Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "christian@elevatestudios.nz",
+  "address": {
+    "line1": "Unit 7a/59 Victoria Street",
+    "line2": "Onehunga",
+    "suburb": "Onehunga",
+    "city": "Auckland ",
+    "postcode": "1061"
+  },
+  "nzbn": "9429050729777",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T01:46:55Z"
+}

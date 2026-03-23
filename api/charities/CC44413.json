@@ -1,0 +1,27 @@
+{
+  "id": 64114,
+  "registrationNumber": "CC44413",
+  "name": "Salt Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.salttrust.org.nz",
+  "email": "richard@salttrust.org.nz",
+  "address": {
+    "line1": "41 Florence Avenue",
+    "line2": "Orewa 0931",
+    "suburb": "Silverdale",
+    "city": "Orewa",
+    "postcode": "0931"
+  },
+  "nzbn": "9429043207299",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T03:04:52Z"
+}

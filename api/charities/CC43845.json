@@ -1,0 +1,27 @@
+{
+  "id": 50282,
+  "registrationNumber": "CC43845",
+  "name": "Oratia United Sports Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2020-02-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.oratiaunited.co.nz",
+  "email": "secretary@oratiaunited.co.nz",
+  "address": {
+    "line1": "471-479 West Coast Road",
+    "line2": "Henderson",
+    "suburb": "Glen Eden",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": "9429042819080",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@oratiaunited",
+    "twitter": "@oratiaunited"
+  },
+  "lastUpdated": "2025-06-02T02:29:19Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56419,
+  "registrationNumber": "CC22072",
+  "name": "Anglican Missions Board of the Church in Aotearoa, New Zealand and Polynesia",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.angmissions.org.nz",
+  "email": "sharon@angmissions.org.nz",
+  "address": {
+    "line1": "ANGLICAN HOUSE",
+    "line2": "32 Mulgrave Street",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042676508",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AnglicanMissions",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:15:12Z"
+}

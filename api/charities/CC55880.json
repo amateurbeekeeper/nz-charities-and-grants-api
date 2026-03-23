@@ -1,0 +1,27 @@
+{
+  "id": 69529,
+  "registrationNumber": "CC55880",
+  "name": "Cat Rescue Wanaka",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-11-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.catrescuewanaka.org.nz",
+  "email": "rachel.allibone@gmail.com",
+  "address": {
+    "line1": "531 Aubrey Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429050839223",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Catrescuewanaka/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:58:41Z"
+}

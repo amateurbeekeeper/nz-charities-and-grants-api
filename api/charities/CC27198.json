@@ -1,0 +1,27 @@
+{
+  "id": 42523,
+  "registrationNumber": "CC27198",
+  "name": "THINK Hauora Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thinkhauora.nz",
+  "email": "accounts@thinkhauora.nz",
+  "address": {
+    "line1": "200 Broadway Avenue",
+    "line2": "Palmerston North 4410",
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429034332122",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T02:03:34Z"
+}

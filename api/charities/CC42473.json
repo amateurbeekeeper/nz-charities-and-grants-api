@@ -1,0 +1,27 @@
+{
+  "id": 50981,
+  "registrationNumber": "CC42473",
+  "name": "Church of God's Faithful",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.setapartbytruth.org",
+  "email": "firetech222@gmail.com",
+  "address": {
+    "line1": "508 Redoubt Road",
+    "line2": "14 Fieldstone Court",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:50:55Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50239,
+  "registrationNumber": "CC43791",
+  "name": "GreenKiwi Educational Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-03-10T00:00:00Z",
+  "dateDeregistered": "2012-05-23T00:00:00Z",
+  "website": "http://www.greenkiwi.org.nz",
+  "email": "lockhart@greenkiwi.org.nz",
+  "address": {
+    "line1": "12 Tawa Street",
+    "line2": null,
+    "suburb": "Lansdowne",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429043211784",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:27:25Z"
+}

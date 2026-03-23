@@ -1,0 +1,27 @@
+{
+  "id": 40829,
+  "registrationNumber": "CC24596",
+  "name": "The Opera Factory Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.operafactory.com",
+  "email": "admin@operafactory.com",
+  "address": {
+    "line1": "32B Cardwell Street",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042989738",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/operafactorynz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-20T06:42:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 45920,
+  "registrationNumber": "CC30710",
+  "name": "Johnsonville Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-11-05T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/johnsonville/",
+  "email": "johnsonville@playcentre.org.nz",
+  "address": {
+    "line1": "26 Ironside Road",
+    "line2": " ",
+    "suburb": "Johnsonville",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Johnsonville-Playcentre-965209986886841/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T06:03:29Z"
+}

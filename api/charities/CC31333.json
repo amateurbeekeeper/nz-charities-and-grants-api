@@ -1,0 +1,27 @@
+{
+  "id": 58173,
+  "registrationNumber": "CC31333",
+  "name": "New Zealand Leadership Institute",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2017-08-14T00:00:00Z",
+  "website": "http://www.nzli.co.nz",
+  "email": "info@nzli.co.nz",
+  "address": {
+    "line1": "Level 4, Owen G Glenn Building",
+    "line2": "12 Grafton Road",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1142"
+  },
+  "nzbn": "9429043037995",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-07-24T22:46:33Z"
+}

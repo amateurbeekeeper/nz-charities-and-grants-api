@@ -1,0 +1,27 @@
+{
+  "id": 75821,
+  "registrationNumber": "CC62270",
+  "name": "Te Waka Wahine Hauora Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.womanshealth.nz/",
+  "email": "accounts@womanshealth.nz",
+  "address": {
+    "line1": "10 McMurray Place",
+    "line2": "Clyde 9330",
+    "suburb": " ",
+    "city": "Clyde",
+    "postcode": "9330"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TeWakaWahineHauora?mibextid=ZbWKwL",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-17T19:23:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55001,
+  "registrationNumber": "CC22482",
+  "name": "Okaihau Baptist Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-04-02T00:00:00Z",
+  "dateDeregistered": "2009-06-07T00:00:00Z",
+  "website": null,
+  "email": null,
+  "address": {
+    "line1": "Okaihau Community Hall",
+    "line2": "Settlers Way",
+    "suburb": null,
+    "city": "Okaihau",
+    "postcode": "0447"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:06:21Z"
+}

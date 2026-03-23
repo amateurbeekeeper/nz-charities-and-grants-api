@@ -1,0 +1,27 @@
+{
+  "id": 68453,
+  "registrationNumber": "CC54784",
+  "name": "DINE Academy Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-08-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dineacademy.co.nz",
+  "email": "tolisagaga@hotmail.com",
+  "address": {
+    "line1": "169 Mitchell Street",
+    "line2": " ",
+    "suburb": "Brooklyn",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043316052",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DineAcademyNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:37:00Z"
+}

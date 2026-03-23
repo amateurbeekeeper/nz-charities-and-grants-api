@@ -1,0 +1,27 @@
+{
+  "id": 33952,
+  "registrationNumber": "CC50293",
+  "name": "Peace Promise Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.peacepromise.org.nz",
+  "email": "office@peacepromise.org.nz",
+  "address": {
+    "line1": "32 Aberfoyle Street",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429041035252",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T10:53:39Z"
+}

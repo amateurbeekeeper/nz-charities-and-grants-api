@@ -1,0 +1,27 @@
+{
+  "id": 38725,
+  "registrationNumber": "CC45625",
+  "name": "North Beach Surf Life Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-10-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.northbeachslsc.co.nz/",
+  "email": "emmaderrick@live.co.uk",
+  "address": {
+    "line1": "80 Marine Parade",
+    "line2": "North New Brighton",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429042692690",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/northbeachslsc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:19:05Z"
+}

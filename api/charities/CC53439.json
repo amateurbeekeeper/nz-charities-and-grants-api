@@ -1,0 +1,27 @@
+{
+  "id": 67161,
+  "registrationNumber": "CC53439",
+  "name": "Te Kohanga Reo O Kaitoki",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "whanau@k08g028.kohanga.ac.nz",
+  "address": {
+    "line1": "20 Kaitoki River Road",
+    "line2": "Dannevirke 4975",
+    "suburb": " ",
+    "city": "Dannevirke",
+    "postcode": "4975"
+  },
+  "nzbn": "9429042863519",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T00:16:17Z"
+}

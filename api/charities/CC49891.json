@@ -1,0 +1,27 @@
+{
+  "id": 35063,
+  "registrationNumber": "CC49891",
+  "name": "RNZPBA Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-05-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.rnzpba.com",
+  "email": "info@rnzpba.com",
+  "address": {
+    "line1": "Villa 148, Summerset Village",
+    "line2": "135 Awatea Road",
+    "suburb": "Wigram",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-05T04:28:51Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56717,
+  "registrationNumber": "CC25127",
+  "name": "Matamata Union Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "peterv@methodist.org.nz",
+  "address": {
+    "line1": "31 Peria Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Matamata",
+    "postcode": "3400"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:33:05Z"
+}

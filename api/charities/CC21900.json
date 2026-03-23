@@ -1,0 +1,27 @@
+{
+  "id": 56438,
+  "registrationNumber": "CC21900",
+  "name": "Karori Sanctuary Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.visitzealandia.com",
+  "email": "kosta@visitzealandia.com",
+  "address": {
+    "line1": "31 Waiapu Road",
+    "line2": " ",
+    "suburb": "Kelburn",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429042777588",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T22:24:47Z"
+}

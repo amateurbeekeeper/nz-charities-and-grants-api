@@ -1,0 +1,27 @@
+{
+  "id": 42524,
+  "registrationNumber": "CC36878",
+  "name": "Te Karaka Pre School Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tekarakapreschool@gmail.com",
+  "address": {
+    "line1": "13 Kanakanaia Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Karaka",
+    "postcode": "4022"
+  },
+  "nzbn": "9429042987925",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T01:33:55Z"
+}

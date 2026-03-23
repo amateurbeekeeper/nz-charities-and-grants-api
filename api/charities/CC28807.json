@@ -1,0 +1,27 @@
+{
+  "id": 57343,
+  "registrationNumber": "CC28807",
+  "name": "Phillipstown Community Centre Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.phillipstown.org",
+  "email": "chair@phillipstown.org.nz",
+  "address": {
+    "line1": "39 Nursery Road",
+    "line2": " ",
+    "suburb": "Phillipstown",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042980285",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "phillipstown community hub",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T01:09:26Z"
+}

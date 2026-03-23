@@ -1,0 +1,27 @@
+{
+  "id": 71535,
+  "registrationNumber": "CC57910",
+  "name": "Faith Fellowship of God Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-06-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ffgc.org.nz",
+  "email": "jasleenkler@yahoo.com",
+  "address": {
+    "line1": "16B D'Oyly Drive",
+    "line2": " ",
+    "suburb": "Stanmore Bay",
+    "city": "Whangaparaoa",
+    "postcode": "0932"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Facebook.com/ffgcnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T03:58:35Z"
+}

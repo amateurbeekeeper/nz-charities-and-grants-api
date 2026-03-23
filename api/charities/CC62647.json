@@ -1,0 +1,27 @@
+{
+  "id": 76296,
+  "registrationNumber": "CC62647",
+  "name": "Dunedin Christmas Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://christmas.org.nz",
+  "email": "shop@gilbertsfinefood.co.nz",
+  "address": {
+    "line1": "Floor 1",
+    "line2": "43 Princes Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429052090592",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dunedincommunitychristmasdinner/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:42:28Z"
+}

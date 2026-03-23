@@ -1,0 +1,27 @@
+{
+  "id": 66682,
+  "registrationNumber": "CC52949",
+  "name": "McLeans Island Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mcleansislandgolf.co.nz",
+  "email": "office@mcleansislandgolf.co.nz",
+  "address": {
+    "line1": "800 Mcleans Island Road",
+    "line2": "Christchurch 8140",
+    "suburb": "Mcleans Island",
+    "city": "Christchurch",
+    "postcode": "7676"
+  },
+  "nzbn": "9429042747178",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:49:05Z"
+}

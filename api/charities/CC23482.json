@@ -1,0 +1,27 @@
+{
+  "id": 57124,
+  "registrationNumber": "CC23482",
+  "name": "Miramar Uniting Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-04-27T00:00:00Z",
+  "dateDeregistered": "2023-06-30T00:00:00Z",
+  "website": null,
+  "email": "saraha@methodist.org.nz",
+  "address": {
+    "line1": "56 Hobart Street",
+    "line2": " ",
+    "suburb": "Miramar",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-03-07T06:01:36Z"
+}

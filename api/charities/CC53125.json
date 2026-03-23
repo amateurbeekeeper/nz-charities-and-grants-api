@@ -1,0 +1,27 @@
+{
+  "id": 66851,
+  "registrationNumber": "CC53125",
+  "name": "St Joseph's Dannevirke Parish",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "msutton@pndiocese.org.nz",
+  "address": {
+    "line1": "33 Allardice Street",
+    "line2": "Dannevirke 4930",
+    "suburb": "Dannevirke",
+    "city": "Dannevirke",
+    "postcode": "4930"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T02:00:00Z"
+}

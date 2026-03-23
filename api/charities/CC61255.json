@@ -1,0 +1,27 @@
+{
+  "id": 74835,
+  "registrationNumber": "CC61255",
+  "name": "Friends of Marotiri School",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nickandmichelle@xtra.co.nz",
+  "address": {
+    "line1": "1569 Tihoi Road",
+    "line2": "RD 1",
+    "suburb": "Marotiri",
+    "city": "Mangakino",
+    "postcode": "3492"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Marotiri Friends of the School",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:21:04Z"
+}

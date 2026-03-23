@@ -1,0 +1,27 @@
+{
+  "id": 65149,
+  "registrationNumber": "CC29875",
+  "name": "The Northland Pacific Islands Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pasifikanorth.wixsite.com/npict",
+  "email": "johnny@falepasifika.co.nz",
+  "address": {
+    "line1": "23 Water Street",
+    "line2": "Whangārei 0110",
+    "suburb": " ",
+    "city": "Whangārei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429042781691",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/pasifikanorth/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T02:49:19Z"
+}

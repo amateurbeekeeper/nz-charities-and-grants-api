@@ -1,0 +1,27 @@
+{
+  "id": 69159,
+  "registrationNumber": "CC55502",
+  "name": "Mount Roskill Community Patrol Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "mrcp.org.nz",
+  "email": "rosey@tbo.nz",
+  "address": {
+    "line1": "80 Haycock Avenue",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429046029171",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mtroskillcommunitypatrol",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T22:21:27Z"
+}

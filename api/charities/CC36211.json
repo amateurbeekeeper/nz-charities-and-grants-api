@@ -1,0 +1,27 @@
+{
+  "id": 46693,
+  "registrationNumber": "CC36211",
+  "name": "Deaf Senior Citizens Canterbury",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@deafsocietyofcanterbury.co.nz",
+  "address": {
+    "line1": "80 Fitzgerald Avenue",
+    "line2": "Armagh",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:46:52Z"
+}

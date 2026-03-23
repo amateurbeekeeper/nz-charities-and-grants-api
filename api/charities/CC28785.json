@@ -1,0 +1,27 @@
+{
+  "id": 43779,
+  "registrationNumber": "CC28785",
+  "name": "Queenstown Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "katherine.lamont@fireandemergency.nz",
+  "address": {
+    "line1": "3 Isle Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "na",
+    "twitter": "na"
+  },
+  "lastUpdated": "2025-09-01T22:34:25Z"
+}

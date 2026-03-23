@@ -1,0 +1,27 @@
+{
+  "id": 44164,
+  "registrationNumber": "CC32869",
+  "name": "The Edwardian Orthodox Church of New Zealand",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2011-05-02T00:00:00Z",
+  "website": null,
+  "email": null,
+  "address": {
+    "line1": "27A Edinburgh Street",
+    "line2": null,
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043135523",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:13:09Z"
+}

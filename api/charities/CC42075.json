@@ -1,0 +1,27 @@
+{
+  "id": 50876,
+  "registrationNumber": "CC42075",
+  "name": "Faith Ministries Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://faithministrypartners.com/",
+  "email": "helenyeungnz@outlook.com",
+  "address": {
+    "line1": "Flat 17",
+    "line2": "46 Carlos Drive",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2016"
+  },
+  "nzbn": "9429043204854",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:50:55Z"
+}

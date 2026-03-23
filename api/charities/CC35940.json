@@ -1,0 +1,27 @@
+{
+  "id": 46344,
+  "registrationNumber": "CC35940",
+  "name": "Paraparaumu Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2025-10-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jane.davie@fireandemergency.nz",
+  "address": {
+    "line1": "22 Te Roto Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-31T01:09:26Z"
+}

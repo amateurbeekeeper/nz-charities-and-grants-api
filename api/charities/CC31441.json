@@ -1,0 +1,27 @@
+{
+  "id": 42843,
+  "registrationNumber": "CC31441",
+  "name": "Maranatha Homes Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pmthompson@mark.net.nz",
+  "address": {
+    "line1": "1 Van Ameyde Court",
+    "line2": " ",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429042763604",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-02T19:33:07Z"
+}

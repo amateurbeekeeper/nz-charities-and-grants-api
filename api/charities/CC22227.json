@@ -1,0 +1,27 @@
+{
+  "id": 52491,
+  "registrationNumber": "CC22227",
+  "name": "Atlas Foundation",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "shirley@samson.co.nz",
+  "address": {
+    "line1": "Flat 102",
+    "line2": "100 Parnell Road",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429042581574",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-08T03:31:14Z"
+}

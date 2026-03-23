@@ -1,0 +1,27 @@
+{
+  "id": 48066,
+  "registrationNumber": "CC39806",
+  "name": "Entomological Society Of NZ Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ento.org.nz/",
+  "email": "Julia.Kasper@tepapa.govt.nz",
+  "address": {
+    "line1": "169 Tory Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042719618",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzentosoc/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-22T19:42:06Z"
+}

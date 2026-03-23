@@ -1,0 +1,27 @@
+{
+  "id": 65687,
+  "registrationNumber": "CC51936",
+  "name": "Te Rito Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2020-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "secretary.teritomarae@gmail.com",
+  "address": {
+    "line1": "1869 Ngapipito Road",
+    "line2": "Moerewa 0281",
+    "suburb": " ",
+    "city": "Moerewa",
+    "postcode": "0281"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T09:31:06Z"
+}

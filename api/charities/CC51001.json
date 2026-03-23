@@ -1,0 +1,27 @@
+{
+  "id": 34342,
+  "registrationNumber": "CC51001",
+  "name": "Plains Museum Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-10-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.theplains.nz",
+  "email": "plainsmuseumtrust@gmail.com",
+  "address": {
+    "line1": "626 Hinds Arundel Road",
+    "line2": "RD 5",
+    "suburb": "Hinds",
+    "city": "Ashburton",
+    "postcode": "7775"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61580934562847",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T18:18:19Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65285,
+  "registrationNumber": "CC51507",
+  "name": "Waiau Pa Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-03-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waiaupachurch.org.nz",
+  "email": "office@waiaupachurch.org.nz",
+  "address": {
+    "line1": "358 McKenzie Road",
+    "line2": "RD 4",
+    "suburb": " ",
+    "city": "Pukekohe ",
+    "postcode": "2679"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T18:18:17Z"
+}

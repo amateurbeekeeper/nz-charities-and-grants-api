@@ -1,0 +1,27 @@
+{
+  "id": 36320,
+  "registrationNumber": "CC46472",
+  "name": "Intravenous Nursing New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ivnnz.co.nz",
+  "email": "info@ivnnz.co.nz",
+  "address": {
+    "line1": "5 Hooker Avenue",
+    "line2": " ",
+    "suburb": "Chedworth",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429043041329",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T03:43:11Z"
+}

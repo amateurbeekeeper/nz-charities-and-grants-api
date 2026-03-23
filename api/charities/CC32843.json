@@ -1,0 +1,27 @@
+{
+  "id": 43881,
+  "registrationNumber": "CC32843",
+  "name": "Te Puawai Tapu Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2026-02-04T00:00:00Z",
+  "website": "http://www.tpt.org.nz",
+  "email": "alison@tewhariki.org.nz",
+  "address": {
+    "line1": "294 Phillips Road",
+    "line2": "RD 1",
+    "suburb": "Raglan",
+    "city": "Te Mata",
+    "postcode": "3894"
+  },
+  "nzbn": "9429042987253",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/te.whariki.takapou/",
+    "twitter": "https://twitter.com/te_whariki"
+  },
+  "lastUpdated": "2026-02-18T06:04:21Z"
+}

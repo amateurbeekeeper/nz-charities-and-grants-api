@@ -1,0 +1,27 @@
+{
+  "id": 53319,
+  "registrationNumber": "CC22727",
+  "name": "New Zealand Law Students Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzlsa.co.nz",
+  "email": "treasurer.nzlsa@gmail.com",
+  "address": {
+    "line1": "c/o Faculty of Law PO Box 600",
+    "line2": " Victoria University of Wellington",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429043091324",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T06:18:57Z"
+}

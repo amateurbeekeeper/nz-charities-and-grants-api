@@ -1,0 +1,27 @@
+{
+  "id": 70715,
+  "registrationNumber": "CC57079",
+  "name": "Te Tira Whakamātaki Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ttw.nz",
+  "email": "mel@ttw.nz",
+  "address": {
+    "line1": "48 Church Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": "9429047656857",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Tira Whakamātaki",
+    "twitter": "TiraWhakamataki"
+  },
+  "lastUpdated": "2026-03-16T20:56:20Z"
+}

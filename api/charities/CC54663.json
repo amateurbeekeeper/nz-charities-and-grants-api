@@ -1,0 +1,27 @@
+{
+  "id": 68328,
+  "registrationNumber": "CC54663",
+  "name": "New Zealand Deaf Rugby Union Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzdru.org.nz/",
+  "email": "finance@nzdrfu.org.nz",
+  "address": {
+    "line1": "32 Lulu Avenue",
+    "line2": " ",
+    "suburb": "Chartwell",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429042675129",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T23:13:36Z"
+}

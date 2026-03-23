@@ -1,0 +1,27 @@
+{
+  "id": 69165,
+  "registrationNumber": "CC55514",
+  "name": "LAKES CHURCH (ROTORUA)",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.lakeschurch.org.nz",
+  "email": "pastor@lakeschurch.org.nz",
+  "address": {
+    "line1": "9 Tarewa Place",
+    "line2": "Rotorua 3010",
+    "suburb": "Pukehangi",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LakesChurchRotorua/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-29T04:14:27Z"
+}

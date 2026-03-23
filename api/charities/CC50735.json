@@ -1,0 +1,27 @@
+{
+  "id": 34483,
+  "registrationNumber": "CC50735",
+  "name": "ACK Rotorua Congregation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://ackrotorua.co.nz/",
+  "email": "ackvannz@gmail.com",
+  "address": {
+    "line1": "21 Brook Place",
+    "line2": " ",
+    "suburb": "Springfield",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429043247448",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-01-15T18:27:29Z"
+}

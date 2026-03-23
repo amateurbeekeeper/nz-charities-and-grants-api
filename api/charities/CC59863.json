@@ -1,0 +1,27 @@
+{
+  "id": 73523,
+  "registrationNumber": "CC59863",
+  "name": "PSO Homes Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.psotago.org.nz",
+  "email": "andrew.borthwick@psotago.org.nz",
+  "address": {
+    "line1": "407 Moray Place",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429050171736",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T03:40:17Z"
+}

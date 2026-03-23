@@ -1,0 +1,27 @@
+{
+  "id": 51311,
+  "registrationNumber": "CC10238",
+  "name": "The Waikato Clinical Psychology Educational Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2007-05-02T00:00:00Z",
+  "dateDeregistered": "2025-06-16T00:00:00Z",
+  "website": "http://www.tpc.org.nz",
+  "email": "joshua@tpc.org.nz",
+  "address": {
+    "line1": "The Psychology Centre",
+    "line2": "Level 1 - 5 King Street",
+    "suburb": "Frankton",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042960560",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-07T00:06:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48223,
+  "registrationNumber": "CC30217",
+  "name": "Neuromuscular Research Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "brian@mda.org.nz",
+  "address": {
+    "line1": "419 Church Street East",
+    "line2": " ",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043103287",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-03T18:33:25Z"
+}

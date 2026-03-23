@@ -1,0 +1,27 @@
+{
+  "id": 50841,
+  "registrationNumber": "CC42047",
+  "name": "Waimairi Tennis Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wtc.co.nz",
+  "email": "admin@wtc.co.nz",
+  "address": {
+    "line1": "49 Watford Street",
+    "line2": " ",
+    "suburb": "Strowan",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429042901099",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pages/Waimairi-Tennis-Club/191297231000822",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T20:17:40Z"
+}

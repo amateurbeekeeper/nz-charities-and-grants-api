@@ -1,0 +1,27 @@
+{
+  "id": 64687,
+  "registrationNumber": "CC42901",
+  "name": "Onehunga Swimming Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.onehungaswimmingclub.co.nz",
+  "email": "president.onesc@gmail.com",
+  "address": {
+    "line1": "C/- Jellicoe Swimming Pool",
+    "line2": "Park Gardens Rd",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042773764",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:06:26Z"
+}

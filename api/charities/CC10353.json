@@ -1,0 +1,27 @@
+{
+  "id": 51492,
+  "registrationNumber": "CC10353",
+  "name": "Egmont Agricultural and Pastoral Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.egmontshowgrounds.org.nz",
+  "email": "Tom@tandemgroup.co.nz",
+  "address": {
+    "line1": "Burnside Avenue Showgrounds",
+    "line2": " ",
+    "suburb": "Hawera",
+    "city": "Taranaki",
+    "postcode": "4610"
+  },
+  "nzbn": "9429047503847",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/EgmontAandPShow",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T18:06:35Z"
+}

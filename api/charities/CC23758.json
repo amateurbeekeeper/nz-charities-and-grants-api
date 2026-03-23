@@ -1,0 +1,27 @@
+{
+  "id": 55412,
+  "registrationNumber": "CC23758",
+  "name": "Volunteering Auckland Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.volunteeringauckland.org.nz",
+  "email": "gm@volunteeringauckland.org.nz",
+  "address": {
+    "line1": "85 Birkdale Road",
+    "line2": null,
+    "suburb": "Birkdale",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429042589747",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/VolunteeringAKL/",
+    "twitter": "@VolunteeringAKL"
+  },
+  "lastUpdated": "2026-02-15T21:34:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34264,
+  "registrationNumber": "CC50548",
+  "name": "Amazing Grace Christian Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "agcc.org.nz",
+  "email": "fankunchan@gmail.com",
+  "address": {
+    "line1": "136 Birkdale Road",
+    "line2": "North Shore",
+    "suburb": "Birkdale",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429043242238",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/agccnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T18:14:20Z"
+}

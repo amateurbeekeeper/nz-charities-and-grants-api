@@ -1,0 +1,27 @@
+{
+  "id": 58635,
+  "registrationNumber": "CC29706",
+  "name": "The Goodfellow Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "peter@rplw.co.nz",
+  "address": {
+    "line1": "24 Manukau Road",
+    "line2": "24 Manukau Road",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042857013",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T23:22:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53395,
+  "registrationNumber": "CC20479",
+  "name": "Epic Ministries Inc",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.epicministries.co.nz",
+  "email": "jackie.epic@xtra.co.nz",
+  "address": {
+    "line1": "1 Church Lane",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waipukurau",
+    "postcode": "4200"
+  },
+  "nzbn": "9429043114535",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EPICMinistriesInc/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-29T06:06:12Z"
+}

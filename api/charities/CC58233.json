@@ -1,0 +1,27 @@
+{
+  "id": 71845,
+  "registrationNumber": "CC58233",
+  "name": "MIYC - MANUKAU ISLAMIC YOUTH CENTRE",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-09-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.miyc.co.nz",
+  "email": "info@miyc.co.nz",
+  "address": {
+    "line1": "38 St George Street",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429048579490",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Manukau Islamic Youth Centre - MIYC",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-11T20:04:23Z"
+}

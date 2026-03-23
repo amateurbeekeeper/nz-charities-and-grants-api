@@ -1,0 +1,27 @@
+{
+  "id": 39427,
+  "registrationNumber": "CC31133",
+  "name": "Finlay Park Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.finlaypark.co.nz",
+  "email": "claire@finlaypark.co.nz",
+  "address": {
+    "line1": "117 Finlay Road",
+    "line2": "RD 2",
+    "suburb": "Maungatautari",
+    "city": "Cambridge",
+    "postcode": "3494"
+  },
+  "nzbn": "9429043061754",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FinlayParkAdventureCamp/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T09:51:34Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39963,
+  "registrationNumber": "CC38065",
+  "name": "Ngaio Marsh House and Heritage Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ngaiomarsh.org/",
+  "email": "chair@ngaiomarsh.org",
+  "address": {
+    "line1": "37 Valley Road",
+    "line2": " ",
+    "suburb": "Cashmere",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429042673743",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NgaioMarshHouse/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T00:29:39Z"
+}

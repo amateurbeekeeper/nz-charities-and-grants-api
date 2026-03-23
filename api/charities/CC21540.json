@@ -1,0 +1,27 @@
+{
+  "id": 54926,
+  "registrationNumber": "CC21540",
+  "name": "Mahurangi Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "adminsbbc@xtra.co.nz",
+  "address": {
+    "line1": "396 Mahurangi East Road",
+    "line2": null,
+    "suburb": null,
+    "city": "Snells Beach",
+    "postcode": "0920"
+  },
+  "nzbn": "0204800102718",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T22:24:45Z"
+}

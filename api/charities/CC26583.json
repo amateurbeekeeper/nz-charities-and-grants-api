@@ -1,0 +1,27 @@
+{
+  "id": 42371,
+  "registrationNumber": "CC26583",
+  "name": "CARE Waitakere Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.carewaitakere.org.nz",
+  "email": "kclist@carewaitakere.org.nz",
+  "address": {
+    "line1": "199 Universal Drive",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429042961949",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/carewaitakere",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:33:07Z"
+}

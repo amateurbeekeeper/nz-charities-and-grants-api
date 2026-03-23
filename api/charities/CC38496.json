@@ -1,0 +1,27 @@
+{
+  "id": 63081,
+  "registrationNumber": "CC38496",
+  "name": "Buckland Primary School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bucklandschoolpta@outlook.com",
+  "address": {
+    "line1": "72 George Crescent",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2677"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T00:10:32Z"
+}

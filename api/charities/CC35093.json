@@ -1,0 +1,27 @@
+{
+  "id": 45538,
+  "registrationNumber": "CC35093",
+  "name": "Harlequin Music Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://harlequintheatre.co.nz/",
+  "email": "president@harlequintheatre.co.nz",
+  "address": {
+    "line1": "563 Pakuranga Road",
+    "line2": " ",
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429042641896",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T18:08:58Z"
+}

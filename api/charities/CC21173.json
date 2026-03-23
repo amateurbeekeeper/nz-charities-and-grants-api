@@ -1,0 +1,27 @@
+{
+  "id": 54132,
+  "registrationNumber": "CC21173",
+  "name": "The Kingdom Resources Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kingdomresources.org.nz",
+  "email": "david@kingdomresources.org.nz",
+  "address": {
+    "line1": "246 Lyttelton Street",
+    "line2": " ",
+    "suburb": "Spreydon",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429042777892",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@Kingdomresourceschch",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T02:40:11Z"
+}

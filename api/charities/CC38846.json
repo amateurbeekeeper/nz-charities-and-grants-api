@@ -1,0 +1,27 @@
+{
+  "id": 42420,
+  "registrationNumber": "CC38846",
+  "name": "Taradale Pottery Group Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taradalepotteryclub.com",
+  "email": "taradalepottery@gmail.com",
+  "address": {
+    "line1": "1184/D State Highway 50",
+    "line2": "R D 3",
+    "suburb": " ",
+    "city": "Napier",
+    "postcode": "4183"
+  },
+  "nzbn": "9429042857907",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/taradalepotteryclub/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T00:20:10Z"
+}

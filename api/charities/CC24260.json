@@ -1,0 +1,27 @@
+{
+  "id": 42055,
+  "registrationNumber": "CC24260",
+  "name": "New Generation Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.newgenerationchurch.org.nz",
+  "email": "treasurer2@newgenerationchurch.org.nz",
+  "address": {
+    "line1": "159 Aorangi Road",
+    "line2": "Burnside",
+    "suburb": "Burnside",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429051536329",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@newgenerationchurchnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T18:21:23Z"
+}

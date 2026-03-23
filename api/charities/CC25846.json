@@ -1,0 +1,27 @@
+{
+  "id": 41607,
+  "registrationNumber": "CC25846",
+  "name": "Tread Lightly Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-12T00:00:00Z",
+  "dateDeregistered": "2025-09-30T00:00:00Z",
+  "website": "http://www.tread-lightly.org",
+  "email": "khawkins@tread-lightly.org",
+  "address": {
+    "line1": "75 Margot Street",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429043162321",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http:/www.facebook.com/treadlightlycaravan",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T06:03:42Z"
+}

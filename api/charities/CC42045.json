@@ -1,0 +1,27 @@
+{
+  "id": 42883,
+  "registrationNumber": "CC42045",
+  "name": "The Associated Churches Of Christ In New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ccnz.org",
+  "email": "admin@ccnz.org",
+  "address": {
+    "line1": "40 Saxton Road West",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:03:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41315,
+  "registrationNumber": "CC25321",
+  "name": "Nelson Women's Centre Te Whare Āwhina Mō Ngā Wāhine Puawai Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nelsonwomenscentre.org.nz",
+  "email": "manager@nelsonwc.org.nz",
+  "address": {
+    "line1": "44 Trafalgar Street",
+    "line2": " ",
+    "suburb": "The Wood",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042921783",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nelsonwomenscentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T04:29:00Z"
+}

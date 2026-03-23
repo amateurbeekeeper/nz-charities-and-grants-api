@@ -1,0 +1,27 @@
+{
+  "id": 46362,
+  "registrationNumber": "CC44576",
+  "name": "The Kirwee Tennis Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sporty.co.nz/kirweetennis",
+  "email": "tom.jerry@xtra.co.nz",
+  "address": {
+    "line1": "1232 Courtenay Road",
+    "line2": "RD 1",
+    "suburb": "Kirwee",
+    "city": "Darfield",
+    "postcode": "7571"
+  },
+  "nzbn": "9429043195398",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-07-27T05:36:08Z"
+}

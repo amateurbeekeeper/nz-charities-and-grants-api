@@ -1,0 +1,27 @@
+{
+  "id": 46250,
+  "registrationNumber": "CC38194",
+  "name": "Piritahi Hau Ora Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.piritahi.co.nz",
+  "email": "judy.davis@piritahi.co.nz",
+  "address": {
+    "line1": "54 Tahatai Road",
+    "line2": "Blackpool",
+    "suburb": "Oneroa",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429043066810",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T02:30:18Z"
+}

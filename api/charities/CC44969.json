@@ -1,0 +1,27 @@
+{
+  "id": 35951,
+  "registrationNumber": "CC44969",
+  "name": "Land SAR Taupo",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-08-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "secretary@taupolandsar.org.nz",
+  "address": {
+    "line1": "C/- Taupo Police Station",
+    "line2": "Story Place",
+    "suburb": " ",
+    "city": "Taupo",
+    "postcode": "3350"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T04:59:38Z"
+}

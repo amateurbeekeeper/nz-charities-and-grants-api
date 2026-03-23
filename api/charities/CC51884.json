@@ -1,0 +1,27 @@
+{
+  "id": 65638,
+  "registrationNumber": "CC51884",
+  "name": "St Andrews Presbyterian Church Hastings",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.standrewshastings.org.nz",
+  "email": "info@standrewshastings.org.nz",
+  "address": {
+    "line1": "302 Market Street South",
+    "line2": "Hastings 4122",
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429053318855",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T01:10:11Z"
+}

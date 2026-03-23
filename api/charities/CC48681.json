@@ -1,0 +1,27 @@
+{
+  "id": 33235,
+  "registrationNumber": "CC48681",
+  "name": "Te Whare Putea Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tewhareputea.org.nz",
+  "email": "manager@tewhareputea.org.nz",
+  "address": {
+    "line1": "105 Beach Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaikoura",
+    "postcode": "7300"
+  },
+  "nzbn": "9429043300938",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Whare Putea",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T00:15:26Z"
+}

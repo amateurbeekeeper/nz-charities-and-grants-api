@@ -1,0 +1,27 @@
+{
+  "id": 51055,
+  "registrationNumber": "CC10053",
+  "name": "Citizens Advice Bureau Kapiti Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cab.org.nz",
+  "email": "proscontrust@gmail.com",
+  "address": {
+    "line1": "First Floor",
+    "line2": "Coastlands Shoppingtown",
+    "suburb": "Paraparaumu",
+    "city": "Kapiti Coast",
+    "postcode": "5032"
+  },
+  "nzbn": "9429042650843",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-26T00:25:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51473,
+  "registrationNumber": "CC10314",
+  "name": "Tolcarne Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.shcs.school.nz",
+  "email": "businessmanager@shcs.school.nz",
+  "address": {
+    "line1": "12 Tolcarne Avenue",
+    "line2": " ",
+    "suburb": "Maori Hill",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": "9429033707259",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-25T19:17:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74839,
+  "registrationNumber": "CC61261",
+  "name": "SoundCheck Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://soundcheckaotearoa.co.nz",
+  "email": "anna@soundcheckaotearoa.co.nz",
+  "address": {
+    "line1": "Level 4 c/o Dentons Kensington Swan",
+    "line2": "40 Bowen Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429051213282",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/soundcheckaotearoa",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T22:18:18Z"
+}

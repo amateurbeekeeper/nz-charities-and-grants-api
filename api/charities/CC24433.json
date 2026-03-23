@@ -1,0 +1,27 @@
+{
+  "id": 42108,
+  "registrationNumber": "CC24433",
+  "name": "Christian Services Association Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.robandlyn.org",
+  "email": "rob@robandlyn.org",
+  "address": {
+    "line1": "7 Shield Place",
+    "line2": " ",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429043163359",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T20:10:16Z"
+}

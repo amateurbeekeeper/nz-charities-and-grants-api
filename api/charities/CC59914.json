@@ -1,0 +1,27 @@
+{
+  "id": 73338,
+  "registrationNumber": "CC59914",
+  "name": "Active Little Learners",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.activelittlelearners.org.nz",
+  "email": "anthony@activelittlelearners.org.nz",
+  "address": {
+    "line1": "76 Green Street",
+    "line2": " ",
+    "suburb": "Tahunanui",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429050686308",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T03:44:47Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52811,
+  "registrationNumber": "CC11000",
+  "name": "Community Patrol Riccarton Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.riccartonpatrol.org.nz",
+  "email": "garychisholm7@gmail.com",
+  "address": {
+    "line1": "49A Weka Street",
+    "line2": " ",
+    "suburb": "Fendalton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042962915",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/riccartoncommunitypatrol",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:53:35Z"
+}

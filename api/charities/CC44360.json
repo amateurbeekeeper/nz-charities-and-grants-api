@@ -1,0 +1,27 @@
+{
+  "id": 50166,
+  "registrationNumber": "CC44360",
+  "name": "The New Zealand Wound Care Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzwcs.org.nz",
+  "email": "administrator@nzwcs.org.nz",
+  "address": {
+    "line1": "9 Sandstrom Grove",
+    "line2": null,
+    "suburb": " ",
+    "city": "Feilding",
+    "postcode": "4702"
+  },
+  "nzbn": "9429042784937",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/woundcarenz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:15:35Z"
+}

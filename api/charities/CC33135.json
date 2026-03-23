@@ -1,0 +1,27 @@
+{
+  "id": 45224,
+  "registrationNumber": "CC33135",
+  "name": "The Crighton Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "doriancrighton@gmail.com",
+  "address": {
+    "line1": "4 Jameson Avenue",
+    "line2": " ",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429043022045",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-07T02:51:48Z"
+}

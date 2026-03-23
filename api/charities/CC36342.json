@@ -1,0 +1,27 @@
+{
+  "id": 42189,
+  "registrationNumber": "CC36342",
+  "name": "The Young Men's Christian Association Central Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2020-02-01T00:00:00Z",
+  "website": "http://www.ymcacentral.org.nz",
+  "email": "cfo@ymcacentral.org.nz",
+  "address": {
+    "line1": "125 Grey Street",
+    "line2": " ",
+    "suburb": "Springvale",
+    "city": "Wanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429042971504",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/ymcacentralnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-04-07T22:49:18Z"
+}

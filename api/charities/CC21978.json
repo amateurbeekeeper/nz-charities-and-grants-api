@@ -1,0 +1,27 @@
+{
+  "id": 53609,
+  "registrationNumber": "CC21978",
+  "name": "Manukau Beautification Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.beautification.org.nz/",
+  "email": "daniel.barthow@beautification.org.nz",
+  "address": {
+    "line1": "38 Holmes Road",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": "9429042986386",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/beautification/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T23:31:57Z"
+}

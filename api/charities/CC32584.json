@@ -1,0 +1,27 @@
+{
+  "id": 60535,
+  "registrationNumber": "CC32584",
+  "name": "Glenwood South Canterbury Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.glenwood.org.nz",
+  "email": "finance@glenwood.org.nz",
+  "address": {
+    "line1": "6 Glenwood Avenue",
+    "line2": " ",
+    "suburb": "Highfield",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429042575146",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "n/a",
+    "twitter": "n/a"
+  },
+  "lastUpdated": "2025-12-21T20:30:55Z"
+}

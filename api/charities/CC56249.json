@@ -1,0 +1,27 @@
+{
+  "id": 69892,
+  "registrationNumber": "CC56249",
+  "name": "The Redeemed Christian Church of God Discovery Centre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rccgnz.co.nz",
+  "email": "ayokmartins@hotmail.com",
+  "address": {
+    "line1": "145 Tiriwa Drive",
+    "line2": "Massey",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "0614"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://m.facebook.com/rccgdiscover",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-16T08:19:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 62503,
+  "registrationNumber": "CC39469",
+  "name": "New Zealand In-line Hockey Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.inlinehockeynz.org.nz/",
+  "email": "michael.dall@icloud.com",
+  "address": {
+    "line1": "PO Box 14055",
+    "line2": " ",
+    "suburb": "Panmure",
+    "city": "Auckland",
+    "postcode": "1741"
+  },
+  "nzbn": "9429042680109",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/inlinehockeynz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T02:15:47Z"
+}

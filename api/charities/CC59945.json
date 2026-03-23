@@ -1,0 +1,27 @@
+{
+  "id": 73334,
+  "registrationNumber": "CC59945",
+  "name": "Chrome Collective Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-02-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://chromecollective.co.nz/",
+  "email": "shelley@chromecollective.co.nz",
+  "address": {
+    "line1": "240 Tetley Road",
+    "line2": "RD 2",
+    "suburb": "Tahawai",
+    "city": "Katikati",
+    "postcode": "3178"
+  },
+  "nzbn": "9429049907223",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/chromecollectivecommunity",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T20:02:07Z"
+}

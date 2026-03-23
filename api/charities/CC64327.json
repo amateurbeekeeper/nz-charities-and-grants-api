@@ -1,0 +1,27 @@
+{
+  "id": 78508,
+  "registrationNumber": "CC64327",
+  "name": "The Chaeum Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "thechaeumchurch@gmail.com",
+  "address": {
+    "line1": "32 Fernhill Way",
+    "line2": null,
+    "suburb": "Oteha",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "7/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T02:03:25Z"
+}

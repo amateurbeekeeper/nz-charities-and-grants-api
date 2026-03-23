@@ -1,0 +1,27 @@
+{
+  "id": 62505,
+  "registrationNumber": "CC39606",
+  "name": "Te Miro School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-08-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.temiro.school.nz",
+  "email": "jkburnnand@gmail.com",
+  "address": {
+    "line1": "443 Te Miro Road",
+    "line2": "RD 4",
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3496"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-23T19:37:34Z"
+}

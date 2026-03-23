@@ -1,0 +1,27 @@
+{
+  "id": 65179,
+  "registrationNumber": "CC51400",
+  "name": "City Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.city.org.nz",
+  "email": "garth@city.org.nz",
+  "address": {
+    "line1": "346 Manchester Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429043269853",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T23:46:38Z"
+}

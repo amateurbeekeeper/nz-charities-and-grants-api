@@ -1,0 +1,27 @@
+{
+  "id": 51137,
+  "registrationNumber": "CC20963",
+  "name": "Buller Wheelchair Bus Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bullerwheel@gmail.com",
+  "address": {
+    "line1": "42 Domett Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Westport",
+    "postcode": "7825"
+  },
+  "nzbn": "9429043080649",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-14T22:54:55Z"
+}

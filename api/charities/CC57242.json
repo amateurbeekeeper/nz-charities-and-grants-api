@@ -1,0 +1,27 @@
+{
+  "id": 70876,
+  "registrationNumber": "CC57242",
+  "name": "Saiyans Sports Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.saiyansclub.com",
+  "email": "william@saiyanssportsclub.com",
+  "address": {
+    "line1": "64 Sievers Grove",
+    "line2": " ",
+    "suburb": "Cannons Creek",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429047592919",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/saiyanssportsclub/?ref=bookmarks",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-18T19:46:56Z"
+}

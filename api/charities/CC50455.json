@@ -1,0 +1,27 @@
+{
+  "id": 34135,
+  "registrationNumber": "CC50455",
+  "name": "Arogya Mantra",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aajanachle.co.nz/arogya-mantra",
+  "email": "jignalbhagvandas@gmail.com",
+  "address": {
+    "line1": "137 White Swan Road",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429048384902",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/arogyamantranz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T20:54:07Z"
+}

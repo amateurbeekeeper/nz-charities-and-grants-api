@@ -1,0 +1,27 @@
+{
+  "id": 55109,
+  "registrationNumber": "CC22258",
+  "name": "New Zealand Chinese Youth Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzcyt.org.nz",
+  "email": "trucy.qin@gmail.com",
+  "address": {
+    "line1": "MILFORD SEA SCOUT CENRE",
+    "line2": "24 Craig Road",
+    "suburb": "Milford",
+    "city": "Auckland",
+    "postcode": "620"
+  },
+  "nzbn": "9429043118519",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/280247936997790",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-06T19:28:53Z"
+}

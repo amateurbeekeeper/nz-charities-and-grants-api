@@ -1,0 +1,27 @@
+{
+  "id": 43408,
+  "registrationNumber": "CC30298",
+  "name": "Waimamaku Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2022-09-15T00:00:00Z",
+  "dateDeregistered": "2025-05-21T00:00:00Z",
+  "website": null,
+  "email": "waimamaku@playcentre.org.nz",
+  "address": {
+    "line1": "State Highway 12",
+    "line2": " ",
+    "suburb": "Waimamaku",
+    "city": "Hokianga",
+    "postcode": "0446"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/waimamakuplaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-04T07:09:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 57736,
+  "registrationNumber": "CC25450",
+  "name": "Clutha Recreation Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.crossrecreationcentre.co.nz",
+  "email": "committee@crossrecreationcentre.co.nz",
+  "address": {
+    "line1": "18 Glasgow Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Balclutha",
+    "postcode": "9230"
+  },
+  "nzbn": "9429043048182",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Cross Recreation Centre@crossrecreationcentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T02:11:09Z"
+}

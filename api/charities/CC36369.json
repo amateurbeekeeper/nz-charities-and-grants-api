@@ -1,0 +1,27 @@
+{
+  "id": 57072,
+  "registrationNumber": "CC36369",
+  "name": "Society of St Vincent de Paul St Peter Chanel Glen Innes",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2011-06-13T00:00:00Z",
+  "website": "http://www.svdp.org.nz",
+  "email": "admin@svdp.org.nz",
+  "address": {
+    "line1": "4th Floor",
+    "line2": "Harbour City Building",
+    "suburb": "Brandon Street",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T06:16:16Z"
+}

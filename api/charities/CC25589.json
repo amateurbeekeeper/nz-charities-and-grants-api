@@ -1,0 +1,27 @@
+{
+  "id": 42464,
+  "registrationNumber": "CC25589",
+  "name": "Wellington Jazz Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://wellingtonjazzclub.org.nz",
+  "email": "WJCSEC@outlook.co.nz",
+  "address": {
+    "line1": "17 Euston Road",
+    "line2": " ",
+    "suburb": "Wilton",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429042910800",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Wellington-Jazz-Club-409417292427823/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:18:41Z"
+}

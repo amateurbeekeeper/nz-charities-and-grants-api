@@ -1,0 +1,27 @@
+{
+  "id": 62871,
+  "registrationNumber": "CC37669",
+  "name": "Cat Rescue Christchurch Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.catrescue.org.nz",
+  "email": "catrescue.chch@gmail.com",
+  "address": {
+    "line1": "PO Box 21163",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": "9429043092567",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/catrescuechristchurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T00:40:30Z"
+}

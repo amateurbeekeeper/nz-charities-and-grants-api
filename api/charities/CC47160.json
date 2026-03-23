@@ -1,0 +1,27 @@
+{
+  "id": 37887,
+  "registrationNumber": "CC47160",
+  "name": "Arohena Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sherriff@xtra.co.nz",
+  "address": {
+    "line1": "Pukewhau Road",
+    "line2": "R D 7",
+    "suburb": "Arohena",
+    "city": "Te Awamutu",
+    "postcode": "3877"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:05:03Z"
+}

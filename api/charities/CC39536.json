@@ -1,0 +1,27 @@
+{
+  "id": 47257,
+  "registrationNumber": "CC39536",
+  "name": "Southern Pacific Mission (NZ)",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-04-27T00:00:00Z",
+  "dateDeregistered": "2011-04-03T00:00:00Z",
+  "website": null,
+  "email": "mwhitlock@internet.co.nz",
+  "address": {
+    "line1": "Whitlock & Co",
+    "line2": "P O Box 100-449",
+    "suburb": "Nsmc",
+    "city": "Auckland",
+    "postcode": "0745"
+  },
+  "nzbn": "9429042729891",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:01:20Z"
+}

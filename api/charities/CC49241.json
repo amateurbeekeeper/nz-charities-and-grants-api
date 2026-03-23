@@ -1,0 +1,27 @@
+{
+  "id": 35005,
+  "registrationNumber": "CC49241",
+  "name": "The Stroke Foundation of New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stroke.org.nz",
+  "email": "jo.lambert@stroke.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "97 Molesworth Street",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429046215543",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T21:17:22Z"
+}

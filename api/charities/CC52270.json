@@ -1,0 +1,27 @@
+{
+  "id": 66002,
+  "registrationNumber": "CC52270",
+  "name": "Wellington Independent Arts Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wiat.wordpress.com",
+  "email": "mark@amery.net",
+  "address": {
+    "line1": "37 Fortunatus Street",
+    "line2": " ",
+    "suburb": "Brooklyn",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043198894",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T22:28:26Z"
+}

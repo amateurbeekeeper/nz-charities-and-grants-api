@@ -1,0 +1,27 @@
+{
+  "id": 60215,
+  "registrationNumber": "CC28033",
+  "name": "New Zealand Swimming Trust Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzswimmingalumni.org.nz",
+  "email": "secretary@nzswimmingalumni.org.nz",
+  "address": {
+    "line1": "PO Box 184",
+    "line2": "Matamata 3440",
+    "suburb": " ",
+    "city": "Matamata",
+    "postcode": "3440"
+  },
+  "nzbn": "9429042692072",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-01T21:23:21Z"
+}

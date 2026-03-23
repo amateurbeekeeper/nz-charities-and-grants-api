@@ -1,0 +1,27 @@
+{
+  "id": 51919,
+  "registrationNumber": "CC10861",
+  "name": "Multiple Sclerosis Society Of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.msnz.org.nz",
+  "email": "amanda.rose@msnz.org.nz",
+  "address": {
+    "line1": "80 Fitzgerald Avenue",
+    "line2": "314 Worcester Street",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042764830",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/mssnz",
+    "twitter": "www.twitter.com/MSSocietyNZ"
+  },
+  "lastUpdated": "2025-11-25T03:09:41Z"
+}

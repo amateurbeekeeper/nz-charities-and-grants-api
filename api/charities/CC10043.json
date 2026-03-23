@@ -1,0 +1,27 @@
+{
+  "id": 51069,
+  "registrationNumber": "CC10043",
+  "name": "Women's Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-03-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.womenscentre.co.nz",
+  "email": "support@womenscentre.co.nz",
+  "address": {
+    "line1": "48 Fitzgerald Avenue",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042922612",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Womens Centre Christchurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T04:12:09Z"
+}

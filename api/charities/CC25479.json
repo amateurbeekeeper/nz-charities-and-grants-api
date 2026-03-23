@@ -1,0 +1,27 @@
+{
+  "id": 57502,
+  "registrationNumber": "CC25479",
+  "name": "Coastguard Whangaroa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cgwhangaroa@gmail.com",
+  "address": {
+    "line1": "19 Kent Street",
+    "line2": "RD 1",
+    "suburb": "Whangaroa",
+    "city": "Kaeo",
+    "postcode": "0478"
+  },
+  "nzbn": "9429042944027",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": " Coastguard Whangaroa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T19:55:24Z"
+}

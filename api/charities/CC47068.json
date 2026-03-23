@@ -1,0 +1,27 @@
+{
+  "id": 35483,
+  "registrationNumber": "CC47068",
+  "name": "National Youth Theatre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-07-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nyt.nz",
+  "email": "james@nyt.nz",
+  "address": {
+    "line1": "8A Monmouth Street",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429043169535",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "http://facebook.com/NYT.NZ",
+    "twitter": "http://twitter.com/NYTNZ"
+  },
+  "lastUpdated": "2025-08-05T19:08:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69388,
+  "registrationNumber": "CC55740",
+  "name": "Connect Futures NZ Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.connectfutures.org.nz",
+  "email": "jay@connectfutures.org.nz",
+  "address": {
+    "line1": "Unit 19",
+    "line2": "13 Laidlaw Way",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": "9429046921222",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/connectfuturesnz/?modal=admin_todo_tour",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T04:29:28Z"
+}

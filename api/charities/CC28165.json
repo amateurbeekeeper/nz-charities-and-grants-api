@@ -1,0 +1,27 @@
+{
+  "id": 45303,
+  "registrationNumber": "CC28165",
+  "name": "Waikaia Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "whitecombe@netspeed.net.nz",
+  "address": {
+    "line1": "21 Newburn Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waikaia",
+    "postcode": "9745"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waikaia Volunteer Fire Brigade",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:33:11Z"
+}

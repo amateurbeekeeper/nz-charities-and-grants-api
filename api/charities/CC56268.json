@@ -1,0 +1,27 @@
+{
+  "id": 69911,
+  "registrationNumber": "CC56268",
+  "name": "Home Kitchen",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-10-05T00:00:00Z",
+  "dateDeregistered": "2023-03-20T00:00:00Z",
+  "website": "https://www.homekitchen.co.nz",
+  "email": "tania@taniajones.org",
+  "address": {
+    "line1": "4 Nicola Court",
+    "line2": " ",
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/HomeKitchenNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T00:53:32Z"
+}

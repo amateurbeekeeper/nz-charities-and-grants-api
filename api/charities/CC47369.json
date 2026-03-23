@@ -1,0 +1,27 @@
+{
+  "id": 38505,
+  "registrationNumber": "CC47369",
+  "name": "Community Law Centres Aotearoa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-09-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.communitylaw.org.nz",
+  "email": "sue@clca.co.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "15 Dixon Street",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6142"
+  },
+  "nzbn": "9429043222506",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:03Z"
+}

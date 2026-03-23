@@ -1,0 +1,27 @@
+{
+  "id": 60805,
+  "registrationNumber": "CC31786",
+  "name": "Carterton Tennis Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cartertontennis.co.nz",
+  "email": "simondouglas76@gmail.com",
+  "address": {
+    "line1": "High Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Carterton",
+    "postcode": "5713"
+  },
+  "nzbn": "9429042606369",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CartertonTennis/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-16T00:41:29Z"
+}

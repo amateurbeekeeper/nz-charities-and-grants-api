@@ -1,0 +1,27 @@
+{
+  "id": 64017,
+  "registrationNumber": "CC43136",
+  "name": "Heriot Volunteer Fire Brigade",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-12-09T00:00:00Z",
+  "dateDeregistered": "2012-03-15T00:00:00Z",
+  "website": null,
+  "email": "murray.young@fire.org.nz",
+  "address": {
+    "line1": "86 Main Road",
+    "line2": null,
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-03-27T22:30:34Z"
+}

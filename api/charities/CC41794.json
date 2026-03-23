@@ -1,0 +1,27 @@
+{
+  "id": 43948,
+  "registrationNumber": "CC41794",
+  "name": "The City Of Wellington Pipe Band Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2019-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cwpipeband.com/",
+  "email": "info@cwpipeband.com",
+  "address": {
+    "line1": "Corner of Hanson Street",
+    "line2": " ",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429042852292",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CityofWellingtonPB",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:22:43Z"
+}

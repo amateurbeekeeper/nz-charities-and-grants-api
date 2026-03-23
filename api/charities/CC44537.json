@@ -1,0 +1,27 @@
+{
+  "id": 36250,
+  "registrationNumber": "CC44537",
+  "name": "The Link Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lct.org.nz",
+  "email": "aidanwat@lct.org.nz",
+  "address": {
+    "line1": "76 Tauhinu Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lincoln",
+    "postcode": "7608"
+  },
+  "nzbn": "9429043190614",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T00:58:09Z"
+}

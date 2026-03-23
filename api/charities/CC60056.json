@@ -1,0 +1,27 @@
+{
+  "id": 73689,
+  "registrationNumber": "CC60056",
+  "name": "Mana Services Aotearoa Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.manaservices.nz",
+  "email": "Lachlan@manaservices.nz",
+  "address": {
+    "line1": "126 Bawden Road",
+    "line2": "RD 2",
+    "suburb": "Dairy Flat",
+    "city": "Albany",
+    "postcode": "0792"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/manaservicesnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T04:09:29Z"
+}

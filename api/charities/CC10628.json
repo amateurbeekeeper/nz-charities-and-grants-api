@@ -1,0 +1,27 @@
+{
+  "id": 51759,
+  "registrationNumber": "CC10628",
+  "name": "Crown Forestry Rental Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cfrt.org.nz",
+  "email": "wayne.buck@cfrt.org.nz",
+  "address": {
+    "line1": "Level 3, Westpac Building",
+    "line2": "318 Lambton Quay",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-28T19:35:35Z"
+}

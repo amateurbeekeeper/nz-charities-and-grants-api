@@ -1,0 +1,27 @@
+{
+  "id": 56181,
+  "registrationNumber": "CC21728",
+  "name": "New Zealand String Quartet Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzsq.co.nz",
+  "email": "manager@nzsq.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "90 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042691990",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZStringQuartet",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T22:30:18Z"
+}

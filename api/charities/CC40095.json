@@ -1,0 +1,27 @@
+{
+  "id": 43690,
+  "registrationNumber": "CC40095",
+  "name": "Pokeno School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pokeno.school.nz/",
+  "email": "pta@pokeno.school.nz",
+  "address": {
+    "line1": "C/o Pokeno School",
+    "line2": "54 Pokeno Road, RD 2",
+    "suburb": " ",
+    "city": "Pokeno",
+    "postcode": "2440"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pokenopta/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:18:49Z"
+}

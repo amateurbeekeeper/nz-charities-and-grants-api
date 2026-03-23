@@ -1,0 +1,27 @@
+{
+  "id": 73815,
+  "registrationNumber": "CC60214",
+  "name": "Fale Youth Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2022-06-17T00:00:00Z",
+  "dateDeregistered": "2025-07-20T00:00:00Z",
+  "website": "https://faleyouth.com/",
+  "email": "faleyouth@gmail.com",
+  "address": {
+    "line1": "60 Patterson Terrace",
+    "line2": " ",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429051659400",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-30T07:15:55Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42395,
+  "registrationNumber": "CC24572",
+  "name": "Upside Youth Mentoring Aotearoa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.upside.org.nz",
+  "email": "info@upside.org.nz",
+  "address": {
+    "line1": "300 Great South Road",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429043168637",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/upsideyouthmentoringnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:14:11Z"
+}

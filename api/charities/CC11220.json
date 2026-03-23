@@ -1,0 +1,27 @@
+{
+  "id": 52969,
+  "registrationNumber": "CC11220",
+  "name": "The Matata Emergency Response Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Gavin.Dennis@fireandemergency.nz",
+  "address": {
+    "line1": "37 Heale Street",
+    "line2": "RD 4",
+    "suburb": " ",
+    "city": "Matata",
+    "postcode": "3194"
+  },
+  "nzbn": "9429043034444",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Matata Volunteer Fire Brigade",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T08:26:59Z"
+}

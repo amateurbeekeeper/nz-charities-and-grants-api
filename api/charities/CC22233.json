@@ -1,0 +1,27 @@
+{
+  "id": 55763,
+  "registrationNumber": "CC22233",
+  "name": "St. Andrew's Trust for the Study of Religion and Society",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": "2017-05-09T00:00:00Z",
+  "website": "http://satrs.org.nz",
+  "email": "Admin@satrs.org.nz",
+  "address": {
+    "line1": "30 The Terrace",
+    "line2": null,
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042732969",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-08-19T22:20:40Z"
+}

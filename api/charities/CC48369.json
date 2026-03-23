@@ -1,0 +1,27 @@
+{
+  "id": 32822,
+  "registrationNumber": "CC48369",
+  "name": "Mothers Helpers",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mothershelpers.co.nz",
+  "email": "info@mothershelpers.co.nz",
+  "address": {
+    "line1": "Suite 7710",
+    "line2": "17B Farnham St",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429043220328",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZmothershelpers/",
+    "twitter": "www.twitter.com/help4pnd"
+  },
+  "lastUpdated": "2026-03-17T16:11:22Z"
+}

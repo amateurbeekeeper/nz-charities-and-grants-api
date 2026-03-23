@@ -1,0 +1,27 @@
+{
+  "id": 65560,
+  "registrationNumber": "CC51805",
+  "name": "Pleasant Point Community Vehicle Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bronal@xtra.co.nz",
+  "address": {
+    "line1": "15 Kyber Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pleasant Point",
+    "postcode": "7903"
+  },
+  "nzbn": "9429043271559",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-23T22:12:30Z"
+}

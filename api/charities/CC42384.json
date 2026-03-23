@@ -1,0 +1,27 @@
+{
+  "id": 43705,
+  "registrationNumber": "CC42384",
+  "name": "Auckland Symphony Orchestra Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandsymphony.co.nz",
+  "email": "treasurer@aucklandsymphony.co.nz",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "102 Coronation Road",
+    "suburb": "Hillcrest",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429042590590",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/aucklandsymphonyorchestra",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-07T02:12:57Z"
+}

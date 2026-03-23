@@ -1,0 +1,27 @@
+{
+  "id": 63922,
+  "registrationNumber": "CC43037",
+  "name": "Society Of Cardiopulmonary Technology NZ Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-12-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sct.org.nz",
+  "email": "sctfinance@outlook.com",
+  "address": {
+    "line1": "C/- Cardiac Physiology, Level 3, Building 32,",
+    "line2": "Auckland City Hospital",
+    "suburb": " Private Bag 92024, Victoria Street West",
+    "city": "Auckland",
+    "postcode": "1142"
+  },
+  "nzbn": "9429042740735",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:02:45Z"
+}

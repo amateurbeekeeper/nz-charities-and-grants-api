@@ -1,0 +1,27 @@
+{
+  "id": 43362,
+  "registrationNumber": "CC32448",
+  "name": "Burwood Park Tennis Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.burwoodparktennisclub.kiwi",
+  "email": "treasurer@burwoodparktennisclub.kiwi",
+  "address": {
+    "line1": "55 Cresswell Avenue",
+    "line2": "Burwood Park",
+    "suburb": "Burwood",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429042601227",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/burwoodparktennisclub/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T03:20:24Z"
+}

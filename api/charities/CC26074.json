@@ -1,0 +1,27 @@
+{
+  "id": 58310,
+  "registrationNumber": "CC26074",
+  "name": "Friends of Pataka Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://friendsofpataka.org.nz",
+  "email": "secretary@friendsofpataka.org.nz",
+  "address": {
+    "line1": "38 The Masthead",
+    "line2": " ",
+    "suburb": "Whitby",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429043135493",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/friendsofpataka",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:14:32Z"
+}

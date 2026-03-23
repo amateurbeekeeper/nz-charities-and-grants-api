@@ -1,0 +1,27 @@
+{
+  "id": 68366,
+  "registrationNumber": "CC54700",
+  "name": "Harrisville School Community",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-07-23T00:00:00Z",
+  "dateDeregistered": "2023-10-17T00:00:00Z",
+  "website": null,
+  "email": "hsc@harrisville.school.nz",
+  "address": {
+    "line1": "202 Harrisville Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tuakau",
+    "postcode": "2121"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T00:55:37Z"
+}

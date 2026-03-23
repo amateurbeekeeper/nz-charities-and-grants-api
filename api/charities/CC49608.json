@@ -1,0 +1,27 @@
+{
+  "id": 35358,
+  "registrationNumber": "CC49608",
+  "name": "Continuing Church of God",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-09-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ccog.nz",
+  "email": "sgestro@xtra.co.nz",
+  "address": {
+    "line1": "25 Henley Street",
+    "line2": "Westport 7825",
+    "suburb": " ",
+    "city": "Westport",
+    "postcode": "7825"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T02:52:31Z"
+}

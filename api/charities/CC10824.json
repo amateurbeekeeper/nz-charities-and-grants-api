@@ -1,0 +1,27 @@
+{
+  "id": 52532,
+  "registrationNumber": "CC10824",
+  "name": "Northgate Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.northgatecc.org.nz",
+  "email": "dean@renner.co.nz",
+  "address": {
+    "line1": "14A Haynes Place",
+    "line2": "RD 1",
+    "suburb": "Huntington",
+    "city": "Hamilton",
+    "postcode": "3281"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:52:10Z"
+}

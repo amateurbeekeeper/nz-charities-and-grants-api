@@ -1,0 +1,27 @@
+{
+  "id": 64989,
+  "registrationNumber": "CC32510",
+  "name": "Special Olympics New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.specialolympics.org.nz",
+  "email": "finance@specialolympics.org.nz",
+  "address": {
+    "line1": "PELORUS TRUST SPORTS HOUSE",
+    "line2": "93 Hutt Park Road",
+    "suburb": "Moera",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429042867876",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SpecialOlympicsNZ/?ref=embed_page#",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-16T21:42:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70630,
+  "registrationNumber": "CC56997",
+  "name": "Leeston Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-08-26T00:00:00Z",
+  "dateDeregistered": "2025-08-22T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/leeston/",
+  "email": "leeston@playcentre.org.nz",
+  "address": {
+    "line1": "4 May Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Leeston",
+    "postcode": "7632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/leestonplaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-05T07:11:38Z"
+}

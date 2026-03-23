@@ -1,0 +1,27 @@
+{
+  "id": 34780,
+  "registrationNumber": "CC51211",
+  "name": "Wildlife Foxton Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-11-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wildlifefoxton.org",
+  "email": "info@wildlifefoxton.nz",
+  "address": {
+    "line1": "207 Seabury Avenue",
+    "line2": " ",
+    "suburb": " Foxton Beach",
+    "city": "Foxton",
+    "postcode": "4815"
+  },
+  "nzbn": "9429043289073",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@wildlifefoxton",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T23:54:02Z"
+}

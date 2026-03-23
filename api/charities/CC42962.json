@@ -1,0 +1,27 @@
+{
+  "id": 63972,
+  "registrationNumber": "CC42962",
+  "name": "Queenstown Cat Rescue",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-11-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.qcatrescue.org.nz",
+  "email": "centralartgallerynz@gmail.com",
+  "address": {
+    "line1": "29 Fitzpatrick Road",
+    "line2": "Dalefield 9371",
+    "suburb": " ",
+    "city": "Dalefield",
+    "postcode": "9371"
+  },
+  "nzbn": "9429043289547",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/429641057198220",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T01:14:45Z"
+}

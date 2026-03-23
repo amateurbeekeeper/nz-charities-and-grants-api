@@ -1,0 +1,27 @@
+{
+  "id": 75439,
+  "registrationNumber": "CC61882",
+  "name": "Ngā Wātene Māori o Aotearoa Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.maoriwardens.nz",
+  "email": "gillian@gillianwarren.co.nz",
+  "address": {
+    "line1": "250 Pages Road",
+    "line2": " ",
+    "suburb": "Wainoni",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/maoriwardensnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T21:08:37Z"
+}

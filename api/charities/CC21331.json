@@ -1,0 +1,27 @@
+{
+  "id": 54184,
+  "registrationNumber": "CC21331",
+  "name": "Rotorua Keswick Convention Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.keswick.org.nz/",
+  "email": "Jon@thehornes.co.nz",
+  "address": {
+    "line1": "5 Cooper Avenue",
+    "line2": " ",
+    "suburb": "Holdens Bay",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042824985",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T01:01:44Z"
+}

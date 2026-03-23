@@ -1,0 +1,27 @@
+{
+  "id": 35308,
+  "registrationNumber": "CC49613",
+  "name": "Birchville School Parent Teacher Association",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2013-09-06T00:00:00Z",
+  "dateDeregistered": "2023-03-22T00:00:00Z",
+  "website": "https://www.birchville.school.nz",
+  "email": "nthompson@hotmail.co.nz",
+  "address": {
+    "line1": "Birchville School",
+    "line2": "12 Gemstone Drive",
+    "suburb": "Birchville",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-04-29T07:00:47Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34265,
+  "registrationNumber": "CC51158",
+  "name": "Waitaha Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-12-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waitaha-iwi.org.nz",
+  "email": "accountant@gha.co.nz",
+  "address": {
+    "line1": "2 Dunlop Road",
+    "line2": "Te Puke 3119",
+    "suburb": " ",
+    "city": "Te Puke",
+    "postcode": "3119"
+  },
+  "nzbn": "9429043259847",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T20:50:48Z"
+}

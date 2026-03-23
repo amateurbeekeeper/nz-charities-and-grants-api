@@ -1,0 +1,27 @@
+{
+  "id": 52428,
+  "registrationNumber": "CC11227",
+  "name": "Monte Cecilia Housing Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.montececilia.org.nz",
+  "email": "vicki@montececilia.org.nz",
+  "address": {
+    "line1": "30 Windrush Close",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429043130818",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Montececilia",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T02:34:44Z"
+}

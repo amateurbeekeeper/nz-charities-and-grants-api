@@ -1,0 +1,27 @@
+{
+  "id": 47947,
+  "registrationNumber": "CC30053",
+  "name": "Legal Research Foundation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.legalresearch.org.nz",
+  "email": "julia@legalresearch.org.nz",
+  "address": {
+    "line1": "9 Eden Crescent",
+    "line2": "Shortland Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042654896",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T00:39:12Z"
+}

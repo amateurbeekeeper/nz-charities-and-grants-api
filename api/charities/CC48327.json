@@ -1,0 +1,27 @@
+{
+  "id": 32699,
+  "registrationNumber": "CC48327",
+  "name": "Heart For Youth Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.heartforyouth.org.nz",
+  "email": "ross@heartforyouth.org.nz",
+  "address": {
+    "line1": "48A Cresta Avenue",
+    "line2": " ",
+    "suburb": "Beach Haven",
+    "city": "Auckland",
+    "postcode": "626"
+  },
+  "nzbn": "9429043262335",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Heartforyouth/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T01:47:55Z"
+}

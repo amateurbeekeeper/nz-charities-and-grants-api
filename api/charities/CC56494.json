@@ -1,0 +1,27 @@
+{
+  "id": 70128,
+  "registrationNumber": "CC56494",
+  "name": "Best Education Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john@roberts.co.nz",
+  "address": {
+    "line1": "159 Botany Road",
+    "line2": " ",
+    "suburb": "Botany Downs",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T00:07:53Z"
+}

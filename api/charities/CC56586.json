@@ -1,0 +1,27 @@
+{
+  "id": 70226,
+  "registrationNumber": "CC56586",
+  "name": "Every Body Is a Treasure",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://everybodyisatreasure.org/",
+  "email": "thetrust@everybodyisatreasure.org",
+  "address": {
+    "line1": "191 Plateau Road",
+    "line2": " ",
+    "suburb": "Te Marua",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429046351555",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/everybodyisatreasure/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T02:34:15Z"
+}

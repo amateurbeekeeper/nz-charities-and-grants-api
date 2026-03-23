@@ -1,0 +1,27 @@
+{
+  "id": 50467,
+  "registrationNumber": "CC44050",
+  "name": "Wellington Rowing Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-04-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wellingtonrowing.org.nz",
+  "email": "Chrisjonesfg@gmail.com",
+  "address": {
+    "line1": "Jervois Quay",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429042917663",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T18:02:13Z"
+}

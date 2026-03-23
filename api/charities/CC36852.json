@@ -1,0 +1,27 @@
+{
+  "id": 48793,
+  "registrationNumber": "CC36852",
+  "name": "Learning Needs Library for Educational and Therapeutic Resources Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.learningneedslibrary.co.nz",
+  "email": "chris@learningneedslibrary.co.nz",
+  "address": {
+    "line1": "109 Huxley Street",
+    "line2": null,
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429042724940",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Learning Needs Library",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-31T01:26:36Z"
+}

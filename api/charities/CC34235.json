@@ -1,0 +1,27 @@
+{
+  "id": 46528,
+  "registrationNumber": "CC34235",
+  "name": "The Auckland Branch of the New Zealand Society of Genealogists",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pam.richardlogan@gmail.com",
+  "address": {
+    "line1": "9 Puawai Place",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T20:02:54Z"
+}

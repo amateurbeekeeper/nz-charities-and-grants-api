@@ -1,0 +1,27 @@
+{
+  "id": 67514,
+  "registrationNumber": "CC53813",
+  "name": "West Coast Wilderness Trail Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-10-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.westcoastwildernesstrail.co.nz",
+  "email": "wildernesstrailtrust@gmail.com",
+  "address": {
+    "line1": "15 Weenink Road",
+    "line2": " ",
+    "suburb": "Karoro",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": "9429043309948",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WestCoastWildernessTrail",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T04:55:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40026,
+  "registrationNumber": "CC33090",
+  "name": "Gisborne Bowling Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rodus.young@gmail.com",
+  "address": {
+    "line1": "15 Rawiri Street",
+    "line2": " ",
+    "suburb": "Kaiti",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042629382",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-29T19:25:12Z"
+}

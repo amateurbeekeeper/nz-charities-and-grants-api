@@ -1,0 +1,27 @@
+{
+  "id": 35586,
+  "registrationNumber": "CC44607",
+  "name": "Menzshed Wellington",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-07-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "joscan@xtra.co.nz",
+  "address": {
+    "line1": "58 Waipapa Road",
+    "line2": "Level 4",
+    "suburb": "Hataitai",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T22:08:31Z"
+}

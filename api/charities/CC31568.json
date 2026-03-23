@@ -1,0 +1,27 @@
+{
+  "id": 59364,
+  "registrationNumber": "CC31568",
+  "name": "The Anglican Church in Aotearoa, New Zealand and Polynesia - Diocese of Wellington",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://anglicanmovement.nz/",
+  "email": "ben@anglicanmovement.nz",
+  "address": {
+    "line1": "18 Eccleston Hill",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429048312967",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:31Z"
+}

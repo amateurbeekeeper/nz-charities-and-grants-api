@@ -1,0 +1,27 @@
+{
+  "id": 49905,
+  "registrationNumber": "CC31245",
+  "name": "Community Patrols Of New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cpnz.org.nz",
+  "email": "robert@cpnz.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "180 Molesworth Street",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042982807",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T00:05:32Z"
+}

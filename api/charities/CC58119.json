@@ -1,0 +1,27 @@
+{
+  "id": 71736,
+  "registrationNumber": "CC58119",
+  "name": "The Raglan Community House Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.raglancommunityhouse.org.nz",
+  "email": "info@raglancommunityhouse.org.nz",
+  "address": {
+    "line1": "45 Bow Street",
+    "line2": "Raglan 3225",
+    "suburb": " ",
+    "city": "Raglan",
+    "postcode": "3225"
+  },
+  "nzbn": "9429048332743",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/raglancommunityhouse/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T21:52:22Z"
+}

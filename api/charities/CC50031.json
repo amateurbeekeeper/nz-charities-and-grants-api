@@ -1,0 +1,27 @@
+{
+  "id": 33287,
+  "registrationNumber": "CC50031",
+  "name": "The Hodge Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-09-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.thehodgefoundation.org.nz",
+  "email": "paulh@thehodgefoundation.org.nz",
+  "address": {
+    "line1": "9 Sutherland Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429043317530",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T04:12:42Z"
+}

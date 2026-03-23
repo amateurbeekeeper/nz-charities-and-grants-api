@@ -1,0 +1,27 @@
+{
+  "id": 37209,
+  "registrationNumber": "CC48048",
+  "name": "Te Arahanga Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2024-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "melody@cttu.org.nz",
+  "address": {
+    "line1": "252A Ngahina Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Taneatua",
+    "postcode": "3191"
+  },
+  "nzbn": "9429043022670",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-18T01:14:06Z"
+}

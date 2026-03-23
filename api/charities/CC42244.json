@@ -1,0 +1,27 @@
+{
+  "id": 62209,
+  "registrationNumber": "CC42244",
+  "name": "Special Olympics Canterbury",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2021-12-31T00:00:00Z",
+  "website": "https://www.specialolympics.org.nz",
+  "email": "Helen-Mitchell@xtra.co.nz",
+  "address": {
+    "line1": "4 Smugglers Cove",
+    "line2": " ",
+    "suburb": "Scarborough",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-08-21T07:16:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65220,
+  "registrationNumber": "CC51441",
+  "name": "MS Sailors Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2014-10-29T00:00:00Z",
+  "dateDeregistered": "2018-06-29T00:00:00Z",
+  "website": "www.mssailorstrust.com",
+  "email": "celia.snedden@outlook.com",
+  "address": {
+    "line1": "PO Box 78326",
+    "line2": "Grey Lynn",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1245"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-07-10T20:44:13Z"
+}

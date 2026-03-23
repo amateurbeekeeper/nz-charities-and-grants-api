@@ -1,0 +1,27 @@
+{
+  "id": 66751,
+  "registrationNumber": "CC53022",
+  "name": "Te Rangatahi Tumanako Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.trt.org.nz/",
+  "email": "andrew@med-foods.co.nz",
+  "address": {
+    "line1": "322 Tuam Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/YouthHopeTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-05T19:09:11Z"
+}

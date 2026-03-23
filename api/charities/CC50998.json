@@ -1,0 +1,27 @@
+{
+  "id": 34451,
+  "registrationNumber": "CC50998",
+  "name": "Te Arawa Fresh Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-07-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tearawafisheries.maori.nz",
+  "email": "info@tearawafisheries.maori.nz",
+  "address": {
+    "line1": "1204 Whakaue Street",
+    "line2": "Rotorua 3010",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429030538726",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T23:44:36Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34745,
+  "registrationNumber": "CC51234",
+  "name": "Friends of Okura Bush Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-10-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://okurabush.org.nz",
+  "email": "info@okurabush.org.nz",
+  "address": {
+    "line1": "109 Haigh Access Road",
+    "line2": "RD 4",
+    "suburb": "Redvale",
+    "city": "Albany",
+    "postcode": "0794"
+  },
+  "nzbn": "9429042717935",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/526645394074675",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:03:34Z"
+}

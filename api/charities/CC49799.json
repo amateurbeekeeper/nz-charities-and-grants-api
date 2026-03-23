@@ -1,0 +1,27 @@
+{
+  "id": 33587,
+  "registrationNumber": "CC49799",
+  "name": "Te Huingawaka Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-09-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pam.taitapanui@xtra.co.nz",
+  "address": {
+    "line1": "c/o Postal Centre",
+    "line2": " ",
+    "suburb": "Kaingaroa Village",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T18:07:20Z"
+}

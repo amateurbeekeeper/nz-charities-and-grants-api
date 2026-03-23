@@ -1,0 +1,27 @@
+{
+  "id": 68325,
+  "registrationNumber": "CC54662",
+  "name": "Trust Teina",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "trustteina@gmail.com",
+  "address": {
+    "line1": "100B Escott Road",
+    "line2": "RD 4",
+    "suburb": "Dairy Flat",
+    "city": "Albany",
+    "postcode": "0794"
+  },
+  "nzbn": "9429046157737",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/trusttaina/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T03:49:59Z"
+}

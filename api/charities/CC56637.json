@@ -1,0 +1,27 @@
+{
+  "id": 70275,
+  "registrationNumber": "CC56637",
+  "name": "ANAMATA CAFE TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.anamata.org.nz",
+  "email": "accounts@anamata.org.nz",
+  "address": {
+    "line1": "152 Spa Road",
+    "line2": "Taupo 3330",
+    "suburb": " ",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429047175631",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AnamataYOSS",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T01:47:04Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67160,
+  "registrationNumber": "CC53441",
+  "name": "Kakano Films Limited",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2016-06-20T00:00:00Z",
+  "dateDeregistered": "2019-10-25T00:00:00Z",
+  "website": "www.maorilandfilm.co.nz",
+  "email": "libby@maorilandfilm.co.nz",
+  "address": {
+    "line1": "3 Moana Street",
+    "line2": " ",
+    "suburb": "Otaki Beach",
+    "city": "Otaki",
+    "postcode": "5512"
+  },
+  "nzbn": "9429036117185",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "Maoriland Film",
+    "twitter": null
+  },
+  "lastUpdated": "2019-12-04T03:28:58Z"
+}

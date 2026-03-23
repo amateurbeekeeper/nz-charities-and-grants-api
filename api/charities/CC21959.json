@@ -1,0 +1,27 @@
+{
+  "id": 55075,
+  "registrationNumber": "CC21959",
+  "name": "The Motueka Rudolf Steiner School Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.motuekasteiner.school.nz",
+  "email": "accounts@mrsst.nz",
+  "address": {
+    "line1": "165 Robinson Road",
+    "line2": "RD 2",
+    "suburb": "Lower Moutere",
+    "city": "Upper Moutere",
+    "postcode": "7175"
+  },
+  "nzbn": "9429042785583",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Motueka.Steiner.School/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T08:17:05Z"
+}

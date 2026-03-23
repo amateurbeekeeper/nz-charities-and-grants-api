@@ -1,0 +1,27 @@
+{
+  "id": 73450,
+  "registrationNumber": "CC60105",
+  "name": "West Auckland Pasifika Forum Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tulai.nz",
+  "email": "tanya@tulai.nz",
+  "address": {
+    "line1": "B/4343 Great North Road",
+    "line2": " ",
+    "suburb": "Glendene",
+    "city": "Auckland",
+    "postcode": "0645"
+  },
+  "nzbn": "9429047831575",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/tulai.nz",
+    "twitter": "https://www.instagram.com/tulai_nz/"
+  },
+  "lastUpdated": "2026-01-28T21:30:11Z"
+}

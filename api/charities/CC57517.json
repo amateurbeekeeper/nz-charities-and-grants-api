@@ -1,0 +1,27 @@
+{
+  "id": 71140,
+  "registrationNumber": "CC57517",
+  "name": "The Puketiro Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-11-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "peterhubscher@xtra.co.nz",
+  "address": {
+    "line1": "80 Tironui Drive",
+    "line2": " ",
+    "suburb": "Taradale",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "no",
+    "twitter": "no"
+  },
+  "lastUpdated": "2026-01-09T04:03:40Z"
+}

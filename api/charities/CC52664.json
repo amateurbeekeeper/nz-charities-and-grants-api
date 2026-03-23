@@ -1,0 +1,27 @@
+{
+  "id": 66397,
+  "registrationNumber": "CC52664",
+  "name": "Anglican Diocese of Christchurch Parish of Burnside Harewood",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.burnsidechurch.nz",
+  "email": "office@burnside.org.nz",
+  "address": {
+    "line1": "46 Kendal Avenue",
+    "line2": " ",
+    "suburb": "Burnside",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429051621735",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-02T01:07:17Z"
+}

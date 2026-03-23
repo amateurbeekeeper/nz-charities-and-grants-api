@@ -1,0 +1,27 @@
+{
+  "id": 75854,
+  "registrationNumber": "CC62313",
+  "name": "Te Puna Tumanako Social Services",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "b@bry.co.nz",
+  "address": {
+    "line1": "210 Rarapua Place",
+    "line2": " ",
+    "suburb": "Te Puna ",
+    "city": "Tauranga",
+    "postcode": "3176"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-08T23:59:36Z"
+}

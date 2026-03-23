@@ -1,0 +1,27 @@
+{
+  "id": 57251,
+  "registrationNumber": "CC35408",
+  "name": "Medical Radiation Technologists Board",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "accounts@medsci.co.nz",
+  "address": {
+    "line1": "99 Customhouse Quay",
+    "line2": "Level 7",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429047125193",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T02:09:19Z"
+}

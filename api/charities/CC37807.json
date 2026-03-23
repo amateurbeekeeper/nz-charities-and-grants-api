@@ -1,0 +1,27 @@
+{
+  "id": 42000,
+  "registrationNumber": "CC37807",
+  "name": "Queenstown Christian Camp Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lakelandpark.co.nz",
+  "email": "jvnicholl@xtra.co.nz",
+  "address": {
+    "line1": "159 Granton Road",
+    "line2": "RD 1",
+    "suburb": "Momona",
+    "city": "Outram",
+    "postcode": "9073"
+  },
+  "nzbn": "9429042807865",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T08:44:28Z"
+}

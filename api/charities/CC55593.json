@@ -1,0 +1,27 @@
+{
+  "id": 69243,
+  "registrationNumber": "CC55593",
+  "name": "Learning Hawkes Bay Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://learninghawkesbay.nz/",
+  "email": "jeffreyt@hdc.govt.nz",
+  "address": {
+    "line1": "207 Lyndon Road East",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LearningHB/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T19:40:04Z"
+}

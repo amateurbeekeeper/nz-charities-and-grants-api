@@ -1,0 +1,27 @@
+{
+  "id": 49710,
+  "registrationNumber": "CC36320",
+  "name": "Canterbury Japanese Supplementary School",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cjssnz.org",
+  "email": "cjss1998.nz@gmail.com",
+  "address": {
+    "line1": "66 Ilam Road",
+    "line2": " ",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042975625",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-01T00:35:59Z"
+}

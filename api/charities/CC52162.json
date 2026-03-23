@@ -1,0 +1,27 @@
+{
+  "id": 65905,
+  "registrationNumber": "CC52162",
+  "name": "Greendale Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-07-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.greendalecommunitytrust.co.nz",
+  "email": "brooklync.l@outlook.com",
+  "address": {
+    "line1": "1572 Coaltrack Road",
+    "line2": "RD 1",
+    "suburb": "Greendale",
+    "city": "Christchurch",
+    "postcode": "7671"
+  },
+  "nzbn": "9429043271351",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/greendalecommunitytrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T20:58:12Z"
+}

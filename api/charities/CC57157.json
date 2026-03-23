@@ -1,0 +1,27 @@
+{
+  "id": 70794,
+  "registrationNumber": "CC57157",
+  "name": "Whakatipu Community Hub Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whakatipuhub.org.nz",
+  "email": "admin@whakatipuhub.org.nz",
+  "address": {
+    "line1": "3 Shearers Drive",
+    "line2": "Five Mile",
+    "suburb": "Frankton",
+    "city": "Queenstown",
+    "postcode": "9371"
+  },
+  "nzbn": "9429047439795",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WhakatipuHub",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T04:56:59Z"
+}

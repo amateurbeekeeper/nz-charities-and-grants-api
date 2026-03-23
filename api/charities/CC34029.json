@@ -1,0 +1,27 @@
+{
+  "id": 61345,
+  "registrationNumber": "CC34029",
+  "name": "Papakura Theatre Company Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ptc.org.nz",
+  "email": "marie_von_keisenberg@xtra.co.nz",
+  "address": {
+    "line1": "41 Elliot Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": "9429042823018",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T00:45:43Z"
+}

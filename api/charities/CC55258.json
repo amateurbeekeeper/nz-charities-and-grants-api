@@ -1,0 +1,27 @@
+{
+  "id": 68918,
+  "registrationNumber": "CC55258",
+  "name": "45South Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.45south.co.nz",
+  "email": "steve@rvg.nz",
+  "address": {
+    "line1": "58 Buckingham Street",
+    "line2": "Arrowtown 9302",
+    "suburb": " ",
+    "city": "Arrowtown",
+    "postcode": "9302"
+  },
+  "nzbn": "9429046482334",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Wakatipu-Community-Foundation-1703170449745655/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T20:33:14Z"
+}

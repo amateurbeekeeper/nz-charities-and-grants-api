@@ -1,0 +1,27 @@
+{
+  "id": 60066,
+  "registrationNumber": "CC30527",
+  "name": "The Hawkes Bay Branch Of The Anthroposophical Society In New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.anthrohb.nz",
+  "email": "andrew.mcgovern@hohepa.com",
+  "address": {
+    "line1": "55 Durham Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Havelock North",
+    "postcode": "4130"
+  },
+  "nzbn": "9429042777380",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:42:57Z"
+}

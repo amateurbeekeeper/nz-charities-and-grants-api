@@ -1,0 +1,27 @@
+{
+  "id": 66370,
+  "registrationNumber": "CC52634",
+  "name": "Anglican Diocese of Christchurch - Parish of Hanmer Springs",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hanmerchurch.nz",
+  "email": "jandsgardiner@outlook.com",
+  "address": {
+    "line1": "31 Jollies Pass Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hanmer Springs",
+    "postcode": "7334"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-14T09:55:40Z"
+}

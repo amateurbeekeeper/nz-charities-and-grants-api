@@ -1,0 +1,27 @@
+{
+  "id": 51582,
+  "registrationNumber": "CC10697",
+  "name": "Wellington Women's House Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wwh.org.nz/",
+  "email": "house@wwbh.org.nz",
+  "address": {
+    "line1": "33 Brougham Street",
+    "line2": " ",
+    "suburb": "Mount Victoria",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042890447",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WWHouseNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T21:18:11Z"
+}

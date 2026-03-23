@@ -1,0 +1,27 @@
+{
+  "id": 55269,
+  "registrationNumber": "CC20827",
+  "name": "Citizens Advice Bureau Lower Hutt Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cab.org.nz",
+  "email": "manager.lowerhutt@cab.org.nz",
+  "address": {
+    "line1": "Level 1, Woburn House",
+    "line2": "40 - 44 Bloomfield Terrace",
+    "suburb": " ",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429042744689",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:13:55Z"
+}

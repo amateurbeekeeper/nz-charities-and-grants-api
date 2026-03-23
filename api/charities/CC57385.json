@@ -1,0 +1,27 @@
+{
+  "id": 71019,
+  "registrationNumber": "CC57385",
+  "name": "Amyloidosis New Zealand Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.amyloidosis.co.nz",
+  "email": "jaime@amyloidosis.co.nz",
+  "address": {
+    "line1": "177B Riddell Road",
+    "line2": null,
+    "suburb": "Glendowie",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429047872356",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/amyloidosis.newzealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T18:07:52Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56533,
+  "registrationNumber": "CC27427",
+  "name": "Vision College Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.visioncollege.ac.nz",
+  "email": "brandon.c@activatefaithgroup.nz",
+  "address": {
+    "line1": "21 Ruakura Road",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429037817572",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:25Z"
+}

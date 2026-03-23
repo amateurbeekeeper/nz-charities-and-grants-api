@@ -1,0 +1,27 @@
+{
+  "id": 51064,
+  "registrationNumber": "CC10041",
+  "name": "ORCA Research Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-02-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.orcaresearch.org",
+  "email": "ingrid@orca.org.nz",
+  "address": {
+    "line1": "752 Matapouri Road",
+    "line2": "RD 3",
+    "suburb": "Matapouri",
+    "city": "Whangarei",
+    "postcode": "0173"
+  },
+  "nzbn": "9429043009572",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/OrcaResearchTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T21:32:22Z"
+}

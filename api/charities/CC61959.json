@@ -1,0 +1,27 @@
+{
+  "id": 75512,
+  "registrationNumber": "CC61959",
+  "name": "Waihao Glenavy Community Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kccbadams@outlook.com",
+  "address": {
+    "line1": "28 Bridge Road",
+    "line2": "RD 7",
+    "suburb": "Waihao Downs",
+    "city": "Waimate",
+    "postcode": "7977"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:34:45Z"
+}

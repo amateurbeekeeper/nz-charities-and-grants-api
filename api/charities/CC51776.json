@@ -1,0 +1,27 @@
+{
+  "id": 65543,
+  "registrationNumber": "CC51776",
+  "name": "Hillpark Primary School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hillpark.school.nz/",
+  "email": "alicia.mitchell.nz@gmail.com",
+  "address": {
+    "line1": "57 Grande Vue Road",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:27:03Z"
+}

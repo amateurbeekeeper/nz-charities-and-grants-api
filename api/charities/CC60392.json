@@ -1,0 +1,27 @@
+{
+  "id": 73984,
+  "registrationNumber": "CC60392",
+  "name": "SAV Consulting Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dean@sav.co.nz",
+  "address": {
+    "line1": "207 Riddell Road",
+    "line2": " ",
+    "suburb": "Glendowie",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T18:10:33Z"
+}

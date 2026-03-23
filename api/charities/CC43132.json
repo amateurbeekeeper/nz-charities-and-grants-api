@@ -1,0 +1,27 @@
+{
+  "id": 46928,
+  "registrationNumber": "CC43132",
+  "name": "Te Arawa Management Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tearawa.io",
+  "email": "elsa@tearawamanagement.co.nz",
+  "address": {
+    "line1": "1 Mokoia Drive",
+    "line2": "Rotorua 3010",
+    "suburb": "Tihiotonga",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429033887623",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T09:11:47Z"
+}

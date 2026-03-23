@@ -1,0 +1,27 @@
+{
+  "id": 52307,
+  "registrationNumber": "CC20058",
+  "name": "New Zealand Society on Alcohol & Drug Dependence",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nsad.org.nz",
+  "email": "accounts@carenz.co.nz",
+  "address": {
+    "line1": "Ground Level, 138 The Terrace",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042748298",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T21:52:00Z"
+}

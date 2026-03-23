@@ -1,0 +1,27 @@
+{
+  "id": 46692,
+  "registrationNumber": "CC33944",
+  "name": "The Kilbirnie Branch of the New Zealand Society of Genealogists",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzsgkilbirnie.org.nz",
+  "email": "kilbirnie@genealogy.org.nz",
+  "address": {
+    "line1": "12 Makatote Grove",
+    "line2": " ",
+    "suburb": "Churton Park",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "KilbirnieNZSG",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T22:06:40Z"
+}

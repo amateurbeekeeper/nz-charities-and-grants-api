@@ -1,0 +1,27 @@
+{
+  "id": 73677,
+  "registrationNumber": "CC60017",
+  "name": "Waimakariri Biodiversity Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wbt.org.nz",
+  "email": "treasurer@wbt.org.nz",
+  "address": {
+    "line1": "28 Max Wallace Drive",
+    "line2": "RD 7",
+    "suburb": "Ashley",
+    "city": "Rangiora",
+    "postcode": "7477"
+  },
+  "nzbn": "9429050380947",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WaimakaririBiodiversity",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T03:25:11Z"
+}

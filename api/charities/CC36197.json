@@ -1,0 +1,27 @@
+{
+  "id": 62468,
+  "registrationNumber": "CC36197",
+  "name": "The Churchill Private Hospital Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-08-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.churchillhospital.co.nz",
+  "email": "louise@tva.co.nz",
+  "address": {
+    "line1": "Hospital Road",
+    "line2": " ",
+    "suburb": "Witherlea",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429043218905",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T18:15:32Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55446,
+  "registrationNumber": "CC23543",
+  "name": "Upper Hutt Community Children's Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.steppingstones.org.nz",
+  "email": "manager@steppingstones.org.nz",
+  "address": {
+    "line1": "29 Seddon Street",
+    "line2": " ",
+    "suburb": "Wallaceville",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429042879152",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T22:55:23Z"
+}

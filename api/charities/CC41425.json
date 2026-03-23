@@ -1,0 +1,27 @@
+{
+  "id": 42965,
+  "registrationNumber": "CC41425",
+  "name": "Te Atatu Bible Chapel",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://thechapel.org.nz",
+  "email": "tbchapel@xtra.co.nz",
+  "address": {
+    "line1": "75 Beach Road",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T06:13:23Z"
+}

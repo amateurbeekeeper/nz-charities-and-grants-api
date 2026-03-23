@@ -1,0 +1,27 @@
+{
+  "id": 70626,
+  "registrationNumber": "CC56996",
+  "name": "Russley Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-07-17T00:00:00Z",
+  "dateDeregistered": "2025-09-09T00:00:00Z",
+  "website": null,
+  "email": "russley@playcentre.org.nz",
+  "address": {
+    "line1": "8 Apsley Drive",
+    "line2": " ",
+    "suburb": "Russley",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T07:18:15Z"
+}

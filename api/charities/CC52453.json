@@ -1,0 +1,27 @@
+{
+  "id": 66182,
+  "registrationNumber": "CC52453",
+  "name": "New Zealand Deerstalkers' Association National Heritage Trust Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-07-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.deerstalkers.org.nz/heritage-trust",
+  "email": "museum@deerstalkers.org.nz",
+  "address": {
+    "line1": "3 Collina Terrace",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043077625",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzdaheritagetrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-05T19:26:06Z"
+}

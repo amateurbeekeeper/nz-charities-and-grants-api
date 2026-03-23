@@ -1,0 +1,27 @@
+{
+  "id": 54318,
+  "registrationNumber": "CC39018",
+  "name": "Study Waikato Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2021-12-17T00:00:00Z",
+  "website": "http://www.studywaikato.co.nz",
+  "email": "ianinnanjing@gmail.com",
+  "address": {
+    "line1": "4 Greenwich Place",
+    "line2": " ",
+    "suburb": "Rototuna",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429043057382",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-04-22T03:35:23Z"
+}

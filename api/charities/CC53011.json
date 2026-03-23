@@ -1,0 +1,27 @@
+{
+  "id": 66739,
+  "registrationNumber": "CC53011",
+  "name": "Dannemora Al-Falaah Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-12-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.alfalaah.org.nz/",
+  "email": "faizal@outlook.co.nz",
+  "address": {
+    "line1": "1/8 Laidlaw Way",
+    "line2": " ",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2016"
+  },
+  "nzbn": "9429043171743",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Dannemora-Al-Falaah-Centre-612375298816397",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-08T22:45:06Z"
+}

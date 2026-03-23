@@ -1,0 +1,27 @@
+{
+  "id": 49288,
+  "registrationNumber": "CC30911",
+  "name": "Auckland North Community And Development Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ancad.org.nz",
+  "email": "fiona@ancad.org.nz",
+  "address": {
+    "line1": " Takapuna  Services Building",
+    "line2": "5-7 the Strand ",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429042693253",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ancad.org.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T02:50:32Z"
+}

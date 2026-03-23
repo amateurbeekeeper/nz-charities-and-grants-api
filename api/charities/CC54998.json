@@ -1,0 +1,27 @@
+{
+  "id": 68660,
+  "registrationNumber": "CC54998",
+  "name": "Life Talk Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-09-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.lifetalk.nz",
+  "email": "tania@zbs.co.nz",
+  "address": {
+    "line1": "1064 State Highway 29",
+    "line2": "RD 1",
+    "suburb": "Omanawa",
+    "city": "Tauranga",
+    "postcode": "3171"
+  },
+  "nzbn": "9429046201829",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:58:39Z"
+}

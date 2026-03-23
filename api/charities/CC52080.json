@@ -1,0 +1,27 @@
+{
+  "id": 65822,
+  "registrationNumber": "CC52080",
+  "name": "BRIDGE PARK TENNIS CLUB INCORPORATED",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bridgeparktennis.co.nz",
+  "email": "bridgepark.tennis@gmail.com",
+  "address": {
+    "line1": "7 Taylor Road",
+    "line2": "Mangere Bridge",
+    "suburb": "South Auckland",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429043207893",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:15:02Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50774,
+  "registrationNumber": "CC42555",
+  "name": "The Aviation Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-10-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aviationnz.co.nz",
+  "email": "eonzaaa@aviationnz.co.nz",
+  "address": {
+    "line1": "5 Willeston Street",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043281954",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T19:51:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55595,
+  "registrationNumber": "CC25070",
+  "name": "Central Lakes Direct Limited",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-05-29T00:00:00Z",
+  "dateDeregistered": "2025-11-13T00:00:00Z",
+  "website": "https://www.clt.net.nz",
+  "email": "finance@clt.net.nz",
+  "address": {
+    "line1": "190 Waenga Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cromwell",
+    "postcode": "9310"
+  },
+  "nzbn": "9429034592113",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T06:03:22Z"
+}

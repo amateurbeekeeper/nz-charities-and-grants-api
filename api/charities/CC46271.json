@@ -1,0 +1,27 @@
+{
+  "id": 36787,
+  "registrationNumber": "CC46271",
+  "name": "Coastguard Mackenzie Lakes Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.coastguard.nz",
+  "email": "jo.whapham@coastguard.nz",
+  "address": {
+    "line1": "23 Tasman Road",
+    "line2": "Twizel 7901",
+    "suburb": " ",
+    "city": "Twizel",
+    "postcode": "7901"
+  },
+  "nzbn": "9429043194537",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T22:00:16Z"
+}

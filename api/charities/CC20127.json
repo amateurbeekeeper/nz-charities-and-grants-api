@@ -1,0 +1,27 @@
+{
+  "id": 51890,
+  "registrationNumber": "CC20127",
+  "name": "Golden Bay Work Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gbwct.org.nz",
+  "email": "manager@gbwct.org.nz",
+  "address": {
+    "line1": "84 Commercial Street",
+    "line2": "Takaka 7110",
+    "suburb": " ",
+    "city": "Takaka",
+    "postcode": "7110"
+  },
+  "nzbn": "9429042629757",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Golden-Bay-Workcentre-Trust-531366000706268",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T20:16:04Z"
+}

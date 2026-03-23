@@ -1,0 +1,27 @@
+{
+  "id": 70572,
+  "registrationNumber": "CC56930",
+  "name": "HBC Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hbctrust.org.nz",
+  "email": "secretary@hbctrust.org.nz",
+  "address": {
+    "line1": "325 Great North Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429047394414",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-04T00:47:37Z"
+}

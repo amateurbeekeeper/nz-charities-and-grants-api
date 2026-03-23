@@ -1,0 +1,27 @@
+{
+  "id": 40430,
+  "registrationNumber": "CC34802",
+  "name": "Carter Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cartercourt.co.nz",
+  "email": "manager@cartercourt.co.nz",
+  "address": {
+    "line1": "Carter Court",
+    "line2": "95 Pembroke Street",
+    "suburb": " ",
+    "city": "Carterton",
+    "postcode": "5713"
+  },
+  "nzbn": "9429042606161",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:14:53Z"
+}

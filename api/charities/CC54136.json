@@ -1,0 +1,27 @@
+{
+  "id": 67823,
+  "registrationNumber": "CC54136",
+  "name": "impactNPO",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-12-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.impactnpo.org",
+  "email": "la.duenasg@gmail.com",
+  "address": {
+    "line1": "Suite D",
+    "line2": "203 Hobson Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429045860287",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/impactnpo",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T07:03:58Z"
+}

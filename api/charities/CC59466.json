@@ -1,0 +1,27 @@
+{
+  "id": 73069,
+  "registrationNumber": "CC59466",
+  "name": "O Le Nu'u Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.olnt.org",
+  "email": "tula@olnt.org",
+  "address": {
+    "line1": "11 Mohuia Crescent",
+    "line2": " ",
+    "suburb": "Elsdon",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429050687916",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Ole Nu'u Trust - OLN T",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T22:40:29Z"
+}

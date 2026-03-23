@@ -1,0 +1,27 @@
+{
+  "id": 35709,
+  "registrationNumber": "CC44738",
+  "name": "Five Rivers Playgroup",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fiveriversplaygroup@gmail.com",
+  "address": {
+    "line1": "Old Five Rivers School",
+    "line2": "Five Rivers Mossburn Hwy",
+    "suburb": "Five Rivers",
+    "city": "Lumsden",
+    "postcode": "9793"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FiveRiversPlaygroup/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T18:40:43Z"
+}

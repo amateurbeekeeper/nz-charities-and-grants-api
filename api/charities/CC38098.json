@@ -1,0 +1,27 @@
+{
+  "id": 62903,
+  "registrationNumber": "CC38098",
+  "name": "New Zealand College of Public Health Medicine Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzcphm.org.nz",
+  "email": "leanne@nzcphm.org.nz",
+  "address": {
+    "line1": "Level 3 Panama House",
+    "line2": "22 Panama Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043090631",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T01:29:15Z"
+}

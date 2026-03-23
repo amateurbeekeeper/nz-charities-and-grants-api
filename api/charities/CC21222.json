@@ -1,0 +1,27 @@
+{
+  "id": 54010,
+  "registrationNumber": "CC21222",
+  "name": "Auckland Catholic Tramping Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.actc.org.nz",
+  "email": "actctrampingclub@gmail.com",
+  "address": {
+    "line1": "28 Maryland Street",
+    "line2": " ",
+    "suburb": "Point Chevalier",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429042585145",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-03T19:43:38Z"
+}

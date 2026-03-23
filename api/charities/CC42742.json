@@ -1,0 +1,27 @@
+{
+  "id": 62109,
+  "registrationNumber": "CC42742",
+  "name": "Paeroa Little Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.facebook.com/PaeroaAmateurTheatre",
+  "email": "StephanieA@outlook.co.nz",
+  "address": {
+    "line1": "1 Francis Street",
+    "line2": "Paeroa 3600",
+    "suburb": " ",
+    "city": "Paeroa",
+    "postcode": "3600"
+  },
+  "nzbn": "9429042798583",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/PaeroaAmateurTheatre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T23:25:16Z"
+}

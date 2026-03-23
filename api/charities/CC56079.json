@@ -1,0 +1,27 @@
+{
+  "id": 69723,
+  "registrationNumber": "CC56079",
+  "name": "Nature School NZ Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.bushsprouts.nz",
+  "email": "leo@bushsprouts.nz",
+  "address": {
+    "line1": "69A Mana Esplanade",
+    "line2": " ",
+    "suburb": "Paremata",
+    "city": "Porirua",
+    "postcode": "5026"
+  },
+  "nzbn": "9429046982100",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BushSproutsNatureSchool/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-13T19:11:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 45792,
+  "registrationNumber": "CC37861",
+  "name": "Otumoetai Intermediate Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.otuinter.school.nz",
+  "email": "admin@otuinter.school.nz",
+  "address": {
+    "line1": "5 Charles Street",
+    "line2": " ",
+    "suburb": "Bellevue",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429041926734",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-03T19:44:18Z"
+}

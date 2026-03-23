@@ -1,0 +1,27 @@
+{
+  "id": 47805,
+  "registrationNumber": "CC30156",
+  "name": "Friends Of Waikari Hospital Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "brenda@medburyfarm.co.nz",
+  "address": {
+    "line1": "34 Dalzells Road North",
+    "line2": "RD 1",
+    "suburb": "Medbury",
+    "city": "Hawarden",
+    "postcode": "7385"
+  },
+  "nzbn": "9429042704287",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T09:54:00Z"
+}

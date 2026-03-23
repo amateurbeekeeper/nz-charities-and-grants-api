@@ -1,0 +1,27 @@
+{
+  "id": 39809,
+  "registrationNumber": "CC37585",
+  "name": "The Muse - Community Music Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.themuse.org.nz",
+  "email": "info@themuse.org.nz",
+  "address": {
+    "line1": "57 Winton Street",
+    "line2": " ",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429043129973",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheMuseNZ/?ref=br_rs",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T03:10:35Z"
+}

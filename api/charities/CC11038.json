@@ -1,0 +1,27 @@
+{
+  "id": 52681,
+  "registrationNumber": "CC11038",
+  "name": "Foxton Bible Camp Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.biblecamp.org.nz",
+  "email": "foxton@biblecamp.org.nz",
+  "address": {
+    "line1": "17 Te Awa Street",
+    "line2": " ",
+    "suburb": "Foxton Beach",
+    "city": "Foxton",
+    "postcode": "4815"
+  },
+  "nzbn": "9429042719410",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/biblecamps/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:00:13Z"
+}

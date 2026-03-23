@@ -1,0 +1,27 @@
+{
+  "id": 65630,
+  "registrationNumber": "CC51877",
+  "name": "Cashmere Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cashmerechurch.org.nz",
+  "email": "cashmere.church@xtra.co.nz",
+  "address": {
+    "line1": "2 Macmillan Avenue",
+    "line2": " ",
+    "suburb": "Cashmere",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429048071628",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/cashmerepresby",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T22:52:11Z"
+}

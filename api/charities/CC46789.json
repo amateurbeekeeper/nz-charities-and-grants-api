@@ -1,0 +1,27 @@
+{
+  "id": 36915,
+  "registrationNumber": "CC46789",
+  "name": "Whau ACE Adult and Community Education Centre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2011-07-21T00:00:00Z",
+  "dateDeregistered": "2024-11-12T00:00:00Z",
+  "website": "https://www.whauace.co.nz",
+  "email": "gomeeta.chand@whauace.co.nz",
+  "address": {
+    "line1": "3072 Great North Road",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "600"
+  },
+  "nzbn": "9429043217670",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WhauAce/",
+    "twitter": "https://twitter.com/Whau_Ace"
+  },
+  "lastUpdated": "2024-12-25T06:07:29Z"
+}

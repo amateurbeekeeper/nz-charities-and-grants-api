@@ -1,0 +1,27 @@
+{
+  "id": 38079,
+  "registrationNumber": "CC46085",
+  "name": "Bonfire Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-01-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "finance@ppp.org.nz",
+  "address": {
+    "line1": "106A Mana Esplanade",
+    "line2": " ",
+    "suburb": "Paremata",
+    "city": "Porirua",
+    "postcode": "5026"
+  },
+  "nzbn": "9429043217472",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100064899423443",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T21:14:35Z"
+}

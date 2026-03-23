@@ -1,0 +1,27 @@
+{
+  "id": 68511,
+  "registrationNumber": "CC54846",
+  "name": "The Good Registry Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-10-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thegoodregistry.com",
+  "email": "sue.mccabe01@gmail.com",
+  "address": {
+    "line1": "36 Mornington Road",
+    "line2": " ",
+    "suburb": "Brooklyn",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429046379085",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thegoodregistry",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T17:56:12Z"
+}

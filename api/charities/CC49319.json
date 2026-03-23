@@ -1,0 +1,27 @@
+{
+  "id": 35102,
+  "registrationNumber": "CC49319",
+  "name": "North Shore Initial Response Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzrt5.org.nz",
+  "email": "sally.palmer@mail.com",
+  "address": {
+    "line1": "400 East Coast Road",
+    "line2": " ",
+    "suburb": "Sunnynook",
+    "city": "Auckland",
+    "postcode": "630"
+  },
+  "nzbn": "9429043326211",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/NZRT5",
+    "twitter": null
+  },
+  "lastUpdated": "2025-01-01T11:23:03Z"
+}

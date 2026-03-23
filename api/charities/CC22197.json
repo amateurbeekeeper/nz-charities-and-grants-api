@@ -1,0 +1,27 @@
+{
+  "id": 56455,
+  "registrationNumber": "CC22197",
+  "name": "High Street Gospel Hall",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "keith-gillon@xtra.co.nz",
+  "address": {
+    "line1": "22 High Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:25:38Z"
+}

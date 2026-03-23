@@ -1,0 +1,27 @@
+{
+  "id": 36716,
+  "registrationNumber": "CC50715",
+  "name": "Nelson Rowing Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nelsonrowing.co.nz",
+  "email": "treasurer@nelsonrowing.co.nz",
+  "address": {
+    "line1": "Cross Quay, Akerston Street",
+    "line2": "Port Nelson",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042673019",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:20:23Z"
+}

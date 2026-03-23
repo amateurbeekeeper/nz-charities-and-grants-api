@@ -1,0 +1,27 @@
+{
+  "id": 68887,
+  "registrationNumber": "CC55233",
+  "name": "ANS Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aucklandnightshelter.org.nz/",
+  "email": "mark@mark-thomas.co.nz",
+  "address": {
+    "line1": "43 Polygon Road",
+    "line2": null,
+    "suburb": "St Heliers",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429046418371",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T04:44:38Z"
+}

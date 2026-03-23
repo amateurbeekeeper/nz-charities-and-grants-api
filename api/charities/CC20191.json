@@ -1,0 +1,27 @@
+{
+  "id": 51922,
+  "registrationNumber": "CC20191",
+  "name": "Lincoln Envirotown Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lincolnenvirotown.org.nz",
+  "email": "projectmanagerlet@gmail.com",
+  "address": {
+    "line1": "c/- Department of Environmental Management,",
+    "line2": "Forbes Building",
+    "suburb": "PO Box 85084",
+    "city": "Lincoln University, Lincoln",
+    "postcode": "7674"
+  },
+  "nzbn": "9429043037889",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@lincolnenvirotown",
+    "twitter": "@envirolincoln"
+  },
+  "lastUpdated": "2025-11-25T18:44:09Z"
+}

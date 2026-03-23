@@ -1,0 +1,27 @@
+{
+  "id": 64643,
+  "registrationNumber": "CC40221",
+  "name": "Anamata Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.anamata.ac.nz",
+  "email": "tehau.tutua@anamata.ac.nz",
+  "address": {
+    "line1": "110 Ruatoki Valley Road",
+    "line2": "Ruatoki 3191",
+    "suburb": "Taneatua",
+    "city": "Ruatoki",
+    "postcode": "3191"
+  },
+  "nzbn": "9429042574880",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T19:39:02Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66523,
+  "registrationNumber": "CC52791",
+  "name": "The Religious Diversity Centre in Aotearoa New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-11-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rdc.org.nz",
+  "email": "treasurer@rdc.org.nz",
+  "address": {
+    "line1": "130 Remuera Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429043299164",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": " https://www.facebook.com/Religious-Diversity -Centre-Aotearoa/",
+    "twitter": "RDC@RDCANZ"
+  },
+  "lastUpdated": "2025-11-18T18:21:36Z"
+}

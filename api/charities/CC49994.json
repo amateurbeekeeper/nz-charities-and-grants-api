@@ -1,0 +1,27 @@
+{
+  "id": 33765,
+  "registrationNumber": "CC49994",
+  "name": "New Zealand Tree Crops Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-11-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.treecrops.org.nz",
+  "email": "office@robinlane.co.nz",
+  "address": {
+    "line1": "382 Harbour Road",
+    "line2": " ",
+    "suburb": "Ōhope",
+    "city": "Ohope",
+    "postcode": "3121"
+  },
+  "nzbn": "9429042673507",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/treescrops/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:13:35Z"
+}

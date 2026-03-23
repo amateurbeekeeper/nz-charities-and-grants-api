@@ -1,0 +1,27 @@
+{
+  "id": 57559,
+  "registrationNumber": "CC25622",
+  "name": "St Davids Union Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stdavids.org.nz",
+  "email": "djfisher@xtra.co.nz",
+  "address": {
+    "line1": "48 Allens Road",
+    "line2": " ",
+    "suburb": "Allenton",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T02:21:51Z"
+}

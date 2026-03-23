@@ -1,0 +1,27 @@
+{
+  "id": 57641,
+  "registrationNumber": "CC27077",
+  "name": "Rotorua Energy Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rotoruatrust.org.nz",
+  "email": "admin@rotoruatrust.org.nz",
+  "address": {
+    "line1": "1072 Haupapa Street",
+    "line2": "Rotorua 3010",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042818236",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T22:26:44Z"
+}

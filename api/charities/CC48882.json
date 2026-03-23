@@ -1,0 +1,27 @@
+{
+  "id": 32868,
+  "registrationNumber": "CC48882",
+  "name": "Ministry of Inspiration",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-02-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ministryofinspiration.org",
+  "email": "chair@ministryofinspiration.org",
+  "address": {
+    "line1": "23 Alma Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043320219",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "moinelson",
+    "twitter": "@moinelson"
+  },
+  "lastUpdated": "2025-04-08T19:17:28Z"
+}

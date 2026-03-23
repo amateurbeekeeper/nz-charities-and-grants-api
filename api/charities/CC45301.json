@@ -1,0 +1,27 @@
+{
+  "id": 35723,
+  "registrationNumber": "CC45301",
+  "name": "Isabella Siteman Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul@cardow.co.nz",
+  "address": {
+    "line1": "Unit 203",
+    "line2": "180 Dalton Street",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-25T19:18:51Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 57213,
+  "registrationNumber": "CC23479",
+  "name": "Johnsonville Uniting Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.juc.org.nz",
+  "email": "office@juc.org.nz",
+  "address": {
+    "line1": "18 Dr Taylor Terrace",
+    "line2": " ",
+    "suburb": "Johnsonville",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/johnsonvilleunitingchurch/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T18:49:10Z"
+}

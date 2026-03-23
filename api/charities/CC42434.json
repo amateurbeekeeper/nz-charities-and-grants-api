@@ -1,0 +1,27 @@
+{
+  "id": 50965,
+  "registrationNumber": "CC42434",
+  "name": "Beachlands School Community Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "beachlandspta@gmail.com",
+  "address": {
+    "line1": "18 Bell Road",
+    "line2": " ",
+    "suburb": "Beachlands",
+    "city": "Auckland",
+    "postcode": "2018"
+  },
+  "nzbn": "9429043034451",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-02T19:53:30Z"
+}

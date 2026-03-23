@@ -1,0 +1,27 @@
+{
+  "id": 60274,
+  "registrationNumber": "CC36215",
+  "name": "Ruawai Bowling Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ruawaibowls@xtra.co.nz",
+  "address": {
+    "line1": "1 Reeves Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ruawai",
+    "postcode": "0530"
+  },
+  "nzbn": "9429042818533",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ruawai Bowling Club",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-21T01:31:25Z"
+}

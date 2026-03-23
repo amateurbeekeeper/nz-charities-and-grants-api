@@ -1,0 +1,27 @@
+{
+  "id": 57901,
+  "registrationNumber": "CC40833",
+  "name": "Levin Faith Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tahanson@xtra.co.nz",
+  "address": {
+    "line1": "136 Queen Street West",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": "9429042941866",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T07:56:03Z"
+}

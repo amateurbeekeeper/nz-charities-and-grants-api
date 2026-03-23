@@ -1,0 +1,27 @@
+{
+  "id": 54035,
+  "registrationNumber": "CC21938",
+  "name": "Shalom Early Childhood Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.shalomkindergarten.co.nz",
+  "email": "info@shalomkindergarten.co.nz",
+  "address": {
+    "line1": "252 Otumoetai Road",
+    "line2": " ",
+    "suburb": "Otumoetai",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043131587",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T23:58:52Z"
+}

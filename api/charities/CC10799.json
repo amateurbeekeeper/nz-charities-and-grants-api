@@ -1,0 +1,27 @@
+{
+  "id": 52440,
+  "registrationNumber": "CC10799",
+  "name": "The Lincoln Rotary Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "angebarclay17@gmail.com",
+  "address": {
+    "line1": "1172 Springs Road",
+    "line2": "RD 6",
+    "suburb": "Lincoln",
+    "city": "Christchurch",
+    "postcode": "7676"
+  },
+  "nzbn": "9429043073511",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:35:53Z"
+}

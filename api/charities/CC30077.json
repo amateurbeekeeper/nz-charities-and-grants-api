@@ -1,0 +1,27 @@
+{
+  "id": 58099,
+  "registrationNumber": "CC30077",
+  "name": "IPENZ Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.engineeringnz.org/our-work/foundation/",
+  "email": "ben.vaughan@engineeringnz.org",
+  "address": {
+    "line1": "Level 6",
+    "line2": "40 Taranaki Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043049141",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T21:42:02Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44501,
+  "registrationNumber": "CC34119",
+  "name": "Jane Gifford Maritime Heritage Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.janegifford.org.nz",
+  "email": "daniel_hicksnz@yahoo.co.nz",
+  "address": {
+    "line1": "C/- SBA Warkworth",
+    "line2": "24 Mill Lane",
+    "suburb": " Warkworth",
+    "city": "Auckland",
+    "postcode": "0910"
+  },
+  "nzbn": "9429043041220",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:19:29Z"
+}

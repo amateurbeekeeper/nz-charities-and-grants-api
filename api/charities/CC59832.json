@@ -1,0 +1,27 @@
+{
+  "id": 73518,
+  "registrationNumber": "CC59832",
+  "name": "The Franklin Adventurous Training School",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hopkins.david@xtra.co.nz",
+  "address": {
+    "line1": "91 Marae O Rehia Road",
+    "line2": "RD 3",
+    "suburb": "Karioitahi",
+    "city": "Waiuku",
+    "postcode": "2683"
+  },
+  "nzbn": "9429050433445",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-11T01:00:02Z"
+}

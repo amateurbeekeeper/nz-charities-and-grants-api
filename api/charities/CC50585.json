@@ -1,0 +1,27 @@
+{
+  "id": 34321,
+  "registrationNumber": "CC50585",
+  "name": "Tapawera Men's Shed Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://menzshed.org.nz/tapawera/",
+  "email": "menzshedtapawera@gmail.com",
+  "address": {
+    "line1": "4977 Motueka Valley Highway",
+    "line2": "RD 2",
+    "suburb": "Kohatu",
+    "city": "Wakefield",
+    "postcode": "7096"
+  },
+  "nzbn": "9429043241439",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/menzshedtapawera/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T06:45:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56016,
+  "registrationNumber": "CC27188",
+  "name": "The Auckland Women's Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.awc.org.nz",
+  "email": "programmes@womenz.org.nz",
+  "address": {
+    "line1": "4 Warnock Street",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429042869863",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Auckland-Womens-Centre-204359713098052/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T18:19:24Z"
+}

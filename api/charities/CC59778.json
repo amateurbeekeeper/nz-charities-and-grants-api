@@ -1,0 +1,27 @@
+{
+  "id": 73310,
+  "registrationNumber": "CC59778",
+  "name": "Alan Wadsworth Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "funding@publictrust.co.nz",
+  "address": {
+    "line1": "Public Trust Tower",
+    "line2": "Level 2",
+    "suburb": "22 Willeston Street",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T18:32:48Z"
+}

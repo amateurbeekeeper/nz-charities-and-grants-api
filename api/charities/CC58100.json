@@ -1,0 +1,27 @@
+{
+  "id": 71719,
+  "registrationNumber": "CC58100",
+  "name": "Community Accounts Service Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.casct.org.nz",
+  "email": "robyn@casct.org.nz",
+  "address": {
+    "line1": "27 Strathallan Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429048387453",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Community Accounts Service",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T18:07:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 49586,
+  "registrationNumber": "CC30239",
+  "name": "Newmarket Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.playcentre.org.nz/centre/newmarket/",
+  "email": "newmarket@playcentre.org.nz",
+  "address": {
+    "line1": "2 Hapua Street",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/newmarketplaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:08:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 61669,
+  "registrationNumber": "CC38433",
+  "name": "Cambridge Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-07-04T00:00:00Z",
+  "website": "www.playcentre.org.nz",
+  "email": "cambridge@playcentre.org.nz",
+  "address": {
+    "line1": "26 Vogel Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/cambridgeplaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-18T07:11:10Z"
+}

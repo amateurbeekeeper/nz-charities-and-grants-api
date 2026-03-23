@@ -1,0 +1,27 @@
+{
+  "id": 48169,
+  "registrationNumber": "CC30348",
+  "name": "Te Whanganui-A-Tara Youth Development Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.evolveyouth.org.nz",
+  "email": "manager@evolveyouth.org.nz",
+  "address": {
+    "line1": "Level 2 James Smith Building",
+    "line2": "Cnr Cuba & Manners Streets",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043104260",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EvolveWellingtonYouthService/?fref=nf",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T18:49:08Z"
+}

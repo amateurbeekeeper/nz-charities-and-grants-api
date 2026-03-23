@@ -1,0 +1,27 @@
+{
+  "id": 75484,
+  "registrationNumber": "CC61930",
+  "name": "Taranaki Singer Songwriter Development Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taranakisingersongwriters.com",
+  "email": "heathermkadlec@gmail.com",
+  "address": {
+    "line1": "381 Smart Road",
+    "line2": "RD 2",
+    "suburb": "Hillsborough",
+    "city": "New Plymouth",
+    "postcode": "4372"
+  },
+  "nzbn": "9429051504939",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/singersongwriters",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T22:28:22Z"
+}

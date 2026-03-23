@@ -1,0 +1,27 @@
+{
+  "id": 33881,
+  "registrationNumber": "CC50167",
+  "name": "Wellington Christian Education Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2014-01-23T00:00:00Z",
+  "dateDeregistered": "2025-06-24T00:00:00Z",
+  "website": "www.wcet.co.nz",
+  "email": "rflinn@gmail.com",
+  "address": {
+    "line1": "58 Pembroke Road",
+    "line2": " ",
+    "suburb": "Northland",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043319480",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-08T07:19:29Z"
+}

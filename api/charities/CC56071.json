@@ -1,0 +1,27 @@
+{
+  "id": 69709,
+  "registrationNumber": "CC56071",
+  "name": "Kind Hands Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kindhands.co.nz/",
+  "email": "emma.johns@nzhl.co.nz",
+  "address": {
+    "line1": "19 Morningside Road",
+    "line2": " ",
+    "suburb": "Morningside",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "kindhandstrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T19:00:18Z"
+}

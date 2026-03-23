@@ -1,0 +1,27 @@
+{
+  "id": 48422,
+  "registrationNumber": "CC36654",
+  "name": "The Mackenzie Cooperating Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.mackenziechurch.org.nz",
+  "email": "admin@mackenziechurch.org.nz",
+  "address": {
+    "line1": "59 Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Fairlie",
+    "postcode": "7925"
+  },
+  "nzbn": "9429048092005",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T22:41:03Z"
+}

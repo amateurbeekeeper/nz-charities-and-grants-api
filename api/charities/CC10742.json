@@ -1,0 +1,27 @@
+{
+  "id": 52353,
+  "registrationNumber": "CC10742",
+  "name": "Doorkeepers New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.doorkeepers.co.nz",
+  "email": "fawcets@xtra.co.nz",
+  "address": {
+    "line1": "4 Downer Street",
+    "line2": " ",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429043046461",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-18T20:14:36Z"
+}

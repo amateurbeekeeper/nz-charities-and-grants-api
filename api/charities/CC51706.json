@@ -1,0 +1,27 @@
+{
+  "id": 65474,
+  "registrationNumber": "CC51706",
+  "name": "Waikari Presbyterian Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dalley@amuri.net",
+  "address": {
+    "line1": "314 Fenwicks Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Waikari",
+    "postcode": "7491"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T19:57:59Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70815,
+  "registrationNumber": "CC57177",
+  "name": "The Cachet Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cachetfoundation.org.nz",
+  "email": "info@cachetfoundation.org.nz",
+  "address": {
+    "line1": "1234 Great North Road",
+    "line2": " ",
+    "suburb": "Point Chevalier",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-23T04:43:34Z"
+}

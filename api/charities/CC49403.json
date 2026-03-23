@@ -1,0 +1,27 @@
+{
+  "id": 32988,
+  "registrationNumber": "CC49403",
+  "name": "Charisma Christian Ministries Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-01-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.charisma.org.nz",
+  "email": "brian@charisma.org.nz",
+  "address": {
+    "line1": "14 Spode Place",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429043237258",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T16:34:01Z"
+}

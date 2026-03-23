@@ -1,0 +1,27 @@
+{
+  "id": 74459,
+  "registrationNumber": "CC60876",
+  "name": "Unbreakable Foundation",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2022-11-30T00:00:00Z",
+  "dateDeregistered": "2025-02-28T00:00:00Z",
+  "website": "https://www.unbreakablefoundation.co.nz",
+  "email": "ciara@unbreakablefoundation.co.nz",
+  "address": {
+    "line1": "1027 Colombo Street",
+    "line2": " ",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429050805068",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/unbreakablefoundationnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-03T19:59:09Z"
+}

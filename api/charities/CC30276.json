@@ -1,0 +1,27 @@
+{
+  "id": 58747,
+  "registrationNumber": "CC30276",
+  "name": "Drug Arm Christchurch",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.drugarm.co.nz",
+  "email": "admin@drugarm.co.nz",
+  "address": {
+    "line1": "106 Emmett Street",
+    "line2": " ",
+    "suburb": "Shirley",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429043024247",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/DrugArmChch",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T01:52:47Z"
+}

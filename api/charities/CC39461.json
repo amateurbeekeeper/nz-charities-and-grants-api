@@ -1,0 +1,27 @@
+{
+  "id": 47235,
+  "registrationNumber": "CC39461",
+  "name": "Central Hawkes Bay Agricultural and Pastoral Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2023-07-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.chbshow.co.nz",
+  "email": "chbapshow@gmail.com",
+  "address": {
+    "line1": "26 Mitchell Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waipukurau",
+    "postcode": "4200"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/chbaandpshow",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T04:43:32Z"
+}

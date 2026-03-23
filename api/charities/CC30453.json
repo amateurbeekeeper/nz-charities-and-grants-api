@@ -1,0 +1,27 @@
+{
+  "id": 48513,
+  "registrationNumber": "CC30453",
+  "name": "The Sydenham Community Pre-school Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@sydenhampreschool.co.nz",
+  "address": {
+    "line1": "130 Waltham Road",
+    "line2": " ",
+    "suburb": "Waltham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429042956648",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T20:18:55Z"
+}

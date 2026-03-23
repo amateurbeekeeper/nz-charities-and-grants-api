@@ -1,0 +1,27 @@
+{
+  "id": 68809,
+  "registrationNumber": "CC55151",
+  "name": "Waikohu Sports Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-01-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sporty.co.nz/waikohurugby/",
+  "email": "toni_rutene@hotmail.co.nz",
+  "address": {
+    "line1": "60 Station Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Karaka",
+    "postcode": "4022"
+  },
+  "nzbn": "9429042737537",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T03:53:30Z"
+}

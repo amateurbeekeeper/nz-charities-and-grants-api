@@ -1,0 +1,27 @@
+{
+  "id": 70717,
+  "registrationNumber": "CC57085",
+  "name": "The Offering Project",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.offering.org/contact",
+  "email": "louis.j.mclennan@pwc.com",
+  "address": {
+    "line1": "Level 4",
+    "line2": "117 St Georges Bay Road",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T23:08:35Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 36587,
+  "registrationNumber": "CC47694",
+  "name": "South Brighton Surf Lifesaving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-02-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sbsc.co.nz",
+  "email": "rohanmcn@hotmail.com",
+  "address": {
+    "line1": "269 Marine Parade",
+    "line2": " ",
+    "suburb": "New Brighton",
+    "city": "Christchurch",
+    "postcode": "8062"
+  },
+  "nzbn": "9429042726739",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "@southbrightonsl"
+  },
+  "lastUpdated": "2026-01-12T18:21:11Z"
+}

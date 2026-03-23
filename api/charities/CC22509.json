@@ -1,0 +1,27 @@
+{
+  "id": 39879,
+  "registrationNumber": "CC22509",
+  "name": "Glenfield Community Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gcc.net.nz",
+  "email": "upasananigam@yahoo.in",
+  "address": {
+    "line1": "96 Bentley Avenue",
+    "line2": " ",
+    "suburb": "Glenfield",
+    "city": "Auckland",
+    "postcode": "0629"
+  },
+  "nzbn": "9429042627333",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GlenfieldCommunityCentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T18:09:01Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42209,
+  "registrationNumber": "CC25000",
+  "name": "Wycliffe Bible Translators New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wycliffenz.org",
+  "email": "director@wycliffenz.org",
+  "address": {
+    "line1": "Level 6, Laidlaw Building",
+    "line2": "20 Amersham Way",
+    "suburb": "Manukau City",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042927860",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wycliffeNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T20:17:28Z"
+}

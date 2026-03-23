@@ -1,0 +1,27 @@
+{
+  "id": 59839,
+  "registrationNumber": "CC33482",
+  "name": "Howick Photographic Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.howickphotographicsociety.org.nz",
+  "email": "andrew@jacer.co.nz",
+  "address": {
+    "line1": "38 Karaka Park Place",
+    "line2": " ",
+    "suburb": "Glendowie",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429042620426",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-15T19:49:53Z"
+}

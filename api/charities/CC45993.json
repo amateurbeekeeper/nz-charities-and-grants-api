@@ -1,0 +1,27 @@
+{
+  "id": 38300,
+  "registrationNumber": "CC45993",
+  "name": "Te Whare Hauora o Te Aitanga a Hauiti",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-01-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hauitihauora.co.nz/",
+  "email": "dexter@hauitihauora.co.nz",
+  "address": {
+    "line1": "Main Road South",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tolaga Bay ",
+    "postcode": "4046"
+  },
+  "nzbn": "9429042837916",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Te Whare Hauora o Te Aitanga a Hauiti",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T08:25:57Z"
+}

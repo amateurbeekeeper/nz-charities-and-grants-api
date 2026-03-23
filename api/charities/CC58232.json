@@ -1,0 +1,27 @@
+{
+  "id": 71844,
+  "registrationNumber": "CC58232",
+  "name": "Little Company of Mary Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-09-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lcmchristchurch.org.nz",
+  "email": "ploach-ponga@lcm.org.au",
+  "address": {
+    "line1": "442 Durham Street North",
+    "line2": " ",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429043243242",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T23:15:53Z"
+}

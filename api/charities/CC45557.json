@@ -1,0 +1,27 @@
+{
+  "id": 38607,
+  "registrationNumber": "CC45557",
+  "name": "New United Methodist Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-10-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "t.toilolo@xtra.co.nz",
+  "address": {
+    "line1": "8 Desmond Place",
+    "line2": " ",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-17T19:26:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 78525,
+  "registrationNumber": "CC64338",
+  "name": "Te Manatōpū o Haumanu Inc",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.haumanucollective.com/",
+  "email": "finn@numbersmith.co.nz",
+  "address": {
+    "line1": "101 Downes Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Te Awamutu",
+    "postcode": "3800"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/haumanucollective",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T22:56:17Z"
+}

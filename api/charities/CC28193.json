@@ -1,0 +1,27 @@
+{
+  "id": 42808,
+  "registrationNumber": "CC28193",
+  "name": "Port Chalmers Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "adam.smith@fireandemergency.nz",
+  "address": {
+    "line1": "18 Beach Street",
+    "line2": " ",
+    "suburb": "Port Chalmers",
+    "city": "Dunedin",
+    "postcode": "9023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/portchalmersfire/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:18:03Z"
+}

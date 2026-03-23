@@ -1,0 +1,27 @@
+{
+  "id": 76602,
+  "registrationNumber": "CC62811",
+  "name": "Ponsonby Community Centre Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ponsonbycommunity.org.nz",
+  "email": "lisa@ponsonbycommunity.org.nz",
+  "address": {
+    "line1": "20 Ponsonby Terrace",
+    "line2": null,
+    "suburb": "Ponsonby",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@ponsonbycommunity",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T01:16:09Z"
+}

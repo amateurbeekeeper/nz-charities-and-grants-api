@@ -1,0 +1,27 @@
+{
+  "id": 58908,
+  "registrationNumber": "CC34499",
+  "name": "Coastguard Hibiscus Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.coastguardhibiscus.org.nz/",
+  "email": "treasurer@coastguardhibiscus.org.nz",
+  "address": {
+    "line1": "160 Brightside Road",
+    "line2": "Red Beach 0932",
+    "suburb": "Stanmore Bay",
+    "city": "Whangaparaoa",
+    "postcode": "0932"
+  },
+  "nzbn": "9429043051236",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T18:31:44Z"
+}

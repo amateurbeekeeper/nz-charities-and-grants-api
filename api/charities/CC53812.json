@@ -1,0 +1,27 @@
+{
+  "id": 67511,
+  "registrationNumber": "CC53812",
+  "name": "EmpowermentNZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-10-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://empowermentnz.org.nz",
+  "email": "scott@empowermentnz.org.nz",
+  "address": {
+    "line1": "32 Jocelyn Street",
+    "line2": "Te Puke 3119",
+    "suburb": " ",
+    "city": "Te Puke",
+    "postcode": "3119"
+  },
+  "nzbn": "9429043309955",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "thehubtepuke",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T00:28:22Z"
+}

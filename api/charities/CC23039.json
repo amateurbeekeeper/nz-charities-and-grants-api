@@ -1,0 +1,27 @@
+{
+  "id": 39064,
+  "registrationNumber": "CC23039",
+  "name": "The Kaharoa Kokako Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www kokako.org.nz",
+  "email": "keriann@birchandco.nz",
+  "address": {
+    "line1": "90 Mokoia Road",
+    "line2": "RD 7",
+    "suburb": "Ngongotahā",
+    "city": "Rotorua",
+    "postcode": "3097"
+  },
+  "nzbn": "9429042932666",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Kaharoa-Kokako-Trust-562869237081390/ ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:36:35Z"
+}

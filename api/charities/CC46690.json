@@ -1,0 +1,27 @@
+{
+  "id": 37343,
+  "registrationNumber": "CC46690",
+  "name": "Breakthrough Church Auckland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bcafinances@gmail.com",
+  "address": {
+    "line1": "20A MacKenzie Street",
+    "line2": null,
+    "suburb": "Te Atatu South",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429042970965",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Breakthrough Church Auckland",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T06:09:26Z"
+}

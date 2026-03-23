@@ -1,0 +1,27 @@
+{
+  "id": 44625,
+  "registrationNumber": "CC42213",
+  "name": "Grammar Windsor Hockey Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.grammarwindsor.org.nz",
+  "email": "treasurer@grammarwindsor.org.nz",
+  "address": {
+    "line1": "56 Gillies Avenue",
+    "line2": null,
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042633730",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GrammarWindsor/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T02:08:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39920,
+  "registrationNumber": "CC24850",
+  "name": "Abbeyfield Masterton Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.abbeyfield.org.nz",
+  "email": "office@abbeyfield.org.nz",
+  "address": {
+    "line1": "39 Church Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429042573012",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T01:54:33Z"
+}

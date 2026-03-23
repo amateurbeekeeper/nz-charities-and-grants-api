@@ -1,0 +1,27 @@
+{
+  "id": 32950,
+  "registrationNumber": "CC48380",
+  "name": "The Olive Tree Church",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2012-09-14T00:00:00Z",
+  "dateDeregistered": "2023-01-31T00:00:00Z",
+  "website": "http://www.olivetree.org.nz/",
+  "email": "bruce@olivetree.org.nz",
+  "address": {
+    "line1": "476-486 Jackson Street",
+    "line2": "10 Hutt Road",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-05-30T07:17:00Z"
+}

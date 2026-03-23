@@ -1,0 +1,27 @@
+{
+  "id": 72162,
+  "registrationNumber": "CC58550",
+  "name": "Opoho Playcentre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.playcentre.org.nz/centre/opoho/",
+  "email": "opoho@playcentre.org.nz",
+  "address": {
+    "line1": "28A Signal Hill Road",
+    "line2": " ",
+    "suburb": "Opoho",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/opoho.playcentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:08:34Z"
+}

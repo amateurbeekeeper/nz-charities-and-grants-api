@@ -1,0 +1,27 @@
+{
+  "id": 50601,
+  "registrationNumber": "CC45574",
+  "name": "Nelson Historical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-10-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nelsonhistoricalsociety.org.nz",
+  "email": "accounts@nelsonhistoricalsociety.co.nz",
+  "address": {
+    "line1": "PO Box 461",
+    "line2": null,
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7040"
+  },
+  "nzbn": "9429042982685",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nelsonhistoricalsociety/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T01:58:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 60470,
+  "registrationNumber": "CC29641",
+  "name": "Agrecovery Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.agrecovery.co.nz/",
+  "email": "Richard.carroll@agrecovery.org.nz",
+  "address": {
+    "line1": "Level 7, Equinox House",
+    "line2": "111 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043039548",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top/?q=agrecovery%20rural%20recycling&epa=SEARCH_BOX",
+    "twitter": "https://twitter.com/ruralrecycleNZ"
+  },
+  "lastUpdated": "2026-01-29T02:36:40Z"
+}

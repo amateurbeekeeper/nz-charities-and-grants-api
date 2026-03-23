@@ -1,0 +1,27 @@
+{
+  "id": 43438,
+  "registrationNumber": "CC30771",
+  "name": "Alicetown Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-23T00:00:00Z",
+  "website": null,
+  "email": "alicetown@playcentre.org.nz",
+  "address": {
+    "line1": "105",
+    "line2": "107 Victoria Street",
+    "suburb": "Alicetown",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T03:33:59Z"
+}

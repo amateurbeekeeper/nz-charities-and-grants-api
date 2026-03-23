@@ -1,0 +1,27 @@
+{
+  "id": 64560,
+  "registrationNumber": "CC42261",
+  "name": "The Southland Astronomical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.southlandastro.org.nz",
+  "email": "bevans@xtra.co.nz",
+  "address": {
+    "line1": "Oreti Sands Club Rooms",
+    "line2": "254 Links Road",
+    "suburb": " Otatara",
+    "city": "Invercargill",
+    "postcode": "9879"
+  },
+  "nzbn": "9429042725794",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/SouthlandAstronomicalSocietyObservatory/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T07:56:21Z"
+}

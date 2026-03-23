@@ -1,0 +1,27 @@
+{
+  "id": 38470,
+  "registrationNumber": "CC47368",
+  "name": "Tautoko Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-08-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tautokotrust.org",
+  "email": "office@tautokotrust.org",
+  "address": {
+    "line1": "21 Alfred Street",
+    "line2": "Blenheim 7201",
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429043153381",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T02:34:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41953,
+  "registrationNumber": "CC24215",
+  "name": "Mana Volunteer Coastguard Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.coastguardmana.org.nz/",
+  "email": "mana.office@coastguard.nz",
+  "address": {
+    "line1": "Mana Cruising Club",
+    "line2": "5 Pascoe Ave",
+    "suburb": "Ngatitoa Domain",
+    "city": "Porirua",
+    "postcode": null
+  },
+  "nzbn": "9429042926382",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top/?q=coastguard%20mana",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T21:30:03Z"
+}

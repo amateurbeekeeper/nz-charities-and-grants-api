@@ -1,0 +1,27 @@
+{
+  "id": 56259,
+  "registrationNumber": "CC26415",
+  "name": "The New Zealand Marist Brothers Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ceo@cmel.org.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "381 Great South Road",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042788720",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T22:29:51Z"
+}

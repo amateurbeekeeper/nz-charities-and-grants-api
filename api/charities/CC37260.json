@@ -1,0 +1,27 @@
+{
+  "id": 43824,
+  "registrationNumber": "CC37260",
+  "name": "Family Ministries (NZ)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ywammatamata.co.nz",
+  "email": "rossandsheryll@fm.org.nz",
+  "address": {
+    "line1": "287 Okauia Springs Road",
+    "line2": "RD 1",
+    "suburb": "Okauia",
+    "city": "Matamata",
+    "postcode": "3471"
+  },
+  "nzbn": "9429042624516",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "ywammatamata",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T01:13:50Z"
+}

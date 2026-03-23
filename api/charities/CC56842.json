@@ -1,0 +1,27 @@
+{
+  "id": 70478,
+  "registrationNumber": "CC56842",
+  "name": "The Kennedy Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hamish@convexaccounting.co.nz",
+  "address": {
+    "line1": "Unit 4",
+    "line2": "82 Willis Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T18:13:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 32764,
+  "registrationNumber": "CC48632",
+  "name": "Civic Property Pool",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2012-08-10T00:00:00Z",
+  "dateDeregistered": "2024-12-17T00:00:00Z",
+  "website": null,
+  "email": "glenn.watkin@civicfs.co.nz",
+  "address": {
+    "line1": "116 Lambton Quay",
+    "line2": "114 - 118 Lambton Quay",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043302123",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T22:25:59Z"
+}

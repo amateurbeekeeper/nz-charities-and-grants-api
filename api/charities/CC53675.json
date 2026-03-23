@@ -1,0 +1,27 @@
+{
+  "id": 67389,
+  "registrationNumber": "CC53675",
+  "name": "Littlemore Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-08-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.littlemore.co.nz",
+  "email": "sarb@littlemore.co.nz",
+  "address": {
+    "line1": "c/o Storage King Grey Lynn",
+    "line2": "300 Richmond Road",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429043308637",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "LittlemoreNZ",
+    "twitter": "@LittlemoreNZ"
+  },
+  "lastUpdated": "2026-01-15T01:12:40Z"
+}

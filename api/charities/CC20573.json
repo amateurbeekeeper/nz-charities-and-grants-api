@@ -1,0 +1,27 @@
+{
+  "id": 53882,
+  "registrationNumber": "CC20573",
+  "name": "Whanganui Safe and Free Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.whanganuisafe.com",
+  "email": "manager@whanganuisafe.org.nz",
+  "address": {
+    "line1": "52 Nelson Street",
+    "line2": "Whanganui 4500",
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042743712",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T18:28:31Z"
+}

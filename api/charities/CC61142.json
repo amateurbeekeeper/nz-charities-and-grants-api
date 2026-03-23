@@ -1,0 +1,27 @@
+{
+  "id": 74723,
+  "registrationNumber": "CC61142",
+  "name": "HCC Barbell Club",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "sporty.co.nz/hccbarbellclub",
+  "email": "ahorei1@gmail.com",
+  "address": {
+    "line1": "27 Osborne Street",
+    "line2": " ",
+    "suburb": "Waltham",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429050821242",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61577875119565",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T20:50:40Z"
+}

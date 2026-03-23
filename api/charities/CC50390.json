@@ -1,0 +1,27 @@
+{
+  "id": 34766,
+  "registrationNumber": "CC50390",
+  "name": "Indian Association (Manukau) New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.inzone.org.nz",
+  "email": "president@inzone.org.nz",
+  "address": {
+    "line1": "25 Tui Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429042725428",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/indianassociationnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-23T00:26:50Z"
+}

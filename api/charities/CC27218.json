@@ -1,0 +1,27 @@
+{
+  "id": 42357,
+  "registrationNumber": "CC27218",
+  "name": "Otago SPCA Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2017-05-04T00:00:00Z",
+  "website": null,
+  "email": "jan@otago-spca.org.nz",
+  "address": {
+    "line1": "1 Torridon Street",
+    "line2": " ",
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": "9429043022014",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-07T23:02:23Z"
+}

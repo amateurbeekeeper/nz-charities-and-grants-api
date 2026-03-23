@@ -1,0 +1,27 @@
+{
+  "id": 55646,
+  "registrationNumber": "CC22455",
+  "name": "Northern Auckland Free Kindergarten Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kaitiakikindergartens.org.nz",
+  "email": "tara@kaitiakikindergartens.org.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "17 Corinthian Drive",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429042674276",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T00:32:43Z"
+}

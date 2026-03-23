@@ -1,0 +1,27 @@
+{
+  "id": 56702,
+  "registrationNumber": "CC34012",
+  "name": "WPI Foundation Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2009-02-22T00:00:00Z",
+  "website": null,
+  "email": "peter@wpi.co.nz",
+  "address": {
+    "line1": "12 Target Court",
+    "line2": null,
+    "suburb": "Wairau Valley",
+    "city": "Auckland",
+    "postcode": "627"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:21:03Z"
+}

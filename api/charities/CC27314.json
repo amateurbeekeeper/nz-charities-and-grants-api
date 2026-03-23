@@ -1,0 +1,27 @@
+{
+  "id": 40576,
+  "registrationNumber": "CC27314",
+  "name": "Zoar Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul.kerins@findex.co.nz",
+  "address": {
+    "line1": "211 Market Street South",
+    "line2": "Hastings 4122",
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429042962625",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-07T19:10:06Z"
+}

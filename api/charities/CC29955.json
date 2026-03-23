@@ -1,0 +1,27 @@
+{
+  "id": 47389,
+  "registrationNumber": "CC29955",
+  "name": "St Pauls Lutheran Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "field.jerry@gmail.com",
+  "address": {
+    "line1": "3 Supplejack Valley Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Upper Moutere",
+    "postcode": "7173"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "N/A",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2025-10-21T07:18:09Z"
+}

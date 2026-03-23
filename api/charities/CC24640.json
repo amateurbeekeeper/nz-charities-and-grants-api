@@ -1,0 +1,27 @@
+{
+  "id": 40234,
+  "registrationNumber": "CC24640",
+  "name": "Titirangi Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://tbc.org.nz",
+  "email": "leanne@tbc.org.nz",
+  "address": {
+    "line1": "44 Kaurilands Road",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429051745387",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top/?q=titirangi%20baptist%20church&epa=SEARCH_BOX",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T22:32:22Z"
+}

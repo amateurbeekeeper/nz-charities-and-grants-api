@@ -1,0 +1,27 @@
+{
+  "id": 63874,
+  "registrationNumber": "CC42401",
+  "name": "Church Of Meremere",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-09-30T00:00:00Z",
+  "dateDeregistered": "2011-02-15T00:00:00Z",
+  "website": null,
+  "email": "upcsecbryce@hotmail.com",
+  "address": {
+    "line1": "PO Box 19",
+    "line2": null,
+    "suburb": "Meremere",
+    "city": null,
+    "postcode": "2441"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2017-01-26T00:34:05Z"
+}

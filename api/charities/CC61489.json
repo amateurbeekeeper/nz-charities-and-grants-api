@@ -1,0 +1,27 @@
+{
+  "id": 75058,
+  "registrationNumber": "CC61489",
+  "name": "Tauranga Big Band Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "settle_ian@yahoo.co.nz",
+  "address": {
+    "line1": "15 Matahiwi Road",
+    "line2": "RD 4",
+    "suburb": "Te Puna",
+    "city": "Tauranga",
+    "postcode": "3174"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/taurangabigband",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-05T00:27:09Z"
+}

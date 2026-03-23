@@ -1,0 +1,27 @@
+{
+  "id": 41076,
+  "registrationNumber": "CC24084",
+  "name": "Rise UP Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.riseuptrust.org.nz",
+  "email": "accounts@riseuptrust.org.nz",
+  "address": {
+    "line1": "Court Town Close",
+    "line2": "c/- Rise UP Academy",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429043170692",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/RiseUPTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-08T22:25:55Z"
+}

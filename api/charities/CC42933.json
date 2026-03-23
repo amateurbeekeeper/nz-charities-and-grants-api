@@ -1,0 +1,27 @@
+{
+  "id": 64705,
+  "registrationNumber": "CC42933",
+  "name": "Friends of Te Wairoa Catchment Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tewairoa.org.nz",
+  "email": "glennr99@icloud.com",
+  "address": {
+    "line1": "385 Ness Valley Road",
+    "line2": "RD 5",
+    "suburb": "Ness Valley",
+    "city": "Papakura",
+    "postcode": "2585"
+  },
+  "nzbn": "9429043205097",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tewairoariver/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-10T18:33:21Z"
+}

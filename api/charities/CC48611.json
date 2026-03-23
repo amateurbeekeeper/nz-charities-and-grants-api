@@ -1,0 +1,27 @@
+{
+  "id": 32923,
+  "registrationNumber": "CC48611",
+  "name": "WELLINGTON MOUNTAIN BIKE CLUB INCORPORATED",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-12-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wmtbc.org.nz",
+  "email": "jono@wmtbc.org.nz",
+  "address": {
+    "line1": "70 Sefton Street",
+    "line2": " ",
+    "suburb": "Wadestown",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043288137",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WellyMTB/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-16T03:34:10Z"
+}

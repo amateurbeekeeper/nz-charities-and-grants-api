@@ -1,0 +1,27 @@
+{
+  "id": 37578,
+  "registrationNumber": "CC44540",
+  "name": "Wellington Multiples",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wellingtonmultiples.org.nz",
+  "email": "treasurer@wellingtonmultiples.org.nz",
+  "address": {
+    "line1": "35 Salford Street",
+    "line2": " ",
+    "suburb": "Newlands",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429050541164",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Wellington Multiples",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T22:17:12Z"
+}

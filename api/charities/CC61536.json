@@ -1,0 +1,27 @@
+{
+  "id": 75104,
+  "registrationNumber": "CC61536",
+  "name": "Tauranga Adventist School PTFA",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "roseandtim@icloud.com",
+  "address": {
+    "line1": "19 Moffat Road",
+    "line2": " ",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-04T19:36:05Z"
+}

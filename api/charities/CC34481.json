@@ -1,0 +1,27 @@
+{
+  "id": 42528,
+  "registrationNumber": "CC34481",
+  "name": "The Blueskin Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "escharpf@exida.com",
+  "address": {
+    "line1": "c/o Marks and Worth Lawyers, Second Floor",
+    "line2": "115 Lower Stuart Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T03:56:27Z"
+}

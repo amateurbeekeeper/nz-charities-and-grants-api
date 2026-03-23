@@ -1,0 +1,27 @@
+{
+  "id": 52298,
+  "registrationNumber": "CC26471",
+  "name": "Wellington Volunteer Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.volunteerwellington.nz",
+  "email": "gm@volunteerwellington.nz",
+  "address": {
+    "line1": "Level 7",
+    "line2": "186 Willis Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042840916",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/volunteer.wellington",
+    "twitter": "https://x.com/VolunteerWgtn"
+  },
+  "lastUpdated": "2025-11-23T21:45:19Z"
+}

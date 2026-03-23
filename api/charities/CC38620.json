@@ -1,0 +1,27 @@
+{
+  "id": 63020,
+  "registrationNumber": "CC38620",
+  "name": "Rural Support Trust - Te Tai Tokerau",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rural-support.org.nz/regions/te-tai-tokerau",
+  "email": "rachelle.ocallaghan@ruralsupport.org.nz",
+  "address": {
+    "line1": "1A Douglas Street",
+    "line2": "Level 2",
+    "suburb": "Kensington",
+    "city": "Whangārei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429043093311",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RuralSupportTTT",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T20:54:58Z"
+}

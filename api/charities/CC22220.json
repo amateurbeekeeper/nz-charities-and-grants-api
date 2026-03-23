@@ -1,0 +1,27 @@
+{
+  "id": 56554,
+  "registrationNumber": "CC22220",
+  "name": "Oasis Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lbrewerton@xtra.co.nz",
+  "address": {
+    "line1": "200B Paparoa Road",
+    "line2": "RD 2",
+    "suburb": "Wainui",
+    "city": "Opotiki",
+    "postcode": "3198"
+  },
+  "nzbn": "9429043154036",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-29T19:15:03Z"
+}

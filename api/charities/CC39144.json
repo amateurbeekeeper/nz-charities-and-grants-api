@@ -1,0 +1,27 @@
+{
+  "id": 46694,
+  "registrationNumber": "CC39144",
+  "name": "Hawera Repertory Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hawerarep.org",
+  "email": "info@hawerarep.org",
+  "address": {
+    "line1": "59 Collins Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hawera",
+    "postcode": "4610"
+  },
+  "nzbn": "9429042632818",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hawerarepertory/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:41:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73465,
+  "registrationNumber": "CC59697",
+  "name": "Ted's Space",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tedsspace.org.nz",
+  "email": "tedsspacenz@gmail.com",
+  "address": {
+    "line1": "18 Semaphore Lane",
+    "line2": " ",
+    "suburb": "Whitby",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100023010764457",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-11T03:11:47Z"
+}

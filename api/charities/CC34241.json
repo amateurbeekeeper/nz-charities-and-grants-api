@@ -1,0 +1,27 @@
+{
+  "id": 61461,
+  "registrationNumber": "CC34241",
+  "name": "Maori Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.maorieducation.org.nz",
+  "email": "cribby@maorieducation.org.nz",
+  "address": {
+    "line1": "35 Victoria Street",
+    "line2": "National Centre",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042683032",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T22:14:12Z"
+}

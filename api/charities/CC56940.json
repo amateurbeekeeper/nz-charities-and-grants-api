@@ -1,0 +1,27 @@
+{
+  "id": 70575,
+  "registrationNumber": "CC56940",
+  "name": "Beachlands Maraetai Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-06-30T00:00:00Z",
+  "dateDeregistered": "2025-12-19T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/beachlands-maraetai/",
+  "email": "cathedgar@googlemail.com",
+  "address": {
+    "line1": "18 Bell Road",
+    "line2": " ",
+    "suburb": "Beachlands",
+    "city": "Auckland",
+    "postcode": "2018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/PlaycentreBeachlandsMaraetai/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-02T06:06:07Z"
+}

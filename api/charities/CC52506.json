@@ -1,0 +1,27 @@
+{
+  "id": 66236,
+  "registrationNumber": "CC52506",
+  "name": "Fairfield Presbyterian Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-10-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.discovery.org.nz",
+  "email": "fairfielddiscovery@gmail.com",
+  "address": {
+    "line1": "3 Insoll Avenue",
+    "line2": " ",
+    "suburb": "Fairfield",
+    "city": "Hamilton",
+    "postcode": "3248"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/discoverychristiancentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T22:40:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65804,
+  "registrationNumber": "CC52036",
+  "name": "Bishop's Community Development Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.bishopstrust.com",
+  "email": "keryn@bishopstrust.com",
+  "address": {
+    "line1": "18 Eccleston Hill",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043269068",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BCDTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T02:49:11Z"
+}

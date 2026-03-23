@@ -1,0 +1,27 @@
+{
+  "id": 74610,
+  "registrationNumber": "CC61023",
+  "name": "Rautāpatu Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-12-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.rautapatu.nz",
+  "email": "bry@rautapatu.nz",
+  "address": {
+    "line1": "93 Gover Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429051036621",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:29:01Z"
+}

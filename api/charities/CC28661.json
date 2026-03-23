@@ -1,0 +1,27 @@
+{
+  "id": 61010,
+  "registrationNumber": "CC28661",
+  "name": "Hebron Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "michelle@taxandtrust.co.nz",
+  "address": {
+    "line1": "8 Vadam Road",
+    "line2": " ",
+    "suburb": "Massey",
+    "city": "Auckland",
+    "postcode": "614"
+  },
+  "nzbn": "9429042643777",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T00:25:11Z"
+}

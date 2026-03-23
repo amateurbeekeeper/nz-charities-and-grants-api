@@ -1,0 +1,27 @@
+{
+  "id": 60373,
+  "registrationNumber": "CC28264",
+  "name": "Chilton Saint James School",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.chilton.school.nz",
+  "email": "ccanton@chilton.school.nz",
+  "address": {
+    "line1": "124 Waterloo Road",
+    "line2": " ",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429042613022",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T02:36:37Z"
+}

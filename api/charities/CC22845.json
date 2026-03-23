@@ -1,0 +1,27 @@
+{
+  "id": 56430,
+  "registrationNumber": "CC22845",
+  "name": "Camp Quality New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.campquality.org.nz",
+  "email": "admin@campquality.org.nz",
+  "address": {
+    "line1": "C/- Holmden Horrocks Solicitors",
+    "line2": " 4/41 Shortland St",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042599227",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CampQualityNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T19:27:26Z"
+}

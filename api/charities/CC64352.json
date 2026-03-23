@@ -1,0 +1,27 @@
+{
+  "id": 78539,
+  "registrationNumber": "CC64352",
+  "name": "Willing and Abel NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gehaack@yahoo.com",
+  "address": {
+    "line1": "5 Phillips Drive",
+    "line2": "RD 3",
+    "suburb": "Oropi",
+    "city": "Tauranga",
+    "postcode": "3173"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T21:35:06Z"
+}

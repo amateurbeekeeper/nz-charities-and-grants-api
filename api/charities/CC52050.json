@@ -1,0 +1,27 @@
+{
+  "id": 65792,
+  "registrationNumber": "CC52050",
+  "name": "Coastal Unity Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.coastalunity.org",
+  "email": "criglington1@gmail.com",
+  "address": {
+    "line1": "61 Thorn Street",
+    "line2": " ",
+    "suburb": "Caversham",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:06:16Z"
+}

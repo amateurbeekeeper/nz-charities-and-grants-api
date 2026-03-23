@@ -1,0 +1,27 @@
+{
+  "id": 36899,
+  "registrationNumber": "CC46380",
+  "name": "Fraser Tech Netball Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "frasertechnetball@gmail.com",
+  "address": {
+    "line1": "105 Maeroa Road",
+    "line2": " ",
+    "suburb": "Maeroa",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429043102945",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T02:40:33Z"
+}

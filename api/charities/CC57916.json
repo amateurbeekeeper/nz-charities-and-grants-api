@@ -1,0 +1,27 @@
+{
+  "id": 71541,
+  "registrationNumber": "CC57916",
+  "name": "Kura Cares Charity",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thekuracarescharity.org",
+  "email": "admin@thekuracarescharity.org",
+  "address": {
+    "line1": "290 Great South Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Takanini",
+    "postcode": "2112"
+  },
+  "nzbn": "9429048530668",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/thekuracarestrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T01:03:56Z"
+}

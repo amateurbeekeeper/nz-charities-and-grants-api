@@ -1,0 +1,27 @@
+{
+  "id": 54008,
+  "registrationNumber": "CC20867",
+  "name": "New Zealand Christian Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzchristianfoundation.nz",
+  "email": "info@nzchristianfoundation.org.nz",
+  "address": {
+    "line1": "4TH FLOOR PARKVIEW TOWER",
+    "line2": "21 Putney Way",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429043061792",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T18:06:02Z"
+}

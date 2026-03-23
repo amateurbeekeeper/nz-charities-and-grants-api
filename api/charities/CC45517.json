@@ -1,0 +1,27 @@
+{
+  "id": 38601,
+  "registrationNumber": "CC45517",
+  "name": "Parklands Bowling Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-10-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.parklandsbowls.co.nz",
+  "email": "parklandsbowls@xtra.co.nz",
+  "address": {
+    "line1": "30 Chadbury Street",
+    "line2": " ",
+    "suburb": "Parklands",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429042802945",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Yes",
+    "twitter": "No"
+  },
+  "lastUpdated": "2026-03-16T00:46:39Z"
+}

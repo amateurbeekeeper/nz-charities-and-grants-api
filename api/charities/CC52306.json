@@ -1,0 +1,27 @@
+{
+  "id": 66037,
+  "registrationNumber": "CC52306",
+  "name": "Hei Hei Broomfield Community Development Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bob@shearings.co.nz",
+  "address": {
+    "line1": "126 Hei Hei Road",
+    "line2": " ",
+    "suburb": "Hei Hei",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429043165223",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T18:08:14Z"
+}

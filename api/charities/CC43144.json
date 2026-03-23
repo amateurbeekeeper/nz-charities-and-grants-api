@@ -1,0 +1,27 @@
+{
+  "id": 44072,
+  "registrationNumber": "CC43144",
+  "name": "The Kohimarama Tennis Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kohimaramatennis.co.nz",
+  "email": "info@kohimaramatennis.co.nz",
+  "address": {
+    "line1": "30 Melanesia Road",
+    "line2": " ",
+    "suburb": "Kohimarama",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429042779506",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=kohimarama%20tennis%20club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-19T18:20:10Z"
+}

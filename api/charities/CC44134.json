@@ -1,0 +1,27 @@
+{
+  "id": 64092,
+  "registrationNumber": "CC44134",
+  "name": "Netball Whanganui Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.netballwhanganui.co.nz",
+  "email": "accounts@netballwhanganui.co.nz",
+  "address": {
+    "line1": "98 Peat Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042908159",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/netballwhanganui/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-09T18:37:57Z"
+}

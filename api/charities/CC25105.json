@@ -1,0 +1,27 @@
+{
+  "id": 56751,
+  "registrationNumber": "CC25105",
+  "name": "Tamatea Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gseverinsen@xtra.co.nz",
+  "address": {
+    "line1": "379 Westminster Avenue",
+    "line2": " ",
+    "suburb": "Tamatea",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T00:34:53Z"
+}

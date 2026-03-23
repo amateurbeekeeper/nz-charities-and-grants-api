@@ -1,0 +1,27 @@
+{
+  "id": 65510,
+  "registrationNumber": "CC51747",
+  "name": "Community Comms Collective",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.communitycomms.org.nz",
+  "email": "comms@communitycomms.org.nz",
+  "address": {
+    "line1": "28 Lincoln Street",
+    "line2": " ",
+    "suburb": "Brooklyn",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043276295",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CommunityCommsCollective/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T00:30:58Z"
+}

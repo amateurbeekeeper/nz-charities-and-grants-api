@@ -1,0 +1,27 @@
+{
+  "id": 32784,
+  "registrationNumber": "CC48328",
+  "name": "Arrow Leadership NZ Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.arrowleadership.org.nz",
+  "email": "danielle@innovantaccounting.co.nz",
+  "address": {
+    "line1": "3 Austen Place",
+    "line2": null,
+    "suburb": "Leamington",
+    "city": "Cambridge",
+    "postcode": "3432"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/arrowleadershipnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T19:19:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52592,
+  "registrationNumber": "CC11444",
+  "name": "Cressy Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.cressytrust.org.nz",
+  "email": "helen@goodbooks.co.nz",
+  "address": {
+    "line1": "96 Cressy Terrace",
+    "line2": " ",
+    "suburb": "Corsair Bay",
+    "city": "Lyttelton",
+    "postcode": "8082"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:49:42Z"
+}

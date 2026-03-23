@@ -1,0 +1,27 @@
+{
+  "id": 55758,
+  "registrationNumber": "CC22740",
+  "name": "Age Concern Marlborough Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "p.clay@xtra.co.nz",
+  "address": {
+    "line1": "COMMUNITY CENTRE",
+    "line2": "25 Alfred Street",
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429043046201",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "ageconcernmarlborough",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T01:53:38Z"
+}

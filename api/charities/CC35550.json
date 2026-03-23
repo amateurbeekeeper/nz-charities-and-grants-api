@@ -1,0 +1,27 @@
+{
+  "id": 58125,
+  "registrationNumber": "CC35550",
+  "name": "Woodend Camp Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.woodendcamp.co.nz",
+  "email": "Lieuwe7@outlook.com",
+  "address": {
+    "line1": "124 Woodend Beach Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Kaiapoi",
+    "postcode": "7691"
+  },
+  "nzbn": "9429043159390",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WoodendChristianCamp",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T20:21:22Z"
+}

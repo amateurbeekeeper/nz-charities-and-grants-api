@@ -1,0 +1,27 @@
+{
+  "id": 75942,
+  "registrationNumber": "CC62393",
+  "name": "Te Rarama",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.terarama.com",
+  "email": "terarama11@gmail.com",
+  "address": {
+    "line1": "109A Ngamotu Road",
+    "line2": " ",
+    "suburb": "Spotswood",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "terarama",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-11T19:41:06Z"
+}

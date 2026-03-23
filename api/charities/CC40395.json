@@ -1,0 +1,27 @@
+{
+  "id": 62014,
+  "registrationNumber": "CC40395",
+  "name": "Leabank Kindergarten",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.fka.co.nz",
+  "email": "deana@cmka.org.nz",
+  "address": {
+    "line1": "19 Solo Place",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T02:47:20Z"
+}

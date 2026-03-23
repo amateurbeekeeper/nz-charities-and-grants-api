@@ -1,0 +1,27 @@
+{
+  "id": 69359,
+  "registrationNumber": "CC55697",
+  "name": "North Shore Community Toy Library Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.thetoylibrary.co.nz",
+  "email": "ivor@ivorp.com",
+  "address": {
+    "line1": "1 Sidmouth Street",
+    "line2": " ",
+    "suburb": "Mairangi Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429046735645",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/thetoylibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T00:56:30Z"
+}

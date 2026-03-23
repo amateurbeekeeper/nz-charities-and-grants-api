@@ -1,0 +1,27 @@
+{
+  "id": 54989,
+  "registrationNumber": "CC22415",
+  "name": "Log Transport Safety Council Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://logtruck.co.nz",
+  "email": "admin@logtruck.co.nz",
+  "address": {
+    "line1": "146 Avenue Road",
+    "line2": " ",
+    "suburb": "Greenmeadows",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": "9429042936046",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LTSCinfo",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-14T19:21:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 49057,
+  "registrationNumber": "CC30787",
+  "name": "Christchurch Methodist Central Mission",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mmsi.org.nz",
+  "email": "jillh@mmsi.org.nz",
+  "address": {
+    "line1": "3 Marble Wood Drive",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042614982",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/ChristchurchMethodistMission",
+    "twitter": "https://twitter.com/ChChMethodistMn"
+  },
+  "lastUpdated": "2025-12-10T23:41:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50191,
+  "registrationNumber": "CC44042",
+  "name": "The Otago Pioneer Women's Memorial Association Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2010-04-18T00:00:00Z",
+  "dateDeregistered": "2024-06-30T00:00:00Z",
+  "website": "https://www.opwmemorialhall.com/",
+  "email": "opwmai@gmail.com",
+  "address": {
+    "line1": "362 Moray Place",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042851172",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/OtagoPioneerWomensMemorialBuilding/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-02T06:11:54Z"
+}

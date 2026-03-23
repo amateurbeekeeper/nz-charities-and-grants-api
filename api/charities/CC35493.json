@@ -1,0 +1,27 @@
+{
+  "id": 46703,
+  "registrationNumber": "CC35493",
+  "name": "Riverton Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Ashley.Barker@fireandemergency.nz",
+  "address": {
+    "line1": "6 Jetty Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Riverton",
+    "postcode": "9822"
+  },
+  "nzbn": "0000000000000",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:22:25Z"
+}

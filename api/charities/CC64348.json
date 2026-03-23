@@ -1,0 +1,27 @@
+{
+  "id": 78536,
+  "registrationNumber": "CC64348",
+  "name": "Tangata Marae Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "yenda.marae@gmail.com",
+  "address": {
+    "line1": "206 Douglas Road",
+    "line2": "RD 1",
+    "suburb": "Okauia",
+    "city": "Matamata",
+    "postcode": "3471"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T21:04:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38566,
+  "registrationNumber": "CC46061",
+  "name": "Auckland Polish Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-01-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://poloniaauckland.co.nz",
+  "email": "info@poloniaauckland.co.nz",
+  "address": {
+    "line1": "1 McDonald Street",
+    "line2": " ",
+    "suburb": "Morningside",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042587590",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Auckland Polish Association - Polonia Auckland",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T01:24:46Z"
+}

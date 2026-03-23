@@ -1,0 +1,27 @@
+{
+  "id": 58700,
+  "registrationNumber": "CC26507",
+  "name": "Interpreting New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.interpret.org.nz",
+  "email": "erwin.lacruz@interpret.org.nz",
+  "address": {
+    "line1": "PO Box 6472",
+    "line2": "Marion Square",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6141"
+  },
+  "nzbn": "9429042839842",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/InterpretNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T02:44:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43815,
+  "registrationNumber": "CC34325",
+  "name": "Tauranga Community Foodbank",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taurangafoodbank.co.nz",
+  "email": "office@taurangafoodbank.co.nz",
+  "address": {
+    "line1": "Unit G",
+    "line2": "4 Brook St",
+    "suburb": "Parkvale",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042844822",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T19:02:35Z"
+}

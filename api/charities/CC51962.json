@@ -1,0 +1,27 @@
+{
+  "id": 65712,
+  "registrationNumber": "CC51962",
+  "name": "St James Presbyterian Church Pukekohe",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stjamespukekohe.org.nz",
+  "email": "sjpc2017@outlook.com",
+  "address": {
+    "line1": "30 West Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/St-James-Church-Pukekohe-204600460185586/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T01:02:01Z"
+}

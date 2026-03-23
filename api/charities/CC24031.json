@@ -1,0 +1,27 @@
+{
+  "id": 55271,
+  "registrationNumber": "CC24031",
+  "name": "Mount Maunganui Community Patrol Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2025-08-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mountmaunganui@cpnz.org.nz",
+  "address": {
+    "line1": "C/o Mount Maunganui Police Station",
+    "line2": "Crn Hull Rd & Tukorako Dr",
+    "suburb": " Mount Maunganui",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429053310149",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T03:25:42Z"
+}

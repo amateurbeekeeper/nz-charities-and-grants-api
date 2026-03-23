@@ -1,0 +1,27 @@
+{
+  "id": 51646,
+  "registrationNumber": "CC25065",
+  "name": "Anglican Trust for Women and Children",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.atwc.org.nz",
+  "email": "accounts@atwc.org.nz",
+  "address": {
+    "line1": "ST MARYS FAMILY CENTRE",
+    "line2": "10 Beatty Street",
+    "suburb": "Otahuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429042791072",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T21:37:37Z"
+}

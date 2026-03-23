@@ -1,0 +1,27 @@
+{
+  "id": 65028,
+  "registrationNumber": "CC33259",
+  "name": "The Fountain Institute",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2022-06-29T00:00:00Z",
+  "website": null,
+  "email": "craig.weston@inspired.co.nz",
+  "address": {
+    "line1": "22 Castellina Drive",
+    "line2": "57 Fort Street",
+    "suburb": "Karaka",
+    "city": "Papakura",
+    "postcode": "2113"
+  },
+  "nzbn": "9429043177233",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-07-04T02:38:26Z"
+}

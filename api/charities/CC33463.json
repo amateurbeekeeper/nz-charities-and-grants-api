@@ -1,0 +1,27 @@
+{
+  "id": 45980,
+  "registrationNumber": "CC33463",
+  "name": "Glendene Congregational Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Anne.Chamley@gazeburt.co.nz",
+  "address": {
+    "line1": "77 Hepburn Road",
+    "line2": " ",
+    "suburb": "Glendene",
+    "city": "Auckland",
+    "postcode": "602"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T18:19:18Z"
+}

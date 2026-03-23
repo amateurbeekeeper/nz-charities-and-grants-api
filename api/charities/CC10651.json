@@ -1,0 +1,27 @@
+{
+  "id": 51910,
+  "registrationNumber": "CC10651",
+  "name": "Trinitarian Bible Society New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.paiperatapu.maori.nz/",
+  "email": "chairman@tbs.org.nz",
+  "address": {
+    "line1": "5 Derrimore Heights",
+    "line2": " ",
+    "suburb": "Clover Park",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": "9429042941040",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TePaiperaTapu1868/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T18:55:03Z"
+}

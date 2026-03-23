@@ -1,0 +1,27 @@
+{
+  "id": 52211,
+  "registrationNumber": "CC10590",
+  "name": "Breast Cancer Research Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.breastcancerresearch.org.nz",
+  "email": "info@grahambrown.co.nz",
+  "address": {
+    "line1": "196 Pembroke Street",
+    "line2": " Waikato Hospital, Pembroke St",
+    "suburb": "Hamilton Lake",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042965688",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Breast Cancer Research Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T05:03:35Z"
+}

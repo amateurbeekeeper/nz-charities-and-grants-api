@@ -1,0 +1,27 @@
+{
+  "id": 69135,
+  "registrationNumber": "CC55477",
+  "name": "The Kids in Need Waikato Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.kidsinneed.co.nz",
+  "email": "graeme@kidsinneed.co.nz",
+  "address": {
+    "line1": "118 Fencourt Road",
+    "line2": "RD 4",
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3496"
+  },
+  "nzbn": "9429046585554",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kidsinneedwaikato/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T12:48:25Z"
+}

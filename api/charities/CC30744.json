@@ -1,0 +1,27 @@
+{
+  "id": 39121,
+  "registrationNumber": "CC30744",
+  "name": "South Canterbury Stroke Club",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "timstroke@xtra.co.nz",
+  "address": {
+    "line1": "Room 18 Community House",
+    "line2": " 27 Strathallan Street",
+    "suburb": "Timaru Central",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429053460912",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T22:25:03Z"
+}

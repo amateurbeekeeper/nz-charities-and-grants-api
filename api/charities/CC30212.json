@@ -1,0 +1,27 @@
+{
+  "id": 54764,
+  "registrationNumber": "CC30212",
+  "name": "Tamaki Community Development Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tcdt.net.nz",
+  "email": "greg@tcdt.net.nz",
+  "address": {
+    "line1": "4A Court Crescent",
+    "line2": " ",
+    "suburb": "Panmure",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042835509",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tamakicommunitydevelopmenttrust/",
+    "twitter": "@tamakidev"
+  },
+  "lastUpdated": "2025-09-22T04:16:09Z"
+}

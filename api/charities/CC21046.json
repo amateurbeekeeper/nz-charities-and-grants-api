@@ -1,0 +1,27 @@
+{
+  "id": 54248,
+  "registrationNumber": "CC21046",
+  "name": "Waikato Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waikatodhb.govt.nz",
+  "email": "derek.shorter@waikatodhb.health.nz",
+  "address": {
+    "line1": "Level 3 Hockin Building",
+    "line2": "Pembroke Street",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3240"
+  },
+  "nzbn": "9429042779070",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T18:54:43Z"
+}

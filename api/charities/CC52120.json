@@ -1,0 +1,27 @@
+{
+  "id": 65853,
+  "registrationNumber": "CC52120",
+  "name": "Carlton Netball Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.carltonnetball.co.nz",
+  "email": "carltonnetball@gmail.com",
+  "address": {
+    "line1": "25 Hazel Avenue",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429043156344",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T21:27:12Z"
+}

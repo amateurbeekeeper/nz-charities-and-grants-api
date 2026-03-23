@@ -1,0 +1,27 @@
+{
+  "id": 49888,
+  "registrationNumber": "CC38489",
+  "name": "Wellington South Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://WSBC.org.nz",
+  "email": "scoppard@gmail.com",
+  "address": {
+    "line1": "284 The Parade",
+    "line2": " ",
+    "suburb": "Island Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-16T19:49:14Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 45104,
+  "registrationNumber": "CC32894",
+  "name": "New Zealand Nature Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nznaturefund.org",
+  "email": "matthewshand@meadstark.co.nz",
+  "address": {
+    "line1": "29 The Mall",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cromwell",
+    "postcode": "9310"
+  },
+  "nzbn": "9429043074471",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nznaturefund.org",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-08T09:20:41Z"
+}

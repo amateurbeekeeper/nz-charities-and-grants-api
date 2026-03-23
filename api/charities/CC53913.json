@@ -1,0 +1,27 @@
+{
+  "id": 67606,
+  "registrationNumber": "CC53913",
+  "name": "Te Ara Whatu Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tearawhatu.org",
+  "email": "india.logan.riley@gmail.com",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "126 Emerson Street",
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429043242924",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tearawhatu/",
+    "twitter": "https://twitter.com/TeAraWhatu"
+  },
+  "lastUpdated": "2025-09-30T04:15:58Z"
+}

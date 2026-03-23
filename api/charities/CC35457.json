@@ -1,0 +1,27 @@
+{
+  "id": 53419,
+  "registrationNumber": "CC35457",
+  "name": "The Church In Hamilton",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.churchinhamilton.org.nz",
+  "email": "jk.kimjh@gmail.com",
+  "address": {
+    "line1": "22B Gordonton Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3281"
+  },
+  "nzbn": "9429042852094",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T03:45:08Z"
+}

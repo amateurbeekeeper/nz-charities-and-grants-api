@@ -1,0 +1,27 @@
+{
+  "id": 50033,
+  "registrationNumber": "CC40270",
+  "name": "Te Whata Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "colin.harvey@xtra.co.nz",
+  "address": {
+    "line1": "7 Bywell Street",
+    "line2": " ",
+    "suburb": "South Hill",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429043136650",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-24T07:14:25Z"
+}

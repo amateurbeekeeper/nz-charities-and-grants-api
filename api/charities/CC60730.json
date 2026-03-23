@@ -1,0 +1,27 @@
+{
+  "id": 74318,
+  "registrationNumber": "CC60730",
+  "name": "Christchurch Archaeology Project",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.christchurcharchaeology.org",
+  "email": "katharine.watson@christchurcharchaeology.org",
+  "address": {
+    "line1": "234 Northbank Road",
+    "line2": "RD 13",
+    "suburb": "Southbridge",
+    "city": "Rakaia",
+    "postcode": "7783"
+  },
+  "nzbn": "9429050926978",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100090556609428",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-16T19:29:16Z"
+}

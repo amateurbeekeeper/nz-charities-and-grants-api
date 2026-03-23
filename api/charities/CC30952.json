@@ -1,0 +1,27 @@
+{
+  "id": 58114,
+  "registrationNumber": "CC30952",
+  "name": "Altus Pacific Aid",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://altusresourcetrust.nz",
+  "email": "info@altuspacificaid.com",
+  "address": {
+    "line1": "40 Kings Road",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429043125944",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/Altus-Pacific-Aid",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T04:54:00Z"
+}

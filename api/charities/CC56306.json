@@ -1,0 +1,27 @@
+{
+  "id": 69945,
+  "registrationNumber": "CC56306",
+  "name": "Youth Arts New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.youtharts.co.nz",
+  "email": "hello@youtharts.co.nz",
+  "address": {
+    "line1": "473 Dominion Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429047204270",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/youthartsnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T01:37:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42601,
+  "registrationNumber": "CC40202",
+  "name": "The University of Auckland Debating Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.debating.co.nz",
+  "email": "exec@debating.co.nz",
+  "address": {
+    "line1": "Flat 48",
+    "line2": "26 Mary Street",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429043180721",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/UoADebsoc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T08:19:38Z"
+}

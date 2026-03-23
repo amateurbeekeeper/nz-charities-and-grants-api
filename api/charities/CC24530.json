@@ -1,0 +1,27 @@
+{
+  "id": 42114,
+  "registrationNumber": "CC24530",
+  "name": "Gisborne Concert Band Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "music.with.waiora@gmail.com",
+  "address": {
+    "line1": "200 Childers Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042630555",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Gisborne Concert Band Inc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:21:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 47788,
+  "registrationNumber": "CC30029",
+  "name": "Valley PHO",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2013-02-17T00:00:00Z",
+  "website": "http://www.kowhaihealth.org.nz",
+  "email": "anne.skinner@kowhaihealth.org.nz",
+  "address": {
+    "line1": "Level 4",
+    "line2": "330 High Street",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429043135127",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:55:00Z"
+}

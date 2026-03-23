@@ -1,0 +1,27 @@
+{
+  "id": 34635,
+  "registrationNumber": "CC51025",
+  "name": "Selwyn Community Patrol Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.selwyncommunitypatrol.org.nz",
+  "email": "secretary@selwyncommunitypatrol.org.nz",
+  "address": {
+    "line1": "14 Payne Court",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lincoln",
+    "postcode": "7608"
+  },
+  "nzbn": "9429043019021",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/SelwynCommunityPatrol",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2026-02-12T21:58:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34151,
+  "registrationNumber": "CC50738",
+  "name": "Terrible New Zealand Charitable Trust ",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2014-07-04T00:00:00Z",
+  "dateDeregistered": "2019-12-16T00:00:00Z",
+  "website": "http://terrible.org.nz",
+  "email": "aw@terrible.org.nz",
+  "address": {
+    "line1": "18 Wycola Avenue",
+    "line2": null,
+    "suburb": "Hei Hei",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "24/7",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://facebook.com/terrible",
+    "twitter": "https://twitter.com/terrible"
+  },
+  "lastUpdated": "2024-02-22T23:44:17Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 68207,
+  "registrationNumber": "CC54531",
+  "name": "Geraldine Amateur swimming club",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.geraldineswimclub.swimming.org.nz",
+  "email": "treasurergasc1@gmail.com",
+  "address": {
+    "line1": "5 Peel Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Geraldine",
+    "postcode": "7930"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T05:40:40Z"
+}

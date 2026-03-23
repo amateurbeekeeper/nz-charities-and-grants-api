@@ -1,0 +1,27 @@
+{
+  "id": 55057,
+  "registrationNumber": "CC27533",
+  "name": "Gisborne Volunteer Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gisbornevolunteercentre.org.nz",
+  "email": "manager@gisbornevolunteercentre.org.nz",
+  "address": {
+    "line1": "Block 1, Shop 2, Treble Court Complex",
+    "line2": "25 Peel St",
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429043125487",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GisborneVolunteerCentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T19:31:00Z"
+}

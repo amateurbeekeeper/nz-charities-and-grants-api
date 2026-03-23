@@ -1,0 +1,27 @@
+{
+  "id": 55254,
+  "registrationNumber": "CC23051",
+  "name": "The Lyttelton Information and Resource Centre Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-04-15T00:00:00Z",
+  "dateDeregistered": "2009-12-14T00:00:00Z",
+  "website": "http://www.lytteltonharbour.info",
+  "email": "ken@maybros.nz",
+  "address": {
+    "line1": "PO Box 74",
+    "line2": null,
+    "suburb": "Lyttelton",
+    "city": null,
+    "postcode": "8841"
+  },
+  "nzbn": "9429042925996",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-09-11T01:44:38Z"
+}

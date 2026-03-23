@@ -1,0 +1,27 @@
+{
+  "id": 42257,
+  "registrationNumber": "CC40017",
+  "name": "Ngati Hikitanga Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hikitanga.iwi.nz",
+  "email": "larry@hikitanga.nz",
+  "address": {
+    "line1": "8 Parakawau Road",
+    "line2": "RD 20",
+    "suburb": " ",
+    "city": "Ohau",
+    "postcode": "5570"
+  },
+  "nzbn": "9429043051960",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Whanau o Hikitanga",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T07:57:15Z"
+}

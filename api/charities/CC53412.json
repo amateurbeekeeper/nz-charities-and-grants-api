@@ -1,0 +1,27 @@
+{
+  "id": 67130,
+  "registrationNumber": "CC53412",
+  "name": "Network Waitangi Whangarei Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.networkwaitangiwhangarei.org.nz",
+  "email": "jette@epad.co.nz",
+  "address": {
+    "line1": "24 Pah Road",
+    "line2": " ",
+    "suburb": "Onerahi",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429042677710",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T03:44:24Z"
+}

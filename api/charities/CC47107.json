@@ -1,0 +1,27 @@
+{
+  "id": 37313,
+  "registrationNumber": "CC47107",
+  "name": "Thames Gymsports Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-11-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://thamesgymsports.co.nz/",
+  "email": "thamesgymsports@gmail.com",
+  "address": {
+    "line1": "86 Kopu Road",
+    "line2": "Kopu 3578",
+    "suburb": " ",
+    "city": "Kopu",
+    "postcode": "3578"
+  },
+  "nzbn": "9429043216253",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Thames-Gymnastics-Club-493250800724010/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T00:40:20Z"
+}

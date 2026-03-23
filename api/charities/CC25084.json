@@ -1,0 +1,27 @@
+{
+  "id": 57367,
+  "registrationNumber": "CC25084",
+  "name": "The Mount Cargill Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.themtcargilltrust.org.nz",
+  "email": "lizzie@mtcargilltrust.org.nz",
+  "address": {
+    "line1": "314 King Edward Street",
+    "line2": " ",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042767633",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T01:27:35Z"
+}

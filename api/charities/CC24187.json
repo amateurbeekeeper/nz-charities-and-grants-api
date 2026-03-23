@@ -1,0 +1,27 @@
+{
+  "id": 55405,
+  "registrationNumber": "CC24187",
+  "name": "Disability Resource Centre Hawkes Bay Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.drchb.org.nz",
+  "email": "gm@drchb.org.nz",
+  "address": {
+    "line1": "204 Nelson Street South",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429042645559",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T20:11:17Z"
+}

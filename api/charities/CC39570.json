@@ -1,0 +1,27 @@
+{
+  "id": 44755,
+  "registrationNumber": "CC39570",
+  "name": "Rutherford Street Kindergarten Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rutherfordstkinder.co.nz",
+  "email": "info@rutherfordstkinder.co.nz",
+  "address": {
+    "line1": "233 Rutherford Street",
+    "line2": " ",
+    "suburb": "Nelson South",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042800262",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T00:34:32Z"
+}

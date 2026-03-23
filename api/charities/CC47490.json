@@ -1,0 +1,27 @@
+{
+  "id": 37900,
+  "registrationNumber": "CC47490",
+  "name": "Shocking Pink",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.shockingpink.org.nz",
+  "email": "info@shockingpink.org.nz",
+  "address": {
+    "line1": "17 Pocock Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Springfield",
+    "postcode": "7681"
+  },
+  "nzbn": "9429043236749",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/shockingpinknz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T02:20:10Z"
+}

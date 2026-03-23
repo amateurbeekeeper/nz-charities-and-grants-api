@@ -1,0 +1,27 @@
+{
+  "id": 55738,
+  "registrationNumber": "CC22445",
+  "name": "The Restore Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david@davidlylemorris.com",
+  "address": {
+    "line1": "40 Sierra Way",
+    "line2": "RD 3",
+    "suburb": "Ramarama",
+    "city": "Drury",
+    "postcode": "2579"
+  },
+  "nzbn": "9429043113699",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T23:28:28Z"
+}

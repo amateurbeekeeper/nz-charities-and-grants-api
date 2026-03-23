@@ -1,0 +1,27 @@
+{
+  "id": 73728,
+  "registrationNumber": "CC60163",
+  "name": "Te Papatipu Matihiko",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.matihiko.org.nz",
+  "email": "Makuini10@yahoo.co.nz",
+  "address": {
+    "line1": "5 River Parade",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wairoa",
+    "postcode": "4108"
+  },
+  "nzbn": "9429050094097",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T04:17:35Z"
+}

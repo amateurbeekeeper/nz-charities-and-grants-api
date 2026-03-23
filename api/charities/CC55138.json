@@ -1,0 +1,27 @@
+{
+  "id": 68795,
+  "registrationNumber": "CC55138",
+  "name": "Ryhaven Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-09-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ryhaven.org.nz",
+  "email": "paul@ryhaven.org",
+  "address": {
+    "line1": "3 Waterson Lane",
+    "line2": null,
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ryhaventrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-07T01:41:11Z"
+}

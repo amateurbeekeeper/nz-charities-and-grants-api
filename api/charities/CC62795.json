@@ -1,0 +1,27 @@
+{
+  "id": 76576,
+  "registrationNumber": "CC62795",
+  "name": "CES Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.schooled.nz",
+  "email": "jono@schooled.nz",
+  "address": {
+    "line1": "89 Nazareth Avenue",
+    "line2": " ",
+    "suburb": "Middleton",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429052238185",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:15:20Z"
+}

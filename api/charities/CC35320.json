@@ -1,0 +1,27 @@
+{
+  "id": 54091,
+  "registrationNumber": "CC35320",
+  "name": "The Motor Neurone Disease Association of New Zealand (Incorporated)",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-01-01T00:00:00Z",
+  "website": "http://www.mnd.org.nz",
+  "email": "mark.leggett@mnd.org.nz",
+  "address": {
+    "line1": "14 Erson Avenue",
+    "line2": " ",
+    "suburb": "Royal Oak",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042784746",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mndanz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T21:47:14Z"
+}

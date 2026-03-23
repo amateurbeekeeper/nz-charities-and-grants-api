@@ -1,0 +1,27 @@
+{
+  "id": 37871,
+  "registrationNumber": "CC47363",
+  "name": "Catholic Engaged Encounter Wellington",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-09-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.cee-wellington.co.nz",
+  "email": "ceewgtn@gmail.com",
+  "address": {
+    "line1": "24 Duval Grove",
+    "line2": " ",
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-03T10:40:56Z"
+}

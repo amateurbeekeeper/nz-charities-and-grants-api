@@ -1,0 +1,27 @@
+{
+  "id": 37803,
+  "registrationNumber": "CC47807",
+  "name": "Ika Toa Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-12-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngatitoa.iwi.nz",
+  "email": "christian.katene@ngatitoa.iwi.nz",
+  "address": {
+    "line1": "26 Ngatitoa Street",
+    "line2": " ",
+    "suburb": "Takapuwahia",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": "9429039062635",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-15T20:26:13Z"
+}

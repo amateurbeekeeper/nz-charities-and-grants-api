@@ -1,0 +1,27 @@
+{
+  "id": 70229,
+  "registrationNumber": "CC56594",
+  "name": "Pacific Cooperation Broadcasting Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pasifikatv.co.nz",
+  "email": "accounts@pcbl.co.nz",
+  "address": {
+    "line1": "1 Jervois Road",
+    "line2": "202 Ponsonby Road",
+    "suburb": "Ponsonby",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T01:11:40Z"
+}

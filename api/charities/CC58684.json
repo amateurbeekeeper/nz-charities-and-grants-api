@@ -1,0 +1,27 @@
+{
+  "id": 72296,
+  "registrationNumber": "CC58684",
+  "name": "MAR Colombia",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "andrea@bpnorth.co.nz",
+  "address": {
+    "line1": "204 Mill Road South",
+    "line2": "RD 1",
+    "suburb": "Seaward Bush",
+    "city": "Invercargill",
+    "postcode": "9871"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61550607243901",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:39:32Z"
+}

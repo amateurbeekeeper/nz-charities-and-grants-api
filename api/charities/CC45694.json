@@ -1,0 +1,27 @@
+{
+  "id": 47195,
+  "registrationNumber": "CC45694",
+  "name": "Queenstown Climbing Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2019-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://queenstownclimbing.com",
+  "email": "bawood13@gmail.com",
+  "address": {
+    "line1": "17 Hackett Road",
+    "line2": "RD 1",
+    "suburb": "Jacks Point",
+    "city": "Queenstown",
+    "postcode": "9371"
+  },
+  "nzbn": "9429043185153",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T23:41:24Z"
+}

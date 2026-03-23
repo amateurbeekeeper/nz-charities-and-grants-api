@@ -1,0 +1,27 @@
+{
+  "id": 77816,
+  "registrationNumber": "CC63615",
+  "name": "Ashhurst Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-12-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ashhurstcommunitytrust.org.nz",
+  "email": "richard@icona.co.nz",
+  "address": {
+    "line1": "141 Harrisons Line",
+    "line2": "RD 10",
+    "suburb": "Ashhurst",
+    "city": "Palmerston North",
+    "postcode": "4470"
+  },
+  "nzbn": "9429043259540",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ashhurst Community Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-29T06:46:39Z"
+}

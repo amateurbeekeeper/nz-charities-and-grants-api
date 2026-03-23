@@ -1,0 +1,27 @@
+{
+  "id": 39835,
+  "registrationNumber": "CC25886",
+  "name": "Age Concern Whanganui Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.acwhanganui.org.nz",
+  "email": "manager@acwhanganui.org.nz",
+  "address": {
+    "line1": "164 St Hill Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042576358",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AgeConcernWhanganui/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-06T19:29:05Z"
+}

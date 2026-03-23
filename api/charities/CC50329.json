@@ -1,0 +1,27 @@
+{
+  "id": 34070,
+  "registrationNumber": "CC50329",
+  "name": "The Kids for Kids Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kidsforkids.org.nz",
+  "email": "sarah@kidsforkids.org.nz",
+  "address": {
+    "line1": "20 Copsey Place",
+    "line2": "77 Woodfern Crescent",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KidsforKidsNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-17T19:26:50Z"
+}

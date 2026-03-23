@@ -1,0 +1,27 @@
+{
+  "id": 67781,
+  "registrationNumber": "CC54086",
+  "name": "The New Zealand College of Chiropractic Centre for Chiropractic Research Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-12-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.chiropractic.ac.nz",
+  "email": "nadesan.nanthakumar@nzchiro.co.nz",
+  "address": {
+    "line1": "6 Harrison Road",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429045860225",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/chiropractic.research/?rc=p",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:21Z"
+}

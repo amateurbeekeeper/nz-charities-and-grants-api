@@ -1,0 +1,27 @@
+{
+  "id": 72785,
+  "registrationNumber": "CC59175",
+  "name": "Abbeyfield Hawkes Bay Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.abbeyfield.org.nz",
+  "email": "office@abbeyfield.org.nz",
+  "address": {
+    "line1": "719 Tuki Tuki Road",
+    "line2": "RD 12",
+    "suburb": "Tuki Tuki",
+    "city": "Havelock North",
+    "postcode": "4294"
+  },
+  "nzbn": "9429049235487",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T22:05:22Z"
+}

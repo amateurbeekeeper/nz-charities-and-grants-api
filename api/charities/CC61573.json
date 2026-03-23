@@ -1,0 +1,27 @@
+{
+  "id": 75138,
+  "registrationNumber": "CC61573",
+  "name": "CCBC NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ccbchurchnz@gmail.com",
+  "address": {
+    "line1": "4 Cataluna Place",
+    "line2": " ",
+    "suburb": "Hei Hei",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T03:36:08Z"
+}

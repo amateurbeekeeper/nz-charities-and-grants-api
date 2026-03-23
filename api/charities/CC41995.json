@@ -1,0 +1,27 @@
+{
+  "id": 48575,
+  "registrationNumber": "CC41995",
+  "name": "Tomarata Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-20T00:00:00Z",
+  "website": null,
+  "email": "tomarata@playcentre.org.nz",
+  "address": {
+    "line1": "619 School Road",
+    "line2": "RD 4",
+    "suburb": " ",
+    "city": "Wellsford",
+    "postcode": "974"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T07:13:43Z"
+}

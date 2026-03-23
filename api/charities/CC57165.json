@@ -1,0 +1,27 @@
+{
+  "id": 70788,
+  "registrationNumber": "CC57165",
+  "name": "Queenstown Robotics",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-07-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://robostormers.nz",
+  "email": "robostormers@gmail.com",
+  "address": {
+    "line1": "Unit 3",
+    "line2": "70 Glenda Drive",
+    "suburb": "Frankton",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429047222182",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/QueenstownRoboStormers/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-01-15T02:51:49Z"
+}

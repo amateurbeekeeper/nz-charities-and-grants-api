@@ -1,0 +1,27 @@
+{
+  "id": 59721,
+  "registrationNumber": "CC35080",
+  "name": "Edendale Christian Assembly",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "johnoferg@xtra.co.nz",
+  "address": {
+    "line1": "10 George Street",
+    "line2": "Edendale 9825",
+    "suburb": " ",
+    "city": "Edendale",
+    "postcode": "9825"
+  },
+  "nzbn": "9429042704683",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T01:31:04Z"
+}

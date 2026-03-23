@@ -1,0 +1,27 @@
+{
+  "id": 32919,
+  "registrationNumber": "CC48985",
+  "name": "CAPITAL GYMNASTIC CLUB INCORPORATED",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.capitalgymsports.org.nz",
+  "email": "manager@capitalgymnastics.nz",
+  "address": {
+    "line1": "11 Hutchison Road",
+    "line2": "11 Hutchison Road",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429042603856",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CapitalGymSports/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T21:39:00Z"
+}

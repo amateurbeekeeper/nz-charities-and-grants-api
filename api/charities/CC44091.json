@@ -1,0 +1,27 @@
+{
+  "id": 64076,
+  "registrationNumber": "CC44091",
+  "name": "Coast Families Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.coastfamilies.co.nz",
+  "email": "coastfamiliestrust@gmail.com",
+  "address": {
+    "line1": "733-735 Whangaparaoa Road",
+    "line2": " ",
+    "suburb": "Stanmore Bay",
+    "city": "Whangaparaoa",
+    "postcode": "0930"
+  },
+  "nzbn": "9429043207350",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T01:02:54Z"
+}

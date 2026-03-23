@@ -1,0 +1,27 @@
+{
+  "id": 43207,
+  "registrationNumber": "CC39478",
+  "name": "Te Aroha Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-11-22T00:00:00Z",
+  "website": null,
+  "email": "te.aroha@playcentre.org.nz",
+  "address": {
+    "line1": "Terminus Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Aroha",
+    "postcode": "3320"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T06:03:43Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75415,
+  "registrationNumber": "CC61860",
+  "name": "Ngāti Kurī Marae Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurer@temataipa.org.nz",
+  "address": {
+    "line1": "49 McMeeking Road",
+    "line2": "RD 6",
+    "suburb": "Rangiuru",
+    "city": "Te Puke",
+    "postcode": "3188"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T02:00:41Z"
+}

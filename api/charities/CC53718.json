@@ -1,0 +1,27 @@
+{
+  "id": 67429,
+  "registrationNumber": "CC53718",
+  "name": "The Joinery Training Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Allison@masterjoiners.co.nz",
+  "address": {
+    "line1": "262 Thorndon Quay",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043292103",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "N/A",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2025-10-04T21:50:36Z"
+}

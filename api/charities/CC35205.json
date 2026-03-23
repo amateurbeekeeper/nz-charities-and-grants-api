@@ -1,0 +1,27 @@
+{
+  "id": 58143,
+  "registrationNumber": "CC35205",
+  "name": "Te Hauora o Turanganui a Kiwa Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.turangahealth.co.nz",
+  "email": "braxton.mchugh@turangahealth.co.nz",
+  "address": {
+    "line1": "145 Derby Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429038304149",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/turangahealth/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T18:07:03Z"
+}

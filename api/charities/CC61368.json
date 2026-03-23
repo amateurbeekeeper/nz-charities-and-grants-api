@@ -1,0 +1,27 @@
+{
+  "id": 74951,
+  "registrationNumber": "CC61368",
+  "name": "Primary Health Initiative",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "yii@phi.org.nz",
+  "address": {
+    "line1": "Level 5 - Citigroup Centre",
+    "line2": "23 Customs Street East",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:33:34Z"
+}

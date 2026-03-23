@@ -1,0 +1,27 @@
+{
+  "id": 39038,
+  "registrationNumber": "CC22166",
+  "name": "North Harbour Budgeting Services Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nhbudgeting.org.nz",
+  "email": "shane.cuthbert@nhbudgeting.org.nz",
+  "address": {
+    "line1": "LION FOUNDATION HOUSE",
+    "line2": "3 William Laurie Place",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429043004874",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "North Harbour Budgeting Services Inc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T04:48:21Z"
+}

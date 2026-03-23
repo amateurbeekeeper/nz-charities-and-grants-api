@@ -1,0 +1,27 @@
+{
+  "id": 74447,
+  "registrationNumber": "CC60866",
+  "name": "Auckland Home Birth Association",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ahba.org.nz",
+  "email": "contact@ahba.org.nz",
+  "address": {
+    "line1": "24 Enderby Drive",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429050952380",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/AKLHomeBirthCommunity",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T19:00:18Z"
+}

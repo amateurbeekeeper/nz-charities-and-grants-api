@@ -1,0 +1,27 @@
+{
+  "id": 65350,
+  "registrationNumber": "CC51581",
+  "name": "Te Kakano Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tekakanomarae.com",
+  "email": "chumtewhata@hotmail.com",
+  "address": {
+    "line1": "136 Randwick Road",
+    "line2": " ",
+    "suburb": "Moera",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:53:50Z"
+}

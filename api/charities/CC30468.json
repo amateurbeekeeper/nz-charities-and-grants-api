@@ -1,0 +1,27 @@
+{
+  "id": 52864,
+  "registrationNumber": "CC30468",
+  "name": "Waikato Students' Union Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wsu.org.nz",
+  "email": "westd@wsu.org.nz",
+  "address": {
+    "line1": "SUB, Gate 1",
+    "line2": " Knighton Road",
+    "suburb": "Hillcrest",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429042889687",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T22:13:52Z"
+}

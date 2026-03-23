@@ -1,0 +1,27 @@
+{
+  "id": 74920,
+  "registrationNumber": "CC61348",
+  "name": "Centre for the Great Turning",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.centreforthegreatturning.org/",
+  "email": "jaimeopeningminds@gmail.com",
+  "address": {
+    "line1": "23 Lloyd Valley Road",
+    "line2": "RD 1",
+    "suburb": "Thorpe",
+    "city": "Motueka",
+    "postcode": "7196"
+  },
+  "nzbn": null,
+  "financialYearEnd": "1/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/jaimecentreforthegreatturning/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-15T19:28:45Z"
+}

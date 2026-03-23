@@ -1,0 +1,27 @@
+{
+  "id": 76058,
+  "registrationNumber": "CC62503",
+  "name": "Tadpole Theatre Productions Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tadpoleproductions.co.nz",
+  "email": "diana@dpal.co.nz",
+  "address": {
+    "line1": "50 Paritai Drive",
+    "line2": " ",
+    "suburb": "Orakei",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T20:03:40Z"
+}

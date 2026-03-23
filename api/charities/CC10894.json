@@ -1,0 +1,27 @@
+{
+  "id": 52650,
+  "registrationNumber": "CC10894",
+  "name": "Tiaho Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tiaho.org.nz",
+  "email": "jonny@tiaho.org.nz",
+  "address": {
+    "line1": "3-5 Hunt Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "0140"
+  },
+  "nzbn": "9429043004942",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/Tiaho-Trust-",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-23T00:39:44Z"
+}

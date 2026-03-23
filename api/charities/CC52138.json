@@ -1,0 +1,27 @@
+{
+  "id": 65877,
+  "registrationNumber": "CC52138",
+  "name": "Rotorua Rowing Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.rotoruarowing.org.nz",
+  "email": "sharonmmorrell@gmail.com",
+  "address": {
+    "line1": "1 Mataiawhea Street",
+    "line2": " ",
+    "suburb": "Ohinemutu",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042798767",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RotoruaRowingClub/about/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T02:14:02Z"
+}

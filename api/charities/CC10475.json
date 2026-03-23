@@ -1,0 +1,27 @@
+{
+  "id": 51140,
+  "registrationNumber": "CC10475",
+  "name": "Parent Help Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-06-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.parenthelp.org.nz",
+  "email": "treasurer@parenthelp.org.nz",
+  "address": {
+    "line1": "44 Wainui Road",
+    "line2": " ",
+    "suburb": "Waiwhetu",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429042801931",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T04:38:47Z"
+}

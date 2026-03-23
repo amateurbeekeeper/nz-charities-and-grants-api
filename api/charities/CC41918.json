@@ -1,0 +1,27 @@
+{
+  "id": 50775,
+  "registrationNumber": "CC41918",
+  "name": "Social Innovation Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-08-26T00:00:00Z",
+  "dateDeregistered": "2014-05-25T00:00:00Z",
+  "website": "http://www.socialinnovation.org.nz",
+  "email": "info@socialinnovation.org.nz",
+  "address": {
+    "line1": "85 Albany Street",
+    "line2": null,
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043202362",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:15:57Z"
+}

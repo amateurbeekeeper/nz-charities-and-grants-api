@@ -1,0 +1,27 @@
+{
+  "id": 74411,
+  "registrationNumber": "CC60823",
+  "name": "Age Concern Waikato Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-12-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ageconcernwaikato.org.nz",
+  "email": "vicky@ageconcernwaikato.org.nz",
+  "address": {
+    "line1": "150 Grantham Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429050997138",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ageconcernwaikato",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:34:41Z"
+}

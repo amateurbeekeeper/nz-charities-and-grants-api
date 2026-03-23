@@ -1,0 +1,27 @@
+{
+  "id": 74605,
+  "registrationNumber": "CC61020",
+  "name": "Tai Timu Tai Pari Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-12-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tttp.co.nz/",
+  "email": "william.kaipo@tttp.co.nz",
+  "address": {
+    "line1": "33 Robert Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429050114658",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/taitimutaipari",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:34:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 57705,
+  "registrationNumber": "CC26932",
+  "name": "Orewa Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.occ.net.nz",
+  "email": "office@occ.net.nz",
+  "address": {
+    "line1": "235 Hibiscus Coast Highway",
+    "line2": null,
+    "suburb": " ",
+    "city": "Red Beach",
+    "postcode": "932"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T03:03:20Z"
+}

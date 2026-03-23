@@ -1,0 +1,27 @@
+{
+  "id": 35535,
+  "registrationNumber": "CC44639",
+  "name": "Bayfair Foodbank Garden",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2023-06-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ian@ianharmstrong.com",
+  "address": {
+    "line1": "Villa 220",
+    "line2": "Bethlehem Shores",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T01:24:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52923,
+  "registrationNumber": "CC21285",
+  "name": "Orakei Marina Management Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.orakeimarina.co.nz",
+  "email": "helenftrainer@gmail.com",
+  "address": {
+    "line1": "Pier D, Orakei Marina",
+    "line2": "10-12 Tamaki Drive",
+    "suburb": "Orakei",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429043106868",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T18:02:59Z"
+}

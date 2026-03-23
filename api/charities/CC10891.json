@@ -1,0 +1,27 @@
+{
+  "id": 52121,
+  "registrationNumber": "CC10891",
+  "name": "Radio Ngati Porou Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.radiongatiporou.co.nz",
+  "email": "manager@radiongatiporou.co.nz",
+  "address": {
+    "line1": "161 Waiomatatini Road",
+    "line2": "Ruatoria 4032",
+    "suburb": " ",
+    "city": "Ruatoria",
+    "postcode": "4032"
+  },
+  "nzbn": "9429042811862",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T18:01:43Z"
+}

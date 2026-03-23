@@ -1,0 +1,27 @@
+{
+  "id": 52398,
+  "registrationNumber": "CC10756",
+  "name": "New Zealand Veterinary Association Foundation For Continuing Education",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2007-08-02T00:00:00Z",
+  "dateDeregistered": "2019-06-10T00:00:00Z",
+  "website": "http://www.nzva.org.nz",
+  "email": "elise.adams@vets.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "44 Victoria Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042687429",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-07-03T20:36:20Z"
+}

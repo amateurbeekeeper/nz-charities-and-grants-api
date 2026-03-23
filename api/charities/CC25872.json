@@ -1,0 +1,27 @@
+{
+  "id": 57546,
+  "registrationNumber": "CC25872",
+  "name": "Chequers Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "brownsbay@sba.co.nz",
+  "address": {
+    "line1": "15 Tipu Crescent",
+    "line2": "Wainui 0932",
+    "suburb": "Browns Bay",
+    "city": "Wainui",
+    "postcode": "0932"
+  },
+  "nzbn": "9429042607496",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:21:24Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34923,
+  "registrationNumber": "CC49448",
+  "name": "Valley School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "valleypta@hotmail.com",
+  "address": {
+    "line1": "42 East Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:14:18Z"
+}

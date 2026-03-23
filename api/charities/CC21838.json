@@ -1,0 +1,27 @@
+{
+  "id": 56460,
+  "registrationNumber": "CC21838",
+  "name": "Karamea Historical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.karameainfo.co.nz",
+  "email": "karameamuseum@gmail.com",
+  "address": {
+    "line1": "Karamea Historical Society",
+    "line2": "Waverly Street",
+    "suburb": " ",
+    "city": "Karamea",
+    "postcode": "7864"
+  },
+  "nzbn": "9429043034376",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Karamea Centennial Museum",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T00:43:25Z"
+}

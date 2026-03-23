@@ -1,0 +1,27 @@
+{
+  "id": 67128,
+  "registrationNumber": "CC53409",
+  "name": "Kingdomcity New Zealand Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kingdomcity.com",
+  "email": "miji.lee@kingdomcity.com",
+  "address": {
+    "line1": "2-20 The Warehouse Way",
+    "line2": " ",
+    "suburb": "Northcote ",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429043306961",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T21:18:44Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 45113,
+  "registrationNumber": "CC32885",
+  "name": "West End Rowing Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.werc.co.nz",
+  "email": "clubcaptain@werc.co.nz",
+  "address": {
+    "line1": "26 Saunders Place",
+    "line2": "26 Saunders Place",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429042912316",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WestEndRowingClub/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-15T21:30:59Z"
+}

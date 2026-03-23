@@ -1,0 +1,27 @@
+{
+  "id": 77536,
+  "registrationNumber": "CC63333",
+  "name": "Active Apirana",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "buzzyintheburbs@gmail.com",
+  "address": {
+    "line1": "3 Truman Street",
+    "line2": null,
+    "suburb": "Saint Johns",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-09T21:04:58Z"
+}

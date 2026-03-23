@@ -1,0 +1,27 @@
+{
+  "id": 40482,
+  "registrationNumber": "CC30110",
+  "name": "New Zealand Schools Debating Council Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.debating.org.nz",
+  "email": "president@debating.org.nz",
+  "address": {
+    "line1": "Unit 3",
+    "line2": "124 Campbell Street",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429042927280",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzschoolsdebating/",
+    "twitter": "https://twitter.com/nzsdc"
+  },
+  "lastUpdated": "2026-01-22T04:16:10Z"
+}

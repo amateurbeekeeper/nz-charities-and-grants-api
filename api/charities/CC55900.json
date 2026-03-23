@@ -1,0 +1,27 @@
+{
+  "id": 69554,
+  "registrationNumber": "CC55900",
+  "name": "U3A Nelson Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.u3anelson.org.nz",
+  "email": "secretary@u3anelson.org.nz",
+  "address": {
+    "line1": "21 Seymour Avenue",
+    "line2": " ",
+    "suburb": "The Brook",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043291939",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-02T19:36:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50964,
+  "registrationNumber": "CC45660",
+  "name": "Te Kauri Marae Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-11-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.naumaiplace.com/tekauri",
+  "email": "billtekaurimarae@gmail.com",
+  "address": {
+    "line1": "163 Hetherington Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Huntly",
+    "postcode": "3772"
+  },
+  "nzbn": "9429044473709",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/tekaurimarae2019/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T02:37:57Z"
+}

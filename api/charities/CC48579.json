@@ -1,0 +1,27 @@
+{
+  "id": 32866,
+  "registrationNumber": "CC48579",
+  "name": "St Andrews Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.standrewscentre.org.nz/index.php/sact.html",
+  "email": "Richard@gibbonsconsulting.co.nz",
+  "address": {
+    "line1": "85 Queen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waiuku",
+    "postcode": "2123"
+  },
+  "nzbn": "9429043243273",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T03:36:28Z"
+}

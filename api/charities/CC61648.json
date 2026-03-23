@@ -1,0 +1,27 @@
+{
+  "id": 75214,
+  "registrationNumber": "CC61648",
+  "name": "Te Manawa o Cambridge Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cherese.eriepa@outlook.com",
+  "address": {
+    "line1": "27 Jarrett Terrace",
+    "line2": " ",
+    "suburb": "Leamington",
+    "city": "Cambridge",
+    "postcode": "3432"
+  },
+  "nzbn": "9429051156657",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/temanawaocambridge",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-03T20:44:52Z"
+}

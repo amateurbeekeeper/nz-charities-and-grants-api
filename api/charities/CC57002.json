@@ -1,0 +1,27 @@
+{
+  "id": 70633,
+  "registrationNumber": "CC57002",
+  "name": "Bucklands Beach Ohui-a-Rangi Playcentre ",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-09-23T00:00:00Z",
+  "dateDeregistered": "2025-08-05T00:00:00Z",
+  "website": "Playcentre.org.nz",
+  "email": "bucklandsbeach.ohui-a-rangi@playcentre.org.nz",
+  "address": {
+    "line1": "50 The Parade",
+    "line2": " ",
+    "suburb": "Bucklands Beach",
+    "city": "Auckland",
+    "postcode": "2012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-19T07:17:43Z"
+}

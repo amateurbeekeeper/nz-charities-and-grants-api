@@ -1,0 +1,27 @@
+{
+  "id": 32860,
+  "registrationNumber": "CC48656",
+  "name": "Porirua Church of Christ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-12-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "poriruachurch.com",
+  "email": "jaypahetogia@gmail.com",
+  "address": {
+    "line1": "27A Mungavin Avenue",
+    "line2": "73 Kenepuru Drive",
+    "suburb": "Ranui",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/poriruachurchofchrist",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:18:39Z"
+}

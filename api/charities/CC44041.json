@@ -1,0 +1,27 @@
+{
+  "id": 42969,
+  "registrationNumber": "CC44041",
+  "name": "Hutt Repertory Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.huttrep.co.nz",
+  "email": "max.webb@huttrep.co.nz",
+  "address": {
+    "line1": "108 Oxford Terrace",
+    "line2": " ",
+    "suburb": "Epuni",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429042671046",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HuttRep",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T05:03:33Z"
+}

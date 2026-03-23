@@ -1,0 +1,27 @@
+{
+  "id": 50011,
+  "registrationNumber": "CC38483",
+  "name": "Pukeroa Hangatiki Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "amanda@mkf.co.nz",
+  "address": {
+    "line1": "954 Mangarino Road",
+    "line2": "Hangatiki 3986",
+    "suburb": " ",
+    "city": "Hangatiki",
+    "postcode": "3986"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T23:51:40Z"
+}

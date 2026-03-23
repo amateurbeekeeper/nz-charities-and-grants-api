@@ -1,0 +1,27 @@
+{
+  "id": 69349,
+  "registrationNumber": "CC55700",
+  "name": "315 Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "Churchnorthwest.nz",
+  "email": "hamish@churchnorthwest.nz",
+  "address": {
+    "line1": "10 Bellamont Street",
+    "line2": "Kumeu 0810",
+    "suburb": "Kumeū",
+    "city": "Kumeu",
+    "postcode": "0810"
+  },
+  "nzbn": "9429046714701",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T06:45:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51133,
+  "registrationNumber": "CC11230",
+  "name": "The Densem Animal Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "funding@publictrust.co.nz",
+  "address": {
+    "line1": "Level 2, Public Trust Tower",
+    "line2": "22 Willeston Street",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:25:38Z"
+}

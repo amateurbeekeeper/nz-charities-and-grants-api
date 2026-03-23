@@ -1,0 +1,27 @@
+{
+  "id": 34706,
+  "registrationNumber": "CC51109",
+  "name": "East Lake Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-10-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "steve@wakefieldservices.co.nz",
+  "address": {
+    "line1": "PO Box 945",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": "9429043284023",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-01T04:30:26Z"
+}

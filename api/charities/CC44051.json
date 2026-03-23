@@ -1,0 +1,27 @@
+{
+  "id": 50472,
+  "registrationNumber": "CC44051",
+  "name": "Kingdom Generation Apostolic Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-04-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "aroha.tepaiho@gmail.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "60 Moncrieff Avenue",
+    "suburb": "Clendon Park",
+    "city": "Auckland",
+    "postcode": "2103"
+  },
+  "nzbn": "9429043211975",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-04T07:49:53Z"
+}

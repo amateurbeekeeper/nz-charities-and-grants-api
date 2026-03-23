@@ -1,0 +1,27 @@
+{
+  "id": 39811,
+  "registrationNumber": "CC23107",
+  "name": "Lane Park Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.laneparkchurch.nz",
+  "email": "Anita@laneparkchurch.nz",
+  "address": {
+    "line1": "22 Lane Street",
+    "line2": " ",
+    "suburb": "Wallaceville",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429042871392",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T19:04:14Z"
+}

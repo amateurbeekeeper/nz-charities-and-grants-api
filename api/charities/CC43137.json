@@ -1,0 +1,27 @@
+{
+  "id": 64011,
+  "registrationNumber": "CC43137",
+  "name": "The Osteoporosis New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.osteoporosis.org.nz",
+  "email": "john.mulka@osteoporosis.org.nz",
+  "address": {
+    "line1": "125 Hornsey Road",
+    "line2": " ",
+    "suburb": "Melrose",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429043208470",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/osteoporosisnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:32:23Z"
+}

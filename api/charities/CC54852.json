@@ -1,0 +1,27 @@
+{
+  "id": 68520,
+  "registrationNumber": "CC54852",
+  "name": "Palmerston North Surf Life Saving Club Inc",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pnsurfacc@gmail.com",
+  "address": {
+    "line1": "Koputara Road",
+    "line2": "Himatangi Beach 4891",
+    "suburb": " ",
+    "city": "Himatangi Beach",
+    "postcode": "4891"
+  },
+  "nzbn": "9429042819462",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PalmerstonNorthSurfLifesavingClub/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T03:26:04Z"
+}

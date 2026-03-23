@@ -1,0 +1,27 @@
+{
+  "id": 62678,
+  "registrationNumber": "CC43375",
+  "name": "Swim Waikato Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.swimmingwaikato.co.nz",
+  "email": "angeline@swimmingwaikato.co.nz",
+  "address": {
+    "line1": "Brian Perry Sports House, 51 Akoranga Road",
+    "line2": " ",
+    "suburb": "Avalon",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429042889700",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T18:52:00Z"
+}

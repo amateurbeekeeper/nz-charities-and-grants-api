@@ -1,0 +1,27 @@
+{
+  "id": 41015,
+  "registrationNumber": "CC37503",
+  "name": "Martinborough Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.martinboroughgolfclub.co.nz",
+  "email": "accounts@mgcgolf.nz",
+  "address": {
+    "line1": "52 Todds Road",
+    "line2": "Martinborough 5711",
+    "suburb": " ",
+    "city": "Martinborough",
+    "postcode": "5711"
+  },
+  "nzbn": "9429042761396",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T00:13:02Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33030,
+  "registrationNumber": "CC48749",
+  "name": "Mahanaim Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bpitchford@matmed.co.nz",
+  "address": {
+    "line1": "11 Elizabeth Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Matamata",
+    "postcode": "3400"
+  },
+  "nzbn": "9429043150915",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T06:14:57Z"
+}

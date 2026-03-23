@@ -1,0 +1,27 @@
+{
+  "id": 42624,
+  "registrationNumber": "CC42685",
+  "name": "Waiheke Mooring Holders Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "waiheke@bysea.co.nz",
+  "address": {
+    "line1": "UNIT E",
+    "line2": "102 Ostend Road",
+    "suburb": "Ostend",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429043112135",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waiheke Mooring Holders Society",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T01:36:44Z"
+}

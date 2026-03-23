@@ -1,0 +1,27 @@
+{
+  "id": 72970,
+  "registrationNumber": "CC59363",
+  "name": "Bee Awesome Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.beeawesome.co.nz",
+  "email": "queenbee@beeawesome.co.nz",
+  "address": {
+    "line1": "322 Stanmore Road",
+    "line2": " ",
+    "suburb": "Richmond",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "6704295942904",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Bee AwesomeNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T01:46:43Z"
+}

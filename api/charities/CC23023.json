@@ -1,0 +1,27 @@
+{
+  "id": 39330,
+  "registrationNumber": "CC23023",
+  "name": "Cancer Society of New Zealand, Gisborne East Coast Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chris.franklyn@cancercd.org.nz",
+  "address": {
+    "line1": "718 Gladstone Road",
+    "line2": "Gisborne Hospital",
+    "suburb": "Te Hapara",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042854890",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CancersocietyGISEC/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:40:04Z"
+}

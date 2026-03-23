@@ -1,0 +1,27 @@
+{
+  "id": 58368,
+  "registrationNumber": "CC26000",
+  "name": "The New Zealand Futures Trust Board",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": "2016-02-11T00:00:00Z",
+  "website": "http://www.futurestrust.org.nz",
+  "email": "info@futurestrust.org.nz",
+  "address": {
+    "line1": "5 Wentworth Park",
+    "line2": null,
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429042709251",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:29:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33781,
+  "registrationNumber": "CC49999",
+  "name": "Dance & Arts Therapy NZ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-11-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dancetherapy.co.nz",
+  "email": "operations@dancetherapy.co.nz",
+  "address": {
+    "line1": "Onehunga Community Centre, 83 Church Street",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043252855",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/danceartstherapynz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T23:42:04Z"
+}

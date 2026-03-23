@@ -1,0 +1,27 @@
+{
+  "id": 60525,
+  "registrationNumber": "CC28608",
+  "name": "Hamilton North Community Patrol Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cpnz.org.nz",
+  "email": "hamiltonnorth@cpnz.org.nz",
+  "address": {
+    "line1": "1158 River Road",
+    "line2": " ",
+    "suburb": "Flagstaff",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429043291267",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T02:21:55Z"
+}

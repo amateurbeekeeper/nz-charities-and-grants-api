@@ -1,0 +1,27 @@
+{
+  "id": 65503,
+  "registrationNumber": "CC51737",
+  "name": "Dunedin South Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dspc@xtra.co.nz",
+  "address": {
+    "line1": "395 King Edward Street",
+    "line2": " ",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-25T05:36:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74367,
+  "registrationNumber": "CC60775",
+  "name": "Pakuranga Heights School PTA",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta@pakurangaheights.school.nz",
+  "address": {
+    "line1": "77 Udys Road",
+    "line2": " ",
+    "suburb": "Pakuranga",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PakurangaHeights/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T01:06:39Z"
+}

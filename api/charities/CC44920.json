@@ -1,0 +1,27 @@
+{
+  "id": 43535,
+  "registrationNumber": "CC44920",
+  "name": "Molten Media Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-08-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.molten.org.nz",
+  "email": "rudy@molten.org.nz",
+  "address": {
+    "line1": "Unit 5",
+    "line2": "10 Acheron Drive",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042764434",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:41:33Z"
+}

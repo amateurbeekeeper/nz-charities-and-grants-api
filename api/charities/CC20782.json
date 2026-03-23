@@ -1,0 +1,27 @@
+{
+  "id": 53567,
+  "registrationNumber": "CC20782",
+  "name": "Waimate District Resource Trust Inc",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.communitylinkwaimate.org",
+  "email": "jakki@communitylinkwaimate.co.nz",
+  "address": {
+    "line1": "1 Glasgow Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waimate",
+    "postcode": "7924"
+  },
+  "nzbn": "9429042881360",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WaimateCommunity",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T03:40:22Z"
+}

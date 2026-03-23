@@ -1,0 +1,27 @@
+{
+  "id": 55125,
+  "registrationNumber": "CC22989",
+  "name": "Swimming Taranaki Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-04-14T00:00:00Z",
+  "dateDeregistered": "2015-11-26T00:00:00Z",
+  "website": "http://www.taranakiswimming.co.nz",
+  "email": "taranakiswimming@gmail.com",
+  "address": {
+    "line1": "8 Aotea Street",
+    "line2": null,
+    "suburb": "Welbourn",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429042984207",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:10:00Z"
+}

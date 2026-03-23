@@ -1,0 +1,27 @@
+{
+  "id": 40290,
+  "registrationNumber": "CC26372",
+  "name": "The Methodist Church Of New Zealand Te Haahi Weteriana O Aotearoa Beckenham - Sydenham Parish - Parish (8090)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.methodist.org.nz",
+  "email": "beckenham.treasurer@methodist.org.nz",
+  "address": {
+    "line1": "83 Malcolm Ave",
+    "line2": " ",
+    "suburb": "Beckenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T18:51:44Z"
+}

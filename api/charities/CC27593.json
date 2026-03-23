@@ -1,0 +1,27 @@
+{
+  "id": 58868,
+  "registrationNumber": "CC27593",
+  "name": "Massey University Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://foundation.massey.ac.nz",
+  "email": "m.a.murdoch@massey.ac.nz",
+  "address": {
+    "line1": "Massey University",
+    "line2": "Social Science Tower, Level 2",
+    "suburb": "Tennent Drive",
+    "city": "Palmerston North",
+    "postcode": "4442"
+  },
+  "nzbn": "9429043170173",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T02:08:36Z"
+}

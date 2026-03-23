@@ -1,0 +1,27 @@
+{
+  "id": 54185,
+  "registrationNumber": "CC20898",
+  "name": "C3 Hope Chapel",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hopechapel.nz",
+  "email": "joel@hopechapel.nz",
+  "address": {
+    "line1": "142 Grey Street",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429042611066",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hopechapelnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T03:17:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 45791,
+  "registrationNumber": "CC41066",
+  "name": "New Zealand College Of Midwives Otago",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gkbrownlie@gmail.com",
+  "address": {
+    "line1": "82 Kaikorai Valley Road",
+    "line2": "RD 1",
+    "suburb": "Kaikorai",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T19:25:38Z"
+}

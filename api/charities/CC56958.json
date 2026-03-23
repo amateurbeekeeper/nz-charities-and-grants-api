@@ -1,0 +1,27 @@
+{
+  "id": 70598,
+  "registrationNumber": "CC56958",
+  "name": "Te Kiwi Māia Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tekiwimaia.co.nz",
+  "email": "rebecca@rebeccanelson.co.nz",
+  "address": {
+    "line1": "PO Box 463",
+    "line2": "Shortland Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1140"
+  },
+  "nzbn": "9429051667030",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TeKiwiMaia/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T01:30:47Z"
+}

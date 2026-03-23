@@ -1,0 +1,27 @@
+{
+  "id": 70071,
+  "registrationNumber": "CC56430",
+  "name": "Brunner Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jordan.kennedy@fireandemergency.nz",
+  "address": {
+    "line1": "4 Manawatu Street",
+    "line2": " ",
+    "suburb": "Dobson",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:05:04Z"
+}

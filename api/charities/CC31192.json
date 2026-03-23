@@ -1,0 +1,27 @@
+{
+  "id": 48038,
+  "registrationNumber": "CC31192",
+  "name": "The Mt Albert Community Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mtalbertcommunityclub.com",
+  "email": "mtalbertclub@gmail.com",
+  "address": {
+    "line1": "831 New North Road",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042785729",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-31T02:27:38Z"
+}

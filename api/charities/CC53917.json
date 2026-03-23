@@ -1,0 +1,27 @@
+{
+  "id": 67611,
+  "registrationNumber": "CC53917",
+  "name": "ATAMU EFKS Porirua Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.atamu.org.nz",
+  "email": "Eirenei@atamu.org.nz",
+  "address": {
+    "line1": "11 Waihemo Street",
+    "line2": " ",
+    "suburb": "Waitangirua",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429053179531",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/atamuincorp",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T01:32:40Z"
+}

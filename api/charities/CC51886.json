@@ -1,0 +1,27 @@
+{
+  "id": 65640,
+  "registrationNumber": "CC51886",
+  "name": "St James Presbyterian Church Wanganui East",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stjameswanganui.nz",
+  "email": "n.hooker@xtra.co.nz",
+  "address": {
+    "line1": "42 Helmore Street",
+    "line2": " ",
+    "suburb": "Wanganui East",
+    "city": "Wanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/stjameswanganuieast",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T20:21:35Z"
+}

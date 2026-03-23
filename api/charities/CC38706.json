@@ -1,0 +1,27 @@
+{
+  "id": 59382,
+  "registrationNumber": "CC38706",
+  "name": "The General Trust Board of the Diocese of Auckland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "llu@trustmanagement.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "105 Carlton Gore Road",
+    "suburb": "Newmarket",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042626862",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T03:04:04Z"
+}

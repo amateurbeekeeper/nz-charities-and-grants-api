@@ -1,0 +1,27 @@
+{
+  "id": 52042,
+  "registrationNumber": "CC11045",
+  "name": "Midlands Health Network Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.midlandshn.health.nz",
+  "email": "liz.miller@pinnacle.health.nz",
+  "address": {
+    "line1": "NORRIS WARD MCKINNON BUILDING",
+    "line2": "711 Victoria Street",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429039327475",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T19:45:36Z"
+}

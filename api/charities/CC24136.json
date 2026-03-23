@@ -1,0 +1,27 @@
+{
+  "id": 41262,
+  "registrationNumber": "CC24136",
+  "name": "I Have A Dream Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ihaveadream.org.nz",
+  "email": "scott@gilmour.kiwi",
+  "address": {
+    "line1": "c/o Tikipunga Primary School",
+    "line2": "11 Tania Place",
+    "suburb": "Tikipunga",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429043023004",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ihaveadreamNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-29T19:27:36Z"
+}

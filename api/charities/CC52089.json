@@ -1,0 +1,27 @@
+{
+  "id": 65829,
+  "registrationNumber": "CC52089",
+  "name": "East Taieri Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.etchurch.co.nz",
+  "email": "manager@etchurch.co.nz",
+  "address": {
+    "line1": "12A Cemetery Road",
+    "line2": " ",
+    "suburb": "East Taieri",
+    "city": "Mosgiel",
+    "postcode": "9024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T02:06:35Z"
+}

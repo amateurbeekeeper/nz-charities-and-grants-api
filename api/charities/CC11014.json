@@ -1,0 +1,27 @@
+{
+  "id": 52803,
+  "registrationNumber": "CC11014",
+  "name": "Samoan New Testament Church of God",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "f.tili@xtra.co.nz",
+  "address": {
+    "line1": "87 Mount Wellington Highway",
+    "line2": "Weymouth Road",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429043178698",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Samoan New Testament Church",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-09T05:31:53Z"
+}

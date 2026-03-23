@@ -1,0 +1,27 @@
+{
+  "id": 75829,
+  "registrationNumber": "CC62290",
+  "name": "Enrich Group Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rebecca.baldwin@enrichgroup.org.nz",
+  "address": {
+    "line1": "48 Teasdale Street",
+    "line2": "Te Awamutu 3800",
+    "suburb": "Hamilton Central",
+    "city": "Te Awamutu",
+    "postcode": "3800"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T23:23:36Z"
+}

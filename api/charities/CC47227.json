@@ -1,0 +1,27 @@
+{
+  "id": 36508,
+  "registrationNumber": "CC47227",
+  "name": "The New Zealand Lily Society  Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-01-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.lovelilies.nz",
+  "email": "hello@lovelilies.nz",
+  "address": {
+    "line1": "138 Old West Coast Road",
+    "line2": "RD 6",
+    "suburb": "Yaldhurst",
+    "city": "Christchurch",
+    "postcode": "7676"
+  },
+  "nzbn": "9429043187928",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T22:13:51Z"
+}

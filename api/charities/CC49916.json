@@ -1,0 +1,27 @@
+{
+  "id": 33655,
+  "registrationNumber": "CC49916",
+  "name": "Geoscience Dream Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2022-10-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.engeo.co.nz",
+  "email": "rbaddeley@engeo.co.nz",
+  "address": {
+    "line1": "124 Montreal Street",
+    "line2": " ",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T22:53:12Z"
+}

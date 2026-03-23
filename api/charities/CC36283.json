@@ -1,0 +1,27 @@
+{
+  "id": 40816,
+  "registrationNumber": "CC36283",
+  "name": "The Royal Life Saving Society New Zealand",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2011-06-01T00:00:00Z",
+  "website": "http://www.lifesaver",
+  "email": null,
+  "address": {
+    "line1": "LEVEL 4 TUC HOUSE",
+    "line2": "199 Armagh Street",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:33:54Z"
+}

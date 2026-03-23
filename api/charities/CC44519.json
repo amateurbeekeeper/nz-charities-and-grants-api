@@ -1,0 +1,27 @@
+{
+  "id": 62997,
+  "registrationNumber": "CC44519",
+  "name": "Biological Husbandry Unit Organics Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bhu.org.nz",
+  "email": "admin@bhu.org.nz",
+  "address": {
+    "line1": "Farm Road",
+    "line2": "Lincoln University",
+    "suburb": "Lincoln ",
+    "city": "Christchurch",
+    "postcode": "7640"
+  },
+  "nzbn": "9429042983101",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/bhuorg/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T00:31:54Z"
+}

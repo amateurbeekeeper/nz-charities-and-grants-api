@@ -1,0 +1,27 @@
+{
+  "id": 60531,
+  "registrationNumber": "CC37607",
+  "name": "Kahungunu Asset Holding Company Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kahc.co.nz",
+  "email": "kahc@kahungunu.iwi.nz",
+  "address": {
+    "line1": "Level 1, Taikura House  ",
+    "line2": "304 Fitzroy Ave",
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429034779989",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:01:03Z"
+}

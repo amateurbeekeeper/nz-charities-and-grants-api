@@ -1,0 +1,27 @@
+{
+  "id": 42644,
+  "registrationNumber": "CC39250",
+  "name": "Te Puke Karanga Hauora Health Clinic",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "daniel@balanceca.nz",
+  "address": {
+    "line1": "C/- WAIMARINO HEALTH CENTRE",
+    "line2": "22 Seddon Street",
+    "suburb": " ",
+    "city": "Raetihi",
+    "postcode": "4632"
+  },
+  "nzbn": "9429042943617",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-11-26T01:21:52Z"
+}

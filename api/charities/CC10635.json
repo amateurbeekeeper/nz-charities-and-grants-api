@@ -1,0 +1,27 @@
+{
+  "id": 52210,
+  "registrationNumber": "CC10635",
+  "name": "The Hutt Valley Theatre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ruthsarratt@gmail.com",
+  "address": {
+    "line1": "90 Fraser Crescent",
+    "line2": null,
+    "suburb": " ",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429042970781",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T06:19:35Z"
+}

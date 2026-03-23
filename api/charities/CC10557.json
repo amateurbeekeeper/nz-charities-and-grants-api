@@ -1,0 +1,27 @@
+{
+  "id": 51797,
+  "registrationNumber": "CC10557",
+  "name": "The StarJam Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.starjam.org",
+  "email": "accounts@starjam.org",
+  "address": {
+    "line1": "630c Great South Rd",
+    "line2": "Ellerslie",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429043022007",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/starjam",
+    "twitter": "@StarJam"
+  },
+  "lastUpdated": "2025-12-08T21:29:19Z"
+}

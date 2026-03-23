@@ -1,0 +1,27 @@
+{
+  "id": 55274,
+  "registrationNumber": "CC22006",
+  "name": "Whangarei Volunteer Coastguard Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "coastguard.nz",
+  "email": "Whangarei.secretary@coastguard.nz",
+  "address": {
+    "line1": "Shop 9",
+    "line2": "30 Rauiri Drive",
+    "suburb": "One Tree Point",
+    "city": "One Tree Point",
+    "postcode": "0118"
+  },
+  "nzbn": "9429043012534",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T18:57:40Z"
+}

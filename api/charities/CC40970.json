@@ -1,0 +1,27 @@
+{
+  "id": 62473,
+  "registrationNumber": "CC40970",
+  "name": "Family Safety Services Incorporated",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-06-30T00:00:00Z",
+  "website": "https://www.familysafetyservices.co.nz",
+  "email": "manager@frst.co.nz",
+  "address": {
+    "line1": "PO Box 358",
+    "line2": null,
+    "suburb": " ",
+    "city": "Thames",
+    "postcode": "3540"
+  },
+  "nzbn": "9429042749127",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T07:11:14Z"
+}

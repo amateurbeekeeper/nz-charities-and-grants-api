@@ -1,0 +1,27 @@
+{
+  "id": 49444,
+  "registrationNumber": "CC28650",
+  "name": "Papamoa Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cassandra.nelson@fireandemergency.nz",
+  "address": {
+    "line1": "50 Parton Road",
+    "line2": " ",
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PapamoaFire",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T01:08:22Z"
+}

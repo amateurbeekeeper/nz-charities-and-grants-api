@@ -1,0 +1,27 @@
+{
+  "id": 40445,
+  "registrationNumber": "CC30057",
+  "name": "Wanganui Community Sports Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.whanganuisportscentre.org.nz",
+  "email": "comsports@xtra.co.nz",
+  "address": {
+    "line1": "222 London Street",
+    "line2": " ",
+    "suburb": " Springvale ",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429042836254",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T03:38:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70516,
+  "registrationNumber": "CC56882",
+  "name": "Teramon",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://teramon.com",
+  "email": "trent@teramon.com",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "6 Frederick Street",
+    "suburb": " ",
+    "city": "Carterton",
+    "postcode": "5713"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "http://facebook.com/teramonofficial",
+    "twitter": "http://twitter.com/teramonofficial"
+  },
+  "lastUpdated": "2026-01-13T22:26:36Z"
+}

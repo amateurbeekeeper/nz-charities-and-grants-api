@@ -1,0 +1,27 @@
+{
+  "id": 51620,
+  "registrationNumber": "CC10362",
+  "name": "Waimate Community Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "begg.jsc@gmail.com",
+  "address": {
+    "line1": "12 Gorge Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waimate",
+    "postcode": "7924"
+  },
+  "nzbn": "9429043038497",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T18:57:47Z"
+}

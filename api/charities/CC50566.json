@@ -1,0 +1,27 @@
+{
+  "id": 34275,
+  "registrationNumber": "CC50566",
+  "name": "New Zealand Charitable Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "uwe@boma.co.nz",
+  "address": {
+    "line1": "6 Cebel Place",
+    "line2": " ",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T01:51:53Z"
+}

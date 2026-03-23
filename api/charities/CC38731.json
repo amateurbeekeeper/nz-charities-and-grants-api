@@ -1,0 +1,27 @@
+{
+  "id": 47096,
+  "registrationNumber": "CC38731",
+  "name": "Taupo Sculpture Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tauposculpturetrust.co.nz",
+  "email": "tsttaupo@gmail.com",
+  "address": {
+    "line1": "4 Gillies Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429043090853",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Taupo Sculpture Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T23:29:08Z"
+}

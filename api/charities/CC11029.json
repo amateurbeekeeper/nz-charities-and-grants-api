@@ -1,0 +1,27 @@
+{
+  "id": 52829,
+  "registrationNumber": "CC11029",
+  "name": "Drug And Alcohol Support Taupo Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.arccounsellingservices.com",
+  "email": "manager@arctpo.co.nz",
+  "address": {
+    "line1": "67 Paora Hapi Street",
+    "line2": "Taupo 3330",
+    "suburb": " ",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429042645641",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/arctaupo",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T19:18:12Z"
+}

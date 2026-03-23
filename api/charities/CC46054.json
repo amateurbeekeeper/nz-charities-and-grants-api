@@ -1,0 +1,27 @@
+{
+  "id": 36153,
+  "registrationNumber": "CC46054",
+  "name": "Wellington Inter-Faith Council Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-01-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.interfaith.org.nz",
+  "email": "pushpa.wood@gmail.com",
+  "address": {
+    "line1": "20 Rolleston Street",
+    "line2": " ",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043192519",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Wellington-Interfaith-Community-173916806148316/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T21:34:40Z"
+}

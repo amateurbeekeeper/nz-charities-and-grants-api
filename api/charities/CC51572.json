@@ -1,0 +1,27 @@
+{
+  "id": 65343,
+  "registrationNumber": "CC51572",
+  "name": "Make Foundation",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://makefoundation.org",
+  "email": "michel_alkhouri@mac.com",
+  "address": {
+    "line1": "185 Happy Valley Road",
+    "line2": " ",
+    "suburb": "Owhiro Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/www.makefoundation.org/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-13T03:35:39Z"
+}

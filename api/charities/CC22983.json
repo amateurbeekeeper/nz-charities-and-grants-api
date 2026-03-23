@@ -1,0 +1,27 @@
+{
+  "id": 39499,
+  "registrationNumber": "CC22983",
+  "name": "Whanganui Central Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.centralbaptist.org.nz",
+  "email": "office@centralbaptist.org.nz",
+  "address": {
+    "line1": "285 Wicksteed Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/wcbchurch",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T00:16:04Z"
+}

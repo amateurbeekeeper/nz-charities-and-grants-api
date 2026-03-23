@@ -1,0 +1,27 @@
+{
+  "id": 57488,
+  "registrationNumber": "CC25947",
+  "name": "The Kristin Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kristin.school.nz",
+  "email": "nwilkinson@kristin.school.nz",
+  "address": {
+    "line1": "360 Albany Highway",
+    "line2": " ",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429043044856",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T21:00:49Z"
+}

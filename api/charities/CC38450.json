@@ -1,0 +1,27 @@
+{
+  "id": 44035,
+  "registrationNumber": "CC38450",
+  "name": "Paterson Street Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-06-09T00:00:00Z",
+  "website": null,
+  "email": "patersonstreet@playcentre.org.nz",
+  "address": {
+    "line1": "40 Paterson Street",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PatersonStreetPlaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-23T07:13:34Z"
+}

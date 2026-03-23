@@ -1,0 +1,27 @@
+{
+  "id": 42092,
+  "registrationNumber": "CC38988",
+  "name": "Raglan Surf Life Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.raglansurflifesaving.org.nz",
+  "email": "treasurer@raglansurflifesaving.org.nz",
+  "address": {
+    "line1": "Ngarunui Beach Road",
+    "line2": "Wainui Reserve",
+    "suburb": " ",
+    "city": "Raglan",
+    "postcode": "3225"
+  },
+  "nzbn": "9429042734604",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T03:59:44Z"
+}

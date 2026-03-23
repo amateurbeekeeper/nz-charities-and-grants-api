@@ -1,0 +1,27 @@
+{
+  "id": 66092,
+  "registrationNumber": "CC52357",
+  "name": "Home Grown Waiheke Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://homegrownwaiheke.nz",
+  "email": "homegrownwaiheke@gmail.com",
+  "address": {
+    "line1": "70 O'Brien Road",
+    "line2": " ",
+    "suburb": "Ōmiha",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429043272167",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HomeGrownWaiheke",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:43:23Z"
+}

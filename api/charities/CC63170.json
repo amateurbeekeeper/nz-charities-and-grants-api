@@ -1,0 +1,27 @@
+{
+  "id": 77296,
+  "registrationNumber": "CC63170",
+  "name": "Te Awahou Foxton Waka Ama",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://teawahouwakaama.nz",
+  "email": "teawahouwakaama@gmail.com",
+  "address": {
+    "line1": "11 Ladys Mile",
+    "line2": null,
+    "suburb": " ",
+    "city": "Foxton",
+    "postcode": "4814"
+  },
+  "nzbn": "9429052168116",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/teawahouwakaama",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T18:06:15Z"
+}

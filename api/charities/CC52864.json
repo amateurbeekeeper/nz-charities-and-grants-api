@@ -1,0 +1,27 @@
+{
+  "id": 66593,
+  "registrationNumber": "CC52864",
+  "name": "Table Tennis Nelson Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2016-01-27T00:00:00Z",
+  "dateDeregistered": "2018-09-29T00:00:00Z",
+  "website": "http://www.tabletennisnelson.org.nz/",
+  "email": "tt.nelson@xtra.co.nz",
+  "address": {
+    "line1": "142 Saxton Road East",
+    "line2": "Stoke",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429042675785",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/TableTennisNelsonPage/",
+    "twitter": null
+  },
+  "lastUpdated": "2019-03-18T23:45:26Z"
+}

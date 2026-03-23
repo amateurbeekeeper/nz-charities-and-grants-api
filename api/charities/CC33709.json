@@ -1,0 +1,27 @@
+{
+  "id": 43686,
+  "registrationNumber": "CC33709",
+  "name": "Baptist Bible Church Wellington",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bbcw.org.nz",
+  "email": "church@baptistbiblewellington.org.nz",
+  "address": {
+    "line1": "20 Cashew Street",
+    "line2": " ",
+    "suburb": "Grenada North",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": "9429042593409",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-06T03:20:46Z"
+}

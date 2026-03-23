@@ -1,0 +1,27 @@
+{
+  "id": 60204,
+  "registrationNumber": "CC28088",
+  "name": "Nelson Film Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nelsonfilmsociety.org.nz",
+  "email": "hallamzqn@gmail.com",
+  "address": {
+    "line1": "4 Orakei Street",
+    "line2": " ",
+    "suburb": "Tahunanui",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429043114153",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-14T23:09:25Z"
+}

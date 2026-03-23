@@ -1,0 +1,27 @@
+{
+  "id": 56189,
+  "registrationNumber": "CC25465",
+  "name": "Friends of the Knox College Library Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-07T00:00:00Z",
+  "dateDeregistered": "2020-05-01T00:00:00Z",
+  "website": "https://hewitson.mykoha.co.nz/",
+  "email": "Jane.thomsen@prcknox.org.nz",
+  "address": {
+    "line1": "Knox College",
+    "line2": "1 Arden Street",
+    "suburb": "Opoho",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": "9429042702801",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-05-05T07:00:37Z"
+}

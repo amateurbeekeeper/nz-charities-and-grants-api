@@ -1,0 +1,27 @@
+{
+  "id": 40755,
+  "registrationNumber": "CC31126",
+  "name": "Murchison Sport, Recreation And Cultural Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://murchisoncentre.co.nz",
+  "email": "murchison.centre@gmail.com",
+  "address": {
+    "line1": "82 Waller Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Murchison",
+    "postcode": "7007"
+  },
+  "nzbn": "9429043001774",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Murchison Sport, Recreation & Cultural Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T21:40:59Z"
+}

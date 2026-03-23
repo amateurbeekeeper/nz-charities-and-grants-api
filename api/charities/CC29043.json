@@ -1,0 +1,27 @@
+{
+  "id": 60045,
+  "registrationNumber": "CC29043",
+  "name": "Rotary Club of Napier Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rotarynapier.org",
+  "email": "ewan.gardiner@gkl.co.nz",
+  "address": {
+    "line1": "50A Ossian Street",
+    "line2": "Level 1, 15 Shakespeare Road",
+    "suburb": "Ahuriri",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429043181445",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T23:05:50Z"
+}

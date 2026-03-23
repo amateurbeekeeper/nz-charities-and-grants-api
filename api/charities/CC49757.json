@@ -1,0 +1,27 @@
+{
+  "id": 33593,
+  "registrationNumber": "CC49757",
+  "name": "Wellington Land Search and Rescue Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-09-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.landsarwellington.org.nz",
+  "email": "cameron.fuller@landsarwellington.org",
+  "address": {
+    "line1": "19 Kings Crescent",
+    "line2": " Suite 6, Tawa Community Centre",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429043248421",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LandsarWellington/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T09:34:22Z"
+}

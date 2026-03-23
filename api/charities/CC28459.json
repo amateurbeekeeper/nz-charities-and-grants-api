@@ -1,0 +1,27 @@
+{
+  "id": 60687,
+  "registrationNumber": "CC28459",
+  "name": "The House of Breakthrough Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.houseofbreakthrough.com",
+  "email": "lance@hob.nz",
+  "address": {
+    "line1": "7 Potae Avenue",
+    "line2": " ",
+    "suburb": "Lytton West",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429043164868",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:50:14Z"
+}

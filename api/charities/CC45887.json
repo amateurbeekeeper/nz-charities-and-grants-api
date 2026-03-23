@@ -1,0 +1,27 @@
+{
+  "id": 38232,
+  "registrationNumber": "CC45887",
+  "name": "Auckland Music Theatre  Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-12-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandmusictheatre.nz",
+  "email": "lis.carroll@aucklandmusictheatre.nz",
+  "address": {
+    "line1": "190 Meola Road",
+    "line2": "98 Motions Road",
+    "suburb": "Western Springs",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429042585954",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T00:55:38Z"
+}

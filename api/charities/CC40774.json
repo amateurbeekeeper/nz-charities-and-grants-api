@@ -1,0 +1,27 @@
+{
+  "id": 42703,
+  "registrationNumber": "CC40774",
+  "name": "The Gift Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thegifttrust.org.nz",
+  "email": "cheryl@thegifttrust.org.nz",
+  "address": {
+    "line1": "Level 4",
+    "line2": "265 Wakefield Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043100934",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T23:18:49Z"
+}

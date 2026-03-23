@@ -1,0 +1,27 @@
+{
+  "id": 65550,
+  "registrationNumber": "CC51785",
+  "name": "Coptic Orthodox Church, New Zealand Parish of St. George, Timaru",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "st.george.coptic.church@gmail.com",
+  "address": {
+    "line1": "2 Elizabeth Place",
+    "line2": "Timaru 7910",
+    "suburb": " ",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429043260065",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T18:06:51Z"
+}

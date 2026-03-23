@@ -1,0 +1,27 @@
+{
+  "id": 40209,
+  "registrationNumber": "CC21899",
+  "name": "Life Education Trust Canterbury",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://lifeeducationcanterbury.org.nz/",
+  "email": "canterbury@lifeedtrust.org.nz",
+  "address": {
+    "line1": "22 Moorhouse Avenue",
+    "line2": " Level 3",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042950196",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T19:36:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54710,
+  "registrationNumber": "CC24822",
+  "name": "Think Tank Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://temukarau.nz/",
+  "email": "kate@thinktank.co.nz",
+  "address": {
+    "line1": "19 Beere Haven Road",
+    "line2": " ",
+    "suburb": "Seatoun",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429043001583",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T03:32:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50745,
+  "registrationNumber": "CC41749",
+  "name": "CREATION MINISTRIES INTERNATIONAL HAMILTON SUPPORT GROUP",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-08-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://creation.com",
+  "email": "info@cmihamilton.nz",
+  "address": {
+    "line1": "27 Cooper Place",
+    "line2": " ",
+    "suburb": "Chedworth",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://facebook.com/creationministries",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T00:21:36Z"
+}

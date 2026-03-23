@@ -1,0 +1,27 @@
+{
+  "id": 66942,
+  "registrationNumber": "CC53230",
+  "name": "The Catholic Parish of Te Ngakau Tapu",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "g.burns@wn.catholic.org.nz",
+  "address": {
+    "line1": "22 Hill Street",
+    "line2": "Marion Square",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429049984484",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-31T00:36:23Z"
+}

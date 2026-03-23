@@ -1,0 +1,27 @@
+{
+  "id": 52185,
+  "registrationNumber": "CC11108",
+  "name": "The Theatre Royal Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "drew@itr.co.nz",
+  "address": {
+    "line1": "145 Gloucester Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042847786",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-06T23:54:26Z"
+}

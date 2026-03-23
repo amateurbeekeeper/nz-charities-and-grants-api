@@ -1,0 +1,27 @@
+{
+  "id": 68013,
+  "registrationNumber": "CC54331",
+  "name": "Kauwhata Marae",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sherylshear@hotmail.com",
+  "address": {
+    "line1": "Te Arakura Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Feilding",
+    "postcode": "4775"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T05:17:50Z"
+}

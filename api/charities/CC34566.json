@@ -1,0 +1,27 @@
+{
+  "id": 46448,
+  "registrationNumber": "CC34566",
+  "name": "Mahitahi Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2012-05-28T00:00:00Z",
+  "website": "http://www.mahitahi.co.nz",
+  "email": "phillip@mahitahi.co.nz",
+  "address": {
+    "line1": "10 Park Avenue",
+    "line2": null,
+    "suburb": "Otahuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429042933113",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:24:42Z"
+}

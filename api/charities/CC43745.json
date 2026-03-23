@@ -1,0 +1,27 @@
+{
+  "id": 50156,
+  "registrationNumber": "CC43745",
+  "name": "Mid Canterbury Rugby Union Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.midcanterburyrugby.co.nz",
+  "email": "admin@midcanterburyrugby.co.nz",
+  "address": {
+    "line1": "C/- A & P Showground",
+    "line2": "Brucefield Ave",
+    "suburb": " ",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": "9429042769002",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-15T19:37:16Z"
+}

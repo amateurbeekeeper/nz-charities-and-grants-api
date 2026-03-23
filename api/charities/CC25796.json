@@ -1,0 +1,27 @@
+{
+  "id": 58179,
+  "registrationNumber": "CC25796",
+  "name": "L'Arche Kāpiti Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://larchekapiti.org.nz ",
+  "email": "cleader1@larche.org.nz",
+  "address": {
+    "line1": "1 Te Aroha Way",
+    "line2": "Paraparaumu 5032",
+    "suburb": " ",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429042923404",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/larchekapitinz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T02:51:24Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65810,
+  "registrationNumber": "CC52061",
+  "name": "Howick Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.howpres.org.nz",
+  "email": "treasurer@howpres.org.nz",
+  "address": {
+    "line1": "11 Vincent Street",
+    "line2": " ",
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": "9429049876536",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T21:08:50Z"
+}

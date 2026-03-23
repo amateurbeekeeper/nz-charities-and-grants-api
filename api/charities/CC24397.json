@@ -1,0 +1,27 @@
+{
+  "id": 42320,
+  "registrationNumber": "CC24397",
+  "name": "E M Burgess Estate",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "glenn@sthl.co.nz",
+  "address": {
+    "line1": "162 Wicksteed Street",
+    "line2": "Whanganui 4500",
+    "suburb": "Otamatea",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-01T20:31:54Z"
+}

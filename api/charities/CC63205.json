@@ -1,0 +1,27 @@
+{
+  "id": 77361,
+  "registrationNumber": "CC63205",
+  "name": "Avian Empire Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.avianempire.co.nz/",
+  "email": "charitable.trust@avianempire.co.nz",
+  "address": {
+    "line1": "36 Owens Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waiuku",
+    "postcode": "2123"
+  },
+  "nzbn": "9429052595196",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T23:02:13Z"
+}

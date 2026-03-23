@@ -1,0 +1,27 @@
+{
+  "id": 66168,
+  "registrationNumber": "CC52438",
+  "name": "Bronchiectasis Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-07-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bronchiectasisfoundation.org.nz",
+  "email": "asadlier@northtec.ac.nz",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "193 Fairway Drive",
+    "suburb": "Te Kamo",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429043289165",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-13T02:44:21Z"
+}

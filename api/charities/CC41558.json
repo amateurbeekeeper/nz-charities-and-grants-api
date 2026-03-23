@@ -1,0 +1,27 @@
+{
+  "id": 40141,
+  "registrationNumber": "CC41558",
+  "name": "Porangahau Country Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://porangahaucountryclub.co.nz/",
+  "email": "porangahaucountryclub@gmail.com",
+  "address": {
+    "line1": "627 Beach Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Porangahau",
+    "postcode": "4293"
+  },
+  "nzbn": "9429042809111",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T00:59:08Z"
+}

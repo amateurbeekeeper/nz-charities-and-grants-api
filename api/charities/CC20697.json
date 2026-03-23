@@ -1,0 +1,27 @@
+{
+  "id": 52976,
+  "registrationNumber": "CC20697",
+  "name": "Capital Blues Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "karl@jla.co.nz",
+  "address": {
+    "line1": "C/O-JLA  PO Box 6850",
+    "line2": "Marion Square",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6141"
+  },
+  "nzbn": "9429043032891",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T00:49:41Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70573,
+  "registrationNumber": "CC56931",
+  "name": "Veterans Cricket New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.vcnz.org",
+  "email": "webmaster@vcnz.org",
+  "address": {
+    "line1": "PO Box 10107",
+    "line2": "The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6143"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T03:54:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 77741,
+  "registrationNumber": "CC63539",
+  "name": "Citizens of the Sea",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.citizensofthesea.org",
+  "email": "adele@citizensofthesea.org",
+  "address": {
+    "line1": "c/o Cawthron Insitute",
+    "line2": "98 Halifax St East",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T05:50:08Z"
+}

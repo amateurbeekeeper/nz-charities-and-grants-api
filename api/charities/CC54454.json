@@ -1,0 +1,27 @@
+{
+  "id": 68130,
+  "registrationNumber": "CC54454",
+  "name": "Radio Active Charitable Trust ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.radioactive.fm",
+  "email": "ross@radioactive.fm",
+  "address": {
+    "line1": "Level One",
+    "line2": " 40 Taranaki Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429046098207",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "radioactive.fm",
+    "twitter": "@radioactive.fm"
+  },
+  "lastUpdated": "2025-12-01T18:04:50Z"
+}

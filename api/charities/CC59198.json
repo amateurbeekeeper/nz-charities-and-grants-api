@@ -1,0 +1,27 @@
+{
+  "id": 72806,
+  "registrationNumber": "CC59198",
+  "name": "Food for Faith Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://foodforfaith.org.nz",
+  "email": "cmgibbs543@gmail.com",
+  "address": {
+    "line1": "65B Wai-Iti Crescent",
+    "line2": " ",
+    "suburb": "Woburn",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429049944051",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Food for Faith",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:04:05Z"
+}

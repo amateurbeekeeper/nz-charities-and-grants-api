@@ -1,0 +1,27 @@
+{
+  "id": 35365,
+  "registrationNumber": "CC49649",
+  "name": "Edith's Garden Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-08-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "elder_clan@yahoo.com",
+  "address": {
+    "line1": "38 Rawhitiroa Road",
+    "line2": " ",
+    "suburb": "Kohimarama",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429043251827",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Ediths-Garden-188116354677863/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T23:57:41Z"
+}

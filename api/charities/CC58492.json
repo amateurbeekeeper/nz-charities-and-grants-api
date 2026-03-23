@@ -1,0 +1,27 @@
+{
+  "id": 72110,
+  "registrationNumber": "CC58492",
+  "name": "Te Pahī o Āio Nuku",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-10-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kaitiaki@aionuku.nz",
+  "address": {
+    "line1": "43 Wrights Road",
+    "line2": null,
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429048554077",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Aio.nuku",
+    "twitter": null
+  },
+  "lastUpdated": "2024-12-07T04:59:47Z"
+}

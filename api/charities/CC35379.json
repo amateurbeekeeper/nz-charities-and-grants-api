@@ -1,0 +1,27 @@
+{
+  "id": 61604,
+  "registrationNumber": "CC35379",
+  "name": "Waitara Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "karl.shaw@fireandemergency.nz",
+  "address": {
+    "line1": "46 Grey Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waitara",
+    "postcode": "4320"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-04T23:01:42Z"
+}

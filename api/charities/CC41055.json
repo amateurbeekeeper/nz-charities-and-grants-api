@@ -1,0 +1,27 @@
+{
+  "id": 42728,
+  "registrationNumber": "CC41055",
+  "name": "Te Kotahitanga O Ngāti Whakaue Assets Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://whakaue.com",
+  "email": "candice@whakaueassets.com",
+  "address": {
+    "line1": "1268 Arawa Street",
+    "line2": "Rotorua 3010",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429043186891",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ngatiwhakaueassetstrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T03:06:57Z"
+}

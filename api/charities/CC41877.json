@@ -1,0 +1,27 @@
+{
+  "id": 44956,
+  "registrationNumber": "CC41877",
+  "name": "Te Ahiwaru Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2021-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.teahiwaru.co.nz",
+  "email": "nihia@teahiwaru.co.nz",
+  "address": {
+    "line1": "PO Box 53100",
+    "line2": "Auckland Airport",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2150"
+  },
+  "nzbn": "9429043123995",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/TeAhiwaruTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T00:40:12Z"
+}

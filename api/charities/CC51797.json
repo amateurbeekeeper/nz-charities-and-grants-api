@@ -1,0 +1,27 @@
+{
+  "id": 65548,
+  "registrationNumber": "CC51797",
+  "name": "Taranaki Biodiversity Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wildfortaranaki.nz ",
+  "email": "danielle@wildfortaranaki.nz",
+  "address": {
+    "line1": "47 Ocean View Parade",
+    "line2": "Stratford 4332",
+    "suburb": "Port Taranaki",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043275762",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wildfortaranakinz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T21:59:41Z"
+}

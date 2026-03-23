@@ -1,0 +1,27 @@
+{
+  "id": 32722,
+  "registrationNumber": "CC48230",
+  "name": "Life In Vacant Spaces Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-09-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.livs.org.nz",
+  "email": "bbeck@accounting.co.nz",
+  "address": {
+    "line1": "6 Show Place",
+    "line2": " ",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T00:10:06Z"
+}

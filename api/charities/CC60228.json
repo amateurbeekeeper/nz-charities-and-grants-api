@@ -1,0 +1,27 @@
+{
+  "id": 73762,
+  "registrationNumber": "CC60228",
+  "name": "Project Full Circle Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.projectfc.org.nz",
+  "email": "robyn@projectfc.org.nz",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "464 Adelaide Road",
+    "suburb": "Berhampore",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Project Full Circle ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:16:32Z"
+}

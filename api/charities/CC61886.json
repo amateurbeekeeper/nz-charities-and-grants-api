@@ -1,0 +1,27 @@
+{
+  "id": 75443,
+  "registrationNumber": "CC61886",
+  "name": "Rip and River Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ripandriver.com",
+  "email": "Karl@hydroverse.co.nz",
+  "address": {
+    "line1": "15 Totara Road",
+    "line2": " ",
+    "suburb": "Stanmore Bay",
+    "city": "Whangaparaoa",
+    "postcode": "0932"
+  },
+  "nzbn": "9429047735712",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T22:04:29Z"
+}

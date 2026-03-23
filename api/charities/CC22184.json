@@ -1,0 +1,27 @@
+{
+  "id": 41368,
+  "registrationNumber": "CC22184",
+  "name": "Life Education Trust Central Plateau",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lifeeducation.org.nz",
+  "email": "centralplateau@lifeedtrust.org.nz",
+  "address": {
+    "line1": "PO Box 1581",
+    "line2": " ",
+    "suburb": null,
+    "city": "Taupo",
+    "postcode": "3351"
+  },
+  "nzbn": "9429043028238",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T03:03:37Z"
+}

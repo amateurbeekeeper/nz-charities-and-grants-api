@@ -1,0 +1,27 @@
+{
+  "id": 40939,
+  "registrationNumber": "CC32537",
+  "name": "The New Zealand Comedy Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://comedytrust.org.nz/ and https://comedyfestival.co.nz",
+  "email": "info@comedyfestival.co.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "321 Queen Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042588092",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top/?q=nz%20international%20comedy%20festival",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T00:44:04Z"
+}

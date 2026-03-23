@@ -1,0 +1,27 @@
+{
+  "id": 32682,
+  "registrationNumber": "CC48192",
+  "name": "Multiples NZ Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-09-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.multiples.org.nz",
+  "email": "President@multiples.org.nz",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "45D Swanson Road",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429042711407",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/multiples.org.nz/",
+    "twitter": "https://twitter.com/multiplesnz?lang=en"
+  },
+  "lastUpdated": "2026-02-06T00:02:47Z"
+}

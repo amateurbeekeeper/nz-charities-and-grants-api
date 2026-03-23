@@ -1,0 +1,27 @@
+{
+  "id": 71199,
+  "registrationNumber": "CC57574",
+  "name": "Kiwigrass Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-11-03T00:00:00Z",
+  "dateDeregistered": "2023-03-20T00:00:00Z",
+  "website": "https://kiwigrass.nz",
+  "email": "jenine@kiwigrass.nz",
+  "address": {
+    "line1": "124 Ti Point Road",
+    "line2": "RD 5",
+    "suburb": "Ti Point",
+    "city": "Warkworth",
+    "postcode": "0985"
+  },
+  "nzbn": "9429047495418",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/kiwigrass/",
+    "twitter": null
+  },
+  "lastUpdated": "2023-03-20T01:54:08Z"
+}

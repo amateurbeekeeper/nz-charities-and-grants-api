@@ -1,0 +1,27 @@
+{
+  "id": 45178,
+  "registrationNumber": "CC33786",
+  "name": "Massey Archery Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.masseyarchery.org.nz",
+  "email": "macnz.treasurer@gmail.com",
+  "address": {
+    "line1": "167 Annett Road",
+    "line2": "Waimauku 0891",
+    "suburb": " Massey",
+    "city": "Waimauku",
+    "postcode": "0891"
+  },
+  "nzbn": "9429042742999",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Massey Archery Club Inc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-05T19:56:44Z"
+}

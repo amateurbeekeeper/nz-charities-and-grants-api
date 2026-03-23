@@ -1,0 +1,27 @@
+{
+  "id": 62420,
+  "registrationNumber": "CC35924",
+  "name": "Weatherstons Brewery and Daffodils Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-12-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "quentin@xtra.co.nz",
+  "address": {
+    "line1": "9 Harrington Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Lawrence",
+    "postcode": "9532"
+  },
+  "nzbn": "9429043181841",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T20:55:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63853,
+  "registrationNumber": "CC40124",
+  "name": "AL HIKMAH TRUST",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.alhikmah.org.nz",
+  "email": "r_najm@hotmail.com",
+  "address": {
+    "line1": "187-189 Queen Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043091362",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/AlhikmahTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:22:40Z"
+}

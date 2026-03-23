@@ -1,0 +1,27 @@
+{
+  "id": 74140,
+  "registrationNumber": "CC60546",
+  "name": "Develop Together",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "aj@arotahi.org.nz",
+  "address": {
+    "line1": "1-7 Marewa Road",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:04:15Z"
+}

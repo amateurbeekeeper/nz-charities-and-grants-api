@@ -1,0 +1,27 @@
+{
+  "id": 73880,
+  "registrationNumber": "CC60304",
+  "name": "Tasman Bay Blues Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tasmanbayblues.co.nz",
+  "email": "annie@tasmanbayblues.co.nz",
+  "address": {
+    "line1": "31 Walters Bluff",
+    "line2": " ",
+    "suburb": "Atawhai",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Tasman Bay Blues Club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T00:57:23Z"
+}

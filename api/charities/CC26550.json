@@ -1,0 +1,27 @@
+{
+  "id": 56038,
+  "registrationNumber": "CC26550",
+  "name": "Archer Care Facility Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-24T00:00:00Z",
+  "dateDeregistered": "2025-03-03T00:00:00Z",
+  "website": "http://www.archer.org.nz",
+  "email": "office@archer.org.nz",
+  "address": {
+    "line1": "166 Colombo Street",
+    "line2": " ",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429033330631",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T22:45:50Z"
+}

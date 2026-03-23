@@ -1,0 +1,27 @@
+{
+  "id": 51412,
+  "registrationNumber": "CC10270",
+  "name": "The Stewards' Trust of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.brethren.org.nz/",
+  "email": "jeff@stewards.org.nz",
+  "address": {
+    "line1": "7 Oak Lane",
+    "line2": "Te Puke 3119",
+    "suburb": "Judea",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042732501",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T23:23:21Z"
+}

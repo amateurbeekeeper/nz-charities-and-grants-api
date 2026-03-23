@@ -1,0 +1,27 @@
+{
+  "id": 52750,
+  "registrationNumber": "CC10965",
+  "name": "Russell Landcare Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.russelllandcare.org.nz",
+  "email": "treasurer@russelllandcare.org.nz",
+  "address": {
+    "line1": "43 Matauwhi Road",
+    "line2": "Russell 0202",
+    "suburb": " ",
+    "city": "Russell",
+    "postcode": "0202"
+  },
+  "nzbn": "9429043022793",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T04:40:23Z"
+}

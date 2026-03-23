@@ -1,0 +1,27 @@
+{
+  "id": 68129,
+  "registrationNumber": "CC54453",
+  "name": "South Waikato Pacific Islands Community Services Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.swpics.nz",
+  "email": "ceo@swpics.nz",
+  "address": {
+    "line1": "23-25 Maraetai Road",
+    "line2": "Tokoroa 3420",
+    "suburb": " ",
+    "city": "Tokoroa",
+    "postcode": "3420"
+  },
+  "nzbn": "9429043303458",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "south waikato pacific islands community servies",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:33:46Z"
+}

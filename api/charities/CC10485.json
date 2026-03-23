@@ -1,0 +1,27 @@
+{
+  "id": 51836,
+  "registrationNumber": "CC10485",
+  "name": "Every Nation Christchurch",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.everynation.org.nz",
+  "email": "vinolia.jacobs@everynation.org.nz",
+  "address": {
+    "line1": "42 Lochee Road",
+    "line2": "Upper Riccarton",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042979203",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Every Nation Christchurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:02:49Z"
+}

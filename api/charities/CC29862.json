@@ -1,0 +1,27 @@
+{
+  "id": 47643,
+  "registrationNumber": "CC29862",
+  "name": "Ashburton Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ashburtonbaptist.co.nz",
+  "email": "treasurer@ashburtonbaptist.co.nz",
+  "address": {
+    "line1": "284 Havelock Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": "9429051357511",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ashburton Baptist Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T20:05:18Z"
+}

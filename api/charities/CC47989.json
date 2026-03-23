@@ -1,0 +1,27 @@
+{
+  "id": 37188,
+  "registrationNumber": "CC47989",
+  "name": "Redeemer Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.redeemerchurch.co.nz",
+  "email": "rexfleming7@gmail.com",
+  "address": {
+    "line1": "234 Omata Road",
+    "line2": " ",
+    "suburb": "Spotswood",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T20:11:03Z"
+}

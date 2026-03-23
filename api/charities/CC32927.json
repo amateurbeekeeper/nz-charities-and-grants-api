@@ -1,0 +1,27 @@
+{
+  "id": 49875,
+  "registrationNumber": "CC32927",
+  "name": "Museums Aotearoa Te Tari o Nga Whare Taonga o Te Motu The Museums of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.museumsaotearoa.org.nz",
+  "email": "mail@museumsaotearoa.org.nz",
+  "address": {
+    "line1": "169 Tory Street",
+    "line2": "104 The Terrace",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042766513",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/museumsaotearoa/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-21T02:21:08Z"
+}

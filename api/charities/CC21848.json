@@ -1,0 +1,27 @@
+{
+  "id": 54128,
+  "registrationNumber": "CC21848",
+  "name": "Wairarapa Community Law Centre (Te Kai Whare Ture O Wairarapa)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "manager@wairarapaclc.org.nz",
+  "address": {
+    "line1": "345 Queen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429042881803",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T18:03:02Z"
+}

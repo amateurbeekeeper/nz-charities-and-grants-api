@@ -1,0 +1,27 @@
+{
+  "id": 36401,
+  "registrationNumber": "CC47610",
+  "name": "Meadowlands Multisport Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "colin@caltd.co.nz",
+  "address": {
+    "line1": "41R Meadowland Drive",
+    "line2": " ",
+    "suburb": "Somerville",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": "9429031404631",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T00:28:14Z"
+}

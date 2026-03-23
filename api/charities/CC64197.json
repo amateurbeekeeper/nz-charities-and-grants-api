@@ -1,0 +1,27 @@
+{
+  "id": 78381,
+  "registrationNumber": "CC64197",
+  "name": "Francis Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-02-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Morten@focusonproperty.co.nz",
+  "address": {
+    "line1": "11 Customs Quay",
+    "line2": null,
+    "suburb": "Ahuriri",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T04:20:09Z"
+}

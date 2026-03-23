@@ -1,0 +1,27 @@
+{
+  "id": 50075,
+  "registrationNumber": "CC43601",
+  "name": "United Rugby and Sports Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurer@unitedsports.co.nz",
+  "address": {
+    "line1": "39 Tukapa Street",
+    "line2": "Taranaki Mail Centre",
+    "suburb": "Westown",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042728801",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T00:12:15Z"
+}

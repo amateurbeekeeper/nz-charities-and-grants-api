@@ -1,0 +1,27 @@
+{
+  "id": 74405,
+  "registrationNumber": "CC60820",
+  "name": "Taskforce Kiwi",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taskforcekiwi.org",
+  "email": "richard.adams@taskforcekiwi.org",
+  "address": {
+    "line1": "56 Condell Avenue",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429051044800",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TFKiwi",
+    "twitter": "https://twitter.com/taskforcekiwi"
+  },
+  "lastUpdated": "2025-09-30T19:10:17Z"
+}

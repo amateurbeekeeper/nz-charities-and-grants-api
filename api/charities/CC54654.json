@@ -1,0 +1,27 @@
+{
+  "id": 68324,
+  "registrationNumber": "CC54654",
+  "name": "This is Fine Limited",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-06-02T00:00:00Z",
+  "dateDeregistered": "2018-03-31T00:00:00Z",
+  "website": "https://bsides.nz/",
+  "email": "sput@bsides.nz",
+  "address": {
+    "line1": "5 Jalna Avenue",
+    "line2": " ",
+    "suburb": "Khandallah",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429045883309",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-09-15T21:03:28Z"
+}

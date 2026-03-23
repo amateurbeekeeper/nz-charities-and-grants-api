@@ -1,0 +1,27 @@
+{
+  "id": 54210,
+  "registrationNumber": "CC20872",
+  "name": "Sunshine Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "sunshineservice.life",
+  "email": "sunshineservicesecretary@gmail.com",
+  "address": {
+    "line1": "389 Gladstone Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042857501",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:15:29Z"
+}

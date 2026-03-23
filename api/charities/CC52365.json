@@ -1,0 +1,27 @@
+{
+  "id": 66101,
+  "registrationNumber": "CC52365",
+  "name": "City of Sails Barbershop Chorus Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.cityofsailschorus.com",
+  "email": "richard.harker.nz@gmail.com",
+  "address": {
+    "line1": "52 Isabella Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429042613169",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cityofsailschorus",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-07T02:21:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 32970,
+  "registrationNumber": "CC49109",
+  "name": "The Puhinui Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "astrid@primaryfocus.org.nz",
+  "address": {
+    "line1": "723 Harrisville Road",
+    "line2": "RD 2",
+    "suburb": "Pukekohe East",
+    "city": "Pukekohe",
+    "postcode": "2677"
+  },
+  "nzbn": "9429043302765",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-26T01:22:57Z"
+}

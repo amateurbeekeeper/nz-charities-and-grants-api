@@ -1,0 +1,27 @@
+{
+  "id": 69410,
+  "registrationNumber": "CC55766",
+  "name": "Albany Students' Association Incorporated",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2018-07-24T00:00:00Z",
+  "dateDeregistered": "2023-03-31T00:00:00Z",
+  "website": "https://asa.ac.nz/",
+  "email": "gm@asa.ac.nz",
+  "address": {
+    "line1": "Level 2, Student Central,Gate 1,  Massey University",
+    "line2": "157 Dairy Flat Highway",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429042930709",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/albanystudents/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-07-12T01:04:43Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64881,
+  "registrationNumber": "CC43115",
+  "name": "New Zealand Association Of Scientists Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://scientists.org.nz/",
+  "email": "fiona.mcdonald@otago.ac.nz",
+  "address": {
+    "line1": "24 Evans Street",
+    "line2": " ",
+    "suburb": "Opoho",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": "9429042683605",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "@nzscientists"
+  },
+  "lastUpdated": "2026-03-05T06:06:09Z"
+}

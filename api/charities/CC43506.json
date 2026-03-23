@@ -1,0 +1,27 @@
+{
+  "id": 47024,
+  "registrationNumber": "CC43506",
+  "name": "Greenhithe Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.fire.org.nz/About-Us/All-Regions/Region%201/Pages/Greenhithe-Volunteer-Fire-Brigade.html",
+  "email": "colin@getatria.com",
+  "address": {
+    "line1": "5 Greenhithe Road",
+    "line2": " ",
+    "suburb": "Greenhithe",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429048494830",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pg/GreenhitheFire/about/?ref=page_internal",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T04:18:15Z"
+}

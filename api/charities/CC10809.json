@@ -1,0 +1,27 @@
+{
+  "id": 52022,
+  "registrationNumber": "CC10809",
+  "name": "Papamoa Baptist Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2007-08-08T00:00:00Z",
+  "dateDeregistered": "2021-03-05T00:00:00Z",
+  "website": "http://www.papamoabaptistchurch.org",
+  "email": "peter.foster@baptist.org.nz",
+  "address": {
+    "line1": "180-188 Dickson Road",
+    "line2": " ",
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "Papamoa Baptist Church",
+    "twitter": null
+  },
+  "lastUpdated": "2022-05-04T19:58:15Z"
+}

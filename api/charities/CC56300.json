@@ -1,0 +1,27 @@
+{
+  "id": 69939,
+  "registrationNumber": "CC56300",
+  "name": "Red Scare Theatre Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.redscare.co.nz/",
+  "email": "cassandra@redscare.co.nz",
+  "address": {
+    "line1": "17 Royal Street",
+    "line2": " ",
+    "suburb": "Berhampore",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429053010902",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RedScareTheatreCompany",
+    "twitter": "https://twitter.com/RedScareTheatre"
+  },
+  "lastUpdated": "2025-10-02T18:41:46Z"
+}

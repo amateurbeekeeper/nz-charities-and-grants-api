@@ -1,0 +1,27 @@
+{
+  "id": 46213,
+  "registrationNumber": "CC42360",
+  "name": "West Auckland Woodturners Guild Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wawg.co.nz",
+  "email": "treasurer@wawg.co.nz",
+  "address": {
+    "line1": "2 Rangeview Road",
+    "line2": "Sunnyvale",
+    "suburb": "Henderson",
+    "city": "Auckland City",
+    "postcode": null
+  },
+  "nzbn": "9429042908975",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T19:44:51Z"
+}

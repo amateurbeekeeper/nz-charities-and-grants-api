@@ -1,0 +1,27 @@
+{
+  "id": 70489,
+  "registrationNumber": "CC56854",
+  "name": "Te Whawhaki Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ngatangatatiaki.co.nz",
+  "email": "accounts@ngatangatatiaki.co.nz",
+  "address": {
+    "line1": "357 Victoria Avenue",
+    "line2": "Whanganui 4500",
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T19:05:05Z"
+}

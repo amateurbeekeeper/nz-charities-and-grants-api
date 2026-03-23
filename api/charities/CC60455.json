@@ -1,0 +1,27 @@
+{
+  "id": 74046,
+  "registrationNumber": "CC60455",
+  "name": "Pakihi Ora Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.pakihiora.co.nz",
+  "email": "aroha@arconsultants.co.nz",
+  "address": {
+    "line1": "1227 Ranolf Street",
+    "line2": "Rotorua 3010",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429050563784",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pakihiora",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T21:48:09Z"
+}

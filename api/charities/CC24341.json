@@ -1,0 +1,27 @@
+{
+  "id": 41355,
+  "registrationNumber": "CC24341",
+  "name": "Horizon International Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.horizon.org.nz",
+  "email": "info@horizon.org.nz",
+  "address": {
+    "line1": "9 Mono Place",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429043031771",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T18:06:02Z"
+}

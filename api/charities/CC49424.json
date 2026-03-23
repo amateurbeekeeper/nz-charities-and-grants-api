@@ -1,0 +1,27 @@
+{
+  "id": 33382,
+  "registrationNumber": "CC49424",
+  "name": "Women of Worth Charitable Company Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-02-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wow.org.nz",
+  "email": "sue@wow.org.nz",
+  "address": {
+    "line1": "27 Kings Crescent",
+    "line2": "Pinehaven",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429030483460",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Women of Worth NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-21T23:55:59Z"
+}

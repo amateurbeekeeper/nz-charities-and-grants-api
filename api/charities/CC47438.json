@@ -1,0 +1,27 @@
+{
+  "id": 36568,
+  "registrationNumber": "CC47438",
+  "name": "Dunamis Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-03-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "eric@borriegroup.co.nz",
+  "address": {
+    "line1": "23 Onerere Drive",
+    "line2": "Whitianga 3510",
+    "suburb": "Parkvale",
+    "city": "Whitianga",
+    "postcode": "3510"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T00:16:56Z"
+}

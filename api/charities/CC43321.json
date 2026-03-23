@@ -1,0 +1,27 @@
+{
+  "id": 62609,
+  "registrationNumber": "CC43321",
+  "name": "Northern Region Football Federation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nrf.org.nz",
+  "email": "debbie.barnett@nrf.org.nz",
+  "address": {
+    "line1": "Football House",
+    "line2": "North Harbour Stadium, Stadium Drive",
+    "suburb": " Albany",
+    "city": "Auckland",
+    "postcode": "0752"
+  },
+  "nzbn": "9429043074730",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@northernregionfootball",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T03:36:57Z"
+}

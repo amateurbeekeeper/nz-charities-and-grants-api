@@ -1,0 +1,27 @@
+{
+  "id": 36814,
+  "registrationNumber": "CC46451",
+  "name": "Perinatal Mental Health New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-04-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pada.nz",
+  "email": "office@pada.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "21-29 Broderick Rd",
+    "suburb": "Johnsonville",
+    "city": "Wellington",
+    "postcode": "6440"
+  },
+  "nzbn": "9429043221738",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PADA-Perinatal-Anxiety-Depression-Aotearoa-178121272272484/",
+    "twitter": "https://twitter.com/PMHNZ?lang=en"
+  },
+  "lastUpdated": "2026-01-22T04:20:20Z"
+}

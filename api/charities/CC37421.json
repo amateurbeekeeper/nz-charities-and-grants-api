@@ -1,0 +1,27 @@
+{
+  "id": 62068,
+  "registrationNumber": "CC37421",
+  "name": "Tuakau Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2021-01-30T00:00:00Z",
+  "dateDeregistered": "2025-06-04T00:00:00Z",
+  "website": null,
+  "email": "maree.ca@playcentre.org.nz",
+  "address": {
+    "line1": "Cnr Jellicoe Avenue and Henderson Street",
+    "line2": " ",
+    "suburb": "Tuakau",
+    "city": "Tuakau",
+    "postcode": "2342"
+  },
+  "nzbn": "9429042899976",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-18T07:12:03Z"
+}

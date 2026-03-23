@@ -1,0 +1,27 @@
+{
+  "id": 39376,
+  "registrationNumber": "CC37638",
+  "name": "The Leprosy Mission New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.leprosymission.org.nz",
+  "email": "martin.malkaney@leprosymission.org.nz",
+  "address": {
+    "line1": "591 Dominion Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429043066490",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/leprosymissionnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T18:33:16Z"
+}

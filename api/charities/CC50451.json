@@ -1,0 +1,27 @@
+{
+  "id": 34136,
+  "registrationNumber": "CC50451",
+  "name": "Animal Re-homing Charitable Trust ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.animalrehoming.co.nz",
+  "email": "info@animalrehoming.co.nz",
+  "address": {
+    "line1": "PO Box 35-298",
+    "line2": " ",
+    "suburb": "Browns Bay",
+    "city": "Auckland",
+    "postcode": "0753"
+  },
+  "nzbn": "9429043280391",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/animalrehomingnz  ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T20:57:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 32811,
+  "registrationNumber": "CC48853",
+  "name": "Auckland Basketball Services Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-03-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.auckland.basketball/",
+  "email": "Finance@auckland.basketball",
+  "address": {
+    "line1": "Sport Auckland House, Level 4",
+    "line2": "Gate B, Alexandra Park Function Centre, Greenlane West",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429030576322",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T01:22:06Z"
+}

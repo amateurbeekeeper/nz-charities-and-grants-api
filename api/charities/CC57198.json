@@ -1,0 +1,27 @@
+{
+  "id": 70830,
+  "registrationNumber": "CC57198",
+  "name": "Bird In A Cage Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-11-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.birdinacage.org/",
+  "email": "info@birdinacage.org",
+  "address": {
+    "line1": "34A Hansons Lane",
+    "line2": " ",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T20:21:18Z"
+}

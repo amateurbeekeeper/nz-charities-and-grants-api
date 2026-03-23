@@ -1,0 +1,27 @@
+{
+  "id": 40682,
+  "registrationNumber": "CC43106",
+  "name": "Fairtrade Australia and New Zealand Ltd",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.fairtradeanz.org",
+  "email": "honour@fairtrade.org.nz",
+  "address": {
+    "line1": "PO Box 331587",
+    "line2": " ",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0740"
+  },
+  "nzbn": "9429034668269",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FairtradeNewZealand/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T23:14:31Z"
+}

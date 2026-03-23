@@ -1,0 +1,27 @@
+{
+  "id": 41396,
+  "registrationNumber": "CC24502",
+  "name": "Hawkes Bay Redemption Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.riverbend.org.nz",
+  "email": "michaelwardinnz@gmail.com",
+  "address": {
+    "line1": "354 Te Aute Road",
+    "line2": "RD 2",
+    "suburb": "Pukahu",
+    "city": "Hastings",
+    "postcode": "4172"
+  },
+  "nzbn": "9429042954583",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T01:20:39Z"
+}

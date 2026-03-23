@@ -1,0 +1,27 @@
+{
+  "id": 74739,
+  "registrationNumber": "CC61162",
+  "name": "Village Aunties Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-02-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.villageaunties.nz/",
+  "email": "villageaunties@hotmail.com",
+  "address": {
+    "line1": "4 Chestnut Grove",
+    "line2": "RD 5",
+    "suburb": "Acacia Bay",
+    "city": "Taupo",
+    "postcode": "3385"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/VillageAuntiesTaupo",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T05:33:15Z"
+}

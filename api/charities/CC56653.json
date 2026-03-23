@@ -1,0 +1,27 @@
+{
+  "id": 70289,
+  "registrationNumber": "CC56653",
+  "name": "Friends at St Patrick's",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@spw.school.nz",
+  "address": {
+    "line1": "6 Cameron Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waimate",
+    "postcode": "7924"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T22:28:40Z"
+}

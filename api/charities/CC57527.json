@@ -1,0 +1,27 @@
+{
+  "id": 71159,
+  "registrationNumber": "CC57527",
+  "name": "Pasifika in the Bay Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.pasifikainthebay.co.nz",
+  "email": "alva@pasifikainthebay.co.nz",
+  "address": {
+    "line1": "10 Berkeley Grove",
+    "line2": " ",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429052488771",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/PasifikaBOP/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T18:06:15Z"
+}

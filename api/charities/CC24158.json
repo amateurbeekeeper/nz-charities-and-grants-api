@@ -1,0 +1,27 @@
+{
+  "id": 41744,
+  "registrationNumber": "CC24158",
+  "name": "Cool Bananas Youthwork Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.coolbananas.org.nz",
+  "email": "office@coolbananas.org.nz",
+  "address": {
+    "line1": "7 Oak Lane",
+    "line2": " ",
+    "suburb": "Judea",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042937333",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CoolBananasNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T23:38:23Z"
+}

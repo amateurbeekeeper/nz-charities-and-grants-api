@@ -1,0 +1,27 @@
+{
+  "id": 52644,
+  "registrationNumber": "CC10927",
+  "name": "The Christchurch Kidney Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://christchurchkidneysociety.co.nz",
+  "email": "christchurch.kidney.society@gmail.com",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "10 Yukon Place",
+    "suburb": "Hornby South",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429042870036",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Page ID 360954190733556",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T01:52:26Z"
+}

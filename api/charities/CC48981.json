@@ -1,0 +1,27 @@
+{
+  "id": 33427,
+  "registrationNumber": "CC48981",
+  "name": "Hector Hospital Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-03-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul@twigley.co.nz",
+  "address": {
+    "line1": "300 Richmond Road",
+    "line2": "809 Mount Eden Road",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429042643791",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-06-20T21:57:10Z"
+}

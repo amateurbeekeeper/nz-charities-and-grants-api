@@ -1,0 +1,27 @@
+{
+  "id": 34730,
+  "registrationNumber": "CC51176",
+  "name": "Featherston Camp Memorial Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2014-10-13T00:00:00Z",
+  "dateDeregistered": "2024-06-30T00:00:00Z",
+  "website": "http://featherstoncampsculpture.org/",
+  "email": "jean@proofred.co.nz",
+  "address": {
+    "line1": "14 Hayward Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Featherston",
+    "postcode": "5710"
+  },
+  "nzbn": "9429043277087",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/featherstoncampsculpture/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-30T02:32:36Z"
+}

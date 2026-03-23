@@ -1,0 +1,27 @@
+{
+  "id": 65742,
+  "registrationNumber": "CC51990",
+  "name": "Newtown Pacific Islanders Presbyterian Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurer@pipcnewtown.org.nz",
+  "address": {
+    "line1": "46 Wilson Street",
+    "line2": " ",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T06:19:23Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 76853,
+  "registrationNumber": "CC62934",
+  "name": "Grace Community Fellowship",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-12-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "facsconsultants@gmail.com",
+  "address": {
+    "line1": "63 Kupe Street",
+    "line2": " ",
+    "suburb": "Orakei",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T20:53:37Z"
+}

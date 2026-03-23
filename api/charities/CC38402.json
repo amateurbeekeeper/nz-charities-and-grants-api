@@ -1,0 +1,27 @@
+{
+  "id": 52615,
+  "registrationNumber": "CC38402",
+  "name": "Cotter Medical History Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cottermuseum.co.nz",
+  "email": "info@cottermuseum.co.nz",
+  "address": {
+    "line1": "185 Kirk Road",
+    "line2": " ",
+    "suburb": "Templeton",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429043030538",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T18:33:13Z"
+}

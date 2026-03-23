@@ -1,0 +1,27 @@
+{
+  "id": 47787,
+  "registrationNumber": "CC29903",
+  "name": "Sir Peter Blake Marine Education And Recreation Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.merc.org.nz",
+  "email": "yuin@merc.org.nz",
+  "address": {
+    "line1": "1045 Beach Road",
+    "line2": " ",
+    "suburb": "Torbay",
+    "city": "Auckland",
+    "postcode": "630"
+  },
+  "nzbn": "9429042765127",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/sirpeterblakemerc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T23:45:34Z"
+}

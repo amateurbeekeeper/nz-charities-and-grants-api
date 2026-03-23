@@ -1,0 +1,27 @@
+{
+  "id": 56783,
+  "registrationNumber": "CC26873",
+  "name": "The Auckland Art Gallery Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aagfoundation.nz",
+  "email": "foundation@aagfoundation.nz",
+  "address": {
+    "line1": "c/o Auckland Art Gallery",
+    "line2": "Cnr Wellesley And Kitchener Streets",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043132454",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AAGFoundation/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T21:42:12Z"
+}

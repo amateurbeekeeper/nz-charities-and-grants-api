@@ -1,0 +1,27 @@
+{
+  "id": 50604,
+  "registrationNumber": "CC44320",
+  "name": "Toy Library Federation of New Zealand Incorporated ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.toylibrary.co.nz",
+  "email": "president@toylibrary.co.nz",
+  "address": {
+    "line1": "33 Kittyhawk Row",
+    "line2": null,
+    "suburb": " ",
+    "city": "Bulls",
+    "postcode": "4818"
+  },
+  "nzbn": "9429043190201",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZToyLibraries/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T00:44:13Z"
+}

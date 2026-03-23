@@ -1,0 +1,27 @@
+{
+  "id": 64955,
+  "registrationNumber": "CC35443",
+  "name": "Lincoln Community Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david.pringle@asb.co.nz",
+  "address": {
+    "line1": "45 Wolfes Road",
+    "line2": "RD 4",
+    "suburb": "Springston",
+    "city": "Christchurch",
+    "postcode": "7674"
+  },
+  "nzbn": "9429042660460",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-18T19:45:49Z"
+}

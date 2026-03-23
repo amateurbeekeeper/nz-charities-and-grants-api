@@ -1,0 +1,27 @@
+{
+  "id": 42476,
+  "registrationNumber": "CC24644",
+  "name": "Healing Through Arts Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.htatrust.squarespace.com",
+  "email": "htatrust@gmail.com",
+  "address": {
+    "line1": "2 Vineyard Road",
+    "line2": " ",
+    "suburb": "Henderson Valley",
+    "city": "Auckland",
+    "postcode": "0614"
+  },
+  "nzbn": "9429042720652",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HealingThroughArts/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-14T19:21:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41172,
+  "registrationNumber": "CC26848",
+  "name": "Blogg Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://bloggcharitabletrust.org",
+  "email": "office@bloggcharitabletrust.org",
+  "address": {
+    "line1": "C/- Robert Purchas & Associates",
+    "line2": "96 Shands Road",
+    "suburb": "Hornby",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429042597902",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T19:28:14Z"
+}

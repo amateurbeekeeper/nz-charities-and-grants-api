@@ -1,0 +1,27 @@
+{
+  "id": 74819,
+  "registrationNumber": "CC61240",
+  "name": "Access Matters Aotearoa Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-03-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.accessmatters.org.nz",
+  "email": "david@accessmatters.org.nz",
+  "address": {
+    "line1": "13A Raleigh Road",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429051035778",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AccessForAllNZ",
+    "twitter": "https://twitter.com/AccessForAllNZ"
+  },
+  "lastUpdated": "2025-12-21T20:34:41Z"
+}

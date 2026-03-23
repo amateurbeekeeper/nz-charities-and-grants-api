@@ -1,0 +1,27 @@
+{
+  "id": 65615,
+  "registrationNumber": "CC51865",
+  "name": "Plimmerton Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "finance@ppp.org.nz",
+  "address": {
+    "line1": "106A Mana Esplanade",
+    "line2": null,
+    "suburb": "Paremata",
+    "city": "Porirua",
+    "postcode": "5026"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/St-Barnabas-Plimmerton-Presbyterian-Church-176750664594/timeline/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:16:03Z"
+}

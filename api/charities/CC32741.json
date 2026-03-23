@@ -1,0 +1,27 @@
+{
+  "id": 44836,
+  "registrationNumber": "CC32741",
+  "name": "New Dimension Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2021-12-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "apwmth@gmail.com",
+  "address": {
+    "line1": "2 Warwick Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Patea",
+    "postcode": "4520"
+  },
+  "nzbn": "9429043180097",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:16:47Z"
+}

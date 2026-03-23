@@ -1,0 +1,27 @@
+{
+  "id": 58265,
+  "registrationNumber": "CC41775",
+  "name": "Greytown Heritage Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.greytownheritagetrust.co.nz",
+  "email": "sylvia@syro.co.nz",
+  "address": {
+    "line1": "PO Box 169",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greytown",
+    "postcode": "5742"
+  },
+  "nzbn": "9429042713678",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Greytown-Heritage-Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T19:25:25Z"
+}

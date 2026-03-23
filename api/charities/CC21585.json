@@ -1,0 +1,27 @@
+{
+  "id": 54829,
+  "registrationNumber": "CC21585",
+  "name": "Burnett Valley Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sandra@footes.co.nz",
+  "address": {
+    "line1": "55 Sophia Street",
+    "line2": "Timaru 7910",
+    "suburb": " ",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T00:45:50Z"
+}

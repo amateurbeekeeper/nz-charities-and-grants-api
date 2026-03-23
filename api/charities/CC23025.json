@@ -1,0 +1,27 @@
+{
+  "id": 39215,
+  "registrationNumber": "CC23025",
+  "name": "Talk Link Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.talklink.org.nz",
+  "email": "wayne.ferguson@talklink.org.nz",
+  "address": {
+    "line1": "13 Coyle Street",
+    "line2": "3 Carrington Road",
+    "suburb": "Sandringham",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042835417",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TalkLinkTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T01:22:18Z"
+}

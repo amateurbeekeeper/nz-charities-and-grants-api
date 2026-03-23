@@ -1,0 +1,27 @@
+{
+  "id": 77312,
+  "registrationNumber": "CC63178",
+  "name": "The Security Noticeboard",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.securitynoticeboard.co.nz",
+  "email": "hvsn@intune.nz",
+  "address": {
+    "line1": "7 Wedgewood Grove",
+    "line2": " ",
+    "suburb": "Raumati Beach",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/communitywatchnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T00:02:44Z"
+}

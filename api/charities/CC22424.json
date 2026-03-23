@@ -1,0 +1,27 @@
+{
+  "id": 55775,
+  "registrationNumber": "CC22424",
+  "name": "Howick Stroke Club",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hpstrokeclub@gmail.com",
+  "address": {
+    "line1": "Shop 2",
+    "line2": "317 Sunset Road",
+    "suburb": "Sunnynook",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T20:07:07Z"
+}

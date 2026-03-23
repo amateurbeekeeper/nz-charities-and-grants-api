@@ -1,0 +1,27 @@
+{
+  "id": 52927,
+  "registrationNumber": "CC11123",
+  "name": "Whitianga Community Service Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wcst.org.nz",
+  "email": "accounts@wcst.org.nz",
+  "address": {
+    "line1": "SOCIAL SERVICES CENTRE",
+    "line2": "2 Cook Drive",
+    "suburb": " ",
+    "city": "Whitianga",
+    "postcode": "3510"
+  },
+  "nzbn": "9429043085040",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "wcst.org.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T00:02:58Z"
+}

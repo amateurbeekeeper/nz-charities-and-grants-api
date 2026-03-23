@@ -1,0 +1,27 @@
+{
+  "id": 42440,
+  "registrationNumber": "CC24688",
+  "name": "The Wintec Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "elaine.jeffries@wintec.ac.nz",
+  "address": {
+    "line1": "\"Wintec Level 1, B Block, Gate 5\"",
+    "line2": "\"Tristram Street, Central City\"",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3240"
+  },
+  "nzbn": "9429043180868",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T23:37:15Z"
+}

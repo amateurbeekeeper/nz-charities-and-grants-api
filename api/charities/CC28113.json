@@ -1,0 +1,27 @@
+{
+  "id": 42812,
+  "registrationNumber": "CC28113",
+  "name": "The Lions Club Of Katikati Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "katikatitreasurer@lionsclubs.org.nz",
+  "address": {
+    "line1": "14 Uretara Drive",
+    "line2": "Katikati 3129",
+    "suburb": " ",
+    "city": "Katikati",
+    "postcode": "3129"
+  },
+  "nzbn": "9429051638733",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/katikatilions/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T03:47:27Z"
+}

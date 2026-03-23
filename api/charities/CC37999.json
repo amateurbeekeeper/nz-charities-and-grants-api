@@ -1,0 +1,27 @@
+{
+  "id": 57166,
+  "registrationNumber": "CC37999",
+  "name": "Tri Star Gymnastics Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tristar.org.nz",
+  "email": "luke.dobney@tristar.org.nz",
+  "address": {
+    "line1": "Keith Hay Park",
+    "line2": "Arundel Street, Mt Roskill",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429042899853",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Tristargymnasticsnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T02:17:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42082,
+  "registrationNumber": "CC36644",
+  "name": "Douglas Goodfellow Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul_keeling@caznat.co.nz",
+  "address": {
+    "line1": "PO Box 36",
+    "line2": "Shortland Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1140"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T21:50:40Z"
+}

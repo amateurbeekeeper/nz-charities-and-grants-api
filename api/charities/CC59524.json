@@ -1,0 +1,27 @@
+{
+  "id": 73128,
+  "registrationNumber": "CC59524",
+  "name": "Dunedin Community Accounting",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://dca.org.nz",
+  "email": "kiaora@dca.org.nz",
+  "address": {
+    "line1": "43 Princes Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429049979404",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dunedincommunityaccounting",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T02:58:14Z"
+}

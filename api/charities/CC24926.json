@@ -1,0 +1,27 @@
+{
+  "id": 41848,
+  "registrationNumber": "CC24926",
+  "name": "Chapel Hill Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.chapelhill.org.nz",
+  "email": "Traceyeclark@hotmail.com",
+  "address": {
+    "line1": "2 Cate Road",
+    "line2": " ",
+    "suburb": "Rototuna",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T22:20:51Z"
+}

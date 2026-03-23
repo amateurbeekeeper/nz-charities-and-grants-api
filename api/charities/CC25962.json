@@ -1,0 +1,27 @@
+{
+  "id": 42535,
+  "registrationNumber": "CC25962",
+  "name": "Empower International Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://empowerala.org",
+  "email": "empowerasia@gmail.com",
+  "address": {
+    "line1": "47 Revelation Drive",
+    "line2": " ",
+    "suburb": "Clifton",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": "9429042942269",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-24T18:55:34Z"
+}

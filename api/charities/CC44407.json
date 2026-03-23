@@ -1,0 +1,27 @@
+{
+  "id": 50696,
+  "registrationNumber": "CC44407",
+  "name": "Exercise as Medicine NZ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://exerciseasmedicinenz.com",
+  "email": "kris@eamnz.com",
+  "address": {
+    "line1": "77 Panorama Road",
+    "line2": " ",
+    "suburb": "Clifton",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": "9429043189106",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-27T19:38:20Z"
+}

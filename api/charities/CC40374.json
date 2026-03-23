@@ -1,0 +1,27 @@
+{
+  "id": 42664,
+  "registrationNumber": "CC40374",
+  "name": "Grafton Downs Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.paeratarise.co.nz",
+  "email": "chris@wesleycollegetrust.co.nz",
+  "address": {
+    "line1": "8a Sylvia Park Road",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429032297805",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "PaerataRise",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:38:36Z"
+}

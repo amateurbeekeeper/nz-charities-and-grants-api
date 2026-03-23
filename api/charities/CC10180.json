@@ -1,0 +1,27 @@
+{
+  "id": 51016,
+  "registrationNumber": "CC10180",
+  "name": "Road Safety Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2007-04-17T00:00:00Z",
+  "dateDeregistered": "2013-05-30T00:00:00Z",
+  "website": "http://www.roadsafety.govt.nz/",
+  "email": "alan.tollemache@roadsafety.govt.nz",
+  "address": {
+    "line1": "LEVEL 2",
+    "line2": "50 Victoria Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429041926208",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T00:27:39Z"
+}

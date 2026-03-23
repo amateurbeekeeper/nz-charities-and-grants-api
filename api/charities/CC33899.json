@@ -1,0 +1,27 @@
+{
+  "id": 43654,
+  "registrationNumber": "CC33899",
+  "name": "Artmakers Community Artists Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.artmakers.co.nz",
+  "email": "info@artmakers.co.nz",
+  "address": {
+    "line1": "Norris Ward Park Arts Centre",
+    "line2": "2 Seddon Road",
+    "suburb": " Frankton",
+    "city": "Hamilton",
+    "postcode": "3240"
+  },
+  "nzbn": "9429042578079",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ARTMAKERSTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T18:05:22Z"
+}

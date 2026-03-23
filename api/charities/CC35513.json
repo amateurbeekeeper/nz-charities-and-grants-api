@@ -1,0 +1,27 @@
+{
+  "id": 43134,
+  "registrationNumber": "CC35513",
+  "name": "Ohai Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-12-09T00:00:00Z",
+  "website": null,
+  "email": "ohai@Playcentre.org.nz",
+  "address": {
+    "line1": "115 Birchwood Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ohai",
+    "postcode": "9635"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T06:03:40Z"
+}

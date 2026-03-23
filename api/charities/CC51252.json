@@ -1,0 +1,27 @@
+{
+  "id": 34860,
+  "registrationNumber": "CC51252",
+  "name": "Kentbridge Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lifechangers.org.nz",
+  "email": "psdan@lifechangers.org.nz",
+  "address": {
+    "line1": "87 Cambridge Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": "9429043290970",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T22:37:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44062,
+  "registrationNumber": "CC43499",
+  "name": "Committee For Auckland Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.committeeforauckland.co.nz",
+  "email": "becca.vanaltvorst@beca.com",
+  "address": {
+    "line1": "88 Shortland Street",
+    "line2": "3 Albert Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429036979967",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "https://twitter.com/Comm4Auck"
+  },
+  "lastUpdated": "2025-12-04T22:45:12Z"
+}

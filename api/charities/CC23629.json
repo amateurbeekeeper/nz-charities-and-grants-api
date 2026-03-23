@@ -1,0 +1,27 @@
+{
+  "id": 40392,
+  "registrationNumber": "CC23629",
+  "name": "Toy Box Toy Library",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://hamiltontoybox.mibase.co.nz/home/index.php",
+  "email": "elainechowyuklan@gmail.com",
+  "address": {
+    "line1": "122 Masters Avenue",
+    "line2": " ",
+    "suburb": "Silverdale",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hamiltontoyboxtoylibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-27T21:46:31Z"
+}

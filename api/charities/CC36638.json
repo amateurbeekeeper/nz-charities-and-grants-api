@@ -1,0 +1,27 @@
+{
+  "id": 61089,
+  "registrationNumber": "CC36638",
+  "name": "St Stephens Parish Reporoa",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ststephensreporoa@gmail.com",
+  "address": {
+    "line1": "15 Guthrie Road",
+    "line2": "Reporoa 3081",
+    "suburb": " ",
+    "city": "Reporoa",
+    "postcode": "3081"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T02:14:07Z"
+}

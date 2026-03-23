@@ -1,0 +1,27 @@
+{
+  "id": 52788,
+  "registrationNumber": "CC20082",
+  "name": "St James Kidsway",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-11-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stjameskidway.org.nz",
+  "email": "admin@stjameskidsway.org.nz",
+  "address": {
+    "line1": "36 West Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429043034796",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/stjameskidsway",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:28:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70138,
+  "registrationNumber": "CC56500",
+  "name": "Waitakere Water Polo Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-12-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waitakwaterpolo.co.nz",
+  "email": "nikki@waitakwaterpolo.co.nz",
+  "address": {
+    "line1": "20 Alderman Drive",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429042994695",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/waitakwaterpolo",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-21T06:08:58Z"
+}

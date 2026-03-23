@@ -1,0 +1,27 @@
+{
+  "id": 73355,
+  "registrationNumber": "CC59745",
+  "name": "WEB DEVELOPMENT & CONSULTING CLUB INCORPORATED",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wdcc.co.nz/",
+  "email": "president@wdcc.co.nz",
+  "address": {
+    "line1": "Private Bag 92019",
+    "line2": "Victoria Street West",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1142"
+  },
+  "nzbn": "9429049939729",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wdccuoa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-01T12:01:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65241,
+  "registrationNumber": "CC51467",
+  "name": "Pro Med EMS Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-01-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "1966robyn@gmail.com",
+  "address": {
+    "line1": "59 Church Street",
+    "line2": "Timaru 7910",
+    "suburb": "Washdyke",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429043256549",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T01:07:46Z"
+}

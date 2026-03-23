@@ -1,0 +1,27 @@
+{
+  "id": 55949,
+  "registrationNumber": "CC24975",
+  "name": "Rodney Neighbourhood Support Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nsrodney.org.nz",
+  "email": "rns.coordinator@gmail.com",
+  "address": {
+    "line1": "6 Falls Street",
+    "line2": "Warkworth 0910",
+    "suburb": " ",
+    "city": "Warkworth",
+    "postcode": "0910"
+  },
+  "nzbn": "9429043044757",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/RNSINZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-21T21:05:18Z"
+}

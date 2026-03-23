@@ -1,0 +1,27 @@
+{
+  "id": 41588,
+  "registrationNumber": "CC23650",
+  "name": "Wairakei Road Bible Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wrbc.org.nz",
+  "email": "a-holden@xtra.co.nz",
+  "address": {
+    "line1": "392 Wairakei Road",
+    "line2": " ",
+    "suburb": "Burnside",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Wairakei-Road-Bible-Church-113954536665648",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T22:58:53Z"
+}

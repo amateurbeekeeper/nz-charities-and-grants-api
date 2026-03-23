@@ -1,0 +1,27 @@
+{
+  "id": 34800,
+  "registrationNumber": "CC51311",
+  "name": "Pacific Wellbeing and Prosperity Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-02-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cpcollective.org.nz",
+  "email": "jason@cpcollective.org.nz",
+  "address": {
+    "line1": "Level 6, Munro Benge House",
+    "line2": "104 The Terrace",
+    "suburb": "Wellington",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043276202",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/centralpacificcollective/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T20:54:30Z"
+}

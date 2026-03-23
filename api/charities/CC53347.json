@@ -1,0 +1,27 @@
+{
+  "id": 67067,
+  "registrationNumber": "CC53347",
+  "name": "Te Mahurehure Cultural Marae Society Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.temahurehure.org",
+  "email": "tracey@tmmarae.co.nz",
+  "address": {
+    "line1": "73 Premier Avenue",
+    "line2": " ",
+    "suburb": "Point Chevalier",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429042861492",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "temahurehure marae ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T07:26:18Z"
+}

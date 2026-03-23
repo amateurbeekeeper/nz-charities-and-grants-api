@@ -1,0 +1,27 @@
+{
+  "id": 54060,
+  "registrationNumber": "CC20695",
+  "name": "Auckland Buddhist Centre (Triratna Buddhist Community)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandbuddhistcentre.org.nz",
+  "email": "info@aucklandbuddhistcentre.org",
+  "address": {
+    "line1": "45B Normanby Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042704232",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AkldBuddhistCentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T01:30:29Z"
+}

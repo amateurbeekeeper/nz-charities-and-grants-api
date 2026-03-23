@@ -1,0 +1,27 @@
+{
+  "id": 75440,
+  "registrationNumber": "CC61883",
+  "name": "Rongo Mauri Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rongomauri.com",
+  "email": "rongomauri.trust@gmail.com",
+  "address": {
+    "line1": "148 Manchester Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Feilding",
+    "postcode": "4702"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:45:54Z"
+}

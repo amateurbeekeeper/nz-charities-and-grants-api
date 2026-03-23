@@ -1,0 +1,27 @@
+{
+  "id": 60016,
+  "registrationNumber": "CC27776",
+  "name": "Wanaka Community Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wanakatoylibrary.org.nz",
+  "email": "treasurer.wctl@gmail.com",
+  "address": {
+    "line1": "Woolshed A & P Showgrounds Wanaka",
+    "line2": "Wanaka 9305",
+    "suburb": "Wanaka",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429042914402",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WanakaToyLibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T22:34:34Z"
+}

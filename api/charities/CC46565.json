@@ -1,0 +1,27 @@
+{
+  "id": 36870,
+  "registrationNumber": "CC46565",
+  "name": "Southern Rural Fire Authority",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2011-05-15T00:00:00Z",
+  "dateDeregistered": "2017-06-30T00:00:00Z",
+  "website": "http://www.southernruralfire.org.nz",
+  "email": "mike@southernruralfire.org.nz",
+  "address": {
+    "line1": "15 Forth Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-05-03T00:35:54Z"
+}

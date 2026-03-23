@@ -1,0 +1,27 @@
+{
+  "id": 59930,
+  "registrationNumber": "CC28768",
+  "name": "Canterbury Museum Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.canterburymuseum.com",
+  "email": "ntecofsky@canterburymuseum.com",
+  "address": {
+    "line1": "Private Bag 4744",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": "9429048092654",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/canterburymuseum/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T03:28:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40534,
+  "registrationNumber": "CC22971",
+  "name": "Living Hope Trust (NZ)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.livinghope.org.nz",
+  "email": "rachael@petrapack.co.nz",
+  "address": {
+    "line1": "7 Aaron Place",
+    "line2": " ",
+    "suburb": "Brookfield",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043159574",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LivingHopeNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T21:13:50Z"
+}

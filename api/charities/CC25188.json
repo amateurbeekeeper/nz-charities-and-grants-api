@@ -1,0 +1,27 @@
+{
+  "id": 41887,
+  "registrationNumber": "CC25188",
+  "name": "Waihi School Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "accountant@waihi.school.nz",
+  "address": {
+    "line1": "611 Temuka-Orari Highway",
+    "line2": "RD 26",
+    "suburb": "Winchester",
+    "city": "Temuka",
+    "postcode": "7986"
+  },
+  "nzbn": "9429043147786",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:53:24Z"
+}

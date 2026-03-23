@@ -1,0 +1,27 @@
+{
+  "id": 62555,
+  "registrationNumber": "CC43253",
+  "name": "Hutt City Brass Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-12-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "brendan@agnew.net.nz",
+  "address": {
+    "line1": "Randwick Cres.",
+    "line2": " ",
+    "suburb": "Moera",
+    "city": "Lower Hutt",
+    "postcode": "5040"
+  },
+  "nzbn": "9429042669500",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T02:54:26Z"
+}

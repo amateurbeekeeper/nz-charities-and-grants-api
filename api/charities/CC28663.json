@@ -1,0 +1,27 @@
+{
+  "id": 40224,
+  "registrationNumber": "CC28663",
+  "name": "The Mahamakut Thai Buddhist Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.watyarn.net.nz",
+  "email": "watyarn@gmail.com",
+  "address": {
+    "line1": "99 Sabulite Road",
+    "line2": " ",
+    "suburb": "Kelston",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": "9429042893165",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Watyarnprateep Buddhist Temple",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T00:02:48Z"
+}

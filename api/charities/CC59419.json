@@ -1,0 +1,27 @@
+{
+  "id": 73020,
+  "registrationNumber": "CC59419",
+  "name": "New Zealand Familial Breast and Ovarian Cancer Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nzfboc.org",
+  "email": "info@nzfboc.org",
+  "address": {
+    "line1": "33 Irvine Road",
+    "line2": "RD 2",
+    "suburb": "The Cove",
+    "city": "Dunedin",
+    "postcode": "9077"
+  },
+  "nzbn": "9429049412161",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-14T22:40:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 59764,
+  "registrationNumber": "CC27877",
+  "name": "WEC Aotearoa New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wecnz.org",
+  "email": "director@wecnz.org",
+  "address": {
+    "line1": "35 College Drive",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Taupiri",
+    "postcode": "3791"
+  },
+  "nzbn": "9429043109593",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:38:24Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 58218,
+  "registrationNumber": "CC25868",
+  "name": "The Tasman Bays Heritage Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nelsonmuseum.co.nz",
+  "email": "ceo@museumnp.org.nz",
+  "address": {
+    "line1": "270 Trafalgar Street",
+    "line2": "Nelson 7010",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042962793",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nelsonmuseum/",
+    "twitter": "https://twitter.com/NelsonMuseumNZ"
+  },
+  "lastUpdated": "2026-01-25T23:07:04Z"
+}

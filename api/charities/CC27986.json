@@ -1,0 +1,27 @@
+{
+  "id": 56361,
+  "registrationNumber": "CC27986",
+  "name": "Destiny Church Tauranga Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.destinychurch.org.nz",
+  "email": "jenny@destinychurch.org.nz",
+  "address": {
+    "line1": "749 Welcome Bay Road",
+    "line2": "RD 5",
+    "suburb": "Waitao",
+    "city": "Tauranga",
+    "postcode": "3175"
+  },
+  "nzbn": "9429042963417",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Destinychurchtauranga/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T20:00:49Z"
+}

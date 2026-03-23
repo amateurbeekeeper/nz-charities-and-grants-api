@@ -1,0 +1,27 @@
+{
+  "id": 63025,
+  "registrationNumber": "CC37922",
+  "name": "Xerses' Atlas Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-02-19T00:00:00Z",
+  "dateDeregistered": "2015-02-25T00:00:00Z",
+  "website": "http://www.xersesatlas.com",
+  "email": "jade@fernwoodtech.com",
+  "address": {
+    "line1": "2E Pratt Street",
+    "line2": null,
+    "suburb": "Freemans Bay",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429043097142",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:50:58Z"
+}

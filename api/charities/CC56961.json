@@ -1,0 +1,27 @@
+{
+  "id": 70593,
+  "registrationNumber": "CC56961",
+  "name": "Ranui Assembly of God Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-07-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ranuiaogsamoa@gmail.com",
+  "address": {
+    "line1": "4 Pooks Road",
+    "line2": " ",
+    "suburb": "Ranui",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T10:52:29Z"
+}

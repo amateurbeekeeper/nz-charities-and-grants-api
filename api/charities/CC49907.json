@@ -1,0 +1,27 @@
+{
+  "id": 35255,
+  "registrationNumber": "CC49907",
+  "name": "Adullam Wesleyan Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-11-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "uilameti@gmail.com",
+  "address": {
+    "line1": "17A Parfitt Street",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:14:14Z"
+}

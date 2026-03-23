@@ -1,0 +1,27 @@
+{
+  "id": 78028,
+  "registrationNumber": "CC63834",
+  "name": "Auckland University Student Chamber Orchestra Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-10-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chamberorchestra.ausa@gmail.com",
+  "address": {
+    "line1": "6 Symonds Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ausco.ausa",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T21:07:37Z"
+}

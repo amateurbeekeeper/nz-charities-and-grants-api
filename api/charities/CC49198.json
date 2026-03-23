@@ -1,0 +1,27 @@
+{
+  "id": 33234,
+  "registrationNumber": "CC49198",
+  "name": "Good Neighbour Aotearoa Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.goodneighbour.co.nz",
+  "email": "accounts@goodneighbour.co.nz",
+  "address": {
+    "line1": "39B Burrows Street",
+    "line2": " ",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429043247486",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "goodneighbour.co.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:14:39Z"
+}

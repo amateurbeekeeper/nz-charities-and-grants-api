@@ -1,0 +1,27 @@
+{
+  "id": 61364,
+  "registrationNumber": "CC34025",
+  "name": "THE CALLING CHURCH",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2020-12-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bot.callingchurchnz@gmail.com",
+  "address": {
+    "line1": "Suite 8 & 9",
+    "line2": "81 Hillside Road",
+    "suburb": "Wairau Valley",
+    "city": "Auckland",
+    "postcode": "627"
+  },
+  "nzbn": "9429043104505",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T18:06:18Z"
+}

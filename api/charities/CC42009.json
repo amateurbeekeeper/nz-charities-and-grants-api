@@ -1,0 +1,27 @@
+{
+  "id": 48611,
+  "registrationNumber": "CC42009",
+  "name": "Coatesville Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-11-03T00:00:00Z",
+  "website": null,
+  "email": "coatesville@playcentre.org.nz",
+  "address": {
+    "line1": "12 Mahoenui Valley Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Coatesville",
+    "postcode": "793"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T06:02:57Z"
+}

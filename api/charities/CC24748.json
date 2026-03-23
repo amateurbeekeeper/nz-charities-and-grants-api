@@ -1,0 +1,27 @@
+{
+  "id": 41655,
+  "registrationNumber": "CC24748",
+  "name": "Katoa Connect Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.katoaconnect.org.nz",
+  "email": "warren.williams@katoaconnect.org.nz",
+  "address": {
+    "line1": "110 Dixon Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429043028337",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:27:51Z"
+}

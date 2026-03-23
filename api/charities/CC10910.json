@@ -1,0 +1,27 @@
+{
+  "id": 52139,
+  "registrationNumber": "CC10910",
+  "name": "Pioneer Energy Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pioneerenergy.co.nz",
+  "email": "jonathan.west@pioneerenergy.co.nz",
+  "address": {
+    "line1": "11 Ellis Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Alexandra",
+    "postcode": "9320"
+  },
+  "nzbn": "9429038759758",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:48:37Z"
+}

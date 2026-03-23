@@ -1,0 +1,27 @@
+{
+  "id": 42349,
+  "registrationNumber": "CC24620",
+  "name": "Activate Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sara.m@activatefaithgroup.nz",
+  "address": {
+    "line1": "21 Ruakura Road",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429042582168",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:24Z"
+}

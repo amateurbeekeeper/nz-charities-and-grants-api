@@ -1,0 +1,27 @@
+{
+  "id": 44842,
+  "registrationNumber": "CC36672",
+  "name": "Glenbrook School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta@glenbrook.school.nz",
+  "address": {
+    "line1": "459 Glenbrook Rd",
+    "line2": "Rd1",
+    "suburb": " ",
+    "city": "Waiuku",
+    "postcode": "2681"
+  },
+  "nzbn": "0000000000000",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:47:17Z"
+}

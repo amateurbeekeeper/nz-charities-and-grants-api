@@ -1,0 +1,27 @@
+{
+  "id": 52514,
+  "registrationNumber": "CC11390",
+  "name": "Housing Advice Centre (Palmerston North) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.housingadvice.org.nz",
+  "email": "millerbnz@gmail.com",
+  "address": {
+    "line1": "HANCOCK COMMUNITY HOUSE",
+    "line2": "77 King Street",
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042620280",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HousingAdvicePN",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T01:38:31Z"
+}

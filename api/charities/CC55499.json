@@ -1,0 +1,27 @@
+{
+  "id": 69153,
+  "registrationNumber": "CC55499",
+  "name": "Big Brothers Big Sisters Wellington",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bigbrothersbigsisters.org.nz/wellington",
+  "email": "wellingtontreasurer@bigbrothersbigsisters.org.nz",
+  "address": {
+    "line1": "5 Sladden Street",
+    "line2": " ",
+    "suburb": "Naenae",
+    "city": "Lower Huttt",
+    "postcode": "511"
+  },
+  "nzbn": "9429046837028",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BBBSWellington/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T21:12:49Z"
+}

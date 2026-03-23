@@ -1,0 +1,27 @@
+{
+  "id": 65311,
+  "registrationNumber": "CC51536",
+  "name": "\"Have a Heart\"",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-12-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://haveaheart.org.nz",
+  "email": "chrisbarnard@outlook.co.nz",
+  "address": {
+    "line1": "8B Merritt Street",
+    "line2": "Whakatane 3120",
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429043287567",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "haveaheart",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-08T04:59:56Z"
+}

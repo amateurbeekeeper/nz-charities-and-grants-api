@@ -1,0 +1,27 @@
+{
+  "id": 37019,
+  "registrationNumber": "CC46486",
+  "name": "Waimarino Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-04-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.waimarinotrust.co.nz",
+  "email": "blair@waimarino.com",
+  "address": {
+    "line1": "36 Taniwha Place",
+    "line2": "RD 6",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3176"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WaimarinoEducationTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T18:15:47Z"
+}

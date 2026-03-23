@@ -1,0 +1,27 @@
+{
+  "id": 34903,
+  "registrationNumber": "CC49044",
+  "name": "Cheviot Community Health Centre (2013) Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@cchc.co.nz",
+  "address": {
+    "line1": "6 Robinson Street",
+    "line2": "Cheviot 7310",
+    "suburb": " ",
+    "city": "Cheviot",
+    "postcode": "7310"
+  },
+  "nzbn": "9429030329010",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T19:26:16Z"
+}

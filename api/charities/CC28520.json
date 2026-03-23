@@ -1,0 +1,27 @@
+{
+  "id": 60727,
+  "registrationNumber": "CC28520",
+  "name": "Christian City Church Auckland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.c3.org.nz",
+  "email": "bessie@c3.org.nz",
+  "address": {
+    "line1": "20 Cawley Street",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042611059",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:13:44Z"
+}

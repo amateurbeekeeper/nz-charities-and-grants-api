@@ -1,0 +1,27 @@
+{
+  "id": 67278,
+  "registrationNumber": "CC53569",
+  "name": "Waikato Rocks Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://waikatorocks.co.nz",
+  "email": "logan@waikatorocks.co.nz",
+  "address": {
+    "line1": "32 Greenfield Drive",
+    "line2": " ",
+    "suburb": "Western Heights",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429043280025",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waikatorocksnz/notifications/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T07:41:51Z"
+}

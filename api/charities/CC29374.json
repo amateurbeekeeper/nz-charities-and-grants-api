@@ -1,0 +1,27 @@
+{
+  "id": 60297,
+  "registrationNumber": "CC29374",
+  "name": "The Dunbar Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@kumeteforest.nz",
+  "address": {
+    "line1": "174 Great North Road",
+    "line2": " ",
+    "suburb": "Otamatea",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042959502",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T03:16:37Z"
+}

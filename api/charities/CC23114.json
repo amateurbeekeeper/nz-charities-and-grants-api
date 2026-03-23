@@ -1,0 +1,27 @@
+{
+  "id": 39254,
+  "registrationNumber": "CC23114",
+  "name": "Gisborne Pain & Terminal Care Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hospicetairawhiti.org.nz",
+  "email": "barbara@hospicetairawhiti.org.nz",
+  "address": {
+    "line1": "421 Ormond Road",
+    "line2": " ",
+    "suburb": "Lytton West",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042940890",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/hospicetairawhiti/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T00:50:12Z"
+}

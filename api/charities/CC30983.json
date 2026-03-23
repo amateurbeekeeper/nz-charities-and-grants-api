@@ -1,0 +1,27 @@
+{
+  "id": 48042,
+  "registrationNumber": "CC30983",
+  "name": "Hawksbury Property Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hawksbury.co.nz",
+  "email": "susan@hawksbury.co.nz",
+  "address": {
+    "line1": "Unit 3",
+    "line2": "49 Sir William Pickering Drive",
+    "suburb": "Burnside",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429043092451",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HawksburyNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T20:20:42Z"
+}

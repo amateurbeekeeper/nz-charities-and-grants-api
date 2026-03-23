@@ -1,0 +1,27 @@
+{
+  "id": 52172,
+  "registrationNumber": "CC11098",
+  "name": "Porirua Whanau Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.poriruawhanau.org.nz",
+  "email": "liz@poriruawhanau.org.nz",
+  "address": {
+    "line1": "16 Bedford Court",
+    "line2": " ",
+    "suburb": "Cannons Creek",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429042599463",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:31:05Z"
+}

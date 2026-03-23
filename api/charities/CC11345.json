@@ -1,0 +1,27 @@
+{
+  "id": 53146,
+  "registrationNumber": "CC11345",
+  "name": "Royal Oak Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.robc.org.nz",
+  "email": "olivetree.philip@gmail.com",
+  "address": {
+    "line1": "114 Symonds Street",
+    "line2": " ",
+    "suburb": "Royal Oak",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T20:02:36Z"
+}

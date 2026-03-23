@@ -1,0 +1,27 @@
+{
+  "id": 60763,
+  "registrationNumber": "CC28847",
+  "name": "Marlborough Stadium Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stadium2000.co.nz",
+  "email": "gm@stadium2000.co.nz",
+  "address": {
+    "line1": "Kinross Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429042929017",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T22:15:32Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 78377,
+  "registrationNumber": "CC64190",
+  "name": "Snowboarders & Skiers for Christ NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wearesfc.org",
+  "email": "tim@wearesfc.org",
+  "address": {
+    "line1": "118 Lower Styx Road",
+    "line2": null,
+    "suburb": "Bottle Lake",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429043055586",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T03:40:33Z"
+}

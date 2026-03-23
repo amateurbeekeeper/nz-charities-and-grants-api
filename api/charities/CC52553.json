@@ -1,0 +1,27 @@
+{
+  "id": 66284,
+  "registrationNumber": "CC52553",
+  "name": "Good Bitches Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-11-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gbb.org.nz",
+  "email": "simon@gbb.org.nz",
+  "address": {
+    "line1": "L15 Grant Thornton House",
+    "line2": "215 Lambton Quay",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043297405",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Good Bitches Baking",
+    "twitter": "@goodbitchesbake"
+  },
+  "lastUpdated": "2025-11-12T01:19:14Z"
+}

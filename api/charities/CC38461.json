@@ -1,0 +1,27 @@
+{
+  "id": 48333,
+  "registrationNumber": "CC38461",
+  "name": "Sylvia Lysaght Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@halliwells.co.nz",
+  "address": {
+    "line1": "C/- HALLIWELLS",
+    "line2": "87 Regent Street",
+    "suburb": " ",
+    "city": "Hawera",
+    "postcode": "4610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:31:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74532,
+  "registrationNumber": "CC60949",
+  "name": "YouBeYou Aotearoa Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-12-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.youbeyou.org.nz/",
+  "email": "gordylockhart@outlook.com",
+  "address": {
+    "line1": "14 Woodleigh Street",
+    "line2": " ",
+    "suburb": "Frankleigh Park",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429050971251",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/youbeyoutauranga/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T07:09:26Z"
+}

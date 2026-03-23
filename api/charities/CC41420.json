@@ -1,0 +1,27 @@
+{
+  "id": 42719,
+  "registrationNumber": "CC41420",
+  "name": "The New Zealand Dental Research Foundation Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "accounts@nzda.org.nz",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "195 Main Highway",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042783770",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:59:36Z"
+}

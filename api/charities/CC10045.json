@@ -1,0 +1,27 @@
+{
+  "id": 51029,
+  "registrationNumber": "CC10045",
+  "name": "University of Canterbury Students Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-03-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ucsa.org.nz",
+  "email": "cate.sexton@ucsa.org.nz",
+  "address": {
+    "line1": "90 Ilam Road",
+    "line2": " ",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042877523",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/theUCSA",
+    "twitter": "https://x.com/ucsa"
+  },
+  "lastUpdated": "2026-02-20T01:09:02Z"
+}

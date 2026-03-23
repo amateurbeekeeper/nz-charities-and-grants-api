@@ -1,0 +1,27 @@
+{
+  "id": 46497,
+  "registrationNumber": "CC31047",
+  "name": "Mayfield Rural Fire Unit",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "foxdale@farmside.co.nz",
+  "address": {
+    "line1": "1971 Arundel Rakaia Gorge Road",
+    "line2": "RD 8",
+    "suburb": " ",
+    "city": "Ashburton",
+    "postcode": "7778"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T19:28:17Z"
+}

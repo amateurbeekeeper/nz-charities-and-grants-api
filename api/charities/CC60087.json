@@ -1,0 +1,27 @@
+{
+  "id": 73694,
+  "registrationNumber": "CC60087",
+  "name": "Te Ahu Pātiki Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teahupatiki.org",
+  "email": "teahupatiki@gmail.com",
+  "address": {
+    "line1": "19A South Belt",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lincoln",
+    "postcode": "7608"
+  },
+  "nzbn": "9429050520671",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TeAhuPatiki",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T08:51:06Z"
+}

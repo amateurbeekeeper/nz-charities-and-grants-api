@@ -1,0 +1,27 @@
+{
+  "id": 68043,
+  "registrationNumber": "CC54365",
+  "name": "Grace Christian Trust Napier",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-03-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "gracenapier.co.nz",
+  "email": "mark@gracenapier.co.nz",
+  "address": {
+    "line1": "13 Leeds Place",
+    "line2": " ",
+    "suburb": "Tamatea",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": "9429045977541",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T19:26:32Z"
+}

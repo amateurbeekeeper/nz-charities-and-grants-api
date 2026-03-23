@@ -1,0 +1,27 @@
+{
+  "id": 49195,
+  "registrationNumber": "CC29004",
+  "name": "Warkworth Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2019-05-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "troy.hudson@fireandemergency.nz",
+  "address": {
+    "line1": "2 Church Hill",
+    "line2": "Warkworth 0910",
+    "suburb": " ",
+    "city": "Warkworth",
+    "postcode": "0910"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/warkworthfirebrigade/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-10T07:50:06Z"
+}

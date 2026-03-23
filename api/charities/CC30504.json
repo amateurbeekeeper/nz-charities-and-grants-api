@@ -1,0 +1,27 @@
+{
+  "id": 48242,
+  "registrationNumber": "CC30504",
+  "name": "International Baptist Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ibcchurch.com",
+  "email": "gillian.ibc@xtra.co.nz",
+  "address": {
+    "line1": "2 Dannemora Drive",
+    "line2": " ",
+    "suburb": "Dannemora",
+    "city": "Auckland",
+    "postcode": "2016"
+  },
+  "nzbn": "9429042620396",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T03:03:48Z"
+}

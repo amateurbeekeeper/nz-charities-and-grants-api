@@ -1,0 +1,27 @@
+{
+  "id": 33830,
+  "registrationNumber": "CC50258",
+  "name": "Hagar Humanitarian Aid Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hagar.org.nz",
+  "email": "kate.russell@hagar.org.nz",
+  "address": {
+    "line1": "10A Nazareth Avenue",
+    "line2": " ",
+    "suburb": "Middleton",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429043312498",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/hagarnewzealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-06T19:30:06Z"
+}

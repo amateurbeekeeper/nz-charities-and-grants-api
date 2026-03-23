@@ -1,0 +1,27 @@
+{
+  "id": 69833,
+  "registrationNumber": "CC56190",
+  "name": "Lindsay Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-12-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lindsayfoundation.co.nz",
+  "email": "andrewh@lindsayfoundation.co.nz",
+  "address": {
+    "line1": "14 Viaduct Harbour Avenue",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T00:48:38Z"
+}

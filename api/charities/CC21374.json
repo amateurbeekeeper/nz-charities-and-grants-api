@@ -1,0 +1,27 @@
+{
+  "id": 53467,
+  "registrationNumber": "CC21374",
+  "name": "Massey Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.masseycommunitytrust.org",
+  "email": "massey.community.trust@gmail.com",
+  "address": {
+    "line1": "8 Vadam Road",
+    "line2": " ",
+    "suburb": "Massey",
+    "city": "Auckland",
+    "postcode": "614"
+  },
+  "nzbn": "9429043113897",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/masseycommunitytrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:42:08Z"
+}

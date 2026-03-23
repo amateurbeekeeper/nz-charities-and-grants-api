@@ -1,0 +1,27 @@
+{
+  "id": 53434,
+  "registrationNumber": "CC22168",
+  "name": "Te Kohao Health Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tekohaohealth.co.nz",
+  "email": "tureitim@tekohaohealth.co.nz",
+  "address": {
+    "line1": "951 Wairere Drive",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429038664816",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T04:03:07Z"
+}

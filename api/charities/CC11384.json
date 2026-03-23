@@ -1,0 +1,27 @@
+{
+  "id": 53259,
+  "registrationNumber": "CC11384",
+  "name": "RoseCharities NZ",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2007-10-16T00:00:00Z",
+  "dateDeregistered": "2022-03-17T00:00:00Z",
+  "website": "https://www.rose-charities.org",
+  "email": "nicola@accentontravel.co.nz",
+  "address": {
+    "line1": "40 Tautari Street",
+    "line2": " ",
+    "suburb": "Orakei",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429043014385",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-04-06T01:30:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52058,
+  "registrationNumber": "CC30713",
+  "name": "Film South New Zealand Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2009-10-21T00:00:00Z",
+  "website": "http://www.filmsouth.com",
+  "email": "jacqui@filmsouth.com",
+  "address": {
+    "line1": "LEVEL 2",
+    "line2": "340 Durham Street North",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042961680",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:59:30Z"
+}

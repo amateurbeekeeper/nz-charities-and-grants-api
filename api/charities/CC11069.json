@@ -1,0 +1,27 @@
+{
+  "id": 51027,
+  "registrationNumber": "CC11069",
+  "name": "Kaiuku Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "leon@kaiuku.nz",
+  "address": {
+    "line1": "349 Mahia East Coast Road",
+    "line2": "RD 8",
+    "suburb": " ",
+    "city": "Mahia",
+    "postcode": "4198"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T22:53:57Z"
+}

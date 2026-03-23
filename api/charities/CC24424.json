@@ -1,0 +1,27 @@
+{
+  "id": 41374,
+  "registrationNumber": "CC24424",
+  "name": "Bream Head Conservation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.breamheadtrust.org.nz",
+  "email": "finance@breamheadtrust.nz",
+  "address": {
+    "line1": "310 Ocean Beach Road",
+    "line2": "RD 4",
+    "suburb": "Whangarei Heads",
+    "city": "Whangarei",
+    "postcode": "0174"
+  },
+  "nzbn": "9429042987161",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-26T22:24:58Z"
+}

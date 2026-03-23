@@ -1,0 +1,27 @@
+{
+  "id": 36513,
+  "registrationNumber": "CC47080",
+  "name": "Christchurch Search and Rescue Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-11-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.landsar.org.nz/",
+  "email": "paul.bonini@westpac.co.nz",
+  "address": {
+    "line1": "Flat 11",
+    "line2": "190 Lincoln Road",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429043091485",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/121369454615693/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-05T19:26:07Z"
+}

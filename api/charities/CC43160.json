@@ -1,0 +1,27 @@
+{
+  "id": 64685,
+  "registrationNumber": "CC43160",
+  "name": "Taumarunui Women's Refuge and Support Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.twrsc.org.nz",
+  "email": "julie.gilbert@taumarunuihighschool.co.nz",
+  "address": {
+    "line1": "57 Miriama Street",
+    "line2": "Taumarunui 3920",
+    "suburb": " ",
+    "city": "Taumarunui",
+    "postcode": "3920"
+  },
+  "nzbn": "9429042833536",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TaumarunuiWomensRefuge/?modal=admin_todo_tour",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:07:59Z"
+}

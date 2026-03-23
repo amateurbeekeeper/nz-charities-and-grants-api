@@ -1,0 +1,27 @@
+{
+  "id": 45671,
+  "registrationNumber": "CC43956",
+  "name": "New Zealand Business and Parliament Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzbpt.nz ",
+  "email": "ea@nzbpt.nz",
+  "address": {
+    "line1": "Room 2-022, Parliamentary Library Building",
+    "line2": "Parliament Buildings",
+    "suburb": " Lambton",
+    "city": "Wellington",
+    "postcode": "6160"
+  },
+  "nzbn": "9429042685050",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@NZBPT · ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:06:42Z"
+}

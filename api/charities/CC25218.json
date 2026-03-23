@@ -1,0 +1,27 @@
+{
+  "id": 41307,
+  "registrationNumber": "CC25218",
+  "name": "The Grace Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gracechurch.co.nz",
+  "email": "accounts@gracechurch.co.nz",
+  "address": {
+    "line1": "452 Lower Queen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": "9429043065547",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T01:02:58Z"
+}

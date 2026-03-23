@@ -1,0 +1,27 @@
+{
+  "id": 67095,
+  "registrationNumber": "CC53380",
+  "name": "Orokohanga Music Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.orokohangamusictrust.co.nz",
+  "email": "nshand@xtra.co.nz",
+  "address": {
+    "line1": "Apartment 112, James Wattie Village",
+    "line2": "Te Aute Road",
+    "suburb": null,
+    "city": "Havelock North",
+    "postcode": "4130"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T22:58:02Z"
+}

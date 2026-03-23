@@ -1,0 +1,27 @@
+{
+  "id": 68144,
+  "registrationNumber": "CC54471",
+  "name": "The Education Hub",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "theeducationhub.org.nz",
+  "email": "maury@okuora.co.nz",
+  "address": {
+    "line1": "110 Carlton Gore Road",
+    "line2": " ",
+    "suburb": "Newmarket",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043374236",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-19T03:31:44Z"
+}

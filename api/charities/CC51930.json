@@ -1,0 +1,27 @@
+{
+  "id": 65670,
+  "registrationNumber": "CC51930",
+  "name": "Scots Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cschmidt.nz@outlook.com",
+  "address": {
+    "line1": "32 Vardon Road",
+    "line2": " ",
+    "suburb": "Saint Andrews",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:08:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35499,
+  "registrationNumber": "CC47245",
+  "name": "Coastguard Dunedin Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-09-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.coastguard.co.nz",
+  "email": "dunedin.treasurer@coastguard.nz",
+  "address": {
+    "line1": "21 Kitchener Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043050888",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:15:50Z"
+}

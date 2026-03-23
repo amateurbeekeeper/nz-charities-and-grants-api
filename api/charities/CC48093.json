@@ -1,0 +1,27 @@
+{
+  "id": 32686,
+  "registrationNumber": "CC48093",
+  "name": "Byte Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "beckeleven@gmail.com",
+  "address": {
+    "line1": "151 Cambridge Terrace",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-04T22:22:14Z"
+}

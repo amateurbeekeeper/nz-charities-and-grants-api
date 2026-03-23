@@ -1,0 +1,27 @@
+{
+  "id": 40971,
+  "registrationNumber": "CC24138",
+  "name": "New Zealand School Of Dance",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzschoolofdance.ac.nz",
+  "email": "dance@nzschoolofdance.ac.nz",
+  "address": {
+    "line1": "Te Whaea: National Dance and Drama Centre",
+    "line2": "11 Hutchison Road",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429042711162",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T23:48:48Z"
+}

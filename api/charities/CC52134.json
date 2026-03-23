@@ -1,0 +1,27 @@
+{
+  "id": 65872,
+  "registrationNumber": "CC52134",
+  "name": "Hawera Presbyterian Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.haweraprezchurch.org.nz",
+  "email": "theprez.hawera@inspire.net.nz",
+  "address": {
+    "line1": "251 High Street",
+    "line2": "Hawera 4610",
+    "suburb": " ",
+    "city": "Hawera",
+    "postcode": "4610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:06:16Z"
+}

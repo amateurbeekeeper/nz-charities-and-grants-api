@@ -1,0 +1,27 @@
+{
+  "id": 32830,
+  "registrationNumber": "CC48440",
+  "name": "Te Mana O Ngati Rangitihi Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ngatirangitihi.iwi.nz",
+  "email": "accounting@ngatirangitihi.iwi.nz",
+  "address": {
+    "line1": "35 Heale Street",
+    "line2": "RD 4",
+    "suburb": "Matata",
+    "city": "Whakatane",
+    "postcode": "3194"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T02:16:30Z"
+}

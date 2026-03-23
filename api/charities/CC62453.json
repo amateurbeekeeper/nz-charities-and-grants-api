@@ -1,0 +1,27 @@
+{
+  "id": 75997,
+  "registrationNumber": "CC62453",
+  "name": "New Zealand Turkey Network",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nztn.org/",
+  "email": "nztnetwork@gmail.com",
+  "address": {
+    "line1": "PO Box 2000",
+    "line2": null,
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429052008177",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZTN.org/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:33:49Z"
+}

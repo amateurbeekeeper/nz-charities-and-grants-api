@@ -1,0 +1,27 @@
+{
+  "id": 68933,
+  "registrationNumber": "CC55277",
+  "name": "Journey Church Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-12-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.journeychurch.co.nz",
+  "email": "sam@taxconsultant.co.nz",
+  "address": {
+    "line1": "1-7 Marewa Road",
+    "line2": null,
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T10:22:34Z"
+}

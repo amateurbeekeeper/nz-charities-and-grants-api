@@ -1,0 +1,27 @@
+{
+  "id": 37996,
+  "registrationNumber": "CC47816",
+  "name": "The Mixit Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-03-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mixit.co.nz",
+  "email": "info@mixit.co.nz",
+  "address": {
+    "line1": "8 Croydon Road",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429043234974",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T23:06:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42915,
+  "registrationNumber": "CC35159",
+  "name": "Arrowtown School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.arrowtown.school.nz/",
+  "email": "petesinc@xtra.co.nz",
+  "address": {
+    "line1": "9 Chalmers Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Arrowtown",
+    "postcode": "9302"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ArrowtownSchool/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-08T19:40:15Z"
+}

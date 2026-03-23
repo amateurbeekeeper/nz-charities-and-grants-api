@@ -1,0 +1,27 @@
+{
+  "id": 62736,
+  "registrationNumber": "CC43869",
+  "name": "West Melton Rugby Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sporty.co.nz/westmeltonrfc",
+  "email": "karl.playing@gmail.com",
+  "address": {
+    "line1": "64 West Melton Road",
+    "line2": "RD 5",
+    "suburb": "Rolleston",
+    "city": "Christchurch",
+    "postcode": "7675"
+  },
+  "nzbn": "9429042912972",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/westmeltonrugby/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T18:18:19Z"
+}

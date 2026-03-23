@@ -1,0 +1,27 @@
+{
+  "id": 73220,
+  "registrationNumber": "CC59617",
+  "name": "Maryville Village Limited",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2021-10-01T00:00:00Z",
+  "dateDeregistered": "2025-03-03T00:00:00Z",
+  "website": "www.archer.org.nz",
+  "email": "office@archer.org.nz",
+  "address": {
+    "line1": "166 Colombo Street",
+    "line2": " ",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-22T22:48:29Z"
+}

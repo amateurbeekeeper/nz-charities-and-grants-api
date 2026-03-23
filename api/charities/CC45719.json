@@ -1,0 +1,27 @@
+{
+  "id": 38786,
+  "registrationNumber": "CC45719",
+  "name": "Orakei Marae Social & Health Services Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-11-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lisa@nwo.iwi.nz",
+  "address": {
+    "line1": "59C Kitemoana Street",
+    "line2": "Orakei",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429042817666",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Orakei Marae Social and Health Services ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T22:52:50Z"
+}

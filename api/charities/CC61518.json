@@ -1,0 +1,27 @@
+{
+  "id": 75088,
+  "registrationNumber": "CC61518",
+  "name": "Brick Engaged Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.brickengaged.org",
+  "email": "dan.mulholland.nz@gmail.com",
+  "address": {
+    "line1": "16 Lane Street",
+    "line2": " ",
+    "suburb": "Wallaceville",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/brickengaged",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-17T19:20:52Z"
+}

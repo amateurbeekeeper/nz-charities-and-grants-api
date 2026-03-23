@@ -1,0 +1,27 @@
+{
+  "id": 69397,
+  "registrationNumber": "CC55752",
+  "name": "Pilgrims Bible Baptist Church of Auckland",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.pbbc.org.nz",
+  "email": "slahaylahay@pbbc.org.nz",
+  "address": {
+    "line1": "2B Harris Road",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": "9429050868896",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Pilgrims Bible Baptist Church-Auckland, New Zealand",
+    "twitter": "Pilgrims Bible Baptist Church of Auckland (@PBBC_NZ)"
+  },
+  "lastUpdated": "2025-09-24T00:45:05Z"
+}

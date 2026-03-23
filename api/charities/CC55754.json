@@ -1,0 +1,27 @@
+{
+  "id": 69402,
+  "registrationNumber": "CC55754",
+  "name": "Animal Evac New Zealand Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.animalevac.nz",
+  "email": "info@animalevac.nz",
+  "address": {
+    "line1": "5 Bennett Grove",
+    "line2": " ",
+    "suburb": "Newlands",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429046802262",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AnimalEvacNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-27T03:30:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 47985,
+  "registrationNumber": "CC32295",
+  "name": "Parapara Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paraparamaraetreasurer@gmail.com",
+  "address": {
+    "line1": "111 Parapara-Toatoa Road",
+    "line2": "Taipa 0483",
+    "suburb": " ",
+    "city": "Taipa",
+    "postcode": "0483"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/paraparamarae",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T08:13:00Z"
+}

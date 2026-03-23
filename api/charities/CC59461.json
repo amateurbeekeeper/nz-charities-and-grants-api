@@ -1,0 +1,27 @@
+{
+  "id": 73065,
+  "registrationNumber": "CC59461",
+  "name": "The Little Art",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nz.thelittleart.org/",
+  "email": "shoaib@thelittleart.org",
+  "address": {
+    "line1": "16 Panzic Place",
+    "line2": " ",
+    "suburb": "Glen Eden",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thelittleartnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T23:26:02Z"
+}

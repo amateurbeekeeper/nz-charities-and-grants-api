@@ -1,0 +1,27 @@
+{
+  "id": 53107,
+  "registrationNumber": "CC34428",
+  "name": "Reefton 'Who Cares' Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.reeftonwhocareshouse.org.nz",
+  "email": "lisahneil0@gmail.com",
+  "address": {
+    "line1": "14 Mace Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Reefton",
+    "postcode": "7830"
+  },
+  "nzbn": "9429042722205",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whocareshouse/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T07:18:48Z"
+}

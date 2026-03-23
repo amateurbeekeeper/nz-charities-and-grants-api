@@ -1,0 +1,27 @@
+{
+  "id": 73146,
+  "registrationNumber": "CC59546",
+  "name": "Nurture Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-09-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "wayne@12baskets.nz",
+  "address": {
+    "line1": "Ground Floor",
+    "line2": "443 Colombo Street",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429049564242",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T02:39:42Z"
+}

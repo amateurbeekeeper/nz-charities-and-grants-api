@@ -1,0 +1,27 @@
+{
+  "id": 63794,
+  "registrationNumber": "CC40242",
+  "name": "Drum Corps New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.drumline.org.nz",
+  "email": "micah.savage@drumline.org.nz",
+  "address": {
+    "line1": "34 Burundi Avenue",
+    "line2": " ",
+    "suburb": "Clendon Park",
+    "city": "Auckland",
+    "postcode": "2103"
+  },
+  "nzbn": "9429043138111",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "nzdrumline",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T06:39:28Z"
+}

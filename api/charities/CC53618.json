@@ -1,0 +1,27 @@
+{
+  "id": 67330,
+  "registrationNumber": "CC53618",
+  "name": "Northland Listening Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "liz@155.org.nz",
+  "address": {
+    "line1": "155a Kamo Road",
+    "line2": " ",
+    "suburb": "Kensington",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429043307449",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-28T18:17:56Z"
+}

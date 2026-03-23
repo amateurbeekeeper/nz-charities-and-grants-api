@@ -1,0 +1,27 @@
+{
+  "id": 67325,
+  "registrationNumber": "CC53612",
+  "name": "Wellington Trails Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.trailswellington.co.nz",
+  "email": "mandy.hancock@outlook.com",
+  "address": {
+    "line1": "1 Woodward Street",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043315581",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TrailsWellington",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T19:46:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 46943,
+  "registrationNumber": "CC42614",
+  "name": "Public Health Action Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "karl@publichealthaction.org.nz",
+  "address": {
+    "line1": "454 Scenic Drive",
+    "line2": " ",
+    "suburb": "Waiatarua",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": "9429031907088",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-02T21:33:37Z"
+}

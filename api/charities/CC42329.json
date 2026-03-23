@@ -1,0 +1,27 @@
+{
+  "id": 42031,
+  "registrationNumber": "CC42329",
+  "name": "Huakina Development Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.huakina.co.nz",
+  "email": "kandi@huakina.co.nz",
+  "address": {
+    "line1": "17 Roulston Street",
+    "line2": "Pukekohe 2120",
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429042643432",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HuakinaDevelopmentTrustPukekohe/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:48:47Z"
+}

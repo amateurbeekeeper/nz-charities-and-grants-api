@@ -1,0 +1,27 @@
+{
+  "id": 67774,
+  "registrationNumber": "CC54052",
+  "name": "Auckland Telugu Church Of The Nazarene",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aucklandteluguchurchnz.com/",
+  "email": "nzdsec@gmail.com",
+  "address": {
+    "line1": "675 Dominion Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://m.facebook.com/newzealandteluguchurch/?ref=bookmarks",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T22:30:16Z"
+}

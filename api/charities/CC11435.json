@@ -1,0 +1,27 @@
+{
+  "id": 52830,
+  "registrationNumber": "CC11435",
+  "name": "Belfast Community Network Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.belfastcommunitynetwork.org.nz",
+  "email": "manager@belfastcommunitynetwork.org.nz",
+  "address": {
+    "line1": "710 Main North Road",
+    "line2": " ",
+    "suburb": "Belfast",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429043081356",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Belfast Community Network",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-02T19:32:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66891,
+  "registrationNumber": "CC53172",
+  "name": "Sacred Heart Parish Takaka",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": "2017-04-01T00:00:00Z",
+  "website": null,
+  "email": "finance@parish.org.nz",
+  "address": {
+    "line1": "94 Commercial Street",
+    "line2": "Takaka 7110",
+    "suburb": "Richmond",
+    "city": "Takaka",
+    "postcode": "7110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-11-24T23:34:50Z"
+}

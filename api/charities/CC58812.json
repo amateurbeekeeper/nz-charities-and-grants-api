@@ -1,0 +1,27 @@
+{
+  "id": 72408,
+  "registrationNumber": "CC58812",
+  "name": "Te Wai Mauri Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "Tewaimauri.nz",
+  "email": "tkhawai@gmail.com",
+  "address": {
+    "line1": "7 Pitaka Lane",
+    "line2": "RD 3",
+    "suburb": "Waiohiki",
+    "city": "Napier",
+    "postcode": "4183"
+  },
+  "nzbn": "9429048638074",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:37:09Z"
+}

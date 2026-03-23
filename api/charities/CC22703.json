@@ -1,0 +1,27 @@
+{
+  "id": 55675,
+  "registrationNumber": "CC22703",
+  "name": "The Kagyu Choeyang Ling Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kcl.org.nz",
+  "email": "roz@osel.net.nz",
+  "address": {
+    "line1": "485 Hill Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T03:30:43Z"
+}

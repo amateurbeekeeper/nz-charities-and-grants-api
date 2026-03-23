@@ -1,0 +1,27 @@
+{
+  "id": 65447,
+  "registrationNumber": "CC51677",
+  "name": "The Forest Bridge Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-02-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://theforestbridgetrust.org.nz",
+  "email": "ana@theforestbridgetrust.org.nz",
+  "address": {
+    "line1": "2791 Kaipara Coast Highway",
+    "line2": "RD 4",
+    "suburb": "Kaipara Harbour",
+    "city": "Warkworth",
+    "postcode": "0984"
+  },
+  "nzbn": "9429043291106",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/theforestbridgetrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:43:03Z"
+}

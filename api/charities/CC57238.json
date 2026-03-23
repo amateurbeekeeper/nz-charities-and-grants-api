@@ -1,0 +1,27 @@
+{
+  "id": 70869,
+  "registrationNumber": "CC57238",
+  "name": "Ka Uruora Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://kauruora.nz/savings/",
+  "email": "eseebeck@vbw.co.nz",
+  "address": {
+    "line1": "37 Vivian Street",
+    "line2": "New Plymouth 4310",
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kauruora",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:30:01Z"
+}

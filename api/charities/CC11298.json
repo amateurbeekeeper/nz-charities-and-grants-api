@@ -1,0 +1,27 @@
+{
+  "id": 52654,
+  "registrationNumber": "CC11298",
+  "name": "Mana Wahine Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.manawahine.org.nz",
+  "email": "manawahine@kokiri-hauora.org.nz",
+  "address": {
+    "line1": "7-9 Barnes Street",
+    "line2": "Seaview",
+    "suburb": " ",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429043120284",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/manawahineincorporated",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T04:35:33Z"
+}

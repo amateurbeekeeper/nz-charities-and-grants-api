@@ -1,0 +1,27 @@
+{
+  "id": 62147,
+  "registrationNumber": "CC37179",
+  "name": "Project Litefoot Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-01-26T00:00:00Z",
+  "dateDeregistered": "2022-03-31T00:00:00Z",
+  "website": "http://www.litefoot.nz",
+  "email": "antonia@litefoot.nz",
+  "address": {
+    "line1": "48 Ridge Road",
+    "line2": "Mahurangi East 0982",
+    "suburb": "Parnell",
+    "city": "Mahurangi East",
+    "postcode": "0982"
+  },
+  "nzbn": "9429043088409",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/projectlitefoot",
+    "twitter": "https://twitter.com/ProjectLitefoot"
+  },
+  "lastUpdated": "2022-07-07T02:23:30Z"
+}

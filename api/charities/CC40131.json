@@ -1,0 +1,27 @@
+{
+  "id": 58777,
+  "registrationNumber": "CC40131",
+  "name": "Korean Agape Presbyterian Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://aucklandsarang.com/",
+  "email": "agapechurchnz@gmail.com",
+  "address": {
+    "line1": "149 Target Road",
+    "line2": " ",
+    "suburb": "Wairau Valley",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429042654025",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-06T00:08:17Z"
+}

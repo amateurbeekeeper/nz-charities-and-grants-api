@@ -1,0 +1,27 @@
+{
+  "id": 66157,
+  "registrationNumber": "CC52417",
+  "name": "Everybody Cool Lives Here",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-09-29T00:00:00Z",
+  "dateDeregistered": "2018-06-27T00:00:00Z",
+  "website": "www.everybodycoolliveshere.com",
+  "email": "everybodycoolliveshere@gmail.com",
+  "address": {
+    "line1": "Inverlochy House",
+    "line2": "144 Abel Smith Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043266074",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/EverybodyCoolLivesHere/",
+    "twitter": "https://twitter.com/eclhnz"
+  },
+  "lastUpdated": "2018-06-26T20:24:29Z"
+}

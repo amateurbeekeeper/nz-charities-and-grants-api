@@ -1,0 +1,27 @@
+{
+  "id": 42553,
+  "registrationNumber": "CC28488",
+  "name": "Queen Elizabeth The Second National Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.qeiinationaltrust.org.nz",
+  "email": "abanner@qeii.org.nz",
+  "address": {
+    "line1": "138 The Terrace",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/QEIINationalTrust",
+    "twitter": "https://twitter.com/QEIINatTrust"
+  },
+  "lastUpdated": "2026-02-23T01:00:27Z"
+}

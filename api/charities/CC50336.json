@@ -1,0 +1,27 @@
+{
+  "id": 34011,
+  "registrationNumber": "CC50336",
+  "name": "Rolleston Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-03-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://rollestonbaptist.org.nz",
+  "email": "dougsinc@gmail.com",
+  "address": {
+    "line1": "4 Cato Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rolleston",
+    "postcode": "7614"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-08T20:17:25Z"
+}

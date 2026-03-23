@@ -1,0 +1,27 @@
+{
+  "id": 33598,
+  "registrationNumber": "CC49802",
+  "name": "Neuroendocrine Cancer New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-09-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.neuroendocrinecancer.org.nz",
+  "email": "michelle@neuroendocrinecancer.org.nz",
+  "address": {
+    "line1": "34 Montmere Avenue",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429046320391",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/neuroendocrinecancerNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T01:23:31Z"
+}

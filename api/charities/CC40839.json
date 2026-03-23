@@ -1,0 +1,27 @@
+{
+  "id": 42765,
+  "registrationNumber": "CC40839",
+  "name": "Wright Ministries Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.WrightMinistry.org.nz",
+  "email": "judith@jcca.co.nz",
+  "address": {
+    "line1": "513 Herbert Street",
+    "line2": " ",
+    "suburb": "Waverley",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429043106578",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T19:28:49Z"
+}

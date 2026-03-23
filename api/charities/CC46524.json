@@ -1,0 +1,27 @@
+{
+  "id": 36270,
+  "registrationNumber": "CC46524",
+  "name": "Otago Bonsai Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.otagobonsai.co.nz",
+  "email": "rm.maskill@xtra.co.nz",
+  "address": {
+    "line1": "10 Fitzroy Street",
+    "line2": " ",
+    "suburb": "Caversham",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429043079384",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Otago Bonsai Society",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-26T10:19:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34565,
+  "registrationNumber": "CC51228",
+  "name": "Glenavy School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-12-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "adam_emma@outlook.co.nz",
+  "address": {
+    "line1": "Ruane Street",
+    "line2": "R D 10",
+    "suburb": "Glenavy",
+    "city": "Waimate",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Glenavy School PTA",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T23:18:35Z"
+}

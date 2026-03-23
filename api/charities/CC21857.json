@@ -1,0 +1,27 @@
+{
+  "id": 56384,
+  "registrationNumber": "CC21857",
+  "name": "South Kaipara Men's Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.skmt.org.nz",
+  "email": "sthkaiparamenstrust01@gmail.com",
+  "address": {
+    "line1": "PO Box 38",
+    "line2": null,
+    "suburb": " ",
+    "city": "Helensville",
+    "postcode": "0840"
+  },
+  "nzbn": "9429042970477",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T03:13:15Z"
+}

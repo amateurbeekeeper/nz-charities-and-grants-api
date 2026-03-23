@@ -1,0 +1,27 @@
+{
+  "id": 58862,
+  "registrationNumber": "CC30786",
+  "name": "Dunedin Film Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://dunedinfilmsociety.org.nz/",
+  "email": "alister_mcdonald@xtra.co.nz",
+  "address": {
+    "line1": "1 Crewe Street",
+    "line2": " ",
+    "suburb": "Maryhill",
+    "city": "Dunedin",
+    "postcode": "9011"
+  },
+  "nzbn": "9429042662549",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T20:45:19Z"
+}

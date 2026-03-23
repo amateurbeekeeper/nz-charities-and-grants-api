@@ -1,0 +1,27 @@
+{
+  "id": 55875,
+  "registrationNumber": "CC28557",
+  "name": "Diabetes Christchurch Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.diabeteschristchurch.co.nz",
+  "email": "ltaylor@diabeteschristchurch.co.nz",
+  "address": {
+    "line1": "35A Leslie Hills Drive",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042670117",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/DiabetesChristchurchInc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T00:48:46Z"
+}

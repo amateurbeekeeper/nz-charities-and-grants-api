@@ -1,0 +1,27 @@
+{
+  "id": 43484,
+  "registrationNumber": "CC31926",
+  "name": "Your Studio",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2014-02-25T00:00:00Z",
+  "website": null,
+  "email": "graham.martin@paradise.net.nz",
+  "address": {
+    "line1": "75 Hoani Street",
+    "line2": null,
+    "suburb": "Northcote",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429043011469",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-10-12T02:57:52Z"
+}

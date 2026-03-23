@@ -1,0 +1,27 @@
+{
+  "id": 69477,
+  "registrationNumber": "CC55830",
+  "name": "Te Manahuna Aoraki Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.temanahunaaoraki.org/",
+  "email": "andrew.rj@zip.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "5 William Laurie Place",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429046797674",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/temanahunaaoraki",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T21:05:35Z"
+}

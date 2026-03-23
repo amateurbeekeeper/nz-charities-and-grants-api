@@ -1,0 +1,27 @@
+{
+  "id": 41212,
+  "registrationNumber": "CC35262",
+  "name": "Tauranga Brass Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taurangacitybrass.com",
+  "email": "rgmbrown@icloud.com",
+  "address": {
+    "line1": "10 Yatton Street",
+    "line2": " ",
+    "suburb": "Greerton",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042862062",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Tauranga City Brass",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T18:13:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 45293,
+  "registrationNumber": "CC33742",
+  "name": "Caversham Playfair Street Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cavycommunitychurch.org.nz/",
+  "email": "pamlindsaymartin@gmail.com",
+  "address": {
+    "line1": "17 Playfair Street",
+    "line2": " ",
+    "suburb": "Caversham",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429043102990",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T22:41:17Z"
+}

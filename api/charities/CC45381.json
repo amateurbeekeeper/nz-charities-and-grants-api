@@ -1,0 +1,27 @@
+{
+  "id": 35900,
+  "registrationNumber": "CC45381",
+  "name": "The Historical Arts Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-09-19T00:00:00Z",
+  "dateDeregistered": "2017-07-19T00:00:00Z",
+  "website": "http://www.that.org.nz",
+  "email": "dimitri@that.org.nz",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429043206445",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:37:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55215,
+  "registrationNumber": "CC22146",
+  "name": "The New Zealand War Graves Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzwargraves.com",
+  "email": "derrick.bunn@gmail.com",
+  "address": {
+    "line1": "5 Quo Vadis Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Red Beach",
+    "postcode": "0932"
+  },
+  "nzbn": "9429043041756",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T00:55:27Z"
+}

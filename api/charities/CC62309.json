@@ -1,0 +1,27 @@
+{
+  "id": 75855,
+  "registrationNumber": "CC62309",
+  "name": "Wāhi Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wahi.org.nz/",
+  "email": "lukeg@wahi.org.nz",
+  "address": {
+    "line1": "1 Edgewater Grove",
+    "line2": " ",
+    "suburb": "Whakatāne",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429052223464",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100089335945107",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T18:10:32Z"
+}

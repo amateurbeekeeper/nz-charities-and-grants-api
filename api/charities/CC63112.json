@@ -1,0 +1,27 @@
+{
+  "id": 77181,
+  "registrationNumber": "CC63112",
+  "name": "Te Roroa Social Development Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teroroa.iwi.nz",
+  "email": "admin@teroroasocial.com",
+  "address": {
+    "line1": "42 Hokianga Road",
+    "line2": "Dargaville 0310",
+    "suburb": " ",
+    "city": "Dargaville",
+    "postcode": "0310"
+  },
+  "nzbn": "9429032488555",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/TeIwiOTeRoroa",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T03:11:10Z"
+}

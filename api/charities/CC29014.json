@@ -1,0 +1,27 @@
+{
+  "id": 43711,
+  "registrationNumber": "CC29014",
+  "name": "Omapere Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2026-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jane@ufba.org.nz",
+  "address": {
+    "line1": "191 Hokianga Harbour Drive",
+    "line2": "RD 3",
+    "suburb": "Ōmāpere",
+    "city": "Kaikohe",
+    "postcode": "0473"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T21:23:39Z"
+}

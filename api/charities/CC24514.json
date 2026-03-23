@@ -1,0 +1,27 @@
+{
+  "id": 40150,
+  "registrationNumber": "CC24514",
+  "name": "Inspire Church Albany Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.myinspirechurch.org.nz",
+  "email": "mikeh@symmetrynz.co.nz",
+  "address": {
+    "line1": "28b William Pickering Drive",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429042938989",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-21T19:41:46Z"
+}

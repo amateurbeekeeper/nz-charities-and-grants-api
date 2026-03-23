@@ -1,0 +1,27 @@
+{
+  "id": 70904,
+  "registrationNumber": "CC57272",
+  "name": "The Jade Speaks Up Educational Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://jadespeaksup.co.nz/",
+  "email": "admin@jadespeaksup.co.nz",
+  "address": {
+    "line1": "3 Willis Place",
+    "line2": " ",
+    "suburb": "Spreydon",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429047718463",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "jadespeaksup",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T02:00:04Z"
+}

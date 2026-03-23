@@ -1,0 +1,27 @@
+{
+  "id": 62584,
+  "registrationNumber": "CC43267",
+  "name": "City Way Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-12-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.connectnz.church/",
+  "email": "bobby@connectnz.church",
+  "address": {
+    "line1": "71A Wallace Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429042934592",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/connectnz.church/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-14T05:11:42Z"
+}

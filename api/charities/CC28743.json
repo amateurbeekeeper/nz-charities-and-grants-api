@@ -1,0 +1,27 @@
+{
+  "id": 40137,
+  "registrationNumber": "CC28743",
+  "name": "Christian Resource Centre International",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cr.org.nz",
+  "email": "rob@cr.org.nz",
+  "address": {
+    "line1": "35A Carnarvon Street",
+    "line2": null,
+    "suburb": "Linwood",
+    "city": "Christchurch",
+    "postcode": "8062"
+  },
+  "nzbn": "9429042619093",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T19:43:13Z"
+}

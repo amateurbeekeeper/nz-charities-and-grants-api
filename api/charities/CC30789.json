@@ -1,0 +1,27 @@
+{
+  "id": 49081,
+  "registrationNumber": "CC30789",
+  "name": "The Neurology Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david@dkbaccounting.co.nz",
+  "address": {
+    "line1": "24 Irvines Track",
+    "line2": " ",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-18T19:20:30Z"
+}

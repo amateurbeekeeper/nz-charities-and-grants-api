@@ -1,0 +1,27 @@
+{
+  "id": 32959,
+  "registrationNumber": "CC48898",
+  "name": "Youth Encounter Ministries Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-09-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.youthencounter.co.nz",
+  "email": "mary@youthencounter.co.nz",
+  "address": {
+    "line1": "196 Roydon Downs Road",
+    "line2": "RD 9",
+    "suburb": "Paengaroa",
+    "city": "Te Puke",
+    "postcode": "3189"
+  },
+  "nzbn": "9429043302772",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/YouthEncounterNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-18T19:21:34Z"
+}

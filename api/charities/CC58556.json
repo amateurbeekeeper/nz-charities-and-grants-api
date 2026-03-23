@@ -1,0 +1,27 @@
+{
+  "id": 72173,
+  "registrationNumber": "CC58556",
+  "name": "Sika Foundation Conservation Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.sikafoundation.co.nz",
+  "email": "mike@sikafoundation.co.nz",
+  "address": {
+    "line1": "21 Shera Street",
+    "line2": " ",
+    "suburb": "Acacia Bay",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429048882507",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:02:14Z"
+}

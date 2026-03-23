@@ -1,0 +1,27 @@
+{
+  "id": 67541,
+  "registrationNumber": "CC53833",
+  "name": "Bath Street Arts Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-10-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.bathstreetartstrust.com",
+  "email": "georgina@bathstreetartstrust.com",
+  "address": {
+    "line1": "79 Jamieson Road",
+    "line2": "RD 2",
+    "suburb": "Buckland",
+    "city": "Pukekohe",
+    "postcode": "2677"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T02:05:59Z"
+}

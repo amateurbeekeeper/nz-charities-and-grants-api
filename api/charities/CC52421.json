@@ -1,0 +1,27 @@
+{
+  "id": 66149,
+  "registrationNumber": "CC52421",
+  "name": "Astor Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.astorfoundation.co.nz",
+  "email": "juliet.moses@tgtlegal.com",
+  "address": {
+    "line1": "55-65 Shortland Street",
+    "line2": null,
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T02:19:54Z"
+}

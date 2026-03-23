@@ -1,0 +1,27 @@
+{
+  "id": 69673,
+  "registrationNumber": "CC56023",
+  "name": "The Maroon Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "maroonfoundation.nz",
+  "email": "matt.donaldson@markhams.co.nz",
+  "address": {
+    "line1": "Level 2, Building one",
+    "line2": "181 High Street",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "8144"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T19:11:30Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 32692,
+  "registrationNumber": "CC48527",
+  "name": "St Christopher's Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2012-07-26T00:00:00Z",
+  "dateDeregistered": "2025-10-31T00:00:00Z",
+  "website": null,
+  "email": "graeme.conning@cbca.co.nz",
+  "address": {
+    "line1": "Flat 5",
+    "line2": "9 Basque Road",
+    "suburb": "Eden Terrace",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429042939870",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T23:36:38Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40400,
+  "registrationNumber": "CC40149",
+  "name": "Auckland Agricultural Pastoral and Industrial Shows Board",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2021-06-22T00:00:00Z",
+  "website": "http://www.asbshowgrounds.co.nz",
+  "email": "piers@wwandd.co.nz",
+  "address": {
+    "line1": "Administration Building",
+    "line2": "Asb Showgrounds 217 Green Lane West",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429046923646",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https:www.facebook.com/asbshowgrounds",
+    "twitter": null
+  },
+  "lastUpdated": "2021-12-10T02:18:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53424,
+  "registrationNumber": "CC23433",
+  "name": "Connected Media Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dofilm.co.nz",
+  "email": "chris@dofilm.co.nz",
+  "address": {
+    "line1": "Unit 17",
+    "line2": "49 Sainsbury Road",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042617457",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dayone.aotearoa",
+    "twitter": "https://twitter.com/dayone_nz"
+  },
+  "lastUpdated": "2026-02-08T20:59:06Z"
+}

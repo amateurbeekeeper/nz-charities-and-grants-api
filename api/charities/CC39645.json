@@ -1,0 +1,27 @@
+{
+  "id": 47324,
+  "registrationNumber": "CC39645",
+  "name": "Taranaki Safe Families Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taranakisafefamilies.org.nz/",
+  "email": "dane.haskell@taranakisafefamilies.org.nz",
+  "address": {
+    "line1": "10 Devon Street East",
+    "line2": "New Plymouth 4310",
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043097111",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/taranakisafefamilies",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T20:05:17Z"
+}

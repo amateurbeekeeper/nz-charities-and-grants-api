@@ -1,0 +1,27 @@
+{
+  "id": 67777,
+  "registrationNumber": "CC54085",
+  "name": "Bannockburn Bowling Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-12-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sporty.co.nz/bannockburnbowls",
+  "email": "m.s.duff@slingshot.co.nz",
+  "address": {
+    "line1": "15 Lowburn Terrace",
+    "line2": "RD 2",
+    "suburb": "Lowburn",
+    "city": "Cromwell",
+    "postcode": "9384"
+  },
+  "nzbn": "9429043143207",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T22:14:33Z"
+}

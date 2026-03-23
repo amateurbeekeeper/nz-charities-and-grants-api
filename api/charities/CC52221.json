@@ -1,0 +1,27 @@
+{
+  "id": 65963,
+  "registrationNumber": "CC52221",
+  "name": "Chabad New Zealand Hebrew Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.chabad.nz/",
+  "email": "rabbi@chabadnz.com",
+  "address": {
+    "line1": "788 Remuera Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429043282579",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ChabadANZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T01:52:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37285,
+  "registrationNumber": "CC46634",
+  "name": "Hamilton Volleyball Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hamiltonvolleyballclub@gmail.com",
+  "address": {
+    "line1": "16 Lulu Avenue",
+    "line2": " ",
+    "suburb": "Chartwell",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429043041848",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hvc.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T00:10:36Z"
+}

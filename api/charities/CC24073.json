@@ -1,0 +1,27 @@
+{
+  "id": 41480,
+  "registrationNumber": "CC24073",
+  "name": "Action Education Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.actioneducation.co.nz",
+  "email": "ramon@actioneducation.co.nz",
+  "address": {
+    "line1": "4 Kitchener Road",
+    "line2": " ",
+    "suburb": "Sandringham",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042571919",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/actioneducationinc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:49:42Z"
+}

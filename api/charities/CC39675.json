@@ -1,0 +1,27 @@
+{
+  "id": 47335,
+  "registrationNumber": "CC39675",
+  "name": "Fiordland New Life Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://fnlc.website",
+  "email": "fnlc.org@gmail.com",
+  "address": {
+    "line1": "6 Blatch Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Te Anau",
+    "postcode": "9679"
+  },
+  "nzbn": "9429043098729",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "fiordland new life church",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-06T23:16:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34500,
+  "registrationNumber": "CC50983",
+  "name": "Bald Angels Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.baldangels.org.nz",
+  "email": "tw@baldangels.org.nz",
+  "address": {
+    "line1": "6 Fairway Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kerikeri",
+    "postcode": "0230"
+  },
+  "nzbn": "9429046924063",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "BaldAngels",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T03:25:43Z"
+}

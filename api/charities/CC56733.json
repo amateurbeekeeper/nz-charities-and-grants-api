@@ -1,0 +1,27 @@
+{
+  "id": 70374,
+  "registrationNumber": "CC56733",
+  "name": "HOST International NZ Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hostinternational.org.nz",
+  "email": "keegandj@me.com",
+  "address": {
+    "line1": "Level 4",
+    "line2": "24 Johnston Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429046457103",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HOSTInternationalAotearoa/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T20:24:59Z"
+}

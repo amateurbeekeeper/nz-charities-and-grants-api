@@ -1,0 +1,27 @@
+{
+  "id": 78405,
+  "registrationNumber": "CC64216",
+  "name": "Te Toi Aro Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "toiarotrust@gmail.com",
+  "address": {
+    "line1": "37 Fred Thomas Drive",
+    "line2": null,
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T20:53:32Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55645,
+  "registrationNumber": "CC21723",
+  "name": "Tramway Historical Society Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ferrymeadtramway.org.nz",
+  "email": "treasurer@ths.org.nz",
+  "address": {
+    "line1": "275 Bridle Path Road",
+    "line2": " ",
+    "suburb": "Ferrymead",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429042898146",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/christchurchtramwaysociety/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T01:49:35Z"
+}

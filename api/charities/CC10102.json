@@ -1,0 +1,27 @@
+{
+  "id": 51270,
+  "registrationNumber": "CC10102",
+  "name": "North Shore RDA Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-03-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.northshorerda.org",
+  "email": "trustchair@northshorerda.org",
+  "address": {
+    "line1": "79 Aubrey Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Silverdale",
+    "postcode": "993"
+  },
+  "nzbn": "9429042967279",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-28T19:05:23Z"
+}

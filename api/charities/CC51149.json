@@ -1,0 +1,27 @@
+{
+  "id": 33554,
+  "registrationNumber": "CC51149",
+  "name": "New Zealand Association for Research in Education Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzare.org.nz",
+  "email": "nzare.eo@gmail.com",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429042678618",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZresearchineducation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T21:14:52Z"
+}

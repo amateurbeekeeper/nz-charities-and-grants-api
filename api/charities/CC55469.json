@@ -1,0 +1,27 @@
+{
+  "id": 69128,
+  "registrationNumber": "CC55469",
+  "name": "Project Restore New Zealand Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-02-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.projectrestore.nz",
+  "email": "info@projectrestore.nz",
+  "address": {
+    "line1": "128 Khyber Pass Road",
+    "line2": " ",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429046338471",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/projectrestore.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T01:14:24Z"
+}

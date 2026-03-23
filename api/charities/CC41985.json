@@ -1,0 +1,27 @@
+{
+  "id": 42748,
+  "registrationNumber": "CC41985",
+  "name": "Canoe Racing New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-08-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.canoeracing.org.nz",
+  "email": "stacey@crnz.org",
+  "address": {
+    "line1": "17 Antares Place",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429042945642",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-29T19:16:05Z"
+}

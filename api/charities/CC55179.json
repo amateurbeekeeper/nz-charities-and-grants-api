@@ -1,0 +1,27 @@
+{
+  "id": 68834,
+  "registrationNumber": "CC55179",
+  "name": "K9 Medical Detection New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-02-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.k9md.org.nz",
+  "email": "pauline@k9medicaldetection.nz",
+  "address": {
+    "line1": "AgResearch Invermay",
+    "line2": "Puddle Alley",
+    "suburb": "Mosgiel",
+    "city": "Dunedin",
+    "postcode": "9092"
+  },
+  "nzbn": "9429046540515",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "K9 Medical Detection NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:58:43Z"
+}

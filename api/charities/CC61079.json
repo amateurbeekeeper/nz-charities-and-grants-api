@@ -1,0 +1,27 @@
+{
+  "id": 74661,
+  "registrationNumber": "CC61079",
+  "name": "Tuhoe Tuawhenua Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-12-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tuawhenua.biz",
+  "email": "office@tuawhenua.biz",
+  "address": {
+    "line1": "363A Mataatua Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ruatahuna",
+    "postcode": "3079"
+  },
+  "nzbn": "9429047597181",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tuawhenuatrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T01:41:37Z"
+}

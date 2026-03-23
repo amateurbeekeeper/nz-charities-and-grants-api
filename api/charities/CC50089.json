@@ -1,0 +1,27 @@
+{
+  "id": 33817,
+  "registrationNumber": "CC50089",
+  "name": "Braid Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-12-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.braid.org.nz",
+  "email": "manager@braid.org.nz",
+  "address": {
+    "line1": "22 Somerset Drive",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Oxford",
+    "postcode": "7495"
+  },
+  "nzbn": "9429043210572",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/braidedriveraid",
+    "twitter": "https://twitter.com/braidedriveraid"
+  },
+  "lastUpdated": "2025-12-02T18:13:15Z"
+}

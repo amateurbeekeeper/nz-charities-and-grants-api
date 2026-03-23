@@ -1,0 +1,27 @@
+{
+  "id": 68399,
+  "registrationNumber": "CC54357",
+  "name": "O2 Church Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-03-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.o2church.org.nz",
+  "email": "sam@o2church.org.nz",
+  "address": {
+    "line1": "19 Amber Crescent",
+    "line2": " ",
+    "suburb": "Judea",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429045894398",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-09-25T19:17:42Z"
+}

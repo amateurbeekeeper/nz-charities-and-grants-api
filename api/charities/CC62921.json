@@ -1,0 +1,27 @@
+{
+  "id": 76807,
+  "registrationNumber": "CC62921",
+  "name": "Mathateca Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://mathateca.nz",
+  "email": "rata@mathateca.nz",
+  "address": {
+    "line1": "16 Bridle Path Road",
+    "line2": " ",
+    "suburb": "Heathcote Valley",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429052401664",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mathateca",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-16T03:51:23Z"
+}

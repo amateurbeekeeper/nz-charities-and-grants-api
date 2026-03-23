@@ -1,0 +1,27 @@
+{
+  "id": 40730,
+  "registrationNumber": "CC38369",
+  "name": "Hillary Institute of International Leadership",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hillaryinstitute.com",
+  "email": "nathaniel@ehf.org",
+  "address": {
+    "line1": "101 Pakenham Street West",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043046072",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T00:12:56Z"
+}

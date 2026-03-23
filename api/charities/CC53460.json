@@ -1,0 +1,27 @@
+{
+  "id": 67175,
+  "registrationNumber": "CC53460",
+  "name": "TupuToa ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tuputoa.org.nz",
+  "email": "aroha@tuputoa.org.nz",
+  "address": {
+    "line1": "68 Sale Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043296170",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/TupuToa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T02:47:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53933,
+  "registrationNumber": "CC20895",
+  "name": "Youthline Central South Island",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://youthline.kiwi/youthline-central-south-island/",
+  "email": "manager@youthlinecsi.org.nz",
+  "address": {
+    "line1": "109 Salisbury Street",
+    "line2": "Sydenham",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042939481",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Youthline-Central-South-Island-1871168726500049/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T03:07:41Z"
+}

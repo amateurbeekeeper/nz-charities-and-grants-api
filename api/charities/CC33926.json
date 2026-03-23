@@ -1,0 +1,27 @@
+{
+  "id": 43383,
+  "registrationNumber": "CC33926",
+  "name": "Pahiatua Railcar Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.railcars.co.nz",
+  "email": "TristanS@railcars.co.nz",
+  "address": {
+    "line1": "160 Pahiatua Mangahao Road",
+    "line2": "Mangamutu",
+    "suburb": "Mangamutu",
+    "city": "Pahiatua",
+    "postcode": "4983"
+  },
+  "nzbn": "9429042774761",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzrailcars",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-21T18:48:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55781,
+  "registrationNumber": "CC22236",
+  "name": "Mt Wellington Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mwcc.org.nz",
+  "email": "treasurer@mwcc.org.nz",
+  "address": {
+    "line1": "3 Waipuna Road",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mtwellingtoncommunitychurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-11T19:39:35Z"
+}

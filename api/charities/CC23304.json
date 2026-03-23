@@ -1,0 +1,27 @@
+{
+  "id": 56201,
+  "registrationNumber": "CC23304",
+  "name": "Taranaki Futures Trust Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2025-02-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.taranakifutures.org",
+  "email": "info@taranakifutures.org",
+  "address": {
+    "line1": "42 Egmont Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043114467",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T22:08:07Z"
+}

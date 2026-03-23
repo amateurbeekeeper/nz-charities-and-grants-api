@@ -1,0 +1,27 @@
+{
+  "id": 33822,
+  "registrationNumber": "CC50420",
+  "name": "Safe Turangi",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.safeturangi.info.nz",
+  "email": "info@safeturangi.org.nz",
+  "address": {
+    "line1": "Shop 45",
+    "line2": " Turangi Town Centre",
+    "suburb": "Tūrangi",
+    "city": "Turangi",
+    "postcode": "3353"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook/safeturangi",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:39:21Z"
+}

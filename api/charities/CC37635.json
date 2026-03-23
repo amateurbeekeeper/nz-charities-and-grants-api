@@ -1,0 +1,27 @@
+{
+  "id": 42234,
+  "registrationNumber": "CC37635",
+  "name": "Wairarapa Moana Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-05-31T00:00:00Z",
+  "website": "http://www.wairarapamoana.org.nz",
+  "email": "trust@wairarapamoana.org.nz",
+  "address": {
+    "line1": "4 Park Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429042882817",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T00:44:36Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64186,
+  "registrationNumber": "CC45023",
+  "name": "Te Roopu o Muriwhenua Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2022-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "muriwhenua09@gmail.com",
+  "address": {
+    "line1": "70 North Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaitaia",
+    "postcode": "0410"
+  },
+  "nzbn": "9429043207275",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Te-R%C5%8Dp%C5%AB-o-Muriwhenua-196391550905",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T18:46:28Z"
+}

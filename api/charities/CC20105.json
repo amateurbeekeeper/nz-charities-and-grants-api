@@ -1,0 +1,27 @@
+{
+  "id": 53064,
+  "registrationNumber": "CC20105",
+  "name": "The South Island (Te Waipounamu) Branch of the Muscular Dystrophy Association of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-11-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mda.org.nz",
+  "email": "southern@mda.org.nz",
+  "address": {
+    "line1": "PO Box 80025",
+    "line2": "Riccarton",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "8440"
+  },
+  "nzbn": "9429042856344",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MDASOUTHISLAND/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T21:09:56Z"
+}

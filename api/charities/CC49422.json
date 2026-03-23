@@ -1,0 +1,27 @@
+{
+  "id": 35242,
+  "registrationNumber": "CC49422",
+  "name": "The Court Theatre Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-06-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.courtfoundation.org.nz",
+  "email": "Hall@otahuna.co.nz",
+  "address": {
+    "line1": "748 Colombo Street",
+    "line2": " ",
+    "suburb": " Central City",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043241200",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-06T21:25:55Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55182,
+  "registrationNumber": "CC21972",
+  "name": "Age Concern Wairoa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ageconcern.org.nz",
+  "email": "manager@acwairoa.org.nz",
+  "address": {
+    "line1": "176 Marine Parade",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wairoa",
+    "postcode": "4108"
+  },
+  "nzbn": "9429043029303",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:56:55Z"
+}

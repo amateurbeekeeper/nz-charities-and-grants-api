@@ -1,0 +1,27 @@
+{
+  "id": 50107,
+  "registrationNumber": "CC43631",
+  "name": "The Blessing Church of Auckland",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-02-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "godukk@gmail.com",
+  "address": {
+    "line1": "47 Oakway Drive",
+    "line2": " ",
+    "suburb": "Schnapper Rock",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043209910",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:41:01Z"
+}

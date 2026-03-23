@@ -1,0 +1,27 @@
+{
+  "id": 69893,
+  "registrationNumber": "CC56254",
+  "name": "Mikro Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://mikrofoundation.com",
+  "email": "kim@mikrofoundation.com",
+  "address": {
+    "line1": "PO Box 849",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3040"
+  },
+  "nzbn": "9429046707147",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T20:20:10Z"
+}

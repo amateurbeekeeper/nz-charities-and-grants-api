@@ -1,0 +1,27 @@
+{
+  "id": 40487,
+  "registrationNumber": "CC20854",
+  "name": "Citizens Advice Bureau Buller Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chair.buller@cab.org.nz",
+  "address": {
+    "line1": "Clock Tower Building",
+    "line2": "Palmerston Street",
+    "suburb": " ",
+    "city": "Westport",
+    "postcode": "7825"
+  },
+  "nzbn": "9429042603399",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T23:34:34Z"
+}

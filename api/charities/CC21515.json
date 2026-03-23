@@ -1,0 +1,27 @@
+{
+  "id": 54602,
+  "registrationNumber": "CC21515",
+  "name": "Alzheimers Society Nelson Tasman Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.alzheimers.org.nz/nelson",
+  "email": "manager@alzheimersnsn.org.nz",
+  "address": {
+    "line1": "75 Tahunanui Drive",
+    "line2": " ",
+    "suburb": "Tahunanui",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429042576099",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/alzheimers.nelsonnewzealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T19:33:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65733,
+  "registrationNumber": "CC51984",
+  "name": "Wanaka Associated Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wanakafootball.NZ",
+  "email": "treasurer@wanakafootball.nz",
+  "address": {
+    "line1": "63 Minaret Ridge",
+    "line2": " ",
+    "suburb": "Wānaka",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429043053476",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/wanakaafc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T00:01:14Z"
+}

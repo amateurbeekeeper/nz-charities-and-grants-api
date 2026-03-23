@@ -1,0 +1,27 @@
+{
+  "id": 40148,
+  "registrationNumber": "CC23791",
+  "name": "Western Bay New Life Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.thewaycommunity.nz",
+  "email": "admin@coolstorechurch.nz",
+  "address": {
+    "line1": "73 Te Puke Quarry Road",
+    "line2": "Te Puke 3183",
+    "suburb": "Paengaroa",
+    "city": "Te Puke",
+    "postcode": "3183"
+  },
+  "nzbn": "9429042975724",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T19:38:18Z"
+}

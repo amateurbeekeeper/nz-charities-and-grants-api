@@ -1,0 +1,27 @@
+{
+  "id": 49722,
+  "registrationNumber": "CC32814",
+  "name": "Foundation For Arable Research Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.far.org.nz",
+  "email": "far@far.org.nz",
+  "address": {
+    "line1": "185 Kirk Road",
+    "line2": "RD 8",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "7678"
+  },
+  "nzbn": "9429042626411",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T19:47:00Z"
+}

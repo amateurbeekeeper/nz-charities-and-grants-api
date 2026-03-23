@@ -1,0 +1,27 @@
+{
+  "id": 74639,
+  "registrationNumber": "CC61059",
+  "name": "St Heliers Community Centre Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sthelierscentre.org.nz",
+  "email": "drrckburke@gmail.com",
+  "address": {
+    "line1": "100 St Heliers Bay Road",
+    "line2": " ",
+    "suburb": "St Heliers",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "St Heliers Community Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-30T03:42:59Z"
+}

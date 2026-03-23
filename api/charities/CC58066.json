@@ -1,0 +1,27 @@
+{
+  "id": 71690,
+  "registrationNumber": "CC58066",
+  "name": "BeyondWater Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-03-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.beyondwater.global",
+  "email": "sharoncrean@beyondwater.global",
+  "address": {
+    "line1": "35 Weka Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mangawhai",
+    "postcode": "0505"
+  },
+  "nzbn": "9429043295142",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/BeyondWaterOrg/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T06:25:20Z"
+}

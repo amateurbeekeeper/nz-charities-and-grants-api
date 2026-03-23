@@ -1,0 +1,27 @@
+{
+  "id": 33356,
+  "registrationNumber": "CC48916",
+  "name": "Christchurch Transitional Architecture Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://teputahi.org.nz",
+  "email": "jessica@teputahi.org.nz",
+  "address": {
+    "line1": "4 Ash Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043300921",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/teputahi/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T18:18:19Z"
+}

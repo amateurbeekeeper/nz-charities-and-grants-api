@@ -1,0 +1,27 @@
+{
+  "id": 33901,
+  "registrationNumber": "CC50139",
+  "name": "University of Canterbury Hockey Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-01-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.uchockey.co.nz",
+  "email": "president@uchockey.co.nz",
+  "address": {
+    "line1": "C/O UCSA",
+    "line2": "90 Ilam Road",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429043184149",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/uchockeynz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T00:45:15Z"
+}

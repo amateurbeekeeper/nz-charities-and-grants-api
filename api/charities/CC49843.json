@@ -1,0 +1,27 @@
+{
+  "id": 33264,
+  "registrationNumber": "CC49843",
+  "name": "Taupo Bike Park Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-10-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "basecamp3378@gmail.com",
+  "address": {
+    "line1": "Unit 3",
+    "line2": "127 Tauhara Road",
+    "suburb": "Tauhara",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429043302277",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/taupobikepark/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T00:37:18Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48984,
+  "registrationNumber": "CC33980",
+  "name": "Friends Of Hillsborough Primary",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hps.school.nz",
+  "email": "melaneyjones@gmail.com",
+  "address": {
+    "line1": "Belfast Street",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T20:09:56Z"
+}

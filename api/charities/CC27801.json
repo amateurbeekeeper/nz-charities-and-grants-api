@@ -1,0 +1,27 @@
+{
+  "id": 59967,
+  "registrationNumber": "CC27801",
+  "name": "Featherston Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.toylibrary.co.nz/find-toy-library/lower-north-island/featherston-toy-library/",
+  "email": "featherstontl@gmail.com",
+  "address": {
+    "line1": "Featherston Community Centre ",
+    "line2": "14 Wakefield Street b",
+    "suburb": " ",
+    "city": "Featherston",
+    "postcode": "5710"
+  },
+  "nzbn": "9429043013395",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/featherstontoylibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T22:19:37Z"
+}

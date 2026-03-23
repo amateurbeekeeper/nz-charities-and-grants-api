@@ -1,0 +1,27 @@
+{
+  "id": 45259,
+  "registrationNumber": "CC33711",
+  "name": "Eden Arts: Maungawhau Mount Eden Community Arts Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.edenarts.art",
+  "email": "info@edenarts.art",
+  "address": {
+    "line1": "PO Box 67135",
+    "line2": "Mount Eden",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1349"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Eden Arts Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-17T00:57:14Z"
+}

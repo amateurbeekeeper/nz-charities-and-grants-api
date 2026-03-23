@@ -1,0 +1,27 @@
+{
+  "id": 68959,
+  "registrationNumber": "CC55302",
+  "name": "Tasmonics Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tasmonics.nz",
+  "email": "noel@jelsma.net",
+  "address": {
+    "line1": "88 Neudorf Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Upper Moutere",
+    "postcode": "7175"
+  },
+  "nzbn": "9429042980735",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Tasmonics",
+    "twitter": "NA"
+  },
+  "lastUpdated": "2026-03-11T08:11:22Z"
+}

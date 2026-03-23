@@ -1,0 +1,27 @@
+{
+  "id": 33202,
+  "registrationNumber": "CC48806",
+  "name": "Dunedin Full Gospel Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-02-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ba1234nz@hotmail.com",
+  "address": {
+    "line1": "2 Preatwick Street",
+    "line2": " ",
+    "suburb": "Maori Hill",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:41:10Z"
+}

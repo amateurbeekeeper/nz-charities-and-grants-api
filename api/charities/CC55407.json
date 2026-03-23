@@ -1,0 +1,27 @@
+{
+  "id": 69057,
+  "registrationNumber": "CC55407",
+  "name": "Deaf Action New Zealand Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-01-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.deafaction.org.nz",
+  "email": "info@deafaction.org.nz",
+  "address": {
+    "line1": "6 Udall Place",
+    "line2": " ",
+    "suburb": "Bucklands Beach",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": "9429043298730",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook/com/DeafActionNZ ",
+    "twitter": "www.twitter.com/DeafActionNZ"
+  },
+  "lastUpdated": "2026-03-10T07:58:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 62161,
+  "registrationNumber": "CC32408",
+  "name": "Turangi Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-10-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.turangifire.org.nz",
+  "email": "chris.james@fireandemergency.nz",
+  "address": {
+    "line1": "16 Ohuanga Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Turangi",
+    "postcode": "3334"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/TurangiFire/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T22:11:12Z"
+}

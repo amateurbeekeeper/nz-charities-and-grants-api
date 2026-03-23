@@ -1,0 +1,27 @@
+{
+  "id": 63329,
+  "registrationNumber": "CC37604",
+  "name": "Ngahauranga Te Kohanga Reo",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "whanau@k09c043.kohanga.ac.nz",
+  "address": {
+    "line1": "55 Victory Crescent",
+    "line2": " ",
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": "9429042672371",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ngahauranga.kohangareo",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-16T18:11:28Z"
+}

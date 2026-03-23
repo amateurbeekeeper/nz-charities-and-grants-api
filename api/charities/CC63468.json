@@ -1,0 +1,27 @@
+{
+  "id": 77671,
+  "registrationNumber": "CC63468",
+  "name": "Ikawhakataka Inc",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "safarihynes@gmail.com",
+  "address": {
+    "line1": "Unit 9",
+    "line2": "Fernhill Flats",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T03:25:59Z"
+}

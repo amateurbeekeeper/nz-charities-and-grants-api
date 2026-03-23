@@ -1,0 +1,27 @@
+{
+  "id": 50903,
+  "registrationNumber": "CC42217",
+  "name": "New Zealand College of Midwives Waikato/Taranaki Region",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waikato.midwife.org.nz",
+  "email": "treasurerwaikatonzcom@gmail.com",
+  "address": {
+    "line1": "35 Puutikitiki Street",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T02:50:51Z"
+}

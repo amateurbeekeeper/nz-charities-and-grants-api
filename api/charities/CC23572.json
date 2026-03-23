@@ -1,0 +1,27 @@
+{
+  "id": 54131,
+  "registrationNumber": "CC23572",
+  "name": "Kingdom Resources Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kingdomresources.org.nz",
+  "email": "david@kingdomresources.org.nz",
+  "address": {
+    "line1": "246 Lyttelton Street",
+    "line2": "Addington",
+    "suburb": "Spreydon",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429038677519",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@Kingdomresourceschch",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T02:55:32Z"
+}

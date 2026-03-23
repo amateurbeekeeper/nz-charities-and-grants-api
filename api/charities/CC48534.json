@@ -1,0 +1,27 @@
+{
+  "id": 32666,
+  "registrationNumber": "CC48534",
+  "name": "Shekinah Tabernacle",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-12-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.shekinahwellington.nz",
+  "email": "benjamin.gloyne@gmail.com",
+  "address": {
+    "line1": "46 Arahiwi Grove",
+    "line2": " ",
+    "suburb": "Tirohanga",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T18:55:41Z"
+}

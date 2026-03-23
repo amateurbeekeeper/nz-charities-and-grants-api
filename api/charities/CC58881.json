@@ -1,0 +1,27 @@
+{
+  "id": 72485,
+  "registrationNumber": "CC58881",
+  "name": "The New Zealand Anti-Vivisection Society Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-04-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzavs.org.nz",
+  "email": "hello@totallywired.nz",
+  "address": {
+    "line1": "25 Mailer Street",
+    "line2": " ",
+    "suburb": "Mornington",
+    "city": "Dunedin",
+    "postcode": "9011"
+  },
+  "nzbn": "9429042776390",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/NZAVS/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T04:57:13Z"
+}

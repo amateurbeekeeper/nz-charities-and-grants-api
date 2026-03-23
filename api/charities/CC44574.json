@@ -1,0 +1,27 @@
+{
+  "id": 47188,
+  "registrationNumber": "CC44574",
+  "name": "Pastel Artists Of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pastelartists.co.nz/",
+  "email": "panz.treasurer@gmail.com",
+  "address": {
+    "line1": "449 Argyle Otahuti Road",
+    "line2": "RD 4",
+    "suburb": "Waianiwa",
+    "city": "Invercargill",
+    "postcode": "9874"
+  },
+  "nzbn": "9429042994138",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "PANZ Pastel Artists of New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T18:58:45Z"
+}

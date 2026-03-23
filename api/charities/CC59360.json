@@ -1,0 +1,27 @@
+{
+  "id": 72965,
+  "registrationNumber": "CC59360",
+  "name": "Animals Aotearoa Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.animalsaotearoa.org",
+  "email": "info@animalsaotearoa.org",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AnimalsAotearoa",
+    "twitter": "https://twitter.com/AnimalsAotearoa"
+  },
+  "lastUpdated": "2026-01-25T21:22:11Z"
+}

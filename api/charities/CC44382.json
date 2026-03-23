@@ -1,0 +1,27 @@
+{
+  "id": 64002,
+  "registrationNumber": "CC44382",
+  "name": "Caritas Oceania Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-06-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.caritas.org.nz",
+  "email": "mena@caritas.org.nz",
+  "address": {
+    "line1": "204 Thorndon Quay",
+    "line2": "20 New Street",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043198375",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-30T22:57:14Z"
+}

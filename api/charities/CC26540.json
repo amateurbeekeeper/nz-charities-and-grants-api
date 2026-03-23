@@ -1,0 +1,27 @@
+{
+  "id": 54837,
+  "registrationNumber": "CC26540",
+  "name": "Asthma & Respiratory Management BOP Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.asthmabop.org.nz",
+  "email": "admin@asthmabop.org.nz",
+  "address": {
+    "line1": "254 Chadwick Road",
+    "line2": " ",
+    "suburb": "Gate Pa",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042861980",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/BOPAsthma",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T22:14:59Z"
+}

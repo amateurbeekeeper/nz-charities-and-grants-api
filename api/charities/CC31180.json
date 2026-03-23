@@ -1,0 +1,27 @@
+{
+  "id": 49507,
+  "registrationNumber": "CC31180",
+  "name": "Futuna Chapel Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.futunatrust.org.nz",
+  "email": "aipike34@gmail.com",
+  "address": {
+    "line1": "67 Futuna Close",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043003990",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/FutunaChapel",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T00:41:42Z"
+}

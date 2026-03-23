@@ -1,0 +1,27 @@
+{
+  "id": 57212,
+  "registrationNumber": "CC25121",
+  "name": "St Andrew's Union Church Featherston",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "colin.lynolds@xtra.co.nz",
+  "address": {
+    "line1": "64 Fox Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Featherston",
+    "postcode": "5710"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T19:21:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51531,
+  "registrationNumber": "CC10288",
+  "name": "Victoria University of Wellington Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.vuw.ac.nz/foundation",
+  "email": "sue.odonnell@vuw.ac.nz",
+  "address": {
+    "line1": "Hunter Building Level 3",
+    "line2": "Kelburn Parade, Kelburn",
+    "suburb": "Kelburn",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429042898948",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T21:50:30Z"
+}

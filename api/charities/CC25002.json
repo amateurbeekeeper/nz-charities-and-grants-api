@@ -1,0 +1,27 @@
+{
+  "id": 42460,
+  "registrationNumber": "CC25002",
+  "name": "Oxford Agricultural And Pastoral Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.oxfordapshow.co.nz",
+  "email": "christine@oxfordapshow.co.nz",
+  "address": {
+    "line1": "9 Matai Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Oxford",
+    "postcode": "7430"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:00:45Z"
+}

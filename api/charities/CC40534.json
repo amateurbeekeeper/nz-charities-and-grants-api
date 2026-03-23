@@ -1,0 +1,27 @@
+{
+  "id": 46335,
+  "registrationNumber": "CC40534",
+  "name": "Higgins Heritage Park Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.higginsheritagepark.co.nz",
+  "email": "24davidwin@gmail.com",
+  "address": {
+    "line1": "222 Pigeon Valley Road",
+    "line2": "RD 2",
+    "suburb": "Pigeon Valley",
+    "city": "Wakefield",
+    "postcode": "7096"
+  },
+  "nzbn": "9429042783060",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/higginspark",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:07:40Z"
+}

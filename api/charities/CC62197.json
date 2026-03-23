@@ -1,0 +1,27 @@
+{
+  "id": 75741,
+  "registrationNumber": "CC62197",
+  "name": "Make Waste History Charity",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.makewastehistory.org",
+  "email": "info@makewastehistory.org",
+  "address": {
+    "line1": "89 Junction Road",
+    "line2": "RD 6",
+    "suburb": "Minden",
+    "city": "Tauranga",
+    "postcode": "3176"
+  },
+  "nzbn": "9429051556266",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "makewastehistory",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T19:56:36Z"
+}

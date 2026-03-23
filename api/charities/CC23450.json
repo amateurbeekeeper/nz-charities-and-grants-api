@@ -1,0 +1,27 @@
+{
+  "id": 40020,
+  "registrationNumber": "CC23450",
+  "name": "Gateway Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.navigators.community",
+  "email": "joseph@navigators.community",
+  "address": {
+    "line1": "26a Wood Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": "9429042626657",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/NavigatorsCommunity",
+    "twitter": "@navigatorsNZ"
+  },
+  "lastUpdated": "2025-10-14T19:54:36Z"
+}

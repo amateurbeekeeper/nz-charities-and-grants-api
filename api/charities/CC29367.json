@@ -1,0 +1,27 @@
+{
+  "id": 65034,
+  "registrationNumber": "CC29367",
+  "name": "Clear Vision Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul@durell.co.nz",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "37 Argo Drive",
+    "suburb": "Half Moon Bay",
+    "city": "Auckland",
+    "postcode": "2012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-17T00:25:22Z"
+}

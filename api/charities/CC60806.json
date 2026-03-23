@@ -1,0 +1,27 @@
+{
+  "id": 74391,
+  "registrationNumber": "CC60806",
+  "name": "Anderson Park Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "craig.macalister@findex.co.nz",
+  "address": {
+    "line1": "173 Spey Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429049498073",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Anderson Park Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-14T00:28:43Z"
+}

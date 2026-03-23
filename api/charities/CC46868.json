@@ -1,0 +1,27 @@
+{
+  "id": 37358,
+  "registrationNumber": "CC46868",
+  "name": "Waikaka Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "raewyn.king@fireandemergency.nz",
+  "address": {
+    "line1": "16 foyle street",
+    "line2": "r.d.no 3",
+    "suburb": " ",
+    "city": "gore",
+    "postcode": "9773"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T05:44:46Z"
+}

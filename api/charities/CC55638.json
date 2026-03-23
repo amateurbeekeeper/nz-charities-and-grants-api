@@ -1,0 +1,27 @@
+{
+  "id": 69290,
+  "registrationNumber": "CC55638",
+  "name": "Guardians of Our Children",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gooc.org.nz",
+  "email": "fhicks@xtra.co.nz",
+  "address": {
+    "line1": "PO Box 53031",
+    "line2": "Auckland Airport",
+    "suburb": "Māngere",
+    "city": "Auckland",
+    "postcode": "2150"
+  },
+  "nzbn": "9429046868480",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/GOOCNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T18:20:29Z"
+}

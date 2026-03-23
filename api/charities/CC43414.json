@@ -1,0 +1,27 @@
+{
+  "id": 47042,
+  "registrationNumber": "CC43414",
+  "name": "Piha Community Library Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-01-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pihacommunitylibrary@gmail.com",
+  "address": {
+    "line1": "23 Seaview Road",
+    "line2": "RD 2",
+    "suburb": "Piha",
+    "city": "New Lynn",
+    "postcode": "0772"
+  },
+  "nzbn": "9429043199990",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PihaCommunityLibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T18:32:13Z"
+}

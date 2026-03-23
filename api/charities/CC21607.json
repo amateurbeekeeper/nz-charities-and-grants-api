@@ -1,0 +1,27 @@
+{
+  "id": 55619,
+  "registrationNumber": "CC21607",
+  "name": "Alzheimers Society Eastern Bay Of Plenty Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.alzheimers.org.nz/alzheimers-eastern-bay-of-plenty/",
+  "email": "administration@alzebop.org",
+  "address": {
+    "line1": "1st Floor",
+    "line2": "193-195 The Strand",
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429042574101",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AlzheimersEasternBOP/",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2026-03-06T02:13:27Z"
+}

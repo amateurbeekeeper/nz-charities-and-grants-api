@@ -1,0 +1,27 @@
+{
+  "id": 57803,
+  "registrationNumber": "CC30202",
+  "name": "Contact Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tewharemahana.org",
+  "email": "info@tewharemahana.org",
+  "address": {
+    "line1": "Community Hub",
+    "line2": "32a Bristol St",
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": "9429042617594",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "tewharemahana",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-20T18:21:05Z"
+}

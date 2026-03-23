@@ -1,0 +1,27 @@
+{
+  "id": 55477,
+  "registrationNumber": "CC22361",
+  "name": "Affirming Works Ltd",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.affirmingworks.org.nz",
+  "email": "emeline@affirmingworks.org.nz",
+  "address": {
+    "line1": "9 Moa Street",
+    "line2": " ",
+    "suburb": "Otahuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429036681334",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/affirmingworksltd",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T02:40:04Z"
+}

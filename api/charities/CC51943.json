@@ -1,0 +1,27 @@
+{
+  "id": 65692,
+  "registrationNumber": "CC51943",
+  "name": "St Enoch's Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stenochs.org.nz",
+  "email": "accts.at.crest@gmail.com",
+  "address": {
+    "line1": "134 16th Avenue",
+    "line2": " ",
+    "suburb": "Tauranga",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:08:11Z"
+}

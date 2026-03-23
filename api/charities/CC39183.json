@@ -1,0 +1,27 @@
+{
+  "id": 45972,
+  "registrationNumber": "CC39183",
+  "name": "Turangi Community Patrol",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-21T00:00:00Z",
+  "website": null,
+  "email": "turangi@cpnz.org.nz",
+  "address": {
+    "line1": "4 Ohuanga Road",
+    "line2": "Turangi 3334",
+    "suburb": " ",
+    "city": "Turangi",
+    "postcode": "3334"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/turangicp",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T06:03:45Z"
+}

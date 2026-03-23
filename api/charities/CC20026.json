@@ -1,0 +1,27 @@
+{
+  "id": 53051,
+  "registrationNumber": "CC20026",
+  "name": "The Hawkes Bay Optimist Yacht Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rod.newson@xtra.co.nz",
+  "address": {
+    "line1": "Taradale Intermediate",
+    "line2": "6 Murphy Road",
+    "suburb": "Taradale",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": "9429049450903",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T04:01:11Z"
+}

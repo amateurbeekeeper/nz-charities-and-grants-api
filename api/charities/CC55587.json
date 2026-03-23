@@ -1,0 +1,27 @@
+{
+  "id": 69242,
+  "registrationNumber": "CC55587",
+  "name": "Auckland Hospital Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ahf.org.nz",
+  "email": "candy@ahf.org.nz",
+  "address": {
+    "line1": "Auckland City Hospital",
+    "line2": "Park Road",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429046915269",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aucklandhospitalfoundation/",
+    "twitter": "@aucklandhospital"
+  },
+  "lastUpdated": "2026-03-11T02:04:27Z"
+}

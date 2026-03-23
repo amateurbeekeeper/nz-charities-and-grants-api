@@ -1,0 +1,27 @@
+{
+  "id": 46432,
+  "registrationNumber": "CC34526",
+  "name": "Ashburton New Life Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ashburtonnewlife.org",
+  "email": "david@ashburtonnewlife.org",
+  "address": {
+    "line1": "58 Melcombe Street",
+    "line2": " ",
+    "suburb": "Tinwald",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": "9429042682493",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AshburtonNewLife",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T06:12:01Z"
+}

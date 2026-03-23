@@ -1,0 +1,27 @@
+{
+  "id": 50395,
+  "registrationNumber": "CC44082",
+  "name": "Oamaru Elim Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.oamaruelim.nz/",
+  "email": "oamaruelim@gmail.com",
+  "address": {
+    "line1": "6 Severn Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429043197019",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/OamaruElimChurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-28T00:07:43Z"
+}

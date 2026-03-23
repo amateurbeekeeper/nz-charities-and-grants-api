@@ -1,0 +1,27 @@
+{
+  "id": 68724,
+  "registrationNumber": "CC55065",
+  "name": "Wild Side Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-10-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wildsidetrust.org",
+  "email": "ray@thewildside.net",
+  "address": {
+    "line1": "574 Hoyle Road",
+    "line2": "RD 4",
+    "suburb": "Arapohue",
+    "city": "Dargaville",
+    "postcode": "0374"
+  },
+  "nzbn": "9429046418289",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "arapohueretreat",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T18:41:21Z"
+}

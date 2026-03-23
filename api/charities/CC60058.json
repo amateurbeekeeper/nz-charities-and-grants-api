@@ -1,0 +1,27 @@
+{
+  "id": 73706,
+  "registrationNumber": "CC60058",
+  "name": "Grace Presbyterian Church Taupo",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gracetaupo.org.nz",
+  "email": "peter@businesstorque.co.nz",
+  "address": {
+    "line1": "Unit 8",
+    "line2": "6 Wheretia Street",
+    "suburb": " ",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:59:59Z"
+}

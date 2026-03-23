@@ -1,0 +1,27 @@
+{
+  "id": 73335,
+  "registrationNumber": "CC60102",
+  "name": "The Good Rating",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2022-05-15T00:00:00Z",
+  "dateDeregistered": "2025-07-22T00:00:00Z",
+  "website": null,
+  "email": "david@thegoodrating.org",
+  "address": {
+    "line1": "36 Marine Parade",
+    "line2": " ",
+    "suburb": "Macandrew Bay",
+    "city": "Dunedin",
+    "postcode": "9014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-05T07:10:29Z"
+}

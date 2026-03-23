@@ -1,0 +1,27 @@
+{
+  "id": 55687,
+  "registrationNumber": "CC22420",
+  "name": "Seniornet Kapiti Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://seniornetkapiti.nz",
+  "email": "SNKTreasurer@gmail.com",
+  "address": {
+    "line1": "200 Matai Road",
+    "line2": " ",
+    "suburb": "Raumati Beach",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429042943945",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/Kapiti SeniorNet",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T02:35:42Z"
+}

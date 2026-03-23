@@ -1,0 +1,27 @@
+{
+  "id": 37811,
+  "registrationNumber": "CC47802",
+  "name": "Wellington Community Justice Project Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wellingtoncjp.com/home",
+  "email": "studentdirector@wellingtoncjp.com",
+  "address": {
+    "line1": "ROOM 118   GOVERNMENT BUILDINGS  LAW FACULTY",
+    "line2": "55 Lambton Quay",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043240050",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WellingtonCJP/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T18:26:28Z"
+}

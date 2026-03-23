@@ -1,0 +1,27 @@
+{
+  "id": 34142,
+  "registrationNumber": "CC50534",
+  "name": "The Gift of Knowledge",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2022-04-27T00:00:00Z",
+  "dateDeregistered": "2025-11-18T00:00:00Z",
+  "website": "https://www.giftofknowledge.org.nz",
+  "email": "nicmcoom@gmail.com",
+  "address": {
+    "line1": "PO Box 205",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tai Tapu",
+    "postcode": "7645"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/giftofknowledge",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T06:03:13Z"
+}

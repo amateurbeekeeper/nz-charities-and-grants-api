@@ -1,0 +1,27 @@
+{
+  "id": 38298,
+  "registrationNumber": "CC45940",
+  "name": "Wyndham A & P Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2024-08-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wyndhamshow.co.nz",
+  "email": "nickyw76@yahoo.com",
+  "address": {
+    "line1": "238A Murray Road",
+    "line2": "RD 2",
+    "suburb": "Mokoreta",
+    "city": "Wyndham",
+    "postcode": "9892"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:31:58Z"
+}

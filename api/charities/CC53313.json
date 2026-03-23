@@ -1,0 +1,27 @@
+{
+  "id": 67036,
+  "registrationNumber": "CC53313",
+  "name": "Ākau Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.akau.co.nz",
+  "email": "graeme@bizassist.nz",
+  "address": {
+    "line1": "8B Dickeson Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaikohe",
+    "postcode": "0405"
+  },
+  "nzbn": "9429041495568",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T20:10:43Z"
+}

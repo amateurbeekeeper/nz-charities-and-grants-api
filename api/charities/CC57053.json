@@ -1,0 +1,27 @@
+{
+  "id": 70684,
+  "registrationNumber": "CC57053",
+  "name": "Gender Minorities Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://genderminorities.com",
+  "email": "ahi@genderminorities.com",
+  "address": {
+    "line1": "130 Riddiford Street",
+    "line2": " ",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429049576115",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-05T01:36:36Z"
+}

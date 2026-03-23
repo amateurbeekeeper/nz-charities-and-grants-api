@@ -1,0 +1,27 @@
+{
+  "id": 64260,
+  "registrationNumber": "CC43133",
+  "name": "Trees That Count Te Rahi o Tāne Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://treesthatcount.co.nz",
+  "email": "robyn.haugh@treesthatcount.co.nz",
+  "address": {
+    "line1": "Level 2, 39 Ghuznee Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043032570",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TreesThatCount",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T16:59:28Z"
+}

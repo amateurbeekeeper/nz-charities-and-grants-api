@@ -1,0 +1,27 @@
+{
+  "id": 48993,
+  "registrationNumber": "CC30772",
+  "name": "Unite Church Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.unitechurch.org.nz/",
+  "email": "office@unitechurch.org.nz",
+  "address": {
+    "line1": "173 Rutherford Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429051015336",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/unitechurch/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T06:28:17Z"
+}

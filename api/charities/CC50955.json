@@ -1,0 +1,27 @@
+{
+  "id": 34035,
+  "registrationNumber": "CC50955",
+  "name": "The Business In The Community Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.businessmentors.org.nz",
+  "email": "sarah@bmnz.org.nz",
+  "address": {
+    "line1": "145 Khyber Pass Road",
+    "line2": "255 Broadway",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043242139",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/businessmentorsnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T00:27:34Z"
+}

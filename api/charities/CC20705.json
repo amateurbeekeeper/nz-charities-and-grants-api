@@ -1,0 +1,27 @@
+{
+  "id": 53910,
+  "registrationNumber": "CC20705",
+  "name": "Gordonton Educational Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rainbows.nz",
+  "email": "katy.dyer@eastwest.ac.nz",
+  "address": {
+    "line1": "21 College Drive",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Taupiri",
+    "postcode": "3791"
+  },
+  "nzbn": "9429042976028",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RainbowsGordonton/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T02:34:51Z"
+}

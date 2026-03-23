@@ -1,0 +1,27 @@
+{
+  "id": 48080,
+  "registrationNumber": "CC36039",
+  "name": "Eastern Refuge Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-12-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.easternrefugesociety.org.nz",
+  "email": "annie@ewr.org.nz",
+  "address": {
+    "line1": "PO Box 51326",
+    "line2": "Pakuranga",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "2140"
+  },
+  "nzbn": "9429042700913",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T07:55:01Z"
+}

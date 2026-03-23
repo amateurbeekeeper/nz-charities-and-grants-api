@@ -1,0 +1,27 @@
+{
+  "id": 68678,
+  "registrationNumber": "CC55019",
+  "name": "MOKO Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-08-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.themokofoundation.com",
+  "email": "tracyo@themokofoundation.com",
+  "address": {
+    "line1": "37 Pukepoto Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaitaia",
+    "postcode": "0410"
+  },
+  "nzbn": "9429046328342",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "The Moko Foundation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-16T19:50:40Z"
+}

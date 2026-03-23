@@ -1,0 +1,27 @@
+{
+  "id": 48396,
+  "registrationNumber": "CC43070",
+  "name": "Belong Aotearoa",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-12-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.belong.org.nz",
+  "email": "gary@belong.org.nz",
+  "address": {
+    "line1": "875 New North Road",
+    "line2": "Mount Roskill",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042981992",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/BelongAotearoa/",
+    "twitter": "https://twitter.com/Belong_Aotearoa"
+  },
+  "lastUpdated": "2026-02-10T03:54:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54940,
+  "registrationNumber": "CC21075",
+  "name": "The Dr Marjorie Barclay Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mark@bmc-law.co.nz",
+  "address": {
+    "line1": "5 Kodex Place",
+    "line2": "Paraparaumu 5032",
+    "suburb": "Paraparaumu",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T00:57:53Z"
+}

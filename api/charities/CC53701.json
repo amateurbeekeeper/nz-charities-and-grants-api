@@ -1,0 +1,27 @@
+{
+  "id": 67411,
+  "registrationNumber": "CC53701",
+  "name": "The WELLer Network",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2016-08-19T00:00:00Z",
+  "dateDeregistered": "2020-12-31T00:00:00Z",
+  "website": "www.thewellernetwork.com",
+  "email": "jess@jessweller.com",
+  "address": {
+    "line1": "39A Nevada Road",
+    "line2": null,
+    "suburb": "Silverdale",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429045969768",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/thewellernetwork/",
+    "twitter": "https://twitter.com/wellernetwork"
+  },
+  "lastUpdated": "2021-03-09T20:41:32Z"
+}

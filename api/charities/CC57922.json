@@ -1,0 +1,27 @@
+{
+  "id": 71551,
+  "registrationNumber": "CC57922",
+  "name": "Avonside House Community Living Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "finance@avonsidehouse.org.nz",
+  "address": {
+    "line1": "Suite 4",
+    "line2": "159 Cranford Street",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429048262873",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T22:52:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70096,
+  "registrationNumber": "CC56455",
+  "name": "Opotiki Society for the Care of Animals Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-01-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.osca.nz",
+  "email": "OSCA.opotikicareofanimals@gmail.com",
+  "address": {
+    "line1": "1 St John Street",
+    "line2": "Opotiki 3122",
+    "suburb": " ",
+    "city": "Opotiki",
+    "postcode": "3122"
+  },
+  "nzbn": "9429047202702",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Opotiki Society for the Care of Animals Inc.",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:56:06Z"
+}

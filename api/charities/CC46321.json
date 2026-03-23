@@ -1,0 +1,27 @@
+{
+  "id": 45915,
+  "registrationNumber": "CC46321",
+  "name": "Parihaka Papakainga Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://parihaka.maori.nz/",
+  "email": "felicity@ppt.maori.nz",
+  "address": {
+    "line1": "297 Parihaka Road",
+    "line2": "RD 35",
+    "suburb": "Pungarehu",
+    "city": "Opunake",
+    "postcode": "4685"
+  },
+  "nzbn": "9429052258992",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://web.facebook.com/Parihaka/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T22:38:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41021,
+  "registrationNumber": "CC23336",
+  "name": "Te Puna Hauora O Te Raki Paewhenua Society Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tepuna.org.nz",
+  "email": "marina.melchor@tepuna.org.nz",
+  "address": {
+    "line1": "58A Akoranga Drive",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429042931898",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/tphnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T22:23:28Z"
+}

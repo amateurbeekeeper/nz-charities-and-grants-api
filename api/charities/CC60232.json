@@ -1,0 +1,27 @@
+{
+  "id": 73824,
+  "registrationNumber": "CC60232",
+  "name": "Ember Systems Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ember.org.nz",
+  "email": "spencer.beazley@ember.org.nz",
+  "address": {
+    "line1": "51 Huia Road",
+    "line2": " ",
+    "suburb": "Otahuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429048434690",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/emberkt/",
+    "twitter": "https://twitter.com/EmberKT"
+  },
+  "lastUpdated": "2025-07-23T02:58:46Z"
+}

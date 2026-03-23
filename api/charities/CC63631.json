@@ -1,0 +1,27 @@
+{
+  "id": 77828,
+  "registrationNumber": "CC63631",
+  "name": "Feed My Lambs Inc",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-08-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nouha@movingmountains.co.nz",
+  "address": {
+    "line1": "5 Muirend Avenue",
+    "line2": null,
+    "suburb": null,
+    "city": "Tokoroa",
+    "postcode": "3420"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T03:31:51Z"
+}

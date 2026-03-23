@@ -1,0 +1,27 @@
+{
+  "id": 53911,
+  "registrationNumber": "CC20102",
+  "name": "Heart Kids New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-11-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.heartkids.org.nz",
+  "email": "lorraine@heartkids.org.nz",
+  "address": {
+    "line1": "C/- MTM Accounting",
+    "line2": "Level 3, 191 Thorndon Quay",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042696902",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T22:01:04Z"
+}

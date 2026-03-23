@@ -1,0 +1,27 @@
+{
+  "id": 53022,
+  "registrationNumber": "CC11212",
+  "name": "Ruel Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ruelfoundation.org",
+  "email": "info@ruelfoundation.com",
+  "address": {
+    "line1": "5 Sherwood Street",
+    "line2": " ",
+    "suburb": "Otumoetai",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042995142",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RuelFoundationGiveaSmile/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T18:08:51Z"
+}

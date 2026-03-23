@@ -1,0 +1,27 @@
+{
+  "id": 63908,
+  "registrationNumber": "CC39178",
+  "name": "Dunedin Marine Search and Rescue Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.marinesardunedin.co.nz",
+  "email": "info@marinesardunedin.co.nz",
+  "address": {
+    "line1": "91 Wairongoa Road",
+    "line2": "RD 2",
+    "suburb": "North Taieri",
+    "city": "Mosgiel",
+    "postcode": "9092"
+  },
+  "nzbn": "9429042664055",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/DunedinMSAR",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T05:06:52Z"
+}

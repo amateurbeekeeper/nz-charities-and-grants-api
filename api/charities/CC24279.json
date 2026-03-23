@@ -1,0 +1,27 @@
+{
+  "id": 40583,
+  "registrationNumber": "CC24279",
+  "name": "Nelson Tasman Region Hospice Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nelsonhospice.org.nz",
+  "email": "brian.johnston@nelsonhospice.org.nz",
+  "address": {
+    "line1": "331 Suffolk Road",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429042695042",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T20:06:52Z"
+}

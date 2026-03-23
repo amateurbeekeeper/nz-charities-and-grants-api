@@ -1,0 +1,27 @@
+{
+  "id": 71851,
+  "registrationNumber": "CC58238",
+  "name": "Just Atelier Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-09-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stitchkitchen.nz",
+  "email": "justatelier@gmail.com",
+  "address": {
+    "line1": "474 Princes Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043275403",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/stitchkitchendunedin",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T06:29:42Z"
+}

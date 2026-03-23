@@ -1,0 +1,27 @@
+{
+  "id": 57975,
+  "registrationNumber": "CC29191",
+  "name": "McKenzie Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mckenziecentre.org.nz",
+  "email": "rebecca.baldwin@enrichgroup.org.nz",
+  "address": {
+    "line1": "30 Hammond Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042773658",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/McKenzieCentreTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:15:02Z"
+}

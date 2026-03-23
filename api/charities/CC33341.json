@@ -1,0 +1,27 @@
+{
+  "id": 48248,
+  "registrationNumber": "CC33341",
+  "name": "The Roman Catholic Diocese Of Christchurch Diocesan Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cdoc.nz/",
+  "email": "abailey@cdoc.nz",
+  "address": {
+    "line1": "391 Moorhouse Avenue",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ChchCatholic/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T18:19:32Z"
+}

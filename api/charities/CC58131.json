@@ -1,0 +1,27 @@
+{
+  "id": 71754,
+  "registrationNumber": "CC58131",
+  "name": "Aotearoa ki te Upoko o te Ika Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-08-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://teupoko.org",
+  "email": "manager@teupoko.org",
+  "address": {
+    "line1": "72 Ellesmere Crescent",
+    "line2": " ",
+    "suburb": "Highbury",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429048915915",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T02:42:51Z"
+}

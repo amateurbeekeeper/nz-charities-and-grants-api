@@ -1,0 +1,27 @@
+{
+  "id": 32733,
+  "registrationNumber": "CC48038",
+  "name": "Remarkable Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.remarkabletheatre.co.nz",
+  "email": "info@remarkabletheatre.co.nz",
+  "address": {
+    "line1": "c/o Showbiz Queenstown",
+    "line2": "29, Isle Street",
+    "suburb": " ",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429043204144",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/remarkabletheatre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T23:53:56Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43708,
+  "registrationNumber": "CC32791",
+  "name": "Intercreate Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://intercreate.org",
+  "email": "trudy.lane@intercreate.org",
+  "address": {
+    "line1": "928 Findlay Road",
+    "line2": "RD 3",
+    "suburb": "Pūkorokoro / Miranda",
+    "city": "Pokeno",
+    "postcode": "2473"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/intercreate.org",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-22T08:02:28Z"
+}

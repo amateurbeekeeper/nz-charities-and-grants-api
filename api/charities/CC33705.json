@@ -1,0 +1,27 @@
+{
+  "id": 39590,
+  "registrationNumber": "CC33705",
+  "name": "Eden Garden Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2022-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.edengarden.co.nz",
+  "email": "accounts@edengarden.co.nz",
+  "address": {
+    "line1": "24 Omana Avenue",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042704782",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/edengardensocietyinc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T01:45:19Z"
+}

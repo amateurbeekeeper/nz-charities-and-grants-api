@@ -1,0 +1,27 @@
+{
+  "id": 55652,
+  "registrationNumber": "CC21747",
+  "name": "Camp Kaitoke Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ycentral.nz",
+  "email": "Funding@ycentral.nz",
+  "address": {
+    "line1": "67 Pilmuir Street",
+    "line2": " ",
+    "suburb": "Boulcott",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429034056301",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T02:07:10Z"
+}

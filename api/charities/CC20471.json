@@ -1,0 +1,27 @@
+{
+  "id": 53380,
+  "registrationNumber": "CC20471",
+  "name": "Christchurch Community House Te Whakaruruhau Ki Otautahi Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cch.org.nz",
+  "email": "manager@cch.org.nz",
+  "address": {
+    "line1": "213 Lichfield Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042893547",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ChristchurchCommunityHouse/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T01:38:55Z"
+}

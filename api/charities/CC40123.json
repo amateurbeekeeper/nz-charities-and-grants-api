@@ -1,0 +1,27 @@
+{
+  "id": 43886,
+  "registrationNumber": "CC40123",
+  "name": "Freyberg Community School Fundraising",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@freyberg.school.nz",
+  "address": {
+    "line1": "Freyberg Community School",
+    "line2": "60 Roberts Road",
+    "suburb": "Te Atatu South",
+    "city": "Auckland",
+    "postcode": "610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T01:27:27Z"
+}

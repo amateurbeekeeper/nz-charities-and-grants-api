@@ -1,0 +1,27 @@
+{
+  "id": 35797,
+  "registrationNumber": "CC45289",
+  "name": "Waimarama Maori Committee",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2020-08-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://waimarama.maraewaakainga.com/",
+  "email": "manager@waimaramamarae.co.nz",
+  "address": {
+    "line1": "6 Taupunga Road",
+    "line2": "Waimarama 4294",
+    "suburb": "Waimarama",
+    "city": "Waimarama",
+    "postcode": "4294"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/113848291974146",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T20:50:57Z"
+}

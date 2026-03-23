@@ -1,0 +1,27 @@
+{
+  "id": 50223,
+  "registrationNumber": "CC43944",
+  "name": "The Golden Bay Mountain Bike Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-04-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.goldenbaymtb.club",
+  "email": "gbmountainbikeclub@gmail.com",
+  "address": {
+    "line1": "87 Central Takaka Road",
+    "line2": "RD 1",
+    "suburb": "Tākaka",
+    "city": "Takaka",
+    "postcode": "7183"
+  },
+  "nzbn": "9429043100965",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GBMTBC",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T01:07:21Z"
+}

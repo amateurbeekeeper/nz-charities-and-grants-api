@@ -1,0 +1,27 @@
+{
+  "id": 46741,
+  "registrationNumber": "CC28959",
+  "name": "Wellington Fire Service Support Unit",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.firesupport.org.nz",
+  "email": "Mark.Foster@fireandemergency.nz",
+  "address": {
+    "line1": "Kilbirnie Fire Station",
+    "line2": "161 Rongotai Road",
+    "suburb": "Kilbirnie",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/WellingtonFireSupport",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-10T20:00:14Z"
+}

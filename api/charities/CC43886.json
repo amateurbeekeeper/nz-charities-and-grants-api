@@ -1,0 +1,27 @@
+{
+  "id": 50269,
+  "registrationNumber": "CC43886",
+  "name": "Whanganui Accident & Medical Clinic Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sharyn@tpco.co.nz",
+  "address": {
+    "line1": "100 Heads Road",
+    "line2": " ",
+    "suburb": "Gonville",
+    "city": "Wanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429034753224",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T01:54:38Z"
+}

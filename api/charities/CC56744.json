@@ -1,0 +1,27 @@
+{
+  "id": 70382,
+  "registrationNumber": "CC56744",
+  "name": "Aotearoa Music Education Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.amet.co.nz",
+  "email": "lachlanrad@gmail.com",
+  "address": {
+    "line1": "Flat 10",
+    "line2": "17 Adelaide Road",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429047406865",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=aotearoa%20music%20education%20trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T15:22:41Z"
+}

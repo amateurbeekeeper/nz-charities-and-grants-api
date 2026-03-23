@@ -1,0 +1,27 @@
+{
+  "id": 49576,
+  "registrationNumber": "CC43690",
+  "name": "Soroptimist International of Wellington",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.soroptimistwellington.org",
+  "email": "siwellington@siswp.org",
+  "address": {
+    "line1": "115A Messines Road",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@SIWellington",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-04T04:08:13Z"
+}

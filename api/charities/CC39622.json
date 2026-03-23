@@ -1,0 +1,27 @@
+{
+  "id": 61394,
+  "registrationNumber": "CC39622",
+  "name": "The Dean's Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://taranakicathedral.org.nz",
+  "email": "philarm23@yahoo.co.nz",
+  "address": {
+    "line1": "15 Fitzroy Road",
+    "line2": " ",
+    "suburb": "Fitzroy",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T18:06:22Z"
+}

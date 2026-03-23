@@ -1,0 +1,27 @@
+{
+  "id": 78437,
+  "registrationNumber": "CC64254",
+  "name": "Korimako Trio Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.korimakotrio.nz",
+  "email": "rowena.cullen@vuw.ac.nz",
+  "address": {
+    "line1": "24 Monaghan Avenue",
+    "line2": null,
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429053182265",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T09:14:31Z"
+}

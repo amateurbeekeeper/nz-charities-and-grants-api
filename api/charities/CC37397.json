@@ -1,0 +1,27 @@
+{
+  "id": 43565,
+  "registrationNumber": "CC37397",
+  "name": "Living Springs Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.livingsprings.co.nz",
+  "email": "prue.mcstay@astutemode.com",
+  "address": {
+    "line1": "218 Bamfords Road",
+    "line2": "RD 1",
+    "suburb": "Allandale",
+    "city": "Lyttelton",
+    "postcode": "8971"
+  },
+  "nzbn": "9429042762713",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:18:27Z"
+}

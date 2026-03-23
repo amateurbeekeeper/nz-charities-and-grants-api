@@ -1,0 +1,27 @@
+{
+  "id": 66944,
+  "registrationNumber": "CC53228",
+  "name": "Cerebral Investments Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cpsociety.org.nz",
+  "email": "khait@vgaca.co.nz",
+  "address": {
+    "line1": "Suite 12",
+    "line2": "Floor G",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042152194",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T02:16:22Z"
+}

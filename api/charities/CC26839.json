@@ -1,0 +1,27 @@
+{
+  "id": 55555,
+  "registrationNumber": "CC26839",
+  "name": "Pathway Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pathway.org.nz",
+  "email": "randal@pathway.org.nz",
+  "address": {
+    "line1": "44 Mandeville Street",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042946823",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T00:24:42Z"
+}

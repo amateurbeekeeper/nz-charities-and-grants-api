@@ -1,0 +1,27 @@
+{
+  "id": 51509,
+  "registrationNumber": "CC10818",
+  "name": "Johnsonville Community Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.johnsonvillecommunitycentre.org.nz",
+  "email": "manager@johnsonvillecommunitycentre.org.nz",
+  "address": {
+    "line1": "3 Frankmoore Avenue",
+    "line2": " ",
+    "suburb": "Johnsonville",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429042667643",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/p/Johnsonville-Community-Centre-100064920870848/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T01:46:55Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 58342,
+  "registrationNumber": "CC27525",
+  "name": "Halswell Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.halswelltoylibrary.org.nz",
+  "email": "treasurer@halswelltoylibrary.org.nz",
+  "address": {
+    "line1": "Oaklands School",
+    "line2": "Cunningham Place",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": null
+  },
+  "nzbn": "9429042698340",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://web.facebook.com/HTLchristchurch/?_rdr",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T06:38:42Z"
+}

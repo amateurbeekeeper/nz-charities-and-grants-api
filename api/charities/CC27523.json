@@ -1,0 +1,27 @@
+{
+  "id": 58279,
+  "registrationNumber": "CC27523",
+  "name": "The Police Managers' Guild Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pmgt.org.nz",
+  "email": "admin@nzplg.org",
+  "address": {
+    "line1": "2C Millennial Way",
+    "line2": "Orewa 0931",
+    "suburb": "Papakowhai",
+    "city": "Orewa",
+    "postcode": "0931"
+  },
+  "nzbn": "9429042919490",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-10T19:41:02Z"
+}

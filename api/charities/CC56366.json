@@ -1,0 +1,27 @@
+{
+  "id": 70007,
+  "registrationNumber": "CC56366",
+  "name": "Korokota Marae",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-11-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "korokotamarae@hotmail.com",
+  "address": {
+    "line1": "483 Tokiri Road",
+    "line2": "RD 2",
+    "suburb": "Titoki",
+    "city": "Whangarei",
+    "postcode": "0172"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/119182828121383/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-19T03:58:21Z"
+}

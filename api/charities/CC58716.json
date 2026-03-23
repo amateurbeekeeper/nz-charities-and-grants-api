@@ -1,0 +1,27 @@
+{
+  "id": 72328,
+  "registrationNumber": "CC58716",
+  "name": "Tuhiata Mahi Ora Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tuhiata.org.nz",
+  "email": "marihi@tuhiata.org.nz",
+  "address": {
+    "line1": "111 State Highway 1",
+    "line2": "RD 1",
+    "suburb": "Paparore",
+    "city": "Awanui",
+    "postcode": "0486"
+  },
+  "nzbn": "9429049483260",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T18:29:22Z"
+}

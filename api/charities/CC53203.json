@@ -1,0 +1,27 @@
+{
+  "id": 66921,
+  "registrationNumber": "CC53203",
+  "name": "The St Andrew's Church Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "m.a.woolford@gmail.com",
+  "address": {
+    "line1": "100 St Andrews Road",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429043291984",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:47Z"
+}

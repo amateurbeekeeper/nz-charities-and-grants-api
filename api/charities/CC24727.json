@@ -1,0 +1,27 @@
+{
+  "id": 42003,
+  "registrationNumber": "CC24727",
+  "name": "The Child Evangelism Fellowship Of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "terrytrail42@gmail.com",
+  "address": {
+    "line1": "7B Mangatoetoe Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waihi",
+    "postcode": "3610"
+  },
+  "nzbn": "9429042615385",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61552921700401",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T18:02:55Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52761,
+  "registrationNumber": "CC11374",
+  "name": "St Patrick's Village Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stpatsvillage@gmail.com",
+  "address": {
+    "line1": "133 Seddon Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429034025796",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T20:00:21Z"
+}

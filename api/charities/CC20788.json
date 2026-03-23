@@ -1,0 +1,27 @@
+{
+  "id": 53742,
+  "registrationNumber": "CC20788",
+  "name": "NZ Marine Research Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nzmrf.org.nz",
+  "email": "secretary@nzmrf.org.nz",
+  "address": {
+    "line1": "10 Ganymede Place",
+    "line2": "Mellons Bay ",
+    "suburb": "Half Moon Bay",
+    "city": "Auckland",
+    "postcode": "2012"
+  },
+  "nzbn": "9429042793311",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T04:34:50Z"
+}

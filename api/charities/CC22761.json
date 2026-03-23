@@ -1,0 +1,27 @@
+{
+  "id": 56215,
+  "registrationNumber": "CC22761",
+  "name": "Festival Singers of Wellington",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://festivalsingers.wordpress.com/",
+  "email": "festivalsingerstreasurer@gmail.com",
+  "address": {
+    "line1": "16 Massey Street",
+    "line2": " ",
+    "suburb": "Elderslea",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429042698722",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T22:22:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48538,
+  "registrationNumber": "CC30934",
+  "name": "New Zealand Singing School Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.singingschool.org.nz",
+  "email": "info@singingschool.org.nz",
+  "address": {
+    "line1": "174 Hyderabad Road",
+    "line2": " ",
+    "suburb": "Ahuriri",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042711544",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzsingingschool/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T01:27:27Z"
+}

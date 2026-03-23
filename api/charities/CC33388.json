@@ -1,0 +1,27 @@
+{
+  "id": 45913,
+  "registrationNumber": "CC33388",
+  "name": "Unitec Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ilee2@unitec.ac.nz",
+  "address": {
+    "line1": "Unitec Campus",
+    "line2": "Building 110, 139 Carrington Road",
+    "suburb": "Mt Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042606116",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-22T00:01:43Z"
+}

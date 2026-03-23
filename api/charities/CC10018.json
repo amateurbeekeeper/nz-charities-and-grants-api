@@ -1,0 +1,27 @@
+{
+  "id": 51111,
+  "registrationNumber": "CC10018",
+  "name": "Rotary Club of Dunedin Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-02-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.dunedinrotary.org.nz",
+  "email": "grant.chirnside@gmail.com",
+  "address": {
+    "line1": "C/- Petridish",
+    "line2": "8 Stafford Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043072262",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Rotary Club of Dunedin (Inc)",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T19:16:07Z"
+}

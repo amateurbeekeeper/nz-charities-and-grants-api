@@ -1,0 +1,27 @@
+{
+  "id": 54959,
+  "registrationNumber": "CC22724",
+  "name": "New Zealand Opera Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzopera.com",
+  "email": "matthew.tolan.nz@outlook.com",
+  "address": {
+    "line1": "PO Box 6478",
+    "line2": "Victoria Street West",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1142"
+  },
+  "nzbn": "9429038437717",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T18:31:14Z"
+}

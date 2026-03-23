@@ -1,0 +1,27 @@
+{
+  "id": 48910,
+  "registrationNumber": "CC37632",
+  "name": "Uxbridge Community Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.uxbridge.org.nz",
+  "email": "director@uxbridge.org.nz",
+  "address": {
+    "line1": "35 Uxbridge Road",
+    "line2": " ",
+    "suburb": "Mellons Bay",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": "9429050189243",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/UxbridgeArtsandCulture/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T20:08:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75902,
+  "registrationNumber": "CC62355",
+  "name": "Moggies - Homes for Cats and Kittens ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mymoggies.com",
+  "email": "meow@mymoggies.com",
+  "address": {
+    "line1": "5 Tutea Place",
+    "line2": "RD 9",
+    "suburb": "Paengaroa",
+    "city": "Te Puke",
+    "postcode": "3189"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/homes4moggies?mibextid=LQQJ4d",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T10:33:37Z"
+}

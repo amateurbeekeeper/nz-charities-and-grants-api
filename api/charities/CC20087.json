@@ -1,0 +1,27 @@
+{
+  "id": 51400,
+  "registrationNumber": "CC20087",
+  "name": "Adventure Specialties Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.adventurespecialties.co.nz",
+  "email": "office@adventurespecialties.co.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "4 Winston Place",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429042572435",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/adventurespecialtiestrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-14T03:58:50Z"
+}

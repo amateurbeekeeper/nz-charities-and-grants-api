@@ -1,0 +1,27 @@
+{
+  "id": 55041,
+  "registrationNumber": "CC25148",
+  "name": "Enterprise Clutha",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": "2013-12-17T00:00:00Z",
+  "website": "www.eclutha.org.nz",
+  "email": "sarah@eclutha.org.nz",
+  "address": {
+    "line1": "DEVELOPMENT HOUSE",
+    "line2": "6 John Street",
+    "suburb": null,
+    "city": "Balclutha",
+    "postcode": "9230"
+  },
+  "nzbn": "9429043101856",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:24:21Z"
+}

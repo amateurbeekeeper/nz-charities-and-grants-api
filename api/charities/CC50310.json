@@ -1,0 +1,27 @@
+{
+  "id": 34081,
+  "registrationNumber": "CC50310",
+  "name": "The Bond Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bond.org.nz",
+  "email": "jnewick@outlook.com",
+  "address": {
+    "line1": "18 Christian Road",
+    "line2": " ",
+    "suburb": "Swanson",
+    "city": "Auckland",
+    "postcode": "0614"
+  },
+  "nzbn": "9429043282067",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T23:07:41Z"
+}

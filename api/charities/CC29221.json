@@ -1,0 +1,27 @@
+{
+  "id": 39079,
+  "registrationNumber": "CC29221",
+  "name": "Wilderland Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wilderland.org.nz",
+  "email": "tully.j.h@gmail.com",
+  "address": {
+    "line1": "155 Comers Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Whitianga",
+    "postcode": "3591"
+  },
+  "nzbn": "9429042919001",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WilderlandTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:13:09Z"
+}

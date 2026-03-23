@@ -1,0 +1,27 @@
+{
+  "id": 51150,
+  "registrationNumber": "CC10131",
+  "name": "Hawkes Bay Agricultural and Pastoral Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-04-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https:/www.hbap.co.nz",
+  "email": "elisha@hbap.co.nz",
+  "address": {
+    "line1": "4 Hānui Road",
+    "line2": "Hastings 4122",
+    "suburb": "Tomoana",
+    "city": "Hastings",
+    "postcode": "4172"
+  },
+  "nzbn": "9429047624917",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/APSocietyHB/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T22:45:05Z"
+}

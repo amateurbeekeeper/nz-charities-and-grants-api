@@ -1,0 +1,27 @@
+{
+  "id": 61377,
+  "registrationNumber": "CC42819",
+  "name": "Northcote Lawn Tennis Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.northcotetennis.com",
+  "email": "accounts@northcotetennis.com",
+  "address": {
+    "line1": "49 Lake Road",
+    "line2": null,
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429042672838",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:06:25Z"
+}

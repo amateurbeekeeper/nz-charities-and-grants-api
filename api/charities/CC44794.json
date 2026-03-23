@@ -1,0 +1,27 @@
+{
+  "id": 35783,
+  "registrationNumber": "CC44794",
+  "name": "The Waikato Animal Welfare Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-07-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david@matley.co.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "521 Anglesea Street",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043191543",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-18T02:39:03Z"
+}

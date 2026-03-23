@@ -1,0 +1,27 @@
+{
+  "id": 45849,
+  "registrationNumber": "CC38166",
+  "name": "Kearoa Marae Committee",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kearoamarae.com/",
+  "email": "kataraina.g@gmail.com",
+  "address": {
+    "line1": "76 Sunset Road",
+    "line2": " ",
+    "suburb": "Mangakakahi",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/kearoamarae (private group)",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-07T22:33:55Z"
+}

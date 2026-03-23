@@ -1,0 +1,27 @@
+{
+  "id": 58277,
+  "registrationNumber": "CC35670",
+  "name": "The Geoscience Society of New Zealand Awards Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gsnz.org.nz",
+  "email": "treasurer@gsnz.org.nz",
+  "address": {
+    "line1": "1 Fairway Drive",
+    "line2": " ",
+    "suburb": "Avalon",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429043136056",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GeoSocNZ/",
+    "twitter": "https://twitter.com/GeoscienceNZ/"
+  },
+  "lastUpdated": "2026-02-27T06:05:31Z"
+}

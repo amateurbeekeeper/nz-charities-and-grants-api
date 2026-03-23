@@ -1,0 +1,27 @@
+{
+  "id": 38912,
+  "registrationNumber": "CC47244",
+  "name": "Christchurch School of Gymnastics Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-12-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.chchgymnastics.com",
+  "email": "maree.diver@chchgymnastics.co.nz",
+  "address": {
+    "line1": "38 Mark Treffers Drive",
+    "line2": " QEII Park",
+    "suburb": "North New Brighton",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429042612353",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/chchgymnastics/",
+    "twitter": "@chchgymnastics"
+  },
+  "lastUpdated": "2026-03-10T19:42:04Z"
+}

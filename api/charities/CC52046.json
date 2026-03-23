@@ -1,0 +1,27 @@
+{
+  "id": 65797,
+  "registrationNumber": "CC52046",
+  "name": "United Church of Port Chalmers",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lizmclennan@getrheel.co.nz",
+  "address": {
+    "line1": "12 Station Road",
+    "line2": " ",
+    "suburb": "Sawyers Bay",
+    "city": "Dunedin",
+    "postcode": "9023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Emmanuel Church - Sawyers Bay",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:43:14Z"
+}

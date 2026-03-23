@@ -1,0 +1,27 @@
+{
+  "id": 78373,
+  "registrationNumber": "CC64183",
+  "name": "Udaan Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ww1.udaan.org.nz/",
+  "email": "team.udaan.nz@gmail.com",
+  "address": {
+    "line1": "258 Balmoral Road",
+    "line2": null,
+    "suburb": "Sandringham",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/udaan.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T22:50:54Z"
+}

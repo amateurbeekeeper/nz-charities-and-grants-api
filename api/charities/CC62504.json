@@ -1,0 +1,27 @@
+{
+  "id": 76056,
+  "registrationNumber": "CC62504",
+  "name": "Waiau Pa Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lynne.maher@fireandemergency.nz",
+  "address": {
+    "line1": "460 Clarks Beach Road",
+    "line2": "RD 4",
+    "suburb": "Waiau Pa",
+    "city": "Pukekohe",
+    "postcode": "2679"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/waiaupafire",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T18:10:32Z"
+}

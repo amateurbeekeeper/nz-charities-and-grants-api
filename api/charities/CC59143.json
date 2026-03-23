@@ -1,0 +1,27 @@
+{
+  "id": 72748,
+  "registrationNumber": "CC59143",
+  "name": "THE MENTORING FOUNDATION OF NEW ZEALAND",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mentoringfoundation.org.nz",
+  "email": "andrew@baf.org.nz",
+  "address": {
+    "line1": "566 Mangorei Road",
+    "line2": "RD 1",
+    "suburb": "Mangorei",
+    "city": "New Plymouth",
+    "postcode": "4371"
+  },
+  "nzbn": "9429046819185",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mentoringfoundationnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:39:36Z"
+}

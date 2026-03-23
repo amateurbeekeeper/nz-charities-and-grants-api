@@ -1,0 +1,27 @@
+{
+  "id": 78350,
+  "registrationNumber": "CC64164",
+  "name": "Te Atatu Marae Whanau Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-12-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://teatatumarae.com",
+  "email": "tanenui.david@gmail.com",
+  "address": {
+    "line1": "1 Tangowahine Settlement East Road",
+    "line2": "RD 2",
+    "suburb": "Tangowahine",
+    "city": "Dargaville",
+    "postcode": "0372"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Te Atatu Marae Whanau Committee",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T02:04:56Z"
+}

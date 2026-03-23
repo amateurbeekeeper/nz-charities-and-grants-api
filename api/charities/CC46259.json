@@ -1,0 +1,27 @@
+{
+  "id": 36770,
+  "registrationNumber": "CC46259",
+  "name": "Adaptive Snowsports Canterbury Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-03-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.asc.org.nz",
+  "email": "accounts@asc.org.nz",
+  "address": {
+    "line1": "7 Lucknow Place",
+    "line2": " ",
+    "suburb": "Cashmere",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429042678540",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/asscanterbury/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-29T06:23:41Z"
+}

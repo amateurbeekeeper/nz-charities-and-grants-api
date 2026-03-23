@@ -1,0 +1,27 @@
+{
+  "id": 67585,
+  "registrationNumber": "CC53891",
+  "name": "Peria Christian Education Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.matamata.school.nz",
+  "email": "spence@reichardt.co.nz",
+  "address": {
+    "line1": "91A Smith Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Matamata",
+    "postcode": "3400"
+  },
+  "nzbn": "9429042734833",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@MatamataChristianSchool",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T01:36:08Z"
+}

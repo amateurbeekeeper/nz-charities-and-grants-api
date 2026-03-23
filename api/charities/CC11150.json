@@ -1,0 +1,27 @@
+{
+  "id": 52938,
+  "registrationNumber": "CC11150",
+  "name": "Project Esther Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.projectesther.co.nz",
+  "email": "daphne@projectesther.co.nz",
+  "address": {
+    "line1": "248 Lyttelton Street",
+    "line2": " ",
+    "suburb": "Spreydon",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429042809326",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ProjectEstherTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T19:50:02Z"
+}

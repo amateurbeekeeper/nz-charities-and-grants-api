@@ -1,0 +1,27 @@
+{
+  "id": 53216,
+  "registrationNumber": "CC20220",
+  "name": "BATS Theatre Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2007-12-10T00:00:00Z",
+  "dateDeregistered": "2017-01-01T00:00:00Z",
+  "website": "http://www.bats.co.nz",
+  "email": "waren@bats.co.nz",
+  "address": {
+    "line1": "1 Kent Terrace",
+    "line2": " ",
+    "suburb": "Mount Victoria",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429039028242",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/BATSTheatre/",
+    "twitter": "https://twitter.com/BATS_Theatre"
+  },
+  "lastUpdated": "2018-06-13T02:38:34Z"
+}

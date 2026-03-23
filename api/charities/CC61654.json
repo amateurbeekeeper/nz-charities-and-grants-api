@@ -1,0 +1,27 @@
+{
+  "id": 75222,
+  "registrationNumber": "CC61654",
+  "name": "The Animal Pataka Otara",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "theanimalpatakaotara@gmail.com",
+  "address": {
+    "line1": "6 Sandbrook Avenue",
+    "line2": " ",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "16/1",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100088813405513",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T01:30:04Z"
+}

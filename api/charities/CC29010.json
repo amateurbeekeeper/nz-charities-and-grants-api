@@ -1,0 +1,27 @@
+{
+  "id": 49150,
+  "registrationNumber": "CC29010",
+  "name": "Temuka Volunteer Fire Brigade ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nick.bailey@fireandemergency.nz",
+  "address": {
+    "line1": "13 Wood Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Temuka",
+    "postcode": "7920"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Temuka Volunteer Fire Brigade",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T18:09:07Z"
+}

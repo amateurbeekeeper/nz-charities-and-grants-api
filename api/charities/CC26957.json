@@ -1,0 +1,27 @@
+{
+  "id": 48456,
+  "registrationNumber": "CC26957",
+  "name": "Otamatea Co-Operating Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "secretary.ocp.nz@gmail.com",
+  "address": {
+    "line1": "PO Box 10",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paparoa",
+    "postcode": "0543"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-09T02:36:30Z"
+}

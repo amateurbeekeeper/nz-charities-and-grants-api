@@ -1,0 +1,27 @@
+{
+  "id": 42089,
+  "registrationNumber": "CC25101",
+  "name": "Tamarau Community Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "raymondfbrown37@gmail.com",
+  "address": {
+    "line1": "2 Steele Road",
+    "line2": " ",
+    "suburb": "Tamarau",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T19:26:12Z"
+}

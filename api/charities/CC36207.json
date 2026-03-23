@@ -1,0 +1,27 @@
+{
+  "id": 45889,
+  "registrationNumber": "CC36207",
+  "name": "Te Pihopatanga o Aotearoa Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.anglican.org.nz/Directory/Te-Pihopatanga-o-Aotearoa",
+  "email": "bardia@tpoa.nz",
+  "address": {
+    "line1": "34 Cobden Street",
+    "line2": "Gisborne 4010",
+    "suburb": "Ohinemutu",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042864257",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pihopatanga/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:18Z"
+}

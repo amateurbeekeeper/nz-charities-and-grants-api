@@ -1,0 +1,27 @@
+{
+  "id": 58832,
+  "registrationNumber": "CC30422",
+  "name": "Dunedin Company of Physiologists Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tanya.cully@otago.ac.nz",
+  "address": {
+    "line1": "270 Great King Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042776871",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T01:56:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65671,
+  "registrationNumber": "CC51923",
+  "name": "Saint Andrews Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "plants.place@xtra.co.nz",
+  "address": {
+    "line1": "11 Scott Road",
+    "line2": "Te Kauwhata 3710",
+    "suburb": " ",
+    "city": "Te Kauwhata",
+    "postcode": "3710"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:52Z"
+}

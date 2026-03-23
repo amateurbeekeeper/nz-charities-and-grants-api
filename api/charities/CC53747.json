@@ -1,0 +1,27 @@
+{
+  "id": 67457,
+  "registrationNumber": "CC53747",
+  "name": "The Pasifika Early Learning Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ron@pasifikaece.co.nz",
+  "address": {
+    "line1": "299 Kirkbride Road",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429043307210",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T00:32:53Z"
+}

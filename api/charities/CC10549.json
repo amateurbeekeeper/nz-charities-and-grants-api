@@ -1,0 +1,27 @@
+{
+  "id": 52297,
+  "registrationNumber": "CC10549",
+  "name": "Coastal Care (Tutukaka)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "philnas@xtra.co.nz",
+  "address": {
+    "line1": "147 Pukenui Road",
+    "line2": "RD 3",
+    "suburb": "Ngunguru",
+    "city": "Whangarei",
+    "postcode": "0173"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T02:45:04Z"
+}

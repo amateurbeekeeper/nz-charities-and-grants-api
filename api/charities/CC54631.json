@@ -1,0 +1,27 @@
+{
+  "id": 68301,
+  "registrationNumber": "CC54631",
+  "name": "Trinity Church Palmerston North",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "alanfrost453@gmail.com",
+  "address": {
+    "line1": "26 Herbert Avenue",
+    "line2": " ",
+    "suburb": "Cloverlea",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429046142252",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-18T05:35:38Z"
+}

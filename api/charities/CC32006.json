@@ -1,0 +1,27 @@
+{
+  "id": 43404,
+  "registrationNumber": "CC32006",
+  "name": "Auckland Yang Moo Ree Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "eunin1023@gmail.com",
+  "address": {
+    "line1": "473 Great South Road",
+    "line2": " ",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043103713",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T19:51:37Z"
+}

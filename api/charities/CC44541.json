@@ -1,0 +1,27 @@
+{
+  "id": 50532,
+  "registrationNumber": "CC44541",
+  "name": "MATES Trust NZ",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-06-30T00:00:00Z",
+  "dateDeregistered": "2020-08-27T00:00:00Z",
+  "website": "http://www.mates.org.nz",
+  "email": "Kerry@mates.org.nz",
+  "address": {
+    "line1": "100 Grandview Road",
+    "line2": " ",
+    "suburb": "Nawton",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429043213702",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/MatesOrg/",
+    "twitter": null
+  },
+  "lastUpdated": "2020-09-11T00:48:40Z"
+}

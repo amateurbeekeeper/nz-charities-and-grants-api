@@ -1,0 +1,27 @@
+{
+  "id": 67198,
+  "registrationNumber": "CC53488",
+  "name": "Gender Dynamix New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gdnz.org",
+  "email": "matt@gdnz.org",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429043293018",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/genderdynamixnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T05:00:12Z"
+}

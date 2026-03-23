@@ -1,0 +1,27 @@
+{
+  "id": 33806,
+  "registrationNumber": "CC50035",
+  "name": "Working Waters Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2013-11-29T00:00:00Z",
+  "dateDeregistered": "2023-03-31T00:00:00Z",
+  "website": "https://www.workingwaters.org",
+  "email": "manager@workingwaters.org",
+  "address": {
+    "line1": "1 Cargill Place",
+    "line2": " ",
+    "suburb": "Richmond",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-04-15T09:21:51Z"
+}

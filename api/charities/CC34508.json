@@ -1,0 +1,27 @@
+{
+  "id": 54659,
+  "registrationNumber": "CC34508",
+  "name": "Canterbury Ostomy Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ostomycanterbury.org.nz",
+  "email": "ostomycanterbury@gmail.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "16 Wyndham Street",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042602569",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ostomy Canterbury Support Group",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-01T04:37:18Z"
+}

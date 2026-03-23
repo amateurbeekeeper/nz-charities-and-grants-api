@@ -1,0 +1,27 @@
+{
+  "id": 55586,
+  "registrationNumber": "CC22325",
+  "name": "Parentline Manawatu Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.parentlinemanawatu.org.nz",
+  "email": "manager@parentlinemanawatu.org.nz",
+  "address": {
+    "line1": "77 King Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042802006",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Parentline-Manawatu-100696166689166/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T21:01:56Z"
+}

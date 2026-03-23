@@ -1,0 +1,27 @@
+{
+  "id": 53271,
+  "registrationNumber": "CC22894",
+  "name": "Birthright Kapiti Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.birthrightkapiti.org",
+  "email": "birthrightkapiti@birthrightkapiti.org",
+  "address": {
+    "line1": "110 Rimu Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429047153721",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "birthrightkapiti.org",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T21:35:54Z"
+}

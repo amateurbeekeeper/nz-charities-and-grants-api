@@ -1,0 +1,27 @@
+{
+  "id": 50502,
+  "registrationNumber": "CC44277",
+  "name": "Pauanui Community Church Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bruce.tapp@xtra.co.nz",
+  "address": {
+    "line1": "20 Centreway",
+    "line2": "Pauanui 3579",
+    "suburb": " ",
+    "city": "Pauanui",
+    "postcode": "3579"
+  },
+  "nzbn": "9429043208302",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T02:32:06Z"
+}

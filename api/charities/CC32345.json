@@ -1,0 +1,27 @@
+{
+  "id": 43746,
+  "registrationNumber": "CC32345",
+  "name": "The Otago Postgraduate Medical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://opms.otago.ac.nz",
+  "email": "ruban.young@otago.ac.nz",
+  "address": {
+    "line1": "18 Frederick Street",
+    "line2": "Gt King Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042851196",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T01:35:48Z"
+}

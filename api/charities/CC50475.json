@@ -1,0 +1,27 @@
+{
+  "id": 33691,
+  "registrationNumber": "CC50475",
+  "name": "Kapatiran Prayer Fellowship",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kpfellowship.org.nz",
+  "email": "allan.gierran@kpfellowship.org.nz",
+  "address": {
+    "line1": "14 Rosina Street",
+    "line2": "Clouston Park",
+    "suburb": "Upper Hutt",
+    "city": "Wellington",
+    "postcode": "5018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T04:20:10Z"
+}

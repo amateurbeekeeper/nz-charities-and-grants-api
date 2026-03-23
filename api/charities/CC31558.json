@@ -1,0 +1,27 @@
+{
+  "id": 56322,
+  "registrationNumber": "CC31558",
+  "name": "The South Seas Health Care Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.southseas.org.nz",
+  "email": "rudolf.laumatia@southseas.org.nz",
+  "address": {
+    "line1": "Shop 9-12",
+    "line2": "14 Fair Mall",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2159"
+  },
+  "nzbn": "9429043100675",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T21:59:59Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51181,
+  "registrationNumber": "CC10122",
+  "name": "Archery Museum of New Zealand Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2007-03-29T00:00:00Z",
+  "dateDeregistered": "2010-08-31T00:00:00Z",
+  "website": null,
+  "email": "kiwi@aut.ac.nz",
+  "address": {
+    "line1": "4D Shaw Road",
+    "line2": null,
+    "suburb": "Oratia",
+    "city": "Auckland",
+    "postcode": "604"
+  },
+  "nzbn": "9429043038855",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T00:27:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42117,
+  "registrationNumber": "CC25768",
+  "name": "Bay Of Plenty Symphonia Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bopsymphonia.org.nz",
+  "email": "bopstreasurer@gmail.com",
+  "address": {
+    "line1": "42B Goods Road",
+    "line2": " ",
+    "suburb": "Otumoetai",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042844846",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T20:26:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41083,
+  "registrationNumber": "CC32171",
+  "name": "Dilworth Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dilworth.school.nz",
+  "email": "c.holden@dilworth.org.nz",
+  "address": {
+    "line1": "2 Erin Street",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042645320",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-07T21:02:22Z"
+}

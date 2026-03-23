@@ -1,0 +1,27 @@
+{
+  "id": 67700,
+  "registrationNumber": "CC54007",
+  "name": "Assembly of God Church of Samoa in New Zealand, Panama",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "aogcospanama@gmail.com",
+  "address": {
+    "line1": "135 Station Road",
+    "line2": " ",
+    "suburb": "Otahuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:08:24Z"
+}

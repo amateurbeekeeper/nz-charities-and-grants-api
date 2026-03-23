@@ -1,0 +1,27 @@
+{
+  "id": 38723,
+  "registrationNumber": "CC45623",
+  "name": "Hope Centre Manukau",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-10-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "steve@hopemanukau.org.nz",
+  "address": {
+    "line1": "93 Kolmar Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429043192854",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HopeManukau",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T23:08:44Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55222,
+  "registrationNumber": "CC22339",
+  "name": "Aperfield Montessori Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.Aperfield-Montessori.co.nz",
+  "email": "e.low@xtra.co.nz",
+  "address": {
+    "line1": "74 Halswell Road",
+    "line2": " ",
+    "suburb": "Hillmorton",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429042582052",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T22:33:05Z"
+}

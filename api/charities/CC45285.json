@@ -1,0 +1,27 @@
+{
+  "id": 35878,
+  "registrationNumber": "CC45285",
+  "name": "Kiwi Flora & Fauna Savings Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://kiwitrust.wordpress.com/",
+  "email": "karl@laird.kiwi",
+  "address": {
+    "line1": "45 Whitby Street",
+    "line2": " ",
+    "suburb": "Burnside",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T05:08:16Z"
+}

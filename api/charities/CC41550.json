@@ -1,0 +1,27 @@
+{
+  "id": 64471,
+  "registrationNumber": "CC41550",
+  "name": "Aquabladz New Plymouth Swimming Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurer@aquabladz.club",
+  "address": {
+    "line1": "10 Murray Street",
+    "line2": "New Plymouth Central",
+    "suburb": "Bell Block",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429043163670",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Aquabladz NP Swimming Club",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T04:43:11Z"
+}

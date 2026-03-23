@@ -1,0 +1,27 @@
+{
+  "id": 77465,
+  "registrationNumber": "CC63263",
+  "name": "Wāhine Outdoors",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-11-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wahineoutdoors.co.nz",
+  "email": "wahineoutdoors@gmail.com",
+  "address": {
+    "line1": "22 Totara Street",
+    "line2": " ",
+    "suburb": "Tapawera",
+    "city": "Wakefield",
+    "postcode": "7096"
+  },
+  "nzbn": "9429052387708",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T21:20:38Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53652,
+  "registrationNumber": "CC20353",
+  "name": "Compassion For Orphans",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cfo.org.nz",
+  "email": "alkes@cfo.org.nz",
+  "address": {
+    "line1": "157 Vivian Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043004782",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:13:13Z"
+}

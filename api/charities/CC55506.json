@@ -1,0 +1,27 @@
+{
+  "id": 69161,
+  "registrationNumber": "CC55506",
+  "name": "Pasifika Medical Association Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pmagroup.org.nz/",
+  "email": "jerry@pmagroup.co.nz",
+  "address": {
+    "line1": "7A Pacific Rise",
+    "line2": null,
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T23:14:48Z"
+}

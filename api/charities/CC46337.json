@@ -1,0 +1,27 @@
+{
+  "id": 38333,
+  "registrationNumber": "CC46337",
+  "name": "Inspire Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-03-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.inspirefoundation.co.nz",
+  "email": "riley@spectreconsulting.co.nz",
+  "address": {
+    "line1": "Level 3, 335 Lincoln Road",
+    "line2": " ",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429043150281",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T19:40:29Z"
+}

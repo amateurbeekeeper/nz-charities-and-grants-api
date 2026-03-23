@@ -1,0 +1,27 @@
+{
+  "id": 72646,
+  "registrationNumber": "CC59037",
+  "name": "The Education Partnership and Innovation Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.epit.org.nz",
+  "email": "tim@epit.org.nz",
+  "address": {
+    "line1": "L1, Raphoe House",
+    "line2": "8 Gloucester Park Road",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T22:47:24Z"
+}

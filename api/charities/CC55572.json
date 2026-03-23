@@ -1,0 +1,27 @@
+{
+  "id": 69221,
+  "registrationNumber": "CC55572",
+  "name": "The Retired Working Dogs NZ Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-07-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://retiredworkingdogs.org.nz/",
+  "email": "president@retiredworkingdogs.org.nz",
+  "address": {
+    "line1": "63 Otawa Drive",
+    "line2": "RD 7",
+    "suburb": "West Taratahi",
+    "city": "Masterton",
+    "postcode": "5887"
+  },
+  "nzbn": "9429053055873",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Retired.WorkingDogs/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T03:41:08Z"
+}

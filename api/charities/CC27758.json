@@ -1,0 +1,27 @@
+{
+  "id": 58916,
+  "registrationNumber": "CC27758",
+  "name": "Evangelical Formosan Church Of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.efcnz.org",
+  "email": "franknz123@gmail.com",
+  "address": {
+    "line1": "150C Harris Road",
+    "line2": " ",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429042701262",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:16:13Z"
+}

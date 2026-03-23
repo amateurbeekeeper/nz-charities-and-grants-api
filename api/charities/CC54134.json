@@ -1,0 +1,27 @@
+{
+  "id": 67824,
+  "registrationNumber": "CC54134",
+  "name": "Maori Healers Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-10-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mhct17@gmail.com",
+  "address": {
+    "line1": "48 Kakapo Street",
+    "line2": "Ahipara 0449",
+    "suburb": "Ahipara",
+    "city": "Kaitaia",
+    "postcode": "0481"
+  },
+  "nzbn": "9429043149315",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:08:22Z"
+}

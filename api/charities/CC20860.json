@@ -1,0 +1,27 @@
+{
+  "id": 39137,
+  "registrationNumber": "CC20860",
+  "name": "Citizens Advice Bureau Rotorua Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rotorua@cab.org.nz",
+  "address": {
+    "line1": "1143 Eruera Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042735335",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CABRotorua/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T23:55:55Z"
+}

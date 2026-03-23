@@ -1,0 +1,27 @@
+{
+  "id": 74637,
+  "registrationNumber": "CC61054",
+  "name": "UniBand Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://uniband.nz",
+  "email": "president@uniband.nz",
+  "address": {
+    "line1": "6 Symonds Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429048879491",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/UniBandNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T03:21:34Z"
+}

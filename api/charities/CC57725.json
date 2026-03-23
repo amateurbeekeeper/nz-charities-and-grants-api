@@ -1,0 +1,27 @@
+{
+  "id": 71352,
+  "registrationNumber": "CC57725",
+  "name": "Genomics for Aotearoa New Zealand Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://genomics.nz",
+  "email": "rob@genomics.nz",
+  "address": {
+    "line1": "152 Turitea Road",
+    "line2": "RD 2",
+    "suburb": "Fitzherbert",
+    "city": "Palmerston North",
+    "postcode": "4472"
+  },
+  "nzbn": "9429046450722",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T23:08:10Z"
+}

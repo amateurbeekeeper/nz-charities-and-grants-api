@@ -1,0 +1,27 @@
+{
+  "id": 52061,
+  "registrationNumber": "CC24755",
+  "name": "Disabled Persons Assembly (New Zealand) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dpa.org.nz",
+  "email": "michael.nolan@dpa.org.nz",
+  "address": {
+    "line1": "BrainTree Wellness Centre",
+    "line2": " 70 Langdons Road",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042665595",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dpa.nz.7/",
+    "twitter": "twitter.com/DPA_NZ "
+  },
+  "lastUpdated": "2026-03-09T03:51:56Z"
+}

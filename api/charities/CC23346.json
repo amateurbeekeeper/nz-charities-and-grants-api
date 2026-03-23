@@ -1,0 +1,27 @@
+{
+  "id": 39902,
+  "registrationNumber": "CC23346",
+  "name": "Abbeyfield New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.abbeyfield.org.nz",
+  "email": "office@abbeyfield.org.nz",
+  "address": {
+    "line1": "Level One",
+    "line2": "40 Halifax Street",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042573043",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Abbeyfield-New-Zealand-Inc-585243884877271/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T20:44:15Z"
+}

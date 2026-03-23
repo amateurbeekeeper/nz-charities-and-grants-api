@@ -1,0 +1,27 @@
+{
+  "id": 60165,
+  "registrationNumber": "CC28060",
+  "name": "The Great Lake (Taupo) Hockey Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.taupohockey.co.nz",
+  "email": "office@taupohockey.co.nz",
+  "address": {
+    "line1": "39 A C Baths Avenue",
+    "line2": "Ac Baths Avenue",
+    "suburb": "Tauhara",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429043013883",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/taupohockeyclub/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T19:19:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52596,
+  "registrationNumber": "CC11027",
+  "name": "Interserve (NZ)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.interserve.org.nz",
+  "email": "finance@interserve.org.nz",
+  "address": {
+    "line1": "591 Dominion Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429042665960",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": " ",
+    "twitter": " "
+  },
+  "lastUpdated": "2025-10-02T18:39:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37608,
+  "registrationNumber": "CC47730",
+  "name": "Stratford Companion Animal Assistance Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "thescratchingpost.co.nz",
+  "email": "ckandrewsnz@gmail.com",
+  "address": {
+    "line1": "127 Broadway",
+    "line2": "Stratford 4332",
+    "suburb": " ",
+    "city": "Stratford",
+    "postcode": "4332"
+  },
+  "nzbn": "9429045679940",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The Scratching Post - Stratford",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-22T19:42:43Z"
+}

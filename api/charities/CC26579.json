@@ -1,0 +1,27 @@
+{
+  "id": 40296,
+  "registrationNumber": "CC26579",
+  "name": "Crossway Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.methodist.org.nz",
+  "email": "charities@methodist.org.nz",
+  "address": {
+    "line1": "105 North Avon Road",
+    "line2": " ",
+    "suburb": "Richmond",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/crosswaych",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T18:55:01Z"
+}

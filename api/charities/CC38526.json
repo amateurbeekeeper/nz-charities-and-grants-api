@@ -1,0 +1,27 @@
+{
+  "id": 44504,
+  "registrationNumber": "CC38526",
+  "name": "Otago Medical School Research Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://omsrs.otago.ac.nz/",
+  "email": "daniel.pletzer@otago.ac.nz",
+  "address": {
+    "line1": "720 Cumberland Street",
+    "line2": " ",
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T22:27:52Z"
+}

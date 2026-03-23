@@ -1,0 +1,27 @@
+{
+  "id": 62442,
+  "registrationNumber": "CC38817",
+  "name": "Bnei Akiva New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://bneiakiva.org.nz",
+  "email": "gizbar@bneiakiva.org.nz",
+  "address": {
+    "line1": "514 Remuera Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429042940463",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/bneinz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T23:22:28Z"
+}

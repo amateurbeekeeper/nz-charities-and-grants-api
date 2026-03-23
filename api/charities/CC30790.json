@@ -1,0 +1,27 @@
+{
+  "id": 43347,
+  "registrationNumber": "CC30790",
+  "name": "Naenae Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-29T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/naenae/",
+  "email": "naenae@playcentre.org.nz",
+  "address": {
+    "line1": "73 Rata Street",
+    "line2": " ",
+    "suburb": "Naenae",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NaenaePlaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-12T07:13:28Z"
+}

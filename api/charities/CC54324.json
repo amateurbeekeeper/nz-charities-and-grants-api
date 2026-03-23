@@ -1,0 +1,27 @@
+{
+  "id": 68005,
+  "registrationNumber": "CC54324",
+  "name": "South City Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-03-30T00:00:00Z",
+  "dateDeregistered": "2017-07-24T00:00:00Z",
+  "website": null,
+  "email": "southcity@playcentre.org.nz",
+  "address": {
+    "line1": "904 Freyberg Street",
+    "line2": " ",
+    "suburb": "Raureka",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T04:36:43Z"
+}

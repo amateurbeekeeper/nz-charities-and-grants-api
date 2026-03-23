@@ -1,0 +1,27 @@
+{
+  "id": 47135,
+  "registrationNumber": "CC38692",
+  "name": "Canterbury Solicitors Benevolent Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dml@saunders.co.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "307 Durham Street North",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T19:18:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 78000,
+  "registrationNumber": "CC63796",
+  "name": "Tuiarau",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "teraania125@gmail.com",
+  "address": {
+    "line1": "182B Te Hono Street",
+    "line2": " ",
+    "suburb": "Maungatapu",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T08:52:50Z"
+}

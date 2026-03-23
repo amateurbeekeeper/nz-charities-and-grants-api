@@ -1,0 +1,27 @@
+{
+  "id": 74392,
+  "registrationNumber": "CC60803",
+  "name": "Foodcare Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bruce@tfs.co",
+  "address": {
+    "line1": "214 Main Road",
+    "line2": " ",
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T22:48:13Z"
+}

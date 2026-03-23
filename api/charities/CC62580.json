@@ -1,0 +1,27 @@
+{
+  "id": 76171,
+  "registrationNumber": "CC62580",
+  "name": "5H Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-08-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "richard@benchmarkhomes.co.nz",
+  "address": {
+    "line1": "27 Bunz Road",
+    "line2": " ",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T23:28:40Z"
+}

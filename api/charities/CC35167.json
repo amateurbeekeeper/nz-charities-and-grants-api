@@ -1,0 +1,27 @@
+{
+  "id": 43676,
+  "registrationNumber": "CC35167",
+  "name": "New Zealand Camellia Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzcamelliasociety.co.nz",
+  "email": "annf@xtra.co.nz",
+  "address": {
+    "line1": "16 Graham Road",
+    "line2": " ",
+    "suburb": "Inner Kaiti",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429043140879",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T03:16:12Z"
+}

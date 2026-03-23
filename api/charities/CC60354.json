@@ -1,0 +1,27 @@
+{
+  "id": 73952,
+  "registrationNumber": "CC60354",
+  "name": "Kura Kai",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kurakai.co.nz",
+  "email": "marie@kurakai.co.nz",
+  "address": {
+    "line1": "72 Concord Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429048639026",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Kura Kai NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-16T19:29:17Z"
+}

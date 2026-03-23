@@ -1,0 +1,27 @@
+{
+  "id": 51984,
+  "registrationNumber": "CC20162",
+  "name": "The Blue Goose Papermill Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thepapermill.co.nz",
+  "email": "info@thepapermill.co.nz",
+  "address": {
+    "line1": "38 Kamo Road",
+    "line2": " ",
+    "suburb": "Kensington",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429043020539",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thepapermill.co.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:35:48Z"
+}

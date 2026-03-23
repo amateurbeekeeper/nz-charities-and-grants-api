@@ -1,0 +1,27 @@
+{
+  "id": 52662,
+  "registrationNumber": "CC10919",
+  "name": "Vineyard Christian Fellowship West",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cindy@thefoundry.net.nz",
+  "address": {
+    "line1": "912 State Highway 16",
+    "line2": "Waimauku 0812",
+    "suburb": " ",
+    "city": "Waimauku",
+    "postcode": "0812"
+  },
+  "nzbn": "9429042767107",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The Foundry Vineyard Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:03:00Z"
+}

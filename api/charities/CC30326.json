@@ -1,0 +1,27 @@
+{
+  "id": 64975,
+  "registrationNumber": "CC30326",
+  "name": "Massey Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-13T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/massey/",
+  "email": "massey@playcentre.org.nz",
+  "address": {
+    "line1": "5 Sunpark Place",
+    "line2": " ",
+    "suburb": "Massey",
+    "city": "Auckland",
+    "postcode": "614"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/masseyplaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T05:03:35Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65442,
+  "registrationNumber": "CC51683",
+  "name": "Greyfriars Eden Epsom Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.greyfriars.org.nz",
+  "email": "dcaldwell@xtra.co.nz",
+  "address": {
+    "line1": "544 Mt Eden Road",
+    "line2": " ",
+    "suburb": "Mt Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-07T22:39:35Z"
+}

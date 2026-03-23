@@ -1,0 +1,27 @@
+{
+  "id": 36777,
+  "registrationNumber": "CC46286",
+  "name": "Waimate Theatre Company Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "peter.udc@gmail.com",
+  "address": {
+    "line1": "51 Shearman Street",
+    "line2": "Waimate 7924",
+    "suburb": " ",
+    "city": "Waimate",
+    "postcode": "7924"
+  },
+  "nzbn": "9429042882305",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waimate Theatre Company Inc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T03:23:47Z"
+}

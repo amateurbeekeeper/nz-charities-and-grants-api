@@ -1,0 +1,27 @@
+{
+  "id": 38237,
+  "registrationNumber": "CC46040",
+  "name": "Hill Street Early Childhood Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://hillstreetchildcare.com",
+  "email": "hillstece@gmail.com",
+  "address": {
+    "line1": "66 Hill Street",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043031092",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T20:13:55Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64276,
+  "registrationNumber": "CC39899",
+  "name": "Whaka Raupo Carving Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whakaraupocarving.maori.nz",
+  "email": "anita@theamickellservices.co.nz",
+  "address": {
+    "line1": "30 Godley Quay",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lyttelton",
+    "postcode": "8082"
+  },
+  "nzbn": "9429043098965",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T00:25:47Z"
+}

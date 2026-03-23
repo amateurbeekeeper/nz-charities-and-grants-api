@@ -1,0 +1,27 @@
+{
+  "id": 43732,
+  "registrationNumber": "CC32653",
+  "name": "All Nations Mission Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "joshuayou@hanmail.net",
+  "address": {
+    "line1": "35B Park Road",
+    "line2": null,
+    "suburb": "Glenfield",
+    "city": "Auckland",
+    "postcode": "0629"
+  },
+  "nzbn": "9429042954675",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:54:32Z"
+}

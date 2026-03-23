@@ -1,0 +1,27 @@
+{
+  "id": 74078,
+  "registrationNumber": "CC60487",
+  "name": "Handing the Shame Back Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://handingtheshameback.org",
+  "email": "Gloria@handingtheshameback.org",
+  "address": {
+    "line1": "1 Florence Avenue",
+    "line2": "Orewa",
+    "suburb": "Orewa",
+    "city": "Auckland",
+    "postcode": "0931"
+  },
+  "nzbn": "9429051010546",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HandingtheShameBack/",
+    "twitter": "https://x.com/HandinShameBack"
+  },
+  "lastUpdated": "2026-01-23T01:47:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66954,
+  "registrationNumber": "CC53243",
+  "name": "Ferrymead Printing Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ferrymeadprint.org.nz",
+  "email": "admin@ferrymeadprint.org.nz",
+  "address": {
+    "line1": "50 Ferrymead Park Drive",
+    "line2": "Heathcote",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "8241"
+  },
+  "nzbn": "9429042698647",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ferrymeadprinting",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T02:38:29Z"
+}

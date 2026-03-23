@@ -1,0 +1,27 @@
+{
+  "id": 67648,
+  "registrationNumber": "CC53953",
+  "name": "Te Wero Gymnastics Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tewerogym.org.nz",
+  "email": "brent@tewerogym.org.nz",
+  "address": {
+    "line1": "118A Shortland Street",
+    "line2": " ",
+    "suburb": "Wainoni",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429043294312",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/tewerogym/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-11-06T18:16:32Z"
+}

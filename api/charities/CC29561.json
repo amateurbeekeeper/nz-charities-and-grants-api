@@ -1,0 +1,27 @@
+{
+  "id": 54241,
+  "registrationNumber": "CC29561",
+  "name": "Nelson Community Foodbank Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nelsoncommunityfoodbank.org.nz/",
+  "email": "coordinator@nelsoncommunityfoodbank.org.nz",
+  "address": {
+    "line1": "166 Tahunanui Drive",
+    "line2": " ",
+    "suburb": "Tahunanui",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429042750833",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nelsoncommunityfoodbank/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T01:42:50Z"
+}

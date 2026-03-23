@@ -1,0 +1,27 @@
+{
+  "id": 40252,
+  "registrationNumber": "CC23854",
+  "name": "Gore Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.gorebaptist.org",
+  "email": "office@gorebaptist.org",
+  "address": {
+    "line1": "23 Ardwick Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gore",
+    "postcode": "9710"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T22:54:22Z"
+}

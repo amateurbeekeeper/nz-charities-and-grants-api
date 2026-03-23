@@ -1,0 +1,27 @@
+{
+  "id": 41585,
+  "registrationNumber": "CC37355",
+  "name": "New Zealand Association of Gerontology Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gerontology.org.nz",
+  "email": "r.gibson@massey.ac.nz",
+  "address": {
+    "line1": "Unit R 162 Mokoia Road",
+    "line2": " ",
+    "suburb": "Birkenhead",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429042682554",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZGerontology/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T03:24:13Z"
+}

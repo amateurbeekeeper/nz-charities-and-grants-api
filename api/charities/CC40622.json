@@ -1,0 +1,27 @@
+{
+  "id": 55064,
+  "registrationNumber": "CC40622",
+  "name": "The New Zealand Farm Forestry Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzffa.org.nz",
+  "email": "ruapehusawmills@xtra.co.nz",
+  "address": {
+    "line1": "Level 9",
+    "line2": "93 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042680574",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZFarmForestry/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T18:13:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74096,
+  "registrationNumber": "CC60506",
+  "name": "Piki Te Ora Health Centre Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://Pikiteora.org.nz",
+  "email": "PM@pikiteora.org.nz",
+  "address": {
+    "line1": "201 Linwood Avenue",
+    "line2": " ",
+    "suburb": "Linwood",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429050798469",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "pikiteora",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T18:14:07Z"
+}

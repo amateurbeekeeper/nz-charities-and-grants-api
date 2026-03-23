@@ -1,0 +1,27 @@
+{
+  "id": 71050,
+  "registrationNumber": "CC57420",
+  "name": "Pride Whanganui Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pridewhanganui.co.nz/",
+  "email": "info@pridewhanganui.co.nz",
+  "address": {
+    "line1": "64 St Hill Street",
+    "line2": "Whanganui 4500",
+    "suburb": "Whanganui East",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429051926380",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pridewhanganui/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:09:23Z"
+}

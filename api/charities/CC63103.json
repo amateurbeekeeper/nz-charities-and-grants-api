@@ -1,0 +1,27 @@
+{
+  "id": 77167,
+  "registrationNumber": "CC63103",
+  "name": "North Waikato Performing Arts",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-12-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nowa-artsnz.net/",
+  "email": "marymdaugherty@gmail.com",
+  "address": {
+    "line1": "207 Waikiekie Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "20/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61577866311974",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-28T23:40:30Z"
+}

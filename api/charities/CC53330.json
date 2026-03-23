@@ -1,0 +1,27 @@
+{
+  "id": 67046,
+  "registrationNumber": "CC53330",
+  "name": "Karori Pirates Swimming Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2015-11-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http:\\\\www.pirates.org.nz",
+  "email": "karori.pirates.secretary@gmail.com",
+  "address": {
+    "line1": "13 Ngarimu Grove",
+    "line2": " ",
+    "suburb": "Ngaio",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429042652335",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/karoripirates.com",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:43:35Z"
+}

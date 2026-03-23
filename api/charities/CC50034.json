@@ -1,0 +1,27 @@
+{
+  "id": 33792,
+  "registrationNumber": "CC50034",
+  "name": "The Wanaka Watersports Facility Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-12-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wanakawatersports.co.nz",
+  "email": "jhutter@gmail.com",
+  "address": {
+    "line1": "51 Wanaka-Mount Aspiring Road",
+    "line2": "Wanaka 9305",
+    "suburb": "Maori Hill",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429043279357",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T01:43:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 59309,
+  "registrationNumber": "CC28009",
+  "name": "Hawke's Bay Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hawkesbayfoundation.org.nz",
+  "email": "info@hawkesbayfoundation.org.nz",
+  "address": {
+    "line1": "209 Queen Street East",
+    "line2": null,
+    "suburb": " ",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429043088225",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HawkesBayFoundation/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T20:12:01Z"
+}

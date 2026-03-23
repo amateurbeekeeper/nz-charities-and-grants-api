@@ -1,0 +1,27 @@
+{
+  "id": 66102,
+  "registrationNumber": "CC52367",
+  "name": "Central Otago Agricultural and Pastoral Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-08-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.coap.co.nz",
+  "email": "centralotago.secretary@gmail.com",
+  "address": {
+    "line1": "1015 Ida Valley-Omakau Road",
+    "line2": "RD 2",
+    "suburb": "Poolburn",
+    "city": "Oturehua",
+    "postcode": "9387"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Central Otago A & P Show",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:34:19Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 76590,
+  "registrationNumber": "CC62802",
+  "name": "Philadelphia International Church, Christchurch",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-08-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://philadelphiatamilchurch.org/",
+  "email": "bewin4u@gmail.com",
+  "address": {
+    "line1": "Flat 4",
+    "line2": "472 Gloucester Street",
+    "suburb": "Linwood",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429052243080",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/share/163Vmfk1NA/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-21T10:23:34Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54722,
+  "registrationNumber": "CC21316",
+  "name": "The Wishbone Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@nzoa.org.nz",
+  "address": {
+    "line1": "Ranchhod Tower   LEVEL 12",
+    "line2": "39 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429052717949",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T23:34:58Z"
+}

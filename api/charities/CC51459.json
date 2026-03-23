@@ -1,0 +1,27 @@
+{
+  "id": 65747,
+  "registrationNumber": "CC51459",
+  "name": "Hospice Mid-Canterbury Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hospicemc.nz/",
+  "email": "manager@hospicemc.nz",
+  "address": {
+    "line1": "70 Havelock Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": "9429043286300",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "hospicemidcanterbury",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T20:18:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64913,
+  "registrationNumber": "CC29459",
+  "name": "Golden Bay Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://goldenbaytoylibrary.setls.com.au/",
+  "email": "goldenbaytoylibrary@gmail.com",
+  "address": {
+    "line1": "2032 Takaka Valley Highway",
+    "line2": "Takaka 7110",
+    "suburb": " ",
+    "city": "Takaka",
+    "postcode": "7110"
+  },
+  "nzbn": "9429043016211",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GoldenBayToyLibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T18:20:57Z"
+}

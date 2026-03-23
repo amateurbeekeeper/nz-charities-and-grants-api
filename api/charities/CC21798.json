@@ -1,0 +1,27 @@
+{
+  "id": 53676,
+  "registrationNumber": "CC21798",
+  "name": "139 On Union Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hbh.org.nz",
+  "email": "sachin.adkar@hbh.org.nz",
+  "address": {
+    "line1": "139 Union Road",
+    "line2": " ",
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": "9429034192542",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Howick Baptist Healthcare",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T18:05:53Z"
+}

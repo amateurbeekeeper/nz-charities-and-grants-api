@@ -1,0 +1,27 @@
+{
+  "id": 74057,
+  "registrationNumber": "CC60463",
+  "name": "Abide Church Hamilton Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.abidechurch.org.nz",
+  "email": "raewyn.burnell@gmail.com",
+  "address": {
+    "line1": "1 Rossiter Place",
+    "line2": " ",
+    "suburb": "Chartwell",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429049042429",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-03T19:44:44Z"
+}

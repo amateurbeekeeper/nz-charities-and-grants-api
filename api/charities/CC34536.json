@@ -1,0 +1,27 @@
+{
+  "id": 41455,
+  "registrationNumber": "CC34536",
+  "name": "Waikato Young Women's Christian Association (YWCA) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ywcawaikato.org.nz/",
+  "email": "riikka@ywcahamilton.org.nz",
+  "address": {
+    "line1": "28 Pembroke Street",
+    "line2": " ",
+    "suburb": "Hamilton Lake",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042921691",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ywcahamiltonnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T21:44:23Z"
+}

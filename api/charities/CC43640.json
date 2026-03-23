@@ -1,0 +1,27 @@
+{
+  "id": 50117,
+  "registrationNumber": "CC43640",
+  "name": "Performing Arts Taumarunui Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ptill@xtra.co.nz",
+  "address": {
+    "line1": "22 Miriama Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Taumarunui",
+    "postcode": "3920"
+  },
+  "nzbn": "9429042978251",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T02:48:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40935,
+  "registrationNumber": "CC24667",
+  "name": "Queenstown Heritage Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tonia@tfbc.co.nz",
+  "address": {
+    "line1": "21 Marine Parade",
+    "line2": "Queenstown 9300",
+    "suburb": "13 Camp Street",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429043010820",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T18:03:24Z"
+}

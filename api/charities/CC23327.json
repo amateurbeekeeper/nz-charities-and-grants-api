@@ -1,0 +1,27 @@
+{
+  "id": 56218,
+  "registrationNumber": "CC23327",
+  "name": "Mid City Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.midcitychurch.org",
+  "email": "allan@midcitychurch.org",
+  "address": {
+    "line1": "382 Upper Harbour Drive",
+    "line2": " ",
+    "suburb": "Greenhithe",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429042769071",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T21:44:44Z"
+}

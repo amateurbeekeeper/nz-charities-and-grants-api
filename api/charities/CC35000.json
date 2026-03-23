@@ -1,0 +1,27 @@
+{
+  "id": 48124,
+  "registrationNumber": "CC35000",
+  "name": "St Matthews Chamber Orchestra Incorporated ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.smco.org.nz",
+  "email": "smconz@gmail.com",
+  "address": {
+    "line1": "PO Box 44435",
+    "line2": " ",
+    "suburb": "Point Chevalier",
+    "city": "Auckland",
+    "postcode": "1246"
+  },
+  "nzbn": "9429042828976",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/stmatthewschamberorchestra",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T20:35:51Z"
+}

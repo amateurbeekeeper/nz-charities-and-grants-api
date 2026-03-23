@@ -1,0 +1,27 @@
+{
+  "id": 73343,
+  "registrationNumber": "CC59946",
+  "name": "The Values Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-02-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.valuestrust.co.nz",
+  "email": "tesh@valuestrust.co.nz",
+  "address": {
+    "line1": "34 Matakotea Road",
+    "line2": "RD 1",
+    "suburb": "Hamilton Central",
+    "city": "Raglan",
+    "postcode": "3295"
+  },
+  "nzbn": "9429050280759",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-08T19:42:42Z"
+}

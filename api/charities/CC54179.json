@@ -1,0 +1,27 @@
+{
+  "id": 67865,
+  "registrationNumber": "CC54179",
+  "name": "Te Kāhu Tiu Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tekahutiu.org.nz/",
+  "email": "amelia.trotter@tekahutiu.com",
+  "address": {
+    "line1": "188 Ngatiawa Road",
+    "line2": "Reikorangi 5391",
+    "suburb": "Reikorangi",
+    "city": "Waikanae",
+    "postcode": "5391"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tekahutiu",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T05:23:40Z"
+}

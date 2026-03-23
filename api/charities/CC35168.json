@@ -1,0 +1,27 @@
+{
+  "id": 61238,
+  "registrationNumber": "CC35168",
+  "name": "Waimate St John Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-11-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stjohn.org.nz",
+  "email": "nolene.vangreuning@stjohn.org.nz",
+  "address": {
+    "line1": "2 Harrison Road",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042882282",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T20:12:53Z"
+}

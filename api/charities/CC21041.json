@@ -1,0 +1,27 @@
+{
+  "id": 54810,
+  "registrationNumber": "CC21041",
+  "name": "Bread of Life Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.oscarsblenheim.com",
+  "email": "manager@breadoflife.org.nz",
+  "address": {
+    "line1": "42 High Street",
+    "line2": "Blenheim 7201",
+    "suburb": "Redwoodtown",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429042595762",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/oscarblenheim/?ref=bookmarks",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T23:12:28Z"
+}

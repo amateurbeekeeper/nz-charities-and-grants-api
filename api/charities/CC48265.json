@@ -1,0 +1,27 @@
+{
+  "id": 32745,
+  "registrationNumber": "CC48265",
+  "name": "Hawea Food Forest",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mansondiana@gmail.com",
+  "address": {
+    "line1": "286 Lakeview Terrace",
+    "line2": "RD 2",
+    "suburb": "Lake Hawea",
+    "city": "Wanaka",
+    "postcode": "9382"
+  },
+  "nzbn": "9429043318223",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/3051328904899592/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T04:19:20Z"
+}

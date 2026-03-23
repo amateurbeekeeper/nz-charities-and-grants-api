@@ -1,0 +1,27 @@
+{
+  "id": 51447,
+  "registrationNumber": "CC10298",
+  "name": "Te Ara Kakariki Greenway Canterbury Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-05-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kakariki.org.nz",
+  "email": "treasurer@kakariki.org.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "199 Cossars Road",
+    "suburb": " ",
+    "city": "Tai Tapu",
+    "postcode": "7672"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/TeAraKakariki",
+    "twitter": "https://mobile/twitter.com/tearakakariki"
+  },
+  "lastUpdated": "2025-12-08T19:35:34Z"
+}

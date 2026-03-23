@@ -1,0 +1,27 @@
+{
+  "id": 53513,
+  "registrationNumber": "CC22999",
+  "name": "Halswell Baptist Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-04-14T00:00:00Z",
+  "dateDeregistered": "2013-06-30T00:00:00Z",
+  "website": null,
+  "email": "accounts@swbc.org.nz",
+  "address": {
+    "line1": "6 Balcairn Street",
+    "line2": null,
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:10:05Z"
+}

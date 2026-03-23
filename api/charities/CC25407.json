@@ -1,0 +1,27 @@
+{
+  "id": 42446,
+  "registrationNumber": "CC25407",
+  "name": "New Wine New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.newwine.org.nz",
+  "email": "admin@newwine.org.nz",
+  "address": {
+    "line1": "156 The Square",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042927358",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/newwinenz",
+    "twitter": "https://twitter.com/newwinenz"
+  },
+  "lastUpdated": "2026-03-16T07:55:59Z"
+}

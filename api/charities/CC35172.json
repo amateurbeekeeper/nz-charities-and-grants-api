@@ -1,0 +1,27 @@
+{
+  "id": 57706,
+  "registrationNumber": "CC35172",
+  "name": "Hamilton Marist Rugby Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hamiltonmarist.nz",
+  "email": "clubmanager@hamiltonmarist.nz",
+  "address": {
+    "line1": "147 Old Farm Road",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429042712701",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T23:07:57Z"
+}

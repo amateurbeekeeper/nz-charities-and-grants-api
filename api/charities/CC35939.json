@@ -1,0 +1,27 @@
+{
+  "id": 41769,
+  "registrationNumber": "CC35939",
+  "name": "Well-Able",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.well-able.org.nz",
+  "email": "manager@well-able.org.nz",
+  "address": {
+    "line1": "112 Rimu Road",
+    "line2": "Paraparaumu 5032",
+    "suburb": " ",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429042650676",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@wellablekapiti",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-09T18:08:19Z"
+}

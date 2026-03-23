@@ -1,0 +1,27 @@
+{
+  "id": 35980,
+  "registrationNumber": "CC45062",
+  "name": "WSA Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "wsa@wsa.org.nz",
+  "address": {
+    "line1": "120 Victoria Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043205547",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-07T03:34:27Z"
+}

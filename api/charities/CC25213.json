@@ -1,0 +1,27 @@
+{
+  "id": 55843,
+  "registrationNumber": "CC25213",
+  "name": "The St Andrew's College Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "del@stac.school.nz",
+  "address": {
+    "line1": "347 Papanui Road",
+    "line2": " ",
+    "suburb": "Strowan",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429042976301",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T22:58:38Z"
+}

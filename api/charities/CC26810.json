@@ -1,0 +1,27 @@
+{
+  "id": 55322,
+  "registrationNumber": "CC26810",
+  "name": "Papanui Baptist Freedom Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.freedomtrust.org.nz/",
+  "email": "nzoldager@gmail.com",
+  "address": {
+    "line1": "144 Sawyers Arms Road",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429043030170",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/papanuibaptistfreedom",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T03:49:24Z"
+}

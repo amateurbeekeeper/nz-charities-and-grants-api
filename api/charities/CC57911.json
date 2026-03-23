@@ -1,0 +1,27 @@
+{
+  "id": 71533,
+  "registrationNumber": "CC57911",
+  "name": "All Nations City Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-06-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://ancc.co/",
+  "email": "pastortheo@xtra.co.nz",
+  "address": {
+    "line1": "38 Pigeon Mountain Road",
+    "line2": "Half moon Bay ",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2012"
+  },
+  "nzbn": "9429048309967",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "www.facebook.com",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T21:23:22Z"
+}

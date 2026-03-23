@@ -1,0 +1,27 @@
+{
+  "id": 66048,
+  "registrationNumber": "CC52310",
+  "name": "Wildlife Rehabilitators Network of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-08-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wrennz.org.nz",
+  "email": "claire.travers7@gmail.com",
+  "address": {
+    "line1": "13 Te Taiawatea Drive",
+    "line2": "Ohope 3121",
+    "suburb": "Ōhope",
+    "city": "Ohope",
+    "postcode": "3121"
+  },
+  "nzbn": "9429043316717",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WReNNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-22T02:15:58Z"
+}

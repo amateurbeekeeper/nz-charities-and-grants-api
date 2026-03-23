@@ -1,0 +1,27 @@
+{
+  "id": 54519,
+  "registrationNumber": "CC20958",
+  "name": "Homebuilders Family Services North Rodney Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.homebuildersfs.org",
+  "email": "office@homebuildersfs.org",
+  "address": {
+    "line1": "5 Hexham Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Warkworth",
+    "postcode": "910"
+  },
+  "nzbn": "9429042619581",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Homebuilders Family Services",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T01:42:14Z"
+}

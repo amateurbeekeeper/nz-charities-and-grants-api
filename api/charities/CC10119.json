@@ -1,0 +1,27 @@
+{
+  "id": 51108,
+  "registrationNumber": "CC10119",
+  "name": "The Building Officials Institute of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.boinz.org.nz",
+  "email": "ea@boinz.org.nz",
+  "address": {
+    "line1": "LEVEL 12   GRAND ANNEXE",
+    "line2": "84 Boulcott Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042855613",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-10T02:10:37Z"
+}

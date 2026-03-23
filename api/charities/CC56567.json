@@ -1,0 +1,27 @@
+{
+  "id": 70207,
+  "registrationNumber": "CC56567",
+  "name": "Alfa Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://alfatrust.org.nz/",
+  "email": "admin@ashandoak.co.nz",
+  "address": {
+    "line1": "2423 State Highway 30",
+    "line2": "RD 2",
+    "suburb": "Otakiri",
+    "city": "Whakatane",
+    "postcode": "3192"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T21:24:39Z"
+}

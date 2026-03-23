@@ -1,0 +1,27 @@
+{
+  "id": 50392,
+  "registrationNumber": "CC43987",
+  "name": "Kiwi Adventure Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-04-13T00:00:00Z",
+  "dateDeregistered": "2018-03-31T00:00:00Z",
+  "website": "http://www.kiwi-adventure.co.nz",
+  "email": "david.tait@kiwi-adventure.co.nz",
+  "address": {
+    "line1": "111A Ikanui Road",
+    "line2": " ",
+    "suburb": "Frimley",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/kiwiadventuretrust",
+    "twitter": null
+  },
+  "lastUpdated": "2018-04-17T18:41:02Z"
+}

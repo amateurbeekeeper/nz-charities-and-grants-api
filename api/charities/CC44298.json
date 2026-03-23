@@ -1,0 +1,27 @@
+{
+  "id": 50342,
+  "registrationNumber": "CC44298",
+  "name": "AudioCafe Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-05-30T00:00:00Z",
+  "dateDeregistered": "2012-05-21T00:00:00Z",
+  "website": "http://www.audiocafe.co.nz",
+  "email": "aroha.vause@gmail.com",
+  "address": {
+    "line1": "50 Mountain Road",
+    "line2": null,
+    "suburb": "Henderson Valley",
+    "city": "Auckland",
+    "postcode": "612"
+  },
+  "nzbn": "9429043198184",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:30:38Z"
+}

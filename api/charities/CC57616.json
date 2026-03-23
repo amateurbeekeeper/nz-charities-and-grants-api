@@ -1,0 +1,27 @@
+{
+  "id": 71241,
+  "registrationNumber": "CC57616",
+  "name": "Re-Source Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.re-source.co.nz",
+  "email": "manager@re-source.co.nz",
+  "address": {
+    "line1": "18 Margate Avenue",
+    "line2": " ",
+    "suburb": "Flaxmere",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429050759774",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Re-Source-2425070404443627/?modal=admin_todo_tour",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T01:21:31Z"
+}

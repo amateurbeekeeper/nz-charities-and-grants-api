@@ -1,0 +1,27 @@
+{
+  "id": 62669,
+  "registrationNumber": "CC43382",
+  "name": "Fencibles United Association Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-01-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.fencibles.org.nz",
+  "email": "finance@fencibles.org.nz",
+  "address": {
+    "line1": "168 Gossamer Drive",
+    "line2": " ",
+    "suburb": "Pakuranga Heights",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429042821021",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T18:18:03Z"
+}

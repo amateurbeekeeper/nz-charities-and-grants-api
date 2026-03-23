@@ -1,0 +1,27 @@
+{
+  "id": 51700,
+  "registrationNumber": "CC10462",
+  "name": "Citizens Advice Bureau Whanganui Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-06-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cab.org.nz",
+  "email": "whanganui@cab.org.nz",
+  "address": {
+    "line1": "120 Guyton Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042839569",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-05T00:31:40Z"
+}

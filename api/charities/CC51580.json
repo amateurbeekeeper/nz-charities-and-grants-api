@@ -1,0 +1,27 @@
+{
+  "id": 65353,
+  "registrationNumber": "CC51580",
+  "name": "Zion Tabernacle",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "ziontab.org.nz",
+  "email": "cobb77@gmail.com",
+  "address": {
+    "line1": "26 Rere Close",
+    "line2": null,
+    "suburb": " ",
+    "city": "Takanini",
+    "postcode": "2112"
+  },
+  "nzbn": "9429043277834",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T22:47:47Z"
+}

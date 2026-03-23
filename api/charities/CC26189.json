@@ -1,0 +1,27 @@
+{
+  "id": 54493,
+  "registrationNumber": "CC26189",
+  "name": "Alandale Lifecare Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.alandale.co.nz",
+  "email": "admin@alandale.co.nz",
+  "address": {
+    "line1": "1199 River Road",
+    "line2": " ",
+    "suburb": "Flagstaff",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429039584007",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T04:27:52Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63974,
+  "registrationNumber": "CC43505",
+  "name": "Glenavon Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.glenavon.org.nz",
+  "email": "michael@mishriki.com",
+  "address": {
+    "line1": "340 Blockhouse Bay Road",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429043202041",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/glenavonhub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T22:33:43Z"
+}

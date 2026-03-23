@@ -1,0 +1,27 @@
+{
+  "id": 60103,
+  "registrationNumber": "CC27840",
+  "name": "The J B Johns Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "graeme@mcglinnconsulting.com",
+  "address": {
+    "line1": "PO Box 5428",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8542"
+  },
+  "nzbn": "9429042999355",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-22T19:51:24Z"
+}

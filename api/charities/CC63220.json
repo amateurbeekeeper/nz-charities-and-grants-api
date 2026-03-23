@@ -1,0 +1,27 @@
+{
+  "id": 77401,
+  "registrationNumber": "CC63220",
+  "name": "Queenstown Ice Hockey Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-04-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://queenstownicehockey.co.nz",
+  "email": "gm@queenstownicehockey.co.nz",
+  "address": {
+    "line1": "29 Park Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-29T02:50:02Z"
+}

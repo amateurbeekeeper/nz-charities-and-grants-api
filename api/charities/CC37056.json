@@ -1,0 +1,27 @@
+{
+  "id": 50058,
+  "registrationNumber": "CC37056",
+  "name": "Neighbourhood Support Nelson Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-01-22T00:00:00Z",
+  "dateDeregistered": "2020-09-30T00:00:00Z",
+  "website": "www.nsnelson.org",
+  "email": "manager@tsns.org.nz",
+  "address": {
+    "line1": "1st Floor",
+    "line2": "132-134 Bridge Street ",
+    "suburb": "Nelson",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043171309",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "Neighbourhood Support Nelson",
+    "twitter": null
+  },
+  "lastUpdated": "2022-11-21T21:24:50Z"
+}

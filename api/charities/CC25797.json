@@ -1,0 +1,27 @@
+{
+  "id": 55567,
+  "registrationNumber": "CC25797",
+  "name": "Trust Investments Management Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.trustmanagement.co.nz",
+  "email": "gsun@trustmanagement.co.nz",
+  "address": {
+    "line1": "105 Carlton Gore Road",
+    "line2": "123 Carlton Gore Road",
+    "suburb": "Newmarket",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:48Z"
+}

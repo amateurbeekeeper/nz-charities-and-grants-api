@@ -1,0 +1,27 @@
+{
+  "id": 53167,
+  "registrationNumber": "CC21704",
+  "name": "Manawatu Toy Library Association (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://manawatutl.mibase.co.nz",
+  "email": "chair@manawatutoylibrary.co.nz",
+  "address": {
+    "line1": "200 Church Street",
+    "line2": " ",
+    "suburb": "West End",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429042754763",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Manawatu Toy Library",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T23:27:53Z"
+}

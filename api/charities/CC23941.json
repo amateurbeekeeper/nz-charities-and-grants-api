@@ -1,0 +1,27 @@
+{
+  "id": 55418,
+  "registrationNumber": "CC23941",
+  "name": "Little Sisters of the Assumption",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "don.ryan@xtra.co.nz",
+  "address": {
+    "line1": "14 Dawson Road",
+    "line2": " ",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": "9429042757719",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-13T19:10:20Z"
+}

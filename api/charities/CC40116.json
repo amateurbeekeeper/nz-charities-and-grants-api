@@ -1,0 +1,27 @@
+{
+  "id": 61890,
+  "registrationNumber": "CC40116",
+  "name": "Whakapara Marae Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "stephanie.rehutai@gmail.com",
+  "address": {
+    "line1": "38 Puhipuhi Road",
+    "line2": "RD 2",
+    "suburb": "Whakapara",
+    "city": "Hikurangi",
+    "postcode": "0182"
+  },
+  "nzbn": "9429042840190",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:20:21Z"
+}

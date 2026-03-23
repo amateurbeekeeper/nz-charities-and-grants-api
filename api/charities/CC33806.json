@@ -1,0 +1,27 @@
+{
+  "id": 45334,
+  "registrationNumber": "CC33806",
+  "name": "Dunedin Friend - Link Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://friendlinkdn.wixsite.com/friendlinkdn",
+  "email": "friendlinkdn@gmail.com",
+  "address": {
+    "line1": "185 Hillside Road",
+    "line2": " ",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Friend-Link Dunedin",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T02:26:40Z"
+}

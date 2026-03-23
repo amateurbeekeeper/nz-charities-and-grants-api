@@ -1,0 +1,27 @@
+{
+  "id": 53099,
+  "registrationNumber": "CC11359",
+  "name": "The NZART Radioscience Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzart.org.nz/nzart/trust/",
+  "email": "tdcarrell@gmail.com",
+  "address": {
+    "line1": "33 Ryeland Avenue",
+    "line2": " ",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-04T23:23:00Z"
+}

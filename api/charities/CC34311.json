@@ -1,0 +1,27 @@
+{
+  "id": 57893,
+  "registrationNumber": "CC34311",
+  "name": "Te Ohu Kai Moana Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.teohukaimoana.nz",
+  "email": "matthew.page@teohukaimoana.nz",
+  "address": {
+    "line1": "7 Waterloo Quay",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429035056331",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/teohukaimoana/",
+    "twitter": "https://twitter.com/TeOhuKaimoana"
+  },
+  "lastUpdated": "2026-02-01T21:48:08Z"
+}

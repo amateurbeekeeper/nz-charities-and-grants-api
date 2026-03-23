@@ -1,0 +1,27 @@
+{
+  "id": 73715,
+  "registrationNumber": "CC60215",
+  "name": "ICOM Aotearoa New Zealand Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://icom-new-zealand.mini.icom.museum",
+  "email": "alba.letts@motat.org.nz",
+  "address": {
+    "line1": "17 Denehurst Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waimauku",
+    "postcode": "0812"
+  },
+  "nzbn": "9429047656826",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/icomaotearoa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:21:05Z"
+}

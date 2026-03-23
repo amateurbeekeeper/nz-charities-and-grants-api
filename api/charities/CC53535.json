@@ -1,0 +1,27 @@
+{
+  "id": 67252,
+  "registrationNumber": "CC53535",
+  "name": "Project De-Vine Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-07-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pdvet.org.nz",
+  "email": "11nikaus@gmail.com",
+  "address": {
+    "line1": "65 Commercial Street",
+    "line2": "Takaka 7110",
+    "suburb": " ",
+    "city": "Takaka",
+    "postcode": "7110"
+  },
+  "nzbn": "9429043313587",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "project de vine golden bay",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T21:14:56Z"
+}

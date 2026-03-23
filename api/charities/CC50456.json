@@ -1,0 +1,27 @@
+{
+  "id": 34118,
+  "registrationNumber": "CC50456",
+  "name": "The Big Buddy Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bigbuddy.org.nz/",
+  "email": "marktalbotnz@gmail.com",
+  "address": {
+    "line1": "46C Rawhitiroa Road",
+    "line2": "100-105 Parnell Road",
+    "suburb": "Kohimarama",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429043259557",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.bigbuddy.org.nz/donate/foundation/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T18:41:26Z"
+}

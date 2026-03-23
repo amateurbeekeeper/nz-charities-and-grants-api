@@ -1,0 +1,27 @@
+{
+  "id": 45587,
+  "registrationNumber": "CC30271",
+  "name": "Spring Creek Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-22T00:00:00Z",
+  "website": "www.playcentre.org.nz",
+  "email": "leah.fairgrieve@playcentre.org.nz",
+  "address": {
+    "line1": "46A Ferry Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Spring Creek",
+    "postcode": "7202"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/SpringCreekPC/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T06:04:10Z"
+}

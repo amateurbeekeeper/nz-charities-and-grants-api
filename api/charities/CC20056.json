@@ -1,0 +1,27 @@
+{
+  "id": 51281,
+  "registrationNumber": "CC20056",
+  "name": "Alzheimers Society Napier Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2007-11-13T00:00:00Z",
+  "dateDeregistered": "2017-03-31T00:00:00Z",
+  "website": "http://www.alzheimers.org.nz",
+  "email": "ken@simons.co.nz",
+  "address": {
+    "line1": "1 Wilding Avenue",
+    "line2": " ",
+    "suburb": "Marewa",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042754466",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "Alzheimers Napier",
+    "twitter": null
+  },
+  "lastUpdated": "2022-11-21T22:55:32Z"
+}

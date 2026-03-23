@@ -1,0 +1,27 @@
+{
+  "id": 60952,
+  "registrationNumber": "CC30437",
+  "name": "Hukerenui Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-07-14T00:00:00Z",
+  "website": null,
+  "email": "hukerenui@playcentre.org.nz",
+  "address": {
+    "line1": "9 Crows Nest Road",
+    "line2": "RD 2",
+    "suburb": "Hūkerenui",
+    "city": "Hikurangi",
+    "postcode": "0182"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-28T07:11:26Z"
+}

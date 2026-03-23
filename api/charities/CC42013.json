@@ -1,0 +1,27 @@
+{
+  "id": 61233,
+  "registrationNumber": "CC42013",
+  "name": "Terry Boyle Memorial Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "peteboyle007@gmail.com",
+  "address": {
+    "line1": "104C Greenslade Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Raglan",
+    "postcode": "3295"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T21:13:42Z"
+}

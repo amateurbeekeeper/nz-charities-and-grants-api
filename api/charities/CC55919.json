@@ -1,0 +1,27 @@
+{
+  "id": 69566,
+  "registrationNumber": "CC55919",
+  "name": "The Marshlands Hall Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.marshlandhall.co.nz",
+  "email": "Greg@marshlandhall.co.nz",
+  "address": {
+    "line1": "20 Makawe Roa Street",
+    "line2": null,
+    "suburb": "Marshland",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429042782421",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MarshlandHallTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T05:12:12Z"
+}

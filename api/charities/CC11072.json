@@ -1,0 +1,27 @@
+{
+  "id": 52254,
+  "registrationNumber": "CC11072",
+  "name": "Te Ahu Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teahu.org.nz",
+  "email": "mark@teahu.org.nz",
+  "address": {
+    "line1": "Te Ahu Charitable Trust",
+    "line2": "Te Ahu Centre",
+    "suburb": "Cnr SH1 and Mathews Ave",
+    "city": "Kaitaia",
+    "postcode": "0441"
+  },
+  "nzbn": "9429043144921",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/teahukaitaia/",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2025-11-17T18:05:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 59788,
+  "registrationNumber": "CC27632",
+  "name": "New Zealand Communities Growth Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.publictrust.co.nz ",
+  "email": "nzcgt@publictrust.co.nz",
+  "address": {
+    "line1": "Public Trust Tower",
+    "line2": "22 Willeston Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T23:58:27Z"
+}

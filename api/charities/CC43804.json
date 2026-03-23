@@ -1,0 +1,27 @@
+{
+  "id": 50243,
+  "registrationNumber": "CC43804",
+  "name": "Celtic Pipe Band Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.celticpipeband-nelson.nz",
+  "email": "callum.a.gilchrist@gmail.com",
+  "address": {
+    "line1": "23 Trolove Place",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429043008155",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/celticpipeband.nelson/?ref=page_internal",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T19:56:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 45156,
+  "registrationNumber": "CC41094",
+  "name": "The Otago Farmers Market Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.otagofarmersmarket.org.nz",
+  "email": "gm@otagofarmersmarket.org.nz",
+  "address": {
+    "line1": "Floor 1",
+    "line2": "43 Princes Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043187607",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/otagofarmersmarket/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T00:36:05Z"
+}

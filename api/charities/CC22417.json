@@ -1,0 +1,27 @@
+{
+  "id": 55093,
+  "registrationNumber": "CC22417",
+  "name": "Alzheimer's Society South Canterbury Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.alzheimers.org.nz",
+  "email": "southcanterbury@alzheimers.org.nz",
+  "address": {
+    "line1": "COMMUNITY HOUSE",
+    "line2": "27 Strathallan Street",
+    "suburb": " ",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429042574132",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T20:04:25Z"
+}

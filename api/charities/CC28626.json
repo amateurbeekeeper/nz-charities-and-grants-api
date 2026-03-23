@@ -1,0 +1,27 @@
+{
+  "id": 58329,
+  "registrationNumber": "CC28626",
+  "name": "Waimate Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://waimate.mibase.com.au/php/website/index.php",
+  "email": "arc42@hotmail.com",
+  "address": {
+    "line1": "31 Paul Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waimate",
+    "postcode": "7924"
+  },
+  "nzbn": "9429042882329",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waimatetoylibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T02:46:34Z"
+}

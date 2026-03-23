@@ -1,0 +1,27 @@
+{
+  "id": 71305,
+  "registrationNumber": "CC57679",
+  "name": "On The House Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-12-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://onthehouse.org.nz/",
+  "email": "terry@onthehouse.org.nz",
+  "address": {
+    "line1": "PO Box 3025",
+    "line2": " ",
+    "suburb": "Fitzroy",
+    "city": "New Plymouth",
+    "postcode": "4341"
+  },
+  "nzbn": "9429051160951",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/onthehouse.np/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-09T01:06:59Z"
+}

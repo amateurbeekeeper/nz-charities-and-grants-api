@@ -1,0 +1,27 @@
+{
+  "id": 61385,
+  "registrationNumber": "CC34233",
+  "name": "Te Tokanganui A Noho Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2019-10-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tekuitipa.com",
+  "email": "treasurer@tekuitipa.co.nz",
+  "address": {
+    "line1": "41 Forbes Street",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Kuiti Pa Official Site",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-02T02:43:48Z"
+}

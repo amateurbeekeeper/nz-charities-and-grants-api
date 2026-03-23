@@ -1,0 +1,27 @@
+{
+  "id": 59291,
+  "registrationNumber": "CC30338",
+  "name": "West Harbour Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-22T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/west-harbour/",
+  "email": "westharbour@playcentre.org.nz",
+  "address": {
+    "line1": "Suite 1",
+    "line2": "74 Oreil Avenue",
+    "suburb": "West Harbour",
+    "city": "Auckland",
+    "postcode": "618"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WestHarbourPlaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T06:04:14Z"
+}

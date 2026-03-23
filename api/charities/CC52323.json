@@ -1,0 +1,27 @@
+{
+  "id": 66061,
+  "registrationNumber": "CC52323",
+  "name": "St Andrew's Golden Bay Presbyterian Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-09-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "colin.julie@xtra.co.nz",
+  "address": {
+    "line1": "43 Mccallum Road",
+    "line2": "RD 1",
+    "suburb": "Kotinga",
+    "city": "Takaka",
+    "postcode": "7183"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T18:32:34Z"
+}

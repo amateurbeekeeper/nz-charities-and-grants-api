@@ -1,0 +1,27 @@
+{
+  "id": 50780,
+  "registrationNumber": "CC41845",
+  "name": "Branches Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-08-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.branchestrust.co.nz",
+  "email": "jowrightzqn@gmail.com",
+  "address": {
+    "line1": "111 Alec Robins Road",
+    "line2": "RD 1",
+    "suburb": "Lake Hayes",
+    "city": "Queenstown",
+    "postcode": "9371"
+  },
+  "nzbn": "9429043205158",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Branches Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T03:41:04Z"
+}

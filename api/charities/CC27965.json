@@ -1,0 +1,27 @@
+{
+  "id": 49162,
+  "registrationNumber": "CC27965",
+  "name": "Palmerston Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Gary.Johnston@fireandemergency.nz",
+  "address": {
+    "line1": "12 Sanday Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston",
+    "postcode": "9430"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:21:36Z"
+}

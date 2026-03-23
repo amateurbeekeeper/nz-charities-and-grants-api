@@ -1,0 +1,27 @@
+{
+  "id": 37174,
+  "registrationNumber": "CC47691",
+  "name": "New Zealand Institute of Forestry Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-12-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nzif.org.nz",
+  "email": "foundation@nzif.org.nz",
+  "address": {
+    "line1": "93 The Terrace",
+    "line2": "93 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043238132",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T00:28:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 49309,
+  "registrationNumber": "CC29051",
+  "name": "Manapouri Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ray.haanen@fireandemergency.nz",
+  "address": {
+    "line1": "45 Hillside Manapouri Road",
+    "line2": "Manapouri 9679",
+    "suburb": " ",
+    "city": "Manapouri",
+    "postcode": "9679"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T06:06:51Z"
+}

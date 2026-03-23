@@ -1,0 +1,27 @@
+{
+  "id": 36193,
+  "registrationNumber": "CC45367",
+  "name": "ROMAC New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.romac.org.au",
+  "email": "geoff@pownall.kiwi",
+  "address": {
+    "line1": "Apartment IAF72",
+    "line2": "Murray Halberg Village",
+    "suburb": "Lynfield",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/RomacNZ ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T18:51:55Z"
+}

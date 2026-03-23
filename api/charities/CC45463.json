@@ -1,0 +1,27 @@
+{
+  "id": 36054,
+  "registrationNumber": "CC45463",
+  "name": "Onerahi Resource Centre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "onerahirct@gmail.com",
+  "address": {
+    "line1": "130 Onerahi Road",
+    "line2": " ",
+    "suburb": "Onerahi",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043212682",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:28:47Z"
+}

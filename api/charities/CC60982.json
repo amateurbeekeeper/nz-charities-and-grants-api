@@ -1,0 +1,27 @@
+{
+  "id": 74559,
+  "registrationNumber": "CC60982",
+  "name": "Shiloh Ministries & Fellowship",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-02-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://shilohministries.nz/",
+  "email": "abri@shilohministries.nz",
+  "address": {
+    "line1": "178 Lennon Access Road",
+    "line2": "RD 3",
+    "suburb": "Stillwater",
+    "city": "Silverdale",
+    "postcode": "0993"
+  },
+  "nzbn": "9429051099848",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:54:44Z"
+}

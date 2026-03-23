@@ -1,0 +1,27 @@
+{
+  "id": 68267,
+  "registrationNumber": "CC54604",
+  "name": "MUMA Whanau Services Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sonyac@muma.co.nz",
+  "address": {
+    "line1": "5 Shirley Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429046093370",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T00:15:54Z"
+}

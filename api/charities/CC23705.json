@@ -1,0 +1,27 @@
+{
+  "id": 40249,
+  "registrationNumber": "CC23705",
+  "name": "Glen Eden Community House Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www:glenedencommunityhouse.co.nz",
+  "email": "manager@glenedencommunityhouse.co.nz",
+  "address": {
+    "line1": "13 Pisces Road",
+    "line2": " ",
+    "suburb": "Glen Eden",
+    "city": "Auckland",
+    "postcode": "602"
+  },
+  "nzbn": "9429042627159",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/glenedencommunityhouse",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T23:35:11Z"
+}

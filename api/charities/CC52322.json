@@ -1,0 +1,27 @@
+{
+  "id": 66060,
+  "registrationNumber": "CC52322",
+  "name": "Palmerston-Dunback Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "eurolie@yahoo.com",
+  "address": {
+    "line1": "35 Craig Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston",
+    "postcode": "9430"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T00:38:04Z"
+}

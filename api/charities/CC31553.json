@@ -1,0 +1,27 @@
+{
+  "id": 49941,
+  "registrationNumber": "CC31553",
+  "name": "Samaritans New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.samaritans.org.nz",
+  "email": "chair@samaritans.org.nz",
+  "address": {
+    "line1": "17B Valentine Road",
+    "line2": "RD 5",
+    "suburb": "Bridge Pa",
+    "city": "Hastings",
+    "postcode": "4175"
+  },
+  "nzbn": "9429042594123",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T01:29:08Z"
+}

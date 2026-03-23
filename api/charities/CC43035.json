@@ -1,0 +1,27 @@
+{
+  "id": 49851,
+  "registrationNumber": "CC43035",
+  "name": "Queenstown Film Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.queenstownfilmsociety.co.nz",
+  "email": "bea7rice@gmail.com",
+  "address": {
+    "line1": "c/o Macalister Todd Phillips  Floor 3",
+    "line2": "11-17 Church Street",
+    "suburb": " ",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429043291441",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@QueenstownFilm",
+    "twitter": "@QueenstownFilm"
+  },
+  "lastUpdated": "2026-01-16T04:30:52Z"
+}

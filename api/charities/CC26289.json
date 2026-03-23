@@ -1,0 +1,27 @@
+{
+  "id": 40644,
+  "registrationNumber": "CC26289",
+  "name": "Whanganui Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://https://whanganuitoylibrary.setls.co.nz/",
+  "email": "whanganuitoylibrary@gmail.com",
+  "address": {
+    "line1": "142 London Street",
+    "line2": " ",
+    "suburb": "Saint Johns Hill",
+    "city": "Wanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429043081707",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Wanganui-Toy-Library-111234322317150",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T00:43:39Z"
+}

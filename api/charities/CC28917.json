@@ -1,0 +1,27 @@
+{
+  "id": 61028,
+  "registrationNumber": "CC28917",
+  "name": "Whangārei Art Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.whangareiartmuseum.co.nz",
+  "email": "maree.attwood@wdc.govt.nz",
+  "address": {
+    "line1": "81 Dent Street",
+    "line2": "Whangarei 0110",
+    "suburb": "Whangārei",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429042950080",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:38:34Z"
+}

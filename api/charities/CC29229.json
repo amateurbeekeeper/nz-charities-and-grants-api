@@ -1,0 +1,27 @@
+{
+  "id": 60660,
+  "registrationNumber": "CC29229",
+  "name": "The Church In Dunedin Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.churchindunedin.org.nz",
+  "email": "lingsolomon@gmail.com",
+  "address": {
+    "line1": "26 Grange Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043012084",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T22:26:22Z"
+}

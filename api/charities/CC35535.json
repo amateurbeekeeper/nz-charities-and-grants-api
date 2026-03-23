@@ -1,0 +1,27 @@
+{
+  "id": 43282,
+  "registrationNumber": "CC35535",
+  "name": "Wyndham Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-08-08T00:00:00Z",
+  "website": null,
+  "email": "wyndham@playcentre.org.nz",
+  "address": {
+    "line1": "15 Raglan Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wyndham",
+    "postcode": "9831"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-22T07:19:17Z"
+}

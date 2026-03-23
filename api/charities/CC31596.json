@@ -1,0 +1,27 @@
+{
+  "id": 43002,
+  "registrationNumber": "CC31596",
+  "name": "New Zealand Festival Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.festival.co.nz",
+  "email": "accounts@tawhiri.nz",
+  "address": {
+    "line1": "264 Cuba Street",
+    "line2": "77-87 Courtenay Place",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042784258",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https//:www.facebook.com/nzfestival",
+    "twitter": "https://twitter.com/nzfestival"
+  },
+  "lastUpdated": "2025-12-12T03:22:07Z"
+}

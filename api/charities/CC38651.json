@@ -1,0 +1,27 @@
+{
+  "id": 45044,
+  "registrationNumber": "CC38651",
+  "name": "Te Whakaruruhau o Ngā Reo Irirangi Māori Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://iwi.radio/",
+  "email": "info@whakaruruhau.maori.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "1 Melba Street",
+    "suburb": " ",
+    "city": "Kaitaia",
+    "postcode": "0410"
+  },
+  "nzbn": "9429042842347",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-16T07:05:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 59550,
+  "registrationNumber": "CC35959",
+  "name": "Montessori Preschool II Wellington Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.montessori.school.nz",
+  "email": "office@montessori.school.nz",
+  "address": {
+    "line1": "13 Camrose Grove",
+    "line2": " ",
+    "suburb": "Kingston",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429042765882",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T23:26:44Z"
+}

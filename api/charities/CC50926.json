@@ -1,0 +1,27 @@
+{
+  "id": 34567,
+  "registrationNumber": "CC50926",
+  "name": "Waihi Heritage Vision Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-08-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "buckmanw@xtra.co.nz",
+  "address": {
+    "line1": "5 Reservoir Road",
+    "line2": "Waihi 3610",
+    "suburb": " ",
+    "city": "Waihi",
+    "postcode": "3610"
+  },
+  "nzbn": "9429043172498",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/777107659565707",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:08:16Z"
+}

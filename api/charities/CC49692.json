@@ -1,0 +1,27 @@
+{
+  "id": 35296,
+  "registrationNumber": "CC49692",
+  "name": "Love Soup Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-09-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lovesoup.org.nz",
+  "email": "lovesoupnz@gmail.com",
+  "address": {
+    "line1": "4/4 William Pickering Drive ",
+    "line2": " ",
+    "suburb": " Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429046153302",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/LoveSoupHibiscusCoast",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T03:24:48Z"
+}

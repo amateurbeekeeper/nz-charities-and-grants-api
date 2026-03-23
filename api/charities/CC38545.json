@@ -1,0 +1,27 @@
+{
+  "id": 54135,
+  "registrationNumber": "CC38545",
+  "name": "Mangakahia Sports & Community Complex Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.mangakahiacomplex.org.nz",
+  "email": "ckmac@xtra.co.nz",
+  "address": {
+    "line1": "695 Mangakahia Road",
+    "line2": "Poroti",
+    "suburb": "Maungatapere",
+    "city": "Whangarei",
+    "postcode": "0179"
+  },
+  "nzbn": "9429043106950",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mangakahiacomplex",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T03:50:53Z"
+}

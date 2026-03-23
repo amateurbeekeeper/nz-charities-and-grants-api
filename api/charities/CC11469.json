@@ -1,0 +1,27 @@
+{
+  "id": 53247,
+  "registrationNumber": "CC11469",
+  "name": "Y2Y Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2007-10-31T00:00:00Z",
+  "dateDeregistered": "2015-06-04T00:00:00Z",
+  "website": "www.y2y.org.nz",
+  "email": "admin@y2y.org.nz",
+  "address": {
+    "line1": "14 Rangiora Street",
+    "line2": null,
+    "suburb": "Castlecliff",
+    "city": "Wanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429043051922",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T21:30:43Z"
+}

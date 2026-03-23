@@ -1,0 +1,27 @@
+{
+  "id": 45769,
+  "registrationNumber": "CC41203",
+  "name": "The Church Of Christ Palmerston North",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kentus73@gmail.com",
+  "address": {
+    "line1": "670 Main Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429042852186",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-29T19:15:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44642,
+  "registrationNumber": "CC43234",
+  "name": "Cheviot Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-12-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rob_trina@xtra.co.nz",
+  "address": {
+    "line1": "Campbells Road",
+    "line2": " ",
+    "suburb": "Cheviot",
+    "city": "Canterbury",
+    "postcode": "7381"
+  },
+  "nzbn": "9429042615200",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Cheviot Golf Club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T23:50:07Z"
+}

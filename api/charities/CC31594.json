@@ -1,0 +1,27 @@
+{
+  "id": 42924,
+  "registrationNumber": "CC31594",
+  "name": "Sustainable South Canterbury Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://scecocentre.org.nz/",
+  "email": "brian@scecocentre.org.nz",
+  "address": {
+    "line1": "55C Redruth Street",
+    "line2": " ",
+    "suburb": "Redruth",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429043017812",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-06T22:28:17Z"
+}

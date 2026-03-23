@@ -1,0 +1,27 @@
+{
+  "id": 48739,
+  "registrationNumber": "CC37952",
+  "name": "Centre 401 Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.centre401.co.nz",
+  "email": "admin@centre401.co.nz",
+  "address": {
+    "line1": "306 Tristram Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042609537",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pages/Centre-401-Trust/371761462846287",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:40:21Z"
+}

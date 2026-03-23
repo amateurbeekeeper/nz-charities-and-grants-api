@@ -1,0 +1,27 @@
+{
+  "id": 65973,
+  "registrationNumber": "CC52241",
+  "name": "St Andrew's Presbyterian Church Blenheim",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-08-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.standrewsblenheim.org.nz",
+  "email": "kirk@intelliserve.co.nz",
+  "address": {
+    "line1": "5 Henry Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-08T06:48:15Z"
+}

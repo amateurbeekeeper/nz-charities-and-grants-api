@@ -1,0 +1,27 @@
+{
+  "id": 61784,
+  "registrationNumber": "CC35363",
+  "name": "Hawke's Bay Youth Theatre",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2021-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "champa@habyt.co.nz",
+  "address": {
+    "line1": "84 Kaiapo Road",
+    "line2": " ",
+    "suburb": "Camberley",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429043105021",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hbyouththeatre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T00:46:15Z"
+}

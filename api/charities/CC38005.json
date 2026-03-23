@@ -1,0 +1,27 @@
+{
+  "id": 44034,
+  "registrationNumber": "CC38005",
+  "name": "New Zealand Landcare Trust ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.landcare.org.nz",
+  "email": "pauline.hickey@landcare.org.nz",
+  "address": {
+    "line1": "University Of Waikato Campus ",
+    "line2": "Gate 10 Silverdale Road ",
+    "suburb": "Hamilton ",
+    "city": "Waikato",
+    "postcode": "3247"
+  },
+  "nzbn": "9429043129652",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T22:25:40Z"
+}

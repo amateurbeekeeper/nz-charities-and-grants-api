@@ -1,0 +1,27 @@
+{
+  "id": 38693,
+  "registrationNumber": "CC45607",
+  "name": "Porirua Canoe Kayak Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-10-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.poriruacanoekayakclub.co.nz",
+  "email": "john.hodges@xtra.co.nz",
+  "address": {
+    "line1": "4 Komata Grove",
+    "line2": " ",
+    "suburb": "Waitangirua",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429042809203",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.sporty.co.nz/poriruacanoekayakclub",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-21T03:51:18Z"
+}

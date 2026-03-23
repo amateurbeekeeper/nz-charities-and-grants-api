@@ -1,0 +1,27 @@
+{
+  "id": 42140,
+  "registrationNumber": "CC26409",
+  "name": "Panmure Squash Rackets Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.panmuresquash.co.nz",
+  "email": "manager@panmuresquash.co.nz",
+  "address": {
+    "line1": "44 Domain Road",
+    "line2": " ",
+    "suburb": "Panmure",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042821090",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T01:04:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67875,
+  "registrationNumber": "CC54192",
+  "name": "Etu Pasifika Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.etupasifika.co.nz/locations/canterbury",
+  "email": "melanie@pmagroup.co.nz",
+  "address": {
+    "line1": "173 Montreal Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043335015",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T23:11:51Z"
+}

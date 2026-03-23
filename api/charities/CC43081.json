@@ -1,0 +1,27 @@
+{
+  "id": 63331,
+  "registrationNumber": "CC43081",
+  "name": "TGH Property Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tgh.co.nz",
+  "email": "Statrec@tgh.co.nz",
+  "address": {
+    "line1": "6 Bryce Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429038369933",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-22T03:16:18Z"
+}

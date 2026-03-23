@@ -1,0 +1,27 @@
+{
+  "id": 56380,
+  "registrationNumber": "CC22696",
+  "name": "The Foundation for the Dunedin Civic Orchestra",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dso.org.nz",
+  "email": "manager@dso.org.nz",
+  "address": {
+    "line1": "65 Hanover Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042853909",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T22:54:01Z"
+}

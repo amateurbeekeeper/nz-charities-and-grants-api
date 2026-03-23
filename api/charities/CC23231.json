@@ -1,0 +1,27 @@
+{
+  "id": 55165,
+  "registrationNumber": "CC23231",
+  "name": "The Roman Catholic Archdiocese Of Wellington",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wn.catholic.org.nz",
+  "email": "s.patel@wn.catholic.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "204 Thorndon Quay",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T18:44:09Z"
+}

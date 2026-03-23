@@ -1,0 +1,27 @@
+{
+  "id": 60037,
+  "registrationNumber": "CC27907",
+  "name": "Whanganui Potters Studio Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2022-02-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whanganuipotters.com/",
+  "email": "j.paine@xtra.co.nz",
+  "address": {
+    "line1": "19 Taupo Quay",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042977087",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whanganuipotters/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T07:00:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54263,
+  "registrationNumber": "CC21961",
+  "name": "World Outreach New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.world-outreach.com",
+  "email": "nz@world-outreach.com",
+  "address": {
+    "line1": "20 Amersham Way",
+    "line2": " ",
+    "suburb": "Waikanae Beach",
+    "city": "Waikanae",
+    "postcode": "5036"
+  },
+  "nzbn": "9429043178186",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T18:21:28Z"
+}

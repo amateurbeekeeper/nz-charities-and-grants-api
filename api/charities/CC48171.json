@@ -1,0 +1,27 @@
+{
+  "id": 36705,
+  "registrationNumber": "CC48171",
+  "name": "The Christian Trust Of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thechristiantrust.com",
+  "email": "unitedtoshine2@gmail.com",
+  "address": {
+    "line1": "47 Ben Lomond Crescent",
+    "line2": "RD 1",
+    "suburb": "Pakuranga Heights",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-24T21:34:29Z"
+}

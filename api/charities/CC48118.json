@@ -1,0 +1,27 @@
+{
+  "id": 37742,
+  "registrationNumber": "CC48118",
+  "name": "Te Hiku Pharmacy Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tehikuhauora.nz/",
+  "email": "lorraine.ryan@tehikuhauora.nz",
+  "address": {
+    "line1": "49 Redan Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaitaia",
+    "postcode": "410"
+  },
+  "nzbn": "9429030696846",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/tehikuhauora/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T20:18:59Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 44223,
+  "registrationNumber": "CC34425",
+  "name": "Just Housing Otepoti Dunedin",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Andrew.Borthwick@psotago.org.nz",
+  "address": {
+    "line1": "407 Moray Place",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042648215",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T01:24:04Z"
+}

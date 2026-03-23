@@ -1,0 +1,27 @@
+{
+  "id": 55307,
+  "registrationNumber": "CC22090",
+  "name": "New Zealand Pacific Studio Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.artistresidency.org.nz",
+  "email": "info@artistresidency.org.nz",
+  "address": {
+    "line1": "24 Owhiro Bay Parade",
+    "line2": null,
+    "suburb": "Owhiro Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429043060214",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/NZPacificStudio",
+    "twitter": null
+  },
+  "lastUpdated": "2024-07-08T19:38:29Z"
+}

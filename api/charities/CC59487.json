@@ -1,0 +1,27 @@
+{
+  "id": 73096,
+  "registrationNumber": "CC59487",
+  "name": "Marton Food Pantry",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "martonfoodpantry@gmail.com",
+  "address": {
+    "line1": "51 Harris Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Marton",
+    "postcode": "4710"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/martonfoodpantry",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-08T03:42:55Z"
+}

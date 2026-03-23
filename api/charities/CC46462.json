@@ -1,0 +1,27 @@
+{
+  "id": 38212,
+  "registrationNumber": "CC46462",
+  "name": "North Hokianga Development Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kaiwhakahaere@mea.nz",
+  "address": {
+    "line1": "3442 West Coast Road",
+    "line2": "RD 2",
+    "suburb": "Mitimiti",
+    "city": "Kohukohu",
+    "postcode": "0492"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T03:35:06Z"
+}

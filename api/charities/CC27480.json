@@ -1,0 +1,27 @@
+{
+  "id": 59739,
+  "registrationNumber": "CC27480",
+  "name": "The Clayton Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hthode@duthiewhyte.co.nz",
+  "address": {
+    "line1": "1D Rangitira Avenue",
+    "line2": "2 Kitchener Street",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429042853619",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-27T19:20:47Z"
+}

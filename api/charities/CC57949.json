@@ -1,0 +1,27 @@
+{
+  "id": 71572,
+  "registrationNumber": "CC57949",
+  "name": "Community Communications Technology Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-03-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.com2.tech",
+  "email": "amy@com2.tech",
+  "address": {
+    "line1": "105 Harrow Street",
+    "line2": " ",
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429047714229",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@Com2Tech",
+    "twitter": "@com2_tech"
+  },
+  "lastUpdated": "2025-10-12T23:34:55Z"
+}

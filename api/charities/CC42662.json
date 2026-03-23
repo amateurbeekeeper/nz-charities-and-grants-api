@@ -1,0 +1,27 @@
+{
+  "id": 42732,
+  "registrationNumber": "CC42662",
+  "name": "The Saint George Romanian Orthodox Parish Board",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://stgeorgehamilton.nz",
+  "email": "omotofelea@yahoo.com",
+  "address": {
+    "line1": "591 Matangi Road",
+    "line2": "RD 4",
+    "suburb": "Matangi",
+    "city": "Hamilton",
+    "postcode": "3284"
+  },
+  "nzbn": "9429043096633",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-02T05:26:07Z"
+}

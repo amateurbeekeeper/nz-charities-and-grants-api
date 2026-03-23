@@ -1,0 +1,27 @@
+{
+  "id": 47578,
+  "registrationNumber": "CC40726",
+  "name": "Taranaki Garden Trust Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taranakigardens.co.nz",
+  "email": "taranakigardentrust@gmail.com",
+  "address": {
+    "line1": "46 Maire Street",
+    "line2": "Inglewood 4330",
+    "suburb": "Kaitake",
+    "city": "Inglewood",
+    "postcode": "4330"
+  },
+  "nzbn": "9429043056958",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TaranakiFringeGardenFestival/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T22:15:10Z"
+}

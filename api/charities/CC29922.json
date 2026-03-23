@@ -1,0 +1,27 @@
+{
+  "id": 48450,
+  "registrationNumber": "CC29922",
+  "name": "New Plymouth Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.npcommunitychurch.org",
+  "email": "office@npcommunitychurch.org",
+  "address": {
+    "line1": "50 Vivian Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "NewPlymouthCommunityChurch/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T22:43:13Z"
+}

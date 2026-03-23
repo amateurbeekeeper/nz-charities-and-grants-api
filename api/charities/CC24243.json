@@ -1,0 +1,27 @@
+{
+  "id": 40594,
+  "registrationNumber": "CC24243",
+  "name": "Princess Alexandra Medical Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pamt.co.nz/",
+  "email": "shaun@oldershaw.co.nz",
+  "address": {
+    "line1": "36 Bridge Street",
+    "line2": " ",
+    "suburb": "Ahuriri",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042750666",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T19:09:00Z"
+}

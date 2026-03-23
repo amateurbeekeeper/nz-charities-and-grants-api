@@ -1,0 +1,27 @@
+{
+  "id": 67107,
+  "registrationNumber": "CC53387",
+  "name": "Tautoko Tāne Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.malesurvivor.nz",
+  "email": "pchapman@ts.co.nz",
+  "address": {
+    "line1": "28 St Vincent Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043305773",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T18:49:35Z"
+}

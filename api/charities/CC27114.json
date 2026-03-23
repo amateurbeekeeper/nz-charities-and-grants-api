@@ -1,0 +1,27 @@
+{
+  "id": 42115,
+  "registrationNumber": "CC27114",
+  "name": "Aotearoa Drug Information Outreach Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.adio.org.nz",
+  "email": "lesley.mcturk@adio.org.nz",
+  "address": {
+    "line1": "10 East Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042586616",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:29:52Z"
+}

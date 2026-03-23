@@ -1,0 +1,27 @@
+{
+  "id": 50656,
+  "registrationNumber": "CC44388",
+  "name": "Zoological Society of Auckland Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-06-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.zoologicalsociety.co.nz",
+  "email": "tiff.thacker@gmail.com",
+  "address": {
+    "line1": "20A Ellerslie Park Road",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042590125",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/zoologicalsociety/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T05:36:59Z"
+}

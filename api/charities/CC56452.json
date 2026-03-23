@@ -1,0 +1,27 @@
+{
+  "id": 70089,
+  "registrationNumber": "CC56452",
+  "name": "Lister Presbyterian Health Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-12-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "secretary@listerphtrust.org.nz",
+  "address": {
+    "line1": "1-7 The Strand",
+    "line2": " 3 Gibbons Rd",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T00:22:24Z"
+}

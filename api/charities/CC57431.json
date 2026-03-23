@@ -1,0 +1,27 @@
+{
+  "id": 71062,
+  "registrationNumber": "CC57431",
+  "name": "Foodbank Aotearoa New Zealand Charitable Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-12-10T00:00:00Z",
+  "dateDeregistered": "2021-12-15T00:00:00Z",
+  "website": "https://www.foodbankanz.org.nz",
+  "email": "john@foodbankanz.org.nz",
+  "address": {
+    "line1": "29 Kilmarnock Street",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429047622326",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-01-10T22:53:29Z"
+}

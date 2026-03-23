@@ -1,0 +1,27 @@
+{
+  "id": 40808,
+  "registrationNumber": "CC30506",
+  "name": "Russell Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-23T00:00:00Z",
+  "website": null,
+  "email": "keri.squires@playcentre.org.nz",
+  "address": {
+    "line1": "14 Church Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Russell",
+    "postcode": "0202"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Russell Playcentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T03:33:58Z"
+}

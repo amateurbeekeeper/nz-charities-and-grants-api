@@ -1,0 +1,27 @@
+{
+  "id": 65482,
+  "registrationNumber": "CC51711",
+  "name": "The Britten Institute",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-04-02T00:00:00Z",
+  "dateDeregistered": "2021-07-21T00:00:00Z",
+  "website": "www.britten.org.nz",
+  "email": "dorenda@britten.org.nz",
+  "address": {
+    "line1": "2 Makora Street",
+    "line2": " ",
+    "suburb": "Fendalton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2021-08-09T19:43:38Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33293,
+  "registrationNumber": "CC48862",
+  "name": "Connected Neighbourhoods Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-01-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.neighbourhoods.nz",
+  "email": "chair@neighbourhoods.nz",
+  "address": {
+    "line1": "214 Buckley Avenue",
+    "line2": " ",
+    "suburb": "Hobsonville",
+    "city": "Auckland",
+    "postcode": "0616"
+  },
+  "nzbn": "9429043317165",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/connectedneighbourhoods.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T02:43:07Z"
+}

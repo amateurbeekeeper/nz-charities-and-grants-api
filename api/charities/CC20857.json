@@ -1,0 +1,27 @@
+{
+  "id": 55769,
+  "registrationNumber": "CC20857",
+  "name": "Alexandra Community Advice Network Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ach.org.nz",
+  "email": "alexcan@ach.org.nz",
+  "address": {
+    "line1": "Alexandra Community House",
+    "line2": "14-20 Centennial Avenue",
+    "suburb": " ",
+    "city": "Alexandra",
+    "postcode": "9320"
+  },
+  "nzbn": "9429042575795",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Alexandra community advice network",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T18:23:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33323,
+  "registrationNumber": "CC48938",
+  "name": "Manawatu (CEC) Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "manawatucec@gmail.com",
+  "address": {
+    "line1": "PO Box 5519",
+    "line2": "Terrace End",
+    "suburb": "Roslyn",
+    "city": "Palmerston North",
+    "postcode": "4441"
+  },
+  "nzbn": "9429043241255",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-16T18:11:47Z"
+}

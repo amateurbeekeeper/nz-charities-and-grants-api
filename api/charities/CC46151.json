@@ -1,0 +1,27 @@
+{
+  "id": 38398,
+  "registrationNumber": "CC46151",
+  "name": "Aradhana Full Gospel Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sangeeta.krishna@yahoo.co.nz",
+  "address": {
+    "line1": "501A Massey Road",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:29:52Z"
+}

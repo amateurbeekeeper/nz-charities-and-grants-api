@@ -1,0 +1,27 @@
+{
+  "id": 44059,
+  "registrationNumber": "CC33203",
+  "name": "The New Zealand Society for Earthquake Engineering Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzsee.org.nz/",
+  "email": "exec@nzsee.org.nz",
+  "address": {
+    "line1": "40 Taranaki Street",
+    "line2": "Level 6",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042929079",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T00:36:49Z"
+}

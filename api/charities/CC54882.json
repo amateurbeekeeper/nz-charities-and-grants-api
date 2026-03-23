@@ -1,0 +1,27 @@
+{
+  "id": 68547,
+  "registrationNumber": "CC54882",
+  "name": "Issachar Ministry Training Academy",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2017-10-31T00:00:00Z",
+  "dateDeregistered": "2023-04-01T00:00:00Z",
+  "website": "https://www.issachar.nz",
+  "email": "peter@jesusfirst.org.nz",
+  "address": {
+    "line1": "159 Mahoenui Valley Road",
+    "line2": "RD 3",
+    "suburb": "Coatesville",
+    "city": "Albany",
+    "postcode": "0793"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-12-19T02:05:31Z"
+}

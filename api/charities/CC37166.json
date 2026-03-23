@@ -1,0 +1,27 @@
+{
+  "id": 59869,
+  "registrationNumber": "CC37166",
+  "name": "N.Z. Institute of Agricultural & Horticultural Science Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.agscience.org.nz",
+  "email": "secretariat@agscience.org.nz",
+  "address": {
+    "line1": "3 Karekare Road",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "772"
+  },
+  "nzbn": "9429042680154",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T22:13:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64400,
+  "registrationNumber": "CC40683",
+  "name": "Northland Youth Theatre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nyt.org.nz",
+  "email": "manager@nyt.org.nz",
+  "address": {
+    "line1": "10 Reyburn House Lane",
+    "line2": "Whangarei 0110",
+    "suburb": "Whangārei",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429042694441",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "//www.facebook.com/NorthlandYouthTheatre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T05:17:12Z"
+}

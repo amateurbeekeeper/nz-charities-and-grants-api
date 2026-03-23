@@ -1,0 +1,27 @@
+{
+  "id": 66449,
+  "registrationNumber": "CC52716",
+  "name": "The Methodist Church of New Zealand Te Haahi Weteriana O Aotearoa Lotofale'ia Mangere Tongan Methodist Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.methodist.org.nz",
+  "email": "charities@methodist.org.nz",
+  "address": {
+    "line1": "34 Orly Avenue",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/718069515517678",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T18:18:28Z"
+}

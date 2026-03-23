@@ -1,0 +1,27 @@
+{
+  "id": 64027,
+  "registrationNumber": "CC43134",
+  "name": "Bougainville Library Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-12-09T00:00:00Z",
+  "dateDeregistered": "2017-12-08T00:00:00Z",
+  "website": "https://www.bougainvillelibrary.org",
+  "email": "pats@kendons.co.nz",
+  "address": {
+    "line1": "69 Rutherford Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429043283460",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-09-18T20:19:22Z"
+}

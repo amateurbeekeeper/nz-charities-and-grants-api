@@ -1,0 +1,27 @@
+{
+  "id": 45225,
+  "registrationNumber": "CC28223",
+  "name": "Bluff Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "blufffirebrigade@xtra.co.nz",
+  "address": {
+    "line1": "171 Barrow Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Bluff",
+    "postcode": "9814"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:38:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51855,
+  "registrationNumber": "CC11319",
+  "name": "Auckland Parents of Deaf Children Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.apodc.org.nz",
+  "email": "coordinator@apodc.org.nz",
+  "address": {
+    "line1": "c/o Auckland Deaf Society",
+    "line2": "16 Hillsborough Road",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429042586289",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aucklandparentsofdeafchildren/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-30T19:31:32Z"
+}

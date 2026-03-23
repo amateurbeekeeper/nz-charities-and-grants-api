@@ -1,0 +1,27 @@
+{
+  "id": 50070,
+  "registrationNumber": "CC44076",
+  "name": "C-Me Mentoring Foundation Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-04-26T00:00:00Z",
+  "dateDeregistered": "2018-05-16T00:00:00Z",
+  "website": "http://www.c-me.org.nz",
+  "email": "john.kotoisuva@c-me.org.nz",
+  "address": {
+    "line1": "733 Great South Road",
+    "line2": null,
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429043091447",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-05-15T22:42:27Z"
+}

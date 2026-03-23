@@ -1,0 +1,27 @@
+{
+  "id": 74592,
+  "registrationNumber": "CC61019",
+  "name": "The Cancer Lion",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-02-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thecancerlion.org",
+  "email": "info@thecancerlion.org",
+  "address": {
+    "line1": "67 Jacks Point Rise",
+    "line2": "Jacks Point 9371",
+    "suburb": " ",
+    "city": "Jacks Point",
+    "postcode": "9371"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T08:28:58Z"
+}

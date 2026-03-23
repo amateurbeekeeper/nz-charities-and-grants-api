@@ -1,0 +1,27 @@
+{
+  "id": 76981,
+  "registrationNumber": "CC63005",
+  "name": "FND Aware NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fndaware.nz",
+  "email": "fndaware@gmail.com",
+  "address": {
+    "line1": "606A Alexandra Street",
+    "line2": " ",
+    "suburb": "Parkvale",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429052956058",
+  "financialYearEnd": "7/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "FND Aware NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-08T21:42:29Z"
+}

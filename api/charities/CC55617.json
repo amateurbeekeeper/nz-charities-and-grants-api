@@ -1,0 +1,27 @@
+{
+  "id": 69268,
+  "registrationNumber": "CC55617",
+  "name": "Toitu Poneke Community and Sports Centre Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-02-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.toituponeke.com",
+  "email": "jen@toituponeke.com",
+  "address": {
+    "line1": "49 Kilbirnie Crescent",
+    "line2": " ",
+    "suburb": "Kilbirnie",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429046137180",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/toituhub/",
+    "twitter": "@ToituPoneke"
+  },
+  "lastUpdated": "2026-02-23T03:03:30Z"
+}

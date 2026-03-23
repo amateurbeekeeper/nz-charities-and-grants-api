@@ -1,0 +1,27 @@
+{
+  "id": 51059,
+  "registrationNumber": "CC21855",
+  "name": "Manukau Orchestral Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.manukausymphony.org.nz",
+  "email": "admin@manukausymphony.org.nz",
+  "address": {
+    "line1": "770 Great South Road",
+    "line2": "13 Reeves Road",
+    "suburb": "Wiri",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042759997",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/manukausymphonyorchestra",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T22:50:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48589,
+  "registrationNumber": "CC42703",
+  "name": "Westport Returned Services Association Incorporated ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "accounts@rsawestport.co.nz",
+  "address": {
+    "line1": "139 Palmerston Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Westport",
+    "postcode": "7825"
+  },
+  "nzbn": "9429042833987",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WestportRSA/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T01:31:16Z"
+}

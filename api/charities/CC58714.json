@@ -1,0 +1,27 @@
+{
+  "id": 72327,
+  "registrationNumber": "CC58714",
+  "name": "The Geoconservation Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-01-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://geoconservation.org",
+  "email": "igravis@geoconservation.org",
+  "address": {
+    "line1": "52 Hukutaia Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Opotiki",
+    "postcode": "3122"
+  },
+  "nzbn": "9429048840361",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-09T19:20:29Z"
+}

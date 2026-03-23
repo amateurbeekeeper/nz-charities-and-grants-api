@@ -1,0 +1,27 @@
+{
+  "id": 76578,
+  "registrationNumber": "CC62794",
+  "name": "Gurkha Football Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-10-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "gurkhafc.co.nz",
+  "email": "info@gurkhafc.co.nz",
+  "address": {
+    "line1": "18 Jasper Avenue",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429046871107",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/gurkhafcnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T01:41:10Z"
+}

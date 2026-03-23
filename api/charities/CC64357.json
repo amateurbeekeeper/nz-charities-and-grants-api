@@ -1,0 +1,27 @@
+{
+  "id": 78542,
+  "registrationNumber": "CC64357",
+  "name": "Wingbeat Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-08-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wingbeat.nz",
+  "email": "bonniejschache@gmail.com",
+  "address": {
+    "line1": "260 Wicksteed Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T00:51:01Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67424,
+  "registrationNumber": "CC53715",
+  "name": "Stop the Bus Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.stopthebus.co.nz",
+  "email": "campbell.stewart@tompkinswake.co.nz",
+  "address": {
+    "line1": "430 Victoria Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429046106858",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/StopTheBusNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T20:02:47Z"
+}

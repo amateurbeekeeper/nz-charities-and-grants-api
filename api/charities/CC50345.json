@@ -1,0 +1,27 @@
+{
+  "id": 34009,
+  "registrationNumber": "CC50345",
+  "name": "Wharepuni Marae Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2020-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wharepunimarae.com/",
+  "email": "terencehikaka@gmail.com",
+  "address": {
+    "line1": "208 Fraser Road",
+    "line2": "RD 13",
+    "suburb": " ",
+    "city": "Hawera",
+    "postcode": "4673"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/452428651550945",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T22:28:38Z"
+}

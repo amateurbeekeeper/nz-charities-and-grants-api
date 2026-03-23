@@ -1,0 +1,27 @@
+{
+  "id": 66971,
+  "registrationNumber": "CC53250",
+  "name": "Methodist Church of New Zealand Te Haahi Weteriana O Aotearoa Papatoetoe Tongan Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-03-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.methodist.org.nz",
+  "email": "peterv@methodist.org.nz",
+  "address": {
+    "line1": "91 Carruth Road",
+    "line2": " ",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "5555555555555",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T21:01:18Z"
+}

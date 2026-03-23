@@ -1,0 +1,27 @@
+{
+  "id": 34660,
+  "registrationNumber": "CC51060",
+  "name": "Sadgrove Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john@johnwells.co.nz",
+  "address": {
+    "line1": "1 Tiro Kokoru Lane",
+    "line2": "RD 2",
+    "suburb": "Mahurangi East",
+    "city": "Warkworth",
+    "postcode": "0982"
+  },
+  "nzbn": "9429043257485",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T03:30:15Z"
+}

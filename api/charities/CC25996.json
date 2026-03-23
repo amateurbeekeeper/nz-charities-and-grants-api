@@ -1,0 +1,27 @@
+{
+  "id": 42874,
+  "registrationNumber": "CC25996",
+  "name": "Abbeyfield Christchurch Incorporated ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.abbeyfield.org.nz",
+  "email": "office@abbeyfield.org.nz",
+  "address": {
+    "line1": "6 Lesley Keast Place",
+    "line2": null,
+    "suburb": "Hornby",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429043160495",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T23:00:55Z"
+}

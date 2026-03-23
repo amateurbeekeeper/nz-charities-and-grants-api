@@ -1,0 +1,27 @@
+{
+  "id": 70662,
+  "registrationNumber": "CC57030",
+  "name": "C3 Eastern Suburbs",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "c3easternsuburbs.org.nz",
+  "email": "jeremy@c3easternsuburbs.org.nz",
+  "address": {
+    "line1": "98 Line Road",
+    "line2": " ",
+    "suburb": "Glen Innes",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/C3EasternSuburbsNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T02:08:31Z"
+}

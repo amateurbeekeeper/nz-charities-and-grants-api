@@ -1,0 +1,27 @@
+{
+  "id": 47010,
+  "registrationNumber": "CC42719",
+  "name": "Mount Maunganui Lifeguard Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mountlifeguards.co.nz",
+  "email": "info@mountlifeguards.co.nz",
+  "address": {
+    "line1": "21 Adams Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429042753001",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Mount Maunganui Lifeguard Service",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:32:22Z"
+}

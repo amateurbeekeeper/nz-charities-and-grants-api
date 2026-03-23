@@ -1,0 +1,27 @@
+{
+  "id": 73618,
+  "registrationNumber": "CC59999",
+  "name": "BIKE FOR BLOKES CHARITABLE TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.bikeforblokes.co.nz",
+  "email": "michael@michaelpoll.co.nz",
+  "address": {
+    "line1": "400 Lake Road",
+    "line2": " ",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429050299119",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T18:56:22Z"
+}

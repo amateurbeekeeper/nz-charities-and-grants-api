@@ -1,0 +1,27 @@
+{
+  "id": 40051,
+  "registrationNumber": "CC24369",
+  "name": "The Adastra Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.adastra.org.nz",
+  "email": "info@adastra.org.nz",
+  "address": {
+    "line1": "8 Peake Road",
+    "line2": "RD 3",
+    "suburb": "Cambridge",
+    "city": "Hamilton",
+    "postcode": "3283"
+  },
+  "nzbn": "9429043139705",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheAdastraFoundation/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T01:15:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 77679,
+  "registrationNumber": "CC63471",
+  "name": "Ruahine Animal Rescue Inc",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ruahineanimalrescue.co.nz",
+  "email": "ruahineanimalrescue@gmail.com",
+  "address": {
+    "line1": "15 Coughlan Road",
+    "line2": null,
+    "suburb": null,
+    "city": "Waipukurau",
+    "postcode": "4200"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ruahineanimalrescue",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T07:23:11Z"
+}

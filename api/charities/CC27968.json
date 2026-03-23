@@ -1,0 +1,27 @@
+{
+  "id": 60219,
+  "registrationNumber": "CC27968",
+  "name": "Saint John's Lutheran Church Wanganui",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lutheran.org.nz/church/whanganui/",
+  "email": "wharerama7@gmail.com",
+  "address": {
+    "line1": "98 Harrison Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wanganui",
+    "postcode": "4500"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Harrison Street Community Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T19:43:22Z"
+}

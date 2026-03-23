@@ -1,0 +1,27 @@
+{
+  "id": 38042,
+  "registrationNumber": "CC48213",
+  "name": "Graeme Dingle Foundation Marlborough",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dinglefoundation.org.nz",
+  "email": "marlborough@dinglefoundation.org.nz",
+  "address": {
+    "line1": "19 George Street",
+    "line2": "Blenheim 7201",
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429043227617",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "/graemedinglefoundationmarlborough",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-03T23:01:21Z"
+}

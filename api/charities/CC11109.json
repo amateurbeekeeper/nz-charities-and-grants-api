@@ -1,0 +1,27 @@
+{
+  "id": 52186,
+  "registrationNumber": "CC11109",
+  "name": "Theatre Royal Charitable Foundation",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.isaactheatreroyal.co.nz",
+  "email": "drew@itr.co.nz",
+  "address": {
+    "line1": "145 Gloucester Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429040349992",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-15T22:48:01Z"
+}

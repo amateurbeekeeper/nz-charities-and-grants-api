@@ -1,0 +1,27 @@
+{
+  "id": 65346,
+  "registrationNumber": "CC51579",
+  "name": "Discover Church (New Zealand)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.discoverchurch.me",
+  "email": "cherryjustin@gmail.com",
+  "address": {
+    "line1": "2B Kemp Road",
+    "line2": " ",
+    "suburb": "Massey",
+    "city": "Auckland",
+    "postcode": "0614"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DiscoverChurchNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T19:25:13Z"
+}

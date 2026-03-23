@@ -1,0 +1,27 @@
+{
+  "id": 42450,
+  "registrationNumber": "CC26039",
+  "name": "The Methodist Church of New Zealand Te Haahi Weteriana O Aotearoa Wesley Roskill Parish (2030)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.methodist.org.nz",
+  "email": "sunil.masih@placemakers.co.nz",
+  "address": {
+    "line1": "276 Mount Albert Road",
+    "line2": " ",
+    "suburb": "Wesley",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T18:19:12Z"
+}

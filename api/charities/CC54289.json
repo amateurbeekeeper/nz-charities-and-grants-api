@@ -1,0 +1,27 @@
+{
+  "id": 67969,
+  "registrationNumber": "CC54289",
+  "name": "Performing Arts Community Trust (PACT)",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-03-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pactnz@gmail.com",
+  "address": {
+    "line1": "21 Portree Place",
+    "line2": " ",
+    "suburb": "Queenwood",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429045889264",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pactnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T23:33:25Z"
+}

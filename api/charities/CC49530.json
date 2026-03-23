@@ -1,0 +1,27 @@
+{
+  "id": 33418,
+  "registrationNumber": "CC49530",
+  "name": "Parkside Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2013-02-27T00:00:00Z",
+  "dateDeregistered": "2025-08-20T00:00:00Z",
+  "website": null,
+  "email": "parkside@playcentre.org.nz",
+  "address": {
+    "line1": "35 Harper Street",
+    "line2": null,
+    "suburb": "Parkside",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429042728269",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://m.facebook.com/profile.php?id=100093185856712",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T07:13:27Z"
+}

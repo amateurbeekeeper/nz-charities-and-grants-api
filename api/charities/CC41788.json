@@ -1,0 +1,27 @@
+{
+  "id": 46058,
+  "registrationNumber": "CC41788",
+  "name": "New Zealand Dermatological Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-08-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzdsi.org",
+  "email": "kwon079@gmail.com",
+  "address": {
+    "line1": "PO Box 1048",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2340"
+  },
+  "nzbn": "9429043114221",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:38:33Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33102,
+  "registrationNumber": "CC48476",
+  "name": "Auckland Evangelical Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ev.church",
+  "email": "accounts@ev.church",
+  "address": {
+    "line1": "80 Olsen Avenue",
+    "line2": "2 Gordon Road",
+    "suburb": "Hillsborough",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429043232680",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:32:58Z"
+}

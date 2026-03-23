@@ -1,0 +1,27 @@
+{
+  "id": 77232,
+  "registrationNumber": "CC63139",
+  "name": "Ngāti Hine Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "matt.bell@nhht.co.nz",
+  "address": {
+    "line1": "2-4 Rayner Street",
+    "line2": " ",
+    "suburb": "Kawakawa",
+    "city": "Bay of Islands",
+    "postcode": "0210"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-25T18:47:43Z"
+}

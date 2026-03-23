@@ -1,0 +1,27 @@
+{
+  "id": 63106,
+  "registrationNumber": "CC40056",
+  "name": "Te Matatini Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tematatini.co.nz",
+  "email": "cee@cmbs.co.nz",
+  "address": {
+    "line1": "level 4,",
+    "line2": "139 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043028306",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T20:42:31Z"
+}

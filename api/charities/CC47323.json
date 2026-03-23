@@ -1,0 +1,27 @@
+{
+  "id": 36296,
+  "registrationNumber": "CC47323",
+  "name": "New Zealand Paramedic Education and Research Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-09-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzparamedic.org",
+  "email": "tony@nzparamedic.org",
+  "address": {
+    "line1": "764 Woodstock Road",
+    "line2": "RD 1",
+    "suburb": "View Hill",
+    "city": "Oxford",
+    "postcode": "7495"
+  },
+  "nzbn": "9429043238408",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@nzparamedic",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T04:50:20Z"
+}

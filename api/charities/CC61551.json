@@ -1,0 +1,27 @@
+{
+  "id": 75120,
+  "registrationNumber": "CC61551",
+  "name": "Kānuka Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hakanuka.co.nz/",
+  "email": "tetari@kahuilegal.co.nz",
+  "address": {
+    "line1": "Kāhui Legal",
+    "line2": "Level 11, 15 Murphy Street",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429051156749",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-16T23:53:32Z"
+}

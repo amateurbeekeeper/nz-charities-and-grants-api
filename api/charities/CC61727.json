@@ -1,0 +1,27 @@
+{
+  "id": 75291,
+  "registrationNumber": "CC61727",
+  "name": "SRN Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.srn.nz",
+  "email": "nick@radioactive.fm",
+  "address": {
+    "line1": "310 Centaurus Road",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": "9429051493080",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/srnnz/",
+    "twitter": "@srnnz"
+  },
+  "lastUpdated": "2025-10-27T22:30:55Z"
+}

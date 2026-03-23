@@ -1,0 +1,27 @@
+{
+  "id": 43060,
+  "registrationNumber": "CC37320",
+  "name": "Taihape Community Development Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.taihape.co.nz",
+  "email": "info@taihape.co.nz",
+  "address": {
+    "line1": "102 Hautapu Street",
+    "line2": "Taihape 4720",
+    "suburb": " ",
+    "city": "Taihape",
+    "postcode": "4720"
+  },
+  "nzbn": "9429043053445",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T02:46:10Z"
+}

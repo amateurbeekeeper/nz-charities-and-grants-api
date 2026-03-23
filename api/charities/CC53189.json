@@ -1,0 +1,27 @@
+{
+  "id": 66904,
+  "registrationNumber": "CC53189",
+  "name": "Medecins Sans Frontieres New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.msf.org.nz/",
+  "email": "kathy.kissouri@sydney.msf.org",
+  "address": {
+    "line1": "118 Stone Wall Rise",
+    "line2": "Maungatapere ",
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "0179"
+  },
+  "nzbn": "9429043292042",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/msf.english/",
+    "twitter": "https://twitter.com/MSFAustralia"
+  },
+  "lastUpdated": "2026-03-11T05:45:59Z"
+}

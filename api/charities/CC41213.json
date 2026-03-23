@@ -1,0 +1,27 @@
+{
+  "id": 61240,
+  "registrationNumber": "CC41213",
+  "name": "Seventh Day Adventist Reform Movement of Australasia Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sdarm.org.au",
+  "email": "nzfield@sdarm.org.au",
+  "address": {
+    "line1": "64 Portage Road",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "600"
+  },
+  "nzbn": "9429042743668",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SDARM-New-Zealand-104189918560326",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T03:28:46Z"
+}

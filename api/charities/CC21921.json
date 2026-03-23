@@ -1,0 +1,27 @@
+{
+  "id": 38994,
+  "registrationNumber": "CC21921",
+  "name": "Choirs Aotearoa New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.choirs.nz",
+  "email": "ceo@choirsnz.co.nz",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "Level 4",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042749684",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzyouthchoir/",
+    "twitter": "https://twitter.com/ChoirsNZ"
+  },
+  "lastUpdated": "2025-10-25T04:46:24Z"
+}

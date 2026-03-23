@@ -1,0 +1,27 @@
+{
+  "id": 72818,
+  "registrationNumber": "CC59211",
+  "name": "St Peter's of the Rock Rangiora Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://stpetersoftherock.church",
+  "email": "treasurer@stpetersoftherock.church",
+  "address": {
+    "line1": "68 Percival Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "St Peters of the Rock",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T03:15:31Z"
+}

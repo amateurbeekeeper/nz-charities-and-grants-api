@@ -1,0 +1,27 @@
+{
+  "id": 73596,
+  "registrationNumber": "CC59986",
+  "name": "Marsh Scholarship Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sjctb.co.nz",
+  "email": "grant@tumanako.nz",
+  "address": {
+    "line1": "202-210 St Johns Road",
+    "line2": "123 Carlton Gore Road",
+    "suburb": "Saint Johns",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:09:51Z"
+}

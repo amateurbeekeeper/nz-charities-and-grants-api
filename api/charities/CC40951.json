@@ -1,0 +1,27 @@
+{
+  "id": 47252,
+  "registrationNumber": "CC40951",
+  "name": "Edgecumbe Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-06-18T00:00:00Z",
+  "dateDeregistered": "2025-08-31T00:00:00Z",
+  "website": null,
+  "email": "edgecumbe@playcentre.org.nz",
+  "address": {
+    "line1": "179 College Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Edgecumbe",
+    "postcode": "3120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Edgecumbe-Playcentre-956786297665578/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T07:15:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67002,
+  "registrationNumber": "CC53281",
+  "name": "Real Talk New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-12-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.realtalknz.com",
+  "email": "wwright@rainey.co.nz",
+  "address": {
+    "line1": "8 Kaputar Close",
+    "line2": null,
+    "suburb": " ",
+    "city": "Riverhills QLD Australia",
+    "postcode": "4074"
+  },
+  "nzbn": "9429043305629",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/realtalknewzealand",
+    "twitter": "@realtalknz"
+  },
+  "lastUpdated": "2025-10-21T18:07:36Z"
+}

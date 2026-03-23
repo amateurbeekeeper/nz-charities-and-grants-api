@@ -1,0 +1,27 @@
+{
+  "id": 68213,
+  "registrationNumber": "CC54491",
+  "name": "The Wildlife Hospital Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "wildlifehospitaldunedin.org.nz",
+  "email": "info@wildlifehospitaldunedin.org.nz",
+  "address": {
+    "line1": "139 Moray Place",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429046157720",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/dunedinwildlifehospital",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T04:31:31Z"
+}

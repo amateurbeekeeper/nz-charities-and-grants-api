@@ -1,0 +1,27 @@
+{
+  "id": 32783,
+  "registrationNumber": "CC48449",
+  "name": "The Breast Room In The House",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "denise.ives@thebreastroom.org",
+  "address": {
+    "line1": "137 Victoria Road",
+    "line2": "Cargills corner",
+    "suburb": "Saint Clair",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429051663605",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/TheBreastRoom",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T03:20:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51517,
+  "registrationNumber": "CC22876",
+  "name": "New Zealand Green Bike Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-04-11T00:00:00Z",
+  "dateDeregistered": "2010-05-27T00:00:00Z",
+  "website": "http://www.nzgreenbikes.co.nz",
+  "email": "jpoppleton@xtra.co.nz",
+  "address": {
+    "line1": "22 Forglen",
+    "line2": null,
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": "9429043019847",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:09:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69416,
+  "registrationNumber": "CC55772",
+  "name": "Momentum Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-04-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.momentum.org.nz",
+  "email": "nick@momentum.org.nz",
+  "address": {
+    "line1": "30 Meiklejohn Way",
+    "line2": "RD 6",
+    "suburb": "Omaha",
+    "city": "Warkworth",
+    "postcode": "0986"
+  },
+  "nzbn": "9429046741561",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/momentumcharitabletrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-10T21:46:22Z"
+}

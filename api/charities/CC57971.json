@@ -1,0 +1,27 @@
+{
+  "id": 71593,
+  "registrationNumber": "CC57971",
+  "name": "Purangi Conservation Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.purangiconservationtrust.org/",
+  "email": "hello@purangiconservationtrust.org",
+  "address": {
+    "line1": "705 Purangi Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cooks Beach",
+    "postcode": "3591"
+  },
+  "nzbn": "9429046857309",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PurangiConservationTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T19:58:45Z"
+}

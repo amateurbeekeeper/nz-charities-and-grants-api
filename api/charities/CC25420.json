@@ -1,0 +1,27 @@
+{
+  "id": 42177,
+  "registrationNumber": "CC25420",
+  "name": "Te Whanau O Hokonui Marae Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "heatherhetaraka@gmail.com",
+  "address": {
+    "line1": "9-11 Hyde Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Gore",
+    "postcode": "9710"
+  },
+  "nzbn": "9429042848707",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:02:07Z"
+}

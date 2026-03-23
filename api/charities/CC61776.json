@@ -1,0 +1,27 @@
+{
+  "id": 75344,
+  "registrationNumber": "CC61776",
+  "name": "EcoSci Creative Events Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-11-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ecoscievents.org/",
+  "email": "bobbi@ecoscievents.org.nz",
+  "address": {
+    "line1": "3A Twentythird Avenue",
+    "line2": " ",
+    "suburb": "Gate Pa",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429051703950",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ecoscievents",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T01:06:53Z"
+}

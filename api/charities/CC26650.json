@@ -1,0 +1,27 @@
+{
+  "id": 57903,
+  "registrationNumber": "CC26650",
+  "name": "Te Runanga o Te Hiika a Papauma Ki Wairarapa",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://papauma.co.nz",
+  "email": "morungac@gmail.com",
+  "address": {
+    "line1": "19 French Street",
+    "line2": " ",
+    "suburb": "Lansdowne",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429043175253",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "te hiika papauma ki wairarapa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-22T17:18:55Z"
+}

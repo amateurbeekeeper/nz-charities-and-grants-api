@@ -1,0 +1,27 @@
+{
+  "id": 77942,
+  "registrationNumber": "CC63744",
+  "name": "Code 4 Change NZ Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-09-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://code4changnz.org",
+  "email": "code4changenz@gmail.com",
+  "address": {
+    "line1": "51 Etherton Drive",
+    "line2": " ",
+    "suburb": "Weymouth",
+    "city": "Auckland",
+    "postcode": "2103"
+  },
+  "nzbn": "9429052436796",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "code4changenz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-09T22:14:58Z"
+}

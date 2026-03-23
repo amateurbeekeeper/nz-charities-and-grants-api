@@ -1,0 +1,27 @@
+{
+  "id": 34533,
+  "registrationNumber": "CC51148",
+  "name": "TGH Residential Development Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-07-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tgh.co.nz",
+  "email": "Statrec@tgh.co.nz",
+  "address": {
+    "line1": "6 Bryce Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429041302101",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-12T02:53:39Z"
+}

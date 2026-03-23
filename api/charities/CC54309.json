@@ -1,0 +1,27 @@
+{
+  "id": 67989,
+  "registrationNumber": "CC54309",
+  "name": "Happy Newborn NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.facebook.com/happynewbornnz",
+  "email": "bkmunro@gmail.com",
+  "address": {
+    "line1": "7 Dysart Road",
+    "line2": " ",
+    "suburb": "Otumoetai",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/happynewbornnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T22:24:24Z"
+}

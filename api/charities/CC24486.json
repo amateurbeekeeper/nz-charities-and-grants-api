@@ -1,0 +1,27 @@
+{
+  "id": 39944,
+  "registrationNumber": "CC24486",
+  "name": "Milford Baptist Kindergarten Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kindy.co.nz",
+  "email": "milbapkindy@xtra.co.nz",
+  "address": {
+    "line1": "3 Dodson Avenue",
+    "line2": " ",
+    "suburb": "Milford",
+    "city": "Auckland",
+    "postcode": "0620"
+  },
+  "nzbn": "9429042950295",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Milford Baptist Kindergarten",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:37:20Z"
+}

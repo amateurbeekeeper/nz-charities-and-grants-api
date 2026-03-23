@@ -1,0 +1,27 @@
+{
+  "id": 39672,
+  "registrationNumber": "CC24056",
+  "name": "Bainfield  Gardens Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.christiancentre.org.nz",
+  "email": "paul@christiancentre.org.nz",
+  "address": {
+    "line1": "165 Leet Street",
+    "line2": "Invercargill 9810",
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429035964919",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T23:50:35Z"
+}

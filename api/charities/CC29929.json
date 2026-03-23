@@ -1,0 +1,27 @@
+{
+  "id": 60084,
+  "registrationNumber": "CC29929",
+  "name": "Rangmanch of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rangmanch.org.nz",
+  "email": "rangmanchnz@gmail.com",
+  "address": {
+    "line1": "3 Arion Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Takanini",
+    "postcode": "2112"
+  },
+  "nzbn": "9429043088355",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RangmanchNZ/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T02:52:27Z"
+}

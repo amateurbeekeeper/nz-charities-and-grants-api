@@ -1,0 +1,27 @@
+{
+  "id": 54030,
+  "registrationNumber": "CC22822",
+  "name": "Yellow-eyed Penguin Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.yellow-eyedpenguin.org.nz",
+  "email": "anna@yeptrust.org.nz",
+  "address": {
+    "line1": "LEVEL 1 John Wickliffe House",
+    "line2": "265 Princes Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042903550",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/yeptrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-27T19:39:47Z"
+}

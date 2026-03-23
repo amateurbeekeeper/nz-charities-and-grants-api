@@ -1,0 +1,27 @@
+{
+  "id": 77645,
+  "registrationNumber": "CC63444",
+  "name": "The Gallen Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lisa.small@duncancotterill.com",
+  "address": {
+    "line1": "Duncan Cotterill (Auckland), Level 1, Australis Nathan Building",
+    "line2": "37 Galway Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T04:05:42Z"
+}

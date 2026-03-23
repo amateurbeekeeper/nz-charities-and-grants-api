@@ -1,0 +1,27 @@
+{
+  "id": 36422,
+  "registrationNumber": "CC46230",
+  "name": "Alliance Francaise de Dunedin Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-02-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.afdunedin.org.nz",
+  "email": "kim.cousins@otago.ac.nz",
+  "address": {
+    "line1": "15 Bond Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042999416",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@AFDunedin",
+    "twitter": "@afdunedin"
+  },
+  "lastUpdated": "2026-03-13T00:20:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70637,
+  "registrationNumber": "CC57006",
+  "name": "Live Ocean Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://liveocean.org",
+  "email": "stephen@liveocean.org",
+  "address": {
+    "line1": "15 Customs Street West",
+    "line2": " Level 37, PWC Tower",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429047654280",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@itsliveocean",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T02:23:02Z"
+}

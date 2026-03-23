@@ -1,0 +1,27 @@
+{
+  "id": 32926,
+  "registrationNumber": "CC48501",
+  "name": "Thinking Matters New Zealand Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-09-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thinkingmatters.org.nz",
+  "email": "rowan@thinkingmatters.org.nz",
+  "address": {
+    "line1": "42 Piata Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": "9429043302567",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/thinkingmatters",
+    "twitter": "https://twitter.com/ThinkingNZ"
+  },
+  "lastUpdated": "2025-05-21T19:45:17Z"
+}

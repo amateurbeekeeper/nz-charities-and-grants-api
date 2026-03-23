@@ -1,0 +1,27 @@
+{
+  "id": 75063,
+  "registrationNumber": "CC61495",
+  "name": "CHRISTCHURCH PRIDE TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.chchpride.co.nz",
+  "email": "contact@chchpride.co.nz",
+  "address": {
+    "line1": "C/O Corcoran French Lawyers",
+    "line2": "74 Armagh Street",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429051342753",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ChchPride",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T18:04:39Z"
+}

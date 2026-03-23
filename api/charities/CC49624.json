@@ -1,0 +1,27 @@
+{
+  "id": 33386,
+  "registrationNumber": "CC49624",
+  "name": "New Zealand Centre for Global Studies Charitable Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-07-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzcgs.org.nz",
+  "email": "director@nzcgs.org.nz",
+  "address": {
+    "line1": "Unit G04",
+    "line2": "2 Finch Street",
+    "suburb": "Morningside",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429043317011",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZCGS/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T02:29:23Z"
+}

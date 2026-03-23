@@ -1,0 +1,27 @@
+{
+  "id": 73346,
+  "registrationNumber": "CC60007",
+  "name": "POLIKO COMMUNITY WELLBEING TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pcwt.org.nz",
+  "email": "info@pcwt.org",
+  "address": {
+    "line1": "20 Crampton Road",
+    "line2": "Reefton 7830",
+    "suburb": " ",
+    "city": "Reefton",
+    "postcode": "7830"
+  },
+  "nzbn": "9429050314645",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T22:03:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53125,
+  "registrationNumber": "CC24690",
+  "name": "Royal Dunedin Male Choir Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://rdmc.nz",
+  "email": "treasurer.rdmc@gmail.com",
+  "address": {
+    "line1": "7 Thornly Park Avenue",
+    "line2": "Mosgiel 9024",
+    "suburb": " ",
+    "city": "Mosgiel",
+    "postcode": "9024"
+  },
+  "nzbn": "9429042800767",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The Royal Dunedin Male Choir",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T03:08:55Z"
+}

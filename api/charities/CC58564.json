@@ -1,0 +1,27 @@
+{
+  "id": 72180,
+  "registrationNumber": "CC58564",
+  "name": "EROVAAT Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-10-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.erovaat.org",
+  "email": "team@erovaat.org",
+  "address": {
+    "line1": "Unit 2",
+    "line2": "68 Andrews Road",
+    "suburb": " ",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429048642231",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://web.facebook.com/EROVAAT.Incorporated/?_rdc=1&_rdr",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T09:33:36Z"
+}

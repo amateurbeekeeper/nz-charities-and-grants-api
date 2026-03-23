@@ -1,0 +1,27 @@
+{
+  "id": 43283,
+  "registrationNumber": "CC29530",
+  "name": "Kawakawa Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "wayne.martin@fireandemergency.nz",
+  "address": {
+    "line1": "6 Station Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kawakawa",
+    "postcode": "210"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:38:47Z"
+}

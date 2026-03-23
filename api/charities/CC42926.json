@@ -1,0 +1,27 @@
+{
+  "id": 64733,
+  "registrationNumber": "CC42926",
+  "name": "St Margaret's College Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-11-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stmargarets.school.nz",
+  "email": "finance@stmargarets.school.nz",
+  "address": {
+    "line1": "28 Winchester Street",
+    "line2": " ",
+    "suburb": "Merivale",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429043200351",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T20:24:11Z"
+}

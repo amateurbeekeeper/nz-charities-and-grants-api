@@ -1,0 +1,27 @@
+{
+  "id": 52194,
+  "registrationNumber": "CC11056",
+  "name": "Christchurch Budget Service Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2007-09-10T00:00:00Z",
+  "dateDeregistered": "2022-12-30T00:00:00Z",
+  "website": "https://www.christchurchbudgetservice.co.nz",
+  "email": "manager@christchurchbudgetservice.org.nz",
+  "address": {
+    "line1": "55 Lunns Road",
+    "line2": "473 Brougham Street",
+    "suburb": "Middleton",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429042611868",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-12-30T06:03:05Z"
+}

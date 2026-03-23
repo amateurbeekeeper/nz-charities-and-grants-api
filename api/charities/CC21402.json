@@ -1,0 +1,27 @@
+{
+  "id": 53983,
+  "registrationNumber": "CC21402",
+  "name": "Agape Budgeting Service Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "agapebudgeting.org.nz",
+  "email": "treasurer@agapebudgeting.org.nz",
+  "address": {
+    "line1": "21 Matai Street",
+    "line2": null,
+    "suburb": "Woburn",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429038153860",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/agapebudgetingservice/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-04T19:08:40Z"
+}

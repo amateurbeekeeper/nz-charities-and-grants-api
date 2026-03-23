@@ -1,0 +1,27 @@
+{
+  "id": 73590,
+  "registrationNumber": "CC60053",
+  "name": "Godly Pearls",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.godlypearls.com",
+  "email": "contact@godlypearls.com",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "23 Tane Street",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429050241347",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/godlypearlz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T21:21:10Z"
+}

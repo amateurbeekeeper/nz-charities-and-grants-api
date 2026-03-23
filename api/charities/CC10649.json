@@ -1,0 +1,27 @@
+{
+  "id": 51232,
+  "registrationNumber": "CC10649",
+  "name": "Pacific Gospel Mission",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pgmchurch.webs.com",
+  "email": "hoffsoutwest@outlook.com",
+  "address": {
+    "line1": "31 Anglesea Street",
+    "line2": " ",
+    "suburb": "Freemans Bay",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/PGM-Church-326206974167300/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-27T11:50:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72520,
+  "registrationNumber": "CC58904",
+  "name": "Catalyst Church Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2021-04-14T00:00:00Z",
+  "dateDeregistered": "2024-03-12T00:00:00Z",
+  "website": "https://www.catalystchurch.co.nz",
+  "email": "catalystchurchnz@gmail.com",
+  "address": {
+    "line1": "43B Isobel Road",
+    "line2": null,
+    "suburb": "Greenhithe",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "catalystchurchnz",
+    "twitter": null
+  },
+  "lastUpdated": "2024-06-07T02:44:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35354,
+  "registrationNumber": "CC49890",
+  "name": "Box Office Boxing Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-10-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.boxofficeboxing.org.nz",
+  "email": "boxofficeboxing@gmail.com",
+  "address": {
+    "line1": "106 Leach Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429043177257",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Box Office Boxing New Plymouth",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T03:41:41Z"
+}

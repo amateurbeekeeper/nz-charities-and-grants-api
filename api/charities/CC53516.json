@@ -1,0 +1,27 @@
+{
+  "id": 67229,
+  "registrationNumber": "CC53516",
+  "name": "The Outpawed Rescue Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.outpawed.org.nz",
+  "email": "victoria.skinner@outpawed.org.nz",
+  "address": {
+    "line1": "9 Petersens Road",
+    "line2": "RD 1",
+    "suburb": "Aokautere",
+    "city": "Palmerston North",
+    "postcode": "4471"
+  },
+  "nzbn": "9429043296149",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/outpawed",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:58:15Z"
+}

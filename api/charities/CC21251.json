@@ -1,0 +1,27 @@
+{
+  "id": 54418,
+  "registrationNumber": "CC21251",
+  "name": "New Dawn Partnership Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://newdawnpartnership.org.nz/",
+  "email": "info@newdawnpartnership.org",
+  "address": {
+    "line1": "18 Pierce Road",
+    "line2": " ",
+    "suburb": "Milford",
+    "city": "Auckland",
+    "postcode": "620"
+  },
+  "nzbn": "9429042681328",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/newdawnpartnership",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T21:42:19Z"
+}

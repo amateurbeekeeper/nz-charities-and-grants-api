@@ -1,0 +1,27 @@
+{
+  "id": 48127,
+  "registrationNumber": "CC43109",
+  "name": "Crossroads Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-12-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.crossroadschurch.nz",
+  "email": "rachel@crossroadschurch.nz",
+  "address": {
+    "line1": "55 Pukete Road",
+    "line2": " ",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": null
+  },
+  "nzbn": "9429043285815",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CrossroadsChurchNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T22:35:45Z"
+}

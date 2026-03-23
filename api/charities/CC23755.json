@@ -1,0 +1,27 @@
+{
+  "id": 40825,
+  "registrationNumber": "CC23755",
+  "name": "Auckland  All Nations Church",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": "2010-05-27T00:00:00Z",
+  "website": "http://www.redoor.org",
+  "email": "aanc@xtra.co.nz",
+  "address": {
+    "line1": "1 Flanshaw Rd",
+    "line2": "Ta Atatu South ",
+    "suburb": null,
+    "city": "Auckland ",
+    "postcode": null
+  },
+  "nzbn": "9429043018765",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:15:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43151,
+  "registrationNumber": "CC31928",
+  "name": "Gore Parents Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gorekidshub.org.nz/parents-centre",
+  "email": "goreparentscentre@outlook.co.nz",
+  "address": {
+    "line1": "13 Wayland Street",
+    "line2": "Gore 9710",
+    "suburb": " ",
+    "city": "Gore",
+    "postcode": "9710"
+  },
+  "nzbn": "9429042632269",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/goreparentscentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-22T19:52:12Z"
+}

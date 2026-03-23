@@ -1,0 +1,27 @@
+{
+  "id": 41141,
+  "registrationNumber": "CC24275",
+  "name": "Horowhenua District Health Transportation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.horowhenuahealthshuttle.org",
+  "email": "secretary@horowhenuahealthshuttle.org",
+  "address": {
+    "line1": "62 Liverpool Street",
+    "line2": "Levin 5510",
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": "9429043217588",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Horowhenua community health shuttle",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-07T18:05:57Z"
+}

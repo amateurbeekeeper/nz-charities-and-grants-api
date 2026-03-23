@@ -1,0 +1,27 @@
+{
+  "id": 75882,
+  "registrationNumber": "CC62335",
+  "name": "VisAble",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.visable.co.nz",
+  "email": "marion.hms@gmail.com",
+  "address": {
+    "line1": "134 Redvers Drive",
+    "line2": " ",
+    "suburb": "Belmont",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429052112591",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-21T19:18:44Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63622,
+  "registrationNumber": "CC41565",
+  "name": "Environment and Conservation Organisations of NZ Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2023-12-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.eco.org.nz",
+  "email": "Baz.Weeber@gmail.com",
+  "address": {
+    "line1": "126 Vivian Street",
+    "line2": "Trades Hall 126 Vivian Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042719755",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/econz/",
+    "twitter": "https://twitter.com/ECONewZealand"
+  },
+  "lastUpdated": "2026-03-11T22:11:44Z"
+}

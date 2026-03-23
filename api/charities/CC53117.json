@@ -1,0 +1,27 @@
+{
+  "id": 66838,
+  "registrationNumber": "CC53117",
+  "name": "Birthright New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-02-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.birthright.org.nz",
+  "email": "finance@birthright.org.nz",
+  "address": {
+    "line1": "50A Ossian Street",
+    "line2": " ",
+    "suburb": "Ahuriri",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429043293216",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/birthrightnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-08T19:30:06Z"
+}

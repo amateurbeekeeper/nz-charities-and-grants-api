@@ -1,0 +1,27 @@
+{
+  "id": 54650,
+  "registrationNumber": "CC36285",
+  "name": "Eastlink Community Hub Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://eastlinkhub.org.nz/",
+  "email": "ralph.blackburn@eastlinkhub.org.nz",
+  "address": {
+    "line1": "60 Old Farm Road",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429043126866",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/eastlinksports",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T20:29:17Z"
+}

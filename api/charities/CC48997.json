@@ -1,0 +1,27 @@
+{
+  "id": 32965,
+  "registrationNumber": "CC48997",
+  "name": "The Common Unity Project",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-03-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.commonunityproject.org.nz",
+  "email": "admin@cupa.org.nz",
+  "address": {
+    "line1": "310 Waiwhetu Road",
+    "line2": " ",
+    "suburb": "Fairfield",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429043265008",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/commonunitynz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T03:37:35Z"
+}

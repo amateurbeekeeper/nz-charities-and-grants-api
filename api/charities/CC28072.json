@@ -1,0 +1,27 @@
+{
+  "id": 40008,
+  "registrationNumber": "CC28072",
+  "name": "Moana Communications",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.moanaradio.co.nz",
+  "email": "admin@moanaradio.co.nz",
+  "address": {
+    "line1": "104 Spring Street",
+    "line2": "Tauranga 3110",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043063833",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-18T22:42:56Z"
+}

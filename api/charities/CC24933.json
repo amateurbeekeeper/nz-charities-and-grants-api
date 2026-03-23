@@ -1,0 +1,27 @@
+{
+  "id": 42416,
+  "registrationNumber": "CC24933",
+  "name": "Te Wae Wae Christian Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mail@tarrantcotter.co.nz",
+  "address": {
+    "line1": "838 Mokonui Road",
+    "line2": "Putere 4182",
+    "suburb": "Raupunga",
+    "city": "Putere",
+    "postcode": "4182"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T18:44:04Z"
+}

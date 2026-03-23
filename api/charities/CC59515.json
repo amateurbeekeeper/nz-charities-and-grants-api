@@ -1,0 +1,27 @@
+{
+  "id": 73120,
+  "registrationNumber": "CC59515",
+  "name": "South Kaipara Good Food",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://skgf.org.nz",
+  "email": "gemma@skgf.org.nz",
+  "address": {
+    "line1": "82 Mill Road",
+    "line2": "Helensville 0800",
+    "suburb": " ",
+    "city": "Helensville",
+    "postcode": "0800"
+  },
+  "nzbn": "9429049977677",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "skgfnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-21T09:00:40Z"
+}

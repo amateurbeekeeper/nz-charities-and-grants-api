@@ -1,0 +1,27 @@
+{
+  "id": 35520,
+  "registrationNumber": "CC47132",
+  "name": "Waikanae Community Patrol Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-11-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "wcp.org.nz",
+  "email": "waikanaepatrol@outlook.com",
+  "address": {
+    "line1": "29 Barrett Drive",
+    "line2": " ",
+    "suburb": "Waikanae Beach",
+    "city": "Waikanae",
+    "postcode": "5036"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waikanae Community Patrol",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T01:57:05Z"
+}

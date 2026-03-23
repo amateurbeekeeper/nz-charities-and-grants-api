@@ -1,0 +1,27 @@
+{
+  "id": 77630,
+  "registrationNumber": "CC63428",
+  "name": "Speak Now Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-06-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.speaknow.org,nz",
+  "email": "hannahmckeichnz@gmail.com",
+  "address": {
+    "line1": "14A Cairo Street",
+    "line2": null,
+    "suburb": "Upper Hutt Central",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SpeakNowNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T22:00:14Z"
+}

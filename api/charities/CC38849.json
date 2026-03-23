@@ -1,0 +1,27 @@
+{
+  "id": 61370,
+  "registrationNumber": "CC38849",
+  "name": "Conference Of Samoan Adventist Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cosachurch@gmail.com",
+  "address": {
+    "line1": "75 Warspite Avenue",
+    "line2": " ",
+    "suburb": "Cannons Creek",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429042666455",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-12T20:11:18Z"
+}

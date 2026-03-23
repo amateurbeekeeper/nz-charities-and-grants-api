@@ -1,0 +1,27 @@
+{
+  "id": 59469,
+  "registrationNumber": "CC27299",
+  "name": "Lincoln Agritech Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-31T00:00:00Z",
+  "website": "https://www.lincolnagritech.co.nz",
+  "email": "jane.carr@lincolnagritech.co.nz",
+  "address": {
+    "line1": "Engineering Drive",
+    "line2": "Lincoln University",
+    "suburb": "Cnr Springs Road & Ellesmere Junction Rd",
+    "city": "Lincoln",
+    "postcode": "7647"
+  },
+  "nzbn": "9429038689697",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T06:03:27Z"
+}

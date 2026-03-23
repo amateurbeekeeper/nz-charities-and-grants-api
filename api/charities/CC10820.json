@@ -1,0 +1,27 @@
+{
+  "id": 51964,
+  "registrationNumber": "CC10820",
+  "name": "Church Of The Nazarene",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-08-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nazarene.org.nz",
+  "email": "nzdsec@gmail.com",
+  "address": {
+    "line1": "533 Great South Road",
+    "line2": " ",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429042616689",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/New-Zealand-Nazarene-District-1208074942589162/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T22:06:13Z"
+}

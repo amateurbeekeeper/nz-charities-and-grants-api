@@ -1,0 +1,27 @@
+{
+  "id": 66345,
+  "registrationNumber": "CC52609",
+  "name": "Tanatana Maori Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-11-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "taniarose@akeaccounting.co.nz",
+  "address": {
+    "line1": "231 Matahi Valley Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Waimana",
+    "postcode": "3196"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T23:42:50Z"
+}

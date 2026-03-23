@@ -1,0 +1,27 @@
+{
+  "id": 74250,
+  "registrationNumber": "CC60660",
+  "name": "The ICE Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kulina@theicebase.com",
+  "address": {
+    "line1": "29 Customs Street West",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-06T04:24:16Z"
+}

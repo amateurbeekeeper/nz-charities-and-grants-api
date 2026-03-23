@@ -1,0 +1,27 @@
+{
+  "id": 55194,
+  "registrationNumber": "CC23082",
+  "name": "Cognition Education Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cognitioneducation.com",
+  "email": "sryan@cognitionlearninggroup.com",
+  "address": {
+    "line1": "Level 8",
+    "line2": "139 Quay Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429037563967",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T18:50:48Z"
+}

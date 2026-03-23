@@ -1,0 +1,27 @@
+{
+  "id": 42992,
+  "registrationNumber": "CC42145",
+  "name": "On-Stage Te Kuiti Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mandkmac65@gmail.com",
+  "address": {
+    "line1": "Flat 10",
+    "line2": "19 Seddon Street",
+    "suburb": "Te Kūiti",
+    "city": "Te Kuiti",
+    "postcode": "3910"
+  },
+  "nzbn": "9429043180172",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/OnStageTeKuiti/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-06T19:15:00Z"
+}

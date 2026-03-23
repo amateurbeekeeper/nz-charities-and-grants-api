@@ -1,0 +1,27 @@
+{
+  "id": 38841,
+  "registrationNumber": "CC47687",
+  "name": "The South Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2011-10-10T00:00:00Z",
+  "dateDeregistered": "2016-11-29T00:00:00Z",
+  "website": "https://www.thesouthtrust.com",
+  "email": "kalkular@xtra.co.nz",
+  "address": {
+    "line1": "7 Montanez Drive",
+    "line2": " ",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2016"
+  },
+  "nzbn": "9429043212538",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "southtrust",
+    "twitter": null
+  },
+  "lastUpdated": "2024-08-22T02:46:04Z"
+}

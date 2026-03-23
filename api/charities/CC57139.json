@@ -1,0 +1,27 @@
+{
+  "id": 70773,
+  "registrationNumber": "CC57139",
+  "name": "MADE Foundation Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-11-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "wendy@made.co.nz",
+  "address": {
+    "line1": "13 Ata Road",
+    "line2": null,
+    "suburb": "Karaka",
+    "city": "Papakura",
+    "postcode": "2113"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T23:09:08Z"
+}

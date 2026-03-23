@@ -1,0 +1,27 @@
+{
+  "id": 38861,
+  "registrationNumber": "CC47424",
+  "name": "Whangarei Stroke Club",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-03-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rctulloch@slingshot.co.nz",
+  "address": {
+    "line1": "151 Harris Road",
+    "line2": "RD 5",
+    "suburb": "Glenbervie",
+    "city": "Whangarei",
+    "postcode": "0175"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T08:18:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53025,
+  "registrationNumber": "CC20213",
+  "name": "Christchurch Heart Institute Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "michaelw@mackaybailey.co.nz",
+  "address": {
+    "line1": "The Christchurch Heart Institute Trust",
+    "line2": "P O Box 4345",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429043072200",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:00:17Z"
+}

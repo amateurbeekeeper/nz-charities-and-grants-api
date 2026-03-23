@@ -1,0 +1,27 @@
+{
+  "id": 78344,
+  "registrationNumber": "CC64155",
+  "name": "Rei Foundation Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sarao@reifoundation.com",
+  "address": {
+    "line1": "Apartment 13",
+    "line2": "Shed 24",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429052900006",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T22:50:44Z"
+}

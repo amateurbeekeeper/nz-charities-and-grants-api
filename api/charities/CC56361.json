@@ -1,0 +1,27 @@
+{
+  "id": 70005,
+  "registrationNumber": "CC56361",
+  "name": "United Wesleyan Church of New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-03-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "maatalavulo@gmail.com",
+  "address": {
+    "line1": "112 Taniwha Street",
+    "line2": " ",
+    "suburb": "Glen Innes",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T01:08:04Z"
+}

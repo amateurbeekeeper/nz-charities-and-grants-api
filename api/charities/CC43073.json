@@ -1,0 +1,27 @@
+{
+  "id": 49862,
+  "registrationNumber": "CC43073",
+  "name": "Saracens Rugby Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.saracensrugby.co.nz",
+  "email": "treasurer@saracensrugby.co.nz",
+  "address": {
+    "line1": "Southbrook Park",
+    "line2": "117 South Belt",
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": "9429043144341",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SaracensRugbyClub/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T17:55:54Z"
+}

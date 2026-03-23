@@ -1,0 +1,27 @@
+{
+  "id": 62762,
+  "registrationNumber": "CC43583",
+  "name": "Nelson Community Potters Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nelsoncommunitypotters.org",
+  "email": "ncpotters@gmail.com",
+  "address": {
+    "line1": "136 Rutherford Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042750857",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ncpotters",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T20:36:00Z"
+}

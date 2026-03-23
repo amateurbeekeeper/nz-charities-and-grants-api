@@ -1,0 +1,27 @@
+{
+  "id": 56331,
+  "registrationNumber": "CC23982",
+  "name": "Te Runanga o Ngati Whatua",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ngatiwhatua.iwi.nz/",
+  "email": "brendas@sumpters.co.nz",
+  "address": {
+    "line1": "193 Lower Dent Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "110"
+  },
+  "nzbn": "9429042687719",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:31:35Z"
+}

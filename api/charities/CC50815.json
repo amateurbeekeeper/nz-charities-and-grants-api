@@ -1,0 +1,27 @@
+{
+  "id": 34276,
+  "registrationNumber": "CC50815",
+  "name": "Depot Arts and Music Space Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.depot.org.nz",
+  "email": "amy.saunders@depot.org.nz",
+  "address": {
+    "line1": "28 Clarence Street",
+    "line2": " ",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": "9429043266173",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top/?q=depotartspace",
+    "twitter": "https://twitter.com/depotartspace"
+  },
+  "lastUpdated": "2026-03-19T01:41:49Z"
+}

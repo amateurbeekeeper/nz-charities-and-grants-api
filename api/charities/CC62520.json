@@ -1,0 +1,27 @@
+{
+  "id": 76078,
+  "registrationNumber": "CC62520",
+  "name": "TE4CL Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-06-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://te4cl-nz.org/",
+  "email": "isaac_heron@xtra.co.nz",
+  "address": {
+    "line1": "Eden 5 ",
+    "line2": "12 Normanby Road",
+    "suburb": " Mount Eden",
+    "city": "Auckland",
+    "postcode": " 1024"
+  },
+  "nzbn": "9429052001390",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TE4CL",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T18:48:45Z"
+}

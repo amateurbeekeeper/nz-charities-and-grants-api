@@ -1,0 +1,27 @@
+{
+  "id": 66678,
+  "registrationNumber": "CC52946",
+  "name": "Sistema Aotearoa Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-12-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sistemaaotearoa.org.nz",
+  "email": "bvester@eduplus.co.nz",
+  "address": {
+    "line1": "Otara Music Arts Centre",
+    "line2": " Shop 5, 46 Fairmall",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": "9429043306381",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/sistemaaotearoa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-18T03:08:09Z"
+}

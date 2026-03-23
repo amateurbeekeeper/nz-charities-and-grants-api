@@ -1,0 +1,27 @@
+{
+  "id": 71365,
+  "registrationNumber": "CC57739",
+  "name": "Elemental Arts Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "andrew@pirateandqueen.co.nz",
+  "address": {
+    "line1": "120A Buckley Road",
+    "line2": " ",
+    "suburb": "Southgate",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429051193072",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-07T22:42:49Z"
+}

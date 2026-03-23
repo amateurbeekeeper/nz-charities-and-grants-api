@@ -1,0 +1,27 @@
+{
+  "id": 50350,
+  "registrationNumber": "CC43934",
+  "name": "Levin Bowling Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.levinbowls.org.nz",
+  "email": "kegwood@icloud.com",
+  "address": {
+    "line1": "59-61 Weraroa Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": "9429042659822",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Levin Bowls",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2025-10-24T01:13:20Z"
+}

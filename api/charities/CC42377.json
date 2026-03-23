@@ -1,0 +1,27 @@
+{
+  "id": 65121,
+  "registrationNumber": "CC42377",
+  "name": "Old Cromwell Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.cromwellheritageprecinct.co.nz",
+  "email": "bernieandhelen@xtra.co.nz",
+  "address": {
+    "line1": "71 Melmore Terrace",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cromwell",
+    "postcode": "9310"
+  },
+  "nzbn": "9429042790709",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Cromwell Heritage Precinct",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T19:51:33Z"
+}

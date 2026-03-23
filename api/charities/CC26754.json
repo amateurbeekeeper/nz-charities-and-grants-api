@@ -1,0 +1,27 @@
+{
+  "id": 42322,
+  "registrationNumber": "CC26754",
+  "name": "Ha O Te Ora O Wharekauri Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "charlotte@sidekickca.co.nz",
+  "address": {
+    "line1": "Tuku Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Chatham Islands",
+    "postcode": "8942"
+  },
+  "nzbn": "9429043105472",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61572313019324",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T02:13:12Z"
+}

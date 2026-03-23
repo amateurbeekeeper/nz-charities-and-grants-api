@@ -1,0 +1,27 @@
+{
+  "id": 60565,
+  "registrationNumber": "CC28375",
+  "name": "Clutha District Search And Rescue",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "robin.waters@ravensdown.co.nz",
+  "address": {
+    "line1": "522 Milton Highway",
+    "line2": "RD 2",
+    "suburb": "Stony Creek",
+    "city": "Balclutha",
+    "postcode": "9272"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T10:27:19Z"
+}

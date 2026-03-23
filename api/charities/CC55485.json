@@ -1,0 +1,27 @@
+{
+  "id": 69141,
+  "registrationNumber": "CC55485",
+  "name": "Hakeke Street Community Centre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hakekest.org.nz/",
+  "email": "hakekestcommcentre@gmail.com",
+  "address": {
+    "line1": "65 Hakeke Street",
+    "line2": " ",
+    "suburb": "Whanganui East",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429046741509",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hakekestlibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-26T23:54:03Z"
+}

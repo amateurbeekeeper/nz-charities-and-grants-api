@@ -1,0 +1,27 @@
+{
+  "id": 63010,
+  "registrationNumber": "CC38367",
+  "name": "Kaibosh",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kaibosh.org.nz",
+  "email": "susie@kaibosh.org.nz",
+  "address": {
+    "line1": "11 Hopper Street",
+    "line2": " ",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043092741",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Kaibosh.NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T22:14:52Z"
+}

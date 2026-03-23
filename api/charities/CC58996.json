@@ -1,0 +1,27 @@
+{
+  "id": 72601,
+  "registrationNumber": "CC58996",
+  "name": "Echo Vision Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.echochurch.co.nz",
+  "email": "office@echochurch.co.nz",
+  "address": {
+    "line1": "19 George Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429049198881",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/echochurchnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T20:36:30Z"
+}

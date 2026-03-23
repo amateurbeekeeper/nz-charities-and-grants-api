@@ -1,0 +1,27 @@
+{
+  "id": 56152,
+  "registrationNumber": "CC23046",
+  "name": "Reformed Church of Christchurch Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://christchurch.rcnz.org.nz/",
+  "email": "treasurer@christchurch.rcnz.org.nz",
+  "address": {
+    "line1": "61 Cornwall Street",
+    "line2": " ",
+    "suburb": "St Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429042722274",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T08:04:00Z"
+}

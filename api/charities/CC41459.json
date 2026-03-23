@@ -1,0 +1,27 @@
+{
+  "id": 47349,
+  "registrationNumber": "CC41459",
+  "name": "The Wellington Youth Choir Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-07-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://wellingtonyouthchoir.wordpress.com/",
+  "email": "wellingtonyouthchoir@gmail.com",
+  "address": {
+    "line1": "PO Box 16128",
+    "line2": null,
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6242"
+  },
+  "nzbn": "9429042886372",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WellingtonYouthChoir/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-24T19:34:44Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 68894,
+  "registrationNumber": "CC55240",
+  "name": "Partners Relief and Development - New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.partners.ngo/nz/",
+  "email": "accountant@nz.partners.ngo",
+  "address": {
+    "line1": "35 Murray Street",
+    "line2": " ",
+    "suburb": "Bell Block",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429046457714",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PartnersReliefAndDevelopment",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-10T20:02:06Z"
+}

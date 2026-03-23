@@ -1,0 +1,27 @@
+{
+  "id": 42393,
+  "registrationNumber": "CC32857",
+  "name": "The Link Trust Incorporated",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2023-11-22T00:00:00Z",
+  "website": "http://www.howickbaptist.org.nz",
+  "email": "noel.boulton@gmail.com",
+  "address": {
+    "line1": "17 Wellington Street",
+    "line2": " ",
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": "9429043024803",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-11-22T06:17:20Z"
+}

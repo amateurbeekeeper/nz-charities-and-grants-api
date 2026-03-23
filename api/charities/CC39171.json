@@ -1,0 +1,27 @@
+{
+  "id": 59032,
+  "registrationNumber": "CC39171",
+  "name": "Friends of Flora Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.fof.org.nz",
+  "email": "sandra.t.bishop@gmail.com",
+  "address": {
+    "line1": "PO Box 97",
+    "line2": null,
+    "suburb": " ",
+    "city": "Motueka",
+    "postcode": "7143"
+  },
+  "nzbn": "9429043070718",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/friendsofflora",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T03:20:41Z"
+}

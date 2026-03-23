@@ -1,0 +1,27 @@
+{
+  "id": 72146,
+  "registrationNumber": "CC58529",
+  "name": "Christchurch Border Collie Haven",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2020-10-22T00:00:00Z",
+  "dateDeregistered": "2023-02-23T00:00:00Z",
+  "website": "https://chchbordercolliehaven.org.nz",
+  "email": "chchbordercolliehaven@gmail.com",
+  "address": {
+    "line1": "91 Blankney Street",
+    "line2": null,
+    "suburb": "Hornby",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/ChchBChaven",
+    "twitter": null
+  },
+  "lastUpdated": "2023-02-23T00:25:16Z"
+}

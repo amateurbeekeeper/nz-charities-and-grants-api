@@ -1,0 +1,27 @@
+{
+  "id": 58711,
+  "registrationNumber": "CC26679",
+  "name": "Waikato Rural Support Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rural-support.org.nz",
+  "email": "neil.bateup@ruralsupport.org.nz",
+  "address": {
+    "line1": "C/- Cooper Aitken Limited",
+    "line2": "2 Arawa Street",
+    "suburb": " ",
+    "city": "Matamata",
+    "postcode": "3400"
+  },
+  "nzbn": "9429043044160",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ruralsupportwaikato",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T22:45:05Z"
+}

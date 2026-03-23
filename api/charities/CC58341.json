@@ -1,0 +1,27 @@
+{
+  "id": 71960,
+  "registrationNumber": "CC58341",
+  "name": "Purpose HQ Fitness Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-10-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fitness@purposehq.co.nz",
+  "address": {
+    "line1": "96 Main Road Tapawera",
+    "line2": "RD 2",
+    "suburb": "Tapawera",
+    "city": "Wakefield",
+    "postcode": "7096"
+  },
+  "nzbn": "9429047737013",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@tapaweragym",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T08:01:10Z"
+}

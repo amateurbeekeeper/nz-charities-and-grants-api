@@ -1,0 +1,27 @@
+{
+  "id": 66262,
+  "registrationNumber": "CC52530",
+  "name": "Able Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-08-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.able.org.nz",
+  "email": "jane@able.org.nz",
+  "address": {
+    "line1": "34 Prince Albert Road",
+    "line2": " ",
+    "suburb": "Saint Kilda",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429043281176",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/www.able.org.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T19:06:25Z"
+}

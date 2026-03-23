@@ -1,0 +1,27 @@
+{
+  "id": 75549,
+  "registrationNumber": "CC62000",
+  "name": "Cambridge Community Menzshed Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-02-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cambridge-menzshed.co.nz/",
+  "email": "cambridge.menzshed@gmail.com",
+  "address": {
+    "line1": "297 Lamb Street",
+    "line2": " ",
+    "suburb": "Leamington",
+    "city": "Cambridge",
+    "postcode": "3432"
+  },
+  "nzbn": "9429051859510",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T22:23:34Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54489,
+  "registrationNumber": "CC21854",
+  "name": "Inspirational Tapes Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.inspirational.org.nz",
+  "email": "media@inspirational.org.nz",
+  "address": {
+    "line1": "6 La Cuesta Close",
+    "line2": " ",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042643609",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-25T19:17:59Z"
+}

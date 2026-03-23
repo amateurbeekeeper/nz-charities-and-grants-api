@@ -1,0 +1,27 @@
+{
+  "id": 67187,
+  "registrationNumber": "CC53475",
+  "name": "Auckland Literacy Association",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-06-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzla.org.nz",
+  "email": "aucklandliteracy@nzla.org.nz",
+  "address": {
+    "line1": "18A McRae Road",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/alanewzealand/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-30T07:49:36Z"
+}

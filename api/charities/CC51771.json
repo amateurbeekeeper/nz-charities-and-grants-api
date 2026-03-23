@@ -1,0 +1,27 @@
+{
+  "id": 65531,
+  "registrationNumber": "CC51771",
+  "name": "Connect",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-01-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.connectblenheim.org.nz",
+  "email": "admin@connectblenheim.org.nz",
+  "address": {
+    "line1": "8 Beaver Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T23:40:38Z"
+}

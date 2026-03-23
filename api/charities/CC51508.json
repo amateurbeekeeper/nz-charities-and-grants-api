@@ -1,0 +1,27 @@
+{
+  "id": 65286,
+  "registrationNumber": "CC51508",
+  "name": "Mahurangi-St Columba Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.hopehq.nz",
+  "email": "accounts@hopehq.nz",
+  "address": {
+    "line1": "22 Mansel Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Warkworth",
+    "postcode": "0910"
+  },
+  "nzbn": "9429046577337",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T18:40:52Z"
+}

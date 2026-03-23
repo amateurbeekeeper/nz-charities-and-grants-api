@@ -1,0 +1,27 @@
+{
+  "id": 60979,
+  "registrationNumber": "CC31243",
+  "name": "Urban Leadership Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.urbanleaders.org",
+  "email": "viv@urbanleaders.org",
+  "address": {
+    "line1": "455C Remuera Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429042894131",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-31T05:07:23Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38776,
+  "registrationNumber": "CC45954",
+  "name": "Community Link Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-12-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.communitylinktrust.nz",
+  "email": "sara.m@activatefaithgroup.nz",
+  "address": {
+    "line1": "21 Ruakura Road",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429043193233",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/communitylinktrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T00:37:03Z"
+}

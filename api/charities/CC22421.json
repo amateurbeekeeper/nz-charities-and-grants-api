@@ -1,0 +1,27 @@
+{
+  "id": 39510,
+  "registrationNumber": "CC22421",
+  "name": "Young Workers Resource Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ywrc.org.nz",
+  "email": "manager@ywrc.org.nz",
+  "address": {
+    "line1": "34 Harwood Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042921790",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/youngworkersrc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T03:24:47Z"
+}

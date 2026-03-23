@@ -1,0 +1,27 @@
+{
+  "id": 33210,
+  "registrationNumber": "CC48682",
+  "name": "The Huxster Mountain Bike Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-12-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.huxster.org.nz",
+  "email": "andreahamiltondavis@gmail.com",
+  "address": {
+    "line1": "99 Nayland Street",
+    "line2": " ",
+    "suburb": "Sumner",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@huxstermtb",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:14:18Z"
+}

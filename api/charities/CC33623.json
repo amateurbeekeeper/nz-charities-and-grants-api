@@ -1,0 +1,27 @@
+{
+  "id": 46175,
+  "registrationNumber": "CC33623",
+  "name": "Waahi Paa Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "waahimarae.treasurer@gmail.com",
+  "address": {
+    "line1": "177 Harris Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Huntly",
+    "postcode": "3700"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T07:58:13Z"
+}

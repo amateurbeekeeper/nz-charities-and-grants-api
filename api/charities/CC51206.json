@@ -1,0 +1,27 @@
+{
+  "id": 33467,
+  "registrationNumber": "CC51206",
+  "name": "West Coast Technology Education Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2014-10-31T00:00:00Z",
+  "dateDeregistered": "2025-02-28T00:00:00Z",
+  "website": "https://www.wctet.org.nz",
+  "email": "wcedtechtrust@gmail.com",
+  "address": {
+    "line1": "1A Guinness Street",
+    "line2": "Greymouth 7805",
+    "suburb": " ",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": "9429043288359",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-15T21:03:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74691,
+  "registrationNumber": "CC61109",
+  "name": "Pacific Housing Waikato",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "wilmason.jensen@kautepasifika.co.nz",
+  "address": {
+    "line1": "100 Seddon Road",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429050780945",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T22:28:38Z"
+}

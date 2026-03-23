@@ -1,0 +1,27 @@
+{
+  "id": 58964,
+  "registrationNumber": "CC29234",
+  "name": "Linwood Baptist Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://linwoodbaptistnz.org/",
+  "email": "bradley@brl.org.nz",
+  "address": {
+    "line1": "165 Linwood Avenue",
+    "line2": "Linwood",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "8642"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:16:20Z"
+}

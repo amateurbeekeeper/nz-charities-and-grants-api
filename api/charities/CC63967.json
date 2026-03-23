@@ -1,0 +1,27 @@
+{
+  "id": 78160,
+  "registrationNumber": "CC63967",
+  "name": "Te Puumanawa O Whitiora",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://whitiora.school.nz",
+  "email": "David@waikatosurvivors.org.nz",
+  "address": {
+    "line1": "38 Willoughby Street",
+    "line2": " ",
+    "suburb": "Whitiora",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-21T00:20:00Z"
+}

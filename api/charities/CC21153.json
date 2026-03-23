@@ -1,0 +1,27 @@
+{
+  "id": 54361,
+  "registrationNumber": "CC21153",
+  "name": "National Council of YMCAs of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ymca.org.nz",
+  "email": "national@ymca.org.nz",
+  "address": {
+    "line1": "93 Hutt Park Road",
+    "line2": "191 Thorndon Quay",
+    "suburb": "Moera",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429042769293",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/YMCANewZealand/",
+    "twitter": "@YMCANZ"
+  },
+  "lastUpdated": "2026-02-12T00:45:12Z"
+}

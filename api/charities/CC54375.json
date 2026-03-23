@@ -1,0 +1,27 @@
+{
+  "id": 68053,
+  "registrationNumber": "CC54375",
+  "name": "Adding Value Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-03-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "keryn@bishopstrust.com",
+  "address": {
+    "line1": "18 Acheron Road",
+    "line2": " ",
+    "suburb": "Paremata",
+    "city": "Porirua",
+    "postcode": "5026"
+  },
+  "nzbn": "9429045999291",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/AddValueTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T18:15:46Z"
+}

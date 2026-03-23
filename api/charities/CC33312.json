@@ -1,0 +1,27 @@
+{
+  "id": 41941,
+  "registrationNumber": "CC33312",
+  "name": "Central Otago Health Services Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cohsl.co.nz",
+  "email": "ann.mcdowall@cohealth.co.nz",
+  "address": {
+    "line1": "Hospital Street",
+    "line2": "Clyde",
+    "suburb": " ",
+    "city": "Central Otago",
+    "postcode": "9341"
+  },
+  "nzbn": "9429037693275",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T02:20:37Z"
+}

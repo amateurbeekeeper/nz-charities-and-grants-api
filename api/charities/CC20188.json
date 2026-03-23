@@ -1,0 +1,27 @@
+{
+  "id": 39007,
+  "registrationNumber": "CC20188",
+  "name": "School Business Managers' Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-12-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://sbm.org.nz",
+  "email": "treasurer@sbm.org.nz",
+  "address": {
+    "line1": "56 Kimbrae Drive",
+    "line2": " ",
+    "suburb": "Rototuna North",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429042711223",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T22:18:07Z"
+}

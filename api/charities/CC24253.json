@@ -1,0 +1,27 @@
+{
+  "id": 51257,
+  "registrationNumber": "CC24253",
+  "name": "Dunedin Folk Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dunedinfolkclub.co.nz/",
+  "email": "info@dunedinfolkclub.co.nz",
+  "address": {
+    "line1": "216 Oxford Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042681366",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dunedinfolkclub/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T21:47:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35386,
+  "registrationNumber": "CC49558",
+  "name": "Reel Recovery New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-08-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.reelrecovery.org.nz",
+  "email": "craig@reelrecovery.org.nz",
+  "address": {
+    "line1": "95 Howard Road",
+    "line2": "RD 5",
+    "suburb": "Orere Point",
+    "city": "Papakura",
+    "postcode": "2585"
+  },
+  "nzbn": "9429043250738",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Reel Recovery New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T22:31:22Z"
+}

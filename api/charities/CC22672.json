@@ -1,0 +1,27 @@
+{
+  "id": 53121,
+  "registrationNumber": "CC22672",
+  "name": "Write On School for Young Writers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.schoolforyoungwriters.org",
+  "email": "schoolforyoungwriters@gmail.com",
+  "address": {
+    "line1": "121A Nayland Street",
+    "line2": " ",
+    "suburb": "Sumner",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": "9429042612346",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-22T19:50:37Z"
+}

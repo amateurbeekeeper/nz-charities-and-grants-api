@@ -1,0 +1,27 @@
+{
+  "id": 47162,
+  "registrationNumber": "CC38684",
+  "name": "Waitangi Marae",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2019-10-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://maraewaakainga.com/waitangi",
+  "email": "waipukareserve@gmail.com",
+  "address": {
+    "line1": "111 Waitangi Road",
+    "line2": "Waimarama 4294",
+    "suburb": " ",
+    "city": "Waimarama",
+    "postcode": "4294"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waipukamrtrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-06T21:02:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53000,
+  "registrationNumber": "CC20194",
+  "name": "Blockhouse Bay Community Centre Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-12-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://bhbaycommunitycentre.co.nz",
+  "email": "info@bhbaycommunitycentre.co.nz",
+  "address": {
+    "line1": "524 Blockhouse Bay Road",
+    "line2": " ",
+    "suburb": "Blockhouse Bay",
+    "city": "Auckland",
+    "postcode": "600"
+  },
+  "nzbn": "9429042597834",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Blockhousebaycommunitycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-15T00:57:10Z"
+}

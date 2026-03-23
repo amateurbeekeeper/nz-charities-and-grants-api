@@ -1,0 +1,27 @@
+{
+  "id": 56266,
+  "registrationNumber": "CC22887",
+  "name": "Dial A Ride Auckland Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-04-13T00:00:00Z",
+  "dateDeregistered": "2019-03-31T00:00:00Z",
+  "website": "http://www.dial-a-ride-transport.co.nz",
+  "email": "dartran@xtra.co.nz",
+  "address": {
+    "line1": "14 Erson Avenue",
+    "line2": " ",
+    "suburb": "Royal Oak",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042670285",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-04-09T20:37:16Z"
+}

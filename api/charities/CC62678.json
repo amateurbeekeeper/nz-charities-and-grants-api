@@ -1,0 +1,27 @@
+{
+  "id": 76355,
+  "registrationNumber": "CC62678",
+  "name": "Ashburton Community Garden",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sepoole5@gmail.com",
+  "address": {
+    "line1": "226 Cameron Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/AshburtonCommunityGarden",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:30:15Z"
+}

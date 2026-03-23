@@ -1,0 +1,27 @@
+{
+  "id": 49172,
+  "registrationNumber": "CC32967",
+  "name": "Maketu Health & Social Services",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://maketuhauora.org.nz/",
+  "email": "huhana@maketuhauora.org.nz",
+  "address": {
+    "line1": "3 Little Waihi Road",
+    "line2": "RD 9",
+    "suburb": " ",
+    "city": "Paengaroa",
+    "postcode": "3189"
+  },
+  "nzbn": "9429043066100",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Maketu Health and Social Services",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-23T04:17:51Z"
+}

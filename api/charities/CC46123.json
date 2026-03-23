@@ -1,0 +1,27 @@
+{
+  "id": 36161,
+  "registrationNumber": "CC46123",
+  "name": "Methodist Church Samoa (New Zealand) Mangere Parish",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2021-02-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "asiata.alesana@gmail.com",
+  "address": {
+    "line1": "28 Court Town Close",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429042722434",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-13T20:05:37Z"
+}

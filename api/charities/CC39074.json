@@ -1,0 +1,27 @@
+{
+  "id": 42776,
+  "registrationNumber": "CC39074",
+  "name": "Taumata O Te Rā Marae Trust Reservation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2021-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "christinekiriona@gmail.com",
+  "address": {
+    "line1": "Flat 7 - 2 Papaioea Place ",
+    "line2": " ",
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Taumata O Te Ra Marae",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T05:21:07Z"
+}

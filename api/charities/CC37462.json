@@ -1,0 +1,27 @@
+{
+  "id": 50040,
+  "registrationNumber": "CC37462",
+  "name": "Gracegate Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gracegate.org.nz",
+  "email": "bill@rise.co.nz",
+  "address": {
+    "line1": "42 Parkway Drive",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429043188505",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=gracegate",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T18:51:13Z"
+}

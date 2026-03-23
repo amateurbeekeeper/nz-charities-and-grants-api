@@ -1,0 +1,27 @@
+{
+  "id": 64729,
+  "registrationNumber": "CC42894",
+  "name": "Sunnyhills School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-11-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sunnyhills.school.nz",
+  "email": "pta@sunnyhills.school.nz",
+  "address": {
+    "line1": "Sunny Hills School",
+    "line2": "17 The Crest",
+    "suburb": "Sunnyhills",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-18T20:15:48Z"
+}

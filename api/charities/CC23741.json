@@ -1,0 +1,27 @@
+{
+  "id": 40489,
+  "registrationNumber": "CC23741",
+  "name": "Albany Christian Store",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "j.j.robinson@xtra.co.nz",
+  "address": {
+    "line1": "104 Knights Road",
+    "line2": " ",
+    "suburb": "Rothesay Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429043122745",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-02T01:27:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42999,
+  "registrationNumber": "CC40012",
+  "name": "Edmund Rice Camps Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ercdunedin.com",
+  "email": "ameliabresanello@gmail.com",
+  "address": {
+    "line1": "340 Rattray Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042964902",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-21T23:02:31Z"
+}

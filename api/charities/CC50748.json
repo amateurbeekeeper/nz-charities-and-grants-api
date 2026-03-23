@@ -1,0 +1,27 @@
+{
+  "id": 34404,
+  "registrationNumber": "CC50748",
+  "name": "Nor'west Brass Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://norwestbrass.nz",
+  "email": "norwestbrass@gmail.com",
+  "address": {
+    "line1": "59 Hewitts Road",
+    "line2": " ",
+    "suburb": "Merivale",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429043242351",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Norwest-Brass-525441390904160/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T23:08:11Z"
+}

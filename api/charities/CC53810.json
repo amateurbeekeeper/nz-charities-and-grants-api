@@ -1,0 +1,27 @@
+{
+  "id": 67512,
+  "registrationNumber": "CC53810",
+  "name": "Homes for People Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-07-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.homesforpeople.co.nz",
+  "email": "darren@homesforpeople.co.nz",
+  "address": {
+    "line1": "682 Pioneer Highway",
+    "line2": " ",
+    "suburb": "Highbury",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": null,
+  "financialYearEnd": "1/7",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/HomesforPeople/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T21:51:37Z"
+}

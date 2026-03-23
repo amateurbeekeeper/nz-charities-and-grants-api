@@ -1,0 +1,27 @@
+{
+  "id": 60692,
+  "registrationNumber": "CC28383",
+  "name": "St Patrick's Festival Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stpatrick.co.nz",
+  "email": "pgrogan@milfordasset.com",
+  "address": {
+    "line1": "30 Frank Street",
+    "line2": " ",
+    "suburb": "Oneroa",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429042831440",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/stpatricksfestival/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T02:36:08Z"
+}

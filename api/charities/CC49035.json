@@ -1,0 +1,27 @@
+{
+  "id": 34761,
+  "registrationNumber": "CC49035",
+  "name": "ShelterBox New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-04-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.shelterbox.org.nz",
+  "email": "brenteddy@shelterbox.org.nz",
+  "address": {
+    "line1": "PO Box 527",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429043319466",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ShelterBoxNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-30T06:07:46Z"
+}

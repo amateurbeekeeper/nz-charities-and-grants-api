@@ -1,0 +1,27 @@
+{
+  "id": 71594,
+  "registrationNumber": "CC57967",
+  "name": "Grace Hill Church of the Nazarene",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "frankparte@gmail.com",
+  "address": {
+    "line1": "10 McEnroe Grove",
+    "line2": " ",
+    "suburb": "Naenae",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429046392190",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Grace Hill Community Church",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T22:57:33Z"
+}

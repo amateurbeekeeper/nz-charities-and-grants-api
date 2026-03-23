@@ -1,0 +1,27 @@
+{
+  "id": 50538,
+  "registrationNumber": "CC44289",
+  "name": "NZ Barok Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzbarok.org.nz",
+  "email": "contact@nzbarok.org.nz",
+  "address": {
+    "line1": "16 Alison Avenue",
+    "line2": " ",
+    "suburb": "Herald Island",
+    "city": "Auckland",
+    "postcode": "0618"
+  },
+  "nzbn": "9429043213535",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/NZBarok",
+    "twitter": "https://twitter.com/nzbarok"
+  },
+  "lastUpdated": "2026-02-13T03:30:03Z"
+}

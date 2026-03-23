@@ -1,0 +1,27 @@
+{
+  "id": 33801,
+  "registrationNumber": "CC50320",
+  "name": "Whangarei Men's Shed Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-02-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.mensshed.co.nz",
+  "email": "secretary@mensshed.co.nz",
+  "address": {
+    "line1": "47A Kauika Road West",
+    "line2": " ",
+    "suburb": "Avenues",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043237425",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Whangarei Mens Shed",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T19:27:20Z"
+}

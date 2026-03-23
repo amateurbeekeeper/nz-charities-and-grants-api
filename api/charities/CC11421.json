@@ -1,0 +1,27 @@
+{
+  "id": 52706,
+  "registrationNumber": "CC11421",
+  "name": "NZ Racing Hall Of Fame Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.racinghalloffame.co.nz",
+  "email": "allan.fenwick@xtra.co.nz",
+  "address": {
+    "line1": "26 Signal Street",
+    "line2": "Marton 4710",
+    "suburb": "Tamahere",
+    "city": "Marton",
+    "postcode": "4710"
+  },
+  "nzbn": "9429035918998",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:03:09Z"
+}

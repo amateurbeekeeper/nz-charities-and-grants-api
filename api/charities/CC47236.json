@@ -1,0 +1,27 @@
+{
+  "id": 37600,
+  "registrationNumber": "CC47236",
+  "name": "500 Friends Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2012-01-05T00:00:00Z",
+  "dateDeregistered": "2021-02-05T00:00:00Z",
+  "website": null,
+  "email": "ph@pennyhay.com",
+  "address": {
+    "line1": "13 Oxford Terrace",
+    "line2": " ",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "500friends",
+    "twitter": null
+  },
+  "lastUpdated": "2021-02-04T22:24:05Z"
+}

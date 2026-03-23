@@ -1,0 +1,27 @@
+{
+  "id": 68073,
+  "registrationNumber": "CC54396",
+  "name": "Bowls Matua Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sporty.co.nz/matuabowls",
+  "email": "treasurer@bowlsmatua.org.nz",
+  "address": {
+    "line1": "108 Levers Road",
+    "line2": " ",
+    "suburb": "Matua",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042770121",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Bowls Matua",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T19:42:28Z"
+}

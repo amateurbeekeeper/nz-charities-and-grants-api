@@ -1,0 +1,27 @@
+{
+  "id": 41803,
+  "registrationNumber": "CC24274",
+  "name": "The New Zealand Symphony Orchestra Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nzso.co.nz/support-us",
+  "email": "stuart@darvillmellors.co.nz",
+  "address": {
+    "line1": "Level 1, Findex House",
+    "line2": "57 Willis Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042692089",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T23:50:54Z"
+}

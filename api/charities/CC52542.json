@@ -1,0 +1,27 @@
+{
+  "id": 66272,
+  "registrationNumber": "CC52542",
+  "name": "Petra Assembly Of God Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "laulea.malele@gmail.com",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "114 Mahia Road",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": "9429043313143",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Petra Assembly of God Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:27:46Z"
+}

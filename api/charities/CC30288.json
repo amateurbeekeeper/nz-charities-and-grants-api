@@ -1,0 +1,27 @@
+{
+  "id": 44244,
+  "registrationNumber": "CC30288",
+  "name": "Kaeo Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2011-07-27T00:00:00Z",
+  "website": null,
+  "email": "Kaeo@playcentre.org.nz",
+  "address": {
+    "line1": "PO Box 599",
+    "line2": null,
+    "suburb": "Kaikohe",
+    "city": null,
+    "postcode": "440"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-07-01T23:23:55Z"
+}

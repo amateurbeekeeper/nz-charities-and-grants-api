@@ -1,0 +1,27 @@
+{
+  "id": 66994,
+  "registrationNumber": "CC53275",
+  "name": "The Ferguson Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "colin@bandj.co.nz",
+  "address": {
+    "line1": "11 Okahu Street",
+    "line2": " ",
+    "suburb": "Orakei",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-03T19:44:54Z"
+}

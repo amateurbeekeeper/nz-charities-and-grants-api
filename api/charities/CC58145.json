@@ -1,0 +1,27 @@
+{
+  "id": 71755,
+  "registrationNumber": "CC58145",
+  "name": "The Cockle Bay Playcentre Incorporated",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2020-09-08T00:00:00Z",
+  "dateDeregistered": "2025-12-23T00:00:00Z",
+  "website": null,
+  "email": "cocklebay@playcentre.org.nz",
+  "address": {
+    "line1": "17 Pah Road",
+    "line2": " ",
+    "suburb": "Cockle Bay",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": "9429042873280",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CockleBayPlaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-03T06:04:21Z"
+}

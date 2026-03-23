@@ -1,0 +1,27 @@
+{
+  "id": 58088,
+  "registrationNumber": "CC36140",
+  "name": "LIFESPRING",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "macal@maxnet.co.nz",
+  "address": {
+    "line1": "44A Fearon Avenue",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429043125050",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T06:12:18Z"
+}

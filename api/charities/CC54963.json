@@ -1,0 +1,27 @@
+{
+  "id": 75412,
+  "registrationNumber": "CC54963",
+  "name": "KittyCat Rescue Wairarapa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kittycatrescue.co.nz",
+  "email": "rachelrescuesnz@gmail.com",
+  "address": {
+    "line1": "Flat 3",
+    "line2": "29 Ebdentown Street",
+    "suburb": "Ebdentown",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Www.facebook.com/100069345546045",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-17T11:13:30Z"
+}

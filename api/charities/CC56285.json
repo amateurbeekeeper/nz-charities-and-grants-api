@@ -1,0 +1,27 @@
+{
+  "id": 69925,
+  "registrationNumber": "CC56285",
+  "name": "The Rock International",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.therockint.co.nz",
+  "email": "phil@philipsgroupco.co.nz",
+  "address": {
+    "line1": "25 Pepene Avenue",
+    "line2": "Takanini 2112",
+    "suburb": "Manurewa",
+    "city": "Takanini",
+    "postcode": "2112"
+  },
+  "nzbn": "9429043038626",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "@therockint",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-06T22:46:26Z"
+}

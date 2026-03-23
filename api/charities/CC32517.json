@@ -1,0 +1,27 @@
+{
+  "id": 42104,
+  "registrationNumber": "CC32517",
+  "name": "Christian Revival Crusade (Wellington) Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.wellingtoncrc.org",
+  "email": "randallwburt@gmail.com",
+  "address": {
+    "line1": "53 Vivian Street",
+    "line2": " ",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042619161",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/groups/wellingtoncrc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T21:02:54Z"
+}

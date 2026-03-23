@@ -1,0 +1,27 @@
+{
+  "id": 60005,
+  "registrationNumber": "CC33783",
+  "name": "Canterbury Asthma Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.canbreathe.org.nz",
+  "email": "annette@canbreathe.org.nz",
+  "address": {
+    "line1": "117 Main North Road",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429042602699",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "CanBreathe",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:14:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56136,
+  "registrationNumber": "CC21761",
+  "name": "Mangere Mountain Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mangeremountain.nz/",
+  "email": "sophia.olowhaanga@gmail.com",
+  "address": {
+    "line1": "100 Coronation Road",
+    "line2": " ",
+    "suburb": "Mangere Bridge",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429043107483",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Mangere Mountain Education Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T20:37:20Z"
+}

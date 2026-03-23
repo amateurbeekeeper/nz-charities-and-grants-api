@@ -1,0 +1,27 @@
+{
+  "id": 55593,
+  "registrationNumber": "CC22447",
+  "name": "Big Buddy Mentoring Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bigbuddy.org.nz",
+  "email": "kim@bigbuddy.org.nz",
+  "address": {
+    "line1": "300 Great South Road",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429043112487",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T18:07:11Z"
+}

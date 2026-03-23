@@ -1,0 +1,27 @@
+{
+  "id": 68137,
+  "registrationNumber": "CC54463",
+  "name": "Sail Northland Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sailnorthland.org.nz",
+  "email": "sailnorthland@gmail.com",
+  "address": {
+    "line1": "212 Riverside Drive",
+    "line2": " ",
+    "suburb": "Parahaki",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429043309016",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/sailtrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-18T07:02:04Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71526,
+  "registrationNumber": "CC57894",
+  "name": "Kitty Haven",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.kittyhaven.net",
+  "email": "kittyhaven2020@gmail.com",
+  "address": {
+    "line1": "51 Morrison Avenue",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Christchurch",
+    "postcode": "8052"
+  },
+  "nzbn": "9429052119651",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/Kitty-Haven-103831897868562/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-09T19:26:21Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 70592,
+  "registrationNumber": "CC56956",
+  "name": "Pareraho Forest Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-07-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john.e.simes@gmail.com",
+  "address": {
+    "line1": "20 Natusch Road",
+    "line2": " ",
+    "suburb": "Belmont",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/parerahoforest",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-18T05:02:12Z"
+}

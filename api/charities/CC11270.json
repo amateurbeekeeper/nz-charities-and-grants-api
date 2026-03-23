@@ -1,0 +1,27 @@
+{
+  "id": 53045,
+  "registrationNumber": "CC11270",
+  "name": "New Zealand Academy Of Fine Arts Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzafa.com",
+  "email": "Director@nzafa.com",
+  "address": {
+    "line1": "68 Curtis Street",
+    "line2": " ",
+    "suburb": "Northland",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043142699",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZAFA",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T01:51:02Z"
+}

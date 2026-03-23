@@ -1,0 +1,27 @@
+{
+  "id": 49596,
+  "registrationNumber": "CC30222",
+  "name": "Hillsborough Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-25T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/hillsborough/",
+  "email": "hillsborough@playcentre.org.nz",
+  "address": {
+    "line1": "21 Currie Avenue",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hillsboroughplaycentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T03:38:29Z"
+}

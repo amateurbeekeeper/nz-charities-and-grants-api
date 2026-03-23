@@ -1,0 +1,27 @@
+{
+  "id": 74288,
+  "registrationNumber": "CC60699",
+  "name": "Box On Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@boxonboxing.com",
+  "address": {
+    "line1": "202 Old Renwick Road",
+    "line2": " ",
+    "suburb": "Springlands",
+    "city": "Blenheim",
+    "postcode": "7272"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Box On Boxing Blenheim",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T18:08:55Z"
+}

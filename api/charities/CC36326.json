@@ -1,0 +1,27 @@
+{
+  "id": 56637,
+  "registrationNumber": "CC36326",
+  "name": "Manaia Community Preschool Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://manaiacommunitypreschool.co.nz",
+  "email": "admin@mcp.org.nz",
+  "address": {
+    "line1": "11 Patu-Kukupa Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Manaia",
+    "postcode": "4612"
+  },
+  "nzbn": "9429042947684",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/manaiacommunityPreschool/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T23:50:29Z"
+}

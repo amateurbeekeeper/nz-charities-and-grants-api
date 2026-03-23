@@ -1,0 +1,27 @@
+{
+  "id": 68641,
+  "registrationNumber": "CC54981",
+  "name": "Sikh Youth NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://sikhyouthnz.org",
+  "email": "gurjot.singhnz@gmail.com",
+  "address": {
+    "line1": "PO Box 163010",
+    "line2": "Lynfield",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1443"
+  },
+  "nzbn": "9429046341211",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T04:02:16Z"
+}

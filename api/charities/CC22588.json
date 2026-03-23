@@ -1,0 +1,27 @@
+{
+  "id": 40033,
+  "registrationNumber": "CC22588",
+  "name": "The Eastern Bays Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "celia.zhang08@hotmail.com",
+  "address": {
+    "line1": "83 Crossfield Road",
+    "line2": " ",
+    "suburb": "Glendowie",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429042778677",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/easternbaystoylibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T10:49:43Z"
+}

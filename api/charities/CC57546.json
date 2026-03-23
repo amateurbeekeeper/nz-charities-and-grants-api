@@ -1,0 +1,27 @@
+{
+  "id": 71169,
+  "registrationNumber": "CC57546",
+  "name": "Withiel Fund",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-10-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@withielfund.nz",
+  "address": {
+    "line1": "8 Withiel Drive",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T21:35:10Z"
+}

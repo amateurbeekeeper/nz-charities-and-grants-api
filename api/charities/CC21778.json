@@ -1,0 +1,27 @@
+{
+  "id": 54594,
+  "registrationNumber": "CC21778",
+  "name": "Camellia House Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.camelliahouse.co.nz/",
+  "email": "manager@camelliahouse.co.nz",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429042598978",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/camelliahousepn/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T19:42:53Z"
+}

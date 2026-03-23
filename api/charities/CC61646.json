@@ -1,0 +1,27 @@
+{
+  "id": 75216,
+  "registrationNumber": "CC61646",
+  "name": "Second Suits Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.secondsuits.org",
+  "email": "mike@secondsuits.org",
+  "address": {
+    "line1": "32 Tuarangi Road",
+    "line2": null,
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429051450601",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100093139740999",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T05:53:36Z"
+}

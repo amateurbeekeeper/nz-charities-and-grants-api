@@ -1,0 +1,27 @@
+{
+  "id": 62220,
+  "registrationNumber": "CC42332",
+  "name": "Special Olympics Otago Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.specialolympics.org.nz",
+  "email": "torrancer@slingshot.co.nz",
+  "address": {
+    "line1": "47 Rawhiti Street",
+    "line2": " ",
+    "suburb": "Musselburgh",
+    "city": "Dunedin",
+    "postcode": "9013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T22:35:25Z"
+}

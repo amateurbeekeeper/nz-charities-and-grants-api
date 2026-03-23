@@ -1,0 +1,27 @@
+{
+  "id": 48586,
+  "registrationNumber": "CC41998",
+  "name": "Aotea Island Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-11-20T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/aotea-island/",
+  "email": "aoteaisland@playcentre.org.nz",
+  "address": {
+    "line1": "44 Kaitoke Lane",
+    "line2": "RD 1",
+    "suburb": "Great Barrier Island (aotea Island)",
+    "city": "Great Barrier Island",
+    "postcode": "0991"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AoteaPlaycentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T06:03:32Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50371,
+  "registrationNumber": "CC43946",
+  "name": "Franklin Bridge Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.franklinbridgeclub.com",
+  "email": "msnelson.nz@gmail.com",
+  "address": {
+    "line1": "20 Edinburgh Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429042714651",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Franklin Bridge Club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-29T22:08:52Z"
+}

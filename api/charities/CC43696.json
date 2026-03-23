@@ -1,0 +1,27 @@
+{
+  "id": 62850,
+  "registrationNumber": "CC43696",
+  "name": "Matamata Playcentre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "matamata@playcentre.org.nz",
+  "address": {
+    "line1": "37 Farmers Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Matamata",
+    "postcode": "3400"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T07:07:29Z"
+}

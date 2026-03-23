@@ -1,0 +1,27 @@
+{
+  "id": 36282,
+  "registrationNumber": "CC47467",
+  "name": "Grace Theological College Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gtc.ac.nz",
+  "email": "tonyb@mcctrust.nz",
+  "address": {
+    "line1": "75 Rogers Road",
+    "line2": " ",
+    "suburb": "Manurewa",
+    "city": "Auckland",
+    "postcode": "2102"
+  },
+  "nzbn": "9429042978725",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T21:43:31Z"
+}

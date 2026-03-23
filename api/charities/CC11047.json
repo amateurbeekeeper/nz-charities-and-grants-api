@@ -1,0 +1,27 @@
+{
+  "id": 51767,
+  "registrationNumber": "CC11047",
+  "name": "New Zealand Sri Lanka Buddhist Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.srilankaramaya.org",
+  "email": "treasurer@srilankaramaya.org",
+  "address": {
+    "line1": "11 Pukeora Road",
+    "line2": " ",
+    "suburb": "Otahuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429042949701",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZSrilankaramaya/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:02:59Z"
+}

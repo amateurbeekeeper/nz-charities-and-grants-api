@@ -1,0 +1,27 @@
+{
+  "id": 69542,
+  "registrationNumber": "CC55906",
+  "name": "Marlborough Community Gardens Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mcg.blenheim@gmail.com",
+  "address": {
+    "line1": "4 Ballinger Drive",
+    "line2": "RD 3",
+    "suburb": "Riversdale",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429043267613",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MarlCommGardens",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-03T21:39:01Z"
+}

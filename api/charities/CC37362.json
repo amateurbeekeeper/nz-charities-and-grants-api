@@ -1,0 +1,27 @@
+{
+  "id": 41510,
+  "registrationNumber": "CC37362",
+  "name": "Te Araroa Wellington Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.teararoa.org.nz",
+  "email": "pdstephenson@xtra.co.nz",
+  "address": {
+    "line1": "26 Leeward Drive",
+    "line2": " ",
+    "suburb": "Whitby",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:40:10Z"
+}

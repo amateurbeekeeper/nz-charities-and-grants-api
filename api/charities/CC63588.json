@@ -1,0 +1,27 @@
+{
+  "id": 77785,
+  "registrationNumber": "CC63588",
+  "name": "Te Wai O Tangaroa Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-11-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tewaiotangaroa@hotmail.com",
+  "address": {
+    "line1": "53 Atkinson Road",
+    "line2": " ",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": null,
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T20:33:33Z"
+}

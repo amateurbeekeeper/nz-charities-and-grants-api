@@ -1,0 +1,27 @@
+{
+  "id": 40081,
+  "registrationNumber": "CC23344",
+  "name": "Volunteering New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.volunteeringnz.org.nz",
+  "email": "michelle@volunteeringnz.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "50 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043080632",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/volunteeringnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T23:21:56Z"
+}

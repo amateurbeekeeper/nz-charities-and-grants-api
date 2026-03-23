@@ -1,0 +1,27 @@
+{
+  "id": 52264,
+  "registrationNumber": "CC38981",
+  "name": "Omori-Kuratau Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.omorikuratau.co.nz",
+  "email": "pip.capizzi@xtra.co.nz",
+  "address": {
+    "line1": "220 Omori Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kuratau",
+    "postcode": "3381"
+  },
+  "nzbn": "9429043119912",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@omorikuratau",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T02:48:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 36685,
+  "registrationNumber": "CC47968",
+  "name": "Every Home for Christ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.everyhome.org.au",
+  "email": "ehc@everyhome.org.au",
+  "address": {
+    "line1": "25 Observatory Close",
+    "line2": "Matua Village",
+    "suburb": "Whitby",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429043322862",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T23:00:06Z"
+}

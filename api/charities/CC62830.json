@@ -1,0 +1,27 @@
+{
+  "id": 76639,
+  "registrationNumber": "CC62830",
+  "name": "The Auckland Pacific Wardens Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-11-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "william@pacificwardens.org.nz",
+  "address": {
+    "line1": "19 Hall Avenue",
+    "line2": null,
+    "suburb": "Ōtāhuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100069785643144",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T03:45:58Z"
+}

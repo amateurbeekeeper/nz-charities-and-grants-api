@@ -1,0 +1,27 @@
+{
+  "id": 67694,
+  "registrationNumber": "CC53999",
+  "name": "Southern Lakes Trails",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-12-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.southernlakestrails.nz",
+  "email": "simon@iclca.co.nz",
+  "address": {
+    "line1": "69 Tarbert Street",
+    "line2": "Alexandra 9320",
+    "suburb": " ",
+    "city": "Alexandra",
+    "postcode": "9320"
+  },
+  "nzbn": "9429045843556",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T19:24:09Z"
+}

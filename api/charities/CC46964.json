@@ -1,0 +1,27 @@
+{
+  "id": 36497,
+  "registrationNumber": "CC46964",
+  "name": "Be. Institute Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2011-06-22T00:00:00Z",
+  "dateDeregistered": "2025-03-31T00:00:00Z",
+  "website": "http://www.belab.co.nz",
+  "email": "Gabby@belab.co.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "48 Greys Avenue",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043223640",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Be.Accessible/",
+    "twitter": "@BeAccessibleNZ"
+  },
+  "lastUpdated": "2025-04-15T07:08:56Z"
+}

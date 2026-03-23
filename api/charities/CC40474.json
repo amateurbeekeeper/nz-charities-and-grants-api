@@ -1,0 +1,27 @@
+{
+  "id": 42598,
+  "registrationNumber": "CC40474",
+  "name": "Te Puna Reo O Puhi Kaiti Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "erana.haerewa@hotmail.co.nz",
+  "address": {
+    "line1": "PO Box 3072",
+    "line2": "Kaiti",
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4041"
+  },
+  "nzbn": "9429043094271",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T00:44:31Z"
+}

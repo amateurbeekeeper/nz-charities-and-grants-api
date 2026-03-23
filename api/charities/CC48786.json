@@ -1,0 +1,27 @@
+{
+  "id": 32982,
+  "registrationNumber": "CC48786",
+  "name": "Greening the Rubble Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://thegreenlab.org.nz",
+  "email": "info@thegreenlab.org.nz",
+  "address": {
+    "line1": "77 Marine Parade",
+    "line2": " ",
+    "suburb": "North New Brighton",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thegreenlabnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T05:20:14Z"
+}

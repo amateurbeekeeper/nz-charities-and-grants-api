@@ -1,0 +1,27 @@
+{
+  "id": 34982,
+  "registrationNumber": "CC49841",
+  "name": "The Royal Life Saving Society, New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-09-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.lifesaver.org.nz",
+  "email": "graemeandmarie@hotmail.co.nz",
+  "address": {
+    "line1": "71 Raine Street",
+    "line2": " ",
+    "suburb": "Whanganui East",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429047202665",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T23:51:06Z"
+}

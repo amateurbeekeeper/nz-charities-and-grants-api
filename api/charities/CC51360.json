@@ -1,0 +1,27 @@
+{
+  "id": 34583,
+  "registrationNumber": "CC51360",
+  "name": "Ancestral Health Society of New Zealand Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-02-16T00:00:00Z",
+  "dateDeregistered": "2022-04-30T00:00:00Z",
+  "website": "https://ancestralhealthnz.org/",
+  "email": "philbecker1@gmail.com",
+  "address": {
+    "line1": "7 Liffey Crescent",
+    "line2": null,
+    "suburb": "Island Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429043277322",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/ancestralhealthnz/",
+    "twitter": "https://twitter.com/AHealthSocNZ"
+  },
+  "lastUpdated": "2022-06-09T00:38:06Z"
+}

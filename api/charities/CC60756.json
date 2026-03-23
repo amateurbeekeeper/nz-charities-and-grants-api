@@ -1,0 +1,27 @@
+{
+  "id": 74346,
+  "registrationNumber": "CC60756",
+  "name": "Te Hā o Maru Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-10-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Rachael@tehaomaru.nz",
+  "address": {
+    "line1": "43 Tenby Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Moeraki",
+    "postcode": "9482"
+  },
+  "nzbn": "9429050891504",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T00:52:59Z"
+}

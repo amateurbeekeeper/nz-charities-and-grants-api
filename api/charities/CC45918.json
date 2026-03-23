@@ -1,0 +1,27 @@
+{
+  "id": 38272,
+  "registrationNumber": "CC45918",
+  "name": "Oak Development Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-12-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.odt.org.nz",
+  "email": "admin@odt.org.nz",
+  "address": {
+    "line1": "80 Rattray Street",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429043220960",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-10T21:40:45Z"
+}

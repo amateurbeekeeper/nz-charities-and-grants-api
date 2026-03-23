@@ -1,0 +1,27 @@
+{
+  "id": 56326,
+  "registrationNumber": "CC35414",
+  "name": "Te Pataka O Tangaroa Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rauru.iwi.nz",
+  "email": "renee@rauru.iwi.nz",
+  "address": {
+    "line1": "74 Ingestre Street",
+    "line2": "Whanganui 4500",
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429033447797",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T21:31:14Z"
+}

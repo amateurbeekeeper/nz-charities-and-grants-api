@@ -1,0 +1,27 @@
+{
+  "id": 60959,
+  "registrationNumber": "CC40339",
+  "name": "Wesley Wellington Mission Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wesleyca.org.nz",
+  "email": "imacdonald@wesleyca.org.nz",
+  "address": {
+    "line1": "Epworth House",
+    "line2": "75 Taranaki Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042838982",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top/?q=wesley%20community%20action",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T02:22:46Z"
+}

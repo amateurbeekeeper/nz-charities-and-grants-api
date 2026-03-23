@@ -1,0 +1,27 @@
+{
+  "id": 51944,
+  "registrationNumber": "CC20249",
+  "name": "Volunteering Canterbury",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.volcan.org.nz",
+  "email": "office@volcan.org.nz",
+  "address": {
+    "line1": "213 Lichfield Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042604990",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Volunteering Canterbury",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:18:36Z"
+}

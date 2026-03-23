@@ -1,0 +1,27 @@
+{
+  "id": 42022,
+  "registrationNumber": "CC37962",
+  "name": "Christchurch Operatic Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.showbiz.org.nz",
+  "email": "genmgr@showbiz.org.nz",
+  "address": {
+    "line1": "369 St Asaph Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042615170",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/showbiz.christchurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-26T20:04:59Z"
+}

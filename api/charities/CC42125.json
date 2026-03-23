@@ -1,0 +1,27 @@
+{
+  "id": 50842,
+  "registrationNumber": "CC42125",
+  "name": "The Hihiaua Cultural Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://hihiaua.org.nz/",
+  "email": "jeremy@plusca.co.nz",
+  "address": {
+    "line1": "58 Herekino Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429043091614",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/hihiauaculturalcentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-08T00:22:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50480,
+  "registrationNumber": "CC44059",
+  "name": "Milton Community Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.healthpoint.co.nz/community-health-and-social-services/community-health/milton-community-health-trust/",
+  "email": "jackie@cegnz.co.nz",
+  "address": {
+    "line1": "5 Eden Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Milton",
+    "postcode": "9220"
+  },
+  "nzbn": "9429042924470",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T18:06:37Z"
+}

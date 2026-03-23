@@ -1,0 +1,27 @@
+{
+  "id": 41127,
+  "registrationNumber": "CC40731",
+  "name": "Otago University Students Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ousa.org.nz",
+  "email": "donna@ousa.org.nz",
+  "address": {
+    "line1": "PO Box 1436",
+    "line2": null,
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9054"
+  },
+  "nzbn": "9429042796848",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.fb.com/OtagoUniversityStudentsAssociation/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T01:54:43Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33664,
+  "registrationNumber": "CC49918",
+  "name": "Mayfair Theatre Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mayfairtheatre.co.nz",
+  "email": "info@mayfairtheatre.co.nz",
+  "address": {
+    "line1": "Mayfair Theatre",
+    "line2": "100 King Edward Street",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429043248254",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:28Z"
+}

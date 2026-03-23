@@ -1,0 +1,27 @@
+{
+  "id": 38640,
+  "registrationNumber": "CC45534",
+  "name": "Kriya Yoga Association of New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-10-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kriya.org.nz",
+  "email": "jay.salunkhe@yahoo.co.nz",
+  "address": {
+    "line1": "31 Chatsworth Crescent",
+    "line2": " ",
+    "suburb": "Pakuranga Heights",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429043112999",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KriyaYogaNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T02:48:12Z"
+}

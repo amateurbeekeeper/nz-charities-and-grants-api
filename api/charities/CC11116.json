@@ -1,0 +1,27 @@
+{
+  "id": 52567,
+  "registrationNumber": "CC11116",
+  "name": "Ngai Tahu Maori Law Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngaitahulaw.org.nz",
+  "email": "shelley@ngaitahulaw.org.nz",
+  "address": {
+    "line1": "75 Carroll Street",
+    "line2": "258 Stuart Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042673781",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T21:11:31Z"
+}

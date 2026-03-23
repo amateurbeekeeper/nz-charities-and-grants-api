@@ -1,0 +1,27 @@
+{
+  "id": 73676,
+  "registrationNumber": "CC60028",
+  "name": "Selah Ministry Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.selahministry.com",
+  "email": "admin@selahministry.com",
+  "address": {
+    "line1": "PO Box 465",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waiuku",
+    "postcode": "2341"
+  },
+  "nzbn": "9429050487592",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-21T01:38:47Z"
+}

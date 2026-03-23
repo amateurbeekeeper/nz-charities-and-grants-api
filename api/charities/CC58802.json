@@ -1,0 +1,27 @@
+{
+  "id": 72432,
+  "registrationNumber": "CC58802",
+  "name": "AdaptMTB",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.adaptmtb.nz",
+  "email": "james@adaptmtb.nz",
+  "address": {
+    "line1": "16A Houpara Street",
+    "line2": " ",
+    "suburb": "One Tree Hill",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429048599832",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AdaptMTB",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T06:20:15Z"
+}

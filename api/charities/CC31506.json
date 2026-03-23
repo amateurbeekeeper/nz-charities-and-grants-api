@@ -1,0 +1,27 @@
+{
+  "id": 42778,
+  "registrationNumber": "CC31506",
+  "name": "Orongomai Marae Community Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "uppervalleymarae@xtra.co.nz",
+  "address": {
+    "line1": "1 Railway Avenue",
+    "line2": " ",
+    "suburb": "Maidstone",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429043147717",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T21:50:31Z"
+}

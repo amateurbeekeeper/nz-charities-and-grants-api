@@ -1,0 +1,27 @@
+{
+  "id": 66610,
+  "registrationNumber": "CC52880",
+  "name": "St Giles Presbyterian Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2016-02-01T00:00:00Z",
+  "dateDeregistered": "2021-08-31T00:00:00Z",
+  "website": null,
+  "email": "neilman@videofoundry.co.nz",
+  "address": {
+    "line1": "1207 Dominion Road",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-01-13T20:53:33Z"
+}

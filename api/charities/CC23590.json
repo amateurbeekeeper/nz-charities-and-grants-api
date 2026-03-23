@@ -1,0 +1,27 @@
+{
+  "id": 56516,
+  "registrationNumber": "CC23590",
+  "name": "Christchurch Civic Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.christchurchcivictrust.org.nz",
+  "email": "lindsay.carswell@xtra.co.nz",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "238 Stanmore Road",
+    "suburb": "Richmond",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042610519",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T00:41:02Z"
+}

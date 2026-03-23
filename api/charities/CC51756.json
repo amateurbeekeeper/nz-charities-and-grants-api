@@ -1,0 +1,27 @@
+{
+  "id": 65520,
+  "registrationNumber": "CC51756",
+  "name": "Presbyterian Parish Of St Luke’s Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stlukes.org.nz",
+  "email": "paul@pmartinca.com",
+  "address": {
+    "line1": "130 Remuera Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T02:03:30Z"
+}

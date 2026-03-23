@@ -1,0 +1,27 @@
+{
+  "id": 56427,
+  "registrationNumber": "CC24793",
+  "name": "Nikau Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://nikaufoundation.nz",
+  "email": "em@nikaufoundation.nz",
+  "address": {
+    "line1": "Level 5",
+    "line2": "166 Featherston Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043038664",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Nikau-Foundation-138288039639019/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T20:12:43Z"
+}

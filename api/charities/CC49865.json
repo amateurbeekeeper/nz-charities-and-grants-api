@@ -1,0 +1,27 @@
+{
+  "id": 33528,
+  "registrationNumber": "CC49865",
+  "name": "Wilderness Canoe Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-09-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://canoejourneys.co.nz/",
+  "email": "info@canoejourneys.co.nz",
+  "address": {
+    "line1": "1230 Takaka-Collingwood Highway",
+    "line2": "RD 2",
+    "suburb": "Onekaka",
+    "city": "Takaka",
+    "postcode": "7182"
+  },
+  "nzbn": "9429043250745",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/canoejourneys",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:56:54Z"
+}

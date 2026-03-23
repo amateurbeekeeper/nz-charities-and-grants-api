@@ -1,0 +1,27 @@
+{
+  "id": 72504,
+  "registrationNumber": "CC58898",
+  "name": "Pegasus Health (Health One) Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pegasus.health.nz",
+  "email": "monica.leadley@pegasus.health.nz",
+  "address": {
+    "line1": "401 Madras Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429048684194",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T21:29:49Z"
+}

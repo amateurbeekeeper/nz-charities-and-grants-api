@@ -1,0 +1,27 @@
+{
+  "id": 71623,
+  "registrationNumber": "CC58001",
+  "name": "Recovered Living NZ Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://recoveredlivingnz.com/",
+  "email": "gerard@downiestewart.co.nz",
+  "address": {
+    "line1": "107 Harleston Road",
+    "line2": "RD 7",
+    "suburb": "Sefton",
+    "city": "Rangiora",
+    "postcode": "7477"
+  },
+  "nzbn": "9429048470070",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Recovered Living NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T20:02:28Z"
+}

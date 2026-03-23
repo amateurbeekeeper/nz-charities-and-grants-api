@@ -1,0 +1,27 @@
+{
+  "id": 41776,
+  "registrationNumber": "CC24658",
+  "name": "The Skills First Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.skillsfirst.co.nz",
+  "email": "chris@skillsfirst.co.nz",
+  "address": {
+    "line1": "51 Line Road",
+    "line2": " ",
+    "suburb": "Glen Innes",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429043110612",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T20:55:33Z"
+}

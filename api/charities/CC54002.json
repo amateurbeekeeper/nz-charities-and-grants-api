@@ -1,0 +1,27 @@
+{
+  "id": 67696,
+  "registrationNumber": "CC54002",
+  "name": "Hawke's Bay Community Fitness Centre Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-12-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hbcfct.org.nz",
+  "email": "kelly@hbcfct.org.nz",
+  "address": {
+    "line1": "42 Percival Road",
+    "line2": " ",
+    "suburb": "Frimley",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429043296033",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/EITInstituteSportHealth",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T20:32:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43559,
+  "registrationNumber": "CC39542",
+  "name": "Carmel College Parent Teacher Friend Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.carmelschool.nz",
+  "email": "kmitchell@carmel.school.nz",
+  "address": {
+    "line1": "Carmel College Ptfa",
+    "line2": "Carmel College",
+    "suburb": "Shakespear Road",
+    "city": "Milford",
+    "postcode": null
+  },
+  "nzbn": "9429042605966",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T21:48:08Z"
+}

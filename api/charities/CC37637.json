@@ -1,0 +1,27 @@
+{
+  "id": 63367,
+  "registrationNumber": "CC37637",
+  "name": "Greymouth Land Search and Rescue Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "treasurer@greymouthlandsar.org.nz",
+  "address": {
+    "line1": "6 Moonlight Street",
+    "line2": "Ahaura 7871",
+    "suburb": "Cobden",
+    "city": "Ahaura",
+    "postcode": "7871"
+  },
+  "nzbn": "9429043174737",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/greymouth.landsar",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T03:20:09Z"
+}

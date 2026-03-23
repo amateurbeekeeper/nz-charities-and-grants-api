@@ -1,0 +1,27 @@
+{
+  "id": 33432,
+  "registrationNumber": "CC48984",
+  "name": "St Michael's Catholic School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-03-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "eleiyu@gmail.com",
+  "address": {
+    "line1": "St Michael's School",
+    "line2": "6 Beatrice Road",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-29T19:19:08Z"
+}

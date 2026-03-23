@@ -1,0 +1,27 @@
+{
+  "id": 72339,
+  "registrationNumber": "CC58724",
+  "name": "Park St Assembly",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://christianassemblies.org.nz/parkst/",
+  "email": "trevor@lineham.co.nz",
+  "address": {
+    "line1": "19 Park Street",
+    "line2": "Foxton 4814",
+    "suburb": " ",
+    "city": "Foxton",
+    "postcode": "4814"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-23T19:02:06Z"
+}

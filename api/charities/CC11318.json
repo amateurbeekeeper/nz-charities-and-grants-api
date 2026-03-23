@@ -1,0 +1,27 @@
+{
+  "id": 52558,
+  "registrationNumber": "CC11318",
+  "name": "Auckland Choral Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://aucklandchoral.com",
+  "email": "sylviehubbard@gmail.com",
+  "address": {
+    "line1": "Flat 3",
+    "line2": "27 Campbell Road",
+    "suburb": "Royal Oak",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042585411",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com\\aklchoral",
+    "twitter": "www.twitter.com\\aucklandchoral"
+  },
+  "lastUpdated": "2025-06-30T19:31:27Z"
+}

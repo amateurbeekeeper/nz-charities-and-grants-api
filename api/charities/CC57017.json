@@ -1,0 +1,27 @@
+{
+  "id": 70648,
+  "registrationNumber": "CC57017",
+  "name": "The PlaceMakers Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.placemakers.co.nz/online/foundation",
+  "email": "Peter.Shin@placemakers.co.nz",
+  "address": {
+    "line1": "810-816 Great South Road",
+    "line2": " ",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "0000000000000",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T22:30:13Z"
+}

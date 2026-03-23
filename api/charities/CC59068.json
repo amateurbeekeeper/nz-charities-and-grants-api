@@ -1,0 +1,27 @@
+{
+  "id": 72677,
+  "registrationNumber": "CC59068",
+  "name": "Wellington Music Centre Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wellingtonmusiccentre.org.nz",
+  "email": "chair@wellingtonmusiccentre.org.nz",
+  "address": {
+    "line1": "25 Ahuriri Street",
+    "line2": " ",
+    "suburb": "Strathmore Park",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429049243505",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/Wellington.Music.Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T07:06:01Z"
+}

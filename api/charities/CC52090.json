@@ -1,0 +1,27 @@
+{
+  "id": 65830,
+  "registrationNumber": "CC52090",
+  "name": "Whakatu Presbyterian",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whakatupres.co.nz",
+  "email": "admin@whakatupres.co.nz",
+  "address": {
+    "line1": "34 Champion Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/WhakatuPresbyterian",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T00:05:15Z"
+}

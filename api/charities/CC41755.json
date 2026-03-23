@@ -1,0 +1,27 @@
+{
+  "id": 63441,
+  "registrationNumber": "CC41755",
+  "name": "Guild of Woodworkers Wellington Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-08-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gww.org.nz",
+  "email": "Secretary@gww.org.nz",
+  "address": {
+    "line1": "10 Hollies Crescent",
+    "line2": " ",
+    "suburb": "Johnsonville",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429042720034",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:46:54Z"
+}

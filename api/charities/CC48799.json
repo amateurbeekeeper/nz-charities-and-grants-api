@@ -1,0 +1,27 @@
+{
+  "id": 33115,
+  "registrationNumber": "CC48799",
+  "name": "Deaf Sports New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-02-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.deafsports.co.nz",
+  "email": "info@deafsports.co.nz",
+  "address": {
+    "line1": "110B Hillside Road",
+    "line2": null,
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429042675105",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/deafsportsnz",
+    "twitter": "https://twitter.com/deafsportsnz"
+  },
+  "lastUpdated": "2025-10-27T21:21:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 58472,
+  "registrationNumber": "CC28899",
+  "name": "General Practice New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gpnz.org.nz",
+  "email": "Maura.Thompson@gpnz.org.nz",
+  "address": {
+    "line1": "281 Ridge Road",
+    "line2": "RD 3",
+    "suburb": "Lucas Heights",
+    "city": "Albany",
+    "postcode": "0793"
+  },
+  "nzbn": "9429043084180",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": "@GPNZ3"
+  },
+  "lastUpdated": "2025-12-12T03:08:59Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55323,
+  "registrationNumber": "CC26016",
+  "name": "International Student Ministries of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ismnz.org.nz/",
+  "email": "admin@ism.org.nz",
+  "address": {
+    "line1": "67 Rhodes Drive",
+    "line2": " ",
+    "suburb": "Kelvin Grove",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": "9429042964278",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/24941859628/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-09T06:05:39Z"
+}

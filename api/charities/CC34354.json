@@ -1,0 +1,27 @@
+{
+  "id": 44477,
+  "registrationNumber": "CC34354",
+  "name": "New Zealand Sign Language Teachers Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzslta.org.nz",
+  "email": "info@nzslta.org.nz",
+  "address": {
+    "line1": "PO Box 17399",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6147"
+  },
+  "nzbn": "9429042687146",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzslta",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T04:19:48Z"
+}

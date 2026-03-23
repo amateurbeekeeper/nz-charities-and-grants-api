@@ -1,0 +1,27 @@
+{
+  "id": 69427,
+  "registrationNumber": "CC55781",
+  "name": "Moana Harmony",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "melvinleavasa@gmail.com",
+  "address": {
+    "line1": "7 Orville Place",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-01T23:11:47Z"
+}

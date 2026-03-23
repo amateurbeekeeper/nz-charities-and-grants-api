@@ -1,0 +1,27 @@
+{
+  "id": 42385,
+  "registrationNumber": "CC25278",
+  "name": "Neighbourhood Support New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.neighbourhoodsupport.co.nz",
+  "email": "craig@gener8.kiwi",
+  "address": {
+    "line1": "180 Molesworth Street",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042994619",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T23:44:02Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71419,
+  "registrationNumber": "CC57787",
+  "name": "Enrich Church Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-04-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "steve@richmondnewlife.org.nz",
+  "address": {
+    "line1": "5 Lingfield Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:28:25Z"
+}

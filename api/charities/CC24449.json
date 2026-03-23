@@ -1,0 +1,27 @@
+{
+  "id": 42297,
+  "registrationNumber": "CC24449",
+  "name": "Northshore Hospital Auxiliary",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Joangee43@gmail.com",
+  "address": {
+    "line1": "224 Schnapper Rock Road",
+    "line2": " ",
+    "suburb": "Schnapper Rock",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T22:32:09Z"
+}

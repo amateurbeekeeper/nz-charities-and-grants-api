@@ -1,0 +1,27 @@
+{
+  "id": 65848,
+  "registrationNumber": "CC52111",
+  "name": "Presbyterian Parish of Limestone Plains",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rhorrell@outlook.co.nz",
+  "address": {
+    "line1": "246 Limestone Plains Road",
+    "line2": "RD 3",
+    "suburb": "Thornbury",
+    "city": "Otautau",
+    "postcode": "9683"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T01:43:11Z"
+}

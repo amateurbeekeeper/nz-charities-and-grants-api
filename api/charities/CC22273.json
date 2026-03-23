@@ -1,0 +1,27 @@
+{
+  "id": 39362,
+  "registrationNumber": "CC22273",
+  "name": "Friends of Christchurch Art Gallery Te Puna o Waiwhetū Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://christchurchartgallery.org.nz/friends",
+  "email": "friends@christchurchartgallery.org.nz",
+  "address": {
+    "line1": "58 Gloucester Street",
+    "line2": "Boulevard & Montreal Street",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042702948",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/friendsofcag",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-09T21:40:29Z"
+}

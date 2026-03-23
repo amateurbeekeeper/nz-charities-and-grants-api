@@ -1,0 +1,27 @@
+{
+  "id": 56391,
+  "registrationNumber": "CC21802",
+  "name": "Dunedin Community Law Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.communitylawotago.com",
+  "email": "coconnor@dclc.org.nz",
+  "address": {
+    "line1": "169 Princes Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042662358",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:01:53Z"
+}

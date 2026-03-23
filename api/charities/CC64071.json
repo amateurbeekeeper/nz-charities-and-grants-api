@@ -1,0 +1,27 @@
+{
+  "id": 78258,
+  "registrationNumber": "CC64071",
+  "name": "Ruakaka Recreation Centre Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-12-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ruakakarecreationcentre@gmail.com",
+  "address": {
+    "line1": "3 Peter Snell Road",
+    "line2": "Ruakākā 0116",
+    "suburb": " ",
+    "city": "Ruakākā",
+    "postcode": "0116"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ruakakarecreationcentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T00:35:39Z"
+}

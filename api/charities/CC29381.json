@@ -1,0 +1,27 @@
+{
+  "id": 49762,
+  "registrationNumber": "CC29381",
+  "name": "Rangiora Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "carol.wilkinson@fireandemergency.nz",
+  "address": {
+    "line1": "136 Percival Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rangiora",
+    "postcode": "7400"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/rangioravolunteerfirebrigade",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-06T19:20:40Z"
+}

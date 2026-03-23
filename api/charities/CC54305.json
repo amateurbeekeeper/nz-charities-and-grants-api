@@ -1,0 +1,27 @@
+{
+  "id": 67987,
+  "registrationNumber": "CC54305",
+  "name": "Commerce Students' Association Otago Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-01-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://comsa.org.nz",
+  "email": "treasurer@comsa.org.nz",
+  "address": {
+    "line1": "60 Clyde Street",
+    "line2": " ",
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043294541",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/OTAGOCOMSA",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T21:50:35Z"
+}

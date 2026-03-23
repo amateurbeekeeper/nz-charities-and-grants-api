@@ -1,0 +1,27 @@
+{
+  "id": 43692,
+  "registrationNumber": "CC28855",
+  "name": "Weston Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Richard.Cranston@fireandemergency.nz",
+  "address": {
+    "line1": "26 Main Street",
+    "line2": "P O Box 111",
+    "suburb": "Weston",
+    "city": "Oamaru",
+    "postcode": "9401"
+  },
+  "nzbn": "9429050789146",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-22T23:03:57Z"
+}

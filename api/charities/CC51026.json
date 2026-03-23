@@ -1,0 +1,27 @@
+{
+  "id": 34582,
+  "registrationNumber": "CC51026",
+  "name": "Buttons Project",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.buttonsproject.org",
+  "email": "marina@buttonsproject.org",
+  "address": {
+    "line1": "932B Beach Road",
+    "line2": " ",
+    "suburb": "Waiake",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429043256334",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/buttonsproject",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T21:39:02Z"
+}

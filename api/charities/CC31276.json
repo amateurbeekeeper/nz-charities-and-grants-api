@@ -1,0 +1,27 @@
+{
+  "id": 40866,
+  "registrationNumber": "CC31276",
+  "name": "University Union Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kbyars@cookwong.co.nz",
+  "address": {
+    "line1": "56 Leith Street",
+    "line2": "Financial Services Divison",
+    "suburb": " ",
+    "city": "Dunedin",
+    "postcode": "9054"
+  },
+  "nzbn": "9429036548538",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T02:47:57Z"
+}

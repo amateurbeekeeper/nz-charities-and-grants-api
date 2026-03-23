@@ -1,0 +1,27 @@
+{
+  "id": 73273,
+  "registrationNumber": "CC59669",
+  "name": "National Dance Challenge Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nationaldancechallenge.co.nz/",
+  "email": "yvonnesolomon@hotmail.com",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "22 Centorian Drive",
+    "suburb": "Windsor Park",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429049188165",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nationaldancechallenge",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T06:43:50Z"
+}

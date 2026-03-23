@@ -1,0 +1,27 @@
+{
+  "id": 44532,
+  "registrationNumber": "CC35296",
+  "name": "Consumer NZ Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.consumer.org.nz",
+  "email": "andrea.chew@consumer.org.nz",
+  "address": {
+    "line1": "Level 5",
+    "line2": "17 Whitmore Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429000014502",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:28Z"
+}

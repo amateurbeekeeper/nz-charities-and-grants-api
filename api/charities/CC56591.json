@@ -1,0 +1,27 @@
+{
+  "id": 70224,
+  "registrationNumber": "CC56591",
+  "name": "Cure Kids Ventures Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-12-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.curekidsventures.co.nz",
+  "email": "matthew@curekidsventures.co.nz",
+  "address": {
+    "line1": "205 Great South Road",
+    "line2": "96 New North Road",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-01T20:32:56Z"
+}

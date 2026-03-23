@@ -1,0 +1,27 @@
+{
+  "id": 57873,
+  "registrationNumber": "CC35767",
+  "name": "Te Wai Maori Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://waimaori.maori.nz/",
+  "email": "matthew.page@teohukaimoana.nz",
+  "address": {
+    "line1": "7 Waterloo Quay",
+    "line2": " ",
+    "suburb": "Pipitea",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429034928837",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/tewaimaori/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-05T20:52:16Z"
+}

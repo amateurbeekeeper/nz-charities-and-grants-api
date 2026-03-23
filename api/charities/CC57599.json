@@ -1,0 +1,27 @@
+{
+  "id": 71227,
+  "registrationNumber": "CC57599",
+  "name": "The Shed Project Kapiti Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://shedproject.co.nz/",
+  "email": "colin@finman.net.nz",
+  "address": {
+    "line1": "20 Tongariro Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429047898745",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/shedprojectkapiti/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-12T04:40:53Z"
+}

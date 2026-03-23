@@ -1,0 +1,27 @@
+{
+  "id": 63536,
+  "registrationNumber": "CC41329",
+  "name": "To'utupu Tonga Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-07-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tonganyouth.org.nz",
+  "email": "iki.pope@tonganyouth.org.nz",
+  "address": {
+    "line1": "31 Jordan Road",
+    "line2": "Onehunga",
+    "suburb": "Māngere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429042950035",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/toutuputongatrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T21:21:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 58623,
+  "registrationNumber": "CC26801",
+  "name": "New Zealand Country Music Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzcma.com",
+  "email": "secretary@nzcma.com",
+  "address": {
+    "line1": "2 Seychelles Drive",
+    "line2": " ",
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": "9429042674948",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZCMA/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-20T23:24:37Z"
+}

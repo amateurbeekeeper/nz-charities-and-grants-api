@@ -1,0 +1,27 @@
+{
+  "id": 52247,
+  "registrationNumber": "CC20097",
+  "name": "New Zealand Business Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-11-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nzba.org",
+  "email": "taz@nzba.org",
+  "address": {
+    "line1": "51 Batty Road",
+    "line2": "RD 4",
+    "suburb": "Kingseat",
+    "city": "Pukekohe",
+    "postcode": "2679"
+  },
+  "nzbn": "9429043171040",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzba.org",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T19:19:09Z"
+}

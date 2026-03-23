@@ -1,0 +1,27 @@
+{
+  "id": 52771,
+  "registrationNumber": "CC20147",
+  "name": "The Audio Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.audiofoundation.org.nz",
+  "email": "jeff@audiofoundation.org.nz",
+  "address": {
+    "line1": "4 Poynton Terrace",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043111336",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Audiofoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T21:05:17Z"
+}

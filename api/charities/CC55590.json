@@ -1,0 +1,27 @@
+{
+  "id": 69235,
+  "registrationNumber": "CC55590",
+  "name": "Dunedin Collaborative Theatre Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.newathenaeumtheatre.com",
+  "email": "generalmanager@newathenaeumtheatre.com",
+  "address": {
+    "line1": "23 The Octagon",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043314737",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://web.facebook.com/NewAthenaeumTheatre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T21:55:45Z"
+}

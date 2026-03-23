@@ -1,0 +1,27 @@
+{
+  "id": 35421,
+  "registrationNumber": "CC49772",
+  "name": "Vikings Swim Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-08-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.vikingsswimclub.co.nz",
+  "email": "treasurer@vikingsswimclub.co.nz",
+  "address": {
+    "line1": "218A Main South Road",
+    "line2": " ",
+    "suburb": "Hornby",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429043247653",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T22:45:19Z"
+}

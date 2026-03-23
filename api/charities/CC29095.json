@@ -1,0 +1,27 @@
+{
+  "id": 46364,
+  "registrationNumber": "CC29095",
+  "name": "Seddon Volunteer Fire Brigade ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jonnyeverett1@yahoo.co.nz",
+  "address": {
+    "line1": "5 Richmond Street",
+    "line2": "Seddon 7210",
+    "suburb": "Seddon",
+    "city": "Seddon",
+    "postcode": "7210"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-18T19:19:02Z"
+}

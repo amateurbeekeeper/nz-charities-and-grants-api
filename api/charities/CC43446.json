@@ -1,0 +1,27 @@
+{
+  "id": 46637,
+  "registrationNumber": "CC43446",
+  "name": "Kapo Maori Aotearoa/New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kapomaori.com",
+  "email": "chrissie.cowan@kapomaori.org.nz",
+  "address": {
+    "line1": "906 Francis Hicks Avenue",
+    "line2": " ",
+    "suburb": "Raureka",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429042690221",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KapoMaoriAotearoaNZ/?ref=bookmarks",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-30T05:43:06Z"
+}

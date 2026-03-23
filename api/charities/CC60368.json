@@ -1,0 +1,27 @@
+{
+  "id": 73961,
+  "registrationNumber": "CC60368",
+  "name": "Eastern Whio Link",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-08-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.easternwhiolink.co.nz/",
+  "email": "sam.rowland@gmail.com",
+  "address": {
+    "line1": "346 Nelson Road",
+    "line2": " ",
+    "suburb": "Riverdale",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429050642892",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/easternwhiolink/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T06:06:00Z"
+}

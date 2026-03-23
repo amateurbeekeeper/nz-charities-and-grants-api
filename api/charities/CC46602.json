@@ -1,0 +1,27 @@
+{
+  "id": 37112,
+  "registrationNumber": "CC46602",
+  "name": "Speld New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.speld.org.nz",
+  "email": "eo@speld.org.nz",
+  "address": {
+    "line1": "14 Erson Avenue",
+    "line2": " ",
+    "suburb": "Royal Oak",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042784777",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "SPELD New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-19T22:49:27Z"
+}

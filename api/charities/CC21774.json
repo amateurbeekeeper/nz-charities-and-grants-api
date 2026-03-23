@@ -1,0 +1,27 @@
+{
+  "id": 52221,
+  "registrationNumber": "CC21774",
+  "name": "Southern Demonstration and Research Farm Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-03-12T00:00:00Z",
+  "dateDeregistered": "2025-03-31T00:00:00Z",
+  "website": "https://www.southerndairyhub.co.nz",
+  "email": "craigm@mdp.co.nz",
+  "address": {
+    "line1": "611 Ryal Bush Wallacetown Road",
+    "line2": "RD 4",
+    "suburb": "Branxholme",
+    "city": "Invercargill",
+    "postcode": "9874"
+  },
+  "nzbn": "9429033630731",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Southern Dairy Hub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-25T07:07:32Z"
+}

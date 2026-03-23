@@ -1,0 +1,27 @@
+{
+  "id": 68326,
+  "registrationNumber": "CC54661",
+  "name": "Church of God's Love New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.churchofgodslove.com",
+  "email": "churchofgodslove4@gmail.com",
+  "address": {
+    "line1": "8 Atkins Way",
+    "line2": " ",
+    "suburb": "Ohauiti",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "20/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/cog7nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T21:10:03Z"
+}

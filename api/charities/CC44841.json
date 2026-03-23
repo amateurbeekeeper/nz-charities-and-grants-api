@@ -1,0 +1,27 @@
+{
+  "id": 35822,
+  "registrationNumber": "CC44841",
+  "name": "Marlborough Principals' Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-08-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mpassoc.co.nz",
+  "email": "president@mpassoc.co.nz",
+  "address": {
+    "line1": "349 Hammerichs Road",
+    "line2": "RD 3",
+    "suburb": "Rapaura",
+    "city": "Blenheim",
+    "postcode": "7273"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-09T19:25:48Z"
+}

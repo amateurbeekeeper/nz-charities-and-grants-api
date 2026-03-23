@@ -1,0 +1,27 @@
+{
+  "id": 40844,
+  "registrationNumber": "CC25303",
+  "name": "Community Networks Aotearoa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://communitynetworksaotearoa.org.nz/",
+  "email": "eo@communitynetworksaotearoa.org.nz",
+  "address": {
+    "line1": "Level 3",
+    "line2": "2 Woodward Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042674887",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Community-Networks-Aotearoa-148340588547487/",
+    "twitter": "https://twitter.com/CommunityOrgs"
+  },
+  "lastUpdated": "2026-03-18T01:27:23Z"
+}

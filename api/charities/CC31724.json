@@ -1,0 +1,27 @@
+{
+  "id": 43175,
+  "registrationNumber": "CC31724",
+  "name": "Auckland Community Law Centre ",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aclc.org.nz",
+  "email": "david@aclc.org.nz",
+  "address": {
+    "line1": "16-22 Anzac Avenue",
+    "line2": " ",
+    "suburb": "Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043031702",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T18:40:19Z"
+}

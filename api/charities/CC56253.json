@@ -1,0 +1,27 @@
+{
+  "id": 69902,
+  "registrationNumber": "CC56253",
+  "name": "Ki Te Tihi / The Loft Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-10-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.theloftchristchurch.org.nz",
+  "email": "manager@theloftchristchurch.org.nz",
+  "address": {
+    "line1": "20 Buckleys Road",
+    "line2": " ",
+    "suburb": "Linwood",
+    "city": "Christchurch",
+    "postcode": "8062"
+  },
+  "nzbn": "9429047025639",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheLoftChristchurch/?ref=bookmarks",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T18:20:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55172,
+  "registrationNumber": "CC24560",
+  "name": "Bike Wanaka Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bikewanaka.org.nz",
+  "email": "treasurer@bikewanaka.org.nz",
+  "address": {
+    "line1": "248 Beacon Point Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429043078189",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/bikewanaka/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T23:44:49Z"
+}

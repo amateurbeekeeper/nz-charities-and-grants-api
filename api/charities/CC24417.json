@@ -1,0 +1,27 @@
+{
+  "id": 39461,
+  "registrationNumber": "CC24417",
+  "name": "Family Help Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.familyhelptrust.org.nz",
+  "email": "jeanette@familyhelptrust.org.nz",
+  "address": {
+    "line1": "Unit 5",
+    "line2": "31 Carlyle Street",
+    "suburb": "Sydenham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429042624424",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-08T19:35:47Z"
+}

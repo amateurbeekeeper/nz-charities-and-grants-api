@@ -1,0 +1,27 @@
+{
+  "id": 65770,
+  "registrationNumber": "CC52018",
+  "name": "Te Rau Aroha Te Kohanga Reo Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "heath@cgca.co.nz",
+  "address": {
+    "line1": "49 Rata Street",
+    "line2": "Matamata 3400",
+    "suburb": " ",
+    "city": "Matamata",
+    "postcode": "3400"
+  },
+  "nzbn": "9429042846956",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T19:56:10Z"
+}

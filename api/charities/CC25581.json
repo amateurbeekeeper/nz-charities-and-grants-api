@@ -1,0 +1,27 @@
+{
+  "id": 56595,
+  "registrationNumber": "CC25581",
+  "name": "Workbase Education Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-09T00:00:00Z",
+  "dateDeregistered": "2016-04-18T00:00:00Z",
+  "website": "http://www.workbase.org.nz",
+  "email": "dmoore@workbase.org.nz",
+  "address": {
+    "line1": "LEVEL 1",
+    "line2": "2 Vermont Street",
+    "suburb": "Ponsonby",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": "9429042922711",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:27:09Z"
+}

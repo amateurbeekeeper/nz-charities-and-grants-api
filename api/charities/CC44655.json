@@ -1,0 +1,27 @@
+{
+  "id": 35545,
+  "registrationNumber": "CC44655",
+  "name": "Waitaki Valley Health Ltd",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "clinton.miller@findex.co.nz",
+  "address": {
+    "line1": "1 Coquet Street",
+    "line2": "Oamaru 9400",
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": "9429035104926",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T20:33:57Z"
+}

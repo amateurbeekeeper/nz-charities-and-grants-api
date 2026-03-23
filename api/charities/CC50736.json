@@ -1,0 +1,27 @@
+{
+  "id": 34481,
+  "registrationNumber": "CC50736",
+  "name": "ACK North Shore Congregation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.acknorthshore.co.nz",
+  "email": "tinasmit@outlook.co.nz",
+  "address": {
+    "line1": "East Coast Bay Leisure Centre",
+    "line2": "12 Bute Road",
+    "suburb": "Browns Bay",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429043247462",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/acknorthshore",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-11T19:46:14Z"
+}

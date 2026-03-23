@@ -1,0 +1,27 @@
+{
+  "id": 60888,
+  "registrationNumber": "CC33012",
+  "name": "Hillcrest Chapel Creche",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2017-08-30T00:00:00Z",
+  "website": null,
+  "email": null,
+  "address": {
+    "line1": "Cnr Morris Road And Masters Avenue",
+    "line2": "Hillcrest",
+    "suburb": null,
+    "city": "Hamilton",
+    "postcode": "3247"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T02:14:13Z"
+}

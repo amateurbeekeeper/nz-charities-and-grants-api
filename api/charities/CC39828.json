@@ -1,0 +1,27 @@
+{
+  "id": 64240,
+  "registrationNumber": "CC39828",
+  "name": "Airedale Property Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sarahm@apt.org.nz",
+  "address": {
+    "line1": "Floor 2",
+    "line2": "124 Vincent Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043094943",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T18:19:48Z"
+}

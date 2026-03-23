@@ -1,0 +1,27 @@
+{
+  "id": 50785,
+  "registrationNumber": "CC42260",
+  "name": "W.A.G. Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-09-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cornerstonechurch.nz",
+  "email": "admin@cornerstonechurch.nz",
+  "address": {
+    "line1": "53 Queen Street",
+    "line2": "Waiuku 2123",
+    "suburb": " ",
+    "city": "Waiuku",
+    "postcode": "2123"
+  },
+  "nzbn": "9429043224760",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cornerstonewaiuku/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T09:35:05Z"
+}

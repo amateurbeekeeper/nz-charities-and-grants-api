@@ -1,0 +1,27 @@
+{
+  "id": 73496,
+  "registrationNumber": "CC59883",
+  "name": "Tautai o le Moana Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tolm.co.nz",
+  "email": "helenv@tolm.co.nz",
+  "address": {
+    "line1": "41 Station Road",
+    "line2": " ",
+    "suburb": "Otahuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429049941401",
+  "financialYearEnd": "1/7",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61555881046711",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T01:31:18Z"
+}

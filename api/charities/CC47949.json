@@ -1,0 +1,27 @@
+{
+  "id": 37660,
+  "registrationNumber": "CC47949",
+  "name": "Oamaru House Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tony@wfs.co.nz",
+  "address": {
+    "line1": "95 Hanover Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043026838",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-13T00:48:35Z"
+}

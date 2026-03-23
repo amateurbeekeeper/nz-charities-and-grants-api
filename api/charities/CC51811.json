@@ -1,0 +1,27 @@
+{
+  "id": 65566,
+  "registrationNumber": "CC51811",
+  "name": "St Andrews Presbyterian Church Geraldine",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.standrewsgld.org.nz",
+  "email": "gjandpj@xtra.co.nz",
+  "address": {
+    "line1": "180 Blandswood Road",
+    "line2": " ",
+    "suburb": "Peel Forest",
+    "city": "Mount Peel",
+    "postcode": "7992"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T19:58:15Z"
+}

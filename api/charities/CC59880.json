@@ -1,0 +1,27 @@
+{
+  "id": 73323,
+  "registrationNumber": "CC59880",
+  "name": "New Zealand for UNHCR",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-02-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://unrefugees.org.nz",
+  "email": "alow@unrefugees.org.au",
+  "address": {
+    "line1": "Level 12, 23-29 Albert Street, Auckland",
+    "line2": " ",
+    "suburb": "Auckland CBD",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429050294954",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Aotearoa NZ for UNHCR",
+    "twitter": "@nzforunhcr"
+  },
+  "lastUpdated": "2025-10-02T09:10:36Z"
+}

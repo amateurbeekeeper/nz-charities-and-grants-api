@@ -1,0 +1,27 @@
+{
+  "id": 52800,
+  "registrationNumber": "CC20100",
+  "name": "Citizens Advice Bureau Te Awamutu Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-11-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cab.org.nz",
+  "email": "coordinator.teawamutu@cab.org.nz",
+  "address": {
+    "line1": "Ray White Arcade",
+    "line2": "2/213 Alexandra Street",
+    "suburb": " ",
+    "city": "Te Awamutu",
+    "postcode": "3800"
+  },
+  "nzbn": "9429042864356",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CABTeAwamutu/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T00:11:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39531,
+  "registrationNumber": "CC36290",
+  "name": "The Christian Outreach Centre New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.inc.org.nz",
+  "email": "gemma.stevens@inc.org.nz",
+  "address": {
+    "line1": "9 Manuka Street",
+    "line2": " ",
+    "suburb": "Tauhara",
+    "city": "Taupo",
+    "postcode": "3378"
+  },
+  "nzbn": "9429042871422",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-26T22:05:51Z"
+}

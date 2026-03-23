@@ -1,0 +1,27 @@
+{
+  "id": 63970,
+  "registrationNumber": "CC43955",
+  "name": "Kumeu Arts Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kumeuartscentre.co.nz/",
+  "email": "kumeuarts@gmail.com",
+  "address": {
+    "line1": "300 Main Road",
+    "line2": " ",
+    "suburb": "Huapai",
+    "city": "Kumeu",
+    "postcode": "0810"
+  },
+  "nzbn": "9429043019434",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KumeuArtsCentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T00:12:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 50938,
+  "registrationNumber": "CC42530",
+  "name": "Gore and Districts Community Counselling Centre",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://gorecounsellingcentre.com",
+  "email": "manager@gorecounsellingcentre.com",
+  "address": {
+    "line1": "13 Traford Street",
+    "line2": "Gore 9710",
+    "suburb": " ",
+    "city": "Gore",
+    "postcode": "9710"
+  },
+  "nzbn": "9429052114038",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T22:32:23Z"
+}

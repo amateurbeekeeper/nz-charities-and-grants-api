@@ -1,0 +1,27 @@
+{
+  "id": 75950,
+  "registrationNumber": "CC62405",
+  "name": "Coming Home",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cominghome.thames@gmail.com",
+  "address": {
+    "line1": "28 Puriri Valley Road",
+    "line2": "RD 1",
+    "suburb": "Puriri",
+    "city": "Thames",
+    "postcode": "3578"
+  },
+  "nzbn": "9425052184413",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T23:43:48Z"
+}

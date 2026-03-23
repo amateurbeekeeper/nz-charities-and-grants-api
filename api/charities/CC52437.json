@@ -1,0 +1,27 @@
+{
+  "id": 66170,
+  "registrationNumber": "CC52437",
+  "name": "Whitehorse MTB Riders Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-10-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul@spectrumcolour.co.nz",
+  "address": {
+    "line1": "992 Waimate Highway",
+    "line2": "RD 1",
+    "suburb": "Otaio",
+    "city": "Timaru",
+    "postcode": "7971"
+  },
+  "nzbn": "9429043262915",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Whitehorse-MTB-Riders-2020597934825601/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-06T18:35:42Z"
+}

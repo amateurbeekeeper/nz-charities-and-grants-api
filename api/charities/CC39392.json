@@ -1,0 +1,27 @@
+{
+  "id": 42655,
+  "registrationNumber": "CC39392",
+  "name": "Hawkes Bay Basketball Foundation Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hawks.org.nz",
+  "email": "gm@hawks.org.nz",
+  "address": {
+    "line1": "32 Latham Street",
+    "line2": null,
+    "suburb": "Napier South",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042750444",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HawkesBayHawks/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T21:27:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34415,
+  "registrationNumber": "CC50820",
+  "name": "The Dust Palace Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thedustpalace.co.nz/trust",
+  "email": "eve@thedustpalace.co.nz",
+  "address": {
+    "line1": "134 Main Highway",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429045909016",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://m.facebook.com/TheDustPalaceCommunity/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T18:52:02Z"
+}

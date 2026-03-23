@@ -1,0 +1,27 @@
+{
+  "id": 73282,
+  "registrationNumber": "CC59677",
+  "name": "Security Institute of New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.security-institute.org.nz",
+  "email": "info@security-institute.org.nz",
+  "address": {
+    "line1": "25A Short Street",
+    "line2": " ",
+    "suburb": "Otumoetai",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The Security Instituite of New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T21:56:52Z"
+}

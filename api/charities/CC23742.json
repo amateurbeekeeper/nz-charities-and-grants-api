@@ -1,0 +1,27 @@
+{
+  "id": 40449,
+  "registrationNumber": "CC23742",
+  "name": "Northpoint Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.northpoint.org.nz",
+  "email": "finance@northpoint.org.nz",
+  "address": {
+    "line1": "116 Mangati Road",
+    "line2": " ",
+    "suburb": "Bell Block",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429048063463",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Northpoint Baptist Church - NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-18T19:18:42Z"
+}

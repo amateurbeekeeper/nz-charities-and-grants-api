@@ -1,0 +1,27 @@
+{
+  "id": 34590,
+  "registrationNumber": "CC51192",
+  "name": "Living Wisdom Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-12-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://livingwisdomfoundation.org",
+  "email": "jonathan@livingwisdomfoundation.org",
+  "address": {
+    "line1": "18 Mahakirau Road",
+    "line2": " ",
+    "suburb": "RD 1",
+    "city": "Coromandel",
+    "postcode": "3581"
+  },
+  "nzbn": "9429042939313",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/livingwisdomfoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-27T23:21:37Z"
+}

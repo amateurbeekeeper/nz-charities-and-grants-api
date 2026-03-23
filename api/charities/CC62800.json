@@ -1,0 +1,27 @@
+{
+  "id": 76586,
+  "registrationNumber": "CC62800",
+  "name": "Te Papa Mau ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-10-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Vilisetema@gmail.com",
+  "address": {
+    "line1": "11B Sturges Road",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T11:23:40Z"
+}

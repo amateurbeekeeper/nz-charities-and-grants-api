@@ -1,0 +1,27 @@
+{
+  "id": 34823,
+  "registrationNumber": "CC51276",
+  "name": "Pataka Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2025-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://patakafoundation.org.nz",
+  "email": "ana.sciascia@poriruacity.govt.nz",
+  "address": {
+    "line1": "17 Parumoana Street",
+    "line2": " ",
+    "suburb": "Porirua City Centre",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T18:17:09Z"
+}

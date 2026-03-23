@@ -1,0 +1,27 @@
+{
+  "id": 54498,
+  "registrationNumber": "CC22190",
+  "name": "Auckland Maon Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "danny.gelb@mediate.co.nz",
+  "address": {
+    "line1": "379F Linwood Road",
+    "line2": "RD 1",
+    "suburb": "Karaka",
+    "city": "Papakura",
+    "postcode": "2580"
+  },
+  "nzbn": "9429042588597",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T19:19:10Z"
+}

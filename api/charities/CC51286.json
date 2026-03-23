@@ -1,0 +1,27 @@
+{
+  "id": 34829,
+  "registrationNumber": "CC51286",
+  "name": "Akaroa Community Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-12-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.akaroahealth.co.nz",
+  "email": "office@leech.co.nz",
+  "address": {
+    "line1": "C/- Leech & Partners Ltd",
+    "line2": "Level 2, 680 Colombo Street",
+    "suburb": " Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043287826",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T22:12:02Z"
+}

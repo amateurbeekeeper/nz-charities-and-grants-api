@@ -1,0 +1,27 @@
+{
+  "id": 50008,
+  "registrationNumber": "CC30236",
+  "name": "Maungawhau Playcentre ",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-06-30T00:00:00Z",
+  "website": "www.playcentre.org.nz",
+  "email": "larissamcneill@hotmail.com",
+  "address": {
+    "line1": "30 Marsden Avenue",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Maungawhau Playcentre - Mt Eden",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-27T07:08:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63830,
+  "registrationNumber": "CC38820",
+  "name": "Friends of Lake Hayes Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-03-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.savelakehayes.org.nz/",
+  "email": "bowmanz@actrix.co.nz",
+  "address": {
+    "line1": "75 Arrowtown-Lake Hayes Road",
+    "line2": "RD 1",
+    "suburb": "Lake Hayes",
+    "city": "Queenstown",
+    "postcode": "9371"
+  },
+  "nzbn": "9429043090464",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FriendsofLakeHayes/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T02:47:59Z"
+}

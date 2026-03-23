@@ -1,0 +1,27 @@
+{
+  "id": 58106,
+  "registrationNumber": "CC37088",
+  "name": "Sherenden Bus Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "amanda_reido@hotmail.com",
+  "address": {
+    "line1": "484 Flag Range Road",
+    "line2": "RD 9",
+    "suburb": "Sherenden",
+    "city": "Hastings",
+    "postcode": "4179"
+  },
+  "nzbn": "9429042745310",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:40:18Z"
+}

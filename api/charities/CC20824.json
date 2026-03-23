@@ -1,0 +1,27 @@
+{
+  "id": 53831,
+  "registrationNumber": "CC20824",
+  "name": "Adult Learning Support Nelson Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-01-30T00:00:00Z",
+  "dateDeregistered": "2019-03-06T00:00:00Z",
+  "website": "http://www.adultlearning.co.nz",
+  "email": "accounts@adultlearning.co.nz",
+  "address": {
+    "line1": "43 Montgomery Sq",
+    "line2": null,
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": null
+  },
+  "nzbn": "9429042577522",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "facebook.com/adultlearningsupport/",
+    "twitter": null
+  },
+  "lastUpdated": "2019-03-24T19:13:37Z"
+}

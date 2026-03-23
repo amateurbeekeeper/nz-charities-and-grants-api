@@ -1,0 +1,27 @@
+{
+  "id": 72268,
+  "registrationNumber": "CC58651",
+  "name": "Save Fine Arts Library Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-01-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.samoahouselibrary.org",
+  "email": "director@samoahouselibrary.org",
+  "address": {
+    "line1": "Level 2, Samoa House Building",
+    "line2": "283 Karangahape Road",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429049178531",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/samoahouselibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T19:05:05Z"
+}

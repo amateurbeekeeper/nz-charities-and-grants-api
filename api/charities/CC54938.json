@@ -1,0 +1,27 @@
+{
+  "id": 68600,
+  "registrationNumber": "CC54938",
+  "name": "Wanaka Yacht Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-11-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wanakayachtclub.co.nz",
+  "email": "treasurer@wanakayachtclub.co.nz",
+  "address": {
+    "line1": "100 Lakeside Road",
+    "line2": "Wanaka 9305",
+    "suburb": " ",
+    "city": "Wanaka",
+    "postcode": "9305"
+  },
+  "nzbn": "9429042915423",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/WanakaYachtClub/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T20:50:30Z"
+}

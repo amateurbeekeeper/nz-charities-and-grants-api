@@ -1,0 +1,27 @@
+{
+  "id": 57198,
+  "registrationNumber": "CC25041",
+  "name": "Northable Matapuna Hauora",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.northable.org.nz",
+  "email": "janette.searle@northable.org.nz",
+  "address": {
+    "line1": "40 John Street",
+    "line2": "Whangarei 0110",
+    "suburb": "Whangārei",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429042695738",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-04T03:03:29Z"
+}

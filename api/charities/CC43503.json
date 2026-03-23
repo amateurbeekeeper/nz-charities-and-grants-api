@@ -1,0 +1,27 @@
+{
+  "id": 46904,
+  "registrationNumber": "CC43503",
+  "name": "Soul Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-01-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "david@phatkat.co.nz",
+  "address": {
+    "line1": "39B Chivalry Road",
+    "line2": " ",
+    "suburb": "Glenfield",
+    "city": "Auckland",
+    "postcode": "0629"
+  },
+  "nzbn": "9429042596561",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-07T20:02:48Z"
+}

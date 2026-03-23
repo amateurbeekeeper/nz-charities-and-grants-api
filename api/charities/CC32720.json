@@ -1,0 +1,27 @@
+{
+  "id": 42071,
+  "registrationNumber": "CC32720",
+  "name": "Nicol's Blacksmith Historic Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.blacksmith.net.nz",
+  "email": "jan@keelingdairies.co.nz",
+  "address": {
+    "line1": "3635 Kurow-Duntroon Road",
+    "line2": "RD 5K",
+    "suburb": "Duntroon",
+    "city": "Oamaru",
+    "postcode": "9494"
+  },
+  "nzbn": "9429043168392",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Nicols Blacksmith",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:33:19Z"
+}

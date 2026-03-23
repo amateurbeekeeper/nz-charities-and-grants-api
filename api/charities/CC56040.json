@@ -1,0 +1,27 @@
+{
+  "id": 69687,
+  "registrationNumber": "CC56040",
+  "name": "Adele Senior Living Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "finance@rndm.org.nz",
+  "address": {
+    "line1": "PO Box 3035",
+    "line2": " ",
+    "suburb": "Fitzroy",
+    "city": "New Plymouth",
+    "postcode": "4341"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:06Z"
+}

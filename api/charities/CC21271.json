@@ -1,0 +1,27 @@
+{
+  "id": 54444,
+  "registrationNumber": "CC21271",
+  "name": "Kingdom Solutions Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kingdomsolutions.org.nz",
+  "email": "office@kingdomsolutions.org.nz",
+  "address": {
+    "line1": "11 North Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kaitaia",
+    "postcode": "0410"
+  },
+  "nzbn": "9429042649618",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-11T19:39:44Z"
+}

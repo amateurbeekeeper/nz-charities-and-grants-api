@@ -1,0 +1,27 @@
+{
+  "id": 61606,
+  "registrationNumber": "CC34346",
+  "name": "Childrens Issues Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.otago.ac.nz/cic/",
+  "email": "nicola.taylor@otago.ac.nz",
+  "address": {
+    "line1": "23 Entrican Avenue",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429042615521",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T01:15:21Z"
+}

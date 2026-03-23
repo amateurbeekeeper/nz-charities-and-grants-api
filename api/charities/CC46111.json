@@ -1,0 +1,27 @@
+{
+  "id": 38782,
+  "registrationNumber": "CC46111",
+  "name": "Mountain Green Archery Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-02-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://mgac.org.nz",
+  "email": "kelly@mgac.org.nz",
+  "address": {
+    "line1": "Summit Drive",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429042751458",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mountain.green.archery/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T17:32:50Z"
+}

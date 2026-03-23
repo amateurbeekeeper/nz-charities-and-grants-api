@@ -1,0 +1,27 @@
+{
+  "id": 33380,
+  "registrationNumber": "CC48925",
+  "name": "Society of St Vincent de Paul in New Zealand - West Coast Area Council",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-03-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.svdp.org.nz",
+  "email": "charities@svdp.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "LG Building",
+    "suburb": "35 Victoria Street",
+    "city": "Wellington",
+    "postcode": "6000"
+  },
+  "nzbn": "9429042740995",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T22:23:39Z"
+}

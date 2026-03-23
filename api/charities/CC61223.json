@@ -1,0 +1,27 @@
+{
+  "id": 74808,
+  "registrationNumber": "CC61223",
+  "name": "St Bede's College Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stbedes.school.nz",
+  "email": "skelsen@stbedes.school.nz",
+  "address": {
+    "line1": "210 Main North Road",
+    "line2": " ",
+    "suburb": "Redwood",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429051303242",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-18T22:24:44Z"
+}

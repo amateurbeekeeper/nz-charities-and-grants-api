@@ -1,0 +1,27 @@
+{
+  "id": 57550,
+  "registrationNumber": "CC43476",
+  "name": "Pukekohe Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pukekohegolf.co.nz",
+  "email": "manager@pukekohegolf.co.nz",
+  "address": {
+    "line1": "654 Karaka Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2580"
+  },
+  "nzbn": "9429042809432",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "pukekohegolf.co.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T23:09:01Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53490,
+  "registrationNumber": "CC20307",
+  "name": "The Russell Community Medical Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rcmtnz.com/",
+  "email": "Macintosh.trish@gmail.com",
+  "address": {
+    "line1": "35B Te Akau Drive",
+    "line2": "Russell 0272",
+    "suburb": "Okiato",
+    "city": "Russell",
+    "postcode": "0272"
+  },
+  "nzbn": "9429043169290",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T04:37:35Z"
+}

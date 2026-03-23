@@ -1,0 +1,27 @@
+{
+  "id": 69642,
+  "registrationNumber": "CC55986",
+  "name": "Te Whanau O Awataha Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.awataha.co.nz",
+  "email": "maria@awataha.co.nz",
+  "address": {
+    "line1": "58 Akoranga Drive",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429046163554",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "tekorekore.com",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T02:06:06Z"
+}

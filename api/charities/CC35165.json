@@ -1,0 +1,27 @@
+{
+  "id": 49126,
+  "registrationNumber": "CC35165",
+  "name": "Pinehurst School Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pinehurst.school.nz",
+  "email": "board@pinehurst.school.nz",
+  "address": {
+    "line1": "75 Bush Road",
+    "line2": " ",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "632"
+  },
+  "nzbn": "9429042806738",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73458,
+  "registrationNumber": "CC59980",
+  "name": "Bellies Not Bins Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.everybodyeats.nz",
+  "email": "amy@everybodyeats.nz",
+  "address": {
+    "line1": "306 Onehunga Mall",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/everybodyeatsnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T05:20:44Z"
+}

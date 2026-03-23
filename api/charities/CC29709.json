@@ -1,0 +1,27 @@
+{
+  "id": 40323,
+  "registrationNumber": "CC29709",
+  "name": "Victory Baptist Church of Ashburton",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.vbcofashburton-nz.org",
+  "email": "pastor@victorybaptistchurch.co.nz",
+  "address": {
+    "line1": "18 Coniston Drive",
+    "line2": " ",
+    "suburb": "Allenton",
+    "city": "Ashburton",
+    "postcode": "7700"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/Victory-Baptist-Church-Ashburton-New-Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T05:46:42Z"
+}

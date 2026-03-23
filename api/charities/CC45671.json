@@ -1,0 +1,27 @@
+{
+  "id": 35690,
+  "registrationNumber": "CC45671",
+  "name": "Shirdi Saibaba Temple of NZ Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-11-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.saibabatemple.org.nz",
+  "email": "ravi.chittajallu@xtra.co.nz",
+  "address": {
+    "line1": "41 Stanhope Road",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429043206186",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/shirdisaibaba.templenz?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T01:12:12Z"
+}

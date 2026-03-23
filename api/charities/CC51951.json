@@ -1,0 +1,27 @@
+{
+  "id": 65701,
+  "registrationNumber": "CC51951",
+  "name": "Alpine Presbytery",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.alpinepresbytery.org",
+  "email": "treasurer@alpinepresbytery.org",
+  "address": {
+    "line1": "2 MacMillan Avenue",
+    "line2": " ",
+    "suburb": "Cashmere",
+    "city": "Christchurch",
+    "postcode": "8022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T01:05:51Z"
+}

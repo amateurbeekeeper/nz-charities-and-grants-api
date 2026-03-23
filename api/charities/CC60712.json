@@ -1,0 +1,27 @@
+{
+  "id": 74302,
+  "registrationNumber": "CC60712",
+  "name": "WAYCHURCH TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "waychurch.nz",
+  "email": "jeremy@waychurch.nz",
+  "address": {
+    "line1": "5 Sylvia Road",
+    "line2": " ",
+    "suburb": "St Heliers",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429050901562",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T02:05:47Z"
+}

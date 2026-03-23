@@ -1,0 +1,27 @@
+{
+  "id": 73221,
+  "registrationNumber": "CC59621",
+  "name": "Vamos Community Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@vivadance.co.nz",
+  "address": {
+    "line1": "10 Newton Road",
+    "line2": " ",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429049957907",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T21:14:19Z"
+}

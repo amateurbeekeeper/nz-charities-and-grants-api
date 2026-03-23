@@ -1,0 +1,27 @@
+{
+  "id": 34975,
+  "registrationNumber": "CC50473",
+  "name": "Auckland University Rugby Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-05-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aurfc.co.nz",
+  "email": "david.sisam@webbhenderson.com",
+  "address": {
+    "line1": "85 Merton Rd",
+    "line2": " ",
+    "suburb": "Glen Innes",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429042590996",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T04:42:39Z"
+}

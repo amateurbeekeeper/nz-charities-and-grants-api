@@ -1,0 +1,27 @@
+{
+  "id": 39369,
+  "registrationNumber": "CC24152",
+  "name": "Anglican Family Care Centre Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.AnglicanFamilyCare.org.nz",
+  "email": "GeneralManager@FamilyCare.org.nz",
+  "address": {
+    "line1": "266 Hanover Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042575139",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-05T02:10:30Z"
+}

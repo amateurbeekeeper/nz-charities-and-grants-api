@@ -1,0 +1,27 @@
+{
+  "id": 36506,
+  "registrationNumber": "CC46903",
+  "name": "The Warehouse Group Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-06-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "joanne.ward@thewarehouse.co.nz",
+  "address": {
+    "line1": "26 The Warehouse Way",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "627"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T05:47:42Z"
+}

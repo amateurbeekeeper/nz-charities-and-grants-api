@@ -1,0 +1,27 @@
+{
+  "id": 36690,
+  "registrationNumber": "CC49177",
+  "name": "Tairawhiti Technology Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-03-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.taitech.nz",
+  "email": "taitech.research@gmail.com",
+  "address": {
+    "line1": "Kaiti Hub",
+    "line2": "502 Wainui Road",
+    "suburb": "Kaiti",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429043324873",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TairawhitiTechnologyTrust/?ref=aymt_homepage_panel",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-19T20:38:49Z"
+}

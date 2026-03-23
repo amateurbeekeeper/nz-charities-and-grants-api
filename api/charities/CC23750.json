@@ -1,0 +1,27 @@
+{
+  "id": 40404,
+  "registrationNumber": "CC23750",
+  "name": "Carlson Toy Library Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.carlsontoylibrary.co.nz",
+  "email": "christiemcfadyen@gmail.com",
+  "address": {
+    "line1": "261 St Andrews Road",
+    "line2": " ",
+    "suburb": "Three Kings",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042605874",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Carlson-Toy-Library-140427109342632/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T02:44:29Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66737,
+  "registrationNumber": "CC53012",
+  "name": "Friends of St Teresa's (School)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-03-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fost@stteresas.ac.nz",
+  "address": {
+    "line1": "299 Karori Road",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-30T07:46:59Z"
+}

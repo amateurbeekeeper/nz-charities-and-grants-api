@@ -1,0 +1,27 @@
+{
+  "id": 70670,
+  "registrationNumber": "CC57040",
+  "name": "Dunedin Jazz Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-07-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://dunedinjazz.club",
+  "email": "director@djf.org.nz",
+  "address": {
+    "line1": "11 Garden Place",
+    "line2": " ",
+    "suburb": "Glenleith",
+    "city": "Dunedin",
+    "postcode": "9010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dunedinjazzclub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:22:13Z"
+}

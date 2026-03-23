@@ -1,0 +1,27 @@
+{
+  "id": 70457,
+  "registrationNumber": "CC56823",
+  "name": "Embracing Hearts Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-04-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.embracinghearts.nz",
+  "email": "jim@jimmeates.co.nz",
+  "address": {
+    "line1": "Level 5, Chamber of Commerce House",
+    "line2": " 15 Daly St",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429047351998",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@weareembracinghearts",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T00:05:24Z"
+}

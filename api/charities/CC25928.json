@@ -1,0 +1,27 @@
+{
+  "id": 54486,
+  "registrationNumber": "CC25928",
+  "name": "New Zealand International Science Festival Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.scifest.org.nz",
+  "email": "director@scifest.org.nz",
+  "address": {
+    "line1": "19 George Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429043031825",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzscifest",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T00:32:24Z"
+}

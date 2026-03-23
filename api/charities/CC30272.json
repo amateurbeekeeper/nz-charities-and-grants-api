@@ -1,0 +1,27 @@
+{
+  "id": 48254,
+  "registrationNumber": "CC30272",
+  "name": "Food For Thought Educational Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.foodforthought.co.nz",
+  "email": "sandy.botterill@foodstuffs.co.nz",
+  "address": {
+    "line1": "35 Landing Drive",
+    "line2": " ",
+    "suburb": "Mangere",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": "9429043186273",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/foodforthoughtnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T23:39:23Z"
+}

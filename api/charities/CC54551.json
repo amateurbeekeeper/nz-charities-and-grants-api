@@ -1,0 +1,27 @@
+{
+  "id": 68225,
+  "registrationNumber": "CC54551",
+  "name": "Taiharuru Marae Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-07-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "taiharurumarae@gmail.com",
+  "address": {
+    "line1": "8 Ohau Crescent",
+    "line2": " ",
+    "suburb": "Tikipunga",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429043029723",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/taiharurumaraeinc/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T23:20:01Z"
+}

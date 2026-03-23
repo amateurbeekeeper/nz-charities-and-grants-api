@@ -1,0 +1,27 @@
+{
+  "id": 52747,
+  "registrationNumber": "CC11053",
+  "name": "Promise Keepers Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.promisekeepers.nz",
+  "email": "candice@promisekeepers.org.nz",
+  "address": {
+    "line1": "PO Box 163083",
+    "line2": "Lynfield",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1443"
+  },
+  "nzbn": "9429042810292",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Promise.Keepers.NZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T23:25:59Z"
+}

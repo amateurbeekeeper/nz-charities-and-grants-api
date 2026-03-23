@@ -1,0 +1,27 @@
+{
+  "id": 51955,
+  "registrationNumber": "CC11023",
+  "name": "Happiness House Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.happinesshouse.org.nz",
+  "email": "manager@happinesshouse.org.nz",
+  "address": {
+    "line1": "4 Park Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429042964421",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HappinessHouseQueenstown",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T18:12:49Z"
+}

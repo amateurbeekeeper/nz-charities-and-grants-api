@@ -1,0 +1,27 @@
+{
+  "id": 78535,
+  "registrationNumber": "CC64346",
+  "name": "Alhambra-Union Rugby Football Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://aurugby.nz",
+  "email": "geoff@simons.co.nz",
+  "address": {
+    "line1": "541 Great King Street",
+    "line2": null,
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T20:36:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 32828,
+  "registrationNumber": "CC48371",
+  "name": "Emmanuels Mission Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fmbc.co.nz",
+  "email": "geoff@couchmanalarms.co.nz",
+  "address": {
+    "line1": "125 Manchester Street",
+    "line2": "Feilding 4702",
+    "suburb": " ",
+    "city": "Feilding",
+    "postcode": "4702"
+  },
+  "nzbn": "9429043316946",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-31T19:32:09Z"
+}

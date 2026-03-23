@@ -1,0 +1,27 @@
+{
+  "id": 66597,
+  "registrationNumber": "CC52866",
+  "name": "DreamCatchers Worldwide",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.dreamcatchersww.com",
+  "email": "support@dreamcatchersww.com",
+  "address": {
+    "line1": "272 New Windsor Road",
+    "line2": " ",
+    "suburb": "New Windsor",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429045803635",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/dreamcatchersworldwide",
+    "twitter": "dreamcatchersnz"
+  },
+  "lastUpdated": "2025-08-23T15:54:33Z"
+}

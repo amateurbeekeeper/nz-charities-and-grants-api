@@ -1,0 +1,27 @@
+{
+  "id": 54927,
+  "registrationNumber": "CC21537",
+  "name": "Aotearoa Clinical Trials Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.aotearoatrials.nz",
+  "email": "finance@aotearoatrials.nz",
+  "address": {
+    "line1": "100 Hospital Road",
+    "line2": "Hospital Road",
+    "suburb": "Middlemore Hospital",
+    "city": "Auckland",
+    "postcode": "2024"
+  },
+  "nzbn": "9429043082278",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/AotearoaClinTrials",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T20:20:21Z"
+}

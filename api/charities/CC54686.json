@@ -1,0 +1,27 @@
+{
+  "id": 68354,
+  "registrationNumber": "CC54686",
+  "name": "Winston Reid Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "phil.warbrick@synergine.com",
+  "address": {
+    "line1": "Unit 105",
+    "line2": "23 Edwin Street",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T06:10:43Z"
+}

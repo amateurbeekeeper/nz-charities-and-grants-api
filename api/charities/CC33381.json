@@ -1,0 +1,27 @@
+{
+  "id": 45790,
+  "registrationNumber": "CC33381",
+  "name": "Cambridge Community Marae Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cambridgemarae.org/",
+  "email": "chair@cambridgemarae.org",
+  "address": {
+    "line1": "3 Bracken Street",
+    "line2": " ",
+    "suburb": "Leamington",
+    "city": "Cambridge",
+    "postcode": "3432"
+  },
+  "nzbn": "9429042601838",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CambridgeMarae/",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2025-12-11T09:17:27Z"
+}

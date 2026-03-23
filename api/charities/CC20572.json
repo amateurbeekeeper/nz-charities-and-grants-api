@@ -1,0 +1,27 @@
+{
+  "id": 51878,
+  "registrationNumber": "CC20572",
+  "name": "Canaan Christian Family Church Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.connectchurchdevonport.co.nz",
+  "email": "gprentice@me.com",
+  "address": {
+    "line1": "90A Victoria Road",
+    "line2": " ",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "624"
+  },
+  "nzbn": "9429042599326",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/connect.church.devonport",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T22:38:33Z"
+}

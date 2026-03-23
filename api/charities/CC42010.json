@@ -1,0 +1,27 @@
+{
+  "id": 48612,
+  "registrationNumber": "CC42010",
+  "name": "Greenhithe Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-17T00:00:00Z",
+  "website": null,
+  "email": "greenhithe@playcentre.org.nz",
+  "address": {
+    "line1": "15A Greenhithe Road",
+    "line2": "Greenhithe Road, Greenhithe",
+    "suburb": "Greenhithe",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-31T06:03:55Z"
+}

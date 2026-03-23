@@ -1,0 +1,27 @@
+{
+  "id": 52223,
+  "registrationNumber": "CC11382",
+  "name": "The Middlemore Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.middlemorefoundation.org.nz",
+  "email": "Debra@middlemorefoundation.org.nz",
+  "address": {
+    "line1": "100 Hospital Road",
+    "line2": "Middlemore Hospital",
+    "suburb": "Middlemore Hospital",
+    "city": "Auckland",
+    "postcode": "2024"
+  },
+  "nzbn": "9429042967286",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T03:50:12Z"
+}

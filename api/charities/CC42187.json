@@ -1,0 +1,27 @@
+{
+  "id": 64839,
+  "registrationNumber": "CC42187",
+  "name": "Pohotiare Hapu Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pohotiarehapu.com/",
+  "email": "honewalsh@gmail.com",
+  "address": {
+    "line1": "Domain Road",
+    "line2": "Waipapakauri",
+    "suburb": " ",
+    "city": "Kaitaia",
+    "postcode": "0486"
+  },
+  "nzbn": "9429042980100",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PohotiareHapu/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:19:12Z"
+}

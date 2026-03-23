@@ -1,0 +1,27 @@
+{
+  "id": 36156,
+  "registrationNumber": "CC45616",
+  "name": "The Humorous Arts Charitable Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-10-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wellingtoncomedy.co.nz",
+  "email": "jerome@humorous.co.nz",
+  "address": {
+    "line1": "261 Naenae Road",
+    "line2": " ",
+    "suburb": "Naenae",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429043195497",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HumorousArts",
+    "twitter": "@humorousarts"
+  },
+  "lastUpdated": "2026-01-30T22:17:18Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41207,
+  "registrationNumber": "CC33576",
+  "name": "Paralympics New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.paralympics.org.nz",
+  "email": "accounts@paralympics.org.nz",
+  "address": {
+    "line1": "7B Antares Place",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429042705512",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-27T21:13:45Z"
+}

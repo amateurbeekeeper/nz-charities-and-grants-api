@@ -1,0 +1,27 @@
+{
+  "id": 46511,
+  "registrationNumber": "CC36013",
+  "name": "The Hamilton RSA Trust Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rsahamilton@xtra.co.nz",
+  "address": {
+    "line1": "47 Commerce Street",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042630357",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T01:15:56Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71676,
+  "registrationNumber": "CC58051",
+  "name": "Auckland Kendo Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://akc.org.nz/",
+  "email": "ken@kendoka.co.nz",
+  "address": {
+    "line1": "2B Malvern Road",
+    "line2": " ",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429043134076",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/akld.kendo",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T08:54:21Z"
+}

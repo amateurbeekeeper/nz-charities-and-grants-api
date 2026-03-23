@@ -1,0 +1,27 @@
+{
+  "id": 63534,
+  "registrationNumber": "CC41263",
+  "name": "Prescha Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2009-02-12T00:00:00Z",
+  "dateDeregistered": "2024-03-31T00:00:00Z",
+  "website": "http://www.prescha.org",
+  "email": "pete@prescha.org",
+  "address": {
+    "line1": "3 Jobe Road",
+    "line2": " ",
+    "suburb": "Chartwell",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/ThePreschaInitiative",
+    "twitter": null
+  },
+  "lastUpdated": "2024-04-05T06:08:13Z"
+}

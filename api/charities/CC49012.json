@@ -1,0 +1,27 @@
+{
+  "id": 33173,
+  "registrationNumber": "CC49012",
+  "name": "Canterbury Community Gardens Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-11-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ccga.org.nz",
+  "email": "sandibobkova@gmail.com",
+  "address": {
+    "line1": "180 Avonside Drive",
+    "line2": " ",
+    "suburb": "Avonside",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429043219827",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/canterburycommunitygardens",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T23:43:46Z"
+}

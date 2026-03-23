@@ -1,0 +1,27 @@
+{
+  "id": 52471,
+  "registrationNumber": "CC20005",
+  "name": "Villa Maria Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2007-11-04T00:00:00Z",
+  "dateDeregistered": "2012-07-26T00:00:00Z",
+  "website": null,
+  "email": "john.egan@xtra.co.nz",
+  "address": {
+    "line1": "635 Awapuni Road",
+    "line2": "RD 1",
+    "suburb": null,
+    "city": "Gisborne",
+    "postcode": "4071"
+  },
+  "nzbn": "9429043081110",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T00:37:05Z"
+}

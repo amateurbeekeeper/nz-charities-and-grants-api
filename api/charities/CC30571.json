@@ -1,0 +1,27 @@
+{
+  "id": 47993,
+  "registrationNumber": "CC30571",
+  "name": "Westport Christian Fellowship",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sandrataylor3@outlook.com",
+  "address": {
+    "line1": "27 Cobden Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Westport",
+    "postcode": "7825"
+  },
+  "nzbn": "9429042979890",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T18:40:29Z"
+}

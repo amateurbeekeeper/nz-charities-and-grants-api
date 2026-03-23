@@ -1,0 +1,27 @@
+{
+  "id": 55854,
+  "registrationNumber": "CC22615",
+  "name": "Dargaville Baptist Community Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dbcc.co.nz",
+  "email": "secretary.dbcc@xtra.co.nz",
+  "address": {
+    "line1": "185 Victoria Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Dargaville",
+    "postcode": "310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Dargaville Baptist Community Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-22T19:50:32Z"
+}

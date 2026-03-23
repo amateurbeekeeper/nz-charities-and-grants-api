@@ -1,0 +1,27 @@
+{
+  "id": 65196,
+  "registrationNumber": "CC51422",
+  "name": "Pacific Youth Leadership and Transformation Council",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pylatcouncil@gmail.com",
+  "address": {
+    "line1": "20 Rutherglen Avenue",
+    "line2": " ",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429043261659",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/PYLATCOUNCIL1/",
+    "twitter": "@pylatcouncil"
+  },
+  "lastUpdated": "2025-09-29T07:11:10Z"
+}

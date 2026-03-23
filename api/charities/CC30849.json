@@ -1,0 +1,27 @@
+{
+  "id": 49018,
+  "registrationNumber": "CC30849",
+  "name": "Dolphin Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dolphintheatre.org.nz",
+  "email": "mike.daley@dolphintheatre.org.nz",
+  "address": {
+    "line1": "DOLPHIN THEATRE",
+    "line2": "12 Spring Street",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042667117",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DolphinTheatreOnehunga/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T00:55:38Z"
+}

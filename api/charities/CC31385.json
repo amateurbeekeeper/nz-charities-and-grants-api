@@ -1,0 +1,27 @@
+{
+  "id": 56575,
+  "registrationNumber": "CC31385",
+  "name": "South Auckland Income Planning Service Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2023-09-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "manager.saips@xtra.co.nz",
+  "address": {
+    "line1": "12 High Street",
+    "line2": " ",
+    "suburb": "Ōtāhuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429042725404",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T22:46:37Z"
+}

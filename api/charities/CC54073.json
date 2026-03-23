@@ -1,0 +1,27 @@
+{
+  "id": 67768,
+  "registrationNumber": "CC54073",
+  "name": "Otago Biodynamic Community",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-11-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "s.hoskin@xtra.co.nz",
+  "address": {
+    "line1": "2 Sentinel Drive",
+    "line2": "RD 2",
+    "suburb": "Lake Hawea",
+    "city": "Wanaka",
+    "postcode": "9382"
+  },
+  "nzbn": "9429043311644",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Biodynamic Community Otago",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-29T02:00:41Z"
+}

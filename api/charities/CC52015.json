@@ -1,0 +1,27 @@
+{
+  "id": 65764,
+  "registrationNumber": "CC52015",
+  "name": "Hawkes Bay Youth Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.giantsboxing.co.nz/",
+  "email": "peter.hensman@shca.co.nz",
+  "address": {
+    "line1": "42 Percival Road",
+    "line2": "Hastings 4122",
+    "suburb": "Frimley",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/HastingsGiants",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T19:27:14Z"
+}

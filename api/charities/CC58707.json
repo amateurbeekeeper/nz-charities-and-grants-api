@@ -1,0 +1,27 @@
+{
+  "id": 72319,
+  "registrationNumber": "CC58707",
+  "name": "Open Doors Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "peter@aotearoahousing.co.nz",
+  "address": {
+    "line1": "13 Malters Place",
+    "line2": " ",
+    "suburb": "Browns Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-10-24T23:18:09Z"
+}

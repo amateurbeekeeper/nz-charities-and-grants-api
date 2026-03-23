@@ -1,0 +1,27 @@
+{
+  "id": 70719,
+  "registrationNumber": "CC57086",
+  "name": "Dementia Canterbury Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dementiacanterbury.org.nz",
+  "email": "officemanager@dementiacanterbury.org.nz",
+  "address": {
+    "line1": "70 Langdons Road",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429047645370",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DementiaCanterburyNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:39:32Z"
+}

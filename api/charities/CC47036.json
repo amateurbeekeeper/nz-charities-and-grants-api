@@ -1,0 +1,27 @@
+{
+  "id": 37424,
+  "registrationNumber": "CC47036",
+  "name": "Taranaki Literacy Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-05-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "taranakiliteracy@nzla.org.nz",
+  "address": {
+    "line1": "116 Carrington Street",
+    "line2": " ",
+    "suburb": "Lower Vogeltown",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Taranaki Literacy Association",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T06:59:45Z"
+}

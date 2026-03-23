@@ -1,0 +1,27 @@
+{
+  "id": 45332,
+  "registrationNumber": "CC29486",
+  "name": "Tuakau Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "m.prestidge@outlook.com",
+  "address": {
+    "line1": "Cnr Hall St @ Hendreson Ave",
+    "line2": " ",
+    "suburb": "Tuakau",
+    "city": "Sth Auckland",
+    "postcode": "2342"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tuakauvolunteerfirebrigade/?ref=bookmarks",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T01:20:01Z"
+}

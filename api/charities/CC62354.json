@@ -1,0 +1,27 @@
+{
+  "id": 75899,
+  "registrationNumber": "CC62354",
+  "name": "Health Network Collective",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2023-12-22T00:00:00Z",
+  "dateDeregistered": "2025-08-22T00:00:00Z",
+  "website": "https://HealthNetworkCollective.com",
+  "email": "Hello@HealthNetworkCollective.com",
+  "address": {
+    "line1": "1266 Egmont Road",
+    "line2": "RD 2",
+    "suburb": "Egmont Village",
+    "city": "New Plymouth",
+    "postcode": "4372"
+  },
+  "nzbn": "9429051803476",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-05T07:11:36Z"
+}

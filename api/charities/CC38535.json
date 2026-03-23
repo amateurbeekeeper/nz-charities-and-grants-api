@@ -1,0 +1,27 @@
+{
+  "id": 48928,
+  "registrationNumber": "CC38535",
+  "name": "The Tauranga Art Gallery Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.artgallery.org.nz",
+  "email": "accounts@artgallery.org.nz",
+  "address": {
+    "line1": "108 Willow Street",
+    "line2": "Tauranga 3110",
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429042943525",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T01:35:14Z"
+}

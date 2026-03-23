@@ -1,0 +1,27 @@
+{
+  "id": 33465,
+  "registrationNumber": "CC49072",
+  "name": "Westlakers Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://community.westlake.school.nz/",
+  "email": "tony@sanda.co.nz",
+  "address": {
+    "line1": "Westlake Boys' High School",
+    "line2": "30 Forrest Hill Road",
+    "suburb": "Forrest Hill",
+    "city": "Auckland",
+    "postcode": "620"
+  },
+  "nzbn": "9429043036264",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/westlakersnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T18:55:31Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72493,
+  "registrationNumber": "CC58888",
+  "name": "Hoa Motuhake Sports Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hoamotuhake.co.nz",
+  "email": "sandy@hoamotuhake.co.nz",
+  "address": {
+    "line1": "29 Newbridge Place",
+    "line2": " ",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429048299725",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T21:26:48Z"
+}

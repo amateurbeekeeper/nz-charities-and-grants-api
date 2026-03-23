@@ -1,0 +1,27 @@
+{
+  "id": 39994,
+  "registrationNumber": "CC28675",
+  "name": "Elim Property Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.elimchristiancentre.org.nz",
+  "email": "john@roberts.co.nz",
+  "address": {
+    "line1": "159 Botany Road",
+    "line2": " ",
+    "suburb": "Botany Downs",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429042937654",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-30T01:00:51Z"
+}

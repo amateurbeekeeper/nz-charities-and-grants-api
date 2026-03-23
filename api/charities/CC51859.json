@@ -1,0 +1,27 @@
+{
+  "id": 65610,
+  "registrationNumber": "CC51859",
+  "name": "Wadestown Presbyterian Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-05-25T00:00:00Z",
+  "dateDeregistered": "2023-07-01T00:00:00Z",
+  "website": null,
+  "email": "stubbe.home@outlook.com",
+  "address": {
+    "line1": "118 Wadestown Road",
+    "line2": " ",
+    "suburb": "Wadestown",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T03:05:42Z"
+}

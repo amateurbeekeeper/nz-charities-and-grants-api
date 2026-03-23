@@ -1,0 +1,27 @@
+{
+  "id": 58925,
+  "registrationNumber": "CC26977",
+  "name": "Te Atatu Union Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.teatatuunionchurch.org.nz",
+  "email": "johnhohepa@xtra.co.nz",
+  "address": {
+    "line1": "2 Taikata Road",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429050003686",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/teatatuparish/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T01:21:18Z"
+}

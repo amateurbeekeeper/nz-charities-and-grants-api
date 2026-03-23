@@ -1,0 +1,27 @@
+{
+  "id": 71067,
+  "registrationNumber": "CC57442",
+  "name": "Manukau Marae",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-11-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "trusteesmanukaumarae@gmail.com",
+  "address": {
+    "line1": "2268 Kaitaia-Awaroa Road",
+    "line2": "RD 4",
+    "suburb": "Herekino",
+    "city": "Kaitaia",
+    "postcode": "0481"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-10T01:05:48Z"
+}

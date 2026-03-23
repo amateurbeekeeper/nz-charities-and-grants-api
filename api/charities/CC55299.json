@@ -1,0 +1,27 @@
+{
+  "id": 68956,
+  "registrationNumber": "CC55299",
+  "name": "Kiwi Coast Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kiwicoast.org.nz",
+  "email": "ngaire@kiwicoast.org.nz",
+  "address": {
+    "line1": "495 Mt Tiger Road",
+    "line2": "RD 1",
+    "suburb": "Whareora",
+    "city": "Onerahi",
+    "postcode": "0192"
+  },
+  "nzbn": "9429046137166",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/kiwicoast",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:43:48Z"
+}

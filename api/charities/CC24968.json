@@ -1,0 +1,27 @@
+{
+  "id": 57122,
+  "registrationNumber": "CC24968",
+  "name": "The Wellington Loop Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wellingtonloop.net.nz",
+  "email": "vic@wellingtonloop.net.nz",
+  "address": {
+    "line1": "c/o Hutt Valley High School",
+    "line2": "Woburn Road",
+    "suburb": "Woburn",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429043188277",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T21:47:28Z"
+}

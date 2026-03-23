@@ -1,0 +1,27 @@
+{
+  "id": 47291,
+  "registrationNumber": "CC39788",
+  "name": "The Waiheke Homecare Hospice Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2023-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://hospicewaihekehomecare.co.nz",
+  "email": "jascar@xtra.co.nz",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "11 Moa Avenue",
+    "suburb": "Oneroa",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429042887997",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-30T19:29:47Z"
+}

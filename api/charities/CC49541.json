@@ -1,0 +1,27 @@
+{
+  "id": 35339,
+  "registrationNumber": "CC49541",
+  "name": "STEAM-ED Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://steamed.nz",
+  "email": "mariawoods@hotmail.com",
+  "address": {
+    "line1": "671 Cameron Road",
+    "line2": " ",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429043255283",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/steamednz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T06:06:40Z"
+}

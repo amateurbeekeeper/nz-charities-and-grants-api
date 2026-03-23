@@ -1,0 +1,27 @@
+{
+  "id": 34976,
+  "registrationNumber": "CC49184",
+  "name": "CIRCUIT Artist Moving Image",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-05-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.circuit.org.nz",
+  "email": "director@circuit.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": " 27 Dixon St",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043261147",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CIRCUITAFV/",
+    "twitter": "@CIRCUIT_AMI"
+  },
+  "lastUpdated": "2025-08-28T02:11:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67218,
+  "registrationNumber": "CC53505",
+  "name": "Howick Community Church Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://hcc.co.nz",
+  "email": "tracey@lsb.co.nz",
+  "address": {
+    "line1": "120 Picton Street",
+    "line2": " ",
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": "9429043304103",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T00:46:23Z"
+}

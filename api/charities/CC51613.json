@@ -1,0 +1,27 @@
+{
+  "id": 65379,
+  "registrationNumber": "CC51613",
+  "name": "Auckland Chinese Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-04-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://acpc.org.nz",
+  "email": "bingmister@gmail.com",
+  "address": {
+    "line1": "25 Union Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T18:04:27Z"
+}

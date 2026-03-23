@@ -1,0 +1,27 @@
+{
+  "id": 44293,
+  "registrationNumber": "CC38611",
+  "name": "Hutt City Musical Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hcmtnz.com",
+  "email": "treasurerhcmt@gmail.com",
+  "address": {
+    "line1": "38 Mitchell Street",
+    "line2": " ",
+    "suburb": "Epuni",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429042904199",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Hutt City Musical Theatre Inc ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T08:37:23Z"
+}

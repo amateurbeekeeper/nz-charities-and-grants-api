@@ -1,0 +1,27 @@
+{
+  "id": 37672,
+  "registrationNumber": "CC48154",
+  "name": "Professionelle Foundation",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2012-08-30T00:00:00Z",
+  "dateDeregistered": "2019-02-28T00:00:00Z",
+  "website": "http://www.professionelle.org.nz",
+  "email": "sarah@professionelle.org.nz",
+  "address": {
+    "line1": "31 Okura River Road",
+    "line2": "RD 2",
+    "suburb": "Okura",
+    "city": "Albany",
+    "postcode": "0792"
+  },
+  "nzbn": "9429043217144",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/ProfessionelleNZ",
+    "twitter": "https://twitter.com/professionelle_"
+  },
+  "lastUpdated": "2019-03-24T19:03:04Z"
+}

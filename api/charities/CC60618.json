@@ -1,0 +1,27 @@
+{
+  "id": 74209,
+  "registrationNumber": "CC60618",
+  "name": "To Be Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "Www.Tobefoundation.co.nz",
+  "email": "cballin@caisson.co.nz",
+  "address": {
+    "line1": "8 Red Rock Lane",
+    "line2": " ",
+    "suburb": "Moncks Bay",
+    "city": "Christchurch",
+    "postcode": "8081"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T01:01:24Z"
+}

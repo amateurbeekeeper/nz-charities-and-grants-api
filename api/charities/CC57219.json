@@ -1,0 +1,27 @@
+{
+  "id": 70850,
+  "registrationNumber": "CC57219",
+  "name": "Wakefield Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-11-28T00:00:00Z",
+  "dateDeregistered": "2025-10-09T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/wakefield/",
+  "email": "charlottemunro@gmail.com",
+  "address": {
+    "line1": "16 Treeton Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wakefield",
+    "postcode": "7025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/wakefieldplaycentre/?ref=br_rs",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-31T06:03:52Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64539,
+  "registrationNumber": "CC40136",
+  "name": "Milford School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fomsaccounts@milford.school.nz",
+  "address": {
+    "line1": "34 Shakespeare Road",
+    "line2": " ",
+    "suburb": "Milford",
+    "city": "Auckland",
+    "postcode": "620"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T07:06:43Z"
+}

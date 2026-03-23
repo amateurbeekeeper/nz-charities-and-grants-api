@@ -1,0 +1,27 @@
+{
+  "id": 72550,
+  "registrationNumber": "CC58938",
+  "name": "Anointed Indian Church Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "anointedindianchurch@gmail.com",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "39 East Tamaki Road",
+    "suburb": "Papatoetoe",
+    "city": "Auckland",
+    "postcode": "2025"
+  },
+  "nzbn": "9429049187595",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100076414575791",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-08T19:42:36Z"
+}

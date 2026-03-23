@@ -1,0 +1,27 @@
+{
+  "id": 75103,
+  "registrationNumber": "CC61533",
+  "name": "Rewiring Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rewiring.nz/",
+  "email": "mike@rewiring.nz",
+  "address": {
+    "line1": "90 Rush Lane",
+    "line2": "RD 3",
+    "suburb": "Mount Pisa",
+    "city": "Cromwell",
+    "postcode": "9383"
+  },
+  "nzbn": "9429051420932",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/rewiringaotearoa/",
+    "twitter": "https://twitter.com/RewiringNZ"
+  },
+  "lastUpdated": "2026-02-18T00:30:48Z"
+}

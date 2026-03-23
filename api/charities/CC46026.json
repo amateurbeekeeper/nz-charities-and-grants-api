@@ -1,0 +1,27 @@
+{
+  "id": 38200,
+  "registrationNumber": "CC46026",
+  "name": "Men's Shed Waimea Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-01-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chairman@menzshedwaimea.org.nz",
+  "address": {
+    "line1": "384 Lower Queen Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": "9429043216260",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waimeashed/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T21:24:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38369,
+  "registrationNumber": "CC46046",
+  "name": "The Marist Auckland Water Polo Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-01-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.maristwaterpolo.org.nz",
+  "email": "chair@maristwaterpolo.co.nz",
+  "address": {
+    "line1": "46 Dexter Avenue",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429043081318",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/maristwp/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:57:21Z"
+}

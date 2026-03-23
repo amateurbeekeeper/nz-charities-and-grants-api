@@ -1,0 +1,27 @@
+{
+  "id": 63127,
+  "registrationNumber": "CC39931",
+  "name": "West Auckland Resource Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://arcnz.org.nz",
+  "email": "kylieg@arcnz.org.nz",
+  "address": {
+    "line1": "2A Seabrook Avenue",
+    "line2": " ",
+    "suburb": "New Lynn",
+    "city": "Auckland",
+    "postcode": "0600"
+  },
+  "nzbn": "9429050207756",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/warcnewlynn/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:14:15Z"
+}

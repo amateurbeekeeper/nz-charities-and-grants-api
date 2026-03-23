@@ -1,0 +1,27 @@
+{
+  "id": 65858,
+  "registrationNumber": "CC52115",
+  "name": "St Andrews Church Whangarei",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-07-06T00:00:00Z",
+  "dateDeregistered": "2021-07-01T00:00:00Z",
+  "website": "https://www.hopewhangarei.nz",
+  "email": "karen@hopewhangarei.nz",
+  "address": {
+    "line1": "2 Hunt Street",
+    "line2": "Whangarei 0110",
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-03-30T19:20:24Z"
+}

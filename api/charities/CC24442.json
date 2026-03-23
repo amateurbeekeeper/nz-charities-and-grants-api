@@ -1,0 +1,27 @@
+{
+  "id": 55241,
+  "registrationNumber": "CC24442",
+  "name": "The Nurses' Memorial Chapel Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cnmc.org.nz",
+  "email": "chapelfoc@gmail.com",
+  "address": {
+    "line1": "99 Rose Street",
+    "line2": " ",
+    "suburb": "Somerfield",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": "9429042785323",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Nurses' Memorial Chapel",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T04:02:36Z"
+}

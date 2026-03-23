@@ -1,0 +1,27 @@
+{
+  "id": 37508,
+  "registrationNumber": "CC46905",
+  "name": "Streetworks Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2011-05-30T00:00:00Z",
+  "dateDeregistered": "2020-12-10T00:00:00Z",
+  "website": "http://www.streetworks.org.nz",
+  "email": "bradward123@gmail.com",
+  "address": {
+    "line1": "189 Totara Drive",
+    "line2": null,
+    "suburb": "Pukete",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429043226320",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/streetworks.hamilton/",
+    "twitter": null
+  },
+  "lastUpdated": "2022-10-31T22:31:03Z"
+}

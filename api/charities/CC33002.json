@@ -1,0 +1,27 @@
+{
+  "id": 44684,
+  "registrationNumber": "CC33002",
+  "name": "Crossroads Church (P.N.) Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.crossroads.co.nz",
+  "email": "accounts@crossroads.co.nz",
+  "address": {
+    "line1": "220 Church Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429043023318",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Crossroads Church - Palmerston North",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T23:10:45Z"
+}

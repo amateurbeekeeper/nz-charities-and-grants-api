@@ -1,0 +1,27 @@
+{
+  "id": 77234,
+  "registrationNumber": "CC63140",
+  "name": "Transport Well New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "carol.mcgeady@trucking.nz",
+  "address": {
+    "line1": "23 Islington Avenue",
+    "line2": " ",
+    "suburb": "Islington",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T19:58:27Z"
+}

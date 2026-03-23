@@ -1,0 +1,27 @@
+{
+  "id": 64523,
+  "registrationNumber": "CC38150",
+  "name": "Home Birth Aotearoa Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.homebirth.org.nz",
+  "email": "admin@homebirth.org.nz",
+  "address": {
+    "line1": "9 Rainbow Court",
+    "line2": " ",
+    "suburb": "Raumati South",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": "9429043164844",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/homebirthaotearoa/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T00:11:00Z"
+}

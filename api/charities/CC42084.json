@@ -1,0 +1,27 @@
+{
+  "id": 50877,
+  "registrationNumber": "CC42084",
+  "name": "Northcote Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.northcotetoylibrary.org.nz",
+  "email": "sarah.prevet@gmail.com",
+  "address": {
+    "line1": "5A Akoranga Drive",
+    "line2": " ",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429042934127",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Northcote-Toy-Library-202975469765499/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T08:27:18Z"
+}

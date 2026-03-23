@@ -1,0 +1,27 @@
+{
+  "id": 35987,
+  "registrationNumber": "CC45508",
+  "name": "Waikato Multicultural Council Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-10-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://waikatomulticultural.org.nz",
+  "email": "info@waikatomulticultural.org.nz",
+  "address": {
+    "line1": "PO Box 551",
+    "line2": "Waikato Mail Centre",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3240"
+  },
+  "nzbn": "9429042883401",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "waikatomulticultural",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T06:39:16Z"
+}

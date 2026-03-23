@@ -1,0 +1,27 @@
+{
+  "id": 42781,
+  "registrationNumber": "CC28422",
+  "name": "Culverden Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mpadams@xtra.co.nz",
+  "address": {
+    "line1": "Stock Road ",
+    "line2": " ",
+    "suburb": "Culverden",
+    "city": "North Canterbury",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T04:25:29Z"
+}

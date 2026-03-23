@@ -1,0 +1,27 @@
+{
+  "id": 33394,
+  "registrationNumber": "CC49136",
+  "name": "Te Ramaroa Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rachel.fraser@findex.co.nz",
+  "address": {
+    "line1": "114 Hardy Street",
+    "line2": "Nelson 7010",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T01:04:09Z"
+}

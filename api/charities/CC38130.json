@@ -1,0 +1,27 @@
+{
+  "id": 62933,
+  "registrationNumber": "CC38130",
+  "name": "Ilam School Parent Teacher Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-03-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ilam.school.nz",
+  "email": "Philsteventon@hotmail.com",
+  "address": {
+    "line1": "66 Ilam Road",
+    "line2": " ",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T03:25:37Z"
+}

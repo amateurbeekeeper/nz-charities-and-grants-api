@@ -1,0 +1,27 @@
+{
+  "id": 60407,
+  "registrationNumber": "CC42031",
+  "name": "The New Zealand Seventh-day Adventist Schools Association Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.adventist.org.nz",
+  "email": "kheirboutros@adventist.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "18 Fencible Drive",
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": "9429038912702",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-30T21:31:32Z"
+}

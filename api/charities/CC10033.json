@@ -1,0 +1,27 @@
+{
+  "id": 51157,
+  "registrationNumber": "CC10033",
+  "name": "McPhail Foundation Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2007-02-27T00:00:00Z",
+  "dateDeregistered": "2022-02-28T00:00:00Z",
+  "website": "http://www.mcphailfoundation.org.nz",
+  "email": "mcphail@oakbank.co.nz",
+  "address": {
+    "line1": "Flat 2",
+    "line2": "23B Jacksons Road",
+    "suburb": "Merivale",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429043104185",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/McPhailFoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2022-03-01T20:52:41Z"
+}

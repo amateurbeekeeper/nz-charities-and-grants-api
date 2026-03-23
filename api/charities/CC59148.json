@@ -1,0 +1,27 @@
+{
+  "id": 72756,
+  "registrationNumber": "CC59148",
+  "name": "Children with Disability NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://childrenwithdisability.co.nz",
+  "email": "childrenwithdisabilitynz@gmail.com",
+  "address": {
+    "line1": "61 Riverside Drive",
+    "line2": " ",
+    "suburb": "Riverside",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CWDchildrenwithdisability/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T05:02:16Z"
+}

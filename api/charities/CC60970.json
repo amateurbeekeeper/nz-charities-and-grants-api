@@ -1,0 +1,27 @@
+{
+  "id": 74552,
+  "registrationNumber": "CC60970",
+  "name": "Take2 Labs Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-11-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.take2elevate.com/",
+  "email": "cameron@take2.org",
+  "address": {
+    "line1": "196 Broadway",
+    "line2": " ",
+    "suburb": "Newmarket",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429050880379",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T06:38:39Z"
+}

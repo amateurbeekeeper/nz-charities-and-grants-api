@@ -1,0 +1,27 @@
+{
+  "id": 37643,
+  "registrationNumber": "CC48059",
+  "name": "Windsor Park Hub Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.wphub.org.nz/",
+  "email": "stacey@staceyjean.co.nz",
+  "address": {
+    "line1": "WINDSOR PARK CENTRE",
+    "line2": "550 East Coast Road",
+    "suburb": "Windsor Park",
+    "city": "Auckland",
+    "postcode": "630"
+  },
+  "nzbn": "9429031010412",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T22:31:52Z"
+}

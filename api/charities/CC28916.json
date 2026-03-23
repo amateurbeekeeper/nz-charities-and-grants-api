@@ -1,0 +1,27 @@
+{
+  "id": 52719,
+  "registrationNumber": "CC28916",
+  "name": "The Otago Multiple Sclerosis Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.msotago.org.nz",
+  "email": "admin@msotago.org.nz",
+  "address": {
+    "line1": "43 Princes Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042851158",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/OtagoMSS/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:52:04Z"
+}

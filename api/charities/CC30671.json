@@ -1,0 +1,27 @@
+{
+  "id": 48061,
+  "registrationNumber": "CC30671",
+  "name": "Palmerston North Operatic Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.actthree.co.nz",
+  "email": "admin@actthree.co.nz",
+  "address": {
+    "line1": "75 The Square",
+    "line2": "Palmerston North 4410",
+    "suburb": "Hokowhitu ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042818052",
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Actthreeproductions",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-30T08:52:42Z"
+}

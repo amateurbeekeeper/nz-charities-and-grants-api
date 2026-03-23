@@ -1,0 +1,27 @@
+{
+  "id": 42001,
+  "registrationNumber": "CC27905",
+  "name": "CanSurvive Dragon Boat Team Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.cansurvive.co.nz",
+  "email": "chair.cansurvivewellington@gmail.com",
+  "address": {
+    "line1": "1 Ongley Crescent",
+    "line2": " ",
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": "9429043143245",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/CanSurviveNZ",
+    "twitter": "@CanSurviveNZ"
+  },
+  "lastUpdated": "2025-12-09T18:40:47Z"
+}

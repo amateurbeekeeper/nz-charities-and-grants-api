@@ -1,0 +1,27 @@
+{
+  "id": 52239,
+  "registrationNumber": "CC20570",
+  "name": "Rauawaawa Kaumatua Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rauawaawa.co.nz",
+  "email": "ceo@rauawaawa.co.nz",
+  "address": {
+    "line1": "50 Colombo Street",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042941422",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Rauawaawa/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T03:02:41Z"
+}

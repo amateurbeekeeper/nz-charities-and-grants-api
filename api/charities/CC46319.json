@@ -1,0 +1,27 @@
+{
+  "id": 36841,
+  "registrationNumber": "CC46319",
+  "name": "Cycling Tour of New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-02-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kjl16@uclive.ac.nz",
+  "address": {
+    "line1": "1 Rimu Street",
+    "line2": "62 Kahu Road",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T22:15:54Z"
+}

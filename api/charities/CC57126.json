@@ -1,0 +1,27 @@
+{
+  "id": 70765,
+  "registrationNumber": "CC57126",
+  "name": "Ellerslie Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-09-27T00:00:00Z",
+  "dateDeregistered": "2025-07-11T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/ellerslie/",
+  "email": "ellerslie@playcentre.org.nz",
+  "address": {
+    "line1": "8 Lawry Street",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Ellerslie-Playcentre-238876286136250/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-23T07:10:44Z"
+}

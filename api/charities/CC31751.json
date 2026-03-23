@@ -1,0 +1,27 @@
+{
+  "id": 42810,
+  "registrationNumber": "CC31751",
+  "name": "East Taieri Preschool Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.easttaieripreschool.co.nz",
+  "email": "office@easttaieripreschool.co.nz",
+  "address": {
+    "line1": "13 Cemetery Road",
+    "line2": " ",
+    "suburb": "East Taieri",
+    "city": "Mosgiel",
+    "postcode": "9024"
+  },
+  "nzbn": "9429042703297",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T22:05:29Z"
+}

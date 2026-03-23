@@ -1,0 +1,27 @@
+{
+  "id": 69088,
+  "registrationNumber": "CC55430",
+  "name": "The Voices of Hope Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-02-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thevoicesofhope.org",
+  "email": "contact@thevoicesofhope.org",
+  "address": {
+    "line1": "20 Florence Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Orewa",
+    "postcode": "0931"
+  },
+  "nzbn": "9429046500359",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thevoicesofhope/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T18:11:36Z"
+}

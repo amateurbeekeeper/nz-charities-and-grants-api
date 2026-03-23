@@ -1,0 +1,27 @@
+{
+  "id": 53049,
+  "registrationNumber": "CC20117",
+  "name": "The New Zealand Police Dog Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www,policedogtrust.co.nz",
+  "email": "todd.southall@police.govt.nz",
+  "address": {
+    "line1": "Dante Road",
+    "line2": " ",
+    "suburb": "Trentham",
+    "city": "Upper Hutt",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Police Dog Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T20:11:04Z"
+}

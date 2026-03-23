@@ -1,0 +1,27 @@
+{
+  "id": 54660,
+  "registrationNumber": "CC25480",
+  "name": "New Zealand Sterile Science Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://nzssa.co.nz/",
+  "email": "accounts@nzssa.co.nz",
+  "address": {
+    "line1": "28 Brighton Street",
+    "line2": " ",
+    "suburb": "Island Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": "9429042691945",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100064865917751",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T23:33:51Z"
+}

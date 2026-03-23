@@ -1,0 +1,27 @@
+{
+  "id": 57633,
+  "registrationNumber": "CC25675",
+  "name": "The New Zealand Association for Christian Schools",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzacs.nz/",
+  "email": "secretary@nzacs.nz",
+  "address": {
+    "line1": "30 Acacia Avenue",
+    "line2": " ",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/NZACS-219397088091524/?ref=aymt_homepage_panel",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T22:50:55Z"
+}

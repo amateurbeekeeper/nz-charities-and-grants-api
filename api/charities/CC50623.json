@@ -1,0 +1,27 @@
+{
+  "id": 34140,
+  "registrationNumber": "CC50623",
+  "name": "Elim Proprietors Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-04-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "john@roberts.co.nz",
+  "address": {
+    "line1": "159 Botany Road",
+    "line2": " ",
+    "suburb": "Botany",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-23T23:59:43Z"
+}

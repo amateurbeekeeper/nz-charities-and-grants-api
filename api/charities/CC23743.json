@@ -1,0 +1,27 @@
+{
+  "id": 40832,
+  "registrationNumber": "CC23743",
+  "name": "Aroha Ki Te Tamariki",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://mirrorservices.org.nz",
+  "email": "mirroradmin@mirrorservices.org.nz",
+  "address": {
+    "line1": "43 Princes Street",
+    "line2": "43 Princes Street",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042577645",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T02:24:38Z"
+}

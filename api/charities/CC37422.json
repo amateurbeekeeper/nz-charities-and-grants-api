@@ -1,0 +1,27 @@
+{
+  "id": 57687,
+  "registrationNumber": "CC37422",
+  "name": "St Michael's Church School Board",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2023-06-15T00:00:00Z",
+  "website": "https://www.saintmichaels.school.nz",
+  "email": "bursar@saintmichaels.co.nz",
+  "address": {
+    "line1": "249 Durham Street South",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "St Michael's Church School",
+    "twitter": null
+  },
+  "lastUpdated": "2023-09-06T15:15:08Z"
+}

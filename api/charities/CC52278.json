@@ -1,0 +1,27 @@
+{
+  "id": 66008,
+  "registrationNumber": "CC52278",
+  "name": "Ellerslie Mount Wellington Presbyterian Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.stpeterspresbyterian.org.nz/",
+  "email": "ayee.mailbox@gmail.com",
+  "address": {
+    "line1": "7 Harrison Road",
+    "line2": " ",
+    "suburb": "Mount Wellington",
+    "city": "Auckland",
+    "postcode": "1060"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/StPetersChurchEllerslieMtWellington/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T01:23:35Z"
+}

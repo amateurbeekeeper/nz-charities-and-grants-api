@@ -1,0 +1,27 @@
+{
+  "id": 56068,
+  "registrationNumber": "CC21730",
+  "name": "Age Concern Hamilton Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-03-11T00:00:00Z",
+  "dateDeregistered": "2024-06-30T00:00:00Z",
+  "website": "http://www.ageconcernwaikato.org.nz",
+  "email": "vicky@ageconcernwaikato.org.nz",
+  "address": {
+    "line1": "150 Grantham Street",
+    "line2": " ",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042712138",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T06:04:06Z"
+}

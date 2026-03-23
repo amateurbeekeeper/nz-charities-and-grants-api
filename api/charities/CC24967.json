@@ -1,0 +1,27 @@
+{
+  "id": 39906,
+  "registrationNumber": "CC24967",
+  "name": "Abbeyfield Whangarei Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.abbeyfield.org.nz",
+  "email": "office@abbeyfield.org.nz",
+  "address": {
+    "line1": "28 Mains Avenue",
+    "line2": " ",
+    "suburb": "Kensington",
+    "city": "Whangarei",
+    "postcode": "112"
+  },
+  "nzbn": "9429042573050",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T22:24:37Z"
+}

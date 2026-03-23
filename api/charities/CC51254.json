@@ -1,0 +1,27 @@
+{
+  "id": 34626,
+  "registrationNumber": "CC51254",
+  "name": "ReliefAid",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-01-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.reliefaid.org.nz",
+  "email": "mike.seawright@reliefaid.org.nz",
+  "address": {
+    "line1": "Level 4",
+    "line2": "117 St Georges Bay Road",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429043287314",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/reliefaid.org.nz",
+    "twitter": "twitter.com/ReliefAid_NZ"
+  },
+  "lastUpdated": "2026-02-01T20:55:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63903,
+  "registrationNumber": "CC41712",
+  "name": "Roman Catholic Diocese of Dunedin Catholic Social Services",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-08-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cathsocialservices.org.nz",
+  "email": "melanie.mcnatty@cathsocialservices.org.nz",
+  "address": {
+    "line1": "42 Macandrew Road",
+    "line2": " ",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429050792467",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CatholicSocialServicesOtago",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:51:16Z"
+}

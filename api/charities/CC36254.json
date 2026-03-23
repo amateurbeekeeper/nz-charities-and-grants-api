@@ -1,0 +1,27 @@
+{
+  "id": 43137,
+  "registrationNumber": "CC36254",
+  "name": "Fiordland Health Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fiordlandhealthtrust@gmail.com",
+  "address": {
+    "line1": "PO Box 215",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Anau",
+    "postcode": "9640"
+  },
+  "nzbn": "9429042941675",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T02:25:02Z"
+}

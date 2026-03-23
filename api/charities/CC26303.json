@@ -1,0 +1,27 @@
+{
+  "id": 58583,
+  "registrationNumber": "CC26303",
+  "name": "Motueka Community House",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "manager@motuekacommunityhouse.org.nz",
+  "address": {
+    "line1": "9 Greenwood Street",
+    "line2": "Motueka 7120",
+    "suburb": " ",
+    "city": "Motueka",
+    "postcode": "7120"
+  },
+  "nzbn": "9429042750284",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Motueka Community House",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T19:29:00Z"
+}

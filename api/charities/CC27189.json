@@ -1,0 +1,27 @@
+{
+  "id": 59509,
+  "registrationNumber": "CC27189",
+  "name": "Titahi Bay Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.trinitybaptist.co",
+  "email": "annesimp2@yahoo.co.nz",
+  "address": {
+    "line1": "2-4 Waiuta Street",
+    "line2": " ",
+    "suburb": " Titahi Bay",
+    "city": "Porirua",
+    "postcode": "5022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T02:57:52Z"
+}

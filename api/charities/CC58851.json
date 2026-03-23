@@ -1,0 +1,27 @@
+{
+  "id": 72457,
+  "registrationNumber": "CC58851",
+  "name": "The INGSA Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ingsa.org",
+  "email": "peter.gluckman@informedfutures.org",
+  "address": {
+    "line1": "Rm 508, Building 207, The University of Auckland",
+    "line2": "18 Symonds Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T01:52:29Z"
+}

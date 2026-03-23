@@ -1,0 +1,27 @@
+{
+  "id": 72331,
+  "registrationNumber": "CC58720",
+  "name": "Tourism Chatham Islands Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-10-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.chathamislands.co.nz",
+  "email": "manager@chathamislands.co.nz",
+  "address": {
+    "line1": "773 Waitangi Wharf Owenga Road",
+    "line2": "Chatham Island 8016",
+    "suburb": " ",
+    "city": "Chatham Island",
+    "postcode": "8016"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Chatham Islands, New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-10T03:03:15Z"
+}

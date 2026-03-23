@@ -1,0 +1,27 @@
+{
+  "id": 32785,
+  "registrationNumber": "CC48304",
+  "name": "St Barnabas Fendalton Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "corinne.haines@outlook.co.nz",
+  "address": {
+    "line1": "8 Tui Street",
+    "line2": " ",
+    "suburb": "Fendalton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429043257782",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-06T19:15:41Z"
+}

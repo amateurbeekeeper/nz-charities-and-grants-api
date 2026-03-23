@@ -1,0 +1,27 @@
+{
+  "id": 47027,
+  "registrationNumber": "CC43145",
+  "name": "Reynolds Hall",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-12-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ella.gaddum@gmail.com",
+  "address": {
+    "line1": "11 Monkhouse Street",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Tolaga Bay",
+    "postcode": "4077"
+  },
+  "nzbn": null,
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T02:03:24Z"
+}

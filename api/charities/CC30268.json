@@ -1,0 +1,27 @@
+{
+  "id": 46775,
+  "registrationNumber": "CC30268",
+  "name": "Picton Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-22T00:00:00Z",
+  "website": "www.playcentre.org.nz",
+  "email": "picton@playcentre.org.nz",
+  "address": {
+    "line1": "5 Waitohi Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Picton",
+    "postcode": "7220"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "waitohi Playcentre Members (Picton Playcentre)",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T06:04:11Z"
+}

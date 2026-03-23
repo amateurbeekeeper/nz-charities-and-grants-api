@@ -1,0 +1,27 @@
+{
+  "id": 56198,
+  "registrationNumber": "CC22646",
+  "name": "New Zealand Catholic Education Office Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzceo.org.nz",
+  "email": "k.shore@nzceo.org.nz",
+  "address": {
+    "line1": "Mercy Centre",
+    "line2": "15 Guildford Terrace",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429037228309",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-22T19:50:33Z"
+}

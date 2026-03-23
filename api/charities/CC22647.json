@@ -1,0 +1,27 @@
+{
+  "id": 52295,
+  "registrationNumber": "CC22647",
+  "name": "\"Nurses\" Trusts Management",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzno.org.nz",
+  "email": "CSFinance@nzno.org.nz",
+  "address": {
+    "line1": "Level 10",
+    "line2": "79 Boulcott Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042935247",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T01:33:08Z"
+}

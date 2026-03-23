@@ -1,0 +1,27 @@
+{
+  "id": 71012,
+  "registrationNumber": "CC57377",
+  "name": "Greytown Trails Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-01-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://greytowntrails.org.nz/",
+  "email": "treasurer@greytowntrails.org.nz",
+  "address": {
+    "line1": "6 Cotter Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Greytown",
+    "postcode": "5712"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GreytownTrailsTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T06:17:31Z"
+}

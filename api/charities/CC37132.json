@@ -1,0 +1,27 @@
+{
+  "id": 46329,
+  "registrationNumber": "CC37132",
+  "name": "Te Whare Toi O Ngaaruawaahia Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ngaart.org",
+  "email": "manager@ngaart.org.nz",
+  "address": {
+    "line1": "18 Herschel Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ngaruawahia",
+    "postcode": "3720"
+  },
+  "nzbn": "9429042991557",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TeWhareToiONgaaruawaahia",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T23:31:19Z"
+}

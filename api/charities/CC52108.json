@@ -1,0 +1,27 @@
+{
+  "id": 65846,
+  "registrationNumber": "CC52108",
+  "name": "St Ronans Presbyterian Church Eastbourne",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.stronans.org.nz",
+  "email": "slang@xtra.co.nz",
+  "address": {
+    "line1": "St Ronan's Presbyterian Church",
+    "line2": "234 Muritai Road",
+    "suburb": "Eastbourne",
+    "city": "Lower Hutt",
+    "postcode": "5013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "-",
+    "twitter": "-"
+  },
+  "lastUpdated": "2025-12-18T18:06:21Z"
+}

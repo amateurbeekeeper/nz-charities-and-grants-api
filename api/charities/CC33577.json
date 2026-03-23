@@ -1,0 +1,27 @@
+{
+  "id": 45666,
+  "registrationNumber": "CC33577",
+  "name": "Liberty Baptist Church Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.lbc.org.nz",
+  "email": "rawsonsnz@outlook.com",
+  "address": {
+    "line1": "790 Hursthouse Road",
+    "line2": "RD 9",
+    "suburb": " ",
+    "city": "Inglewood",
+    "postcode": "4389"
+  },
+  "nzbn": "9429042655404",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/LBCNPNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T21:42:26Z"
+}

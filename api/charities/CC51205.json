@@ -1,0 +1,27 @@
+{
+  "id": 34487,
+  "registrationNumber": "CC51205",
+  "name": "Positive Vibrations International",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2022-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://positivevibrations.co.nz",
+  "email": "berwick.jay@gmail.com",
+  "address": {
+    "line1": "40 Lady Elizabeth Lane",
+    "line2": " ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043266395",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/positivevibrationsnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T05:39:47Z"
+}

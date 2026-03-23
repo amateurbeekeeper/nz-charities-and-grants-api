@@ -1,0 +1,27 @@
+{
+  "id": 62368,
+  "registrationNumber": "CC35991",
+  "name": "Gleniti Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-07-22T00:00:00Z",
+  "website": null,
+  "email": "gleniti@playcentre.org.nz",
+  "address": {
+    "line1": "355 Wai-Iti Road",
+    "line2": null,
+    "suburb": "Glenwood",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Gleniti.Playcentre/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-05T07:10:42Z"
+}

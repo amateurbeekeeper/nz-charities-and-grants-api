@@ -1,0 +1,27 @@
+{
+  "id": 42422,
+  "registrationNumber": "CC24612",
+  "name": "The Wellington Spring Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-05-20T00:00:00Z",
+  "dateDeregistered": "2015-03-02T00:00:00Z",
+  "website": null,
+  "email": "simon@crystalfilms.co.nz",
+  "address": {
+    "line1": "35A Kenya Street",
+    "line2": null,
+    "suburb": "Ngaio",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429043179954",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:20:51Z"
+}

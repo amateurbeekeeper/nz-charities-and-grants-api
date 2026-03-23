@@ -1,0 +1,27 @@
+{
+  "id": 60162,
+  "registrationNumber": "CC27893",
+  "name": "Heretaunga Players Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "janet@chatfield.nz",
+  "address": {
+    "line1": "THE STUDIO",
+    "line2": "52 Ward Street",
+    "suburb": "Trentham",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429042636236",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-06T18:28:28Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 58020,
+  "registrationNumber": "CC25707",
+  "name": "Taranaki Multiple Sclerosis Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mstaranaki.co.nz",
+  "email": "walkergj@gmail.com",
+  "address": {
+    "line1": "Onuku-Taipari Domain",
+    "line2": "134-136 Ngamotu Road",
+    "suburb": "Spotswood",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042844808",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "MS Taranaki",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T19:12:04Z"
+}

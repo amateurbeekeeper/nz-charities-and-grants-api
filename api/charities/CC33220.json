@@ -1,0 +1,27 @@
+{
+  "id": 43321,
+  "registrationNumber": "CC33220",
+  "name": "cession|community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lead.pastor@cession.org.nz",
+  "address": {
+    "line1": "The Depot",
+    "line2": "Sir Lloyd Drive",
+    "suburb": "Lloyd Elsmore Park, Pakuranga",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429043150878",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T18:40:24Z"
+}

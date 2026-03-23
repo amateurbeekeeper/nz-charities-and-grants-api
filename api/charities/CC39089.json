@@ -1,0 +1,27 @@
+{
+  "id": 63936,
+  "registrationNumber": "CC39089",
+  "name": "North Shore United Association Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nsu.org.nz",
+  "email": "treasurer@nsu.org.nz",
+  "address": {
+    "line1": "25A Lake Road",
+    "line2": " ",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "624"
+  },
+  "nzbn": "9429042789116",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T23:24:13Z"
+}

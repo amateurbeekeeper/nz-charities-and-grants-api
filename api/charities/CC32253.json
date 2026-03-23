@@ -1,0 +1,27 @@
+{
+  "id": 41077,
+  "registrationNumber": "CC32253",
+  "name": "Auckland Rowing Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://aucklandrowing.org/",
+  "email": "secretary@aucklandrowing.org",
+  "address": {
+    "line1": "PO Box 22306",
+    "line2": "Otahuhu",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1640"
+  },
+  "nzbn": "9429042591801",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T19:16:43Z"
+}

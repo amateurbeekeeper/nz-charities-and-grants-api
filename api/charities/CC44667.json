@@ -1,0 +1,27 @@
+{
+  "id": 50632,
+  "registrationNumber": "CC44667",
+  "name": "Geraldine Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://geraldinetoylibrary.setls.com.au/",
+  "email": "geraldinetoylibrary@gmail.com",
+  "address": {
+    "line1": "117 Talbot Street",
+    "line2": "Geraldine 7930",
+    "suburb": " ",
+    "city": "Geraldine",
+    "postcode": "7930"
+  },
+  "nzbn": "9429042628002",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Geraldine Toy Library Incorporated",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T21:03:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73795,
+  "registrationNumber": "CC60168",
+  "name": "Darfield Toy Library Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://darfieldtoylibrary.com",
+  "email": "darfieldtoylibrary@gmail.com",
+  "address": {
+    "line1": "1A Halkett Street",
+    "line2": "Darfield 7510",
+    "suburb": " ",
+    "city": "Darfield",
+    "postcode": "7510"
+  },
+  "nzbn": "9429050593323",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DarfieldToyLibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T22:41:36Z"
+}

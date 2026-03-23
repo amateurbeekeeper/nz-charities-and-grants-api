@@ -1,0 +1,27 @@
+{
+  "id": 37769,
+  "registrationNumber": "CC47575",
+  "name": "Cornerstone Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-12-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cornerstone.org.nz",
+  "email": "nickduke@cornerstone.org.nz",
+  "address": {
+    "line1": "12A Ilam Road",
+    "line2": " ",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429043234417",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T02:00:37Z"
+}

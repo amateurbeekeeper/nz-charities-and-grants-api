@@ -1,0 +1,27 @@
+{
+  "id": 52456,
+  "registrationNumber": "CC21935",
+  "name": "Auckland Rescue Helicopter Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rescuehelicopter.org.nz",
+  "email": "tony.morris@nrhl.co.nz",
+  "address": {
+    "line1": "Level 3, 50 Anzac Avenue",
+    "line2": " ",
+    "suburb": "Auckland CBD",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042591627",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Rescue1Chopper",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T03:22:49Z"
+}

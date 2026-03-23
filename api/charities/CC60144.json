@@ -1,0 +1,27 @@
+{
+  "id": 73738,
+  "registrationNumber": "CC60144",
+  "name": "Startup Taranaki",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-03-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.doso.nz",
+  "email": "info@doso.nz",
+  "address": {
+    "line1": "49 Currie Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/doso.community",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T23:00:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53654,
+  "registrationNumber": "CC20427",
+  "name": "Hamilton Gardens Summer Festival Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hamiltonartsfestival.co.nz",
+  "email": "geoff@hamiltonartsfestival.co.nz",
+  "address": {
+    "line1": "Hamilton Gardens",
+    "line2": " Hungerford Crescent",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429042930815",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HamiltonGardensArtsFestival/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T21:49:00Z"
+}

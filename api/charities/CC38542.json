@@ -1,0 +1,27 @@
+{
+  "id": 63085,
+  "registrationNumber": "CC38542",
+  "name": "GFA NZ Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gfa.org.nz",
+  "email": "murray.bell@malnz.co.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "100 Bush Road",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:19:17Z"
+}

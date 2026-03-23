@@ -1,0 +1,27 @@
+{
+  "id": 62079,
+  "registrationNumber": "CC35874",
+  "name": "Wyndham And Districts Historical Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "secretary@wdhs.org.nz",
+  "address": {
+    "line1": "146 Seaward Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Edendale",
+    "postcode": "9825"
+  },
+  "nzbn": "9429042927914",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WyndhamMuseum",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:19:59Z"
+}

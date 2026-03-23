@@ -1,0 +1,27 @@
+{
+  "id": 35098,
+  "registrationNumber": "CC50030",
+  "name": "Sinbad Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-11-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "j@nerobbins.com",
+  "address": {
+    "line1": "42 Knights Road",
+    "line2": " ",
+    "suburb": "Rothesay Bay",
+    "city": "Auckland",
+    "postcode": "630"
+  },
+  "nzbn": "9429043244928",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T01:42:51Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33583,
+  "registrationNumber": "CC49747",
+  "name": "The Routeburn-Dart Wildlife Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-09-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://rdwt.org",
+  "email": "info@rdwt.org",
+  "address": {
+    "line1": "182C Arthurs Point Road",
+    "line2": null,
+    "suburb": "Arthurs Point",
+    "city": "Queenstown",
+    "postcode": "9371"
+  },
+  "nzbn": "9429043256198",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-14T19:22:16Z"
+}

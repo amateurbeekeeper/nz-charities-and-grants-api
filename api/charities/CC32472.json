@@ -1,0 +1,27 @@
+{
+  "id": 47823,
+  "registrationNumber": "CC32472",
+  "name": "The Mōkihinui-Lyell Backcountry Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.oldghostroad.org.nz",
+  "email": "phil@oldghostroad.org.nz",
+  "address": {
+    "line1": "175 Palmerston Street",
+    "line2": "Westport 7825",
+    "suburb": " ",
+    "city": "Westport",
+    "postcode": "7825"
+  },
+  "nzbn": "9429043106288",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TheOldGhostRoad/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:17:57Z"
+}

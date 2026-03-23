@@ -1,0 +1,27 @@
+{
+  "id": 42231,
+  "registrationNumber": "CC24523",
+  "name": "Te Kohanga Reo O Nga Kuaka Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ngakuaka.org",
+  "email": "ngakuaka@xtra.co.nz",
+  "address": {
+    "line1": "159 Silverdale Road",
+    "line2": " ",
+    "suburb": "Hillcrest",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429042863526",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Kohanga Reo O Nga Kuaka",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T20:52:57Z"
+}

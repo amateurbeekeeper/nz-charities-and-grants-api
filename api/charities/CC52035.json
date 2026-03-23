@@ -1,0 +1,27 @@
+{
+  "id": 65783,
+  "registrationNumber": "CC52035",
+  "name": "Somervell Memorial Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.somervell.org.nz",
+  "email": "brian.rowley@ymail.com",
+  "address": {
+    "line1": "497 Remuera Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429048266000",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T18:05:57Z"
+}

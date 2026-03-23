@@ -1,0 +1,27 @@
+{
+  "id": 33212,
+  "registrationNumber": "CC48831",
+  "name": "THE EDEN LIFE TRUST",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-01-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hwpark@accountinghouse.co.nz",
+  "address": {
+    "line1": "14 Winscombe Street",
+    "line2": " ",
+    "suburb": "Belmont",
+    "city": "Auckland",
+    "postcode": "622"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:29:50Z"
+}

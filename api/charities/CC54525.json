@@ -1,0 +1,27 @@
+{
+  "id": 68196,
+  "registrationNumber": "CC54525",
+  "name": "Christchurch Chinese Methodist Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzccmc.org.nz",
+  "email": "dkp.wong2016@gmail.com",
+  "address": {
+    "line1": "165 Papanui Road",
+    "line2": " ",
+    "suburb": "Merivale",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429042924715",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T20:12:02Z"
+}

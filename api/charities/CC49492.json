@@ -1,0 +1,27 @@
+{
+  "id": 35253,
+  "registrationNumber": "CC49492",
+  "name": "Havelock Menzshed Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-07-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://menzshed.org.nz/havelock/",
+  "email": "ianc.cameron@xtra.co.nz",
+  "address": {
+    "line1": "5 Inglis Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Havelock",
+    "postcode": "7100"
+  },
+  "nzbn": "9429043265251",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:13Z"
+}

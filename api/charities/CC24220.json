@@ -1,0 +1,27 @@
+{
+  "id": 60773,
+  "registrationNumber": "CC24220",
+  "name": "Te Oranganui Trust (Incorporated)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.teoranganui.co.nz",
+  "email": "finances@teoranganui.co.nz",
+  "address": {
+    "line1": "133 Wicksteed Street",
+    "line2": "Whanganui 4500",
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042866190",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T01:37:36Z"
+}

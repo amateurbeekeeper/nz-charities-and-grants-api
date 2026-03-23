@@ -1,0 +1,27 @@
+{
+  "id": 37377,
+  "registrationNumber": "CC46936",
+  "name": "Upons Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-09-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "dougesterman@gmail.com",
+  "address": {
+    "line1": "1260 Cameron Road",
+    "line2": " ",
+    "suburb": "Gate Pa",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-11T02:48:26Z"
+}

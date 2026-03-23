@@ -1,0 +1,27 @@
+{
+  "id": 41394,
+  "registrationNumber": "CC42450",
+  "name": "Aro Arataki Early Learning Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aroarataki.co.nz",
+  "email": "aroarataki@adhb.govt.nz",
+  "address": {
+    "line1": "Building 29 Greenlane Clinical Centre",
+    "line2": "212 Greenlane West",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1142"
+  },
+  "nzbn": "9429042627852",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T01:25:02Z"
+}

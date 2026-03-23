@@ -1,0 +1,27 @@
+{
+  "id": 36096,
+  "registrationNumber": "CC45207",
+  "name": "River City Bible Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-09-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rivercitybiblechurch.com",
+  "email": "bryan4rivercity@gmail.com",
+  "address": {
+    "line1": "Hamilton Christian School",
+    "line2": "4 North City Road RD 1",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3281"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T08:05:11Z"
+}

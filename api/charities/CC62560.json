@@ -1,0 +1,27 @@
+{
+  "id": 76142,
+  "registrationNumber": "CC62560",
+  "name": "ECOLE FRANCAISE INTERNATIONALE AUCKLAND",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-08-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ecole-francaise.nz/",
+  "email": "emmanuelle.geron@ecole-francaise.nz",
+  "address": {
+    "line1": "131 Remuera Road",
+    "line2": " ",
+    "suburb": "Remuera",
+    "city": "Auckland",
+    "postcode": "1050"
+  },
+  "nzbn": "9429052267130",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-17T19:27:21Z"
+}

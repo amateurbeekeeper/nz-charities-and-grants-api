@@ -1,0 +1,27 @@
+{
+  "id": 72629,
+  "registrationNumber": "CC59021",
+  "name": "Generation Vote Trust of Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.generationvote.nz",
+  "email": "henry.yao@generationvote.nz",
+  "address": {
+    "line1": "Unit 129",
+    "line2": "11 Jessie Street",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429048748612",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/GenerationVoteNZ",
+    "twitter": "https://twitter.com/generationvote_"
+  },
+  "lastUpdated": "2026-03-22T01:07:10Z"
+}

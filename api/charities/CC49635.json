@@ -1,0 +1,27 @@
+{
+  "id": 35406,
+  "registrationNumber": "CC49635",
+  "name": "Franklin Cat Rescue Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "franklincatrescue@gmail.com",
+  "address": {
+    "line1": "42 Isabella Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Pukekohe",
+    "postcode": "2120"
+  },
+  "nzbn": "9429043255917",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/FranklinCatRescue/",
+    "twitter": null
+  },
+  "lastUpdated": "2024-02-13T19:03:15Z"
+}

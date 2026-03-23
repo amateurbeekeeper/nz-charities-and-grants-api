@@ -1,0 +1,27 @@
+{
+  "id": 56368,
+  "registrationNumber": "CC31001",
+  "name": "Destiny Church Whangarei",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2024-11-30T00:00:00Z",
+  "website": "http://www.destinychurch.org.nz",
+  "email": "dcwhangarei@outlook.co.nz",
+  "address": {
+    "line1": "97 Western Hills Drive",
+    "line2": " ",
+    "suburb": "Kensington",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429042998723",
+  "financialYearEnd": "28/2",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/DestinyChurchWhangarei/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T01:47:07Z"
+}

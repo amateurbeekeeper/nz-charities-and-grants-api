@@ -1,0 +1,27 @@
+{
+  "id": 73015,
+  "registrationNumber": "CC59413",
+  "name": "Papawhakaritorito Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.papawhakaritorito.com",
+  "email": "jo.smith@vuw.ac.nz",
+  "address": {
+    "line1": "80 Gilbert Road",
+    "line2": " ",
+    "suburb": "Kaitoke",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PapawhakaritoritoCharitableTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T18:39:36Z"
+}

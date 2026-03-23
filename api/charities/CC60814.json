@@ -1,0 +1,27 @@
+{
+  "id": 74404,
+  "registrationNumber": "CC60814",
+  "name": "Central Hawke's Bay Parenting Support Services",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2022-12-05T00:00:00Z",
+  "dateDeregistered": "2024-11-29T00:00:00Z",
+  "website": "https://www.chbpss.org.nz",
+  "email": "karenbothmer@gmail.com",
+  "address": {
+    "line1": "5 Cook Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waipukurau",
+    "postcode": "4200"
+  },
+  "nzbn": "9429050994373",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Central Hawke's Bay Parenting Support Services-CHB PSS",
+    "twitter": null
+  },
+  "lastUpdated": "2024-12-21T01:50:30Z"
+}

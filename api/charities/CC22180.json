@@ -1,0 +1,27 @@
+{
+  "id": 56132,
+  "registrationNumber": "CC22180",
+  "name": "Tokelauan Christian Church In Porirua",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "aki_kisona@asteronlife.co.nz",
+  "address": {
+    "line1": "8 Stemhead Lane",
+    "line2": " ",
+    "suburb": "Whitby",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": "9429043072170",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T18:32:21Z"
+}

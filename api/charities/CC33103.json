@@ -1,0 +1,27 @@
+{
+  "id": 45454,
+  "registrationNumber": "CC33103",
+  "name": "Wow Productions",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "qotd62@gmail.com",
+  "address": {
+    "line1": "19 Wharfdale Street",
+    "line2": " ",
+    "suburb": "Macandrew Bay",
+    "city": "Dunedin",
+    "postcode": "9014"
+  },
+  "nzbn": "9429042943051",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-10T20:20:45Z"
+}

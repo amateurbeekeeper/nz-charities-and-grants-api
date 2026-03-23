@@ -1,0 +1,27 @@
+{
+  "id": 33529,
+  "registrationNumber": "CC49695",
+  "name": "John Nesfield Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2013-09-05T00:00:00Z",
+  "dateDeregistered": "2023-12-31T00:00:00Z",
+  "website": "https://www.diabetes.org.nz",
+  "email": "nickyk@diabetes.org.nz",
+  "address": {
+    "line1": "Diabetes New Zealand House",
+    "line2": " 15-17 Murphy Stree, Level 10",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-11-29T09:17:54Z"
+}

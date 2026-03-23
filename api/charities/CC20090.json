@@ -1,0 +1,27 @@
+{
+  "id": 51050,
+  "registrationNumber": "CC20090",
+  "name": "Family Focus Rotorua",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-11-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.familyfocus.org.nz",
+  "email": "stacey.ford@familyfocus.org.nz",
+  "address": {
+    "line1": "1115 Pukaki Street",
+    "line2": "Rotorua 3010",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429043032280",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T02:37:43Z"
+}

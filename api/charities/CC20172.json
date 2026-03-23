@@ -1,0 +1,27 @@
+{
+  "id": 51240,
+  "registrationNumber": "CC20172",
+  "name": "Aotearoa Refugee Support Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.asst.org.nz",
+  "email": "chair@asst.org.nz",
+  "address": {
+    "line1": "Flat 3",
+    "line2": "4 Warnock Street",
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": "9429052925641",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@ARCI.NZ",
+    "twitter": "@Asylum_Trust_nz"
+  },
+  "lastUpdated": "2025-11-30T03:13:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41606,
+  "registrationNumber": "CC24153",
+  "name": "St Chad's Meadowbank Property Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.stchads.org.nz",
+  "email": "admin@stchads.org.nz",
+  "address": {
+    "line1": "ST CHAD'S CHURCH",
+    "line2": "38 St Johns Road",
+    "suburb": "Saint Johns",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:44Z"
+}

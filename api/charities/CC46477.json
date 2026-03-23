@@ -1,0 +1,27 @@
+{
+  "id": 36030,
+  "registrationNumber": "CC46477",
+  "name": "Otago Secondary Schools Sports Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.osssa.org.nz",
+  "email": "rsd@osssa.org.nz",
+  "address": {
+    "line1": "40 Logan Park Drive",
+    "line2": " ",
+    "suburb": "North Dunedin",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042943662",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/osssa.org.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T23:03:21Z"
+}

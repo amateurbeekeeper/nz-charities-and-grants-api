@@ -1,0 +1,27 @@
+{
+  "id": 77575,
+  "registrationNumber": "CC63370",
+  "name": "Japan Cultural Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-06-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.jcta.org.nz",
+  "email": "hideto@toroma.co.nz",
+  "address": {
+    "line1": "PO Box 300334",
+    "line2": " ",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0752"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-10T22:29:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66223,
+  "registrationNumber": "CC52487",
+  "name": "Northern Presbytery",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-09-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://northpres.org.nz",
+  "email": "neil99@orcon.net.nz",
+  "address": {
+    "line1": "111 Great South Road",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429051456214",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-15T04:21:58Z"
+}

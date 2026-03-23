@@ -1,0 +1,27 @@
+{
+  "id": 65812,
+  "registrationNumber": "CC52069",
+  "name": "Lumsden Kingston Presbyterian Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "karenandtrevor9@gmail.com",
+  "address": {
+    "line1": "1238 Mossburn Five Rivers Road",
+    "line2": "RD 3",
+    "suburb": "Acton",
+    "city": "Lumsden",
+    "postcode": "9793"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LBKchurch/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T18:16:03Z"
+}

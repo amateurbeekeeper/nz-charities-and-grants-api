@@ -1,0 +1,27 @@
+{
+  "id": 67126,
+  "registrationNumber": "CC53413",
+  "name": "Birthright Hutt Valley Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-05-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.birthright.org.nz",
+  "email": "scottierichardfisher@gmail.com",
+  "address": {
+    "line1": "PO Box 44005",
+    "line2": " ",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5040"
+  },
+  "nzbn": "9429043299249",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Facebook.com/birthright.huttvalley",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T08:08:46Z"
+}

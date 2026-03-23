@@ -1,0 +1,27 @@
+{
+  "id": 40685,
+  "registrationNumber": "CC38361",
+  "name": "First Church of Christ Scientist Dunedin New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.christiansciencenz.org/dunedin.html",
+  "email": "iselenemize@gmail.com",
+  "address": {
+    "line1": "32 York Place",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042701965",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:33:33Z"
+}

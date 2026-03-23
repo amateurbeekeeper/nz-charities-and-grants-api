@@ -1,0 +1,27 @@
+{
+  "id": 71065,
+  "registrationNumber": "CC57436",
+  "name": "THE KIWIS FOR GOOD FOUNDATION",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-12-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kiwisforgood.co.nz",
+  "email": "hello@kiwisforgood.co.nz",
+  "address": {
+    "line1": "11 Napier Terrace",
+    "line2": " ",
+    "suburb": "Hospital Hill",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429047797543",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/kiwisforgood",
+    "twitter": "twitter.com/goodkiwis"
+  },
+  "lastUpdated": "2025-10-15T23:51:45Z"
+}

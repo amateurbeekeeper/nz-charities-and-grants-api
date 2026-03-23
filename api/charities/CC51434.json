@@ -1,0 +1,27 @@
+{
+  "id": 65210,
+  "registrationNumber": "CC51434",
+  "name": "New Zealand Urological Nurses Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "contact@nzuns.co.nz",
+  "address": {
+    "line1": "9 Gleniti Road",
+    "line2": null,
+    "suburb": "Gleniti",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429043100620",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T02:16:58Z"
+}

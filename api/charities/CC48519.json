@@ -1,0 +1,27 @@
+{
+  "id": 32586,
+  "registrationNumber": "CC48519",
+  "name": "Community Living Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-09-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.communityliving.org.nz",
+  "email": "Accounts@communityliving.org.nz",
+  "address": {
+    "line1": "180 Collingwood Street",
+    "line2": " ",
+    "suburb": "Hamilton Lake",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429030637948",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-12T00:42:21Z"
+}

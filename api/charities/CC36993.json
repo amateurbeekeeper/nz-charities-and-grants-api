@@ -1,0 +1,27 @@
+{
+  "id": 42767,
+  "registrationNumber": "CC36993",
+  "name": "Alexandra Musical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://alexandramusicalsociety.com",
+  "email": "matt@alexandramusicalsociety.com",
+  "address": {
+    "line1": "41 Enterprise Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Alexandra",
+    "postcode": "9320"
+  },
+  "nzbn": "9429042578307",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Alexandra Musical Society",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T22:34:32Z"
+}

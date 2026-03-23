@@ -1,0 +1,27 @@
+{
+  "id": 46114,
+  "registrationNumber": "CC30560",
+  "name": "Newtown Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-31T00:00:00Z",
+  "website": null,
+  "email": "newtown@playcentre.org.nz",
+  "address": {
+    "line1": "3 Harper Street",
+    "line2": " ",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-20T06:04:11Z"
+}

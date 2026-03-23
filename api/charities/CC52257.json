@@ -1,0 +1,27 @@
+{
+  "id": 65989,
+  "registrationNumber": "CC52257",
+  "name": "Presbytery Central",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-08-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.presbyterycentral.org.nz",
+  "email": "adminassist@presbyterycentral.org.nz",
+  "address": {
+    "line1": "60 Princess Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:06:20Z"
+}

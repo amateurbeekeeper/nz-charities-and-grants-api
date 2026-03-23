@@ -1,0 +1,27 @@
+{
+  "id": 56091,
+  "registrationNumber": "CC22526",
+  "name": "Phar Lap Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pharlap.org.nz",
+  "email": "tangible@farmside.co.nz",
+  "address": {
+    "line1": "308 Pages Road",
+    "line2": " ",
+    "suburb": "Gleniti",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429043104376",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-19T02:36:22Z"
+}

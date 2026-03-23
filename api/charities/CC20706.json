@@ -1,0 +1,27 @@
+{
+  "id": 53634,
+  "registrationNumber": "CC20706",
+  "name": "Age Concern Napier Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ageconcern.org.nz",
+  "email": "manager@ageconcernhb.org.nz",
+  "address": {
+    "line1": "98 Taradale Road",
+    "line2": " ",
+    "suburb": "Onekawa",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042576228",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T22:09:51Z"
+}

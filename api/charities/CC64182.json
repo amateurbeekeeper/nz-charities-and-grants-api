@@ -1,0 +1,27 @@
+{
+  "id": 78370,
+  "registrationNumber": "CC64182",
+  "name": "Auckland Indian Sports Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-02-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://aisc.org.nz",
+  "email": "vbpatel2017@outlook.com",
+  "address": {
+    "line1": "19 Archmillen Avenue",
+    "line2": null,
+    "suburb": "Pakuranga Heights",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T22:14:56Z"
+}

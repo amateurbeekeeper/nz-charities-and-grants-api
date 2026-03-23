@@ -1,0 +1,27 @@
+{
+  "id": 77213,
+  "registrationNumber": "CC63125",
+  "name": "New Zealand Air Ambulance Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-03-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "cm@slw.co.nz",
+  "address": {
+    "line1": "111 Main North Road",
+    "line2": " ",
+    "suburb": "Napier Airport",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-13T03:27:59Z"
+}

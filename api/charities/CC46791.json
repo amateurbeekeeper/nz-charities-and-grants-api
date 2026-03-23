@@ -1,0 +1,27 @@
+{
+  "id": 37355,
+  "registrationNumber": "CC46791",
+  "name": "Lawrence Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-07-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fireandemergency.nz/",
+  "email": "Tim.dickey@fireandemergency.nz",
+  "address": {
+    "line1": "4 Ross Place",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lawrence",
+    "postcode": "9532"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:51:17Z"
+}

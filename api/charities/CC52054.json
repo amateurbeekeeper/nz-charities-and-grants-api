@@ -1,0 +1,27 @@
+{
+  "id": 65795,
+  "registrationNumber": "CC52054",
+  "name": "St Mark's Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "slilo-1228@outlook.com",
+  "address": {
+    "line1": "393 Massey Road",
+    "line2": " ",
+    "suburb": "Mangere East",
+    "city": "Auckland",
+    "postcode": "2024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https;//bit.ly/StMarks393",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T22:49:27Z"
+}

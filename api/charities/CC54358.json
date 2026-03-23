@@ -1,0 +1,27 @@
+{
+  "id": 68035,
+  "registrationNumber": "CC54358",
+  "name": "Ara Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.araskills.org.nz",
+  "email": "bianca.cresswell@aucklandairport.co.nz",
+  "address": {
+    "line1": "4 Leonard Isitt Drive",
+    "line2": " ",
+    "suburb": "Auckland Airport",
+    "city": "Auckland",
+    "postcode": "2022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/araskills",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T21:43:18Z"
+}

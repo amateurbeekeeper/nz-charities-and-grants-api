@@ -1,0 +1,27 @@
+{
+  "id": 70354,
+  "registrationNumber": "CC56710",
+  "name": "Nelson Festivals Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nelsonartsfestival.nz",
+  "email": "info@nelsonartsfestival.nz",
+  "address": {
+    "line1": "106 Collingwood Street",
+    "line2": "Nelson 7010",
+    "suburb": " ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429047092105",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nelsonartsfestival/",
+    "twitter": "https://twitter.com/home"
+  },
+  "lastUpdated": "2025-06-12T20:12:28Z"
+}

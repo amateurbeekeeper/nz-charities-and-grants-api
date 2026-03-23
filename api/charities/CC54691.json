@@ -1,0 +1,27 @@
+{
+  "id": 68355,
+  "registrationNumber": "CC54691",
+  "name": "Initial Volco Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-04-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hendrikuskoch@gmail.com",
+  "address": {
+    "line1": "464 Mount Cargill Road",
+    "line2": "RD 2",
+    "suburb": "Mount Cargill",
+    "city": "Waitati",
+    "postcode": "9085"
+  },
+  "nzbn": "9429042637011",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:41:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67322,
+  "registrationNumber": "CC53610",
+  "name": "Te Puawaitanga Marae Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-07-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "otangareimaraeinfo@gmail.com",
+  "address": {
+    "line1": "155  William Jones Drive",
+    "line2": " ",
+    "suburb": "Otangarei",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429043249794",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Otangarei Marae",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T02:25:33Z"
+}

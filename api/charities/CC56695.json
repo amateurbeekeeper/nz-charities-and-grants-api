@@ -1,0 +1,27 @@
+{
+  "id": 70332,
+  "registrationNumber": "CC56695",
+  "name": "Castlepoint Voluntary Rural Fire Force",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.fireandemergency.nz",
+  "email": "anders.crofoot@fireandemergency.nz",
+  "address": {
+    "line1": "42 Jetty Road",
+    "line2": "Castlepoint 5889",
+    "suburb": "Castlepoint",
+    "city": "Tīnui",
+    "postcode": "5889"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-04T22:39:47Z"
+}

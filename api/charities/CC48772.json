@@ -1,0 +1,27 @@
+{
+  "id": 33189,
+  "registrationNumber": "CC48772",
+  "name": "Waihi School Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-02-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waihi.school.nz",
+  "email": "accountant@waihi.school.nz",
+  "address": {
+    "line1": "611 Temuka-Orari Highway",
+    "line2": "RD 26",
+    "suburb": "Winchester",
+    "city": "Temuka",
+    "postcode": "7986"
+  },
+  "nzbn": "9429042899440",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T23:34:21Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 46653,
+  "registrationNumber": "CC38032",
+  "name": "Waitakere Volunteer Rural Fire Force Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "lthill@xtra.co.nz",
+  "address": {
+    "line1": "8 Township Road",
+    "line2": " ",
+    "suburb": "Waitākere",
+    "city": "Auckland",
+    "postcode": "0816"
+  },
+  "nzbn": "9429043194520",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WaitakereFireStation/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T23:02:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48120,
+  "registrationNumber": "CC28627",
+  "name": "The Lions Club of Tokoroa City Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tokoroalions.org",
+  "email": "secretary.tokoroacity@lionsclubs.org.nz",
+  "address": {
+    "line1": "10 Kensington Street",
+    "line2": "Tokoroa 3420",
+    "suburb": " ",
+    "city": "Tokoroa",
+    "postcode": "3420"
+  },
+  "nzbn": "9429043179664",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Tokoroa City Lions",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T01:46:40Z"
+}

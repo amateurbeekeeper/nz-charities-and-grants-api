@@ -1,0 +1,27 @@
+{
+  "id": 45163,
+  "registrationNumber": "CC36059",
+  "name": "Waitakere Christadelphian Ecclesia",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2025-08-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nzmattsimpson@gmail.com",
+  "address": {
+    "line1": "19A Avonleigh Road",
+    "line2": null,
+    "suburb": "Green Bay",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T04:36:13Z"
+}

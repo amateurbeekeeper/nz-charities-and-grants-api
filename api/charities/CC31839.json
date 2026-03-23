@@ -1,0 +1,27 @@
+{
+  "id": 46545,
+  "registrationNumber": "CC31839",
+  "name": "Woodend Volunteer Fire Brigade ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "djsanderson@hotmail.com",
+  "address": {
+    "line1": "4 Eders Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Woodend",
+    "postcode": "7610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://m.facebook.com/WoodendFire",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:05:19Z"
+}

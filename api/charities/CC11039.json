@@ -1,0 +1,27 @@
+{
+  "id": 51823,
+  "registrationNumber": "CC11039",
+  "name": "Hauora Hokianga Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hokiangahealth.org.nz",
+  "email": "margareth.broodkoorn@hokiangahealth.org.nz",
+  "address": {
+    "line1": "163 Parnell Street",
+    "line2": "Rawene 0473",
+    "suburb": "Rawene",
+    "city": "Northland",
+    "postcode": "0473"
+  },
+  "nzbn": "9429042646037",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hokiangahealth/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-05T03:59:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37132,
+  "registrationNumber": "CC48285",
+  "name": "Whanau/Family Support Services Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-10-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://whanaufamily.org.nz",
+  "email": "natasha@whanaufamily.org.nz",
+  "address": {
+    "line1": "55 Farmer Crescent",
+    "line2": "65 Dudley Street",
+    "suburb": "Taita",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": "9429042922223",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "www.facebook.com/WFSST",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T21:22:51Z"
+}

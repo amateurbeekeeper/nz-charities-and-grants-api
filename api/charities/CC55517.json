@@ -1,0 +1,27 @@
+{
+  "id": 69176,
+  "registrationNumber": "CC55517",
+  "name": "The Ekkaallam  Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-03-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.theekkaallamchurch.co.nz",
+  "email": "tec.wgtn@gmail.com",
+  "address": {
+    "line1": "47 Murphys Road",
+    "line2": "RD 1",
+    "suburb": "Judgeford",
+    "city": "Porirua",
+    "postcode": "5381"
+  },
+  "nzbn": "9429046114716",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/ekkaallam.tamilchurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:36:59Z"
+}

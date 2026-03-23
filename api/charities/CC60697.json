@@ -1,0 +1,27 @@
+{
+  "id": 74285,
+  "registrationNumber": "CC60697",
+  "name": "Wharekawa Adventure Education Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teatawharekawa.nz",
+  "email": "manager@wharekawa.nz",
+  "address": {
+    "line1": "389 Opoutere Road",
+    "line2": "RD 1",
+    "suburb": "Opoutere",
+    "city": "Whangamata",
+    "postcode": "3691"
+  },
+  "nzbn": "9429047067288",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@teatawharekawa",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:10:17Z"
+}

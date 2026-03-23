@@ -1,0 +1,27 @@
+{
+  "id": 65106,
+  "registrationNumber": "CC31904",
+  "name": "Childrens Bible Ministries Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cbm.org.nz",
+  "email": "ian@cbm.org.nz",
+  "address": {
+    "line1": "9 Walters Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042615477",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ChildrensBibleMinistries",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-29T20:21:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37075,
+  "registrationNumber": "CC46705",
+  "name": "Mosaic Auckland",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2011-06-22T00:00:00Z",
+  "dateDeregistered": "2017-04-11T00:00:00Z",
+  "website": null,
+  "email": "nigel@mosaicmorningside.org",
+  "address": {
+    "line1": "25 McDonald Street",
+    "line2": null,
+    "suburb": "Morningside",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-12-18T23:13:11Z"
+}

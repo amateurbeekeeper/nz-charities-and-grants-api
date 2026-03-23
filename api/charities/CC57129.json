@@ -1,0 +1,27 @@
+{
+  "id": 70768,
+  "registrationNumber": "CC57129",
+  "name": "Wairaka Playcentre",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-10-01T00:00:00Z",
+  "dateDeregistered": "2025-08-23T00:00:00Z",
+  "website": null,
+  "email": "wairaka@playcentre.org.nz",
+  "address": {
+    "line1": "21 Harvey Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/WairakaPlaycentreWhakatane/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T07:11:07Z"
+}

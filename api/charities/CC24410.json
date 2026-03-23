@@ -1,0 +1,27 @@
+{
+  "id": 41586,
+  "registrationNumber": "CC24410",
+  "name": "Mobility Assistance Dogs Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mobilitydogs.co.nz",
+  "email": "jody.wilson@mobilitydogs.co.nz",
+  "address": {
+    "line1": "Unit C, 13-15 Collard Place",
+    "line2": " ",
+    "suburb": "Henderson",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": "9429043130139",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/mobilitydogs",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-18T23:05:47Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65456,
+  "registrationNumber": "CC51688",
+  "name": "Revolve Rotorua",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-04-13T00:00:00Z",
+  "dateDeregistered": "2023-03-31T00:00:00Z",
+  "website": "https://www.revolverotorua.com",
+  "email": "gayle.newman@hotmail.co.nz",
+  "address": {
+    "line1": "4 Westminster Drive",
+    "line2": " ",
+    "suburb": "Owhata",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-05-12T07:01:21Z"
+}

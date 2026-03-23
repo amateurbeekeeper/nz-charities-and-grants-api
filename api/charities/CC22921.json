@@ -1,0 +1,27 @@
+{
+  "id": 40457,
+  "registrationNumber": "CC22921",
+  "name": "Wellington Hospitals Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.whf.org.nz",
+  "email": "guy.ryan@ccdhb.org.nz",
+  "address": {
+    "line1": "Level 2",
+    "line2": "Wellington Hospital",
+    "suburb": "Newtown",
+    "city": "Wellington",
+    "postcode": "6242"
+  },
+  "nzbn": "9429043050932",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Wellington Hospitals Foundation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T18:31:34Z"
+}

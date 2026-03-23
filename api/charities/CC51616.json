@@ -1,0 +1,27 @@
+{
+  "id": 65384,
+  "registrationNumber": "CC51616",
+  "name": "CARE Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-03-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.caretrust.org.nz",
+  "email": "careopsmanager@gmail.com",
+  "address": {
+    "line1": "862 Whangamata Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Taupo",
+    "postcode": "3377"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "@CARECommunityNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-02-17T18:22:46Z"
+}

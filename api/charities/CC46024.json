@@ -1,0 +1,27 @@
+{
+  "id": 50224,
+  "registrationNumber": "CC46024",
+  "name": "Academy of Judo New Plymouth Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-01-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gertjie.nz@gmail.com",
+  "address": {
+    "line1": "18 Wesley Avenue",
+    "line2": " ",
+    "suburb": "Frankleigh Park",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042573227",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NewPlymouthAcademyofJudo/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T00:43:20Z"
+}

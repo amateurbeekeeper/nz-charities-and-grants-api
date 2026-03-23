@@ -1,0 +1,27 @@
+{
+  "id": 55374,
+  "registrationNumber": "CC41100",
+  "name": "Ranui House Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2023-03-23T00:00:00Z",
+  "website": "http://www.bmct.org.nz",
+  "email": "info@bmct.org.nz",
+  "address": {
+    "line1": "C/- Bone Marrow Cancer Trust",
+    "line2": "P O Box 8339",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8440"
+  },
+  "nzbn": "9429034753293",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/ranuihouse",
+    "twitter": null
+  },
+  "lastUpdated": "2023-04-06T07:08:17Z"
+}

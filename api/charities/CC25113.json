@@ -1,0 +1,27 @@
+{
+  "id": 56725,
+  "registrationNumber": "CC25113",
+  "name": "St Paul's Co-operating Parish Taumarunui",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "mervles@xtra.co.nz",
+  "address": {
+    "line1": "8 Marae Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Taumarunui",
+    "postcode": "3920"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:13:28Z"
+}

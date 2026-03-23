@@ -1,0 +1,27 @@
+{
+  "id": 61670,
+  "registrationNumber": "CC32532",
+  "name": "Mangakino Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2023-08-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "craig.snowball@fireandemergency.nz",
+  "address": {
+    "line1": "College Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mangakino",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T23:21:11Z"
+}

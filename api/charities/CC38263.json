@@ -1,0 +1,27 @@
+{
+  "id": 44031,
+  "registrationNumber": "CC38263",
+  "name": "Slow Food Waitakere",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.slowfoodauckland.co.nz",
+  "email": "Connective@connective.co.nz",
+  "address": {
+    "line1": "5A Gane Lane",
+    "line2": " ",
+    "suburb": "Te Atatu Peninsula",
+    "city": "Auckland",
+    "postcode": "0610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/slowfoodauckland/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T18:55:26Z"
+}

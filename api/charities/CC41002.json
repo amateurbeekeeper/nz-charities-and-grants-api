@@ -1,0 +1,27 @@
+{
+  "id": 64332,
+  "registrationNumber": "CC41002",
+  "name": "South Auckland Muslim Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sama.co.nz",
+  "email": "president.sama@xtra.co.nz",
+  "address": {
+    "line1": "26 Mangere Road",
+    "line2": " ",
+    "suburb": "Otahuhu",
+    "city": "Auckland",
+    "postcode": "1062"
+  },
+  "nzbn": "9429042726463",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T20:22:12Z"
+}

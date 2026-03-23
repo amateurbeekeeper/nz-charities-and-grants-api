@@ -1,0 +1,27 @@
+{
+  "id": 65971,
+  "registrationNumber": "CC52238",
+  "name": "Centre for Marriage and Family",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.marriageandfamily.org.nz",
+  "email": "psison@marriageandfamily.org.nz",
+  "address": {
+    "line1": "40 Westhaven Drive",
+    "line2": " ",
+    "suburb": "Tawa",
+    "city": "Wellington",
+    "postcode": "5028"
+  },
+  "nzbn": "9429043257973",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-27T06:19:34Z"
+}

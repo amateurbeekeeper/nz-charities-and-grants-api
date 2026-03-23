@@ -1,0 +1,27 @@
+{
+  "id": 44320,
+  "registrationNumber": "CC28319",
+  "name": "Otautau Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "wendy.mathieson@fireandemergency.nz",
+  "address": {
+    "line1": "Alderley Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Otautau",
+    "postcode": "9610"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T00:31:03Z"
+}

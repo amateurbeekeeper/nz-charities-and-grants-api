@@ -1,0 +1,27 @@
+{
+  "id": 70330,
+  "registrationNumber": "CC56689",
+  "name": "Amberley Agricultural and Pastoral Association",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-08-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://showday.online/show/amberley",
+  "email": "treasurer@amberleyshow.co.nz",
+  "address": {
+    "line1": "PO Box 129",
+    "line2": null,
+    "suburb": " ",
+    "city": "Amberley",
+    "postcode": "7441"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/amberleyshow/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T00:06:32Z"
+}

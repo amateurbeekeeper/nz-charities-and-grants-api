@@ -1,0 +1,27 @@
+{
+  "id": 60295,
+  "registrationNumber": "CC29498",
+  "name": "Queenstown Trails Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.queenstowntrails.org.nz",
+  "email": "mark.williams@queenstowntrails.org.nz",
+  "address": {
+    "line1": "5 Sutherland Lane",
+    "line2": " ",
+    "suburb": "Frankton",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": "9429043145348",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/QueenstownTrails/",
+    "twitter": "twitter.com/QTTrail"
+  },
+  "lastUpdated": "2025-12-07T18:06:14Z"
+}

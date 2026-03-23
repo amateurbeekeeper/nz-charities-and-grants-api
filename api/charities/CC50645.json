@@ -1,0 +1,27 @@
+{
+  "id": 34091,
+  "registrationNumber": "CC50645",
+  "name": "Achilles New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.achillesnewzealand.org/",
+  "email": "maia@achillesnewzealand.org",
+  "address": {
+    "line1": "1209 East Coast Road",
+    "line2": "RD 3",
+    "suburb": " ",
+    "city": "Pokeno",
+    "postcode": "2473"
+  },
+  "nzbn": "9429043129232",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Achilles International New Zealand",
+    "twitter": "https://twitter.com/achnz1"
+  },
+  "lastUpdated": "2026-01-19T01:33:35Z"
+}

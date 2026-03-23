@@ -1,0 +1,27 @@
+{
+  "id": 48547,
+  "registrationNumber": "CC30721",
+  "name": "The Artworks Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ArtworksTheatre.org.nz",
+  "email": "penny.rea@suncorp.co.nz",
+  "address": {
+    "line1": "2 Korora Road",
+    "line2": " ",
+    "suburb": "Oneroa",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429043160181",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ArtworksTheatre",
+    "twitter": "https://twitter.com/artworkstheatre"
+  },
+  "lastUpdated": "2026-03-19T16:26:08Z"
+}

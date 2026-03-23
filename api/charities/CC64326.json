@@ -1,0 +1,27 @@
+{
+  "id": 78510,
+  "registrationNumber": "CC64326",
+  "name": "The Kitchen Fairies",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "amylouise.ellis@gmail.com",
+  "address": {
+    "line1": "298A Blairlogie-Langdale Road",
+    "line2": "RD 12",
+    "suburb": "Blairlogie",
+    "city": "Masterton",
+    "postcode": "5872"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/kitchenfairieswairarapa",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T01:49:20Z"
+}

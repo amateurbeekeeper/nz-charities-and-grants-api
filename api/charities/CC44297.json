@@ -1,0 +1,27 @@
+{
+  "id": 50432,
+  "registrationNumber": "CC44297",
+  "name": "Methven New Life Church",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2010-04-13T00:00:00Z",
+  "dateDeregistered": "2011-09-29T00:00:00Z",
+  "website": null,
+  "email": "rob@ashburtonnewlife.com",
+  "address": {
+    "line1": "36 McMillan Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Methven",
+    "postcode": "7730"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:30:37Z"
+}

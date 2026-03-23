@@ -1,0 +1,27 @@
+{
+  "id": 33523,
+  "registrationNumber": "CC50092",
+  "name": "Nelson Animal Rescue",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2013-11-12T00:00:00Z",
+  "dateDeregistered": "2015-05-18T00:00:00Z",
+  "website": null,
+  "email": null,
+  "address": {
+    "line1": "21 Lord Auckland Road",
+    "line2": null,
+    "suburb": null,
+    "city": "Wakefield",
+    "postcode": null
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2024-02-22T23:47:57Z"
+}

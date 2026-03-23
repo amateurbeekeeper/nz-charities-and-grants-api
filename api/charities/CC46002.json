@@ -1,0 +1,27 @@
+{
+  "id": 38349,
+  "registrationNumber": "CC46002",
+  "name": "The Actor's Program",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-01-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.theactorsprogram.co.nz",
+  "email": "mike.cronin@fonterra.com",
+  "address": {
+    "line1": "283 Karangahape Road",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043193240",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/theactorsprogram/",
+    "twitter": "https://twitter.com/ActorsProgram"
+  },
+  "lastUpdated": "2026-02-20T03:28:38Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52732,
+  "registrationNumber": "CC10970",
+  "name": "Life Church Timaru",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.lifechurchtimaru.com",
+  "email": "lynne@lifechurchtimaru.com",
+  "address": {
+    "line1": "134 Morgans Road",
+    "line2": " ",
+    "suburb": "Marchwiel",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429042989592",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Life Church Timaru",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T03:04:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37210,
+  "registrationNumber": "CC47895",
+  "name": "Sandiland Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "accounts@linfield.co.nz",
+  "address": {
+    "line1": "56 Kearneys Road",
+    "line2": " ",
+    "suburb": "Linwood",
+    "city": "Christchurch",
+    "postcode": "8062"
+  },
+  "nzbn": "9429043179312",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T23:06:43Z"
+}

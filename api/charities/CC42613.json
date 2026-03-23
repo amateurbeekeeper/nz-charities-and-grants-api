@@ -1,0 +1,27 @@
+{
+  "id": 46940,
+  "registrationNumber": "CC42613",
+  "name": "The Embassy @ North Beach",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.theembassychurch.co.nz",
+  "email": "kristopher@theembassychurch.co.nz",
+  "address": {
+    "line1": "143 Tedder Avenue",
+    "line2": null,
+    "suburb": "North New Brighton",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61556336196207",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T22:13:32Z"
+}

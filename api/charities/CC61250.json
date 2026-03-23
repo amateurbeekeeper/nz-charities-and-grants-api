@@ -1,0 +1,27 @@
+{
+  "id": 74831,
+  "registrationNumber": "CC61250",
+  "name": "Regenpreneur Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.regenpreneur.org",
+  "email": "richard@regenpreneur.com",
+  "address": {
+    "line1": "9 Toi Street",
+    "line2": " ",
+    "suburb": "Tawhero",
+    "city": "Whanganui",
+    "postcode": "4501"
+  },
+  "nzbn": "9429043394982",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100050646531634",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T00:54:27Z"
+}

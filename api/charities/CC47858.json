@@ -1,0 +1,27 @@
+{
+  "id": 38010,
+  "registrationNumber": "CC47858",
+  "name": "OneSight New Zealand",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2012-03-09T00:00:00Z",
+  "dateDeregistered": "2019-06-25T00:00:00Z",
+  "website": "onesight.org.au",
+  "email": "willy.sussman@bellgully.com",
+  "address": {
+    "line1": "BELL GULLY   LEVEL 22  VERO CENTRE",
+    "line2": "48 Shortland Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-07-17T20:13:01Z"
+}

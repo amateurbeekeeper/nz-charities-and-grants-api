@@ -1,0 +1,27 @@
+{
+  "id": 45768,
+  "registrationNumber": "CC33370",
+  "name": "Strive Rehabilitation Manawatu Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.striverehabilitationpn.org.nz",
+  "email": "tlloydwest@striverehabilitationpn.org.nz",
+  "address": {
+    "line1": "38 West Street",
+    "line2": " ",
+    "suburb": "West End",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": "9429042996088",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/StriveRehabilitationManawatu",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T07:48:43Z"
+}

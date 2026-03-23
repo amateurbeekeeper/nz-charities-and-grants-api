@@ -1,0 +1,27 @@
+{
+  "id": 66815,
+  "registrationNumber": "CC53085",
+  "name": "The Korean School of Tauranga",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-10-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jk.kimjh@gmail.com",
+  "address": {
+    "line1": "107 Westmorland Rise",
+    "line2": " ",
+    "suburb": "Bethlehem",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The Korean School of Tauranga",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T19:14:34Z"
+}

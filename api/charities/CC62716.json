@@ -1,0 +1,27 @@
+{
+  "id": 76422,
+  "registrationNumber": "CC62716",
+  "name": "Chatterbox Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://chatterbox.org.nz",
+  "email": "blair@esel.co.nz",
+  "address": {
+    "line1": "6 Raymond Street",
+    "line2": " ",
+    "suburb": "Point Chevalier",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100085832598490",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-10T00:40:17Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71007,
+  "registrationNumber": "CC57378",
+  "name": "Vineyard City Church Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2019-09-10T00:00:00Z",
+  "dateDeregistered": "2021-04-01T00:00:00Z",
+  "website": null,
+  "email": "cam@vineyard.org.nz",
+  "address": {
+    "line1": "11B Serwayne Place",
+    "line2": " ",
+    "suburb": "Sunnyvale",
+    "city": "Auckland",
+    "postcode": "0612"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/vineyardcitynz/?hc_location=group",
+    "twitter": null
+  },
+  "lastUpdated": "2021-08-05T19:08:00Z"
+}

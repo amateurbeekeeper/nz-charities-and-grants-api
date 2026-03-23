@@ -1,0 +1,27 @@
+{
+  "id": 58164,
+  "registrationNumber": "CC38920",
+  "name": "New Plymouth Riding for the Disabled Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.newplymouthrda.org.nz",
+  "email": "Kevin.nielsen@xtra.co.nz",
+  "address": {
+    "line1": "1 Alba Street",
+    "line2": "Alba Street",
+    "suburb": "Whalers Gate",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429042684121",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NPRDA/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T02:00:14Z"
+}

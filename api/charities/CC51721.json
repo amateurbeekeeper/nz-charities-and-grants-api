@@ -1,0 +1,27 @@
+{
+  "id": 65489,
+  "registrationNumber": "CC51721",
+  "name": "New Zealand Medical Students Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzmsa.org.nz/",
+  "email": "treasurer@nzmsa.org.nz",
+  "address": {
+    "line1": "PO Box 110032",
+    "line2": "Auckland Hospital",
+    "suburb": "Grafton",
+    "city": "Auckland",
+    "postcode": "1148"
+  },
+  "nzbn": "9429043015870",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NZMSA/",
+    "twitter": "@nzmsa"
+  },
+  "lastUpdated": "2025-06-22T22:52:14Z"
+}

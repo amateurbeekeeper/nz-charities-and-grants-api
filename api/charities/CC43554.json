@@ -1,0 +1,27 @@
+{
+  "id": 62637,
+  "registrationNumber": "CC43554",
+  "name": "Taitapu Golf Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-02-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.taitapugolf.nz",
+  "email": "secretary@taitapugolf.nz",
+  "address": {
+    "line1": "Rhodes Park Domain",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tai Tapu",
+    "postcode": null
+  },
+  "nzbn": "9429042829683",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-14T03:22:56Z"
+}

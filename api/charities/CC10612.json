@@ -1,0 +1,27 @@
+{
+  "id": 51538,
+  "registrationNumber": "CC10612",
+  "name": "FEBC-NZ Radio International Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-07-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.febc.nz",
+  "email": "financial@febc.nz",
+  "address": {
+    "line1": "2 Cate Road",
+    "line2": " ",
+    "suburb": "Rototuna",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429042717836",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/febcnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:01:37Z"
+}

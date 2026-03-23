@@ -1,0 +1,27 @@
+{
+  "id": 75626,
+  "registrationNumber": "CC62077",
+  "name": "Oracy Aotearoa New Zealand",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-03-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.oracyaotearoa.nz/",
+  "email": "manager@oracyaotearoa.nz",
+  "address": {
+    "line1": "6A Doris Street",
+    "line2": "Richmond 7020",
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": "9429051953409",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61557181834019",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T02:39:28Z"
+}

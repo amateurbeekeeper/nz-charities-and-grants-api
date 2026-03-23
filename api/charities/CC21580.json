@@ -1,0 +1,27 @@
+{
+  "id": 51162,
+  "registrationNumber": "CC21580",
+  "name": "Morrinsville Art Gallery Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.morrinsvillegallery.org.nz/",
+  "email": "grant@cooperaitken.co.nz",
+  "address": {
+    "line1": "167 Thames Street",
+    "line2": "Morrinsville 3300",
+    "suburb": " ",
+    "city": "Morrinsville",
+    "postcode": "3300"
+  },
+  "nzbn": "9429043040056",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Morrinsvillegallery/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T22:49:09Z"
+}

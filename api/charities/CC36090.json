@@ -1,0 +1,27 @@
+{
+  "id": 62342,
+  "registrationNumber": "CC36090",
+  "name": "Southern Pacific Computer Mission (NZ)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-12-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@jlpartners.co.nz",
+  "address": {
+    "line1": "556A East Coast Road",
+    "line2": " ",
+    "suburb": "Windsor Park",
+    "city": "Auckland",
+    "postcode": "630"
+  },
+  "nzbn": "9429043183029",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-23T23:07:23Z"
+}

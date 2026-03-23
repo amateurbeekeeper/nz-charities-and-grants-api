@@ -1,0 +1,27 @@
+{
+  "id": 48130,
+  "registrationNumber": "CC41967",
+  "name": "Living Waters Community Church of the Nazarene",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "larry26.lt@gmail.com",
+  "address": {
+    "line1": "125 Kerrs Road",
+    "line2": " ",
+    "suburb": "Avonside",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429043051946",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T08:37:03Z"
+}

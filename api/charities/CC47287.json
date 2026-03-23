@@ -1,0 +1,27 @@
+{
+  "id": 37864,
+  "registrationNumber": "CC47287",
+  "name": "The Chaplaincy New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://admin@chaplaincynz.org.nz  www.chaplaincynz.org.nz",
+  "email": "admin@chaplaincynz.org.nz",
+  "address": {
+    "line1": "36 Omahina Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Raglan",
+    "postcode": "3225"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "chaplaincy New Zealand",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T01:23:59Z"
+}

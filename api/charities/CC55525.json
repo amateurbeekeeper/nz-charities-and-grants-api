@@ -1,0 +1,27 @@
+{
+  "id": 69173,
+  "registrationNumber": "CC55525",
+  "name": "Arts Murihiku Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-02-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.artsmurihiku.co.nz",
+  "email": "becs@artsmurihiku.co.nz",
+  "address": {
+    "line1": "34 Forth Street",
+    "line2": "Invercargill 9810",
+    "suburb": "Appleby",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429046517494",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/artsmurihiku/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-21T20:33:59Z"
+}

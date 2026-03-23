@@ -1,0 +1,27 @@
+{
+  "id": 66570,
+  "registrationNumber": "CC52838",
+  "name": "The Evergreen Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-01-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.evergreenfoundation.org.nz",
+  "email": "roger.hooker@evergreenfoundation.org.nz",
+  "address": {
+    "line1": "24 Porter Drive",
+    "line2": "Havelock North 4130",
+    "suburb": "Longlands",
+    "city": "Havelock North",
+    "postcode": "4130"
+  },
+  "nzbn": "9429051376123",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/theevergreenfoundationnz?mibextid=LQQJ4d",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:51:29Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 38940,
+  "registrationNumber": "CC26313",
+  "name": "Sukyo Mahikari New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sukyomahikari.org.nz",
+  "email": "gordon.mclean@sukyomahikari.org.nz",
+  "address": {
+    "line1": "8 Carr Road",
+    "line2": " ",
+    "suburb": "Three Kings",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429042840428",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:13:31Z"
+}

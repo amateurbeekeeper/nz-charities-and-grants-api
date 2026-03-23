@@ -1,0 +1,27 @@
+{
+  "id": 70472,
+  "registrationNumber": "CC56837",
+  "name": "Te Haroto Marae",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "moarirose@gmail.com",
+  "address": {
+    "line1": "4865 State Highway 5",
+    "line2": "Te Haroto 4182",
+    "suburb": "Pirimai",
+    "city": "Te Haroto",
+    "postcode": "4182"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-22T06:28:17Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 74497,
+  "registrationNumber": "CC60917",
+  "name": "Pou Whakapapa Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "chair@pouwhakapapa.org.nz",
+  "address": {
+    "line1": "22 King Street",
+    "line2": "RD 1",
+    "suburb": "Kensington",
+    "city": "Whangarei",
+    "postcode": "0112"
+  },
+  "nzbn": "9429050779031",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-30T03:35:53Z"
+}

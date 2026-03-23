@@ -1,0 +1,27 @@
+{
+  "id": 36232,
+  "registrationNumber": "CC48296",
+  "name": "Te Korowai Aroha o Aotearoa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-10-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tekorowai.org",
+  "email": "keng@goldsmithsca.co.nz",
+  "address": {
+    "line1": "PO Box 208",
+    "line2": "Whakatane 3158",
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3158"
+  },
+  "nzbn": "9429042863731",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-22T19:42:42Z"
+}

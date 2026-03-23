@@ -1,0 +1,27 @@
+{
+  "id": 69072,
+  "registrationNumber": "CC55419",
+  "name": "The Methodist Church of New Zealand Te Haahi Weteriana O Aotearoa Pukekohe Tongan Methodist Parish",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.methodist.org.nz",
+  "email": "charities@methodist.org.nz",
+  "address": {
+    "line1": "Cny Queen and Wesley Streets",
+    "line2": " ",
+    "suburb": "Pukekohe",
+    "city": "Auckland",
+    "postcode": "2120"
+  },
+  "nzbn": "2222222222222",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "N/A",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2025-12-08T19:37:08Z"
+}

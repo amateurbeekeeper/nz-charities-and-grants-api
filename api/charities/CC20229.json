@@ -1,0 +1,27 @@
+{
+  "id": 52570,
+  "registrationNumber": "CC20229",
+  "name": "Youth Alive Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.yat.org.nz",
+  "email": "david.dupreez@yat.org.nz",
+  "address": {
+    "line1": "111 Seaview Road",
+    "line2": " ",
+    "suburb": "New Brighton",
+    "city": "Christchurch",
+    "postcode": "8061"
+  },
+  "nzbn": "9429042921820",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/youthalivetrustnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T22:36:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 69880,
+  "registrationNumber": "CC56234",
+  "name": "Literacy Aotearoa Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-01-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.literacy.org.nz",
+  "email": "bmunro@literacy.org.nz",
+  "address": {
+    "line1": "111 Apirana Avenue",
+    "line2": " ",
+    "suburb": "Glen Innes",
+    "city": "Auckland",
+    "postcode": "1072"
+  },
+  "nzbn": "9429047213609",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-03T03:35:00Z"
+}

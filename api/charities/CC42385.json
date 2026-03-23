@@ -1,0 +1,27 @@
+{
+  "id": 64954,
+  "registrationNumber": "CC42385",
+  "name": "Wainui Surf Life Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wainuislsc.co.nz",
+  "email": "miriam.allan@rochdale.co.nz",
+  "address": {
+    "line1": "Moana Road",
+    "line2": "Wainui",
+    "suburb": " ",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429042886150",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T23:36:30Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 77576,
+  "registrationNumber": "CC63373",
+  "name": "Auckland International Football Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-06-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://aklinterfc.com/",
+  "email": "jerryshen@xtra.co.nz",
+  "address": {
+    "line1": "Level 3/435 Khyber Pass Road",
+    "line2": "Level 3",
+    "suburb": "Newmarket",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/aklinterfc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-03T02:34:51Z"
+}

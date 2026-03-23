@@ -1,0 +1,27 @@
+{
+  "id": 73999,
+  "registrationNumber": "CC60416",
+  "name": "Tūhura Tech",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tuhuratech.org.nz/",
+  "email": "lillian.pak@gmail.com",
+  "address": {
+    "line1": "31 Townsend Road",
+    "line2": " ",
+    "suburb": "Miramar",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429050522712",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/p/T%C5%ABhura-Tech-100083052084710",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-28T08:34:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41812,
+  "registrationNumber": "CC25551",
+  "name": "Te Puna Quarry Park Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.quarrypark.org.nz",
+  "email": "tepunaquarrypark@gmail.com",
+  "address": {
+    "line1": "110 Te Puna Quarry Road",
+    "line2": "RD 7",
+    "suburb": "Whakamarama",
+    "city": "Tauranga",
+    "postcode": "3179"
+  },
+  "nzbn": "9429042841661",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TePunaQuarryPark/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T03:35:05Z"
+}

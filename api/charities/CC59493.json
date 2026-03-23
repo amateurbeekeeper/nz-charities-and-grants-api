@@ -1,0 +1,27 @@
+{
+  "id": 73091,
+  "registrationNumber": "CC59493",
+  "name": "Questionable Research Labs Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-10-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://questionable.org.nz",
+  "email": "kevin@questionable.org.nz",
+  "address": {
+    "line1": "44 Anzac Road",
+    "line2": " ",
+    "suburb": "Morningside",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": "9429049881356",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:54:36Z"
+}

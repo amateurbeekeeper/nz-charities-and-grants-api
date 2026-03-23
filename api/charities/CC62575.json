@@ -1,0 +1,27 @@
+{
+  "id": 76181,
+  "registrationNumber": "CC62575",
+  "name": "Livingstone Christian Community Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Maasagala@gmail.com",
+  "address": {
+    "line1": "63 Strand Crescent",
+    "line2": " ",
+    "suburb": "Naenae",
+    "city": "Lower Hutt",
+    "postcode": "5011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100054843366752",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-10T23:51:59Z"
+}

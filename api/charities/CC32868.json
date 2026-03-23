@@ -1,0 +1,27 @@
+{
+  "id": 45174,
+  "registrationNumber": "CC32868",
+  "name": "Tautoko Tāne Waikato",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waikatosurvivors.com",
+  "email": "mike@waikatosurvivors.org.nz",
+  "address": {
+    "line1": "420 Ruakura Lane",
+    "line2": " ",
+    "suburb": "Ruakura",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": "9429043190645",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/malesupportservices/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T18:31:47Z"
+}

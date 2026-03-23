@@ -1,0 +1,27 @@
+{
+  "id": 60919,
+  "registrationNumber": "CC29273",
+  "name": "Waiheke Musical Museum Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.musicalmuseum.org.nz",
+  "email": "treasurer@musicalmuseum.org.nz",
+  "address": {
+    "line1": "2 Korora Road",
+    "line2": " ",
+    "suburb": "Oneroa",
+    "city": "Waiheke Island",
+    "postcode": "1081"
+  },
+  "nzbn": "9429042941781",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waihekemusicalmuseum",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-02T05:21:00Z"
+}

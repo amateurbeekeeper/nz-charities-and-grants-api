@@ -1,0 +1,27 @@
+{
+  "id": 51001,
+  "registrationNumber": "CC10011",
+  "name": "Epsom Girls Grammar School Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.eggs.school.nz",
+  "email": "jgoodyer@ellisgould.co.nz",
+  "address": {
+    "line1": "Epsom Girls' Grammar School",
+    "line2": "14 Silver Road",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042974390",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-01T19:11:33Z"
+}

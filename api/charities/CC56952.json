@@ -1,0 +1,27 @@
+{
+  "id": 70586,
+  "registrationNumber": "CC56952",
+  "name": "Ekta NZ Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-09-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ekta.nz",
+  "email": "manjit@ekta.nz",
+  "address": {
+    "line1": "30 Landsdowne Terrace",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429046228536",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ektanzinc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T06:24:53Z"
+}

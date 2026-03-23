@@ -1,0 +1,27 @@
+{
+  "id": 65264,
+  "registrationNumber": "CC51497",
+  "name": "Kawhia Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ufba.org.nz/fire_community/brigade/kawhia_volunteer_fire_brigade",
+  "email": "sabs_nz@hotmail.com",
+  "address": {
+    "line1": "cnr Pouewe and Charleton Streets",
+    "line2": " ",
+    "suburb": "KAWHIA",
+    "city": "Te Awamutu",
+    "postcode": "3843"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@KawhiaFire",
+    "twitter": "n/a"
+  },
+  "lastUpdated": "2025-08-21T19:39:48Z"
+}

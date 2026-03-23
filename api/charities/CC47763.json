@@ -1,0 +1,27 @@
+{
+  "id": 37987,
+  "registrationNumber": "CC47763",
+  "name": "Encounter Hope Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-06-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://thehopecentre.wordpress.com/",
+  "email": "greg.vannes@gmail.com",
+  "address": {
+    "line1": "4109A Great North Road",
+    "line2": "PO BOX 19 360",
+    "suburb": "Glen Eden",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": "9429043262267",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Hope Centre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-02T19:53:41Z"
+}

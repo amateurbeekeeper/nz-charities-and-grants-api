@@ -1,0 +1,27 @@
+{
+  "id": 42397,
+  "registrationNumber": "CC24557",
+  "name": "Riccarton Rotary Youth Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rryt.org.nz",
+  "email": "riccartonyouthtrust@gmail.com",
+  "address": {
+    "line1": "136 Ilam Road",
+    "line2": "Riccarton",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042814993",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:21:04Z"
+}

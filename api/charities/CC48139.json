@@ -1,0 +1,27 @@
+{
+  "id": 32632,
+  "registrationNumber": "CC48139",
+  "name": "The YMCA Palmerston North Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-07-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ycentral.nz",
+  "email": "Funding@ycentral.nz",
+  "address": {
+    "line1": "67 Pilmuir Street",
+    "line2": " ",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429043231836",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T02:14:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40596,
+  "registrationNumber": "CC23134",
+  "name": "Canterbury Horticultural Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.chsgardens.co.nz",
+  "email": "office@chsgardens.co.nz",
+  "address": {
+    "line1": "The Kiosk",
+    "line2": " Christchurch Botanic Gardens",
+    "suburb": " ",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429042601975",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CanterburyHorticulturalSociety/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T20:54:28Z"
+}

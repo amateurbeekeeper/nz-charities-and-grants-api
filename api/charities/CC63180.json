@@ -1,0 +1,27 @@
+{
+  "id": 77314,
+  "registrationNumber": "CC63180",
+  "name": "Horses R Us NZ Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-11-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.horsesrusnz.com",
+  "email": "horses.r.us.nz@gmail.com",
+  "address": {
+    "line1": "251 Pokuru Road",
+    "line2": "RD 1",
+    "suburb": "Tirohanga",
+    "city": "Atiamuri",
+    "postcode": "3078"
+  },
+  "nzbn": "9429052278051",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Horses R Us NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T02:36:30Z"
+}

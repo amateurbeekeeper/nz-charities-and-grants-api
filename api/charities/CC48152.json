@@ -1,0 +1,27 @@
+{
+  "id": 37693,
+  "registrationNumber": "CC48152",
+  "name": "Foxton Surf and Life Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-04-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.foxtonslsc.co.nz/",
+  "email": "foxtonslsc@gmail.com",
+  "address": {
+    "line1": "Marine Parade",
+    "line2": null,
+    "suburb": " ",
+    "city": "Foxton Beach",
+    "postcode": "4815"
+  },
+  "nzbn": "9429042720836",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FoxtonSurfLifeSavingClub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T22:55:58Z"
+}

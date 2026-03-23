@@ -1,0 +1,27 @@
+{
+  "id": 70720,
+  "registrationNumber": "CC57088",
+  "name": "Christ-Centered Church",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-08-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ccccommunity.co.nz",
+  "email": "sione_mohi@yahoo.co.nz",
+  "address": {
+    "line1": "11B George Street",
+    "line2": " ",
+    "suburb": "Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429047606012",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Christ-Centered Church",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-10T10:34:46Z"
+}

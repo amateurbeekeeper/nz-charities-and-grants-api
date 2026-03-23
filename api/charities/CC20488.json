@@ -1,0 +1,27 @@
+{
+  "id": 53448,
+  "registrationNumber": "CC20488",
+  "name": "Mason Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-01-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.canterburymuseum.com",
+  "email": "ntecofsky@canterburymuseum.com",
+  "address": {
+    "line1": "Private Bag 4744",
+    "line2": null,
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8140"
+  },
+  "nzbn": "9429042742937",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-23T19:36:10Z"
+}

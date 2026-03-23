@@ -1,0 +1,27 @@
+{
+  "id": 45171,
+  "registrationNumber": "CC33087",
+  "name": "Hawke's Bay Multiple Sclerosis Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hawkesbaymultiplesclerosis.org",
+  "email": "manager@mshawkesbay.org.nz",
+  "address": {
+    "line1": "174 Hyderabad Road",
+    "line2": " ",
+    "suburb": "Ahuriri",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": "9429042696582",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MSHawkesbay",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T22:53:54Z"
+}

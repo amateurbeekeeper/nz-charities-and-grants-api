@@ -1,0 +1,27 @@
+{
+  "id": 50897,
+  "registrationNumber": "CC42209",
+  "name": "New Zealand College of Midwives Central Region",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-09-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://centralnzcom.org/",
+  "email": "midwife.laura@hotmail.co.nz",
+  "address": {
+    "line1": "961 Kellow Road",
+    "line2": "RD 11",
+    "suburb": "Glen Oroua",
+    "city": "Foxton",
+    "postcode": "4891"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T18:40:39Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 68419,
+  "registrationNumber": "CC54751",
+  "name": "Ngati Awa Tourism Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-08-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngatiawa.iwi.nz",
+  "email": "regan@ngatiawa.iwi.nz",
+  "address": {
+    "line1": "10 Louvain Street",
+    "line2": "Whakatane 3120",
+    "suburb": " ",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429046147370",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T21:01:41Z"
+}

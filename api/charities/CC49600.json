@@ -1,0 +1,27 @@
+{
+  "id": 33086,
+  "registrationNumber": "CC49600",
+  "name": "Howick Pakuranga Netball Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-11-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hpnc.org.nz",
+  "email": "accounts@hpnc.org.nz",
+  "address": {
+    "line1": "2r Bells Road",
+    "line2": " ",
+    "suburb": "Pakuranga Heights",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": "9429042641971",
+  "financialYearEnd": "30/11",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T00:35:33Z"
+}

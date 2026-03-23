@@ -1,0 +1,27 @@
+{
+  "id": 38273,
+  "registrationNumber": "CC45945",
+  "name": "Te Reo Irirangi O Maniapoto",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-12-20T00:00:00Z",
+  "dateDeregistered": "2023-06-30T00:00:00Z",
+  "website": "https://www.mfm.co.nz",
+  "email": "winston@mfm.co.nz",
+  "address": {
+    "line1": "96A Rora Street",
+    "line2": "Te Kuiti 3910",
+    "suburb": " ",
+    "city": "Te Kuiti",
+    "postcode": "3910"
+  },
+  "nzbn": "9429042825609",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/ManiapotoFM/",
+    "twitter": "www.twitter.com/Maniapoto_FM"
+  },
+  "lastUpdated": "2025-09-23T07:18:25Z"
+}

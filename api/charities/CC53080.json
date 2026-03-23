@@ -1,0 +1,27 @@
+{
+  "id": 66809,
+  "registrationNumber": "CC53080",
+  "name": "Foureyes Foundation Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.foureyesfoundation.org.nz",
+  "email": "ravi@foureyesfoundation.org.nz",
+  "address": {
+    "line1": "57 Rakau Road",
+    "line2": " ",
+    "suburb": "Hataitai",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429042160540",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/foureyesfoundation",
+    "twitter": "https://twitter.com/4EyesFoundation"
+  },
+  "lastUpdated": "2026-01-29T05:07:25Z"
+}

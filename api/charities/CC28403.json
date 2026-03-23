@@ -1,0 +1,27 @@
+{
+  "id": 49934,
+  "registrationNumber": "CC28403",
+  "name": "National Park Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2022-07-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "marilla.swift@fireandemergency.nz",
+  "address": {
+    "line1": "8 MacKenzie Street",
+    "line2": "National Park 3989",
+    "suburb": "National Park",
+    "city": "National Park",
+    "postcode": "3989"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-04T20:39:20Z"
+}

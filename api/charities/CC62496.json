@@ -1,0 +1,27 @@
+{
+  "id": 76043,
+  "registrationNumber": "CC62496",
+  "name": "New Zealand Young Physicists' Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://iypt.org.nz",
+  "email": "hazel.jennings@iypt.org.nz",
+  "address": {
+    "line1": "625 Redoubt Road",
+    "line2": " ",
+    "suburb": "Flat Bush",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": "9429052234651",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-07T00:58:01Z"
+}

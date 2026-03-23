@@ -1,0 +1,27 @@
+{
+  "id": 36652,
+  "registrationNumber": "CC48549",
+  "name": "The Dionysos Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Aaron@aarontindell.com",
+  "address": {
+    "line1": "9A Shirley Road",
+    "line2": null,
+    "suburb": "Grey Lynn",
+    "city": "Auckland",
+    "postcode": "1021"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-12T03:33:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40017,
+  "registrationNumber": "CC23689",
+  "name": "Taki Rua Productions Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.takirua.co.nz",
+  "email": "craigfransen@takirua.co.nz",
+  "address": {
+    "line1": "Level 1, 274 Taranaki Street",
+    "line2": " ",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042834434",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/takiruaproductions/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T23:47:45Z"
+}

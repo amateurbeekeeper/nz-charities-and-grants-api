@@ -1,0 +1,27 @@
+{
+  "id": 37141,
+  "registrationNumber": "CC47550",
+  "name": "The OFFLIMITS Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2011-11-25T00:00:00Z",
+  "dateDeregistered": "2023-05-31T00:00:00Z",
+  "website": "http://www.offlimits.co.nz",
+  "email": "admin@offlimits.co.nz",
+  "address": {
+    "line1": "5 Honan Street",
+    "line2": " ",
+    "suburb": "Meeanee",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/pages/Offlimits/284089085031009",
+    "twitter": null
+  },
+  "lastUpdated": "2023-05-31T07:03:30Z"
+}

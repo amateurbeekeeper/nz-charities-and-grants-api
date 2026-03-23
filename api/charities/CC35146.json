@@ -1,0 +1,27 @@
+{
+  "id": 61641,
+  "registrationNumber": "CC35146",
+  "name": "The Paparoa Wildlife Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.pwt.org.nz",
+  "email": "kiwi1@pwt.org.nz",
+  "address": {
+    "line1": "239 Slaty Creek Road",
+    "line2": "RD 1",
+    "suburb": "Atarau",
+    "city": "Blackball",
+    "postcode": "7871"
+  },
+  "nzbn": "9429043038374",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "The Paparoa Wildlife Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:39:55Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37982,
+  "registrationNumber": "CC47633",
+  "name": "Whitianga Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-11-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "whiti.toylibrary@gmail.com",
+  "address": {
+    "line1": "Shop 4",
+    "line2": "1 Blacksmith Lane",
+    "suburb": " ",
+    "city": "Whitianga",
+    "postcode": "3510"
+  },
+  "nzbn": "9429043215027",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/whititoylibrary",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T19:06:29Z"
+}

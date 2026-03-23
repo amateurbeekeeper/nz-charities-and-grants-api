@@ -1,0 +1,27 @@
+{
+  "id": 51282,
+  "registrationNumber": "CC40956",
+  "name": "Te Whakaritorito Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mentor.kiwi.nz",
+  "email": "info@mentor.kiwi.nz",
+  "address": {
+    "line1": "906 Ferguson Street",
+    "line2": " ",
+    "suburb": "Akina",
+    "city": "Hastings",
+    "postcode": "4122"
+  },
+  "nzbn": "9429043002566",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/TeWhakaritorito",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-07T07:16:18Z"
+}

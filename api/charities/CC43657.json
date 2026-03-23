@@ -1,0 +1,27 @@
+{
+  "id": 50140,
+  "registrationNumber": "CC43657",
+  "name": "Heart Health Research Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-02-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "marks@heartfoundation.org.nz",
+  "address": {
+    "line1": "9 Kalmia Street",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429043225873",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T19:42:22Z"
+}

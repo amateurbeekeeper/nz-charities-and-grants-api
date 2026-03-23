@@ -1,0 +1,27 @@
+{
+  "id": 35111,
+  "registrationNumber": "CC49309",
+  "name": "Bowel Cancer Foundation Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2013-05-16T00:00:00Z",
+  "dateDeregistered": "2023-04-01T00:00:00Z",
+  "website": "https://www.bowelcancerfoundation.org.nz",
+  "email": "georgina@bowelcancerfoundation.org.nz",
+  "address": {
+    "line1": "157-165 Hurstmere Road",
+    "line2": " ",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429043244966",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/BCFTNewZealand/",
+    "twitter": "https://twitter.com/Georgin62016662"
+  },
+  "lastUpdated": "2023-11-16T06:02:01Z"
+}

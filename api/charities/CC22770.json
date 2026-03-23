@@ -1,0 +1,27 @@
+{
+  "id": 56140,
+  "registrationNumber": "CC22770",
+  "name": "New Zealand Dominican Sisters Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dominicans.org.nz",
+  "email": "domfinancenz@gmail.com",
+  "address": {
+    "line1": "98 London Street",
+    "line2": " ",
+    "suburb": "Dunedin Central",
+    "city": "Dunedin",
+    "postcode": "9016"
+  },
+  "nzbn": "9429042679042",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T18:15:22Z"
+}

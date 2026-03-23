@@ -1,0 +1,27 @@
+{
+  "id": 60004,
+  "registrationNumber": "CC31601",
+  "name": "Taupo Society of Ballet and Dance",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bex@prslimited.co.nz",
+  "address": {
+    "line1": "24 Ngamotu Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/taupodancesociety",
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-10T20:01:12Z"
+}

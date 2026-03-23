@@ -1,0 +1,27 @@
+{
+  "id": 54324,
+  "registrationNumber": "CC21158",
+  "name": "Church Growth Resources",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.alpha.org.nz",
+  "email": "mike@alpha.org.nz",
+  "address": {
+    "line1": "6 Sultan Street",
+    "line2": " ",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042616382",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/AlphaNewZealand",
+    "twitter": "@nz_alpha"
+  },
+  "lastUpdated": "2025-10-20T18:37:40Z"
+}

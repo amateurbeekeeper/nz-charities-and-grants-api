@@ -1,0 +1,27 @@
+{
+  "id": 50338,
+  "registrationNumber": "CC44046",
+  "name": "Gattung Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2020-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.gattungfoundation.nz",
+  "email": "theresa@theresagattung.com",
+  "address": {
+    "line1": "45 Livingstone Street",
+    "line2": " ",
+    "suburb": "Westmere",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429043267286",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61566838208925",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-18T21:00:31Z"
+}

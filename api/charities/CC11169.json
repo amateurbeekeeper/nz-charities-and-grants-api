@@ -1,0 +1,27 @@
+{
+  "id": 52336,
+  "registrationNumber": "CC11169",
+  "name": "Pinnacle Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-09-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pinnacle.co.nz/",
+  "email": "liz.miller@pinnacle.health.nz",
+  "address": {
+    "line1": "NORRIS WARD MCKINNON BUILDING",
+    "line2": "711 Victoria Street",
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429043032525",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T21:35:50Z"
+}

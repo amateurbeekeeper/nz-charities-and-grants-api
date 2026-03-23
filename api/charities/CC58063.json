@@ -1,0 +1,27 @@
+{
+  "id": 71684,
+  "registrationNumber": "CC58063",
+  "name": "ARA Heritage Buses Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-08-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://araheritagebus.org.nz",
+  "email": "nate@araheritagebus.org.nz",
+  "address": {
+    "line1": "109 Mill Road",
+    "line2": "Helensville 0800",
+    "suburb": "Dairy Flat",
+    "city": "Helensville",
+    "postcode": "0800"
+  },
+  "nzbn": "9429047889828",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/araheritagebus.org.nz",
+    "twitter": "https://twitter.com/ARA_Heritage"
+  },
+  "lastUpdated": "2025-11-30T18:15:27Z"
+}

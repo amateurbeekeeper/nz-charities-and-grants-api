@@ -1,0 +1,27 @@
+{
+  "id": 44607,
+  "registrationNumber": "CC36448",
+  "name": "McRae Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mcraetrust.co.nz/",
+  "email": "mail@tarrantcotter.co.nz",
+  "address": {
+    "line1": "C/- TARRANT COTTER & CO",
+    "line2": "12 Locke Street",
+    "suburb": " ",
+    "city": "Wairoa",
+    "postcode": "4108"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T18:14:02Z"
+}

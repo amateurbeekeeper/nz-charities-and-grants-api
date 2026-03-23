@@ -1,0 +1,27 @@
+{
+  "id": 43718,
+  "registrationNumber": "CC37617",
+  "name": "Springston Cricket Club",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "peter.almond@lincoln.ac.nz",
+  "address": {
+    "line1": "403 Ellesmere Junction Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Springston",
+    "postcode": "7616"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:28:35Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73074,
+  "registrationNumber": "CC59469",
+  "name": "Re Connect Ed",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-08-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "luke.reconnect.ed@gmail.com",
+  "address": {
+    "line1": "32 Shoebridge Crescent",
+    "line2": "RD 3",
+    "suburb": "Ngunguru",
+    "city": "Whangarei",
+    "postcode": "0173"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-25T19:27:51Z"
+}

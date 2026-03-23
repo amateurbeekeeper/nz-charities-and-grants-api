@@ -1,0 +1,27 @@
+{
+  "id": 34248,
+  "registrationNumber": "CC50864",
+  "name": "Pukemokimoki Marae Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-07-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.pukemokimoki.co.nz",
+  "email": "pukemokimoki@gmail.com",
+  "address": {
+    "line1": "191 Riverbend Road",
+    "line2": " ",
+    "suburb": "Maraenui",
+    "city": "Napier",
+    "postcode": "4110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Pukemokimoki Marae",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T00:09:14Z"
+}

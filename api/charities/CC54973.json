@@ -1,0 +1,27 @@
+{
+  "id": 68639,
+  "registrationNumber": "CC54973",
+  "name": "Thames Valley Tangata Ora Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-09-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tangataora.org.nz",
+  "email": "Centre.Manager@TangataOra.org.nz",
+  "address": {
+    "line1": "607 Mackay Street",
+    "line2": "Thames ",
+    "suburb": " ",
+    "city": "Thames",
+    "postcode": "3500"
+  },
+  "nzbn": "9429046031891",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TangataOra/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T00:17:45Z"
+}

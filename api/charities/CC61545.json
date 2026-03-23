@@ -1,0 +1,27 @@
+{
+  "id": 75115,
+  "registrationNumber": "CC61545",
+  "name": "Misty Flicks Film Festival Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mistyflicks.co.nz/",
+  "email": "andreashaines@gmail.com",
+  "address": {
+    "line1": "145 Maeroa Road",
+    "line2": " ",
+    "suburb": "Maeroa",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MistyFlicks/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T23:00:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52451,
+  "registrationNumber": "CC11349",
+  "name": "The Theatre in Health Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.theta.org.nz",
+  "email": "manager@theta.org.nz",
+  "address": {
+    "line1": "2 Todman Street",
+    "line2": " ",
+    "suburb": "Brooklyn",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429042893233",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Sexwise.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:35:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 76434,
+  "registrationNumber": "CC62723",
+  "name": "MacStrong Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.macstrong.org.nz",
+  "email": "jono@macstrong.co.nz",
+  "address": {
+    "line1": "133 Albionvale Road",
+    "line2": " ",
+    "suburb": "Glen Eden",
+    "city": "Auckland",
+    "postcode": "0602"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-12T05:35:29Z"
+}

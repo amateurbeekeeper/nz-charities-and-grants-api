@@ -1,0 +1,27 @@
+{
+  "id": 71650,
+  "registrationNumber": "CC58029",
+  "name": "Warriors Community Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://warriorscommunity.kiwi/",
+  "email": "lincoln@wcf.kiwi",
+  "address": {
+    "line1": "2 Beasley Avenue",
+    "line2": " ",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429048218207",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "warriorscommunity.kiwi",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T22:34:03Z"
+}

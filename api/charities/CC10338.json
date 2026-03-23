@@ -1,0 +1,27 @@
+{
+  "id": 51583,
+  "registrationNumber": "CC10338",
+  "name": "Anawhata Museum Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-05-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.packardmuseum.co.nz",
+  "email": "fcraw@xtra.co.nz",
+  "address": {
+    "line1": "State Highway 14",
+    "line2": " ",
+    "suburb": "Maungatapere",
+    "city": "Whangarei",
+    "postcode": "0512"
+  },
+  "nzbn": "9429042574934",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PackardMotorMuseum/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T09:16:15Z"
+}

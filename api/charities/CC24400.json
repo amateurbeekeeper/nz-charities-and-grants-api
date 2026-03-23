@@ -1,0 +1,27 @@
+{
+  "id": 42151,
+  "registrationNumber": "CC24400",
+  "name": "Common Knowledge Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-05-14T00:00:00Z",
+  "dateDeregistered": "2023-05-03T00:00:00Z",
+  "website": "https://www.commonknowledgetrust.org, www.birthingbetter.org",
+  "email": "wintergreen@birthingbetter.org",
+  "address": {
+    "line1": "205 Lud Valley Road",
+    "line2": "RD 1",
+    "suburb": "Hira",
+    "city": "Nelson",
+    "postcode": "7071"
+  },
+  "nzbn": "9429042904885",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://www.facebook.com/BirthingBetterChildbirthPreparation/",
+    "twitter": "https://twitter.com/BirthingBetter"
+  },
+  "lastUpdated": "2023-05-17T07:01:39Z"
+}

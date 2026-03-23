@@ -1,0 +1,27 @@
+{
+  "id": 60654,
+  "registrationNumber": "CC39717",
+  "name": "Triangle Television Limited",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "facetv.co.nz",
+  "email": "ian@ch83.tv",
+  "address": {
+    "line1": "625A Beach Road",
+    "line2": " ",
+    "suburb": "Rothesay Bay",
+    "city": "Auckland",
+    "postcode": "0630"
+  },
+  "nzbn": "9429038487736",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Face Television - Sky Channel 083",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T19:28:37Z"
+}

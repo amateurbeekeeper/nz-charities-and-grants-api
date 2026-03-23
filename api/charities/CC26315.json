@@ -1,0 +1,27 @@
+{
+  "id": 55612,
+  "registrationNumber": "CC26315",
+  "name": "Tandem Ministries",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tandem.org.nz",
+  "email": "finance@tandem.org.nz",
+  "address": {
+    "line1": "2B William Pickering Drive",
+    "line2": " ",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429042599272",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/TandemMinistries/?fref=ts",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T19:24:32Z"
+}

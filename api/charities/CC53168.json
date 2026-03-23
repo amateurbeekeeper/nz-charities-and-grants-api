@@ -1,0 +1,27 @@
+{
+  "id": 66888,
+  "registrationNumber": "CC53168",
+  "name": "Te Wairua Tapu Parish",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.holyspirit.nz",
+  "email": "holyspiritparish41@gmail.com",
+  "address": {
+    "line1": "41 Brittania St",
+    "line2": " ",
+    "suburb": "Petone",
+    "city": "Lower Hutt",
+    "postcode": "5012"
+  },
+  "nzbn": "9429049996272",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T18:27:46Z"
+}

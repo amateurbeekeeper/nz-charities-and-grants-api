@@ -1,0 +1,27 @@
+{
+  "id": 44995,
+  "registrationNumber": "CC34521",
+  "name": "The White House Incorporated Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "manager@thewhitehouse.org.nz",
+  "address": {
+    "line1": "11 Wainui Street",
+    "line2": " ",
+    "suburb": "The Wood",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042936404",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/thewhitehousenelson",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T01:23:40Z"
+}

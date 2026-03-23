@@ -1,0 +1,27 @@
+{
+  "id": 54649,
+  "registrationNumber": "CC21028",
+  "name": "The Hutt Impact Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2008-02-10T00:00:00Z",
+  "dateDeregistered": "2011-03-16T00:00:00Z",
+  "website": "http://www.huttimpact.org.nz",
+  "email": "admin@huttimpact.org.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": "4 Downer Street",
+    "suburb": "Hutt Central",
+    "city": "Lower Hutt",
+    "postcode": "5010"
+  },
+  "nzbn": "9429043051021",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-07-05T01:15:28Z"
+}

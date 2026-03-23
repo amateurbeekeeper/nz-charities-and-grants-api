@@ -1,0 +1,27 @@
+{
+  "id": 52396,
+  "registrationNumber": "CC10642",
+  "name": "The House Of Grace Trust Inc",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.thehouseofgrace.org.nz",
+  "email": "info@thehouseofgrace.org.nz",
+  "address": {
+    "line1": null,
+    "line2": null,
+    "suburb": null,
+    "city": null,
+    "postcode": null
+  },
+  "nzbn": "9429042993001",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/thehouseofgracenz/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T00:47:44Z"
+}

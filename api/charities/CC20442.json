@@ -1,0 +1,27 @@
+{
+  "id": 53795,
+  "registrationNumber": "CC20442",
+  "name": "Te Pataka Ohanga Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kohanga.ac.nz",
+  "email": "Steve@kohanga.ac.nz",
+  "address": {
+    "line1": "67 Hankey Street",
+    "line2": " ",
+    "suburb": "Mount Cook",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429038153693",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-21T21:09:37Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40256,
+  "registrationNumber": "CC22757",
+  "name": "Lakes District Museum Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.museumqueenstown.com",
+  "email": "director@museumqueenstown.com",
+  "address": {
+    "line1": "49 Buckingham Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Arrowtown",
+    "postcode": "9302"
+  },
+  "nzbn": "9429042660729",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Lakes District Museum",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T22:41:15Z"
+}

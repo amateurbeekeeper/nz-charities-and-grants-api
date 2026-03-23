@@ -1,0 +1,27 @@
+{
+  "id": 46324,
+  "registrationNumber": "CC40772",
+  "name": "Plimmerton Volunteer Fire Brigade Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "pvfb.org.nz",
+  "email": "gerry.prins@fireandemergency.nz",
+  "address": {
+    "line1": "Sunset Parade",
+    "line2": "Plimmerton",
+    "suburb": " ",
+    "city": "Porirua",
+    "postcode": "5026"
+  },
+  "nzbn": "9429043034192",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T08:07:53Z"
+}

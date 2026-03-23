@@ -1,0 +1,27 @@
+{
+  "id": 49866,
+  "registrationNumber": "CC31571",
+  "name": "Auckland City Training School",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.equipperscollege.com",
+  "email": "nicola.graham@acts.org.nz",
+  "address": {
+    "line1": "13-15 Gladding Place",
+    "line2": " ",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429042588016",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:09Z"
+}

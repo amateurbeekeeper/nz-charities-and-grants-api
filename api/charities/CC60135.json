@@ -1,0 +1,27 @@
+{
+  "id": 73769,
+  "registrationNumber": "CC60135",
+  "name": "Seniors ASAP Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-05-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.asaptrust.nz",
+  "email": "rachel@asaptrust.nz",
+  "address": {
+    "line1": "22 Bank Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whangarei",
+    "postcode": "0110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/asaptrustnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T03:33:17Z"
+}

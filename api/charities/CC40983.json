@@ -1,0 +1,27 @@
+{
+  "id": 62316,
+  "registrationNumber": "CC40983",
+  "name": "Chatham Islands Airport Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.chathamislands.co.nz",
+  "email": "accounts@cietrust.co.nz",
+  "address": {
+    "line1": "Owenga Road",
+    "line2": " ",
+    "suburb": "Waitangi",
+    "city": "Chatham Islands",
+    "postcode": null
+  },
+  "nzbn": "9429039071644",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T21:18:16Z"
+}

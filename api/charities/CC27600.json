@@ -1,0 +1,27 @@
+{
+  "id": 39603,
+  "registrationNumber": "CC27600",
+  "name": "Riverside Community Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.riverside.org.nz",
+  "email": "boardoftrustees@riverside.org.nz",
+  "address": {
+    "line1": "289 Main Road Lower Moutere",
+    "line2": "RD 2",
+    "suburb": "Lower Moutere",
+    "city": "Upper Moutere",
+    "postcode": "7175"
+  },
+  "nzbn": "9429042815662",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RiversideCommunityNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T07:32:01Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34425,
+  "registrationNumber": "CC50873",
+  "name": "Hope for Orphans International",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hopefororphansinternational.com",
+  "email": "aimandjosh.mackey@xtra.co.nz",
+  "address": {
+    "line1": "105 McKays Road",
+    "line2": "RD 1",
+    "suburb": "West Melton",
+    "city": "Christchurch",
+    "postcode": "7671"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/hopefororphansinternational",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T00:27:48Z"
+}

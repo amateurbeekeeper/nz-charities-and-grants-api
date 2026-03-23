@@ -1,0 +1,27 @@
+{
+  "id": 56024,
+  "registrationNumber": "CC24230",
+  "name": "Christian Supply Chain Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.csc.org.nz",
+  "email": "accounts@csc.org.nz",
+  "address": {
+    "line1": "1902 Cambridge Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": "9429043121854",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-05T01:30:52Z"
+}

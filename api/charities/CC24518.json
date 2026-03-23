@@ -1,0 +1,27 @@
+{
+  "id": 42097,
+  "registrationNumber": "CC24518",
+  "name": "Taranaki Educare Training Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.educaretraining.ac.nz",
+  "email": "talia@educaretraining.ac.nz",
+  "address": {
+    "line1": "13 Dawson Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043036646",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-22T19:41:46Z"
+}

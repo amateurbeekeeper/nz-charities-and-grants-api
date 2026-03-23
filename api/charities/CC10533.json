@@ -1,0 +1,27 @@
+{
+  "id": 50992,
+  "registrationNumber": "CC10533",
+  "name": "Marlborough Research Centre Trust (MRC)",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.mrc.org.nz",
+  "email": "susan@mrc.org.nz",
+  "address": {
+    "line1": "85A Budge Street",
+    "line2": " ",
+    "suburb": "Riversdale",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429042757399",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "marlboroughresearchcentre",
+    "twitter": "@MRC_org_nz"
+  },
+  "lastUpdated": "2025-11-04T18:28:16Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53506,
+  "registrationNumber": "CC20663",
+  "name": "Kawerau Enterprise Agency Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kea.org.nz",
+  "email": "accounts@kea.org.nz",
+  "address": {
+    "line1": "60 Onslow Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kawerau",
+    "postcode": "3127"
+  },
+  "nzbn": "9429042653103",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KawerauEnterpriseAgency",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T18:05:59Z"
+}

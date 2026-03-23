@@ -1,0 +1,27 @@
+{
+  "id": 73256,
+  "registrationNumber": "CC59653",
+  "name": "Mighty Kind Limited",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2021-11-23T00:00:00Z",
+  "dateDeregistered": "2025-06-19T00:00:00Z",
+  "website": "https://www.mightykind.org.nz",
+  "email": "murray@attainabletrust.org.nz",
+  "address": {
+    "line1": "5 Smales Road",
+    "line2": " ",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2013"
+  },
+  "nzbn": "9429049393811",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T01:57:51Z"
+}

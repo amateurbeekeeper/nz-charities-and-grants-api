@@ -1,0 +1,27 @@
+{
+  "id": 67227,
+  "registrationNumber": "CC53179",
+  "name": "Nightsong",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.nightsong.co.nz",
+  "email": "ben@nightsong.co.nz",
+  "address": {
+    "line1": "283 Karangahape Road",
+    "line2": "Grey Lynn",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042999928",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/NightsongNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-11T03:39:11Z"
+}

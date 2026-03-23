@@ -1,0 +1,27 @@
+{
+  "id": 44379,
+  "registrationNumber": "CC32477",
+  "name": "Te Rongopai Morehu Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "trmt@outlook.co.nz",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "30 Whitley Avenue",
+    "suburb": "Ebdentown",
+    "city": "Upper Hutt",
+    "postcode": "5018"
+  },
+  "nzbn": "9429042827306",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T04:46:35Z"
+}

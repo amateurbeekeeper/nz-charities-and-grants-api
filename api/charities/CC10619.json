@@ -1,0 +1,27 @@
+{
+  "id": 51900,
+  "registrationNumber": "CC10619",
+  "name": "Synergy (Cambridge) Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.bridgeschurch.co.nz",
+  "email": "bernette.bernard@bridgeschurch.co.nz",
+  "address": {
+    "line1": "28 Duke Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": "9429043075928",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/bridgeschurchcambridge/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-01T19:42:59Z"
+}

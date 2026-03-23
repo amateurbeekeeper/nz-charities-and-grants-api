@@ -1,0 +1,27 @@
+{
+  "id": 47208,
+  "registrationNumber": "CC44635",
+  "name": "Welcome Bay Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.welcomebaybc.org.nz",
+  "email": "steve@welcomebaybc.org.nz",
+  "address": {
+    "line1": "260 Welcome Bay Road",
+    "line2": " ",
+    "suburb": "Welcome Bay",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/wbbaptist",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-18T04:54:32Z"
+}

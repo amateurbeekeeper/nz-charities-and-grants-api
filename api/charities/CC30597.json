@@ -1,0 +1,27 @@
+{
+  "id": 51082,
+  "registrationNumber": "CC30597",
+  "name": "New Zealand Society For Music Therapy Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.musictherapy.org.nz",
+  "email": "info@musictherapy.org.nz",
+  "address": {
+    "line1": "35 Victoria Street",
+    "line2": "National Centre",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042688631",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MusicTherapyNewZealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T22:28:54Z"
+}

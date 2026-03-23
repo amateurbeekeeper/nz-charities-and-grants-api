@@ -1,0 +1,27 @@
+{
+  "id": 77240,
+  "registrationNumber": "CC63142",
+  "name": "Te Whare Toi O Ōpōtiki Inc",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-08-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "Tewharetoioopotiki@gmail.com",
+  "address": {
+    "line1": "47 St John Street",
+    "line2": " ",
+    "suburb": "Ōpōtiki",
+    "city": "Opotiki",
+    "postcode": "3122"
+  },
+  "nzbn": "9429052256646",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Whare Toi O Ōpōtiki",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-06T03:38:51Z"
+}

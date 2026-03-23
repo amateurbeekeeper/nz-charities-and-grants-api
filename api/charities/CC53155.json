@@ -1,0 +1,27 @@
+{
+  "id": 66912,
+  "registrationNumber": "CC53155",
+  "name": "Catholic Parish of Otari",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://otariparish.co.nz",
+  "email": "office@otariparish.co.nz",
+  "address": {
+    "line1": "301 Karori Road",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429049984491",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-19T19:26:36Z"
+}

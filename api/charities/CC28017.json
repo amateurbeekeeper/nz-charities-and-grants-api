@@ -1,0 +1,27 @@
+{
+  "id": 56382,
+  "registrationNumber": "CC28017",
+  "name": "Country Kids Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.countrykids.org.nz",
+  "email": "keith@countrykids.org.nz",
+  "address": {
+    "line1": "1519 Moutere Highway",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Upper Moutere",
+    "postcode": "7175"
+  },
+  "nzbn": "9429042785705",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T18:12:55Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 40136,
+  "registrationNumber": "CC23639",
+  "name": "National Squash Centre Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.squashnz.co.nz",
+  "email": "john@squashnz.co.nz",
+  "address": {
+    "line1": "17 Antares Place",
+    "line2": "Carrington Rd",
+    "suburb": "Rosedale",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043073443",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-25T08:35:56Z"
+}

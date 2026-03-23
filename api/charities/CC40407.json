@@ -1,0 +1,27 @@
+{
+  "id": 62003,
+  "registrationNumber": "CC40407",
+  "name": "Tuakau Kindergarten ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://cmka.org.nz",
+  "email": "deana@cmka.org.nz",
+  "address": {
+    "line1": "Buckland Road ",
+    "line2": "Tuakau ",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "2121"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T01:14:05Z"
+}

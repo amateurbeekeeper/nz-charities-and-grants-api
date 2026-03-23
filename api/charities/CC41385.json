@@ -1,0 +1,27 @@
+{
+  "id": 63240,
+  "registrationNumber": "CC41385",
+  "name": "Serac Ski Club Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2009-07-15T00:00:00Z",
+  "dateDeregistered": "2025-10-31T00:00:00Z",
+  "website": "http://www.serac.org.nz",
+  "email": "Susan.Sonntag@hebe.co.nz",
+  "address": {
+    "line1": "4 Karo Street",
+    "line2": "Ohakune 4625",
+    "suburb": " ",
+    "city": "Ohakune",
+    "postcode": "4625"
+  },
+  "nzbn": "9429042742241",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/groups/serac/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-12T06:03:19Z"
+}

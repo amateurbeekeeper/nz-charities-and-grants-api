@@ -1,0 +1,27 @@
+{
+  "id": 54013,
+  "registrationNumber": "CC23004",
+  "name": "St Joseph's (N.Z.) Foreign Missionary Society Mill Hill",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "steve@armson.co.nz",
+  "address": {
+    "line1": "32 Fratley Avenue",
+    "line2": " ",
+    "suburb": "Farm Cove",
+    "city": "Auckland",
+    "postcode": "2012"
+  },
+  "nzbn": "9429042827900",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T18:15:17Z"
+}

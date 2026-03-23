@@ -1,0 +1,27 @@
+{
+  "id": 75523,
+  "registrationNumber": "CC61967",
+  "name": "CAPF Hamilton",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-10-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "theresa.christie@ymail.com",
+  "address": {
+    "line1": "104 Great South Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Huntly",
+    "postcode": "3700"
+  },
+  "nzbn": "9429051652692",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T20:24:44Z"
+}

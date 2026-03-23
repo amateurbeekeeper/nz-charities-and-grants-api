@@ -1,0 +1,27 @@
+{
+  "id": 78345,
+  "registrationNumber": "CC64160",
+  "name": "Waipu Golf Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-10-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waipugolfclub.org.nz/welcome",
+  "email": "lornamconsulting@gmail.com",
+  "address": {
+    "line1": "3229 State Highway 1",
+    "line2": "RD 2",
+    "suburb": " ",
+    "city": "Waipu",
+    "postcode": "0582"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/waipugolfclub",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-05T21:20:44Z"
+}

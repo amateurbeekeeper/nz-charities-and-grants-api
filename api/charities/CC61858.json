@@ -1,0 +1,27 @@
+{
+  "id": 75414,
+  "registrationNumber": "CC61858",
+  "name": "24-7 Prayer New Zealand Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.24-7prayer.nz/",
+  "email": "sam@24-7prayer.nz",
+  "address": {
+    "line1": "54 Rogers Road",
+    "line2": " ",
+    "suburb": "Bay View",
+    "city": "Napier",
+    "postcode": "4104"
+  },
+  "nzbn": "9429051555085",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/247prayernz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T08:54:36Z"
+}

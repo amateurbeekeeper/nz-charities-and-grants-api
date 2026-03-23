@@ -1,0 +1,27 @@
+{
+  "id": 34034,
+  "registrationNumber": "CC50338",
+  "name": "NZ Rivers Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2014-03-04T00:00:00Z",
+  "dateDeregistered": "2024-11-06T00:00:00Z",
+  "website": "http://www.cawthron.org.nz",
+  "email": "elizabeth@greenaway.co.nz",
+  "address": {
+    "line1": "98 Halifax Street East",
+    "line2": " ",
+    "suburb": "The Wood",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043261741",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cawthron/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-08T03:06:59Z"
+}

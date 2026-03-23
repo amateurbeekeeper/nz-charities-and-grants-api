@@ -1,0 +1,27 @@
+{
+  "id": 42300,
+  "registrationNumber": "CC34557",
+  "name": "The Percy Hamilton Home Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hamorangi1@gmail.com",
+  "address": {
+    "line1": "2 Hamilton Drive",
+    "line2": "Waiuku 2123",
+    "suburb": " ",
+    "city": "Waiuku",
+    "postcode": "2123"
+  },
+  "nzbn": "9429042802525",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-03T02:50:18Z"
+}

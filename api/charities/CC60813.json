@@ -1,0 +1,27 @@
+{
+  "id": 74397,
+  "registrationNumber": "CC60813",
+  "name": "Everlasting Clothing New Zealand Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-10-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.everlasting.org.nz",
+  "email": "anna@everlasting.org.nz",
+  "address": {
+    "line1": "30 Allendale Road",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1025"
+  },
+  "nzbn": "9429046201782",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@everlastingnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T21:00:26Z"
+}

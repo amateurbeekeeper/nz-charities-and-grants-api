@@ -1,0 +1,27 @@
+{
+  "id": 76556,
+  "registrationNumber": "CC62787",
+  "name": "Bridge Valley Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.bridgevalley.co.nz",
+  "email": "manager@bridgevalley.co.nz",
+  "address": {
+    "line1": "28 Moore Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Wakefield",
+    "postcode": "7095"
+  },
+  "nzbn": "9429052029097",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T01:34:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53524,
+  "registrationNumber": "CC20545",
+  "name": "Richmond Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.richmondbaptist.org.nz",
+  "email": "jeannette@richmondbaptist.org.nz",
+  "address": {
+    "line1": "123 Salisbury Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/richmondbaptistnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:35:25Z"
+}

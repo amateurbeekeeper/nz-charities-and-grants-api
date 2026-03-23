@@ -1,0 +1,27 @@
+{
+  "id": 76022,
+  "registrationNumber": "CC62472",
+  "name": "Te Mātuku",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tematuku.maori.nz",
+  "email": "kiaora@tematuku.maori.nz",
+  "address": {
+    "line1": "PO Box 611",
+    "line2": null,
+    "suburb": " ",
+    "city": "Whanganui",
+    "postcode": "4541"
+  },
+  "nzbn": "9429051649340",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T19:14:01Z"
+}

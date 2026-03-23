@@ -1,0 +1,27 @@
+{
+  "id": 58219,
+  "registrationNumber": "CC31058",
+  "name": "Dargaville Bowling Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bowlsdargaville@xtra.co.nz",
+  "address": {
+    "line1": "Corner Parore And Normanby Streets",
+    "line2": null,
+    "suburb": " ",
+    "city": "Dargaville",
+    "postcode": "0340"
+  },
+  "nzbn": "9429042661900",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Dargaville Bowling club",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-21T19:58:07Z"
+}

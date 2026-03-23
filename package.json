@@ -1,0 +1,25 @@
+{
+  "name": "nz-charities-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "fetch": "tsx scripts/fetch.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amateurbeekeeper/nz-charities-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amateurbeekeeper/nz-charities-api/issues"
+  },
+  "homepage": "https://github.com/amateurbeekeeper/nz-charities-api#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2"
+  }
+}

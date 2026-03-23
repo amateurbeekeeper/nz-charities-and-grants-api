@@ -1,0 +1,27 @@
+{
+  "id": 70029,
+  "registrationNumber": "CC56386",
+  "name": "Abbeyfield Wigram Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-11-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.abbeyfield.org.nz",
+  "email": "office@abbeyfield.org.nz",
+  "address": {
+    "line1": "22 Erling Ziesler Lane",
+    "line2": " ",
+    "suburb": "Wigram",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-08T23:46:04Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71906,
+  "registrationNumber": "CC58287",
+  "name": "Kingston Fire Brigade",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-09-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kingstonvrff@gmail.com",
+  "address": {
+    "line1": "48 Kent Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Kingston",
+    "postcode": "9793"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Kingston Fire Brigade",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-20T03:59:53Z"
+}

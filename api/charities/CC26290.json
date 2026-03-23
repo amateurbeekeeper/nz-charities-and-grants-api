@@ -1,0 +1,27 @@
+{
+  "id": 58110,
+  "registrationNumber": "CC26290",
+  "name": "The Anchor Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bruce.stormer@markhams.co.nz",
+  "address": {
+    "line1": "1 Joseph Banks Drive",
+    "line2": " ",
+    "suburb": "Whitby",
+    "city": "Porirua",
+    "postcode": "5024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:10:51Z"
+}

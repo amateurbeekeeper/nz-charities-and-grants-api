@@ -1,0 +1,27 @@
+{
+  "id": 66019,
+  "registrationNumber": "CC52286",
+  "name": "New Zealand Concert Bands Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-08-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.nzcba.org",
+  "email": "rjohnson@nzcba.org",
+  "address": {
+    "line1": "Flat 1",
+    "line2": "5 Cook Street",
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": "9429042706106",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=new%20zealand%20concert%20bands%20association",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-17T02:38:41Z"
+}

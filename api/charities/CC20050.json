@@ -1,0 +1,27 @@
+{
+  "id": 52844,
+  "registrationNumber": "CC20050",
+  "name": "Compass Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-11-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.compass-services.org.nz/",
+  "email": "kimberlyb@chchywca.org.nz",
+  "address": {
+    "line1": "285 Hereford Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429053248466",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T22:14:08Z"
+}

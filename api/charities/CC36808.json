@@ -1,0 +1,27 @@
+{
+  "id": 53260,
+  "registrationNumber": "CC36808",
+  "name": "PowerZone Christchurch Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-01-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://powerzonechch.org",
+  "email": "Anna.Benny@chch.elim.org.nz",
+  "address": {
+    "line1": "285 Cashel Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043138944",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/powerzoneafterschoolchch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T22:35:51Z"
+}

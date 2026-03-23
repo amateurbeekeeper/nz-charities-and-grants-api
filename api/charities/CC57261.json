@@ -1,0 +1,27 @@
+{
+  "id": 70895,
+  "registrationNumber": "CC57261",
+  "name": "The Southland Charitable Hospital Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-12-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.southlandcharityhospital.org/",
+  "email": "manager@sch.nz",
+  "address": {
+    "line1": "99 Wicklow Street",
+    "line2": "Invercargill 9840",
+    "suburb": "Clifton",
+    "city": "Invercargill",
+    "postcode": "9812"
+  },
+  "nzbn": "9429047837720",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/southlandcharityhospital",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T02:01:11Z"
+}

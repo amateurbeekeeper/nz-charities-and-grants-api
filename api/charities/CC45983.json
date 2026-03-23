@@ -1,0 +1,27 @@
+{
+  "id": 38114,
+  "registrationNumber": "CC45983",
+  "name": "Abundant Life Church Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-01-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.abundantlifenz.org",
+  "email": "reuben@abundantlifenz.org",
+  "address": {
+    "line1": "52B Fork Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Kumeu",
+    "postcode": "0891"
+  },
+  "nzbn": "9429043217465",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T18:19:40Z"
+}

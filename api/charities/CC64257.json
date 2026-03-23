@@ -1,0 +1,27 @@
+{
+  "id": 78446,
+  "registrationNumber": "CC64257",
+  "name": "Hamilton Rowing Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2026-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "maleponi@engas.nz",
+  "address": {
+    "line1": "154 Grantham Street",
+    "line2": null,
+    "suburb": "Hamilton Central",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T01:24:33Z"
+}

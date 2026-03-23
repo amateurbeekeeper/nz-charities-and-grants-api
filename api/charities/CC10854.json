@@ -1,0 +1,27 @@
+{
+  "id": 52597,
+  "registrationNumber": "CC10854",
+  "name": "Historic Transport Museum Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://transportmuseum.co.nz",
+  "email": "julietomlinson@xtra.co.nz",
+  "address": {
+    "line1": "3 Rosaline Frank Street",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429043102334",
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/historictransportmuseum",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-16T01:17:57Z"
+}

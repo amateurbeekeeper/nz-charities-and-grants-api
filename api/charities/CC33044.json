@@ -1,0 +1,27 @@
+{
+  "id": 45175,
+  "registrationNumber": "CC33044",
+  "name": "Indian Ink Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://indianink.co.nz",
+  "email": "justin@indianink.co.nz",
+  "address": {
+    "line1": "323 Queen Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043186839",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/indianinktheatre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T22:16:36Z"
+}

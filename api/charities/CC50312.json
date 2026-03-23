@@ -1,0 +1,27 @@
+{
+  "id": 34086,
+  "registrationNumber": "CC50312",
+  "name": "International Needs Humanitarian Aid Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.innz.org.nz",
+  "email": "director@innz.org.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "98 Birch Avenue",
+    "suburb": "Judea",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": "9429043097173",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "internationalneedsnewzealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T22:40:18Z"
+}

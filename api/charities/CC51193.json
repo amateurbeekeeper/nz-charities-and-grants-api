@@ -1,0 +1,27 @@
+{
+  "id": 34755,
+  "registrationNumber": "CC51193",
+  "name": "South City Reformed Baptist Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-10-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.south.org.nz",
+  "email": "simonrose81@hotmail.com",
+  "address": {
+    "line1": "5 Clothier Road",
+    "line2": "RD 5",
+    "suburb": "Karamu",
+    "city": "Hamilton",
+    "postcode": "3285"
+  },
+  "nzbn": "9429043290390",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-14T19:22:08Z"
+}

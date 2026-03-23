@@ -1,0 +1,27 @@
+{
+  "id": 45134,
+  "registrationNumber": "CC36731",
+  "name": "Merrilands Home and School Association",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "angell.megan@gmail.com",
+  "address": {
+    "line1": "C/- Merrilands School",
+    "line2": "Kauri Street",
+    "suburb": "Merrilands",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T21:29:04Z"
+}

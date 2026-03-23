@@ -1,0 +1,27 @@
+{
+  "id": 37649,
+  "registrationNumber": "CC47822",
+  "name": "Dunedin Ice Skating Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-03-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dunediniceskating.com",
+  "email": "treasurer@dunediniceskatingclub.com",
+  "address": {
+    "line1": "101 Victoria Road",
+    "line2": " ",
+    "suburb": "Saint Kilda",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042663928",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DunedinIceSkatingClub/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:07:19Z"
+}

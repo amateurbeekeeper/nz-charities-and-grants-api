@@ -1,0 +1,27 @@
+{
+  "id": 75691,
+  "registrationNumber": "CC62142",
+  "name": "Whakatika Services",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-01-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.whaktikaservices.co.nz",
+  "email": "pdsmith@netvigator.com",
+  "address": {
+    "line1": "22 Akanaw Lane",
+    "line2": "RD 3",
+    "suburb": "Queensberry",
+    "city": "Cromwell",
+    "postcode": "9383"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-24T21:40:52Z"
+}

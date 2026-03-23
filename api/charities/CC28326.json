@@ -1,0 +1,27 @@
+{
+  "id": 42817,
+  "registrationNumber": "CC28326",
+  "name": "Ranfurly Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "brjsmith05@gmail.com",
+  "address": {
+    "line1": "29 John Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Ranfurly",
+    "postcode": "9332"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T20:01:23Z"
+}

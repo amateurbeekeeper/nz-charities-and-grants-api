@@ -1,0 +1,27 @@
+{
+  "id": 75091,
+  "registrationNumber": "CC61522",
+  "name": "Hauora Aotearoa",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-06-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hauoraaotearoa.com/",
+  "email": "renee@hauoraaotearoa.com",
+  "address": {
+    "line1": "5 Frank Newton Road",
+    "line2": " ",
+    "suburb": "Swanson",
+    "city": "Auckland",
+    "postcode": "0614"
+  },
+  "nzbn": "9429051416102",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/haaotearoa",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-17T20:33:48Z"
+}

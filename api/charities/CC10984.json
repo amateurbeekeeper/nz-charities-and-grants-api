@@ -1,0 +1,27 @@
+{
+  "id": 53905,
+  "registrationNumber": "CC10984",
+  "name": "The Cancer Society of New Zealand Canterbury-West Coast Division Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-09-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.cancernz.org.nz",
+  "email": "bianca.baillie@southerncancer.org.nz",
+  "address": {
+    "line1": "74 Langdons Road",
+    "line2": " ",
+    "suburb": "Papanui",
+    "city": "Christchurch",
+    "postcode": "8053"
+  },
+  "nzbn": "9429042855866",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/cancercwc",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-29T02:50:40Z"
+}

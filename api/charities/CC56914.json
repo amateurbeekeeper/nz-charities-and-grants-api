@@ -1,0 +1,27 @@
+{
+  "id": 70549,
+  "registrationNumber": "CC56914",
+  "name": "Piha Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-06-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "troycassnz@gmail.com",
+  "address": {
+    "line1": "50 Seaview Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Piha",
+    "postcode": "0772"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PihaVolunteerFireBrigade/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-02T18:42:04Z"
+}

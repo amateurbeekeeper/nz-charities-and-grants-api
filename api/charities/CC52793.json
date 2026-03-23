@@ -1,0 +1,27 @@
+{
+  "id": 66526,
+  "registrationNumber": "CC52793",
+  "name": "Anglican Diocese of Christchurch - Parish of Lyttelton",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-01-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://lytteltonchurch.weebly.com/",
+  "email": "jmclister@icloud.com",
+  "address": {
+    "line1": "17 Winchester Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lyttelton",
+    "postcode": "8082"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-25T19:35:51Z"
+}

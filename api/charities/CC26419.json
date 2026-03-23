@@ -1,0 +1,27 @@
+{
+  "id": 56277,
+  "registrationNumber": "CC26419",
+  "name": "Champagnat Marist Education Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "CEO@cmel.org.nz",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "381 Great South Road",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429034372791",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:54Z"
+}

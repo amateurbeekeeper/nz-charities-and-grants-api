@@ -1,0 +1,27 @@
+{
+  "id": 55672,
+  "registrationNumber": "CC25069",
+  "name": "Central Lakes Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.clt.net.nz",
+  "email": "finance@clt.net.nz",
+  "address": {
+    "line1": "190 Waenga Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cromwell",
+    "postcode": "9310"
+  },
+  "nzbn": "9429043069224",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-11T21:04:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 73859,
+  "registrationNumber": "CC60269",
+  "name": "InterlockNZ Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.interlock.org.nz",
+  "email": "lois@interlock.org.nz",
+  "address": {
+    "line1": "52B Hamilton Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Cambridge",
+    "postcode": "3434"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Interlocknz Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T18:02:33Z"
+}

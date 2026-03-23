@@ -1,0 +1,27 @@
+{
+  "id": 62520,
+  "registrationNumber": "CC37140",
+  "name": "National Assistance Fund",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-08-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ross.boon@nafnz.net.nz",
+  "address": {
+    "line1": "470 Parnell Road",
+    "line2": null,
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429045525049",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-16T21:04:59Z"
+}

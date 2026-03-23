@@ -1,0 +1,27 @@
+{
+  "id": 61105,
+  "registrationNumber": "CC28955",
+  "name": "Brain Injury Association Whanganui Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.brain-injury.org.nz",
+  "email": "finance.whanganui@brain-injury.org.nz",
+  "address": {
+    "line1": "COMMUNITY HOUSE",
+    "line2": " ROOM 104",
+    "suburb": "60 Ridgway Street",
+    "city": "Wanganui",
+    "postcode": "4500"
+  },
+  "nzbn": "9429042968085",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T01:52:09Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 46781,
+  "registrationNumber": "CC39747",
+  "name": "Dive South Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.divesouth.co.nz",
+  "email": "djpahl@kinect.co.nz",
+  "address": {
+    "line1": "134 Ryal Bush Wallacetown Road",
+    "line2": "RD 6",
+    "suburb": "Ryal Bush",
+    "city": "Invercargill",
+    "postcode": "9876"
+  },
+  "nzbn": "9429042940852",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-12T21:37:06Z"
+}

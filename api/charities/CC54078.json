@@ -1,0 +1,27 @@
+{
+  "id": 67771,
+  "registrationNumber": "CC54078",
+  "name": "Dementia New Zealand Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-12-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.dementia.nz",
+  "email": "Kristen.phillips@dementia.nz",
+  "address": {
+    "line1": "4 Tennyson Road",
+    "line2": " ",
+    "suburb": "Enderley",
+    "city": "Hamilton",
+    "postcode": "3214"
+  },
+  "nzbn": "9429043421633",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Dementia New Zealand ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-06T01:48:26Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 53953,
+  "registrationNumber": "CC21026",
+  "name": "Alzheimers New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-02-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.alzheimers.org.nz",
+  "email": "catherine.hall@alzheimers.org.nz",
+  "address": {
+    "line1": "15 Dixon Street",
+    "line2": " Education House",
+    "suburb": "Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042576082",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/alzheimersnewzealand",
+    "twitter": "https://twitter.com/AlzheimersNZ"
+  },
+  "lastUpdated": "2025-11-13T01:31:55Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72422,
+  "registrationNumber": "CC58813",
+  "name": "Samom Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.samomtrust.co.nz",
+  "email": "cecilytaufelila74@gmail.com",
+  "address": {
+    "line1": "18R Smiths Avenue",
+    "line2": "Papakura 2110",
+    "suburb": "Papakura",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": "9429048764018",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "Samom Trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-20T19:52:33Z"
+}

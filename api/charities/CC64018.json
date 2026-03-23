@@ -1,0 +1,27 @@
+{
+  "id": 78204,
+  "registrationNumber": "CC64018",
+  "name": "Greater New Brighton Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.greaternewbrighton.org",
+  "email": "greaternewbrighton@gmail.com",
+  "address": {
+    "line1": "44A Tui Street",
+    "line2": " ",
+    "suburb": "Fendalton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T20:57:21Z"
+}

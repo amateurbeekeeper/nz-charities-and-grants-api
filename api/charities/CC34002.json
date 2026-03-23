@@ -1,0 +1,27 @@
+{
+  "id": 45592,
+  "registrationNumber": "CC34002",
+  "name": "Canterbury Cricket Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hagleyoval.co.nz",
+  "email": "Lee.Robinson@srblaw.co.nz",
+  "address": {
+    "line1": "57 Riccarton Avenue",
+    "line2": "Hadlee Pavilion",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8011"
+  },
+  "nzbn": "9429043142897",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "hagleyoval",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T02:58:23Z"
+}

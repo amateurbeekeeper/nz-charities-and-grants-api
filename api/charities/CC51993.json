@@ -1,0 +1,27 @@
+{
+  "id": 65739,
+  "registrationNumber": "CC51993",
+  "name": "Otaki-Waikanae Presbyterian Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.otakiwaikanaechurch.nz",
+  "email": "treasurer@owpresb.nz",
+  "address": {
+    "line1": "45 Ngaio Road",
+    "line2": "Waikanae 5036",
+    "suburb": " ",
+    "city": "Waikanae",
+    "postcode": "5036"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-02T18:23:56Z"
+}

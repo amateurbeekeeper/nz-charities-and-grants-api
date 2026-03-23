@@ -1,0 +1,27 @@
+{
+  "id": 74772,
+  "registrationNumber": "CC61188",
+  "name": "Golden Bay Association Football Club Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-04-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://sporty.co.nz/goldenbayafc",
+  "email": "president@goldenbayafc.co.nz",
+  "address": {
+    "line1": "2032 Takaka Valley Highway",
+    "line2": "Takaka 7110",
+    "suburb": " ",
+    "city": "Takaka",
+    "postcode": "7110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/goldenbayfootballclub/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-20T01:40:28Z"
+}

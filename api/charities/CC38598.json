@@ -1,0 +1,27 @@
+{
+  "id": 49751,
+  "registrationNumber": "CC38598",
+  "name": "Asian Outreach Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.asianoutreach.org.nz",
+  "email": "john@roberts.co.nz",
+  "address": {
+    "line1": "1599 Dairy Flat Highway",
+    "line2": "RD 4",
+    "suburb": "Dairy Flat",
+    "city": "Albany",
+    "postcode": "0794"
+  },
+  "nzbn": "9429042580522",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:55:13Z"
+}

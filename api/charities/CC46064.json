@@ -1,0 +1,27 @@
+{
+  "id": 36319,
+  "registrationNumber": "CC46064",
+  "name": "The eDay New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-01-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.eday.org.nz",
+  "email": "laurencezwimpfer@gmail.com",
+  "address": {
+    "line1": "52 Pitt Street",
+    "line2": " ",
+    "suburb": "Wadestown",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043208173",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-27T20:49:45Z"
+}

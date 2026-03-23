@@ -1,0 +1,27 @@
+{
+  "id": 46331,
+  "registrationNumber": "CC37756",
+  "name": "Martinborough Toy Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://martinborough.setls.com.au/",
+  "email": "gabeandbraden@hotmail.com",
+  "address": {
+    "line1": "8 Texas Street",
+    "line2": "Martinborough 5711",
+    "suburb": " ",
+    "city": "Martinborough",
+    "postcode": "5711"
+  },
+  "nzbn": "9429043005246",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://web.facebook.com/martinboroughtoylibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T07:58:15Z"
+}

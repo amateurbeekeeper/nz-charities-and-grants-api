@@ -1,0 +1,27 @@
+{
+  "id": 50712,
+  "registrationNumber": "CC46083",
+  "name": "La Famia No 4 Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2011-01-26T00:00:00Z",
+  "dateDeregistered": "2015-06-01T00:00:00Z",
+  "website": "http://www.lafamia.com",
+  "email": "harmon@lafamia.com",
+  "address": {
+    "line1": "14 Henry Wigram Drive",
+    "line2": null,
+    "suburb": "Wigram",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429031517041",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-10-07T00:18:27Z"
+}

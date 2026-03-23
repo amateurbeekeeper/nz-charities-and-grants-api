@@ -1,0 +1,27 @@
+{
+  "id": 41796,
+  "registrationNumber": "CC24151",
+  "name": "RISE Living Safe",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.rise.net.nz",
+  "email": "manager@rise.net.nz",
+  "address": {
+    "line1": "Level 3",
+    "line2": " 295 Trafalgar Street",
+    "suburb": "Nelson ",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429042990666",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "@RISENelsonTasman",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T18:51:41Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72491,
+  "registrationNumber": "CC58886",
+  "name": "New Zealand Music Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "nzmusictrust.org",
+  "email": "info@nzmusictrust.org",
+  "address": {
+    "line1": "7 Newcombe Crescent",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429049814873",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzmusictrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:09:52Z"
+}

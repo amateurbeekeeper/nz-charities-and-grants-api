@@ -1,0 +1,27 @@
+{
+  "id": 70118,
+  "registrationNumber": "CC56480",
+  "name": "Learning City Christchurch Charitable Trust Board",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-01-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.learningcitychristchurch.nz",
+  "email": "jane.treadwell-hoye@necto.co.nz",
+  "address": {
+    "line1": "30 Nicholls Street",
+    "line2": " ",
+    "suburb": "Richmond",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/LearningCityChCh/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-11T03:34:28Z"
+}

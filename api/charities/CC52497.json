@@ -1,0 +1,27 @@
+{
+  "id": 66229,
+  "registrationNumber": "CC52497",
+  "name": "Owaka Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-10-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "johnmoiraspicer@gmail.com",
+  "address": {
+    "line1": "12 Main Road",
+    "line2": "Owaka 9535",
+    "suburb": " ",
+    "city": "Owaka",
+    "postcode": "9535"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T18:24:14Z"
+}

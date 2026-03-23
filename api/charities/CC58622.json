@@ -1,0 +1,27 @@
+{
+  "id": 72240,
+  "registrationNumber": "CC58622",
+  "name": "The Oyster Foundation Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-02-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "oysterworkshop.co.nz",
+  "email": "sarah@oysterworkshop.co.nz",
+  "address": {
+    "line1": "5 Farnham Street",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429048357210",
+  "financialYearEnd": "21/3",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T19:30:30Z"
+}

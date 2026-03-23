@@ -1,0 +1,27 @@
+{
+  "id": 74877,
+  "registrationNumber": "CC61299",
+  "name": "Nevertheless Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.neverthelessnz.com",
+  "email": "shaq@neverthelessnz.com",
+  "address": {
+    "line1": "4/105 Pakowhai Road",
+    "line2": " ",
+    "suburb": "Frimley",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429051295097",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Nevertheless NZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T21:49:02Z"
+}

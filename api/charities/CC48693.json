@@ -1,0 +1,27 @@
+{
+  "id": 32625,
+  "registrationNumber": "CC48693",
+  "name": "Canterbury Broadcasting Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2020-09-25T00:00:00Z",
+  "dateDeregistered": "2023-02-23T00:00:00Z",
+  "website": null,
+  "email": "andy.poulsen@pulzarfm.co.nz",
+  "address": {
+    "line1": "6B James Condon Place",
+    "line2": null,
+    "suburb": "Redwood",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429043217243",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-05-02T02:21:00Z"
+}

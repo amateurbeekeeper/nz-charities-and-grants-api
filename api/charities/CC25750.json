@@ -1,0 +1,27 @@
+{
+  "id": 57826,
+  "registrationNumber": "CC25750",
+  "name": "George Gall Scott Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gtcc@pgtrust.co.nz",
+  "address": {
+    "line1": "C/O Perpetual Guardian",
+    "line2": "Level 8, 191 Queen Street",
+    "suburb": "Auckland CBD",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T22:03:52Z"
+}

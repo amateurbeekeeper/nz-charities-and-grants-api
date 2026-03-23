@@ -1,0 +1,27 @@
+{
+  "id": 43054,
+  "registrationNumber": "CC35413",
+  "name": "Tauhara Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tauharacentre.org.nz",
+  "email": "tauhara@tauharacentre.org.nz",
+  "address": {
+    "line1": "60 Acacia Heights Drive",
+    "line2": "RD 5",
+    "suburb": "Acacia Bay",
+    "city": "Taupo",
+    "postcode": "3385"
+  },
+  "nzbn": "9429042832430",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TauharaCentre",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T18:44:47Z"
+}

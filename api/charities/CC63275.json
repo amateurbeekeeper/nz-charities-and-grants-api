@@ -1,0 +1,27 @@
+{
+  "id": 77480,
+  "registrationNumber": "CC63275",
+  "name": "Ka Uruora Te Matau-a-Māui",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-09-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://kauruora.nz/housing-2/",
+  "email": "graeme@greenwoodroche.com",
+  "address": {
+    "line1": "Unit 4",
+    "line2": "71 Gloucester Street",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kauruora",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-16T04:35:32Z"
+}

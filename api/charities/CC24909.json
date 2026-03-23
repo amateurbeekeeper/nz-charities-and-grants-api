@@ -1,0 +1,27 @@
+{
+  "id": 42152,
+  "registrationNumber": "CC24909",
+  "name": "Southland Food Bank Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "olive.rose@xtra.co.nz",
+  "address": {
+    "line1": "24 Deveron Street",
+    "line2": "Invercargill 9810",
+    "suburb": " ",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042925934",
+  "financialYearEnd": "30/4",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:17:22Z"
+}

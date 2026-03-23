@@ -1,0 +1,27 @@
+{
+  "id": 74940,
+  "registrationNumber": "CC61366",
+  "name": "WAIPATU MARAE TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "secretary@waipatu.maori.nz",
+  "address": {
+    "line1": "75 State Highway 51",
+    "line2": "Waipatu 4172",
+    "suburb": " ",
+    "city": "Waipatu",
+    "postcode": "4172"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waipatu Panui",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:49:18Z"
+}

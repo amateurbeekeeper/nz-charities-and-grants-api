@@ -1,0 +1,27 @@
+{
+  "id": 61608,
+  "registrationNumber": "CC40207",
+  "name": "The Otaio Community Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "johnandtracey@scorch.co.nz",
+  "address": {
+    "line1": "371 Marshall Road",
+    "line2": "RD 1",
+    "suburb": "Otaio",
+    "city": "Timaru",
+    "postcode": "7971"
+  },
+  "nzbn": "9429042792260",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T19:44:37Z"
+}

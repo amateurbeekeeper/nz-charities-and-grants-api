@@ -1,0 +1,27 @@
+{
+  "id": 67348,
+  "registrationNumber": "CC53636",
+  "name": "Te Aka Toitu",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-07-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.teakatoitu.nz",
+  "email": "bronwyn@bfp.nz",
+  "address": {
+    "line1": "81 Muriwai Drive",
+    "line2": " ",
+    "suburb": "Whakatāne",
+    "city": "Whakatane",
+    "postcode": "3120"
+  },
+  "nzbn": "9429043305599",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-15T19:23:59Z"
+}

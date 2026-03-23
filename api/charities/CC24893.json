@@ -1,0 +1,27 @@
+{
+  "id": 41703,
+  "registrationNumber": "CC24893",
+  "name": "Subud New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.subud.org.nz",
+  "email": "tylernicola3@gmail.com",
+  "address": {
+    "line1": "19 Formby Avenue",
+    "line2": " ",
+    "suburb": "Point Chevalier",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429042839460",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T00:59:16Z"
+}

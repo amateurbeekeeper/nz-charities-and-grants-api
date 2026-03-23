@@ -1,0 +1,27 @@
+{
+  "id": 58250,
+  "registrationNumber": "CC25985",
+  "name": "Surf Lifesaving Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ryan.johnson@bayleys.co.nz",
+  "address": {
+    "line1": "36 Williamson Avenue",
+    "line2": " ",
+    "suburb": "Belmont",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": "9429043086122",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-27T20:50:59Z"
+}

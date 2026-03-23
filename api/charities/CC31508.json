@@ -1,0 +1,27 @@
+{
+  "id": 42804,
+  "registrationNumber": "CC31508",
+  "name": "Leaning Lodge Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.otmc.co.nz",
+  "email": "john@johncocks.co.nz",
+  "address": {
+    "line1": "3 Young Street",
+    "line2": " ",
+    "suburb": "Saint Kilda",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-16T05:20:17Z"
+}

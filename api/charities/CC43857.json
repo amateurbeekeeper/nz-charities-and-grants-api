@@ -1,0 +1,27 @@
+{
+  "id": 48353,
+  "registrationNumber": "CC43857",
+  "name": "Redwood Tennis Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.redwoodtennis.co.nz",
+  "email": "markhenshaw@hotmail.com",
+  "address": {
+    "line1": "C/-",
+    "line2": "27 Cherrywood Place",
+    "suburb": "Redwood",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429042722090",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-17T18:05:42Z"
+}

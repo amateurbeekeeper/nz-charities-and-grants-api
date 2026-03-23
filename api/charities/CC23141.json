@@ -1,0 +1,27 @@
+{
+  "id": 55195,
+  "registrationNumber": "CC23141",
+  "name": "Multiserve Limited",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-04-17T00:00:00Z",
+  "dateDeregistered": "2009-10-01T00:00:00Z",
+  "website": "http://www.multiserve.co.nz",
+  "email": "icordes@cognition.co.nz",
+  "address": {
+    "line1": "LEVEL 1",
+    "line2": "14 Normanby Road",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429038100031",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T01:11:06Z"
+}

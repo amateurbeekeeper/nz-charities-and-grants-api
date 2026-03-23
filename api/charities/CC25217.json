@@ -1,0 +1,27 @@
+{
+  "id": 57398,
+  "registrationNumber": "CC25217",
+  "name": "Palmerston North Central Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pncbc.org.nz",
+  "email": "finance@pncbc.org.nz",
+  "address": {
+    "line1": "190 Church Street",
+    "line2": " ",
+    "suburb": "West End",
+    "city": "Palmerston North",
+    "postcode": "4412"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "com/pncbc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T21:57:19Z"
+}

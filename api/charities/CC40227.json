@@ -1,0 +1,27 @@
+{
+  "id": 62202,
+  "registrationNumber": "CC40227",
+  "name": "Ngati Rarua Iwi Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ngatirarua.iwi.nz",
+  "email": "michelle.lavender@ngatirarua.iwi.nz",
+  "address": {
+    "line1": "65 Scott Street",
+    "line2": "Blenheim 7201",
+    "suburb": "Mayfield",
+    "city": "Blenheim",
+    "postcode": "7201"
+  },
+  "nzbn": "9429042785057",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-27T04:03:57Z"
+}

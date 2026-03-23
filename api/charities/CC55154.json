@@ -1,0 +1,27 @@
+{
+  "id": 68810,
+  "registrationNumber": "CC55154",
+  "name": "New Zealand Multicultre Culture and Arts Exchange Centre",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-09-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://nzccaec.co.nz/",
+  "email": "nzccaec@gmail.com",
+  "address": {
+    "line1": "245 Hobson Street",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429046181602",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/New-Zealand-Chinese-Culture-and-Arts-Exchange-Centre-107826804140444",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T01:39:53Z"
+}

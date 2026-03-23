@@ -1,0 +1,27 @@
+{
+  "id": 68150,
+  "registrationNumber": "CC54478",
+  "name": "Paw Kitties Charitable Trust ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.pawkitties.org",
+  "email": "tracey@pawkitties.org",
+  "address": {
+    "line1": "77 Te Henga Road",
+    "line2": "RD 1",
+    "suburb": "Waitākere",
+    "city": "Henderson",
+    "postcode": "0781"
+  },
+  "nzbn": "9429046103154",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/pawkitties/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-24T00:35:01Z"
+}

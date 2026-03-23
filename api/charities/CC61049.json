@@ -1,0 +1,27 @@
+{
+  "id": 74631,
+  "registrationNumber": "CC61049",
+  "name": "Emergency Alliance",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-01-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.emergencyalliance.org.nz",
+  "email": "director@emergencyalliance.org.nz",
+  "address": {
+    "line1": "64C Stoddard Road",
+    "line2": " ",
+    "suburb": "Wesley",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429051010669",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-17T19:27:23Z"
+}

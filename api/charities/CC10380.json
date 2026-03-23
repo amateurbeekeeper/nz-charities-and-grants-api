@@ -1,0 +1,27 @@
+{
+  "id": 52078,
+  "registrationNumber": "CC10380",
+  "name": "The Pohlen Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-05-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pohlen.co.nz",
+  "email": "fundraising@pohlen.co.nz",
+  "address": {
+    "line1": "PO Box 239",
+    "line2": "Matamata 3440",
+    "suburb": " ",
+    "city": "Matamata",
+    "postcode": "3440"
+  },
+  "nzbn": "9429043037759",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PohlenFoundationTrust1/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T23:41:30Z"
+}

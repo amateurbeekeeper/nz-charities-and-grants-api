@@ -1,0 +1,27 @@
+{
+  "id": 76696,
+  "registrationNumber": "CC62857",
+  "name": "Spectrum Work Aotearoa Charitable Trust",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2024-05-25T00:00:00Z",
+  "dateDeregistered": "2026-02-01T00:00:00Z",
+  "website": "https://www.spectrumwork.org.nz/",
+  "email": "laura@spectrumwork.org.nz",
+  "address": {
+    "line1": "Flat 21",
+    "line2": "218 Captain Springs Road",
+    "suburb": "Onehunga",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/spectrumworknz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T06:03:44Z"
+}

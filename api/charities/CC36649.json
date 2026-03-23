@@ -1,0 +1,27 @@
+{
+  "id": 40754,
+  "registrationNumber": "CC36649",
+  "name": "Samaritan's Purse Australia Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.samaritanspurse.org.au",
+  "email": "suzanneb@samaritanspurse.org.au",
+  "address": {
+    "line1": "13 Binney Road",
+    "line2": "Kings Park, New South Wales",
+    "suburb": " ",
+    "city": "Australia",
+    "postcode": "2148"
+  },
+  "nzbn": "9429034144398",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/SamaritansPurseANZ",
+    "twitter": "https://twitter.com/SP_ANZ"
+  },
+  "lastUpdated": "2025-11-21T00:06:00Z"
+}

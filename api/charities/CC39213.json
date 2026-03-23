@@ -1,0 +1,27 @@
+{
+  "id": 63422,
+  "registrationNumber": "CC39213",
+  "name": "The Kelliher Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kct.co.nz",
+  "email": "trustmanager@kct.co.nz",
+  "address": {
+    "line1": "2 York Street",
+    "line2": " ",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429043184224",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T00:57:23Z"
+}

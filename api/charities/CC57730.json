@@ -1,0 +1,27 @@
+{
+  "id": 71356,
+  "registrationNumber": "CC57730",
+  "name": "Place Cadets Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kiaora@placecadets.org.nz",
+  "address": {
+    "line1": "74 Cressy Terrace",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lyttelton",
+    "postcode": "8082"
+  },
+  "nzbn": "9429048225472",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T03:37:21Z"
+}

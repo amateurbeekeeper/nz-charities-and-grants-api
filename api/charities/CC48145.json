@@ -1,0 +1,27 @@
+{
+  "id": 37238,
+  "registrationNumber": "CC48145",
+  "name": "Auckland Deaf Society Foundation Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-02-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.auckland-deaf.org.nz",
+  "email": "finance@auckland-deaf.org.nz",
+  "address": {
+    "line1": "16 Hillsborough Road",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429043216482",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-14T19:11:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 56985,
+  "registrationNumber": "CC36470",
+  "name": "Society Of St Vincent De Paul St Patricks Waimate",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2011-11-08T00:00:00Z",
+  "website": "http://www.svdp.org.nz",
+  "email": "admin@svdp.org.nz",
+  "address": {
+    "line1": "PO Box 10815",
+    "line2": "The Terrace",
+    "suburb": "Wellington",
+    "city": null,
+    "postcode": "6143"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2014-04-18T03:49:19Z"
+}

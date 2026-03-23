@@ -1,0 +1,27 @@
+{
+  "id": 33511,
+  "registrationNumber": "CC50053",
+  "name": "Te Whare o Kenehi",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-10-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "suewestbrook22@outlook.com",
+  "address": {
+    "line1": "1415 Hinemoa Street",
+    "line2": "Rotorua 3010",
+    "suburb": "Rotorua",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042827665",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-23T18:29:28Z"
+}

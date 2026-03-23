@@ -1,0 +1,27 @@
+{
+  "id": 62685,
+  "registrationNumber": "CC43394",
+  "name": "The Neonatal Trust (Auckland)",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-01-17T00:00:00Z",
+  "dateDeregistered": "2020-03-31T00:00:00Z",
+  "website": "http://www.neonataltrust.co.nz",
+  "email": "damon.h@xtra.co.nz",
+  "address": {
+    "line1": "Level 9 Auckland City Hospital",
+    "line2": "Grafton Road",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": null
+  },
+  "nzbn": "9429043198344",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/theneonataltrustakld",
+    "twitter": null
+  },
+  "lastUpdated": "2021-01-14T20:04:01Z"
+}

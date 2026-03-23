@@ -1,0 +1,27 @@
+{
+  "id": 71581,
+  "registrationNumber": "CC57964",
+  "name": "Te Kaupeka o Whanui",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-07-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "raez_hems@hotmail.com",
+  "address": {
+    "line1": "17B Ranfurly Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Moerewa",
+    "postcode": "0211"
+  },
+  "nzbn": "9429046418272",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T00:44:20Z"
+}

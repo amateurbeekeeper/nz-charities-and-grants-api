@@ -1,0 +1,27 @@
+{
+  "id": 38104,
+  "registrationNumber": "CC45804",
+  "name": "Halcombe Rugby Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-12-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "onekiwigal@gmail.com",
+  "address": {
+    "line1": "62 Stewart Street",
+    "line2": "RD 9",
+    "suburb": "Halcombe",
+    "city": "Feilding",
+    "postcode": "4779"
+  },
+  "nzbn": "9429042721673",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T22:22:50Z"
+}

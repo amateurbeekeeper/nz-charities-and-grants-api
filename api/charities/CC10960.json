@@ -1,0 +1,27 @@
+{
+  "id": 52862,
+  "registrationNumber": "CC10960",
+  "name": "New Frontiers Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kingschurch.co.nz",
+  "email": "trustees@kingschurch.co.nz",
+  "address": {
+    "line1": "76 Tauhinu Avenue",
+    "line2": null,
+    "suburb": " ",
+    "city": "Lincoln",
+    "postcode": "7608"
+  },
+  "nzbn": "9429043077687",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T18:36:14Z"
+}

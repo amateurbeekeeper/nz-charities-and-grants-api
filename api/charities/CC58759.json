@@ -1,0 +1,27 @@
+{
+  "id": 72382,
+  "registrationNumber": "CC58759",
+  "name": "Kaicycle Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-03-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kaicycle.org.nz",
+  "email": "accounts@kaicycle.org.nz",
+  "address": {
+    "line1": "35 Taft Street",
+    "line2": " ",
+    "suburb": "Brooklyn",
+    "city": "Wellington",
+    "postcode": "6021"
+  },
+  "nzbn": "9429043313952",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KaicycleWgtn",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-24T00:35:29Z"
+}

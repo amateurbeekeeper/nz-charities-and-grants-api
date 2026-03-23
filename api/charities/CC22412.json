@@ -1,0 +1,27 @@
+{
+  "id": 39768,
+  "registrationNumber": "CC22412",
+  "name": "Helen Anderson Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-01T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://helenandersontrust.co.nz",
+  "email": "debbie@helenandersontrust.co.nz",
+  "address": {
+    "line1": "11 Amos Place",
+    "line2": " ",
+    "suburb": "Shirley",
+    "city": "Christchurch",
+    "postcode": null
+  },
+  "nzbn": "9429042643906",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T21:10:16Z"
+}

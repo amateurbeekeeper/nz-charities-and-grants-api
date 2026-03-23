@@ -1,0 +1,27 @@
+{
+  "id": 65790,
+  "registrationNumber": "CC52049",
+  "name": "St Johns Presbyterian Church Hastings",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.stjohnshastings.org.nz",
+  "email": "debwillsonnz@gmail.com",
+  "address": {
+    "line1": "608 Frederick Street",
+    "line2": " ",
+    "suburb": "Mahora",
+    "city": "Hastings",
+    "postcode": "4120"
+  },
+  "nzbn": "9429049791594",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": " ",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-15T20:33:34Z"
+}

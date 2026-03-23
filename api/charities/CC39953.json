@@ -1,0 +1,27 @@
+{
+  "id": 45739,
+  "registrationNumber": "CC39953",
+  "name": "Hui Amorangi Ki Te Manawa O Te Wheke",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.motw.org.nz",
+  "email": "office@motw.org.nz",
+  "address": {
+    "line1": "33 Robinson Avenue",
+    "line2": " ",
+    "suburb": "Holdens Bay",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "@TeManawaoTeWheke",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T20:00:14Z"
+}

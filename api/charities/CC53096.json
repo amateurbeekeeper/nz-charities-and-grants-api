@@ -1,0 +1,27 @@
+{
+  "id": 66910,
+  "registrationNumber": "CC53096",
+  "name": "St Joseph Parish, Upper Hutt",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-04-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.stjosephsuh.com",
+  "email": "stjosephsuh1@gmail.com",
+  "address": {
+    "line1": "1 Pine Ave",
+    "line2": null,
+    "suburb": " ",
+    "city": "Upper Hutt",
+    "postcode": "5140"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T01:21:42Z"
+}

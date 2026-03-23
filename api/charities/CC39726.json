@@ -1,0 +1,27 @@
+{
+  "id": 56510,
+  "registrationNumber": "CC39726",
+  "name": "Christchurch Photographic Society",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cpsnz.com",
+  "email": "secretary@cpsnz.com",
+  "address": {
+    "line1": "77 Woodbury Street",
+    "line2": " ",
+    "suburb": "Russley",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429042612049",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-20T22:29:39Z"
+}

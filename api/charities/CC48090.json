@@ -1,0 +1,27 @@
+{
+  "id": 37884,
+  "registrationNumber": "CC48090",
+  "name": "Murrays Bay School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2012-08-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tanyamarie.collard@gmail.com",
+  "address": {
+    "line1": "Clematis Avenue",
+    "line2": "Mairangi Bay",
+    "suburb": "Murrays Bay",
+    "city": "Auckland",
+    "postcode": "0754"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "murraysbayPTA",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T23:47:41Z"
+}

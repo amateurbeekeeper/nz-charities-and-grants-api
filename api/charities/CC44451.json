@@ -1,0 +1,27 @@
+{
+  "id": 50614,
+  "registrationNumber": "CC44451",
+  "name": "New Zealand National Refugee Network Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2010-06-17T00:00:00Z",
+  "dateDeregistered": "2015-01-28T00:00:00Z",
+  "website": "http://www.nznrn.org.nz",
+  "email": "info@nznrn.org.nz",
+  "address": {
+    "line1": "PO Box 7492",
+    "line2": "Newtown",
+    "suburb": "Wellington",
+    "city": null,
+    "postcode": "6242"
+  },
+  "nzbn": "9429043202133",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2020-09-28T02:18:07Z"
+}

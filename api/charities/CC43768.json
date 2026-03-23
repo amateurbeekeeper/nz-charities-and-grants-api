@@ -1,0 +1,27 @@
+{
+  "id": 50088,
+  "registrationNumber": "CC43768",
+  "name": "Te Tai Tokerau Tarai Waka Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2025-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "randjmunns@xtra.co.nz",
+  "address": {
+    "line1": "5428 Far North Road",
+    "line2": " ",
+    "suburb": "Ngataki",
+    "city": "Pukenui",
+    "postcode": "0484"
+  },
+  "nzbn": "9429042841975",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/tarai.waka",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T01:57:13Z"
+}

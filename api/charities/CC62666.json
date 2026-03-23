@@ -1,0 +1,27 @@
+{
+  "id": 76336,
+  "registrationNumber": "CC62666",
+  "name": "Westella Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-06-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wisegroup.co.nz/",
+  "email": "tracey.dent@wisegroup.co.nz",
+  "address": {
+    "line1": "293 Grey Street",
+    "line2": " ",
+    "suburb": "Hamilton East",
+    "city": "Hamilton",
+    "postcode": "3216"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-02T21:08:54Z"
+}

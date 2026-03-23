@@ -1,0 +1,27 @@
+{
+  "id": 46587,
+  "registrationNumber": "CC34686",
+  "name": "Pasifika Addictions Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "rjohnston@jacal.co.nz",
+  "address": {
+    "line1": "PO Box 91842",
+    "line2": "Victoria Street West",
+    "suburb": "Auckland",
+    "city": "Auckland",
+    "postcode": "1142"
+  },
+  "nzbn": "9429042981107",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-08T05:59:48Z"
+}

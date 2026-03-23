@@ -1,0 +1,27 @@
+{
+  "id": 75283,
+  "registrationNumber": "CC61719",
+  "name": "University of Canterbury Motorsport",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-08-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "moss.benton@ucmotorsport.com",
+  "address": {
+    "line1": "24 Kirkwood Avenue",
+    "line2": " ",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/UCMFSAE/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T10:17:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 36373,
+  "registrationNumber": "CC46811",
+  "name": "Hockey Manawatu Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-07-26T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hockeymanawatu.org.nz",
+  "email": "office@hockeymanawatu.org.nz",
+  "address": {
+    "line1": "6A Manawaroa Street",
+    "line2": " ",
+    "suburb": "West End",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042645979",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Hockey-Manawatu-Incorporated-220786758831/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-10T02:44:11Z"
+}

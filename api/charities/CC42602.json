@@ -1,0 +1,27 @@
+{
+  "id": 63488,
+  "registrationNumber": "CC42602",
+  "name": "His Church New Zealand Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hischurch.org.nz",
+  "email": "lihsien@hope.org.nz",
+  "address": {
+    "line1": "956 Great North Road",
+    "line2": " ",
+    "suburb": "Western Springs",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429052953125",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hischrch/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T00:20:21Z"
+}

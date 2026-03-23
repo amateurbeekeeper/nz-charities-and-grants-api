@@ -1,0 +1,27 @@
+{
+  "id": 73582,
+  "registrationNumber": "CC60019",
+  "name": "KOLOA TONGA TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-04-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ktt.org.nz",
+  "email": "sptonga@gmail.com",
+  "address": {
+    "line1": "11A Lauderdale Road",
+    "line2": " ",
+    "suburb": "Birkdale",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429048697156",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-21T04:21:25Z"
+}

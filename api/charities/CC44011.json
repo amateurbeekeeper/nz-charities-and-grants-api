@@ -1,0 +1,27 @@
+{
+  "id": 50435,
+  "registrationNumber": "CC44011",
+  "name": "The Rosa Counselling Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-04-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rosacounsellingtrust.com",
+  "email": "rosatrust@ps.gen.nz",
+  "address": {
+    "line1": "2/15 Central Boulevard",
+    "line2": null,
+    "suburb": " Silverdale",
+    "city": "Auckland",
+    "postcode": "0932"
+  },
+  "nzbn": "9429042947424",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T00:42:13Z"
+}

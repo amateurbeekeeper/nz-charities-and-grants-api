@@ -1,0 +1,27 @@
+{
+  "id": 44160,
+  "registrationNumber": "CC40060",
+  "name": "Welcome Bay School Support Group",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta@welcomebay.school.nz",
+  "address": {
+    "line1": "Welcome Bay School",
+    "line2": "309 Welcome Bay Road",
+    "suburb": "Welcome Bay",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-25T09:32:57Z"
+}

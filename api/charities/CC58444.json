@@ -1,0 +1,27 @@
+{
+  "id": 72061,
+  "registrationNumber": "CC58444",
+  "name": "Waka Voyaging Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-10-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "wakavoyagers@gmail.com",
+  "address": {
+    "line1": "259 Stout Street",
+    "line2": " ",
+    "suburb": "Mangapapa",
+    "city": "Gisborne",
+    "postcode": "4010"
+  },
+  "nzbn": "9429048736404",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Aturangi Nepia-Clamp",
+    "twitter": "Te Aturangi Nepia-Clamp"
+  },
+  "lastUpdated": "2025-07-13T02:07:36Z"
+}

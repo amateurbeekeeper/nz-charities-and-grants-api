@@ -1,0 +1,27 @@
+{
+  "id": 66766,
+  "registrationNumber": "CC53042",
+  "name": "Eczema Association of New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.eczema.org.nz",
+  "email": "president@eczema.org.nz",
+  "address": {
+    "line1": "116 Fordyce Road",
+    "line2": "RD 1",
+    "suburb": "Parakai",
+    "city": "Helensville",
+    "postcode": "0874"
+  },
+  "nzbn": "9429043304516",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "   eczemanz",
+    "twitter": "eczemaau"
+  },
+  "lastUpdated": "2026-02-18T00:51:50Z"
+}

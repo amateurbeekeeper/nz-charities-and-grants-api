@@ -1,0 +1,27 @@
+{
+  "id": 48518,
+  "registrationNumber": "CC30434",
+  "name": "Dogwatch Sanctuary Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dogwatch.co.nz",
+  "email": "accounts@dogwatch.co.nz",
+  "address": {
+    "line1": "230 Dyers Road",
+    "line2": " ",
+    "suburb": "Bromley",
+    "city": "Christchurch",
+    "postcode": "8062"
+  },
+  "nzbn": "9429042665854",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Dogwatch-Sanctuary-Trust 277494078961245",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-23T19:36:31Z"
+}

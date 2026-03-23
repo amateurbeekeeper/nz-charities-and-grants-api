@@ -1,0 +1,27 @@
+{
+  "id": 45995,
+  "registrationNumber": "CC39045",
+  "name": "The Glenview School Parent Teachers Association",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2021-12-31T00:00:00Z",
+  "website": "http://www.glenview.school.nz",
+  "email": "principal@glenview.school.nz",
+  "address": {
+    "line1": "Bruce Avenue ",
+    "line2": "Glenview ",
+    "suburb": " ",
+    "city": "Hamilton",
+    "postcode": "3206"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-07-27T22:11:49Z"
+}

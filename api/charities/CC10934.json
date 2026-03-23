@@ -1,0 +1,27 @@
+{
+  "id": 52103,
+  "registrationNumber": "CC10934",
+  "name": "The Tironui Music Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tironui.org.nz",
+  "email": "peterhubscher@xtra.co.nz",
+  "address": {
+    "line1": "80 Tironui Drive",
+    "line2": " ",
+    "suburb": "Taradale",
+    "city": "Napier",
+    "postcode": "4112"
+  },
+  "nzbn": "9429043190591",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Tironui",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-05T23:26:20Z"
+}

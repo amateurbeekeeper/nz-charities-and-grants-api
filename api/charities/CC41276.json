@@ -1,0 +1,27 @@
+{
+  "id": 44249,
+  "registrationNumber": "CC41276",
+  "name": "Division CCMF Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://adventistchurch.com/",
+  "email": "ianheunis@adventist.org.au",
+  "address": {
+    "line1": "C/- LEVEL 1",
+    "line2": "18 Fencible Drive",
+    "suburb": "Howick",
+    "city": "Auckland",
+    "postcode": "2014"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T18:23:57Z"
+}

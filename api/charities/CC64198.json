@@ -1,0 +1,27 @@
+{
+  "id": 78385,
+  "registrationNumber": "CC64198",
+  "name": "THE RHEMA MEDIA TRUST",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-10-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rhemamedia.co.nz",
+  "email": "luke.weston@rhemamedia.co.nz",
+  "address": {
+    "line1": "53 Upper Queen Street",
+    "line2": null,
+    "suburb": "Eden Terrace",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-22T18:46:14Z"
+}

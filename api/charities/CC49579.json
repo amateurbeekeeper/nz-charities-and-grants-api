@@ -1,0 +1,27 @@
+{
+  "id": 35378,
+  "registrationNumber": "CC49579",
+  "name": "Hinengakau Maatua Whangai",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2013-08-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "maree.tupe@hmw.org.nz",
+  "address": {
+    "line1": "14 Manuaute Street",
+    "line2": "Taumarunui 3920",
+    "suburb": " ",
+    "city": "Taumarunui",
+    "postcode": "3920"
+  },
+  "nzbn": "9429042621348",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Hinengakau Maatua Whangai",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T22:12:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64728,
+  "registrationNumber": "CC43056",
+  "name": "The Agri-Womens Development Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-12-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.awdt.org.nz",
+  "email": "rachel@awdt.org.nz",
+  "address": {
+    "line1": "PO Box 566",
+    "line2": null,
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5840"
+  },
+  "nzbn": "9429043208272",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AgriWomensDevelopmentTrust/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-22T21:42:15Z"
+}

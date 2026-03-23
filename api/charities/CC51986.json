@@ -1,0 +1,27 @@
+{
+  "id": 65746,
+  "registrationNumber": "CC51986",
+  "name": "Waikouaiti Presbyterian Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pheasant@xtra.co.nz",
+  "address": {
+    "line1": "1 Pitcairn Street",
+    "line2": null,
+    "suburb": "Kenmure",
+    "city": "Dunedin",
+    "postcode": "9011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-15T23:51:21Z"
+}

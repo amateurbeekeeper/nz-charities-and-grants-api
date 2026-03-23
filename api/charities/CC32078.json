@@ -1,0 +1,27 @@
+{
+  "id": 56790,
+  "registrationNumber": "CC32078",
+  "name": "Akoranga Child Care Centre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "office@akorangachildcare.co.nz",
+  "address": {
+    "line1": "Gate 3 AUT",
+    "line2": " 90 Akoranga Drive",
+    "suburb": "Northcote",
+    "city": "Auckland",
+    "postcode": "0627"
+  },
+  "nzbn": "9429042575375",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-22T19:43:10Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72279,
+  "registrationNumber": "CC58668",
+  "name": "Waka with Wings Charity",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-11-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wakawithwings.com",
+  "email": "kiaora@wakawithwings.com",
+  "address": {
+    "line1": "23 Joanne Crescent",
+    "line2": null,
+    "suburb": "Pukehangi",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429048825191",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Waka with Wings",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-13T23:08:59Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34566,
+  "registrationNumber": "CC51159",
+  "name": "Charis National Service of Communion New Zealand",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-12-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "charisnz.com",
+  "email": "mike.conroy@charisnz.com",
+  "address": {
+    "line1": "23 Mason Road",
+    "line2": "RD 9",
+    "suburb": "Whatawhata",
+    "city": "Hamilton",
+    "postcode": "3289"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-29T15:24:57Z"
+}

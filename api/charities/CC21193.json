@@ -1,0 +1,27 @@
+{
+  "id": 54689,
+  "registrationNumber": "CC21193",
+  "name": "Sport Waikato",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.sportwaikato.org.nz",
+  "email": "vikkib@sportwaikato.org.nz",
+  "address": {
+    "line1": "Wintec - Rotokauri Campus",
+    "line2": "51 Akoranga Road",
+    "suburb": "Avalon",
+    "city": "Hamilton",
+    "postcode": "3200"
+  },
+  "nzbn": "9429042727804",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/sportwaikato",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T06:06:27Z"
+}

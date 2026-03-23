@@ -1,0 +1,27 @@
+{
+  "id": 65767,
+  "registrationNumber": "CC52017",
+  "name": "The Daily Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.thedaily.org.nz",
+  "email": "traceychristian880@gmail.com",
+  "address": {
+    "line1": "3 Commerce Lane",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Puke",
+    "postcode": "3119"
+  },
+  "nzbn": "9429043268436",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T22:01:01Z"
+}

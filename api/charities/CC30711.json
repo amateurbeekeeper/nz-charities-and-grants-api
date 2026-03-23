@@ -1,0 +1,27 @@
+{
+  "id": 45771,
+  "registrationNumber": "CC30711",
+  "name": "Paraparaumu Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-09-07T00:00:00Z",
+  "dateDeregistered": "2025-06-19T00:00:00Z",
+  "website": "http://www.paraparaumuplaycentre.org.nz",
+  "email": "paraparaumu@playcentre.org.nz",
+  "address": {
+    "line1": "10 Hinemoa Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Paraparaumu",
+    "postcode": "5032"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-03T07:24:24Z"
+}

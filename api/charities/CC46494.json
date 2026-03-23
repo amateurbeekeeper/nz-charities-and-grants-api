@@ -1,0 +1,27 @@
+{
+  "id": 36974,
+  "registrationNumber": "CC46494",
+  "name": "Tauranga Musical Theatre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-04-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.tmt.org.nz",
+  "email": "jsparrow@tmt.org.nz",
+  "address": {
+    "line1": "141 Seventeenth Avenue",
+    "line2": " ",
+    "suburb": "Tauranga South",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429042828594",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TaurangaMusicalTheatre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-22T11:26:26Z"
+}

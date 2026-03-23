@@ -1,0 +1,27 @@
+{
+  "id": 65582,
+  "registrationNumber": "CC51824",
+  "name": "Knox Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.knoxchurch.co.nz",
+  "email": "paul.charlotte@xtra.co.nz",
+  "address": {
+    "line1": "28 Bealey Avenue",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429048063258",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-19T18:20:43Z"
+}

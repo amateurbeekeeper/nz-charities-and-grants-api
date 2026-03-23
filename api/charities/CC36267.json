@@ -1,0 +1,27 @@
+{
+  "id": 45231,
+  "registrationNumber": "CC36267",
+  "name": "The Wainuiomata Historical Museum Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.nzpictures.co.nz/wainuimuseum.htm",
+  "email": "murray@dialogue.co.nz",
+  "address": {
+    "line1": "5 Homedale Road",
+    "line2": " ",
+    "suburb": "Wainuiomata",
+    "city": "Lower Hutt",
+    "postcode": "5014"
+  },
+  "nzbn": "9429042977889",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-15T19:50:02Z"
+}

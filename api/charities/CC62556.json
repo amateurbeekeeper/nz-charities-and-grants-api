@@ -1,0 +1,27 @@
+{
+  "id": 76133,
+  "registrationNumber": "CC62556",
+  "name": "Taranaki Catchment Communities Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-05-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taranakicc.nz",
+  "email": "paul@taranakicc.nz",
+  "address": {
+    "line1": "21D Romeo Street",
+    "line2": null,
+    "suburb": null,
+    "city": "Stratford",
+    "postcode": "4332"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/taranakicc",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-12T18:19:11Z"
+}

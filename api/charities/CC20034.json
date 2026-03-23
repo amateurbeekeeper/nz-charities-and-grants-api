@@ -1,0 +1,27 @@
+{
+  "id": 53158,
+  "registrationNumber": "CC20034",
+  "name": "Ilam Baptist Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-11-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ilambaptist.org",
+  "email": "admin@ilambaptist.org",
+  "address": {
+    "line1": "51 Ilam Road",
+    "line2": " ",
+    "suburb": "Upper Riccarton",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-07T19:09:37Z"
+}

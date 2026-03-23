@@ -1,0 +1,27 @@
+{
+  "id": 58433,
+  "registrationNumber": "CC41480",
+  "name": "New Zealand Highland Cattle Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.highlandcattle.org.nz",
+  "email": "treasurer@highlandcattle.org.nz",
+  "address": {
+    "line1": "769 Rangitatau East Road",
+    "line2": "RD 8",
+    "suburb": "Kai Iwi",
+    "city": "Whanganui",
+    "postcode": "4578"
+  },
+  "nzbn": "9429042675327",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/New-Zealand-Highland-Cattle-Society-341025124091/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-29T07:19:20Z"
+}

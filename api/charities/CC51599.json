@@ -1,0 +1,27 @@
+{
+  "id": 65356,
+  "registrationNumber": "CC51599",
+  "name": "Wakatipu Presbyterian Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-04-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://wakatipupresbyterian.com",
+  "email": "wcpchurch@xtra.co.nz",
+  "address": {
+    "line1": "50 McBride Street",
+    "line2": "Frankton",
+    "suburb": "Frankton",
+    "city": "Queenstown",
+    "postcode": "9300"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/wakatipupresbyterian",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:57Z"
+}

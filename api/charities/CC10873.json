@@ -1,0 +1,27 @@
+{
+  "id": 51952,
+  "registrationNumber": "CC10873",
+  "name": "The Chris Ruth Centre Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-08-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.chrisruthcentre.co.nz",
+  "email": "mpaston100@chrisruthcentre.co.nz",
+  "address": {
+    "line1": "Unit 7",
+    "line2": "4 O'Briens Road",
+    "suburb": "Sockburn",
+    "city": "Christchurch",
+    "postcode": "8042"
+  },
+  "nzbn": "9429043028757",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-08T18:44:09Z"
+}

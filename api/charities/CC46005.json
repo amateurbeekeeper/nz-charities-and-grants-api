@@ -1,0 +1,27 @@
+{
+  "id": 38350,
+  "registrationNumber": "CC46005",
+  "name": "The Margot Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-01-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.themargotfoundation.com",
+  "email": "margot.wilson@yahoo.com",
+  "address": {
+    "line1": "8 Lauria Way",
+    "line2": " ",
+    "suburb": "Maitai",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429043194230",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-22T11:59:58Z"
+}

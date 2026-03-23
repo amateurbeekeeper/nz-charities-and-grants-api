@@ -1,0 +1,27 @@
+{
+  "id": 70165,
+  "registrationNumber": "CC56528",
+  "name": "Fale Malae Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-03-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.falemalaetrust.org.nz",
+  "email": "info@falemalaetrust.org.nz",
+  "address": {
+    "line1": "Civic Chambers",
+    "line2": "Level 2, 114 Lambton Quay",
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429048336925",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T19:09:07Z"
+}

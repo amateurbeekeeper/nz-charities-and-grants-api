@@ -1,0 +1,27 @@
+{
+  "id": 64361,
+  "registrationNumber": "CC40271",
+  "name": "Selwyn Central Community Care",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2009-05-21T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "selwynccctreasurer@gmail.com",
+  "address": {
+    "line1": "20 Wilbur Close",
+    "line2": null,
+    "suburb": " ",
+    "city": "Rolleston",
+    "postcode": "7614"
+  },
+  "nzbn": "9429043094721",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/sccctrust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T02:16:59Z"
+}

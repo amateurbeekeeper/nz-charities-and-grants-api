@@ -1,0 +1,27 @@
+{
+  "id": 48041,
+  "registrationNumber": "CC35466",
+  "name": "Ngakuru School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "pta@ngakuru.school.nz",
+  "address": {
+    "line1": "Whirinaki Valley Road",
+    "line2": "R D 1, Ngakuru",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3077"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-17T19:28:15Z"
+}

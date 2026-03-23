@@ -1,0 +1,27 @@
+{
+  "id": 50256,
+  "registrationNumber": "CC46432",
+  "name": "St Josephs School Committee",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "shelley@smithmitchell.co.nz",
+  "address": {
+    "line1": "Seddon Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Te Kuiti",
+    "postcode": "3910"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-24T19:26:58Z"
+}

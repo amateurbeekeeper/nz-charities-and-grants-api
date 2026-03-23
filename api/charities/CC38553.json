@@ -1,0 +1,27 @@
+{
+  "id": 48524,
+  "registrationNumber": "CC38553",
+  "name": "Halswell Residents Association Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "a.geradts@gmail.com",
+  "address": {
+    "line1": "1 McDermott Place",
+    "line2": " ",
+    "suburb": "Halswell",
+    "city": "Christchurch",
+    "postcode": "8025"
+  },
+  "nzbn": "9429042919896",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/HalswellResidents/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T20:35:50Z"
+}

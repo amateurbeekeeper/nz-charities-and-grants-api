@@ -1,0 +1,27 @@
+{
+  "id": 72793,
+  "registrationNumber": "CC59190",
+  "name": "Toi Kai Rawa Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-07-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.toikairawa.co.nz/",
+  "email": "Awhina@toikairawa.co.nz",
+  "address": {
+    "line1": "29 Grey Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tauranga",
+    "postcode": "3110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ToiKaiRawa/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-31T18:41:47Z"
+}

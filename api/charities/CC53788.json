@@ -1,0 +1,27 @@
+{
+  "id": 67495,
+  "registrationNumber": "CC53788",
+  "name": "Mon New Zealand Association Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "monnz2000@gmail.com",
+  "address": {
+    "line1": "43 Ashton Avenue",
+    "line2": " ",
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/mnzat.trust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T19:21:14Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 72217,
+  "registrationNumber": "CC58600",
+  "name": "Freedom Ministries New Zealand Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-01-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://freedomministriesnz.com/",
+  "email": "jdwasher@hotmail.com",
+  "address": {
+    "line1": "423 Devon Street East",
+    "line2": " ",
+    "suburb": "Strandon",
+    "city": "New Plymouth",
+    "postcode": "4312"
+  },
+  "nzbn": "9429048946315",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/FreedomMinistriesNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-24T19:22:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 39400,
+  "registrationNumber": "CC22923",
+  "name": "Gateway Baptist Church, Miramar",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.gatewaybaptist.org.nz",
+  "email": "office@gatewaybaptist.org.nz",
+  "address": {
+    "line1": "33 Park Road",
+    "line2": " ",
+    "suburb": "Miramar",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T21:28:07Z"
+}

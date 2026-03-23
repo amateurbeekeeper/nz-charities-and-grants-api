@@ -1,0 +1,27 @@
+{
+  "id": 61322,
+  "registrationNumber": "CC30398",
+  "name": "Houghton Valley Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-09-19T00:00:00Z",
+  "website": "http://www.playcentre.org.nz/CompanyProfile?Action=View&CompanyProfile_id=76",
+  "email": "houghtonvalley@playcentre.org.nz",
+  "address": {
+    "line1": "84 Houghton Bay Road",
+    "line2": " ",
+    "suburb": "Houghton Bay",
+    "city": "Wellington",
+    "postcode": "6023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-06T02:36:53Z"
+}

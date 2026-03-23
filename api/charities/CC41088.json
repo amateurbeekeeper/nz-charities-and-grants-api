@@ -1,0 +1,27 @@
+{
+  "id": 45119,
+  "registrationNumber": "CC41088",
+  "name": "District 72 Toastmasters",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.toastmasters.org.nz",
+  "email": "director.d72@toastmasters.org.nz",
+  "address": {
+    "line1": "20 John Street",
+    "line2": " ",
+    "suburb": "Ocean View",
+    "city": "Dunedin",
+    "postcode": "9035"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T18:37:25Z"
+}

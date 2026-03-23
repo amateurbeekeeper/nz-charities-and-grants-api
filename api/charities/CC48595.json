@@ -1,0 +1,27 @@
+{
+  "id": 32856,
+  "registrationNumber": "CC48595",
+  "name": "Resource Recovery Devonport Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.devonportrecycle.co.nz",
+  "email": "adam.benli@devonportrecycle.co.nz",
+  "address": {
+    "line1": "27 Lake Road",
+    "line2": " ",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": "9429046369277",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DevonportRecycle/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T00:23:00Z"
+}

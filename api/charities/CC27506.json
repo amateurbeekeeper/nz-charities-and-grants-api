@@ -1,0 +1,27 @@
+{
+  "id": 59780,
+  "registrationNumber": "CC27506",
+  "name": "New Zealand Aria Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "Nzaria.org.nz",
+  "email": "lizmacarrington@gmail.com",
+  "address": {
+    "line1": "9 Castor Place",
+    "line2": " ",
+    "suburb": "Sunnybrook",
+    "city": "Rotorua",
+    "postcode": "3015"
+  },
+  "nzbn": "9429043173358",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "NZ Aria",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-17T22:24:58Z"
+}

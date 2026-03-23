@@ -1,0 +1,27 @@
+{
+  "id": 33949,
+  "registrationNumber": "CC50742",
+  "name": "Conservation International Aotearoa Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-07-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.conservation.org",
+  "email": "Lpanganiban@conservation.org",
+  "address": {
+    "line1": "c/o Dean of Science , Rm 302-660, Bldg 302",
+    "line2": " University of Auckland, 23 Symonds St,",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429040997926",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-15T23:32:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 62751,
+  "registrationNumber": "CC43903",
+  "name": "Canterbury Golf Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.canterburygolf.co.nz",
+  "email": "blair@canterburygolf.co.nz",
+  "address": {
+    "line1": "375 McLeans Island Road",
+    "line2": " ",
+    "suburb": "McLeans Island",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429042606789",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100063658262854",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:55:57Z"
+}

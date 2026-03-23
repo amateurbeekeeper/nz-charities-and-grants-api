@@ -1,0 +1,27 @@
+{
+  "id": 51077,
+  "registrationNumber": "CC10094",
+  "name": "Family First New Zealand",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2007-03-20T00:00:00Z",
+  "dateDeregistered": "2017-09-18T00:00:00Z",
+  "website": "http://www.familyfirst.org.nz",
+  "email": "bob@familyfirst.org.nz",
+  "address": {
+    "line1": "Parkview Tower Level 4",
+    "line2": "28 Davies Ave",
+    "suburb": "Manukau",
+    "city": "Auckland",
+    "postcode": "2104"
+  },
+  "nzbn": "9429043037872",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2023-01-30T00:44:14Z"
+}

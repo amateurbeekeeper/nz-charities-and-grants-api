@@ -1,0 +1,27 @@
+{
+  "id": 33942,
+  "registrationNumber": "CC50504",
+  "name": "The Word Ministry Church",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-05-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paulinevisesio@hotmail.com",
+  "address": {
+    "line1": "17 Tilberg Street",
+    "line2": " ",
+    "suburb": "Favona",
+    "city": "Auckland",
+    "postcode": "2024"
+  },
+  "nzbn": "9429043254996",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "The Word Ministry Church",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T18:21:27Z"
+}

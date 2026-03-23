@@ -1,0 +1,27 @@
+{
+  "id": 44209,
+  "registrationNumber": "CC40793",
+  "name": "Indian Welfare and Business Association",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "castelinob@lawyer.com",
+  "address": {
+    "line1": "Suite GD",
+    "line2": "147 Hobson Street",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043140572",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-14T18:37:28Z"
+}

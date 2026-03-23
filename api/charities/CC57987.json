@@ -1,0 +1,27 @@
+{
+  "id": 71610,
+  "registrationNumber": "CC57987",
+  "name": "Friends of Karori Cemetery Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-03-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://friendsofkaroricemetery.co.nz/",
+  "email": "kjwill22@gmail.com",
+  "address": {
+    "line1": "76 Old Karori Road",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/friendsofkaroricemetery/",
+    "twitter": "https://twitter.com/karoricemetery"
+  },
+  "lastUpdated": "2025-09-16T22:03:51Z"
+}

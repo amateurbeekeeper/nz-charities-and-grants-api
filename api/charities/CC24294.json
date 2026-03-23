@@ -1,0 +1,27 @@
+{
+  "id": 41857,
+  "registrationNumber": "CC24294",
+  "name": "Hukanui Bible Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-05-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.hukanuibible.church",
+  "email": "info@hukanuibible.church",
+  "address": {
+    "line1": "54 Hukanui Road",
+    "line2": " ",
+    "suburb": "Chartwell",
+    "city": "HAMILTON",
+    "postcode": "3210"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-04-21T19:26:34Z"
+}

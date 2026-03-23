@@ -1,0 +1,27 @@
+{
+  "id": 46227,
+  "registrationNumber": "CC37838",
+  "name": "Friends & Family of St Ignatius",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://stignatius.school.nz/",
+  "email": "sjaho009@gmail.com",
+  "address": {
+    "line1": "St Ignatius School",
+    "line2": "72 Speight Road",
+    "suburb": "St Heliers",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-03T19:45:29Z"
+}

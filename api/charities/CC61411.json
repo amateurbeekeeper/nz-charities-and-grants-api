@@ -1,0 +1,27 @@
+{
+  "id": 74987,
+  "registrationNumber": "CC61411",
+  "name": "The Umbrella Project",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2023-04-26T00:00:00Z",
+  "dateDeregistered": "2026-03-04T00:00:00Z",
+  "website": null,
+  "email": "staceyholmes@hotmail.com",
+  "address": {
+    "line1": "13A Goodman Drive",
+    "line2": null,
+    "suburb": " ",
+    "city": "Motueka",
+    "postcode": "7120"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T06:04:07Z"
+}

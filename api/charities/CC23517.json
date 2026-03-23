@@ -1,0 +1,27 @@
+{
+  "id": 41199,
+  "registrationNumber": "CC23517",
+  "name": "Newlands Childcare Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.newlandschildcare.com",
+  "email": "newlandschildcare@gmail.com",
+  "address": {
+    "line1": "4 Padnell Crescent",
+    "line2": " ",
+    "suburb": "Paparangi",
+    "city": "Wellington",
+    "postcode": "6037"
+  },
+  "nzbn": "9429042682424",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Newlands Childcare",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-23T03:20:46Z"
+}

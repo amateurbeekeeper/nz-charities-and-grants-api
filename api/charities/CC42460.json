@@ -1,0 +1,27 @@
+{
+  "id": 50065,
+  "registrationNumber": "CC42460",
+  "name": "Rangitikei Civil Defence Response Team",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-10-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul_kirsty@xtra.co.nz",
+  "address": {
+    "line1": "306 Wanganui Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Marton",
+    "postcode": "4788"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/RDCDRT",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-11T18:18:03Z"
+}

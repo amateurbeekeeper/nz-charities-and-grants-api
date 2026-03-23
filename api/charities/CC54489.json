@@ -1,0 +1,27 @@
+{
+  "id": 68165,
+  "registrationNumber": "CC54489",
+  "name": "EcoCARE Pacific Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-05-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ecocare.org.nz",
+  "email": "russell@ecocare.org.nz",
+  "address": {
+    "line1": "108 North Eyre Road",
+    "line2": "RD 2",
+    "suburb": "Swannanoa",
+    "city": "Kaiapoi",
+    "postcode": "7692"
+  },
+  "nzbn": "9429043153824",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "ecocare pacific trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T02:54:40Z"
+}

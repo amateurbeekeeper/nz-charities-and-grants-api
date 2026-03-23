@@ -1,0 +1,27 @@
+{
+  "id": 37862,
+  "registrationNumber": "CC47288",
+  "name": "The RASNZ Lecture Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-01-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "susan@polarconsult.co.nz",
+  "address": {
+    "line1": "PO Box 3181",
+    "line2": null,
+    "suburb": " ",
+    "city": "Wellington",
+    "postcode": "6140"
+  },
+  "nzbn": "9429043223374",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T22:45:45Z"
+}

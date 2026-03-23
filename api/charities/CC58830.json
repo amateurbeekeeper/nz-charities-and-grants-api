@@ -1,0 +1,27 @@
+{
+  "id": 72440,
+  "registrationNumber": "CC58830",
+  "name": "The One Billion",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-12-08T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "theonebillion.org",
+  "email": "services@theonebillion.org",
+  "address": {
+    "line1": "5 Aoraki Crescent",
+    "line2": null,
+    "suburb": "Albany Heights",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429048849616",
+  "financialYearEnd": "3/1",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-10T23:02:56Z"
+}

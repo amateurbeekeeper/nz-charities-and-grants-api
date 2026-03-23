@@ -1,0 +1,27 @@
+{
+  "id": 56574,
+  "registrationNumber": "CC29927",
+  "name": "Te Tauihu Kapa Haka Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "tania.alesana@gmail.com",
+  "address": {
+    "line1": "8 Taupata Street",
+    "line2": " ",
+    "suburb": "Stoke",
+    "city": "Nelson",
+    "postcode": "7011"
+  },
+  "nzbn": "9429043024896",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Tauihu o te Waka a Maui Māori Cultural Council",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T19:19:36Z"
+}

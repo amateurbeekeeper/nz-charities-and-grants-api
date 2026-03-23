@@ -1,0 +1,27 @@
+{
+  "id": 69555,
+  "registrationNumber": "CC55914",
+  "name": "Pouakani Marae",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2018-09-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://pouakanimarae.nz",
+  "email": "info@pouakanimarae.nz",
+  "address": {
+    "line1": "57 Moana Crescent",
+    "line2": "Mangakino 3421",
+    "suburb": " ",
+    "city": "Mangakino",
+    "postcode": "3421"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": true,
+  "social": {
+    "facebook": "Pouakani Marae",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T02:38:48Z"
+}

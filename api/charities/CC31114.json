@@ -1,0 +1,27 @@
+{
+  "id": 61078,
+  "registrationNumber": "CC31114",
+  "name": "Philanthropic Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.philanthropictrust.org.nz/",
+  "email": "gw@urbis.net.nz",
+  "address": {
+    "line1": "1 Willis Street",
+    "line2": "c/o Buddle Findlay, Aon Centre (level 16) ",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043047116",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-13T01:41:19Z"
+}

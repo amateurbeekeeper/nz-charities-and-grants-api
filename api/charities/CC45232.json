@@ -1,0 +1,27 @@
+{
+  "id": 50688,
+  "registrationNumber": "CC45232",
+  "name": "Rosebank Art Centre, Te Awamutu",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-09-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "hidawn@xtra.co.nz",
+  "address": {
+    "line1": "337 Churchill Street",
+    "line2": "Te Awamutu 3800",
+    "suburb": " ",
+    "city": "Te Awamutu",
+    "postcode": "3800"
+  },
+  "nzbn": "9429043109135",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-16T01:50:37Z"
+}

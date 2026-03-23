@@ -1,0 +1,27 @@
+{
+  "id": 72078,
+  "registrationNumber": "CC58459",
+  "name": "Greenpeace Aotearoa Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.greenpeace.org/aotearoa/",
+  "email": "fauber@greenpeace.org",
+  "address": {
+    "line1": "11 Akiraho Street",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042628842",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/greenpeace.nz",
+    "twitter": "https://twitter.com/GreenpeaceNZ"
+  },
+  "lastUpdated": "2026-03-08T20:11:56Z"
+}

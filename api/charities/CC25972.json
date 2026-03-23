@@ -1,0 +1,27 @@
+{
+  "id": 41833,
+  "registrationNumber": "CC25972",
+  "name": "Michael King Writers' Studio Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.writerscentre.org.nz",
+  "email": "jan@writerscentre.org.nz",
+  "address": {
+    "line1": "Signalman's House, Summit Road",
+    "line2": "Mt Victoria",
+    "suburb": "Devonport",
+    "city": "Auckland",
+    "postcode": "0624"
+  },
+  "nzbn": "9429043120758",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "MIchael King Writers' Centre ",
+    "twitter": null
+  },
+  "lastUpdated": "2025-05-27T03:40:11Z"
+}

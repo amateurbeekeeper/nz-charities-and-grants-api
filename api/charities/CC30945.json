@@ -1,0 +1,27 @@
+{
+  "id": 48163,
+  "registrationNumber": "CC30945",
+  "name": "Museum Of Transport And Technology",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.motat.org.nz",
+  "email": "lesley.masters@motat.org.nz",
+  "address": {
+    "line1": "805 Great North Road",
+    "line2": " ",
+    "suburb": "Western Springs",
+    "city": "Auckland",
+    "postcode": "1022"
+  },
+  "nzbn": "9429047868205",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-24T22:12:15Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71114,
+  "registrationNumber": "CC57485",
+  "name": "Premmie Knitting Club",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.premmieknittingclub.org",
+  "email": "courtney.grace.bennett@gmail.com",
+  "address": {
+    "line1": "14 Blomfield Spa",
+    "line2": " ",
+    "suburb": "Takapuna",
+    "city": "Auckland",
+    "postcode": "0622"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/premmieknittingclub",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T20:08:13Z"
+}

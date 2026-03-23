@@ -1,0 +1,27 @@
+{
+  "id": 45248,
+  "registrationNumber": "CC33347",
+  "name": "Leigh Community Pre-School Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.leighpreschool.co.nz",
+  "email": "centremanager@leighpreschool.co.nz",
+  "address": {
+    "line1": "5 Seatoun Avenue",
+    "line2": "RD 5",
+    "suburb": " ",
+    "city": "Leigh",
+    "postcode": "985"
+  },
+  "nzbn": "9429042655879",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/leighpreschoolteachers",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-15T00:07:08Z"
+}

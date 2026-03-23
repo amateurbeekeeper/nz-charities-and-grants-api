@@ -1,0 +1,27 @@
+{
+  "id": 49109,
+  "registrationNumber": "CC31202",
+  "name": "Chanel College Education Foundation",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.chanelcollege.school.nz",
+  "email": "ccef@chanelcollege.school.nz",
+  "address": {
+    "line1": "26 Herbert Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Masterton",
+    "postcode": "5810"
+  },
+  "nzbn": "9429042905004",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-30T08:37:33Z"
+}

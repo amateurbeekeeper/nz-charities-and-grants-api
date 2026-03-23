@@ -1,0 +1,27 @@
+{
+  "id": 43763,
+  "registrationNumber": "CC32218",
+  "name": "The New Zealand Coastal Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2021-11-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "celiacaughey@gmail.com",
+  "address": {
+    "line1": "20A Landscape Road",
+    "line2": " ",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429043185504",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T23:48:32Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 37407,
+  "registrationNumber": "CC46854",
+  "name": "Everybody's Theatre Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2011-08-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.everybodystheatre.co.nz",
+  "email": "madrought@xtra.co.nz",
+  "address": {
+    "line1": "72 Tasman Street",
+    "line2": null,
+    "suburb": "Opunake",
+    "city": "Opunake",
+    "postcode": "4616"
+  },
+  "nzbn": "9429042701453",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "everybodys theatre",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T22:23:22Z"
+}

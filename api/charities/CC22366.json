@@ -1,0 +1,27 @@
+{
+  "id": 55694,
+  "registrationNumber": "CC22366",
+  "name": "Kimberley Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sam@taxconsultant.co.nz",
+  "address": {
+    "line1": "27 Marewa Road",
+    "line2": " ",
+    "suburb": "Greenlane",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": "9429042970309",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-04T06:23:17Z"
+}

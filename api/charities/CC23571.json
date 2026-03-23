@@ -1,0 +1,27 @@
+{
+  "id": 41360,
+  "registrationNumber": "CC23571",
+  "name": "South Canterbury Hospice Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-04-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "gm@hospicesc.org.nz",
+  "address": {
+    "line1": "55 Broadway Avenue",
+    "line2": " ",
+    "suburb": "Highfield",
+    "city": "Timaru",
+    "postcode": "7910"
+  },
+  "nzbn": "9429042728047",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:37:09Z"
+}

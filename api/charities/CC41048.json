@@ -1,0 +1,27 @@
+{
+  "id": 42600,
+  "registrationNumber": "CC41048",
+  "name": "Elm Park School PTA",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-06-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.elmpark.school.nz",
+  "email": "terri0714@hotmail.com",
+  "address": {
+    "line1": "Elm Park School",
+    "line2": "46 Gossamer Drive",
+    "suburb": "Pakuranga Heights",
+    "city": "Auckland",
+    "postcode": "2010"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-19T23:58:48Z"
+}

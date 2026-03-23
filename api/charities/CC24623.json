@@ -1,0 +1,27 @@
+{
+  "id": 54563,
+  "registrationNumber": "CC24623",
+  "name": "Christian Savings Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-05-20T00:00:00Z",
+  "dateDeregistered": "2018-08-28T00:00:00Z",
+  "website": "http://www.christiansavings.co.nz",
+  "email": "bruce@christiansavings.co.nz",
+  "address": {
+    "line1": "55 Hugo Johnston Drive",
+    "line2": "477 Great South Road",
+    "suburb": "Penrose",
+    "city": "Auckland",
+    "postcode": "1061"
+  },
+  "nzbn": "9429042679349",
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-09-27T00:49:34Z"
+}

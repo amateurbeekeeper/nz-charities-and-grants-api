@@ -1,0 +1,27 @@
+{
+  "id": 55779,
+  "registrationNumber": "CC31267",
+  "name": "Aoga Amata Pacific Island Church Avondale Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-09-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.aapica.com",
+  "email": "manager@aapica.com",
+  "address": {
+    "line1": "43 Rosebank Road",
+    "line2": " ",
+    "suburb": "Avondale",
+    "city": "Auckland",
+    "postcode": "1026"
+  },
+  "nzbn": "9429043059140",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/Avondaleaaogaamata",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T22:02:01Z"
+}

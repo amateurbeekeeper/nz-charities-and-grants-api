@@ -1,0 +1,27 @@
+{
+  "id": 73448,
+  "registrationNumber": "CC59794",
+  "name": "The NZAC Tūpiki Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-01-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.tupikitrust.org.nz",
+  "email": "rosscullen.kiwi@gmail.com",
+  "address": {
+    "line1": "Unit 6",
+    "line2": "6 Raycroft Street",
+    "suburb": "Waltham",
+    "city": "Christchurch",
+    "postcode": "8023"
+  },
+  "nzbn": "9429050036868",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=the%20t%C5%ABpiki%20trust",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-15T21:32:55Z"
+}

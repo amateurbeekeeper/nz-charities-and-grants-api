@@ -1,0 +1,27 @@
+{
+  "id": 41646,
+  "registrationNumber": "CC24794",
+  "name": "Auckland University Of Technology Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "andrea.vujnovich@aut.ac.nz",
+  "address": {
+    "line1": "55 Wellesley Street East",
+    "line2": " ",
+    "suburb": "Auckland Central",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429042874126",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-09T00:31:39Z"
+}

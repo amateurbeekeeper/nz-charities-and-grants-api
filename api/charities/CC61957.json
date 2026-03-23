@@ -1,0 +1,27 @@
+{
+  "id": 75511,
+  "registrationNumber": "CC61957",
+  "name": "Wahine Charitable Trust",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2023-09-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.wahine.org.nz",
+  "email": "inspire@wahine.org.nz",
+  "address": {
+    "line1": "32 Chatswood Grove",
+    "line2": " ",
+    "suburb": "Chatswood",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429050022540",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "inspirewahine",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-13T15:50:16Z"
+}

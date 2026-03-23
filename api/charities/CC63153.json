@@ -1,0 +1,27 @@
+{
+  "id": 77254,
+  "registrationNumber": "CC63153",
+  "name": "AUCKLAND PENTECOSTAL CHURCH - NEW ZEALAND",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-03-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://apcnz.co.nz/",
+  "email": "apcnewzealand@gmail.com",
+  "address": {
+    "line1": "3 Kohia Terrace",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/AucklandPentecostalChurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-30T00:20:45Z"
+}

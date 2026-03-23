@@ -1,0 +1,27 @@
+{
+  "id": 52946,
+  "registrationNumber": "CC11451",
+  "name": "The Scout Youth Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.supportscouts.org.nz/ ",
+  "email": "oliver.mander@gmail.com",
+  "address": {
+    "line1": "1 Kaiwharawhara Road",
+    "line2": " ",
+    "suburb": "Kaiwharawhara",
+    "city": "Wellington",
+    "postcode": "6035"
+  },
+  "nzbn": "9429042890904",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/ScoutYouthFoundation",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-16T08:25:44Z"
+}

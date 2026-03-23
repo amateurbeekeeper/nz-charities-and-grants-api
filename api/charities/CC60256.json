@@ -1,0 +1,27 @@
+{
+  "id": 73851,
+  "registrationNumber": "CC60256",
+  "name": "Greymouth Junior Football Club",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-07-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "g.macclure@gmail.com",
+  "address": {
+    "line1": "281D Rutherglen Road",
+    "line2": null,
+    "suburb": "Rutherglen",
+    "city": "Greymouth",
+    "postcode": "7805"
+  },
+  "nzbn": null,
+  "financialYearEnd": "1/10",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/greymouthjuniorsoccerclub",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-17T02:43:39Z"
+}

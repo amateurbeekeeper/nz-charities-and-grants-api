@@ -1,0 +1,27 @@
+{
+  "id": 65352,
+  "registrationNumber": "CC51577",
+  "name": "Columba Presbyterian Church Oamaru",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2015-04-16T00:00:00Z",
+  "dateDeregistered": "2019-06-12T00:00:00Z",
+  "website": null,
+  "email": "bobandpat@slingshot.co.nz",
+  "address": {
+    "line1": "127 Eden Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Oamaru",
+    "postcode": "9400"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2022-03-08T20:42:30Z"
+}

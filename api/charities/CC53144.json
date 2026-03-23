@@ -1,0 +1,27 @@
+{
+  "id": 66884,
+  "registrationNumber": "CC53144",
+  "name": "Cathedral of The Sacred Heart Parish",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.mcshwellington.org",
+  "email": "cathedral.parish@wn.catholic.org.nz",
+  "address": {
+    "line1": "22-30 Hill Street",
+    "line2": " ",
+    "suburb": "Thorndon",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/mcshwellington",
+    "twitter": "www.twitter.com/mcshwellington"
+  },
+  "lastUpdated": "2025-07-30T19:30:28Z"
+}

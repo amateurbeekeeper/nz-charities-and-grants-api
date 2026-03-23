@@ -1,0 +1,27 @@
+{
+  "id": 51604,
+  "registrationNumber": "CC10483",
+  "name": "Friends of Whatipu Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2007-06-18T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "friendsofwhatipu.treasurer@gmail.com",
+  "address": {
+    "line1": "387 Titirangi Road",
+    "line2": "Titirangi",
+    "suburb": "Titirangi",
+    "city": "Auckland",
+    "postcode": "0604"
+  },
+  "nzbn": "9429043124022",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Friends-of-Whatip%C5%AB-134389816625497/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-27T01:50:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 58337,
+  "registrationNumber": "CC27423",
+  "name": "The Potter Masonic Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.freemasonsnz.org",
+  "email": "accounts@freemasonsnz.org",
+  "address": {
+    "line1": "Unit 2",
+    "line2": "22 Tacy Street",
+    "suburb": "Kilbirnie",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-25T18:44:32Z"
+}

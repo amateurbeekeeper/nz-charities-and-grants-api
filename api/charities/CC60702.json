@@ -1,0 +1,27 @@
+{
+  "id": 74286,
+  "registrationNumber": "CC60702",
+  "name": "Ethnic Rainbow Alliance",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-10-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.ethnicrainbowalliance.org.nz",
+  "email": "Production@ethnicrainbowalliance.org.nz",
+  "address": {
+    "line1": "PO Box 77083",
+    "line2": " ",
+    "suburb": "Mount Albert",
+    "city": "Auckland",
+    "postcode": "1350"
+  },
+  "nzbn": "9429050746231",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Ethnic Rainbow Alliance",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-01T02:06:53Z"
+}

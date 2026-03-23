@@ -1,0 +1,27 @@
+{
+  "id": 41736,
+  "registrationNumber": "CC37244",
+  "name": "Musical Theatre Dunedin Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://mtd.org.nz",
+  "email": "admin@mtd.org.nz",
+  "address": {
+    "line1": "1 Sullivan Avenue",
+    "line2": " ",
+    "suburb": "South Dunedin",
+    "city": "Dunedin",
+    "postcode": "9012"
+  },
+  "nzbn": "9429042664178",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "facebook.com/mtdunedin",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T00:33:00Z"
+}

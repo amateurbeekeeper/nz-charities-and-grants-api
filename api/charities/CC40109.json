@@ -1,0 +1,27 @@
+{
+  "id": 47165,
+  "registrationNumber": "CC40109",
+  "name": "NZ Mathematical Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-17T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://nzmathsoc.org.nz/",
+  "email": "sjoesjoe00@gmail.com",
+  "address": {
+    "line1": "School of Mathematics and Statistics",
+    "line2": "Jack Erskine Building, University of Canterbury",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429042793335",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-19T10:10:08Z"
+}

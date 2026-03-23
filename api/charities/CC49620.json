@@ -1,0 +1,27 @@
+{
+  "id": 34773,
+  "registrationNumber": "CC49620",
+  "name": "180 Degrees Consulting Canterbury Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-09-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://180dc.org",
+  "email": "president_uc@180dc.org",
+  "address": {
+    "line1": "90 Ilam Road",
+    "line2": " ",
+    "suburb": "Ilam",
+    "city": "Christchurch",
+    "postcode": "8041"
+  },
+  "nzbn": "9429043324026",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/180dcCanterbury",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-26T00:31:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54272,
+  "registrationNumber": "CC20799",
+  "name": "Skills Consulting Group Limited",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "scott.bitchener@skills-group.org",
+  "address": {
+    "line1": "LEVEL 2, BUILDING 2, THE CROSSING",
+    "line2": "60 HIGHBROOK DRIVE",
+    "suburb": "EAST TAMAKI",
+    "city": "AUCKLAND",
+    "postcode": "2013"
+  },
+  "nzbn": "9429034083314",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-23T03:59:20Z"
+}

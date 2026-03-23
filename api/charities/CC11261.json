@@ -1,0 +1,27 @@
+{
+  "id": 53127,
+  "registrationNumber": "CC11261",
+  "name": "Taranaki Rural Support Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-03T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.rural-support.org.nz/regions/taranaki",
+  "email": "office.admin@trst.org.nz",
+  "address": {
+    "line1": "10 Young Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4310"
+  },
+  "nzbn": "9429043171149",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-22T19:01:42Z"
+}

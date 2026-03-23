@@ -1,0 +1,27 @@
+{
+  "id": 66811,
+  "registrationNumber": "CC53088",
+  "name": "Cathedral of the Holy Spirit Palmerston North Parish",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "msutton@pndiocese.org.nz",
+  "address": {
+    "line1": "197 Broadway Avenue",
+    "line2": "Palmerston North 4410",
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-30T22:11:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 64259,
+  "registrationNumber": "CC39872",
+  "name": "Melville Association Football Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-05-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.melvilleunited.co.nz",
+  "email": "raj.r.naidu@gmail.com",
+  "address": {
+    "line1": "49 Alison Street",
+    "line2": "Cnr Of Alison And Kahikatea Drive",
+    "suburb": "Hamilton Lake",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429042748892",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Melville-United-AFC",
+    "twitter": "https://twitter.com/MelvilleUnited"
+  },
+  "lastUpdated": "2026-03-16T03:57:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66220,
+  "registrationNumber": "CC52495",
+  "name": "Lote Tree Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-07-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://lotetree.nz/",
+  "email": "haamid.benfayed@lotetree.nz",
+  "address": {
+    "line1": "431 Hillsborough Road",
+    "line2": " ",
+    "suburb": "Hillsborough",
+    "city": "Auckland",
+    "postcode": "1042"
+  },
+  "nzbn": "9429043273126",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/DarAlQuranNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-07T06:09:57Z"
+}

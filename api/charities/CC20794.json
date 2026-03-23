@@ -1,0 +1,27 @@
+{
+  "id": 54187,
+  "registrationNumber": "CC20794",
+  "name": "The Retirement Village \"Netherville\" Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-01-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nethervillevillage@xtra.co.nz",
+  "address": {
+    "line1": "4 Admiral Crescent",
+    "line2": " ",
+    "suburb": "Flagstaff",
+    "city": "Hamilton",
+    "postcode": "3210"
+  },
+  "nzbn": "9429042875291",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-29T19:39:30Z"
+}

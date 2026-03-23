@@ -1,0 +1,27 @@
+{
+  "id": 71367,
+  "registrationNumber": "CC57740",
+  "name": "Ag Proud NZ",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-02-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.agproud.co.nz",
+  "email": "lowburnag@gmail.com",
+  "address": {
+    "line1": "507 Pioneer Highway",
+    "line2": "RD 4",
+    "suburb": "Brydone",
+    "city": "Gore",
+    "postcode": "9774"
+  },
+  "nzbn": "9429047730793",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/agproudnz",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T03:33:03Z"
+}

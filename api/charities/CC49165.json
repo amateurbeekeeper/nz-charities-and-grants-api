@@ -1,0 +1,27 @@
+{
+  "id": 37722,
+  "registrationNumber": "CC49165",
+  "name": "Popoia te tangata",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2013-04-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "ariabroughton@gmail.com",
+  "address": {
+    "line1": "1786 State Highway 3",
+    "line2": "RD 4",
+    "suburb": "Pākaraka",
+    "city": "Whanganui",
+    "postcode": "4574"
+  },
+  "nzbn": "9429043251650",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-20T06:06:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 52100,
+  "registrationNumber": "CC10418",
+  "name": "Autism Experiences Wellington Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://autismexperiences.org.nz",
+  "email": "chair@autismexperiences.org.nz",
+  "address": {
+    "line1": "102 Yule Street",
+    "line2": " ",
+    "suburb": "Lyall Bay",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429043051717",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T04:14:26Z"
+}

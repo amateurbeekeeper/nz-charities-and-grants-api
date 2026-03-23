@@ -1,0 +1,27 @@
+{
+  "id": 70793,
+  "registrationNumber": "CC57160",
+  "name": "Student Rentals New Zealand Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2019-07-02T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hatchproperty.co.nz/",
+  "email": "martin.thomas@wintec.ac.nz",
+  "address": {
+    "line1": "181 Collingwood Street",
+    "line2": " ",
+    "suburb": "Hamilton Lake",
+    "city": "Hamilton",
+    "postcode": "3204"
+  },
+  "nzbn": "9429047531338",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/hatchpropertynz/?ref=bookmarks",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-01T20:39:59Z"
+}

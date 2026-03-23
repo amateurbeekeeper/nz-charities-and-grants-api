@@ -1,0 +1,27 @@
+{
+  "id": 45435,
+  "registrationNumber": "CC33157",
+  "name": "Otautau Community Swimming Pool Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jenny.paterson@hotmail.co.nz",
+  "address": {
+    "line1": "410 Lower Scotts Gap Road",
+    "line2": "RD 2",
+    "suburb": "Waikouro",
+    "city": "Otautau",
+    "postcode": "9682"
+  },
+  "nzbn": "9429043204755",
+  "financialYearEnd": "31/5",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Otautau Swimming Pool",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-19T04:27:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67120,
+  "registrationNumber": "CC53400",
+  "name": "Fale Pasifika Horowhenua",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2016-04-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "suehtp@horowhenua.govt.nz",
+  "address": {
+    "line1": "85 McLeavey Road",
+    "line2": "RD 20",
+    "suburb": "Ohau",
+    "city": "Levin",
+    "postcode": "5570"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": true,
+  "social": {
+    "facebook": "https://www.facebook.com/FalePasifikaHorowhenua/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T18:57:48Z"
+}

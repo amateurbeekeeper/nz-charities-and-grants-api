@@ -1,0 +1,27 @@
+{
+  "id": 75556,
+  "registrationNumber": "CC62003",
+  "name": "Kāpiti Art Studio",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-02-19T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kapitiartstudio.org",
+  "email": "bondie12321@gmail.com",
+  "address": {
+    "line1": "23 Ashleigh Way",
+    "line2": " ",
+    "suburb": "Waikanae Beach",
+    "city": "Waikanae",
+    "postcode": "5036"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Kapiti Art Studio",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-23T18:17:14Z"
+}

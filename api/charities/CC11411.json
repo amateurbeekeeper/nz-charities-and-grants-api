@@ -1,0 +1,27 @@
+{
+  "id": 52253,
+  "registrationNumber": "CC11411",
+  "name": "Pukeiti Rhododendron Trust Incorporated",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.pukeiti.com",
+  "email": "pukeiti@pukeiti.com",
+  "address": {
+    "line1": "2290 Carrington Road",
+    "line2": "RD 4",
+    "suburb": " ",
+    "city": "New Plymouth",
+    "postcode": "4374"
+  },
+  "nzbn": "9429042806516",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/PukeitiRhododendronTrust",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T18:04:21Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 55709,
+  "registrationNumber": "CC40132",
+  "name": "Te Korowai Roopu Tautoko Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://tekorowai.co.nz",
+  "email": "selina@tekorowai.co.nz",
+  "address": {
+    "line1": "80 Tūwharetoa Street",
+    "line2": "Taupo 3330",
+    "suburb": " ",
+    "city": "Taupo",
+    "postcode": "3330"
+  },
+  "nzbn": "9429042863885",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": "Te Korowai Roopu Tautoko Inc.",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-04T01:13:07Z"
+}

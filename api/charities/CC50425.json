@@ -1,0 +1,27 @@
+{
+  "id": 32588,
+  "registrationNumber": "CC50425",
+  "name": "Journey New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-03-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "info@journeynz.org",
+  "address": {
+    "line1": "550A Finnis Road",
+    "line2": "RD 5",
+    "suburb": "Pohangina",
+    "city": "Feilding",
+    "postcode": "4775"
+  },
+  "nzbn": "9429042762744",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T23:14:24Z"
+}

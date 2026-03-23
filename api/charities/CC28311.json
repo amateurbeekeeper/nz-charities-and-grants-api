@@ -1,0 +1,27 @@
+{
+  "id": 60461,
+  "registrationNumber": "CC28311",
+  "name": "Canterbury Society Of Arts Charitable Trust",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.coca.org.nz",
+  "email": "sarah@coca.org.nz",
+  "address": {
+    "line1": "66 Gloucester Street",
+    "line2": " ",
+    "suburb": "Christchurch Central",
+    "city": "Christchurch",
+    "postcode": "8013"
+  },
+  "nzbn": "9429042930556",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-03T03:26:58Z"
+}

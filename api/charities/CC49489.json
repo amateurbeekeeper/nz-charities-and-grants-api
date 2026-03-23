@@ -1,0 +1,27 @@
+{
+  "id": 35348,
+  "registrationNumber": "CC49489",
+  "name": "NZ Spina Bifida Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2013-07-26T00:00:00Z",
+  "dateDeregistered": "2021-01-22T00:00:00Z",
+  "website": "https://www.spinabifida.org.nz",
+  "email": "NZ.SpinaBifidaTrust@gmail.com",
+  "address": {
+    "line1": "14 Witheford Drive",
+    "line2": " ",
+    "suburb": "Bayview",
+    "city": "Auckland",
+    "postcode": "0629"
+  },
+  "nzbn": "9429042776215",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "www.facebook.com/groups/SpinabifidaNZ",
+    "twitter": null
+  },
+  "lastUpdated": "2023-12-04T03:47:46Z"
+}

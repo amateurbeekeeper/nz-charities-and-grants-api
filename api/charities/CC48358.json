@@ -1,0 +1,27 @@
+{
+  "id": 32768,
+  "registrationNumber": "CC48358",
+  "name": "Tax Policy Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-08-13T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.taxpolicycharitabletrust.org.nz",
+  "email": "d.mclay@bcomm.nz",
+  "address": {
+    "line1": "45 Johnston Street",
+    "line2": "Level 7",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-28T20:19:21Z"
+}

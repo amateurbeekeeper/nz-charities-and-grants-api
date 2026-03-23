@@ -1,0 +1,27 @@
+{
+  "id": 37339,
+  "registrationNumber": "CC46746",
+  "name": "The Angelman Network",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-07-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.angelman.org.nz",
+  "email": "angelmannetwork@gmail.com",
+  "address": {
+    "line1": "21 Wilson Road",
+    "line2": "RD 1",
+    "suburb": " ",
+    "city": "Warkworth",
+    "postcode": "0981"
+  },
+  "nzbn": "9429043147991",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/theangelmannetwork/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-28T02:43:32Z"
+}

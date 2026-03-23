@@ -1,0 +1,27 @@
+{
+  "id": 34369,
+  "registrationNumber": "CC50625",
+  "name": "Marist Brothers Champagnat Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2014-06-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.maristbrothers.org.nz",
+  "email": "dbs@fmspacific.com",
+  "address": {
+    "line1": "Unit 1",
+    "line2": "381 Great South Road",
+    "suburb": "Ellerslie",
+    "city": "Auckland",
+    "postcode": "1051"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-01T06:11:56Z"
+}

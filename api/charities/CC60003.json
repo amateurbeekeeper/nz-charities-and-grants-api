@@ -1,0 +1,27 @@
+{
+  "id": 73613,
+  "registrationNumber": "CC60003",
+  "name": "Hohepa Residential Limited",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2022-02-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "iain.worsley@hohepa.com",
+  "address": {
+    "line1": "PO Box 3",
+    "line2": null,
+    "suburb": " ",
+    "city": "Clive",
+    "postcode": "4148"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-13T02:47:25Z"
+}

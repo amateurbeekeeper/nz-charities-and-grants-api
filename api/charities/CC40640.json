@@ -1,0 +1,27 @@
+{
+  "id": 61877,
+  "registrationNumber": "CC40640",
+  "name": "Feilding Lifepoint Church",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "jrstephens@xtra.co.nz",
+  "address": {
+    "line1": "116 Derby Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Feilding",
+    "postcode": "4702"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/7",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Feilding Lifepoint Church",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:40:55Z"
+}

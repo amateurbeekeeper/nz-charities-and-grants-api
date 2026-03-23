@@ -1,0 +1,27 @@
+{
+  "id": 50512,
+  "registrationNumber": "CC44266",
+  "name": "Living Waters Christian Church",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2010-05-20T00:00:00Z",
+  "dateDeregistered": "2015-01-26T00:00:00Z",
+  "website": null,
+  "email": "sola.chand@xtra.co.nz",
+  "address": {
+    "line1": "6 Bolton Place",
+    "line2": null,
+    "suburb": "Otara",
+    "city": "Auckland",
+    "postcode": "2023"
+  },
+  "nzbn": "9429043229727",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2018-01-09T03:30:24Z"
+}

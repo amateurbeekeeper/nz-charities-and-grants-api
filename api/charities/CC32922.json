@@ -1,0 +1,27 @@
+{
+  "id": 60944,
+  "registrationNumber": "CC32922",
+  "name": "County Fayre Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "kim.valleyview@inspire.net.nz",
+  "address": {
+    "line1": "976 Finnis Road",
+    "line2": "Pohangina 4884",
+    "suburb": "Ashhurst",
+    "city": "Pohangina",
+    "postcode": "4884"
+  },
+  "nzbn": "9429042665397",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "CountyFayre@Pohangina",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-09T01:51:07Z"
+}

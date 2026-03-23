@@ -1,0 +1,27 @@
+{
+  "id": 34557,
+  "registrationNumber": "CC50949",
+  "name": "Kerikeri Theatre Company Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2014-08-06T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kerikeritheatrecompany.com",
+  "email": "info@kerikeritheatrecompany.com",
+  "address": {
+    "line1": "17 B&C ",
+    "line2": "Sammaree Place ",
+    "suburb": " ",
+    "city": "Kerikeri ",
+    "postcode": "0245"
+  },
+  "nzbn": "9429042653875",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/KerikeriTheatreCompany/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-25T22:30:36Z"
+}

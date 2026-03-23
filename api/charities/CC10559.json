@@ -1,0 +1,27 @@
+{
+  "id": 51807,
+  "registrationNumber": "CC10559",
+  "name": "Search And Rescue Institute New Zealand (SARINZ) Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-04T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sarinztrust.com",
+  "email": "Roscoe.Tait@gmail.com",
+  "address": {
+    "line1": "22 Croydon Street",
+    "line2": " ",
+    "suburb": "Karori",
+    "city": "Wellington",
+    "postcode": "6012"
+  },
+  "nzbn": "9429043058624",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-06T00:41:08Z"
+}

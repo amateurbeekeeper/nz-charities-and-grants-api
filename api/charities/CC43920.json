@@ -1,0 +1,27 @@
+{
+  "id": 46869,
+  "registrationNumber": "CC43920",
+  "name": "New Zealand Bridge Foundation",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2010-03-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "secretary@nzbridge.co.nz",
+  "address": {
+    "line1": "PO Box 5242",
+    "line2": "Terrace End",
+    "suburb": " ",
+    "city": "Palmerston North",
+    "postcode": "4441"
+  },
+  "nzbn": "9429043203062",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-28T07:11:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 57152,
+  "registrationNumber": "CC26902",
+  "name": "Soshi Gakuen New Zealand Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.ipu.ac.nz",
+  "email": "finance@ipu.ac.nz",
+  "address": {
+    "line1": "57 Aokautere Drive",
+    "line2": "RD 2",
+    "suburb": "Fitzherbert",
+    "city": "Palmerston North",
+    "postcode": "4410"
+  },
+  "nzbn": "9429042664413",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-12T03:51:21Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 54874,
+  "registrationNumber": "CC27335",
+  "name": "Invercargill Toy And Puzzle Library Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://invercargilltoylibrary.mibase.co.nz/home/index.php",
+  "email": "toylibraryinvercargill@gmail.com",
+  "address": {
+    "line1": "100 Russel Street",
+    "line2": null,
+    "suburb": "Gladstone",
+    "city": "Invercargill",
+    "postcode": "9810"
+  },
+  "nzbn": "9429042637790",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/invercargilltoylibrary/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-02T20:13:05Z"
+}

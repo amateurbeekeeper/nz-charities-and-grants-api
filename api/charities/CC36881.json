@@ -1,0 +1,27 @@
+{
+  "id": 49737,
+  "registrationNumber": "CC36881",
+  "name": "Peninsula Community Pre-school Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2009-01-15T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.peninsulaearlylearning.nz",
+  "email": "preschool@peninsulaearlylearning.nz",
+  "address": {
+    "line1": "2A Kinghorne Street",
+    "line2": " ",
+    "suburb": "Strathmore Park",
+    "city": "Wellington",
+    "postcode": "6022"
+  },
+  "nzbn": "9429043132232",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "peninsulaearlylearningnz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-08T20:16:37Z"
+}

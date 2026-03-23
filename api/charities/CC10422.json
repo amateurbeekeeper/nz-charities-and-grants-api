@@ -1,0 +1,27 @@
+{
+  "id": 51357,
+  "registrationNumber": "CC10422",
+  "name": "Te Hauora o Ngati Haua Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-06-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.tehauora.co.nz",
+  "email": "josie@tehauora.co.nz",
+  "address": {
+    "line1": "2 Cadman Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waharoa",
+    "postcode": "3401"
+  },
+  "nzbn": "9429042961567",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-02T02:46:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75975,
+  "registrationNumber": "CC62432",
+  "name": "Spinnaker Foundation",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2024-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "paul@reesby.co.nz",
+  "address": {
+    "line1": "30 Vine Street",
+    "line2": " ",
+    "suburb": "Saint Marys Bay",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-11T19:27:22Z"
+}

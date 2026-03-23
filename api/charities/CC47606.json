@@ -1,0 +1,27 @@
+{
+  "id": 37923,
+  "registrationNumber": "CC47606",
+  "name": "Te Iwi o Ngāti Kahu Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2011-11-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.ngatikahu.iwi.nz",
+  "email": "nkcfo@ngatikahu.iwi.nz",
+  "address": {
+    "line1": "Level 1",
+    "line2": " 58 Ormiston Road",
+    "suburb": "East Tamaki",
+    "city": "Auckland",
+    "postcode": "2019"
+  },
+  "nzbn": "9429042860037",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": true,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-03-24T18:23:08Z"
+}

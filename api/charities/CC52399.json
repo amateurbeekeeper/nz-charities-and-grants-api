@@ -1,0 +1,27 @@
+{
+  "id": 66130,
+  "registrationNumber": "CC52399",
+  "name": "Outerspaces Charitable Trust",
+  "status": "Deregistered",
+  "type": "0",
+  "dateRegistered": "2015-09-25T00:00:00Z",
+  "dateDeregistered": "2021-09-25T00:00:00Z",
+  "website": "https://outerspaces.org.nz",
+  "email": "jevon@outerspaces.org.nz",
+  "address": {
+    "line1": "Level 3",
+    "line2": "138 Wakefield Street",
+    "suburb": " Te Aro",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": "https://facebook.com/outerspacesnz",
+    "twitter": "https://twitter.com/outerspacesnz"
+  },
+  "lastUpdated": "2021-10-07T00:45:23Z"
+}

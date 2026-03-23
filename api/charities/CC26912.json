@@ -1,0 +1,27 @@
+{
+  "id": 55401,
+  "registrationNumber": "CC26912",
+  "name": "The New Zealand College Of Midwives (Incorporated)",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.midwife.org.nz",
+  "email": "lynda.o@nzcom.org.nz",
+  "address": {
+    "line1": "376 Manchester Street",
+    "line2": " ",
+    "suburb": "Saint Albans",
+    "city": "Christchurch",
+    "postcode": "8014"
+  },
+  "nzbn": "9429042782667",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/nzcom/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-18T02:01:13Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 77976,
+  "registrationNumber": "CC63780",
+  "name": "Kōmanawa Wesleyan Church Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-09-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.kwc.org.nz",
+  "email": "andrew@kwc.org.nz",
+  "address": {
+    "line1": "Flat 18A",
+    "line2": "150 Cavendish Road",
+    "suburb": "Casebrook",
+    "city": "Christchurch",
+    "postcode": "8051"
+  },
+  "nzbn": "9429053071934",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-28T02:05:34Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 49509,
+  "registrationNumber": "CC32327",
+  "name": "Eastern Bays Hospice Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.dovehospice.org.nz",
+  "email": "simon.jones@dovehospice.org.nz",
+  "address": {
+    "line1": "St Andrews Village",
+    "line2": "St Andrews Village 207A Riddell Road",
+    "suburb": "Glendowie",
+    "city": "Auckland",
+    "postcode": "1071"
+  },
+  "nzbn": "9429042699668",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/dovehospice/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-09T21:11:12Z"
+}

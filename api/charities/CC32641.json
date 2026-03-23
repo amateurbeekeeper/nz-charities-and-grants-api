@@ -1,0 +1,27 @@
+{
+  "id": 48419,
+  "registrationNumber": "CC32641",
+  "name": "Omanu Beach Surf Life Saving Club Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.omanubeach.co.nz",
+  "email": "admin@omanubeach.co.nz",
+  "address": {
+    "line1": "15 Surf Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Mount Maunganui",
+    "postcode": "3116"
+  },
+  "nzbn": "9429042963196",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/OmanuBeach.co.nz",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-17T18:31:44Z"
+}

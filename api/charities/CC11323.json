@@ -1,0 +1,27 @@
+{
+  "id": 52106,
+  "registrationNumber": "CC11323",
+  "name": "Restaurant Association Education Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-10-09T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.restaurantnz.co.nz",
+  "email": "Nicola@restaurantnz.co.nz",
+  "address": {
+    "line1": "RESTAURANT ASSOCIATION EDUCATION TRUST",
+    "line2": "45 Normanby Road",
+    "suburb": "Mount Eden",
+    "city": "Auckland",
+    "postcode": "1024"
+  },
+  "nzbn": "9429042998037",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.restaurantnz.co.nz/education-training/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-26T04:31:22Z"
+}

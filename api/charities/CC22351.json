@@ -1,0 +1,27 @@
+{
+  "id": 54974,
+  "registrationNumber": "CC22351",
+  "name": "The Little Flower Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-31T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "catherine.savage@me.com",
+  "address": {
+    "line1": "LEVEL 2   Woodward HOUSE",
+    "line2": "1 Woodward Street",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042929826",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-16T19:48:09Z"
+}

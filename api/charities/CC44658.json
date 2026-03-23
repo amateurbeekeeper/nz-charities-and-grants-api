@@ -1,0 +1,27 @@
+{
+  "id": 35650,
+  "registrationNumber": "CC44658",
+  "name": "Kinder House Society Inc",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-07-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.kinder.org.nz",
+  "email": "kinder_house@xtra.co.nz",
+  "address": {
+    "line1": "KINDER HOUSE SOCIETY",
+    "line2": "2 Ayr Street",
+    "suburb": "Parnell",
+    "city": "Auckland",
+    "postcode": "1052"
+  },
+  "nzbn": "9429042655596",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/kinderhouse/?",
+    "twitter": "@JohnKinderHous1."
+  },
+  "lastUpdated": "2026-01-16T00:55:58Z"
+}

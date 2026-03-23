@@ -1,0 +1,27 @@
+{
+  "id": 73534,
+  "registrationNumber": "CC59765",
+  "name": "Sounds of the Shore Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-12-22T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://soundsoftheshorechorus.com",
+  "email": "richard.harker.nz@gmail.com",
+  "address": {
+    "line1": "164 Chelsea View Drive",
+    "line2": " ",
+    "suburb": "Chatswood",
+    "city": "Auckland",
+    "postcode": "0626"
+  },
+  "nzbn": "9429049273786",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Soundsoftheshore",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T18:29:11Z"
+}

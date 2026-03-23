@@ -1,0 +1,27 @@
+{
+  "id": 68539,
+  "registrationNumber": "CC54870",
+  "name": "Health and Safety Association of New Zealand Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2017-10-24T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.hasanz.org.nz",
+  "email": "bronwyn.presland@hasanz.org.nz",
+  "address": {
+    "line1": "Berl House, Level 6, Room 6.14",
+    "line2": "108 The Terrace",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429043258710",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Health-and-Safety-Association-of-NZ-795068017500985/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-16T06:05:29Z"
+}

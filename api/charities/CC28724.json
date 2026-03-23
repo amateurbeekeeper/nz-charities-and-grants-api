@@ -1,0 +1,27 @@
+{
+  "id": 60655,
+  "registrationNumber": "CC28724",
+  "name": "Bethany Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "bethanytrusttreasurer@rscc.co.nz",
+  "address": {
+    "line1": "24 Raleigh Street",
+    "line2": "24-26 Raleigh Street",
+    "suburb": "Leamington",
+    "city": "Cambridge",
+    "postcode": "3432"
+  },
+  "nzbn": "9429042592549",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-28T18:02:51Z"
+}

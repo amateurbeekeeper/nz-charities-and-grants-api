@@ -1,0 +1,27 @@
+{
+  "id": 65275,
+  "registrationNumber": "CC51503",
+  "name": "First Presbyterian Church Papakura",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-03-16T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.firstchurchpapakura.org.nz",
+  "email": "hsiuju.fern@gmail.com",
+  "address": {
+    "line1": "2 Coles Crescent",
+    "line2": "Papakura 2110",
+    "suburb": " ",
+    "city": "Papakura",
+    "postcode": "2110"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-08T02:42:52Z"
+}

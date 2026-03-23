@@ -1,0 +1,27 @@
+{
+  "id": 43434,
+  "registrationNumber": "CC29252",
+  "name": "Otorohanga Volunteer Fire Brigade",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "nigel.drinkwater@fireandemergency.nz",
+  "address": {
+    "line1": "11 Ballance Street",
+    "line2": " ",
+    "suburb": "Ōtorohanga",
+    "city": "Otorohanga",
+    "postcode": "3900"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-07T18:33:05Z"
+}

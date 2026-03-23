@@ -1,0 +1,27 @@
+{
+  "id": 49590,
+  "registrationNumber": "CC30228",
+  "name": "Herne Bay Playcentre",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": "2025-10-31T00:00:00Z",
+  "website": "https://www.playcentre.org.nz/centre/herne-bay/",
+  "email": "senatemakape@gmail.com",
+  "address": {
+    "line1": "211 Jervois Road",
+    "line2": " ",
+    "suburb": "Herne Bay",
+    "city": "Auckland",
+    "postcode": "1011"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/8",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-18T06:03:32Z"
+}

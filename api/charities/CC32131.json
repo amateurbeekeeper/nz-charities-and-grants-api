@@ -1,0 +1,27 @@
+{
+  "id": 40497,
+  "registrationNumber": "CC32131",
+  "name": "LifeSwitch Community Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.lifeswitch.org.nz",
+  "email": "laurel@lifeswitch.org.nz",
+  "address": {
+    "line1": "3 Reynolds Bach Drive",
+    "line2": " ",
+    "suburb": "Stokes Valley",
+    "city": "Lower Hutt",
+    "postcode": "5019"
+  },
+  "nzbn": "9429042804390",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-04T23:20:53Z"
+}

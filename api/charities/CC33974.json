@@ -1,0 +1,27 @@
+{
+  "id": 46525,
+  "registrationNumber": "CC33974",
+  "name": "Canterbury Genealogy Society Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://canterburygenealogy.org.nz",
+  "email": "mcdees50@gmail.com",
+  "address": {
+    "line1": "75 Queenspark Drive",
+    "line2": " ",
+    "suburb": "Parklands",
+    "city": "Christchurch",
+    "postcode": "8083"
+  },
+  "nzbn": "9429050551477",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/CanterburyNZGenealogy/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-14T22:41:22Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66656,
+  "registrationNumber": "CC52925",
+  "name": "Tauranga Land Search and Rescue Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2016-02-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://taurangalandsar.org.nz",
+  "email": "karl@tcob.kiwi",
+  "address": {
+    "line1": "unit 7 212 Chadwick Road",
+    "line2": " ",
+    "suburb": "Greerton",
+    "city": "Tauranga",
+    "postcode": "3112"
+  },
+  "nzbn": "9429043296880",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/TaurangaLandSAR",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-16T19:40:04Z"
+}

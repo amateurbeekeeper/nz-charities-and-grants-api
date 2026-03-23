@@ -1,0 +1,27 @@
+{
+  "id": 33010,
+  "registrationNumber": "CC48704",
+  "name": "C3 New Zealand Pacific Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2012-10-10T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "sarah@tekainga.org.nz",
+  "address": {
+    "line1": "P O 10053 Bayfair",
+    "line2": " ",
+    "suburb": "Mount Mauganui",
+    "city": "Tauranga",
+    "postcode": "3116"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://www.facebook.com/c3pacific",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-14T18:51:55Z"
+}

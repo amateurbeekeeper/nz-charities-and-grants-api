@@ -1,0 +1,27 @@
+{
+  "id": 45598,
+  "registrationNumber": "CC34110",
+  "name": "Friends of Saint Paul's Catholic School",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "fosp@stpauls-richmond.school.nz",
+  "address": {
+    "line1": "63 Salisbury Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Richmond",
+    "postcode": "7020"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-01T06:33:04Z"
+}

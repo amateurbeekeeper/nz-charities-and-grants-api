@@ -1,0 +1,27 @@
+{
+  "id": 51577,
+  "registrationNumber": "CC21602",
+  "name": "Rotorua Community Hospice Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-03-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.rotoruahospice.co.nz",
+  "email": "ceo@rotoruahospice.co.nz",
+  "address": {
+    "line1": "1469 Hinemoa Street",
+    "line2": "Rotorua 3010",
+    "suburb": " ",
+    "city": "Rotorua",
+    "postcode": "3010"
+  },
+  "nzbn": "9429042816737",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "www.facebook.com/RotoruaHospice",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-18T01:31:58Z"
+}

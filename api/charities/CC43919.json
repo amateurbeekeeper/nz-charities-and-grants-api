@@ -1,0 +1,27 @@
+{
+  "id": 50339,
+  "registrationNumber": "CC43919",
+  "name": "Soroptimist International Of Christchurch",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2010-03-29T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.sianz.co.nz/si-christchurch",
+  "email": "Jomitchell999@gmail.com",
+  "address": {
+    "line1": "129 Rose Street",
+    "line2": " ",
+    "suburb": "Somerfield",
+    "city": "Christchurch",
+    "postcode": "8024"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/SIChristchurch",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-21T01:46:35Z"
+}

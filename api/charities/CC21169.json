@@ -1,0 +1,27 @@
+{
+  "id": 54387,
+  "registrationNumber": "CC21169",
+  "name": "Powerhouse Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-02-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "admin@powerhouselodge.nz",
+  "address": {
+    "line1": "114 Hummocks Road",
+    "line2": "Lake Coleridge 7572",
+    "suburb": "Cashmere",
+    "city": "Lake Coleridge",
+    "postcode": "7572"
+  },
+  "nzbn": "9429043011278",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-18T22:56:24Z"
+}

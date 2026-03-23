@@ -1,0 +1,27 @@
+{
+  "id": 71745,
+  "registrationNumber": "CC58133",
+  "name": "Maia Collective",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2020-08-07T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.maiacollective.co.nz",
+  "email": "messagemaia@gmail.com",
+  "address": {
+    "line1": "6 Austin Brave Place",
+    "line2": " ",
+    "suburb": "Favona",
+    "city": "Auckland",
+    "postcode": "2024"
+  },
+  "nzbn": "9429048430241",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MaiaCollectiveAotearoa/",
+    "twitter": null
+  },
+  "lastUpdated": "2025-12-31T01:57:04Z"
+}

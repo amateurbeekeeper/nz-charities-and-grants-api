@@ -1,0 +1,27 @@
+{
+  "id": 41098,
+  "registrationNumber": "CC40740",
+  "name": "Bridge to C Ministry",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2024-08-23T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.bridgetoc.co.nz",
+  "email": "service@bridgetoc.co.nz",
+  "address": {
+    "line1": "PO Box 26249",
+    "line2": " ",
+    "suburb": "Epsom",
+    "city": "Auckland",
+    "postcode": "1344"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "N/A",
+    "twitter": "N/A"
+  },
+  "lastUpdated": "2026-02-04T20:55:12Z"
+}

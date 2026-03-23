@@ -1,0 +1,27 @@
+{
+  "id": 64778,
+  "registrationNumber": "CC29360",
+  "name": "Church on Vogel",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "www.churchonvogel.co.nz",
+  "email": "office@cov.org.nz",
+  "address": {
+    "line1": "127 Vogel Street",
+    "line2": " ",
+    "suburb": "Roslyn",
+    "city": "Palmerston North",
+    "postcode": "4414"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-07-08T19:40:40Z"
+}

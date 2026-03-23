@@ -1,0 +1,27 @@
+{
+  "id": 48186,
+  "registrationNumber": "CC30231",
+  "name": "Almanar Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://almanar.co.nz",
+  "email": "admin@almanar.co.nz",
+  "address": {
+    "line1": "72 Carr Road",
+    "line2": " ",
+    "suburb": "Mount Roskill",
+    "city": "Auckland",
+    "postcode": "1041"
+  },
+  "nzbn": "9429042946083",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-06-27T03:04:36Z"
+}

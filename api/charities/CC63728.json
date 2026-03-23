@@ -1,0 +1,27 @@
+{
+  "id": 77925,
+  "registrationNumber": "CC63728",
+  "name": "Feed a Bro on the Road",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2025-09-12T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "yashaya@outlook.co.nz",
+  "address": {
+    "line1": "PO Box 42037",
+    "line2": "Tower Junction",
+    "suburb": "Addington",
+    "city": "Christchurch",
+    "postcode": "8149"
+  },
+  "nzbn": "9429053287960",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/flow.waaka",
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-30T21:28:59Z"
+}

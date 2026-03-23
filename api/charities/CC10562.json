@@ -1,0 +1,27 @@
+{
+  "id": 51834,
+  "registrationNumber": "CC10562",
+  "name": "The J R McKenzie Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2007-07-05T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.jrmckenzie.org.nz",
+  "email": "tania@jrmckenzie.org.nz",
+  "address": {
+    "line1": "Level 7",
+    "line2": "86 Lambton Quay",
+    "suburb": "Wellington Central",
+    "city": "Wellington",
+    "postcode": "6011"
+  },
+  "nzbn": "9429042648024",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2025-11-11T01:16:43Z"
+}

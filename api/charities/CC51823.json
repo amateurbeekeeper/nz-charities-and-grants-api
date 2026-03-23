@@ -1,0 +1,27 @@
+{
+  "id": 65577,
+  "registrationNumber": "CC51823",
+  "name": "Knox Presbyterian Church Waitara",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2015-05-25T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.waitara.org.nz",
+  "email": "gjarms50@gmail.com",
+  "address": {
+    "line1": "17 Grey street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Waitara",
+    "postcode": "4320"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Knox Church Waitara",
+    "twitter": null
+  },
+  "lastUpdated": "2025-10-05T18:53:52Z"
+}

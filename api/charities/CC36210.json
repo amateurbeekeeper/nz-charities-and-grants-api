@@ -1,0 +1,27 @@
+{
+  "id": 39278,
+  "registrationNumber": "CC36210",
+  "name": "Birthright Levin Incorporated",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.birthright.org.nz",
+  "email": "emmakatene.birthright@gmail.com",
+  "address": {
+    "line1": "32 Bristol Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Levin",
+    "postcode": "5510"
+  },
+  "nzbn": "9429042597476",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-14T19:58:57Z"
+}

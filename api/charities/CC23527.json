@@ -1,0 +1,27 @@
+{
+  "id": 55375,
+  "registrationNumber": "CC23527",
+  "name": "The Cawthron Institute Trust Board",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-04-28T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.cawthron.org.nz",
+  "email": "admin@cawthron.org.nz",
+  "address": {
+    "line1": "98 Halifax Street East",
+    "line2": " ",
+    "suburb": "The Wood",
+    "city": "Nelson",
+    "postcode": "7010"
+  },
+  "nzbn": "9429030882003",
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-27T02:46:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42169,
+  "registrationNumber": "CC23215",
+  "name": "The South Waikato Branch Of The Royal New Zealand Society For The Prevention Of Cruelty To Animals Incorporated",
+  "status": "Deregistered",
+  "type": "1",
+  "dateRegistered": "2008-04-20T00:00:00Z",
+  "dateDeregistered": "2019-02-28T00:00:00Z",
+  "website": "www.spca.nz",
+  "email": "tony.lemmens@spca.nz",
+  "address": {
+    "line1": "16 Giles Street",
+    "line2": null,
+    "suburb": " ",
+    "city": "Tokoroa",
+    "postcode": "3420"
+  },
+  "nzbn": "9429043119301",
+  "financialYearEnd": "31/10",
+  "kaupapaMaori": null,
+  "pasifika": null,
+  "social": {
+    "facebook": null,
+    "twitter": null
+  },
+  "lastUpdated": "2019-04-08T20:46:16Z"
+}

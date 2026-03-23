@@ -1,0 +1,27 @@
+{
+  "id": 66316,
+  "registrationNumber": "CC52583",
+  "name": "Immerse Charitable Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2015-09-11T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://www.immerse.nz",
+  "email": "ursula.elisara@immerse.nz",
+  "address": {
+    "line1": "1C/ 3 Ceres Court",
+    "line2": " Rosedale",
+    "suburb": "Albany",
+    "city": "Auckland",
+    "postcode": "0632"
+  },
+  "nzbn": "9429043297351",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/Immerse.org.nz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-13T21:22:25Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41423,
+  "registrationNumber": "CC24625",
+  "name": "Make A Wish Foundation of New Zealand Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-20T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.makeawish.org.nz",
+  "email": "tony@makeawish.org.nz",
+  "address": {
+    "line1": "Unit 302",
+    "line2": "27 Gillies Avenue",
+    "suburb": "Newmarket",
+    "city": "Auckland",
+    "postcode": "1023"
+  },
+  "nzbn": "9429042762881",
+  "financialYearEnd": "31/12",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/MakeAWishFoundationNZ/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-01-28T04:02:08Z"
+}

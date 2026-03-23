@@ -1,0 +1,27 @@
+{
+  "id": 45331,
+  "registrationNumber": "CC29505",
+  "name": "Okaihau Volunteer Fire Brigade ",
+  "status": "Registered",
+  "type": "1",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": null,
+  "email": "karen.mudgway@fireandemergency.nz",
+  "address": {
+    "line1": "7 Lake Road",
+    "line2": null,
+    "suburb": " ",
+    "city": "Okaihau",
+    "postcode": "0475"
+  },
+  "nzbn": null,
+  "financialYearEnd": "30/6",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "Okaihau Volunteer Fire Brigade",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-12T19:09:24Z"
+}

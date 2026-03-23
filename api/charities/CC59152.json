@@ -1,0 +1,27 @@
+{
+  "id": 72753,
+  "registrationNumber": "CC59152",
+  "name": "Guardians of the Ruakituri Incorporated",
+  "status": "Registered",
+  "type": null,
+  "dateRegistered": "2021-04-14T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "https://ruakituriguardians.com",
+  "email": "di@beyondevents.co.nz",
+  "address": {
+    "line1": "1149 Ruakituri Road",
+    "line2": "RD 5",
+    "suburb": "Ruakituri",
+    "city": "Wairoa",
+    "postcode": "4195"
+  },
+  "nzbn": "9429049234145",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/environmental.Farmers",
+    "twitter": null
+  },
+  "lastUpdated": "2025-09-14T19:58:39Z"
+}

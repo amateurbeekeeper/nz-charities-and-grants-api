@@ -1,0 +1,27 @@
+{
+  "id": 75894,
+  "registrationNumber": "CC62348",
+  "name": "The Kiwi Kitty Kartel",
+  "status": "Deregistered",
+  "type": null,
+  "dateRegistered": "2024-06-03T00:00:00Z",
+  "dateDeregistered": "2025-07-31T00:00:00Z",
+  "website": null,
+  "email": "kiwikittykartel@gmail.com",
+  "address": {
+    "line1": "6 Surrey Street",
+    "line2": " ",
+    "suburb": "Pātea",
+    "city": "Patea",
+    "postcode": "4520"
+  },
+  "nzbn": null,
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/kiwikittykartel",
+    "twitter": null
+  },
+  "lastUpdated": "2025-08-05T07:10:32Z"
+}

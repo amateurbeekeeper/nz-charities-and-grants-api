@@ -1,0 +1,27 @@
+{
+  "id": 60662,
+  "registrationNumber": "CC28292",
+  "name": "Christian Surfers New Zealand",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-06-30T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://www.christiansurfers.org.nz",
+  "email": "logan@christiansurfers.org.nz",
+  "address": {
+    "line1": "226 Gravatt Road",
+    "line2": " ",
+    "suburb": "Papamoa Beach",
+    "city": "Papamoa",
+    "postcode": "3118"
+  },
+  "nzbn": "9429042616078",
+  "financialYearEnd": "31/3",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "https://www.facebook.com/christiansurfersnz/",
+    "twitter": null
+  },
+  "lastUpdated": "2026-03-03T22:25:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41755,
+  "registrationNumber": "CC25007",
+  "name": "Sir Peter Blake Trust",
+  "status": "Registered",
+  "type": "0",
+  "dateRegistered": "2008-05-27T00:00:00Z",
+  "dateDeregistered": null,
+  "website": "http://blakenz.org",
+  "email": "sue@blakenz.org",
+  "address": {
+    "line1": "175 Quay Street",
+    "line2": "Viaduct Harbour Corner Quay And Hobson",
+    "suburb": " ",
+    "city": "Auckland",
+    "postcode": "1010"
+  },
+  "nzbn": "9429043107186",
+  "financialYearEnd": "30/9",
+  "kaupapaMaori": false,
+  "pasifika": false,
+  "social": {
+    "facebook": "http://facebook.com/blakenewzealand",
+    "twitter": null
+  },
+  "lastUpdated": "2026-02-16T21:55:06Z"
+}
