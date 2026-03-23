@@ -1,162 +1,167 @@
-# nz-charities-api
+# New Zealand Charities & Grants — Free Public API
 
-A free, open, static REST API for every registered charity in New Zealand — all **45,000+** of them.
+The most complete, free, open database of New Zealand charities and grants.
 
-No auth. No rate limits. No cost. Just JSON.
+Whether you're looking for a charity to donate to, a grant to apply for, or you're a developer building something for the NZ community sector — this is for you.
 
-**Base URL:** `https://amateurbeekeeper.github.io/nz-charities-api`
+- 45,000+ charities — every organisation registered with Charities Services NZ
+- Grants coming soon — Creative NZ, Lotteries, Foundation North, and more
+- Completely free — no account, no API key, no cost, ever
+- Always up to date — refreshed directly from the official NZ government register
+
+## [→ Visit the live site](https://amateurbeekeeper.github.io/nz-charities-and-grants-api)
+
+## [→ Browse the full charities dataset](https://amateurbeekeeper.github.io/nz-charities-and-grants-api/api/charities.json)
 
 ---
 
-## Endpoints
+![NZ Charities & Grants API homepage](docs/screenshot-homepage.png)
+
+---
+
+## Who is this for?
+
+### Individuals
+
+Looking for a cause to support? Search 45,000+ registered New Zealand charities by name, city, or what they do. Find contact details, websites, and more.
+
+### Grant seekers
+
+Trying to find funding for your project or organisation? We're building a searchable database of every major NZ grant — who can apply, how much, and when applications close.
+
+### Developers and researchers
+
+Building an app, doing research, or working with NZ charity data? Use our free REST API — no sign-up required. Just fetch JSON.
+
+### AI and data tools
+
+Every endpoint is designed to be easily readable by AI models and data pipelines. Full schema documentation and an `llms.txt` coming soon.
+
+---
+
+## What data is included?
+
+Each charity record includes:
+
+| Field | Description |
+| --- | --- |
+| Registration number | Unique CC number assigned by Charities Services |
+| Name | Legal name of the organisation |
+| Status | Whether currently registered or deregistered |
+| Address | Street, suburb, city, postcode |
+| Website | Official website if available |
+| Financial year end | When their financial year closes |
+| Kaupapa Māori | Whether the charity identifies as Kaupapa Māori |
+| Pasifika | Whether the charity identifies as Pasifika |
+| Date registered | When they first registered |
+| NZBN | New Zealand Business Number |
+
+---
+
+## API Endpoints
+
+Base URL: `https://amateurbeekeeper.github.io/nz-charities-and-grants-api`
 
 ### All charities
+
 ```
 GET /api/charities.json
 ```
-Returns all charities with a count.
 
-```json
-{
-  "count": 45250,
-  "charities": [...]
-}
-```
+Returns all 45,000+ charities as a JSON array.
 
----
+**[→ Try it in your browser](https://amateurbeekeeper.github.io/nz-charities-and-grants-api/api/charities.json)**
 
 ### Single charity by registration number
-```
-GET /api/charities/{CC_NUMBER}.json
-```
 
-```bash
-curl https://amateurbeekeeper.github.io/nz-charities-api/api/charities/CC10001.json
+```
+GET /api/charities/CC10001.json
 ```
 
-```json
-{
-  "id": 12345,
-  "registrationNumber": "CC10001",
-  "name": "Example Charity Trust",
-  "status": "Registered",
-  "type": "0",
-  "dateRegistered": "2003-01-01T00:00:00Z",
-  "dateDeregistered": null,
-  "website": "https://example.org.nz",
-  "email": null,
-  "address": {
-    "line1": "123 Main Street",
-    "line2": null,
-    "suburb": "Ponsonby",
-    "city": "Auckland",
-    "postcode": "1011"
-  },
-  "nzbn": "9429000000000",
-  "financialYearEnd": "31/3",
-  "kaupapaMaori": false,
-  "pasifika": false,
-  "social": {
-    "facebook": null,
-    "twitter": null
-  },
-  "lastUpdated": "2024-06-01T00:00:00Z"
-}
-```
+Returns one charity record by its CC number.
 
----
+**[→ See an example record](https://amateurbeekeeper.github.io/nz-charities-and-grants-api/api/charities/CC10001.json)**
 
-### Charities by city (index)
+### Browse by city
+
 ```
 GET /api/cities.json
 ```
 
-Returns all cities sorted by number of charities.
+Returns all cities with a count of charities in each.
 
-```json
-{
-  "cities": [
-    { "city": "Auckland", "count": 8201 },
-    { "city": "Wellington", "count": 3847 },
-    ...
-  ]
-}
-```
+**[→ Try it](https://amateurbeekeeper.github.io/nz-charities-and-grants-api/api/cities.json)**
 
----
+### Registration status breakdown
 
-### Registration statuses
 ```
 GET /api/statuses.json
 ```
 
-```json
-{
-  "statuses": {
-    "Registered": 28000,
-    "Deregistered": 17000
-  }
-}
+**[→ Try it](https://amateurbeekeeper.github.io/nz-charities-and-grants-api/api/statuses.json)**
+
+---
+
+## Code examples
+
+### JavaScript — find charities in a city
+
+```js
+const res = await fetch('https://amateurbeekeeper.github.io/nz-charities-and-grants-api/api/charities.json')
+const { charities } = await res.json()
+
+const christchurch = charities.filter(c => c.address.city === 'Christchurch')
+console.log(`${christchurch.length} charities in Christchurch`)
+```
+
+### JavaScript — look up a specific charity
+
+```js
+const res = await fetch('https://amateurbeekeeper.github.io/nz-charities-and-grants-api/api/charities/CC10001.json')
+const charity = await res.json()
+console.log(charity.name, charity.website)
 ```
 
 ---
 
-## Data
+## Coming soon
 
-- **Source:** [Charities Services NZ OData API](https://www.charities.govt.nz/charities-in-new-zealand/the-charities-register/open-data/)
-- **Coverage:** All registered and deregistered charities since the register began
-- **Fields:** Name, registration number, status, address, website, financial year end, Kaupapa Māori flag, Pasifika flag, NZBN, social media
+- **Grants database** — every major NZ grant, searchable by region and eligibility
+- **Donation finder** — a simple interface to find a charity to donate to
+- **Grant finder** — filter open grants by who can apply
+- **AI chat** — ask questions about the data in plain English
+- **Community corrections** — suggest updates to charity records
 
-### Refreshing the data
+[View all planned features →](https://github.com/amateurbeekeeper/nz-charities-and-grants-api/issues)
+
+---
+
+## Refreshing the data
+
+The data is fetched directly from the [Charities Services NZ OData API](https://www.charities.govt.nz/charities-in-new-zealand/the-charities-register/open-data/) and transformed into clean JSON.
 
 ```bash
+npm install
 npm run fetch
 git add api/
-git commit -m "Refresh charity data"
+git commit -m "Refresh data"
 git push
 ```
 
-The fetch script pulls directly from the Charities Services OData API, transforms the data into clean JSON, and writes it to the `api/` folder. Push to `main` and GitHub Pages serves it automatically.
+GitHub Pages deploys automatically on push.
 
 ---
 
-## Usage examples
+## Data source and licence
 
-### Fetch a charity in the browser
-```
-https://amateurbeekeeper.github.io/nz-charities-api/api/charities/CC10001.json
-```
+Data sourced from the [New Zealand Charities Register](https://www.charities.govt.nz), maintained by Charities Services — a business unit of Te Tari Taiwhenua, Department of Internal Affairs.
 
-### Fetch in JavaScript
-```js
-const res = await fetch('https://amateurbeekeeper.github.io/nz-charities-api/api/charities/CC10001.json')
-const charity = await res.json()
-console.log(charity.name)
-```
-
-### Search the full list
-```js
-const res = await fetch('https://amateurbeekeeper.github.io/nz-charities-api/api/charities.json')
-const { charities } = await res.json()
-const auckland = charities.filter(c => c.address.city === 'Auckland')
-```
-
----
-
-## Stack
-
-- **Data source:** Charities Services NZ OData API
-- **Transform:** TypeScript + Node.js
-- **Hosting:** GitHub Pages (free, static)
+Published under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) licence.
 
 ---
 
 ## Contributing
 
-PRs welcome. If you want to add more indexes (by region, Kaupapa Māori, Pasifika, etc.) edit `scripts/fetch.ts` and open a PR.
+Found an error? Want to add a feature? Open an issue or PR — contributions are welcome.
 
----
-
-## License
-
-Data is sourced from the New Zealand Charities Register and is publicly available under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) licence.
+[View open issues →](https://github.com/amateurbeekeeper/nz-charities-and-grants-api/issues)
